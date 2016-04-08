@@ -22712,8 +22712,11 @@
     "id": 21238,
     "title_chinese": "Unhappy♪",
     "title_japanese": "あんハピ♪",
-    "title_romaji": "Unhappy♪",
-    "title_english": "Anne-Happy"
+    "title_romaji": "Anne Happy",
+    "title_english": "Anne-Happy",
+    "synonyms": [
+      "Unhappy♪"
+    ]
   },
   {
     "id": 21239,
@@ -22933,7 +22936,12 @@
     "title_chinese": "JOKER GAME",
     "title_japanese": "ジョーカー・ゲーム",
     "title_romaji": "Joker Game",
-    "title_english": "JOKER GAME"
+    "title_english": "JOKER GAME",
+    "synonyms_chinese": [
+      "鬼牌遊戲",
+      "D機關",
+      "代號D機關"
+    ]
   },
   {
     "id": 21292,
@@ -22990,7 +22998,10 @@
     "title_chinese": "文豪Stray Dogs",
     "title_japanese": "文豪ストレイドッグス",
     "title_romaji": "Bungou Stray Dogs",
-    "title_english": "Bungo Stray Dogs"
+    "title_english": "Bungo Stray Dogs",
+    "synonyms_chinese": [
+      "文豪野犬"
+    ]
   },
   {
     "id": 21313,
@@ -23603,7 +23614,7 @@
     "title_chinese": "田中同學總是懶洋洋",
     "title_japanese": "田中くんはいつもけだるげ",
     "title_romaji": "Tanaka-kun wa Itsumo Kedaruge",
-    "title_english": "Tanaka-kun wa Itsumo Kedaruge"
+    "title_english": "Tanaka-kun is Always Listless"
   },
   {
     "id": 21497,
@@ -23895,7 +23906,7 @@
     "title_chinese": "在下坂本，有何貴幹？",
     "title_japanese": "坂本ですが?",
     "title_romaji": "Sakamoto desu ga?",
-    "title_english": "Sakamoto desu ga?"
+    "title_english": "Haven't You Heard? I'm Sakamoto"
   },
   {
     "id": 21604,
@@ -23916,7 +23927,10 @@
     "title_chinese": "12歲。〜小小的胸口心跳加速〜",
     "title_japanese": "12歳。～ちっちゃなムネのトキメキ～",
     "title_romaji": "12-sai.: Chiccha na Mune no Tokimeki",
-    "title_english": "12-sai.: Chiccha na Mune no Tokimeki"
+    "title_english": "12-sai.: Chiccha na Mune no Tokimeki",
+    "synonyms_chinese": [
+      "12歲。~小小的心動~"
+    ]
   },
   {
     "id": 21611,
@@ -24038,7 +24052,7 @@
     "title_chinese": "美少女遊戲 Crane Game Girls",
     "title_japanese": "美少女遊戯ユニットクレーンゲール",
     "title_romaji": "Bishoujo Yuugi Unit Crane Game Girls",
-    "title_english": "Bishoujo Yuugi Unit Crane Game Girls"
+    "title_english": "Crane Game Girls"
   },
   {
     "id": 21721,
