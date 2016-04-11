@@ -20440,7 +20440,7 @@
     "title_chinese": "銃皇無盡的法夫納",
     "title_japanese": "銃皇無尽のファフニール",
     "title_romaji": "Juuou Mujin no Fafnir",
-    "title_english": "Juuou Mujin no Fafnir",
+    "title_english": "Unlimited Fafnir",
     "synonyms": [
       "Unlimited Fafnir School Battle"
     ]
@@ -20799,9 +20799,12 @@
   {
     "id": 20819,
     "title_chinese": "Working!!!",
-    "title_japanese": "ワーキング!!!",
-    "title_romaji": "Working!!!",
+    "title_japanese": "WORKING!!!",
+    "title_romaji": "WORKING!!!",
     "title_english": "Wagnaria!!3",
+    "synonyms": [
+      "ワーキング!!!"
+    ],
     "synonyms_chinese": [
       "迷糊餐廳 第3季",
       "無聊西餐廳 第3季"
@@ -21029,6 +21032,16 @@
     "title_japanese": " ダイヤのA[エース] OAD",
     "title_romaji": "Diamond no Ace OVA",
     "title_english": "Ace of Diamond OVA"
+  },
+  {
+    "id": 20871,
+    "title_chinese": "精靈使的劍舞",
+    "title_japanese": "精霊使いの剣舞【ブレイドダンス】ミニOVA",
+    "title_romaji": "Seirei Tsukai no Kenbu: Blade Dance Specials",
+    "title_english": "Bladedance of Elementalers Specials",
+    "synonyms": [
+      "Seirei Tsukai no Blade Dance Mini OVA"
+    ]
   },
   {
     "id": 20872,
@@ -22523,7 +22536,10 @@
     "title_chinese": "甲鐵城的卡巴內里",
     "title_japanese": "甲鉄城のカバネリ",
     "title_romaji": "Koutetsujou no Kabaneri",
-    "title_english": "Kabaneri of the Iron Fortress"
+    "title_english": "Kabaneri of the Iron Fortress",
+    "synonyms_chinese": [
+      "甲鐵城的煉屍"
+    ]
   },
   {
     "id": 21197,
@@ -22716,6 +22732,9 @@
     "title_english": "Anne-Happy",
     "synonyms": [
       "Unhappy♪"
+    ],
+    "synonyms_chinese": [
+      "Anne Happy"
     ]
   },
   {
@@ -22878,7 +22897,7 @@
     "title_chinese": "飛翔的魔女",
     "title_japanese": "ふらいんぐうぃっち",
     "title_romaji": "flying witch",
-    "title_english": "flying witch"
+    "title_english": "Flying Witch"
   },
   {
     "id": 21285,
@@ -23024,9 +23043,13 @@
   {
     "id": 21316,
     "title_chinese": "Hai Furi",
-    "title_japanese": "はいふり",
-    "title_romaji": "Hai Furi",
-    "title_english": "Haifuri"
+    "title_japanese": "ハイスクール・フリート",
+    "title_romaji": "High School Fleet",
+    "title_english": "Haifuri",
+    "synonyms_chinese": [
+      "高校艦隊",
+      "青春波紋"
+    ]
   },
   {
     "id": 21319,
@@ -23355,7 +23378,10 @@
     "title_chinese": "Kiznaiver",
     "title_japanese": "キズナイーバー",
     "title_romaji": "Kiznaiver",
-    "title_english": "Kiznaiver"
+    "title_english": "Kiznaiver",
+    "synonyms_chinese": [
+      "羈絆者"
+    ]
   },
   {
     "id": 21422,
@@ -23455,7 +23481,7 @@
     "title_chinese": "Big Order",
     "title_japanese": "ビッグオーダー",
     "title_romaji": "Big Order",
-    "title_english": "Big Order",
+    "title_english": "BIG ORDER",
     "synonyms_chinese": [
       "至高指令"
     ]
@@ -23614,7 +23640,11 @@
     "title_chinese": "田中同學總是懶洋洋",
     "title_japanese": "田中くんはいつもけだるげ",
     "title_romaji": "Tanaka-kun wa Itsumo Kedaruge",
-    "title_english": "Tanaka-kun is Always Listless"
+    "title_english": "Tanaka-kun is Always Listless",
+    "synonyms_chinese": [
+      "田中君總是如此慵懶",
+      "田中君總是懶洋洋的"
+    ]
   },
   {
     "id": 21497,
@@ -23689,7 +23719,10 @@
     "title_chinese": "黑骸",
     "title_japanese": "クロムクロ",
     "title_romaji": "Kuromukuro",
-    "title_english": "Kuromukuro"
+    "title_english": "Kuromukuro",
+    "synonyms_chinese": [
+      "黑色殘骸"
+    ]
   },
   {
     "id": 21520,
@@ -23906,7 +23939,18 @@
     "title_chinese": "在下坂本，有何貴幹？",
     "title_japanese": "坂本ですが?",
     "title_romaji": "Sakamoto desu ga?",
-    "title_english": "Haven't You Heard? I'm Sakamoto"
+    "title_english": "Haven't You Heard? I'm Sakamoto",
+    "synonyms_chinese": [
+      "我是坂本我最屌",
+      "哥就是坂本？"
+    ]
+  },
+  {
+    "id": 21600,
+    "title_chinese": "貓貓日本史",
+    "title_japanese": "ねこねこ日本史",
+    "title_romaji": "Neko Neko Nihonshi",
+    "title_english": "Neko Neko Nihonshi"
   },
   {
     "id": 21604,
@@ -24052,7 +24096,10 @@
     "title_chinese": "美少女遊戲 Crane Game Girls",
     "title_japanese": "美少女遊戯ユニットクレーンゲール",
     "title_romaji": "Bishoujo Yuugi Unit Crane Game Girls",
-    "title_english": "Crane Game Girls"
+    "title_english": "Crane Game Girls",
+    "synonyms_chinese": [
+      "美少女遊戲組合 Crane Game Girls"
+    ]
   },
   {
     "id": 21721,
