@@ -22728,7 +22728,7 @@
     "id": 21238,
     "title_chinese": "Unhappy♪",
     "title_japanese": "あんハピ♪",
-    "title_romaji": "Anne Happy",
+    "title_romaji": "Anne Happy♪",
     "title_english": "Anne-Happy",
     "synonyms": [
       "Unhappy♪"
@@ -23981,7 +23981,10 @@
     "title_chinese": "Endride",
     "title_japanese": "エンドライド",
     "title_romaji": "Endride",
-    "title_english": "Endride"
+    "title_english": "Endride",
+    "synonyms_chinese": [
+      "最終騎士"
+    ]
   },
   {
     "id": 21612,
