@@ -22948,7 +22948,10 @@
     "title_chinese": "線上遊戲的老婆不可能是女生？",
     "title_japanese": "ネトゲの嫁は女の子じゃないと思った?",
     "title_romaji": "Netoge no Yome wa Onnanoko ja Nai to Omotta?",
-    "title_english": "And you thought there is never a girl online?"
+    "title_english": "And you thought there is never a girl online?",
+    "synonyms_chinese": [
+      "網遊裡的老婆你以為都是偽娘？"
+    ]
   },
   {
     "id": 21291,
@@ -22976,7 +22979,7 @@
     "id": 21300,
     "title_chinese": "火星異種 Revenge",
     "title_japanese": "テラフォーマーズリベンジ",
-    "title_romaji": "Terra Formars: Revenge",
+    "title_romaji": "Terra Formars Revenge",
     "title_english": "TERRAFORMARS REVENGE"
   },
   {
