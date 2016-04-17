@@ -2906,6 +2906,13 @@
     ]
   },
   {
+    "id": 562,
+    "title_chinese": "櫻花大戰 Le Nouveau Paris",
+    "title_japanese": "サクラ大戦『ル・ヌーヴォー・巴里』",
+    "title_romaji": "Sakura Taisen: Le Nouveau Paris",
+    "title_english": "Sakura Wars: The New Paris"
+  },
+  {
     "id": 565,
     "title_chinese": "蒸汽男孩",
     "title_japanese": "スチームボーイ",
@@ -3032,6 +3039,13 @@
     "synonyms_chinese": [
       "貓的報恩"
     ]
+  },
+  {
+    "id": 608,
+    "title_chinese": "櫻花大戰 活動寫真",
+    "title_japanese": "サクラ大戦 活動写真",
+    "title_romaji": "Sakura Taisen: Katsudou Shashin",
+    "title_english": "Sakura Wars : The Movie"
   },
   {
     "id": 612,
@@ -3407,6 +3421,16 @@
     ],
     "synonyms_chinese": [
       "蒼之繭"
+    ]
+  },
+  {
+    "id": 771,
+    "title_chinese": "吟遊默示錄 2",
+    "title_japanese": "吟遊黙示録マイネリーベ ヴィーダー",
+    "title_romaji": "Ginyuu Mokushiroku Meine Liebe Wieder",
+    "title_english": "Ginyuu Mokushiroku Meine Liebe Wieder",
+    "synonyms": [
+      "Meine Liebe Wieder"
     ]
   },
   {
@@ -5886,6 +5910,18 @@
     ],
     "synonyms_chinese": [
       "一騎當千 龍之命運"
+    ]
+  },
+  {
+    "id": 1964,
+    "title_chinese": "櫻花大戰 Ecole de Paris",
+    "title_japanese": "サクラ大戦 エコール・ド・巴里",
+    "title_romaji": "Sakura Taisen: Ecole de Paris",
+    "title_english": "Sakura Wars: School of Paris",
+    "synonyms": [
+      "Sakura Wars OVA 3",
+      "Sakura Taisen: École de Paris",
+      "Sakura Taisen OVA 3"
     ]
   },
   {
@@ -19257,6 +19293,20 @@
     ]
   },
   {
+    "id": 20584,
+    "title_chinese": "Sugar＊Soldier",
+    "title_japanese": "シュガー＊ソルジャー",
+    "title_romaji": "Sugar＊Soldier",
+    "title_english": "Sugar＊Soldier",
+    "synonyms": [
+      "Sugar*Soldier",
+      "Sugar * Soldier"
+    ],
+    "synonyms_chinese": [
+      "白砂糖戰士"
+    ]
+  },
+  {
     "id": 20587,
     "title_chinese": "風雲維新大將軍",
     "title_japanese": "風雲維新ダイショーグン",
@@ -19488,6 +19538,16 @@
     "synonyms_chinese": [
       "戰鬥少女選擇者WIXOSS",
       "選擇感染者WIXOSS"
+    ]
+  },
+  {
+    "id": 20616,
+    "title_chinese": "Wonder Momo",
+    "title_japanese": "ワンダーモモ",
+    "title_romaji": "Wonder Momo",
+    "title_english": "Wonder Momo",
+    "synonyms_chinese": [
+      "神奇桃子"
     ]
   },
   {
@@ -20183,6 +20243,13 @@
     ]
   },
   {
+    "id": 20721,
+    "title_chinese": "水母食堂",
+    "title_japanese": "クラゲの食堂",
+    "title_romaji": "Kurage no Shokudou",
+    "title_english": "Kurage no Shokudou"
+  },
+  {
     "id": 20722,
     "title_chinese": "元氣囝仔",
     "title_japanese": "ばらかもん",
@@ -20695,6 +20762,10 @@
     "title_english": "Tamayura: Sotsugyou Shashin Part 1 - Kizashi",
     "synonyms": [
       "Tamayura: The Final Chapter"
+    ],
+    "synonyms_chinese": [
+      "玉響～畢業寫真～ 第1部 芽",
+      "幸福光暈～畢業寫真～ 第1部 芽"
     ]
   },
   {
@@ -20795,6 +20866,13 @@
     "synonyms_chinese": [
       "笑對陰天"
     ]
+  },
+  {
+    "id": 20818,
+    "title_chinese": "怪盜Joker",
+    "title_japanese": "怪盗ジョーカー",
+    "title_romaji": "Kaitou Joker",
+    "title_english": "JOKER"
   },
   {
     "id": 20819,
@@ -21640,6 +21718,13 @@
     "title_english": "Go! Princess Precure"
   },
   {
+    "id": 21004,
+    "title_chinese": "怪盜Joker 2",
+    "title_japanese": "怪盗ジョーカー2",
+    "title_romaji": "Kaitou Joker 2",
+    "title_english": "JOKER 2"
+  },
+  {
     "id": 21005,
     "title_chinese": "灰色的迷宮",
     "title_japanese": "グリザイアの迷宮",
@@ -22199,7 +22284,11 @@
     "title_chinese": "玉響～畢業寫真～ 第二部 回音",
     "title_japanese": "たまゆら～卒業写真～　第２部響-",
     "title_romaji": "Tamayura: Sotsugyou Shashin Part 2 - Hibiki",
-    "title_english": "Tamayura: Sotsugyou Shashin Part 2 - Hibiki"
+    "title_english": "Tamayura: Sotsugyou Shashin Part 2 - Hibiki",
+    "synonyms_chinese": [
+      "玉響～畢業寫真～ 第2部 響",
+      "幸福光暈～畢業寫真～ 第2部 響"
+    ]
   },
   {
     "id": 21136,
@@ -23086,7 +23175,11 @@
     "title_chinese": "玉響～畢業寫真～ 第三部 憧憬",
     "title_japanese": "たまゆら～卒業写真～　第3部 憧-あこがれ-",
     "title_romaji": "Tamayura: Sotsugyou Shashin Part 3 - Akogare",
-    "title_english": "Tamayura: Sotsugyou Shashin Part 3 - Akogare"
+    "title_english": "Tamayura: Sotsugyou Shashin Part 3 - Akogare",
+    "synonyms_chinese": [
+      "玉響～畢業寫真～ 第3部 憧",
+      "幸福光暈～畢業寫真～ 第3部 憧"
+    ]
   },
   {
     "id": 21326,
@@ -23331,7 +23424,8 @@
     "title_romaji": "Magi: Sinbad no Bouken",
     "title_english": "Magi: Sinbad no Bouken",
     "synonyms_chinese": [
-      "魔奇少年 辛巴達的冒險"
+      "魔奇少年 辛巴達的冒險",
+      "魔笛 辛巴德的冒險"
     ]
   },
   {
@@ -23408,6 +23502,13 @@
     "synonyms_chinese": [
       "當女孩遇到熊"
     ]
+  },
+  {
+    "id": 21427,
+    "title_chinese": "怪盜Joker 3",
+    "title_japanese": "怪盗ジョーカー 3",
+    "title_romaji": "Kaitou Joker 3",
+    "title_english": "JOKER 3"
   },
   {
     "id": 21428,
@@ -23861,6 +23962,17 @@
     "title_english": "Jokei Kazoku III ~Himitsu~: The Anime"
   },
   {
+    "id": 21554,
+    "title_chinese": "玉響～畢業寫真～ 第四部 拂曉",
+    "title_japanese": "たまゆら～卒業写真～　第4部 朝-あした-",
+    "title_romaji": "Tamayura: Sotsugyou Shashin Part 4 - Ashita",
+    "title_english": "Tamayura: Sotsugyou Shashin Part 4 - Ashita",
+    "synonyms_chinese": [
+      "玉響～畢業寫真～ 第4部 朝",
+      "幸福光暈～畢業寫真～ 第4部 朝"
+    ]
+  },
+  {
     "id": 21565,
     "title_chinese": "監獄學園 OAD",
     "title_japanese": "監獄学園 プリズンスクール OAD",
@@ -24098,6 +24210,13 @@
     "title_english": "Hyoudou Ibuki: Kanpeki Ibuki Kaichou ga Kousoku Do M!? na Wake"
   },
   {
+    "id": 21670,
+    "title_chinese": "えなじぃキョーカ！！",
+    "title_japanese": "えなじぃキョーカ！！",
+    "title_romaji": "Energy Kyouka!!",
+    "title_english": "Energy Kyouka!!"
+  },
+  {
     "id": 21694,
     "title_chinese": "美少女遊戲 Crane Game Girls",
     "title_japanese": "美少女遊戯ユニットクレーンゲール",
@@ -24120,6 +24239,13 @@
     "title_japanese": "BROTHERHOOD FINAL FANTASY XV",
     "title_romaji": "BROTHERHOOD FINAL FANTASY XV",
     "title_english": "BROTHERHOOD FINAL FANTASY XV"
+  },
+  {
+    "id": 21736,
+    "title_chinese": "思念的碎片",
+    "title_japanese": "想いのかけら",
+    "title_romaji": "Omoi no Kakera",
+    "title_english": "Omoi no Kakera"
   },
   {
     "id": 21743,
