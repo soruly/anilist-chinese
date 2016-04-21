@@ -1258,6 +1258,16 @@
     ]
   },
   {
+    "id": 225,
+    "title_chinese": "龍珠 GT",
+    "title_japanese": "ドラゴンボールGT",
+    "title_romaji": "Dragon Ball GT",
+    "title_english": "Dragon Ball GT",
+    "synonyms": [
+      "Dragonball GT"
+    ]
+  },
+  {
     "id": 226,
     "title_chinese": "妖精的旋律",
     "title_japanese": "エルフェンリート",
@@ -4214,6 +4224,20 @@
     "title_japanese": "神様家族",
     "title_romaji": "Kamisama Kazoku",
     "title_english": "God Family"
+  },
+  {
+    "id": 996,
+    "title_chinese": "Sailor Moon Sailor Stars",
+    "title_japanese": "美少女戦士セーラームーン セーラースターズ",
+    "title_romaji": "Bishoujo Senshi Sailor Moon: Sailor Stars",
+    "title_english": "Sailor Moon Sailor Stars",
+    "synonyms": [
+      "Pretty Soldier Sailor Moon: Sailor Stars"
+    ],
+    "synonyms_chinese": [
+      "美少女戰士Sailor Stars",
+      "美少女戰士 最後星光"
+    ]
   },
   {
     "id": 1002,
@@ -9743,6 +9767,16 @@
     ]
   },
   {
+    "id": 5684,
+    "title_chinese": "FRESH光之美少女！",
+    "title_japanese": "フレッシュプリキュア！",
+    "title_romaji": "Fresh Precure!",
+    "title_english": "Fresh Precure!",
+    "synonyms": [
+      "Fresh Pretty Cure"
+    ]
+  },
+  {
     "id": 5690,
     "title_chinese": "交響情人夢 最終篇",
     "title_japanese": "のだめカンタービレ フィナーレ",
@@ -11188,6 +11222,16 @@
     "title_japanese": "みつどもえ",
     "title_romaji": "Mitsudomoe",
     "title_english": "Mitsudomoe"
+  },
+  {
+    "id": 7645,
+    "title_chinese": "Heartcatch 光之美少女！",
+    "title_japanese": "ハートキャッチプリキュア!",
+    "title_romaji": "Heartcatch Precure!",
+    "title_english": "Heartcatch Precure!",
+    "synonyms": [
+      "Heartcatch Pretty Cure!"
+    ]
   },
   {
     "id": 7647,
@@ -14855,6 +14899,28 @@
     ]
   },
   {
+    "id": 12191,
+    "title_chinese": "Smile 光之美少女！",
+    "title_japanese": "スマイルプリキュア",
+    "title_romaji": "Smile Precure!",
+    "title_english": "Smile Precure!",
+    "synonyms": [
+      "Smile Pretty Cure!"
+    ]
+  },
+  {
+    "id": 12221,
+    "title_chinese": "光之美少女 All Stars New Stage 未來的朋友",
+    "title_japanese": "映画 プリキュアオールスターズNew Stage みらいのともだち",
+    "title_romaji": "Precure All Stars New Stage: Mirai no Tomodachi",
+    "title_english": "Precure All Stars New Stage: Mirai no Tomodachi",
+    "synonyms": [
+      "Pretty Cure All Stars New Stage Mirai no Tomodachi",
+      "Eiga Precure All Stars New Stage Mirai no Tomodachi",
+      "Precure All Stars New Stage Future Friends"
+    ]
+  },
+  {
     "id": 12225,
     "title_chinese": "銀河天使S",
     "title_japanese": "ギャラクシーエンジェルS",
@@ -17095,6 +17161,18 @@
     ]
   },
   {
+    "id": 16442,
+    "title_chinese": "光之美少女 All Stars New Stage2 心之朋友",
+    "title_japanese": "映画 プリキュアオールスターズ New Stage2 こころのともだち",
+    "title_romaji": "Precure All Stars New Stage 2: Kokoro no Tomodachi",
+    "title_english": "Precure All Stars New Stage 2: Kokoro no Tomodachi",
+    "synonyms": [
+      "Pretty Cure All Stars New Stage Kokoro no Tomodachi",
+      "Eiga Precure All Stars New Stage 2: Kokoro no Tomodachi",
+      "Pretty Cure All Stars New Stage 2: Friends of the Heart"
+    ]
+  },
+  {
     "id": 16498,
     "title_chinese": "進擊的巨人",
     "title_japanese": "進撃の巨人",
@@ -17474,6 +17552,16 @@
     ],
     "synonyms_chinese": [
       "宇宙海賊哈洛克船長"
+    ]
+  },
+  {
+    "id": 17357,
+    "title_chinese": "電影 DokiDoki！光之美少女 小愛結婚了！！？連結未來的希望禮服",
+    "title_japanese": "映画 ドキドキ! プリキュア マナ結婚!!? 未来につなぐ希望のドレス",
+    "title_romaji": "Dokidoki! Precure Eiga: Mana Kekkon!!? Mirai ni Tsunagu Kibou no Dress",
+    "title_english": "Doki Doki Pretty Cure Movie: Mana is Getting Married!!? The Dress of Hope that Connects to the Future",
+    "synonyms_chinese": [
+      "電影 DOKIDOKI! PRECURE 愛結婚!!?連接未來的希望禮服"
     ]
   },
   {
@@ -19394,6 +19482,18 @@
     ]
   },
   {
+    "id": 20549,
+    "title_chinese": "光之美少女 All Stars New Stage3 永遠的朋友",
+    "title_japanese": "映画プリキュアオールスターズニューステージ3 永遠のともだち",
+    "title_romaji": "Precure All Stars New Stage 3: Eien no Tomodachi",
+    "title_english": "Precure All Stars New Stage 3: Eien no Tomodachi",
+    "synonyms": [
+      "Pretty Cure All Stars New Stage Eien no Tomodachi",
+      "Pretty Cure All Stars New Stage 3: Friends Forever",
+      "Eiga Precure All Stars New Stage 3: Eien no Tomodachi"
+    ]
+  },
+  {
     "id": 20552,
     "title_chinese": "遊戲王ARC-V",
     "title_japanese": "遊戯王 Arc-V",
@@ -19485,6 +19585,13 @@
     "title_japanese": "みツわの",
     "title_romaji": "Mitsuwano",
     "title_english": "Mitsuwano"
+  },
+  {
+    "id": 20577,
+    "title_chinese": "HappinessCharge Precure!",
+    "title_japanese": "ハピネスチャージプリキュア！",
+    "title_romaji": "HappinessCharge Precure!",
+    "title_english": "Happiness Charge Pretty Cure!"
   },
   {
     "id": 20583,
@@ -22499,6 +22606,13 @@
     ]
   },
   {
+    "id": 21121,
+    "title_chinese": "電影 Happiness Charge 光之美少女！ 人偶之國的芭蕾舞女",
+    "title_japanese": "映画ハピネスチャージプリキュア！人形の国のバレリーナ",
+    "title_romaji": "HappinessCharge Precure! Movie: Ningyou no Kuni no Ballerina",
+    "title_english": "Happiness Charge Pretty Cure!: Ballerina of the Doll Kingdom"
+  },
+  {
     "id": 21127,
     "title_chinese": "Steins;Gate 0",
     "title_japanese": "シュタインズ・ゲート ゼロ",
@@ -22562,6 +22676,13 @@
       "網球並不可笑嘛 5",
       "女子搞笑網球 5"
     ]
+  },
+  {
+    "id": 21137,
+    "title_chinese": "光之美少女 All Stars 春之嘉年華♪",
+    "title_japanese": "プリキュアオールスターズ 春のカーニバル♪",
+    "title_romaji": "Precure All Stars Haru no Carnival♪",
+    "title_english": "Pretty Cure All Stars Spring Carnival♪"
   },
   {
     "id": 21138,
@@ -23467,6 +23588,13 @@
     "title_japanese": "少年メイド",
     "title_romaji": "Shounen Maid",
     "title_english": "Shonen Maid"
+  },
+  {
+    "id": 21323,
+    "title_chinese": "電影 Go！Princess 光之美少女 Go！Go！！豪華三部曲！！！",
+    "title_japanese": "映画Go！プリンセスプリキュア　Go！Go！！豪華3本立て！！！",
+    "title_romaji": "Go! Princess Precure Movie: Go! Go!! Gouka 3-bon Date!!!",
+    "title_english": "Go! Princess Precure Movie: Go! Go!! Gouka 3-bon Date!!!"
   },
   {
     "id": 21324,
