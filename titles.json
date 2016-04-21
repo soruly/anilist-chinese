@@ -1248,6 +1248,16 @@
     ]
   },
   {
+    "id": 223,
+    "title_chinese": "龍珠",
+    "title_japanese": "ドラゴンボール",
+    "title_romaji": "Dragon Ball",
+    "title_english": "Dragon Ball",
+    "synonyms": [
+      "Dragonball"
+    ]
+  },
+  {
     "id": 226,
     "title_chinese": "妖精的旋律",
     "title_japanese": "エルフェンリート",
@@ -2808,6 +2818,32 @@
     ]
   },
   {
+    "id": 530,
+    "title_chinese": "Sailor Moon",
+    "title_japanese": "美少女戦士セーラームーン",
+    "title_romaji": "Bishoujo Senshi Sailor Moon",
+    "title_english": "Sailor Moon",
+    "synonyms": [
+      "Pretty Soldier Sailor Moon"
+    ],
+    "synonyms_chinese": [
+      "美少女戰士"
+    ]
+  },
+  {
+    "id": 532,
+    "title_chinese": "Sailor Moon Super",
+    "title_japanese": "美少女戦士セーラームーン S",
+    "title_romaji": "Bishoujo Senshi Sailor Moon S",
+    "title_english": "Sailor Moon S",
+    "synonyms": [
+      "Pretty Soldier Sailor Moon S"
+    ],
+    "synonyms_chinese": [
+      "美少女戰士 S"
+    ]
+  },
+  {
     "id": 534,
     "title_chinese": "Slayers",
     "title_japanese": "スレイヤーズ",
@@ -2903,6 +2939,16 @@
       "蒼穹的法芙娜 Right of Left",
       "蒼穹的FAFNER Right of Left",
       "蒼穹之巨龍 Right of Left"
+    ]
+  },
+  {
+    "id": 561,
+    "title_chinese": "櫻花大戰",
+    "title_japanese": "サクラ大戦",
+    "title_romaji": "Sakura Taisen",
+    "title_english": "Sakura Wars",
+    "synonyms": [
+      "Sakura Wars TV"
     ]
   },
   {
@@ -3038,6 +3084,18 @@
     "title_english": "The Cat Returns",
     "synonyms_chinese": [
       "貓的報恩"
+    ]
+  },
+  {
+    "id": 603,
+    "title_chinese": "光之美少女",
+    "title_japanese": "ふたりはプリキュア",
+    "title_romaji": "Futari wa Precure",
+    "title_english": "Pretty Cure",
+    "synonyms_chinese": [
+      "美麗祭師二人組",
+      "俏麗拍檔",
+      "霹靂Q娃"
     ]
   },
   {
@@ -3325,6 +3383,19 @@
     "title_english": "Princess Tutu",
     "synonyms_chinese": [
       "萩萩公主"
+    ]
+  },
+  {
+    "id": 740,
+    "title_chinese": "Sailor Moon R",
+    "title_japanese": "美少女戦士セーラームーン R",
+    "title_romaji": "Bishoujo Senshi Sailor Moon R",
+    "title_english": "Sailor Moon R",
+    "synonyms": [
+      "Pretty Soldier Sailor Moon R"
+    ],
+    "synonyms_chinese": [
+      "美少女戰士 R"
     ]
   },
   {
@@ -4414,6 +4485,23 @@
     ]
   },
   {
+    "id": 1165,
+    "title_chinese": "櫻花大戰 櫻華絢爛",
+    "title_japanese": "サクラ大戦 ~桜華絢爛~",
+    "title_romaji": "Sakura Taisen: Ouka Kenran",
+    "title_english": "Sakura Wars OVA"
+  },
+  {
+    "id": 1166,
+    "title_chinese": "櫻花大戰 轟華絢爛",
+    "title_japanese": "サクラ大戦 轟華絢爛",
+    "title_romaji": "Sakura Taisen: Gouka Kenran",
+    "title_english": "Sakura Wars: The Gorgeous Blooming Cherry Blossoms",
+    "synonyms": [
+      "Sakura Wars OVA 2"
+    ]
+  },
+  {
     "id": 1170,
     "title_chinese": "Slayers Special",
     "title_japanese": "スレイヤーズすぺしゃる",
@@ -4581,6 +4669,20 @@
     "synonyms_chinese": [
       "無罪的維納斯",
       "聖潔的維納斯"
+    ]
+  },
+  {
+    "id": 1239,
+    "title_chinese": "Sailor Moon SuperS",
+    "title_japanese": "美少女戦士セーラームーン Super S",
+    "title_romaji": "Bishoujo Senshi Sailor Moon SuperS",
+    "title_english": "Sailor Moon SuperS",
+    "synonyms": [
+      "Bishoujo Senshi Sailor Moon Super S",
+      "Pretty Guardian Sailor Moon SuperS"
+    ],
+    "synonyms_chinese": [
+      "美少女戰士 SuperS"
     ]
   },
   {
@@ -6005,6 +6107,18 @@
     ]
   },
   {
+    "id": 1999,
+    "title_chinese": "櫻花大戰 神崎堇 引退紀念",
+    "title_japanese": "『サクラ大戦』～神崎すみれ引退記念～「す・み・れ」",
+    "title_romaji": "Sakura Taisen: Sumire",
+    "title_english": "Sakura Wars: ~Su~Mi~Re~",
+    "synonyms": [
+      "Sakura Taisen Sumire Kanzaki Intai Kinen: Su Mi Re",
+      "Sakura Taisen - Sumire Kanzaki quitte la scène ~Su Mi Re~",
+      "Sakura Wars Sumire Kanzaki Retirement Show ~Su Mi Re~"
+    ]
+  },
+  {
     "id": 2001,
     "title_chinese": "天元突破 紅蓮螺巖",
     "title_japanese": "天元突破グレンラガン",
@@ -6348,6 +6462,17 @@
     "title_japanese": "ＣＬＡＮＮＡＤ -クラナド-",
     "title_romaji": "Clannad",
     "title_english": "Clannad"
+  },
+  {
+    "id": 2168,
+    "title_chinese": "櫻花大戰 紐約",
+    "title_japanese": "サクラ大戦 ニューヨーク・紐育",
+    "title_romaji": "Sakura Taisen: New York",
+    "title_english": "Sakura Wars: New York",
+    "synonyms": [
+      "Sakura Wars OVA 5",
+      "Sakura Taisen: New York NY"
+    ]
   },
   {
     "id": 2175,
@@ -9856,6 +9981,19 @@
     "synonyms_chinese": [
       "異能戰士",
       "超能力大戰"
+    ]
+  },
+  {
+    "id": 6033,
+    "title_chinese": "龍珠 改",
+    "title_japanese": "ドラゴンボール改",
+    "title_romaji": "Dragon Ball Kai",
+    "title_english": "Dragon Ball Z Kai",
+    "synonyms": [
+      "Dragonball Kai",
+      "DBK",
+      "DB Kai",
+      "DBZ Kai"
     ]
   },
   {
@@ -13799,6 +13937,13 @@
     ]
   },
   {
+    "id": 10923,
+    "title_chinese": "偵探歌劇 少女福爾摩斯 Summer Special",
+    "title_japanese": "探偵オペラ ミルキィホームズ サマー・スペシャル",
+    "title_romaji": "Tantei Opera Milky Holmes: Summer Special",
+    "title_english": "Tantei Opera Milky Holmes: Summer Special"
+  },
+  {
     "id": 10924,
     "title_chinese": "女王之刃 OVA",
     "title_japanese": "クイーンズブレイド OVA",
@@ -17055,6 +17200,21 @@
     "title_english": "Valvrave the Liberator"
   },
   {
+    "id": 16680,
+    "title_chinese": "寵物小精靈劇場版 神速的蓋諾賽克特 超夢夢覺醒",
+    "title_japanese": "劇場版 ポケットモンスター ベストウイッシュ 神速のゲノセクト ミュウツー覚醒",
+    "title_romaji": "Pokemon Best Wishes! Season 2: Shinsoku no Genosect - Mewtwo Kakusei",
+    "title_english": "Pokemon Best Wishes! Season 2: Shinsoku no Genosect - Mewtwo Kakusei",
+    "synonyms": [
+      "Gekijouban Pocket Monsters Best Wishes 2: Shinsoku no Genosect",
+      "ExtremeSpeed Genesect: Mewtwo Awakens",
+      "Pokemon Movie 16"
+    ],
+    "synonyms_chinese": [
+      "寵物小精靈劇場版 神速的蓋諾塞克多 超夢覺醒"
+    ]
+  },
+  {
     "id": 16700,
     "title_chinese": "寒蟬鳴泣之時 擴",
     "title_japanese": "ひぐらしのなく頃に拡〜アウトブレイク〜",
@@ -17290,6 +17450,17 @@
     "title_english": "Log Horizon",
     "synonyms_chinese": [
       "記錄的地平線"
+    ]
+  },
+  {
+    "id": 17267,
+    "title_chinese": "偵探歌劇 少女福爾摩斯 第三幕",
+    "title_japanese": "ふたりはミルキィホームズ",
+    "title_romaji": "Futari wa Milky Holmes",
+    "title_english": "Futari wa Milky Holmes",
+    "synonyms_chinese": [
+      "二人是少女福爾摩斯",
+      "兩個人是Milky Holmes"
     ]
   },
   {
@@ -18118,6 +18289,16 @@
     ]
   },
   {
+    "id": 19157,
+    "title_chinese": "妖怪手錶",
+    "title_japanese": "妖怪ウォッチ",
+    "title_romaji": "Youkai Watch",
+    "title_english": "Yo-Kai Watch",
+    "synonyms": [
+      "Yokai Watch"
+    ]
+  },
+  {
     "id": 19163,
     "title_chinese": "Date A Live II",
     "title_japanese": "デート・ア・ライブⅡ",
@@ -18186,6 +18367,19 @@
     "title_japanese": "メガネブ!",
     "title_romaji": "Meganebu!",
     "title_english": "Meganebu!"
+  },
+  {
+    "id": 19291,
+    "title_chinese": "Pokemon XY",
+    "title_japanese": "ポケットモンスターXY",
+    "title_romaji": "Pokemon XY",
+    "title_english": "Pokemon XY",
+    "synonyms": [
+      "Pokémon XY"
+    ],
+    "synonyms_chinese": [
+      "寵物小精靈XY"
+    ]
   },
   {
     "id": 19315,
@@ -19200,6 +19394,16 @@
     ]
   },
   {
+    "id": 20552,
+    "title_chinese": "遊戲王ARC-V",
+    "title_japanese": "遊戯王 Arc-V",
+    "title_romaji": "Yu-Gi-Oh! Arc-V",
+    "title_english": "Yu-Gi-Oh! Arc-V",
+    "synonyms": [
+      "Yugioh Arc-V"
+    ]
+  },
+  {
     "id": 20553,
     "title_chinese": "艦隊Collection",
     "title_japanese": "艦隊これくしょん -艦これ-",
@@ -19671,6 +19875,19 @@
     ]
   },
   {
+    "id": 20635,
+    "title_chinese": "龍珠 改 (2014)",
+    "title_japanese": "ドラゴンボール改",
+    "title_romaji": "Dragon Ball Kai (2014)",
+    "title_english": "Dragon Ball Kai (2014)",
+    "synonyms": [
+      "Dragon Ball Kai",
+      "DBK",
+      "DB Kai",
+      "DBZ Kai"
+    ]
+  },
+  {
     "id": 20636,
     "title_chinese": "摸索吧！社團活動 Encore",
     "title_japanese": "てさぐれ! 部活もの あんこーる",
@@ -19724,6 +19941,20 @@
     "title_english": "Norn9",
     "synonyms": [
       "Norn9 Norun + Nonetto"
+    ]
+  },
+  {
+    "id": 20644,
+    "title_chinese": "寵物小精靈劇場版 破壞之繭與蒂安希",
+    "title_japanese": "ポケットモンスターXY 破壊の繭とディアンシー",
+    "title_romaji": "Pokemon XY: Hakai no Mayu to Diancie",
+    "title_english": "Pokemon XY: Cocoon of Destruction",
+    "synonyms": [
+      "Pokemon XY: Cocoon of Destruction and Diancie",
+      "Pokemon Movie 17"
+    ],
+    "synonyms_chinese": [
+      "寵物小精靈劇場版 破壞之繭與幻鑽精靈"
     ]
   },
   {
@@ -20042,6 +20273,16 @@
     "title_english": "Mujaki no Rakuen",
     "synonyms": [
       "Paradise of Innocence"
+    ]
+  },
+  {
+    "id": 20683,
+    "title_chinese": "Pokemon XY: Mega Evolution",
+    "title_japanese": "ポケットモンスターXY MEGA EVOLUTION",
+    "title_romaji": "Pokemon XY: Mega Evolution",
+    "title_english": "Pokemon XY: Mega Evolution",
+    "synonyms_chinese": [
+      "寵物小精靈XY 超進化特別篇"
     ]
   },
   {
@@ -20389,7 +20630,10 @@
       "PuriPara"
     ],
     "synonyms_chinese": [
-      "星光樂園"
+      "星光樂園",
+      "美妙天堂",
+      "光之美少女",
+      "美妙旋律姐妹篇:美妙天堂"
     ]
   },
   {
@@ -21439,7 +21683,7 @@
   },
   {
     "id": 20953,
-    "title_chinese": "境界之輪回",
+    "title_chinese": "境界之輪迴",
     "title_japanese": "境界のRINNE",
     "title_romaji": "Kyoukai no Rinne",
     "title_english": "RIN-NE"
@@ -21585,6 +21829,22 @@
     "title_japanese": "おくさまが生徒会長!",
     "title_romaji": "Okusama ga Seitokaichou!",
     "title_english": "My Wife is the Student Council President"
+  },
+  {
+    "id": 20985,
+    "title_chinese": "PriPara 2nd Season",
+    "title_japanese": "プリパラ 2ndシーズン",
+    "title_romaji": "PriPara 2nd Season",
+    "title_english": "PriPara 2nd Season",
+    "synonyms": [
+      "PuriPara 2nd Season"
+    ],
+    "synonyms_chinese": [
+      "星光樂園 第二期",
+      "美妙天堂 第二期",
+      "光之美少女 第二期",
+      "美妙旋律姐妹篇:美妙天堂"
+    ]
   },
   {
     "id": 20987,
@@ -22524,6 +22784,13 @@
     "title_english": "Otome Hime"
   },
   {
+    "id": 21175,
+    "title_chinese": "龍珠 超",
+    "title_japanese": "ドラゴンボール超",
+    "title_romaji": "Dragon Ball Chou",
+    "title_english": "Dragon Ball Super"
+  },
+  {
     "id": 21176,
     "title_chinese": "ヴィクトリアメイド マリアの奉仕",
     "title_japanese": "ヴィクトリアメイド マリアの奉仕",
@@ -22814,6 +23081,16 @@
     ]
   },
   {
+    "id": 21237,
+    "title_chinese": "神之見習者秘密的心靈蛋",
+    "title_japanese": "かみさまみならい ヒミツのここたま",
+    "title_romaji": "Kamisama Minarai: Himitsu no Cocotama",
+    "title_english": "Kamisama Minarai: Himitsu no Cocotama",
+    "synonyms_chinese": [
+      "見習神仙秘密的心靈"
+    ]
+  },
+  {
     "id": 21238,
     "title_chinese": "Unhappy♪",
     "title_japanese": "あんハピ♪",
@@ -22823,7 +23100,8 @@
       "Unhappy♪"
     ],
     "synonyms_chinese": [
-      "Anne Happy"
+      "Anne Happy",
+      "不幸少女們的校園趣事♪"
     ]
   },
   {
@@ -22938,6 +23216,16 @@
     "title_japanese": "PHANTASY STAR ONLINE2 THE ANIMATION",
     "title_romaji": "Phantasy Star Online 2: The Animation",
     "title_english": "Phantasy Star Online 2 The Animation"
+  },
+  {
+    "id": 21266,
+    "title_chinese": "寵物小精靈劇場版 光環的超魔神 胡帕",
+    "title_japanese": "ポケモン・ザ・ムービーXY『光輪（リング）の超魔神 フーパ』",
+    "title_romaji": "Pokemon The Movie XY: Ring no Chou Majin Hoopa",
+    "title_english": "Pokemon the Movie: Hoopa and the Clash of Ages",
+    "synonyms_chinese": [
+      "寵物小精靈劇場版 光輪的超魔神 胡巴"
+    ]
   },
   {
     "id": 21268,
@@ -23065,6 +23353,13 @@
     ]
   },
   {
+    "id": 21297,
+    "title_chinese": "炸豬排 DJ 揚太郎",
+    "title_japanese": "とんかつＤＪアゲ太郎",
+    "title_romaji": "Tonkatsu DJ Agetarou",
+    "title_english": "Tonkatsu DJ Agetarou"
+  },
+  {
     "id": 21300,
     "title_chinese": "火星異種 Revenge",
     "title_japanese": "テラフォーマーズリベンジ",
@@ -23137,7 +23432,10 @@
     "title_chinese": "Hai Furi",
     "title_japanese": "ハイスクール・フリート",
     "title_romaji": "High School Fleet",
-    "title_english": "Haifuri",
+    "title_english": "High School Fleet",
+    "synonyms": [
+      "Haifuri"
+    ],
     "synonyms_chinese": [
       "高校艦隊",
       "青春波紋"
@@ -23275,8 +23573,21 @@
     ]
   },
   {
+    "id": 21356,
+    "title_chinese": "Pokemon XY & Z",
+    "title_japanese": "ポケットモンスター XY & Z",
+    "title_romaji": "Pokemon XY & Z",
+    "title_english": "Pokemon XY & Z",
+    "synonyms": [
+      "Pokémon XY & Z"
+    ],
+    "synonyms_chinese": [
+      "寵物小精靈XY&Z"
+    ]
+  },
+  {
     "id": 21357,
-    "title_chinese": "境界之輪回 2",
+    "title_chinese": "境界之輪迴 2",
     "title_japanese": "境界のRINNE２",
     "title_romaji": "Kyoukai no Rinne 2",
     "title_english": "RIN-NE 2"
@@ -23500,7 +23811,8 @@
       "Girl meets Bear"
     ],
     "synonyms_chinese": [
-      "當女孩遇到熊"
+      "當女孩遇到熊",
+      "熊污女"
     ]
   },
   {
@@ -23614,6 +23926,17 @@
     "title_japanese": "僕のヒーローアカデミア",
     "title_romaji": "Boku no Hero Academia",
     "title_english": "My Hero Academia"
+  },
+  {
+    "id": 21462,
+    "title_chinese": "Sailor Moon Crystal 死亡毀滅者篇",
+    "title_japanese": "美少女戦士セーラームーン Crystal「デス・バスターズ編」",
+    "title_romaji": "Bishoujo Senshi Sailor Moon: Crystal - Death Busters-hen",
+    "title_english": "Sailor Moon Crystal - Death Busters-hen",
+    "synonyms_chinese": [
+      "美少女戰士Crystal 死亡毀滅者篇",
+      "美少女戰士 水晶 第三期"
+    ]
   },
   {
     "id": 21466,
@@ -23780,6 +24103,16 @@
     "title_japanese": "ボーイ・ミーツ・ハーレム THE ANIMATION",
     "title_romaji": "Boy Meets Harem The Animation",
     "title_english": "Boy Meets Harem The Animation"
+  },
+  {
+    "id": 21506,
+    "title_chinese": "魔法使 光之美少女！",
+    "title_japanese": "魔法つかいプリキュア！",
+    "title_romaji": "Mahoutsukai Precure!",
+    "title_english": "Mahoutsukai Precure!",
+    "synonyms": [
+      "Maho Girls Precure!"
+    ]
   },
   {
     "id": 21511,
@@ -23970,6 +24303,22 @@
     "synonyms_chinese": [
       "玉響～畢業寫真～ 第4部 朝",
       "幸福光暈～畢業寫真～ 第4部 朝"
+    ]
+  },
+  {
+    "id": 21559,
+    "title_chinese": "PriPara 3rd Season",
+    "title_japanese": "プリパラ 3rdシーズン",
+    "title_romaji": "PriPara 3rd Season",
+    "title_english": "PriPara 3rd Season",
+    "synonyms": [
+      "PuriPara 3rd Season"
+    ],
+    "synonyms_chinese": [
+      "星光樂園 第三期",
+      "美妙天堂 第三期",
+      "光之美少女 第三期",
+      "美妙旋律姐妹篇:美妙天堂"
     ]
   },
   {
@@ -24165,6 +24514,16 @@
     "title_english": "Pretty x Cation The Animation"
   },
   {
+    "id": 21635,
+    "title_chinese": "Battle Spirits: Double Drive",
+    "title_japanese": "バトルスピリッツ ダブルドライブ",
+    "title_romaji": "Battle Spirits: Double Drive",
+    "title_english": "Battle Spirits: Double Drive",
+    "synonyms_chinese": [
+      "戰鬥之魂 雙重驅動"
+    ]
+  },
+  {
     "id": 21636,
     "title_chinese": "影鰐-承-",
     "title_japanese": "影鰐-承-",
@@ -24189,6 +24548,17 @@
     "title_english": "Saki Biyori",
     "synonyms_chinese": [
       "天才麻將少女 日和"
+    ]
+  },
+  {
+    "id": 21648,
+    "title_chinese": "星夢學園 Stars!",
+    "title_japanese": "アイカツスターズ！",
+    "title_romaji": "Aikatsu Stars!",
+    "title_english": "Aikatsu Stars!",
+    "synonyms_chinese": [
+      "偶像活動 Stars!",
+      "偶像學園 Stars!"
     ]
   },
   {
