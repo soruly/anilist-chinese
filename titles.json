@@ -3101,12 +3101,7 @@
     "title_chinese": "光之美少女",
     "title_japanese": "ふたりはプリキュア",
     "title_romaji": "Futari wa Precure",
-    "title_english": "Pretty Cure",
-    "synonyms_chinese": [
-      "美麗祭師二人組",
-      "俏麗拍檔",
-      "霹靂Q娃"
-    ]
+    "title_english": "Pretty Cure"
   },
   {
     "id": 608,
@@ -6000,6 +5995,28 @@
     "title_english": "Kidou Senshi Gundam MS IGLOO: Ichinen Sensou Hiwa"
   },
   {
+    "id": 1930,
+    "title_chinese": "電影 光之美少女 Max Heart",
+    "title_japanese": "ふたりはプリキュア ー マックスハート",
+    "title_romaji": "Futari wa Precure: Max Heart Movie 1",
+    "title_english": "Futari wa Precure: Max Heart Movie 1",
+    "synonyms": [
+      "Precure Movie",
+      "Eiga Futari wa Pretty Cure: Max Heart"
+    ]
+  },
+  {
+    "id": 1931,
+    "title_chinese": "電影 光之美少女 Max Heart 2 雪空的朋友",
+    "title_japanese": "ふたりはプリキュア Max Heart2 雪空のともだち",
+    "title_romaji": "Futari wa Precure: Max Heart Movie 2 - Yukizora no Tomodachi",
+    "title_english": "Futari wa Precure: Max Heart Movie 2 - Yukizora no Tomodachi",
+    "synonyms": [
+      "Pretty Cure Movie 2",
+      "Eiga Futari wa Precure: Max Heart 2 - Yukizora no Tomodachi"
+    ]
+  },
+  {
     "id": 1941,
     "title_chinese": "Moonlight Mile",
     "title_japanese": "MOONLIGHT MILE 1stシーズン -Lift off-",
@@ -7339,6 +7356,17 @@
     ]
   },
   {
+    "id": 3051,
+    "title_chinese": "電影 Yes! 光之美少女5 鏡之國的奇蹟大冒險!",
+    "title_japanese": "映画　Yes! プリキュア５　鏡の国のミラクル大冒険！",
+    "title_romaji": "Yes! Precure 5: Kagami no Kuni no Miracle Daibouken!",
+    "title_english": "Yes! Pretty Cure 5 the Movie: The Mirror Kingdom's Miraculous Adventure!",
+    "synonyms": [
+      "Eiga Yes! Pretty Cure 5: Kagami no Kuni no Miracle Daibouken!",
+      "Yes! Pretty Cure 5 Movie: Great Miraculous Adventure of the Mirror Country!"
+    ]
+  },
+  {
     "id": 3085,
     "title_chinese": "機械女僕",
     "title_japanese": "こはるびより",
@@ -8460,6 +8488,16 @@
     ]
   },
   {
+    "id": 4124,
+    "title_chinese": "電影 光之美少女Splash Star 滴嗒危機一髮!",
+    "title_japanese": "映画 ふたりはプリキュア Splash Star チクタク危機一髪!",
+    "title_romaji": "Futari wa Precure: Splash☆Star Movie - Tick Tack Kiki Ippatsu!",
+    "title_english": "Futari wa Precure: Splash☆Star Movie - Tick Tack Kiki Ippatsu!",
+    "synonyms": [
+      "Pretty Cure Splash Star Tic-Tac Crisis Hanging by a Thin Thread!"
+    ]
+  },
+  {
     "id": 4134,
     "title_chinese": "疾風木葉學園傳",
     "title_japanese": "Naruto: Shippuuden - Konoha Gakuen Special",
@@ -8839,6 +8877,17 @@
     "synonyms": [
       "GitS 2.0",
       "Koukaku Kidoutai 2.0"
+    ]
+  },
+  {
+    "id": 4703,
+    "title_chinese": "電影 Yes! 光之美少女5GoGo! 甜點王國中的歡樂生日♪",
+    "title_japanese": "映画　Yes! プリキュア５ GoGo! お菓子の国のハッピーバースデイ",
+    "title_romaji": "Yes! Precure 5 GoGo! Movie: Okashi no Kuni no Happy Birthday",
+    "title_english": "Yes! Precure 5 GoGo! Movie: Okashi no Kuni no Happy Birthday",
+    "synonyms": [
+      "Eiga Yes! Pretty Cure 5 GoGo!: Okashi no Kuni no Happy Birthday",
+      "Eiga Yes! Pretty Cure 5 GoGo!: Happy Birthday in the Sweets Kingdom"
     ]
   },
   {
@@ -9840,6 +9889,17 @@
     ]
   },
   {
+    "id": 5753,
+    "title_chinese": "光之美少女 All Stars DX 大家都是朋友☆奇蹟的全員大集合！",
+    "title_japanese": "映画 プリキュアオールスターズDX みんなともだちっ☆奇跡の全員大集合!",
+    "title_romaji": "Precure All Stars Movie DX: Minna Tomodachi - Kiseki no Zenin Daishuugou!",
+    "title_english": "Precure All Stars Movie DX: Minna Tomodachi - Kiseki no Zenin Daishuugou!",
+    "synonyms": [
+      "Pretty Cure All Stars DX",
+      "Eiga Precure All Stars DX: Minna Tomodachi - Kiseki no Zenin Daishuugou!"
+    ]
+  },
+  {
     "id": 5762,
     "title_chinese": "15美少女漂流記",
     "title_japanese": "15美少女漂流記",
@@ -10414,6 +10474,13 @@
     "synonyms": [
       "Nyankoi"
     ]
+  },
+  {
+    "id": 6527,
+    "title_chinese": "電影 FRESH光之美少女! 玩具王國有很多秘密？！",
+    "title_japanese": "映画 フレッシュプリキュア！ おもちゃの国は秘密がいっぱい！？",
+    "title_romaji": "Fresh Precure! Movie: Omocha no Kuni wa Himitsu ga Ippai!?",
+    "title_english": "Fresh Precure! Movie: Omocha no Kuni wa Himitsu ga Ippai!?"
   },
   {
     "id": 6547,
@@ -12235,6 +12302,16 @@
     ]
   },
   {
+    "id": 9288,
+    "title_chinese": "電影 Heart Catch 光之美少女：超級時尚秀在花之都...真的嗎！？",
+    "title_japanese": "映画 ハートキャッチプリキュア！花の都でファッションショー・・・ですか！？",
+    "title_romaji": "Heartcatch Precure! Movie: Hana no Miyako de Fashion Show... Desu ka!?",
+    "title_english": "Heartcatch Precure! Movie: Hana no Miyako de Fashion Show... Desu ka!?",
+    "synonyms": [
+      "Heartcatch Precure! Hana no To de Fashion Show... desuka!?"
+    ]
+  },
+  {
     "id": 9289,
     "title_chinese": "花開物語",
     "title_japanese": "花咲くいろは",
@@ -12871,6 +12948,17 @@
     "title_japanese": "Floating Material",
     "title_romaji": "Floating Material",
     "title_english": "Floating Material"
+  },
+  {
+    "id": 9979,
+    "title_chinese": "光之美少女 All Stars DX3 傳達到未來！連結世界☆彩虹之花！",
+    "title_japanese": "映画 プリキュアオールスターズDX3 未来に届け!世界をつなぐ☆虹色の花",
+    "title_romaji": "Precure All Stars Movie DX3: Mirai ni Todoke! Sekai wo Tsunagu Niji-iro no Hana",
+    "title_english": "Precure All Stars Movie DX3: Mirai ni Todoke! Sekai wo Tsunagu Niji-iro no Hana",
+    "synonyms": [
+      "Pretty Cure All Stars DX3: Reach the Future! The Rainbow Flower that Connects the World",
+      "Eiga Precure All Stars DX3: Mirai ni Todoke! Sekai wo Tsunagu Niji-iro no Hana"
+    ]
   },
   {
     "id": 9981,
@@ -13605,6 +13693,16 @@
     ]
   },
   {
+    "id": 10549,
+    "title_chinese": "超～短篇 光之美少女系列 GOGO 夢幻的現場演唱會!",
+    "title_japanese": "ちょ～短編 プリキュアオールスターズ GoGoドリームライブ!",
+    "title_romaji": "Precure All Stars GoGo Dream Live!",
+    "title_english": "Precure All Stars GoGo Dream Live!",
+    "synonyms": [
+      "Pretty Cure All Stars GoGo Dream Live!"
+    ]
+  },
+  {
     "id": 10568,
     "title_chinese": "神的記事本",
     "title_japanese": "神様のメモ帳",
@@ -13928,6 +14026,17 @@
     "title_japanese": "機動戦士ガンダムAGE",
     "title_romaji": "Kidou Senshi Gundam AGE",
     "title_english": "Mobile Suit Gundam AGE"
+  },
+  {
+    "id": 10821,
+    "title_chinese": "電影 Suite 光之美少女♪ 奪取回來！連結心中的奇蹟旋律♪",
+    "title_japanese": "映画 スイートプリキュア♪ とりもどせ! 心がつなぐ奇跡のメロディ♪",
+    "title_romaji": "Suite Precure♪ Movie: Torimodose! Kokoro ga Tsunaku Kiseki no Melody♪",
+    "title_english": "Suite Precure♪ Movie: Torimodose! Kokoro ga Tsunaku Kiseki no Melody♪",
+    "synonyms": [
+      "Eiga Suite Pretty Cure♪: Torimodose! Kokoro ga Tsunaku Kiseki no Merodi♪",
+      "Suite Precure The Movie : Take it back! The Miraculous Melody that Connects Hearts"
+    ]
   },
   {
     "id": 10827,
@@ -15257,6 +15366,16 @@
     "title_english": "One Piece Film Z"
   },
   {
+    "id": 12863,
+    "title_chinese": "星光少女 美夢成真",
+    "title_japanese": "プリティーリズム ディアマイフューチャー",
+    "title_romaji": "Pretty Rhythm: Dear My Future",
+    "title_english": "Pretty Rhythm: Dear My Future",
+    "synonyms_chinese": [
+      "美妙旋律 Dear My Future"
+    ]
+  },
+  {
     "id": 12883,
     "title_chinese": "釣球",
     "title_japanese": "つり球",
@@ -16448,6 +16567,17 @@
     ]
   },
   {
+    "id": 15061,
+    "title_chinese": "星夢學園",
+    "title_japanese": "アイカツ!",
+    "title_romaji": "Aikatsu!",
+    "title_english": "Aikatsu!",
+    "synonyms_chinese": [
+      "偶像活動",
+      "偶像學園"
+    ]
+  },
+  {
     "id": 15085,
     "title_chinese": "AMNESIA 失憶症",
     "title_japanese": "アムネシア",
@@ -16566,6 +16696,13 @@
     "title_japanese": "変態王子と笑わない猫。",
     "title_romaji": "Hentai Ouji to Warawanai Neko.",
     "title_english": "Henneko: Hentai Prince and the Stony Cat"
+  },
+  {
+    "id": 15307,
+    "title_chinese": "電影 Smile 光之美少女! 兒童圖畫書裡的世界都不協調！",
+    "title_japanese": "映画 スマイルプリキュア! 絵本の中はみんなチグハグ!",
+    "title_romaji": "Smile Precure! Movie: Ehon no Naka wa Minna Chiguhagu!",
+    "title_english": "Smile Precure! Movie: Ehon no Naka wa Minna Chiguhagu!"
   },
   {
     "id": 15313,
@@ -17518,6 +17655,16 @@
     "title_english": "Unbreakable Machine-Doll",
     "synonyms": [
       "Kikou Shoujo wa Kizutsukanai"
+    ]
+  },
+  {
+    "id": 17249,
+    "title_chinese": "星光少女 彩虹舞台",
+    "title_japanese": "プリズティーリズム・レインボーライブ",
+    "title_romaji": "Pretty Rhythm: Rainbow Live",
+    "title_english": "Pretty Rhythm: Rainbow Live",
+    "synonyms_chinese": [
+      "美妙旋律 第三季"
     ]
   },
   {
@@ -19890,6 +20037,16 @@
     ]
   },
   {
+    "id": 20620,
+    "title_chinese": "星光少女 群星閃耀",
+    "title_japanese": "プリティーリズム・オールスターセレクション",
+    "title_romaji": "Pretty Rhythm: All Star Selection",
+    "title_english": "Pretty Rhythm: All Star Selection",
+    "synonyms_chinese": [
+      "美妙旋律 第四季"
+    ]
+  },
+  {
     "id": 20621,
     "title_chinese": "魔神之骨",
     "title_japanese": "マジンボーン",
@@ -20739,7 +20896,6 @@
     "synonyms_chinese": [
       "星光樂園",
       "美妙天堂",
-      "光之美少女",
       "美妙旋律姐妹篇:美妙天堂"
     ]
   },
@@ -21615,6 +21771,16 @@
     ]
   },
   {
+    "id": 20917,
+    "title_chinese": "劇場版 星光樂園 大集合！星光☆之旅",
+    "title_japanese": "劇場版プリパラ　み～んなあつまれ！プリズム☆ツアーズ",
+    "title_romaji": "PriPara Movie: Mi~nna Atsumare! Prism☆Tours",
+    "title_english": "PriPara Movie: Mi~nna Atsumare! Prism☆Tours",
+    "synonyms_chinese": [
+      "美妙天堂劇場版 全~體大集合! 美妙☆觀光"
+    ]
+  },
+  {
     "id": 20918,
     "title_chinese": "憑物語",
     "title_japanese": "憑物語",
@@ -21949,7 +22115,6 @@
     "synonyms_chinese": [
       "星光樂園 第二期",
       "美妙天堂 第二期",
-      "光之美少女 第二期",
       "美妙旋律姐妹篇:美妙天堂"
     ]
   },
@@ -23082,6 +23247,13 @@
     "title_english": "Suzakinishi: The Animation"
   },
   {
+    "id": 21207,
+    "title_chinese": "星夢學園！音樂大獎 大家一起來獲獎吧Show！",
+    "title_japanese": "アイカツ！ミュージックアワード みんなで賞をもらっちゃいまSHOW！",
+    "title_romaji": "Aikatsu! Music Award: Minna de Shou o Moraima SHOW!",
+    "title_english": "Aikatsu! Music Award: Minna de Shou o Moraima SHOW!"
+  },
+  {
     "id": 21212,
     "title_chinese": "劇場版 亞人 第1部 -衝動-",
     "title_japanese": "亜人 -衝動-",
@@ -23521,6 +23693,17 @@
     ]
   },
   {
+    "id": 21307,
+    "title_chinese": "星夢學園 第4部",
+    "title_japanese": "アイカツ! 4",
+    "title_romaji": "Aikatsu! 4",
+    "title_english": "Aikatsu! 4",
+    "synonyms_chinese": [
+      "偶像活動 第4部",
+      "偶像學園 第4部"
+    ]
+  },
+  {
     "id": 21311,
     "title_chinese": "文豪Stray Dogs",
     "title_japanese": "文豪ストレイドッグス",
@@ -23861,7 +24044,7 @@
     "title_chinese": "魔笛MAGI 辛巴達的冒險",
     "title_japanese": "マギ シンドバッドの冒険",
     "title_romaji": "Magi: Sinbad no Bouken",
-    "title_english": "Magi: Sinbad no Bouken",
+    "title_english": "Magi: Adventures of Sinbad",
     "synonyms_chinese": [
       "魔奇少年 辛巴達的冒險",
       "魔笛 辛巴德的冒險"
@@ -24445,7 +24628,6 @@
     "synonyms_chinese": [
       "星光樂園 第三期",
       "美妙天堂 第三期",
-      "光之美少女 第三期",
       "美妙旋律姐妹篇:美妙天堂"
     ]
   },
