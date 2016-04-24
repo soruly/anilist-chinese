@@ -6329,6 +6329,18 @@
     ]
   },
   {
+    "id": 2076,
+    "title_chinese": "金田一少年事件簿",
+    "title_japanese": "金田一少年の事件簿",
+    "title_romaji": "Kindaichi Shounen no Jikenbo (TV)",
+    "title_english": "Kindaichi Shounen no Jikenbo (TV)",
+    "synonyms": [
+      "Les Enquetes de Kindaichi",
+      "Young Kindaichi's Casebook",
+      "Kindaichi Case Files"
+    ]
+  },
+  {
     "id": 2104,
     "title_chinese": "瀨戶的花嫁",
     "title_japanese": "瀬戸の花嫁",
@@ -12223,6 +12235,24 @@
     ]
   },
   {
+    "id": 9107,
+    "title_chinese": "寵物小精靈BW",
+    "title_japanese": "ポケットモンスターベストウイッシュ",
+    "title_romaji": "Pokemon Best Wishes!",
+    "title_english": "Pokemon: Black & White",
+    "synonyms": [
+      "Pocket Monsters: Best Wishes!",
+      "Black & White",
+      "BW: Rival Destinies"
+    ],
+    "synonyms_chinese": [
+      "寵物小精靈：超級願望",
+      "神奇寶貝超級願望",
+      "神奇寶貝BW",
+      "神奇寶貝Best wishes"
+    ]
+  },
+  {
     "id": 9130,
     "title_chinese": "聖鬥士星矢 The Lost Canvas 冥王神話 2",
     "title_japanese": "聖闘士星矢 THE LOST CANVAS 冥王神話 2",
@@ -12793,6 +12823,16 @@
     "title_english": "Touhou Niji Sousaku Doujin Anime: Musou Kakyou",
     "synonyms": [
       "Touhou Unofficial Doujin Anime: A Summer Day's Dream"
+    ]
+  },
+  {
+    "id": 9893,
+    "title_chinese": "Suite 光之美少女♪",
+    "title_japanese": "スイート プリキュア♪",
+    "title_romaji": "Suite Precure♪",
+    "title_english": "Suite Precure♪",
+    "synonyms": [
+      "Suite Pretty Cure♪"
     ]
   },
   {
@@ -13380,6 +13420,16 @@
     ],
     "synonyms_chinese": [
       "幸福光暈〜hitotose〜"
+    ]
+  },
+  {
+    "id": 10257,
+    "title_chinese": "星光少女 極光之夢",
+    "title_japanese": "プリティーリズム オーロラドリーム",
+    "title_romaji": "Pretty Rhythm: Aurora Dream",
+    "title_english": "Pretty Rhythm: Aurora Dream",
+    "synonyms_chinese": [
+      "美妙旋律 彩虹之夢"
     ]
   },
   {
@@ -15942,6 +15992,23 @@
     ]
   },
   {
+    "id": 14093,
+    "title_chinese": "寵物小精靈BW 第2季",
+    "title_japanese": "ポケットモンスター ベストウイッシュ シーズン2",
+    "title_romaji": "Pokemon Best Wishes! Season 2",
+    "title_english": "Pokemon: Black & White 2",
+    "synonyms": [
+      "Pocket Monsters: Best Wishes! 2",
+      "Black & White 2"
+    ],
+    "synonyms_chinese": [
+      "寵物小精靈：超級願望 第2季",
+      "神奇寶貝超級願望 第2季",
+      "神奇寶貝BW 第2季",
+      "神奇寶貝Best wishes 第2季"
+    ]
+  },
+  {
     "id": 14127,
     "title_chinese": "パパラブ",
     "title_japanese": "パパラブ パパとイチャエロしたい娘達と一つ屋根の下で",
@@ -16981,6 +17048,17 @@
     ]
   },
   {
+    "id": 15819,
+    "title_chinese": "金田一少年事件簿 黑魔術殺人事件",
+    "title_japanese": "金田一少年の事件簿 黒魔術殺人事件編",
+    "title_romaji": "Kindaichi Shounen no Jikenbo: Kuromajutsu Satsujin Jiken-hen",
+    "title_english": "Kindaichi Shounen no Jikenbo: Kuromajutsu Satsujin Jiken-hen",
+    "synonyms": [
+      "Kindaichi Shounen no Jikenbo (2012)",
+      "Kindaichi Case Files: Black Magic Murder Case"
+    ]
+  },
+  {
     "id": 15843,
     "title_chinese": "恋糸記念日 THE ANIMATION",
     "title_japanese": "恋糸記念日 THE ANIMATION",
@@ -17621,6 +17699,22 @@
     ]
   },
   {
+    "id": 17115,
+    "title_chinese": "寵物小精靈BW 第2季 Episode N",
+    "title_japanese": "ポケットモンスター ベストウイッシュ シーズン2 エピソードN",
+    "title_romaji": "Pokemon Best Wishes! Season 2: Episode N",
+    "title_english": "Pokemon Best Wishes! Season 2: Episode N",
+    "synonyms": [
+      "Pocket Monsters: Best Wishes! 2 - Episode N"
+    ],
+    "synonyms_chinese": [
+      "寵物小精靈：超級願望 第2季 Episode N",
+      "神奇寶貝超級願望 第2季 Episode N",
+      "神奇寶貝BW 第2季 Episode N",
+      "神奇寶貝Best wishes 第2季 Episode N"
+    ]
+  },
+  {
     "id": 17121,
     "title_chinese": "某人的目光",
     "title_japanese": "だれかのまなざし",
@@ -18009,6 +18103,22 @@
     "title_english": "Namiuchigiwa no Muromi-san OVA",
     "synonyms": [
       "Namiuchigiwa no Muromi-san OAD"
+    ]
+  },
+  {
+    "id": 17873,
+    "title_chinese": "寵物小精靈BW 第2季 Da！",
+    "title_japanese": "ポケットモンスター ベストウイッシュ シーズン２ デコロラアドベンチャー",
+    "title_romaji": "Pokemon Best Wishes! Season 2: Dekorora Adventure",
+    "title_english": "Pokemon Best Wishes! Season 2: Dekorora Adventure",
+    "synonyms": [
+      "Pocket Monsters: Best Wishes Season 2 - Decolora Adventure Da!"
+    ],
+    "synonyms_chinese": [
+      "寵物小精靈：超級願望 第2季 Da！",
+      "神奇寶貝超級願望 第2季 Da！",
+      "神奇寶貝BW 第2季 Da！",
+      "神奇寶貝Best wishes 第2季 Da！"
     ]
   },
   {
