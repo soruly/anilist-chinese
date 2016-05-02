@@ -12826,6 +12826,16 @@
     ]
   },
   {
+    "id": 9883,
+    "title_chinese": "小松先生 (1988)",
+    "title_japanese": "おそ松くん",
+    "title_romaji": "Osomatsu-kun (1988)",
+    "title_english": "Osomatsu-kun (1988)",
+    "synonyms_chinese": [
+      "阿松 (1988)"
+    ]
+  },
+  {
     "id": 9893,
     "title_chinese": "Suite 光之美少女♪",
     "title_japanese": "スイート プリキュア♪",
@@ -24761,6 +24771,13 @@
     "title_japanese": "うさかめ",
     "title_romaji": "Usakame",
     "title_english": "Usakame"
+  },
+  {
+    "id": 21573,
+    "title_chinese": "High School DxD BorN OVA",
+    "title_japanese": "ハイスクールD×D BorN 蘇らない不死鳥",
+    "title_romaji": "High School DxD BorN: Yomigaeranai Fushichou",
+    "title_english": "High School DxD BorN: Yomigaeranai Fushichou"
   },
   {
     "id": 21575,
