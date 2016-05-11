@@ -8975,7 +8975,7 @@
     "title_chinese": "吸血鬼騎士 Guilty",
     "title_japanese": "ヴァンパイア騎士",
     "title_romaji": "Vampire Knight Guilty",
-    "title_english": "Vampire Knight",
+    "title_english": "Vampire Knight Guilty",
     "synonyms": [
       "Vampire Kishi 2",
       "Vampire Knight 2"
@@ -9233,7 +9233,7 @@
     "title_chinese": "屍姬 玄",
     "title_japanese": "屍姫 玄",
     "title_romaji": "Shikabane Hime: Kuro",
-    "title_english": "Corpse Princess",
+    "title_english": "Corpse Princess (2nd Season)",
     "synonyms": [
       "Shikabane Hime Second Season"
     ]
@@ -10900,9 +10900,12 @@
   {
     "id": 6956,
     "title_chinese": "Working!!",
-    "title_japanese": "ワーキング!!",
-    "title_romaji": "Working!!",
+    "title_japanese": "WORKING!!",
+    "title_romaji": "WORKING!!",
     "title_english": "Wagnaria!!",
+    "synonyms": [
+      "ワーキング!!"
+    ],
     "synonyms_chinese": [
       "迷糊餐廳",
       "無聊西餐廳"
@@ -13744,9 +13747,12 @@
   {
     "id": 10521,
     "title_chinese": "Working'!!",
-    "title_japanese": "ワーキング’!!",
-    "title_romaji": "Working'!!",
+    "title_japanese": "WORKING'!!",
+    "title_romaji": "WORKING'!!",
     "title_english": "Wagnaria!! 2",
+    "synonyms": [
+      "ワーキング’!!"
+    ],
     "synonyms_chinese": [
       "迷糊餐廳 第2季",
       "無聊西餐廳 第2季"
@@ -24317,7 +24323,10 @@
     "title_chinese": "ツンプリ",
     "title_japanese": "ツンプリ",
     "title_romaji": "Tsunpri",
-    "title_english": "Tsunpri"
+    "title_english": "Tsunpri",
+    "synonyms": [
+      "Tsunpuri"
+    ]
   },
   {
     "id": 21444,
