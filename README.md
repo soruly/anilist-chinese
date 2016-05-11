@@ -1,5 +1,7 @@
 ## Anilist 中文化
 
+[![Join the chat at https://gitter.im/soruly/anilist-chinese](https://badges.gitter.im/soruly/anilist-chinese.svg)](https://gitter.im/soruly/anilist-chinese?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 這個瀏覽器插件可以把[Anilist](http://anilist.co)上的動畫名稱中文化
 
 ## 安裝方法
