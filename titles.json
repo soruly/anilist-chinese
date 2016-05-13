@@ -17642,6 +17642,23 @@
     "title_english": "Muromi-san"
   },
   {
+    "id": 16916,
+    "title_chinese": "黑子的籃球 Tip Off",
+    "title_japanese": "黒子のバスケ 第22.5Q 「Tip off」",
+    "title_romaji": "Kuroko no Basket: Tip Off",
+    "title_english": "Kuroko no Basket: Tip Off",
+    "synonyms": [
+      "Kuroko no Basket Special",
+      "Kuroko no Basket Episode 22.5"
+    ],
+    "synonyms_chinese": [
+      "影子籃球員 Tip Off",
+      "幻影籃球王 Tip Off",
+      "黑子的籃球 OVA 1",
+      "黑子的籃球 22.5"
+    ]
+  },
+  {
     "id": 16918,
     "title_chinese": "銀之匙",
     "title_japanese": "銀の匙",
@@ -17775,6 +17792,22 @@
     "title_english": "Pretty Rhythm: Rainbow Live",
     "synonyms_chinese": [
       "美妙旋律 第三季"
+    ]
+  },
+  {
+    "id": 17259,
+    "title_chinese": "黑子的籃球 能再來一次嗎",
+    "title_japanese": "黒子のバスケ お喋りしよっか",
+    "title_romaji": "Kuroko no Basket: Oshaberi Shiyokka",
+    "title_english": "Kuroko no Basket: Oshaberi Shiyokka",
+    "synonyms": [
+      "Kuroko no Basket Special"
+    ],
+    "synonyms_chinese": [
+      "影子籃球員 能再來一次嗎",
+      "幻影籃球王 能再來一次嗎",
+      "黑子的籃球 OVA 2",
+      "黑子的籃球 41.5"
     ]
   },
   {
@@ -18891,6 +18924,21 @@
       "Burning Wind Ocean Earth Samurai Lord",
       "Bushilord",
       "Bushiroad"
+    ]
+  },
+  {
+    "id": 19669,
+    "title_chinese": "黑子的籃球 笨蛋是贏不了的！",
+    "title_japanese": "黒子のバスケ バカじゃ勝てないのよ!",
+    "title_romaji": "Kuroko no Basket: Baka ja Kattenai no yo!",
+    "title_english": "Kuroko no Basket: Baka ja Kattenai no yo!",
+    "synonyms": [
+      "Kuroko no Basket OAD"
+    ],
+    "synonyms_chinese": [
+      "影子籃球員 笨蛋是贏不了的！",
+      "幻影籃球王 笨蛋是贏不了的！",
+      "黑子的籃球 OVA 3"
     ]
   },
   {
@@ -21829,6 +21877,20 @@
     ]
   },
   {
+    "id": 20884,
+    "title_chinese": "排球少年 列夫前來拜見！",
+    "title_japanese": "ハイキュー!! リエーフ見参！",
+    "title_romaji": "Haikyuu!!: Lev Kenzan!",
+    "title_english": "Haikyu!!: Lev Kenzan!",
+    "synonyms": [
+      "Haikyuu!!: Jump Festa 2014 Special",
+      "Haikyuu!!: Lev Genzan!"
+    ],
+    "synonyms_chinese": [
+      "排球少年 OAD"
+    ]
+  },
+  {
     "id": 20901,
     "title_chinese": "動畫心療系",
     "title_japanese": "アニメで分かる心療内科",
@@ -23500,6 +23562,19 @@
     ]
   },
   {
+    "id": 21235,
+    "title_chinese": "黑子的籃球 最棒的禮物",
+    "title_japanese": "黒子のバスケ ~最高のプレゼントです~",
+    "title_romaji": "Kuroko no Basket: Saikou no Present Desu",
+    "title_english": "Kuroko's Basketball: Saikou no Present Desu",
+    "synonyms_chinese": [
+      "影子籃球員 最棒的禮物",
+      "幻影籃球王 最棒的禮物",
+      "黑子的籃球 OVA 4",
+      "黑子的籃球 75.5"
+    ]
+  },
+  {
     "id": 21237,
     "title_chinese": "神之見習者秘密的心靈蛋",
     "title_japanese": "かみさまみならい ヒミツのここたま",
@@ -23987,6 +24062,16 @@
     "title_japanese": "JKめし！",
     "title_romaji": "JK-Meshi!",
     "title_english": "JK-Meshi!"
+  },
+  {
+    "id": 21348,
+    "title_chinese": "排球少年 vs 赤點",
+    "title_japanese": "ハイキュー!! VS赤点",
+    "title_romaji": "Haikyuu!!: vs. Akaten",
+    "title_english": "Haikyu!!: vs. Akaten",
+    "synonyms_chinese": [
+      "排球少年 OAD"
+    ]
   },
   {
     "id": 21354,
