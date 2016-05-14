@@ -3078,10 +3078,7 @@
     "title_chinese": "極樂天師",
     "title_japanese": "あまえないでよっ!!",
     "title_romaji": "Amaenaide yo!!",
-    "title_english": "Ah! My Buddha",
-    "synonyms": [
-      "Amaenaideyo!!"
-    ],
+    "title_english": "Ah My Buddha!!",
     "synonyms_chinese": [
       "極道天師"
     ]
@@ -7160,9 +7157,9 @@
   {
     "id": 2942,
     "title_chinese": "素描簿",
-    "title_japanese": "Sketchbook: Full Color's",
-    "title_romaji": "Sketchbook: Full Color's",
-    "title_english": "Sketchbook: Full Color's"
+    "title_japanese": "スケッチブック 〜full color's〜",
+    "title_romaji": "Sketchbook: full color's",
+    "title_english": "Sketchbook ~full color's~"
   },
   {
     "id": 2952,
@@ -13386,11 +13383,7 @@
     "title_chinese": "召喚惡魔",
     "title_japanese": "よんでますよ、アザゼルさん。",
     "title_romaji": "Yondemasu yo, Azazel-san. (TV)",
-    "title_english": "Yondemasu yo, Azazel-san. (TV)",
-    "synonyms": [
-      "Yondemasu yo",
-      "Azazel-san. (2011)"
-    ],
+    "title_english": "You're Being Summoned, Azazel",
     "synonyms_chinese": [
       "惡魔阿薩謝爾在召喚你"
     ]
@@ -25179,8 +25172,8 @@
     "id": 21721,
     "title_chinese": "小飛翔魔女",
     "title_japanese": "ふらいんぐうぃっち ぷち",
-    "title_romaji": "flying witch Puchi",
-    "title_english": "flying witch Puchi"
+    "title_romaji": "Flying Witch Puchi",
+    "title_english": "Flying Witch Petit"
   },
   {
     "id": 21728,
