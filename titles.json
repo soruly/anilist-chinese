@@ -21458,8 +21458,8 @@
   {
     "id": 20807,
     "title_chinese": "監獄學園",
-    "title_japanese": "監獄学園 プリズンスクール",
-    "title_romaji": "Kangoku Gakuen Prison School",
+    "title_japanese": "監獄学園〈プリズンスクール〉",
+    "title_romaji": "Kangoku Gakuen",
     "title_english": "Prison School"
   },
   {
@@ -24936,6 +24936,16 @@
     "title_english": "Marshmallow, Imouto, Succubus"
   },
   {
+    "id": 21586,
+    "title_chinese": "終結的熾天使 吸血鬼米迦爾物語",
+    "title_japanese": "終わりのセラフ 吸血鬼シャハル",
+    "title_romaji": "Owari no Seraph: Kyuuketsuki Shahal",
+    "title_english": "Seraph of the End: Kyuuketsuki Shahal",
+    "synonyms_chinese": [
+      "終結的撒拉弗 吸血鬼米迦爾物語"
+    ]
+  },
+  {
     "id": 21594,
     "title_chinese": "少女から娼女へ...",
     "title_japanese": "少女から娼女へ...",
@@ -25167,6 +25177,13 @@
     "synonyms_chinese": [
       "美少女遊戲組合 Crane Game Girls"
     ]
+  },
+  {
+    "id": 21716,
+    "title_chinese": "LO Re：パコ すくすくみずきちゃん THE ANIMATION",
+    "title_japanese": "LO Re：パコ すくすくみずきちゃん THE ANIMATION",
+    "title_romaji": "LO Re: Pako Sukusuku Mizuki-chan The Animation",
+    "title_english": "LO Re: Pako Sukusuku Mizuki-chan The Animation"
   },
   {
     "id": 21721,
