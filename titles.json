@@ -3,7 +3,7 @@
     "id": 1,
     "title_chinese": "星際牛仔",
     "title_japanese": "カウボーイビバップ",
-    "title_romaji": "Cowboy Bebop",
+    "title_romaji": "COWBOY BEBOP",
     "title_english": "Cowboy Bebop"
   },
   {
@@ -80,7 +80,7 @@
     "id": 19,
     "title_chinese": "MONSTER",
     "title_japanese": "モンスター",
-    "title_romaji": "Monster",
+    "title_romaji": "MONSTER",
     "title_english": "Monster",
     "synonyms_chinese": [
       "魔剎",
@@ -91,7 +91,7 @@
     "id": 20,
     "title_chinese": "火影忍者",
     "title_japanese": "ナルト",
-    "title_romaji": "Naruto",
+    "title_romaji": "NARUTO",
     "title_english": "Naruto"
   },
   {
@@ -318,7 +318,7 @@
     "id": 60,
     "title_chinese": "聖槍修女",
     "title_japanese": "クロノクルセイド",
-    "title_romaji": "Chrno Crusade",
+    "title_romaji": "CHRNO CRUSADE",
     "title_english": "Chrono Crusade",
     "synonyms": [
       "Chrno Crusade: Mary Magdalene"
@@ -401,7 +401,7 @@
     "id": 68,
     "title_chinese": "Black Cat",
     "title_japanese": "ブラックキャット",
-    "title_romaji": "Black Cat",
+    "title_romaji": "BLACK CAT",
     "title_english": "Black Cat",
     "synonyms_chinese": [
       "黑貓"
@@ -421,7 +421,7 @@
     "id": 71,
     "title_chinese": "驚爆危機",
     "title_japanese": "フルメタル パニック！",
-    "title_romaji": "Full Metal Panic!",
+    "title_romaji": "FULL METAL PANIC!",
     "title_english": "Full Metal Panic!",
     "synonyms": [
       "FMP"
@@ -431,7 +431,7 @@
     "id": 72,
     "title_chinese": "驚爆危機 校園篇",
     "title_japanese": "フルメタル・パニック? ふもっふ",
-    "title_romaji": "Full Metal Panic? Fumoffu",
+    "title_romaji": "FULL METAL PANIC? FUMOFFU",
     "title_english": "Full Metal Panic? Fumoffu",
     "synonyms": [
       "Full Metal Panic Fumoffu"
@@ -441,7 +441,7 @@
     "id": 73,
     "title_chinese": "驚爆危機 The Second Raid",
     "title_japanese": "フルメタル パニック！The Second Raid",
-    "title_romaji": "Full Metal Panic! The Second Raid",
+    "title_romaji": "FULL METAL PANIC! The Second Raid",
     "title_english": "Full Metal Panic! The Second Raid",
     "synonyms": [
       "Full Metal Panic! TSR"
@@ -787,7 +787,7 @@
     "id": 134,
     "title_chinese": "GUNSLINGER GIRL",
     "title_japanese": "ガンスリンガー・ガール",
-    "title_romaji": "Gunslinger Girl",
+    "title_romaji": "GUNSLINGER GIRL",
     "title_english": "Gunslinger Girl",
     "synonyms": [
       "Gunslinger Girls"
@@ -1178,7 +1178,7 @@
     "id": 198,
     "title_chinese": "速寫者",
     "title_japanese": "スピードグラファー",
-    "title_romaji": "Speed Grapher",
+    "title_romaji": "SPEED GRAPHER",
     "title_english": "Speed Grapher",
     "synonyms_chinese": [
       "極速攝殺"
@@ -1341,7 +1341,7 @@
     "id": 239,
     "title_chinese": "岩窟王",
     "title_japanese": "巌窟王",
-    "title_romaji": "Gankutsuou",
+    "title_romaji": "GANKUTSUOU",
     "title_english": "Gankutsuou: The Count of Monte Cristo",
     "synonyms_chinese": [
       "巖窟王"
@@ -2061,7 +2061,7 @@
     "id": 387,
     "title_chinese": "灰羽連盟",
     "title_japanese": "灰羽連盟",
-    "title_romaji": "Haibane Renmei",
+    "title_romaji": "HAIBANE RENMEI",
     "title_english": "Haibane Renmei",
     "synonyms": [
       "Charcoal Feather Federation"
@@ -2356,7 +2356,7 @@
     "id": 442,
     "title_chinese": "火影忍者劇場版：大活劇！雪姬忍法帖！！",
     "title_japanese": "劇場版　NARUTO　大活劇！雪姫忍法帖だってばよ!!",
-    "title_romaji": "Naruto: Movie 1 - Dai Katsugeki!! Yuki Hime Shinobu Houjou Dattebayo!",
+    "title_romaji": "NARUTO: Movie 1 - Dai Katsugeki!! Yuki Hime Shinobu Houjou Dattebayo!",
     "title_english": "Naruto the Movie: Ninja Clash in the Land of Snow",
     "synonyms": [
       "Naruto: Daikatsugeki! Yukihime Ninpocho Dattebayo!",
@@ -2609,8 +2609,8 @@
     "id": 477,
     "title_chinese": "ARIA The ANIMATION",
     "title_japanese": "アリア　The Animation",
-    "title_romaji": "Aria the Animation",
-    "title_english": "Aria the Animation",
+    "title_romaji": "ARIA The ANIMATION",
+    "title_english": "ARIA The ANIMATION",
     "synonyms_chinese": [
       "水星領航員 第一季"
     ]
@@ -2684,7 +2684,7 @@
     "title_chinese": "草莓棉花糖",
     "title_japanese": "苺ましまろ",
     "title_romaji": "Ichigo Mashimaro",
-    "title_english": "The Strawberry Marshmallow"
+    "title_english": "Strawberry Marshmallow"
   },
   {
     "id": 489,
@@ -3726,7 +3726,7 @@
     "id": 857,
     "title_chinese": "AIR GEAR",
     "title_japanese": "エア・ギア",
-    "title_romaji": "Air Gear",
+    "title_romaji": "AIR GEAR",
     "title_english": "Air Gear",
     "synonyms_chinese": [
       "飛輪少年"
@@ -3931,7 +3931,7 @@
     "id": 889,
     "title_chinese": "Black Lagoon",
     "title_japanese": "ブラック・ラグーン",
-    "title_romaji": "Black Lagoon",
+    "title_romaji": "BLACK LAGOON",
     "title_english": "Black Lagoon",
     "synonyms_chinese": [
       "黑礁",
@@ -4051,7 +4051,7 @@
     "id": 936,
     "title_chinese": "火影忍者劇場版：大激突！夢幻的地底遺跡",
     "title_japanese": "劇場版　NARUTO　大激突！幻の地底遺跡だってばよ",
-    "title_romaji": "Naruto: Movie 2 - Daigekitotsu! Maboroshi no Chiteiiseki Dattebayo!",
+    "title_romaji": "NARUTO: Movie 2 - Daigekitotsu! Maboroshi no Chiteiiseki Dattebayo!",
     "title_english": "Naruto: Naruto's big clash in the Theatre! The illusion of the ruins of the depths of the earth!!",
     "synonyms": [
       "Naruto THE Movie vol.2",
@@ -4162,8 +4162,8 @@
     "id": 962,
     "title_chinese": "ARIA The NATURAL",
     "title_japanese": "アリア the Natural",
-    "title_romaji": "Aria the Natural",
-    "title_english": "Aria the Natural",
+    "title_romaji": "ARIA The NATURAL",
+    "title_english": "ARIA The NATURAL",
     "synonyms": [
       "Aria 2"
     ],
@@ -5094,7 +5094,7 @@
     "id": 1519,
     "title_chinese": "Black Lagoon The Second Barrage",
     "title_japanese": "BLACK LAGOON The Second Barrage",
-    "title_romaji": "Black Lagoon: The Second Barrage",
+    "title_romaji": "BLACK LAGOON: The Second Barrage",
     "title_english": "Black Lagoon: The Second Barrage",
     "synonyms": [
       "Black Lagoon 2nd Season",
@@ -5168,7 +5168,7 @@
     "id": 1535,
     "title_chinese": "Death Note",
     "title_japanese": "デスノート",
-    "title_romaji": "Death Note",
+    "title_romaji": "DEATH NOTE",
     "title_english": "Death Note",
     "synonyms_chinese": [
       "死亡筆記"
@@ -5329,7 +5329,7 @@
     "id": 1575,
     "title_chinese": "CODE GEASS 叛逆的魯魯修",
     "title_japanese": "コードギアス 反逆のルルーシュ",
-    "title_romaji": "Code Geass: Hangyaku no Lelouch",
+    "title_romaji": "CODE GEASS: Hangyaku no Lelouch",
     "title_english": "Code Geass: Lelouch of the Rebellion"
   },
   {
@@ -5565,8 +5565,8 @@
     "id": 1691,
     "title_chinese": "風之聖痕",
     "title_japanese": "風のスティグマ",
-    "title_romaji": "Kaze no Stigma",
-    "title_english": "Kaze no Stigma",
+    "title_romaji": "KAZE NO STIGMA",
+    "title_english": "KAZE NO STIGMA",
     "synonyms": [
       "Kaze no Seikon",
       "Stigma of the Wind"
@@ -5690,7 +5690,7 @@
     "id": 1735,
     "title_chinese": "火影忍者疾風傳",
     "title_japanese": "ナルト- 疾風伝",
-    "title_romaji": "Naruto: Shippuuden",
+    "title_romaji": "NARUTO: SHIPPUUDEN",
     "title_english": "Naruto: Shippuuden",
     "synonyms": [
       "Naruto Shippuuden",
@@ -6228,7 +6228,7 @@
     "id": 2025,
     "title_chinese": "DARKER THAN BLACK -黑之契約者-",
     "title_japanese": "Darker than BLACK -黒の契約者-",
-    "title_romaji": "Darker than Black: Kuro no Keiyakusha",
+    "title_romaji": "DARKER THAN BLACK: Kuro no Keiyakusha",
     "title_english": "Darker than Black"
   },
   {
@@ -6430,8 +6430,8 @@
   {
     "id": 2144,
     "title_chinese": "火影忍者劇場版：大興奮！三日月島上的動物騷亂",
-    "title_japanese": "Naruto: Movie 3 - Dai Koufun! Mikazuki Jima no Animaru Panikku Dattebayo!",
-    "title_romaji": "Naruto: Movie 3 - Dai Koufun! Mikazuki Jima no Animaru Panikku Dattebayo!",
+    "title_japanese": "NARUTO: Movie 3 - Dai Koufun! Mikazuki Jima no Animaru Panikku Dattebayo!",
+    "title_romaji": "NARUTO: Movie 3 - Dai Koufun! Mikazuki Jima no Animaru Panikku Dattebayo!",
     "title_english": "Naruto Movie 3: Large Interest Stirred Up! Cresent Moon Island`s Animal Rebellion",
     "synonyms": [
       "Naruto Movie Volume 3",
@@ -6650,7 +6650,7 @@
     "id": 2251,
     "title_chinese": "Baccano!",
     "title_japanese": "バッカーノ！",
-    "title_romaji": "Baccano!",
+    "title_romaji": "BACCANO!",
     "title_english": "Baccano!",
     "synonyms_chinese": [
       "Baccano! 大騷動!",
@@ -6779,8 +6779,8 @@
     "id": 2472,
     "title_chinese": "火影忍者劇場版：鳴門之死",
     "title_japanese": "ナルト 疾風伝",
-    "title_romaji": "Naruto: Shippuuden Movie 1",
-    "title_english": "Naruto: Shippuuden Movie 1",
+    "title_romaji": "NARUTO: SHIPPUUDEN Movie 1",
+    "title_english": "NARUTO: SHIPPUUDEN Movie 1",
     "synonyms": [
       "Naruto Shippuuden Movie",
       "Naruto Movie 4",
@@ -6862,8 +6862,8 @@
     "id": 2563,
     "title_chinese": "ARIA The OVA ARIETTA",
     "title_japanese": "アリア ジ オーブイエー ~アリエッタ~",
-    "title_romaji": "Aria the OVA: Arietta",
-    "title_english": "Aria the OVA: Arietta",
+    "title_romaji": "ARIA The OVA ~ARIETTA~",
+    "title_english": "ARIA The OVA ~ARIETTA~",
     "synonyms_chinese": [
       "水星領航員"
     ]
@@ -6919,8 +6919,8 @@
     "id": 2596,
     "title_chinese": "神靈狩 GHOST HOUND",
     "title_japanese": "神霊狩 GHOST HOUND",
-    "title_romaji": "Shinreigari: Ghost Hound",
-    "title_english": "Shinreigari: Ghost Hound",
+    "title_romaji": "Shinreigari: GHOST HOUND",
+    "title_english": "Ghost Hound",
     "synonyms": [
       "Ghost Hound"
     ]
@@ -7092,7 +7092,7 @@
     "id": 2904,
     "title_chinese": "CODE GEASS 叛逆的魯魯修 R2",
     "title_japanese": "コードギアス 反逆のルルーシュ 続編",
-    "title_romaji": "Code Geass: Hangyaku no Lelouch R2",
+    "title_romaji": "CODE GEASS: Hangyaku no Lelouch R2",
     "title_english": "Code Geass: Lelouch of the Rebellion R2",
     "synonyms": [
       "Code Geass: Hangyaku no Lelouch 2nd Season",
@@ -7197,8 +7197,8 @@
     "id": 2963,
     "title_chinese": "南家三姊妹",
     "title_japanese": "みなみけ",
-    "title_romaji": "Minami-ke",
-    "title_english": "Minami-ke",
+    "title_romaji": "minami-ke",
+    "title_english": "minami-ke",
     "synonyms": [
       "Minamike",
       "The Minami Family"
@@ -7528,8 +7528,8 @@
     "id": 3225,
     "title_chinese": "南家三姊妹 再來一碗",
     "title_japanese": "みなみけ～おかわり～",
-    "title_romaji": "Minami-ke Okawari",
-    "title_english": "Minami-ke Okawari",
+    "title_romaji": "minami-ke Okawari",
+    "title_english": "minami-ke Okawari",
     "synonyms": [
       "Minamike: Okawari"
     ],
@@ -7594,8 +7594,8 @@
     "id": 3231,
     "title_chinese": "GUNSLINGER GIRL -IL TEATRINO-",
     "title_japanese": "ガンスリンガー ガール -IL TEATRINO-",
-    "title_romaji": "Gunslinger Girl: Il Teatrino",
-    "title_english": "Gunslinger Girl: Il Teatrino",
+    "title_romaji": "GUNSLINGER GIRL: Il Teatrino",
+    "title_english": "Gunslinger Girl - Il Teatrino",
     "synonyms": [
       "Gunslinger Girl 2nd Season",
       "Gunslinger Girl Second"
@@ -7638,8 +7638,8 @@
     "id": 3297,
     "title_chinese": "ARIA The ORIGINATION",
     "title_japanese": "アリア ジ・オリジネーション",
-    "title_romaji": "Aria the Origination",
-    "title_english": "Aria the Origination",
+    "title_romaji": "ARIA The ORIGINATION",
+    "title_english": "ARIA The ORIGINATION",
     "synonyms_chinese": [
       "水星領航員 第三季"
     ]
@@ -8509,8 +8509,8 @@
   {
     "id": 4134,
     "title_chinese": "疾風木葉學園傳",
-    "title_japanese": "Naruto: Shippuuden - Konoha Gakuen Special",
-    "title_romaji": "Naruto: Shippuuden - Konoha Gakuen Special",
+    "title_japanese": "NARUTO: SHIPPUUDEN - Konoha Gakuen Special",
+    "title_romaji": "NARUTO: SHIPPUUDEN - Konoha Gakuen Special",
     "title_english": "Naruto Shippuden: Konoha Gakuen - Special",
     "synonyms": [
       "NARUTO Shippu Konoha Gakuen Den Special",
@@ -8729,7 +8729,7 @@
     "id": 4437,
     "title_chinese": "火影忍者劇場版：絆",
     "title_japanese": "劇場版NARUTO-ナルト- 疾風伝 絆",
-    "title_romaji": "Naruto: Shippuuden Movie 2 - Kizuna",
+    "title_romaji": "NARUTO: SHIPPUUDEN Movie 2 - Kizuna",
     "title_english": "Naruto: Hurricane Chronicles the Movie 2: Bonds",
     "synonyms": [
       "Naruto Movie 5",
@@ -8934,7 +8934,7 @@
     "id": 4725,
     "title_chinese": "食靈-零-",
     "title_japanese": "喰霊-零-",
-    "title_romaji": "Ga-Rei: Zero",
+    "title_romaji": "GA-REI-ZERO",
     "title_english": "Ga-Rei-Zero",
     "synonyms": [
       "Garei"
@@ -9101,7 +9101,7 @@
     "id": 4901,
     "title_chinese": "Black Lagoon Roberta's Blood Trail",
     "title_japanese": "ブラック・ラグーン",
-    "title_romaji": "Black Lagoon: Roberta's Blood Trail",
+    "title_romaji": "BLACK LAGOON: Roberta's Blood Trail",
     "title_english": "Black Lagoon: Roberta's Blood Trail",
     "synonyms": [
       "Black Lagoon 3"
@@ -9385,8 +9385,8 @@
     "id": 5162,
     "title_chinese": "南家三姊妹 歡迎回家",
     "title_japanese": "みなみけ おかえり",
-    "title_romaji": "Minami-ke Okaeri",
-    "title_english": "Minami-ke Okaeri",
+    "title_romaji": "minami-ke Okaeri",
+    "title_english": "minami-ke Okaeri",
     "synonyms_chinese": [
       "南家三姐妹 歡迎回家",
       "女生怪奇事件123 歡迎回家"
@@ -9796,8 +9796,8 @@
     "id": 5680,
     "title_chinese": "K-ON!",
     "title_japanese": "けいおん!",
-    "title_romaji": "K-On!",
-    "title_english": "K-On!",
+    "title_romaji": "K-ON!",
+    "title_english": "K-ON!",
     "synonyms": [
       "Keion",
       "K on"
@@ -9860,8 +9860,8 @@
     "id": 5713,
     "title_chinese": "南家三姊妹 甜品別腹",
     "title_japanese": "みなみけ べつばら",
-    "title_romaji": "Minami-ke Betsubara",
-    "title_english": "Minami-ke Betsubara",
+    "title_romaji": "minami-ke Betsubara",
+    "title_english": "minami-ke Betsubara",
     "synonyms": [
       "Minami-ke OVA",
       "Minami-ke OAD"
@@ -10342,8 +10342,8 @@
     "id": 6325,
     "title_chinese": "火影忍者劇場版：火意志的繼承者",
     "title_japanese": "ナルト- 疾風伝 火の意志を継ぐ者",
-    "title_romaji": "Naruto: Shippuuden Movie 3 - Hi no Ishi wo Tsugu Mono",
-    "title_english": "Naruto: Shippuuden Movie 3 - Hi no Ishi wo Tsugu Mono",
+    "title_romaji": "NARUTO: SHIPPUUDEN Movie 3 - Hi no Ishi wo Tsugu Mono",
+    "title_english": "NARUTO: SHIPPUUDEN Movie 3 - Hi no Ishi wo Tsugu Mono",
     "synonyms": [
       "Naruto Shippuuden: Gekijouban Naruto Shippuuden: Hi no Ishi o Tsugu Mono",
       "Naruto Shippuuden Movie 3",
@@ -10515,7 +10515,7 @@
     "id": 6573,
     "title_chinese": "DARKER THAN BLACK -流星之雙子-",
     "title_japanese": "DARKER THAN BLACK 流星の双子",
-    "title_romaji": "Darker than Black: Ryuusei no Gemini",
+    "title_romaji": "DARKER THAN BLACK: Ryuusei no Gemini",
     "title_english": "Darker than Black: Gemini of the Meteor"
   },
   {
@@ -11167,8 +11167,8 @@
     "id": 7338,
     "title_chinese": "DARKER THAN BLACK -黑之契約者- 外傳",
     "title_japanese": "Darker than BLACK -黒の契約者 外伝",
-    "title_romaji": "Darker than Black: Kuro no Keiyakusha Gaiden",
-    "title_english": "Darker than Black: Kuro no Keiyakusha Gaiden"
+    "title_romaji": "DARKER THAN BLACK: Kuro no Keiyakusha Gaiden",
+    "title_english": "DARKER THAN BLACK: Kuro no Keiyakusha Gaiden"
   },
   {
     "id": 7411,
@@ -11479,7 +11479,7 @@
     "id": 7791,
     "title_chinese": "K-ON!!",
     "title_japanese": "けいおん!!",
-    "title_romaji": "K-On!!",
+    "title_romaji": "K-ON!!",
     "title_english": "K-ON! Season 2",
     "synonyms": [
       "Keion 2",
@@ -11529,7 +11529,7 @@
     "id": 8074,
     "title_chinese": "Highschool of the Dead",
     "title_japanese": "学園黙示録 HIGHSCHOOL OF THE DEAD",
-    "title_romaji": "Gakuen Mokushiroku: Highschool of the Dead",
+    "title_romaji": "Gakuen Mokushiroku: HIGH SCHOOL OF THE DEAD",
     "title_english": "High School of the Dead",
     "synonyms": [
       "HOTD",
@@ -11650,8 +11650,8 @@
     "id": 8246,
     "title_chinese": "火影忍者劇場版：失落之塔",
     "title_japanese": "劇場版 NARUTO-ナルト-疾風伝 ザ・ロストタワー",
-    "title_romaji": "Naruto: Shippuuden Movie 4 - The Lost Tower",
-    "title_english": "Naruto: Shippuuden Movie 4 - The Lost Tower",
+    "title_romaji": "NARUTO: SHIPPUUDEN Movie 4 - The Lost Tower",
+    "title_english": "NARUTO: SHIPPUUDEN Movie 4 - The Lost Tower",
     "synonyms": [
       "Naruto Movie 7",
       "Gekijouban Naruto Shippuuden: The Lost Tower"
@@ -11745,8 +11745,8 @@
     "id": 8425,
     "title_chinese": "GOSICK",
     "title_japanese": "GOSICK -ゴシック-",
-    "title_romaji": "Gosick",
-    "title_english": "Gosick",
+    "title_romaji": "GOSICK",
+    "title_english": "GOSICK",
     "synonyms_chinese": [
       "GOSICK哥德偵探",
       "哥特蘿莉偵探事件簿"
@@ -12024,7 +12024,7 @@
     "title_chinese": "這樣算是殭屍嗎？",
     "title_japanese": "これはゾンビですか?",
     "title_romaji": "Kore wa Zombie Desu ka?",
-    "title_english": "Is This a Zombie?",
+    "title_english": "Is this a Zombie?",
     "synonyms": [
       "Koreha Zombie Desuka?",
       "Kore ha Zombie Desu ka?",
@@ -12060,7 +12060,7 @@
     "id": 8888,
     "title_chinese": "Code Geass 亡國的阿基德 第1章 翼龍飛舞之降",
     "title_japanese": "コードギアス 亡国のアキト 第1章 翼竜は舞い降りた",
-    "title_romaji": "Code Geass: Boukoku no Akito 1 - Yokuryuu wa Maiorita",
+    "title_romaji": "CODE GEASS: Boukoku no Akito 1 - Yokuryuu wa Maiorita",
     "title_english": "Code Geass: Akito the Exiled 1 - The Wyvern Arrives"
   },
   {
@@ -12526,7 +12526,7 @@
     "id": 9515,
     "title_chinese": "Highschool of the Dead OVA",
     "title_japanese": "学園黙示録 HIGHSCHOOL OF THE DEAD ドリフターズ・オブ・ザ・デッド",
-    "title_romaji": "Gakuen Mokushiroku: Highschool of the Dead: Drifters of the Dead",
+    "title_romaji": "Gakuen Mokushiroku: HIGH SCHOOL OF THE DEAD: Drifters of the Dead",
     "title_english": "High School of the Dead: Drifters of the Dead",
     "synonyms": [
       "High School of the Dead OVA",
@@ -12564,7 +12564,7 @@
     "id": 9617,
     "title_chinese": "K-ON! 輕音少女劇場版",
     "title_japanese": "映画 けいおん",
-    "title_romaji": "K-On! Movie",
+    "title_romaji": "K-ON! Movie",
     "title_english": "K-ON! The Movie",
     "synonyms": [
       "Eiga K-On!",
@@ -13356,7 +13356,7 @@
     "title_chinese": "這樣算是殭屍嗎？OVA",
     "title_japanese": "これはゾンビですか? OVA",
     "title_romaji": "Kore wa Zombie Desu ka? OVA",
-    "title_english": "Is This a Zombie? OVA",
+    "title_english": "Is this a Zombie? OVA",
     "synonyms": [
       "Kore wa Zombie Desu ka? Episode 13",
       "Koreha Zombie Desuka? OVA",
@@ -13449,8 +13449,8 @@
     "id": 10278,
     "title_chinese": "The iDOLM@STER",
     "title_japanese": "アイドルマスター",
-    "title_romaji": "The iDOLM@STER",
-    "title_english": "The iDOLM@STER",
+    "title_romaji": "THE iDOLM@STER",
+    "title_english": "The Idol Master",
     "synonyms": [
       "The Idolmaster"
     ],
@@ -13826,8 +13826,8 @@
     "id": 10589,
     "title_chinese": "火影忍者劇場版：血獄",
     "title_japanese": "劇場版NARUTO-ナルト- ブラッド・プリズン",
-    "title_romaji": "Naruto: Shippuuden Movie 5 - Blood Prison",
-    "title_english": "Naruto: Shippuuden Movie 5 - Blood Prison",
+    "title_romaji": "NARUTO: SHIPPUUDEN Movie 5 - Blood Prison",
+    "title_english": "NARUTO: SHIPPUUDEN Movie 5 - Blood Prison",
     "synonyms": [
       "Naruto Movie 8",
       "Gekijouban Naruto: Blood Prison"
@@ -14027,7 +14027,7 @@
     "id": 10793,
     "title_chinese": "Guilty Crown",
     "title_japanese": "ギルティクラウン",
-    "title_romaji": "Guilty Crown",
+    "title_romaji": "GUILTY CROWN",
     "title_english": "Guilty Crown",
     "synonyms_chinese": [
       "罪惡王冠",
@@ -14677,7 +14677,7 @@
     "id": 11757,
     "title_chinese": "Sword Art Online",
     "title_japanese": "ソードアート・オンライン",
-    "title_romaji": "Sword Art Online",
+    "title_romaji": "SWORD ART ONLINE",
     "title_english": "Sword Art Online",
     "synonyms": [
       "S.A.O",
@@ -15054,8 +15054,8 @@
     "id": 12189,
     "title_chinese": "冰菓",
     "title_japanese": "氷菓",
-    "title_romaji": "Hyouka",
-    "title_english": "Hyouka",
+    "title_romaji": "HYOUKA",
+    "title_english": "HYOUKA",
     "synonyms": [
       "Hyou-ka",
       "Hyouka: You can't escape",
@@ -15872,8 +15872,8 @@
     "id": 13667,
     "title_chinese": "火影忍者劇場版：忍者之路",
     "title_japanese": "劇場版 NARUTO -ナルト- ロード・トゥ・ニンジャ",
-    "title_romaji": "Naruto: Shippuuden Movie 6 - Road to Ninja",
-    "title_english": "Naruto: Shippuuden Movie 6 - Road to Ninja",
+    "title_romaji": "NARUTO: SHIPPUUDEN Movie 6 - Road to Ninja",
+    "title_english": "NARUTO: SHIPPUUDEN Movie 6 - Road to Ninja",
     "synonyms": [
       "Naruto Movie 9"
     ]
@@ -16045,8 +16045,8 @@
     "id": 14175,
     "title_chinese": "花開物語 Home Sweet Home",
     "title_japanese": "花咲くいろは Home Sweet Home",
-    "title_romaji": "Hanasaku Iroha: Home Sweet Home",
-    "title_english": "Hanasaku Iroha: Home Sweet Home",
+    "title_romaji": "Hanasaku Iroha: HOME SWEET HOME",
+    "title_english": "Hanasaku Iroha: HOME SWEET HOME",
     "synonyms": [
       "Hana-Saku Iroha: Home Sweet Home"
     ],
@@ -16125,8 +16125,8 @@
     "id": 14345,
     "title_chinese": "BTOOOM!",
     "title_japanese": "ブトゥーム",
-    "title_romaji": "Btooom!",
-    "title_english": "Btooom!",
+    "title_romaji": "BTOOOM!",
+    "title_english": "BTOOOM!",
     "synonyms_chinese": [
       "驚爆遊戲",
       "爆殺遊戲"
@@ -16237,8 +16237,8 @@
     "id": 14511,
     "title_chinese": "南家三姊妹 我回來了",
     "title_japanese": "みなみけ ただいま",
-    "title_romaji": "Minami-ke Tadaima",
-    "title_english": "Minami-ke Tadaima",
+    "title_romaji": "minami-ke Tadaima",
+    "title_english": "minami-ke Tadaima",
     "synonyms": [
       "Minami-ke 4th Season"
     ],
@@ -16306,8 +16306,8 @@
     "id": 14575,
     "title_chinese": "南家三姊妹 久候多時",
     "title_japanese": "みなみけ おまたせ",
-    "title_romaji": "Minami-ke Omatase",
-    "title_english": "Minami-ke Omatase",
+    "title_romaji": "minami-ke Omatase",
+    "title_english": "minami-ke Omatase",
     "synonyms_chinese": [
       "南家三姐妹 久候多時",
       "女生怪奇事件123 久候多時"
@@ -16402,7 +16402,7 @@
     "id": 14741,
     "title_chinese": "中二病也要談戀愛！",
     "title_japanese": "中二病でも恋がしたい!",
-    "title_romaji": "Chuunibyou demo Koi ga Shitai!",
+    "title_romaji": "Chuunibyou demo KOI ga shitai!",
     "title_english": "Love, Chunibyo & Other Delusions",
     "synonyms": [
       "Chu-2 Byo demo Koi ga Shitai!",
@@ -16510,7 +16510,7 @@
     "id": 14829,
     "title_chinese": "Fate/kaleid liner Prisma☆Illya",
     "title_japanese": "Fate/kaleid liner プリズマ☆イリヤ",
-    "title_romaji": "Fate/kaleid liner Prisma☆Illya",
+    "title_romaji": "Fate/kaleid liner PRISMA☆ILLYA",
     "title_english": "Fate/kaleid liner Prisma Illya",
     "synonyms_chinese": [
       "Fate/kaleid liner 魔法少女☆伊莉雅"
@@ -16625,7 +16625,7 @@
     "id": 15051,
     "title_chinese": "LoveLive!",
     "title_japanese": "ラブライブ! School idol project",
-    "title_romaji": "Love Live! School Idol Project",
+    "title_romaji": "Love Live! School idol project",
     "title_english": "Love Live! School Idol Project",
     "synonyms_chinese": [
       "明星學生妹",
@@ -16728,21 +16728,21 @@
     "id": 15197,
     "title_chinese": "Code Geass 亡國的阿基德 第2章 翼龍折翼",
     "title_japanese": "コードギアス 亡国のアキト 第2章 引き裂かれし翼竜",
-    "title_romaji": "Code Geass: Boukoku no Akito 2 - Hikisakareshi Yokuryuu",
+    "title_romaji": "CODE GEASS: Boukoku no Akito 2 - Hikisakareshi Yokuryuu",
     "title_english": "Code Geass: Akito the Exiled 2 - The Torn-Up Wyvern"
   },
   {
     "id": 15199,
     "title_chinese": "Code Geass 亡國的阿基德 第3章 閃耀之物由天墜落",
     "title_japanese": "コードギアス 亡国のアキト 第3章 輝くもの天より墮つ",
-    "title_romaji": "Code Geass: Boukoku no Akito 3 - Kagayakumono Ten Yori Otsu",
+    "title_romaji": "CODE GEASS: Boukoku no Akito 3 - Kagayakumono Ten Yori Otsu",
     "title_english": "Code Geass: Akito the Exiled 3 - The Brightness Falls"
   },
   {
     "id": 15201,
     "title_chinese": "Code Geass 亡國的阿基德 第4章 由怨恨的記憶開始",
     "title_japanese": "コードギアス 亡国のアキト 第4章 憎しみの記憶から",
-    "title_romaji": "Code Geass: Boukoku no Akito 4 - Nikushimi no Kioku Kara",
+    "title_romaji": "CODE GEASS: Boukoku no Akito 4 - Nikushimi no Kioku Kara",
     "title_english": "Code Geass: Akito the Exiled 4 - Memories of Hatred"
   },
   {
@@ -16771,7 +16771,7 @@
     "title_chinese": "變態王子與不笑貓",
     "title_japanese": "変態王子と笑わない猫。",
     "title_romaji": "Hentai Ouji to Warawanai Neko.",
-    "title_english": "Henneko: Hentai Prince and the Stony Cat"
+    "title_english": "HENNEKO – The Hentai Prince and the Stony Cat -"
   },
   {
     "id": 15307,
@@ -16794,7 +16794,7 @@
     "id": 15315,
     "title_chinese": "問題兒童都來自異世界？",
     "title_japanese": "問題児たちが異世界から来るそうですよ?",
-    "title_romaji": "Mondaiji-tachi ga Isekai kara Kuru Sou Desu yo?",
+    "title_romaji": "Mondaiji-tachi ga Isekai kara Kuru sou desu yo?",
     "title_english": "Problem Children Are Coming From Another World, Aren't They?"
   },
   {
@@ -16910,7 +16910,7 @@
     "id": 15583,
     "title_chinese": "Date A Live",
     "title_japanese": "デート・ア・ライブ",
-    "title_romaji": "Date A Live",
+    "title_romaji": "DATE A LIVE",
     "title_english": "Date A Live",
     "synonyms_chinese": [
       "約會大作戰"
@@ -17235,7 +17235,7 @@
     "id": 16067,
     "title_chinese": "來自風平浪靜的明天",
     "title_japanese": "凪のあすから",
-    "title_romaji": "Nagi no Asukara",
+    "title_romaji": "NAGI NO ASUKARA",
     "title_english": "Nagi-Asu: A Lull in the Sea",
     "synonyms_chinese": [
       "來自風平浪靜的明日",
@@ -17411,7 +17411,7 @@
     "id": 16512,
     "title_chinese": "惡魔倖存者 2",
     "title_japanese": "デビルサバイバー２ THE ANIMATION",
-    "title_romaji": "Devil Survivor 2 The Animation",
+    "title_romaji": "DEVIL SURVIVOR 2 THE ANIMATION",
     "title_english": "Devil Survivor 2 The Animation",
     "synonyms": [
       "DS2A",
@@ -17553,8 +17553,8 @@
     "id": 16732,
     "title_chinese": "黃金拼圖",
     "title_japanese": "きんいろモザイク",
-    "title_romaji": "Kiniro Mosaic",
-    "title_english": "Kinmoza!",
+    "title_romaji": "kiniro mosaic",
+    "title_english": "KINMOZA!",
     "synonyms_chinese": [
       "金色馬賽克",
       "黃金嵌片"
@@ -17590,8 +17590,8 @@
     "id": 16870,
     "title_chinese": "火影忍者劇場版：最終章",
     "title_japanese": "劇場版 NARUTO -ナルト- ザ・ラスト",
-    "title_romaji": "Naruto: Shippuuden Movie 7 - The Last",
-    "title_english": "Naruto: Shippuuden Movie 7 - The Last",
+    "title_romaji": "NARUTO: SHIPPUUDEN Movie 7 - The Last",
+    "title_english": "NARUTO: SHIPPUUDEN Movie 7 - The Last",
     "synonyms": [
       "Naruto Movie 10"
     ]
@@ -17621,8 +17621,8 @@
     "id": 16904,
     "title_chinese": "K Missing Kings",
     "title_japanese": "K MISSING KINGS",
-    "title_romaji": "K Missing Kings",
-    "title_english": "K Missing Kings",
+    "title_romaji": "K: MISSING KINGS",
+    "title_english": "K: MISSING KINGS",
     "synonyms": [
       "K-Project Movie"
     ]
@@ -18180,7 +18180,7 @@
     "id": 17895,
     "title_chinese": "青春紀行",
     "title_japanese": "ゴールデンタイム",
-    "title_romaji": "Golden Time",
+    "title_romaji": "GOLDEN TIME",
     "title_english": "Golden Time",
     "synonyms_chinese": [
       "黃金時代",
@@ -18325,7 +18325,7 @@
     "id": 18153,
     "title_chinese": "境界的彼方",
     "title_japanese": "境界の彼方",
-    "title_romaji": "Kyoukai no Kanata",
+    "title_romaji": "kyokai no kanata",
     "title_english": "Beyond the Boundary",
     "synonyms": [
       "Beyond the Horizon"
@@ -18400,7 +18400,7 @@
     "id": 18277,
     "title_chinese": "Strike the Blood",
     "title_japanese": "ストライク・ザ・ブラッド",
-    "title_romaji": "Strike the Blood",
+    "title_romaji": "STRIKE THE BLOOD",
     "title_english": "Strike the Blood",
     "synonyms_chinese": [
       "噬血狂襲"
@@ -18531,7 +18531,7 @@
     "id": 18671,
     "title_chinese": "中二病也要談戀愛！戀",
     "title_japanese": "中二病でも恋がしたい！戀",
-    "title_romaji": "Chuunibyou demo Koi ga Shitai! Ren",
+    "title_romaji": "Chuunibyou demo KOI ga shitai! REN",
     "title_english": "Love, Chunibyo & Other Delusions - Heart Throb -",
     "synonyms": [
       "Chuunibyou demo Koi ga Shitai! 2"
@@ -18636,7 +18636,7 @@
     "id": 19111,
     "title_chinese": "LoveLive! 2期",
     "title_japanese": "ラブライブ! School idol project 2期",
-    "title_romaji": "Love Live! School Idol Project 2nd Season",
+    "title_romaji": "Love Live! School idol project 2nd Season",
     "title_english": "Love Live! School Idol Project 2nd Season",
     "synonyms_chinese": [
       "明星學生妹 2期",
@@ -18689,8 +18689,8 @@
     "id": 19163,
     "title_chinese": "Date A Live II",
     "title_japanese": "デート・ア・ライブⅡ",
-    "title_romaji": "Date A Live II",
-    "title_english": "Date A Live II",
+    "title_romaji": "DATE A LIVE II",
+    "title_english": "DATE A LIVE II",
     "synonyms": [
       "Date A Live 2",
       "Date A Live Second Season"
@@ -19101,8 +19101,8 @@
     "id": 20221,
     "title_chinese": "南家三姊妹 夏日假期",
     "title_japanese": "みなみけ 夏やすみ",
-    "title_romaji": "Minami-ke Natsuyasumi",
-    "title_english": "Minami-ke Natsuyasumi",
+    "title_romaji": "minami-ke Natsuyasumi",
+    "title_english": "minami-ke Natsuyasumi",
     "synonyms_chinese": [
       "南家三姐妹 夏日假期",
       "女生怪奇事件123 夏日假期"
@@ -19239,7 +19239,7 @@
     "id": 20457,
     "title_chinese": "Black Bullet",
     "title_japanese": "ブラック・ブレット",
-    "title_romaji": "Black Bullet",
+    "title_romaji": "BLACK BULLET",
     "title_english": "Black Bullet",
     "synonyms_chinese": [
       "黑色子彈",
@@ -19280,7 +19280,7 @@
     "id": 20467,
     "title_chinese": "Fate/kaleid liner Prisma☆Illya 2wei!",
     "title_japanese": "Fate/kaleid linerプリズマ☆イリヤ ツヴァイ！",
-    "title_romaji": "Fate/kaleid liner Prisma☆Illya 2wei!",
+    "title_romaji": "Fate/kaleid liner PRISMA☆ILLYA 2wei!",
     "title_english": "Fate/Kaleid liner Prisma Illya 2wei!",
     "synonyms": [
       "Fate/kaleid liner Prisma☆Illya Zwei!"
@@ -19411,7 +19411,7 @@
     "title_chinese": "狐仙的戀愛入門",
     "title_japanese": "いなり、こんこん、恋いろは。",
     "title_romaji": "Inari, Konkon, Koi Iroha.",
-    "title_english": "Inari, Konkon, Koi Iroha.",
+    "title_english": "Inari Kon Kon",
     "synonyms_chinese": [
       "稻荷戀之歌"
     ]
@@ -19656,8 +19656,8 @@
     "id": 20521,
     "title_chinese": "濱虎",
     "title_japanese": "ハマトラ THE ANIMATION",
-    "title_romaji": "Hamatora The Animation",
-    "title_english": "Hamatora The Animation",
+    "title_romaji": "Hamatora THE ANIMATION",
+    "title_english": "Hamatora",
     "synonyms_chinese": [
       "超能偵探社",
       "橫濱之虎"
@@ -19759,8 +19759,8 @@
     "id": 20541,
     "title_chinese": "目隱都市的演繹者",
     "title_japanese": "メカクシティアクターズ",
-    "title_romaji": "Mekakucity Actors",
-    "title_english": "Mekakucity Actors",
+    "title_romaji": "MEKAKUCITY ACTORS",
+    "title_english": "MEKAKUCITY ACTORS",
     "synonyms": [
       "Kagerou Days",
       "Heat-Haze Days",
@@ -19989,8 +19989,8 @@
     "id": 20594,
     "title_chinese": "Sword Art Online II",
     "title_japanese": "ソードアート・オンライン II",
-    "title_romaji": "Sword Art Online II",
-    "title_english": "Sword Art Online 2",
+    "title_romaji": "SWORD ART ONLINE II",
+    "title_english": "Sword Art Online II",
     "synonyms": [
       "SAO2",
       "GGO"
@@ -20015,7 +20015,7 @@
     "id": 20596,
     "title_chinese": "青春之旅",
     "title_japanese": "アオハライド",
-    "title_romaji": "Ao Haru Ride",
+    "title_romaji": "AO HARU RIDE",
     "title_english": "Blue Spring Ride",
     "synonyms": [
       "Aoharaido"
@@ -20137,7 +20137,7 @@
     "id": 20613,
     "title_chinese": "斬！赤紅之瞳",
     "title_japanese": "アカメが斬る！",
-    "title_romaji": "Akame ga Kill!",
+    "title_romaji": "AKAME GA KILL!",
     "title_english": "Akame ga Kill!",
     "synonyms": [
       "Akame ga Kiru!"
@@ -20259,7 +20259,7 @@
     "id": 20629,
     "title_chinese": "火星異種",
     "title_japanese": "テラフォーマーズ",
-    "title_romaji": "Terra Formars",
+    "title_romaji": "TERRA FORMARS",
     "title_english": "TERRAFORMARS",
     "synonyms_chinese": [
       "Terra Formars ~火星任務~",
@@ -20285,8 +20285,8 @@
     "id": 20632,
     "title_chinese": "ALDNOAH.ZERO",
     "title_japanese": "アルドノア・ゼロ",
-    "title_romaji": "Aldnoah.Zero",
-    "title_english": "Aldnoah.Zero",
+    "title_romaji": "ALDNOAH.ZERO",
+    "title_english": "ALDNOAH.ZERO",
     "synonyms_chinese": [
       "ALDNOAH ZERO"
     ]
@@ -20368,7 +20368,7 @@
     "id": 20643,
     "title_chinese": "NORN9 命運九重奏",
     "title_japanese": "NORN9 ノルン+ノネット",
-    "title_romaji": "Norn9: Norn + Nonet",
+    "title_romaji": "NORN9: Norn + Nonet",
     "title_english": "Norn9",
     "synonyms": [
       "Norn9 Norun + Nonetto"
@@ -20470,8 +20470,8 @@
     "id": 20654,
     "title_chinese": "Hello!! 黃金拼圖",
     "title_japanese": "ハロー!!きんいろモザイク",
-    "title_romaji": "Hello!! Kiniro Mosaic",
-    "title_english": "Hello!! Kinmoza",
+    "title_romaji": "Hello!! kiniro mosaic",
+    "title_english": "Hello!! KINMOZA!",
     "synonyms_chinese": [
       "你好!! 金色馬賽克",
       "哈囉!! 黃金嵌片"
@@ -20481,7 +20481,7 @@
     "id": 20656,
     "title_chinese": "電波少女與錢仙大人",
     "title_japanese": "繰繰れ!コックリさん",
-    "title_romaji": "Gugure! Kokkuri-san",
+    "title_romaji": "GUGURE! KOKKURI-SAN",
     "title_english": "Gugure! Kokkuri-san",
     "synonyms_chinese": [
       "銀仙"
@@ -20600,8 +20600,11 @@
     "id": 20668,
     "title_chinese": "月刊少女野崎君",
     "title_japanese": "月刊少女野崎くん",
-    "title_romaji": "Gekkan Shoujo Nozaki-kun",
+    "title_romaji": "GEKKAN SHOJO NOZAKI-KUN",
     "title_english": "Monthly Girls' Nozaki-kun",
+    "synonyms": [
+      "Gekkan Shoujo Nozaki-kun"
+    ],
     "synonyms_chinese": [
       "月刊少女野崎同學",
       "月刊少女野崎"
@@ -20831,8 +20834,8 @@
     "id": 20711,
     "title_chinese": "Re:濱虎",
     "title_japanese": "Re:␣ハマトラ",
-    "title_romaji": "Re:_Hamatora",
-    "title_english": "Re:_Hamatora",
+    "title_romaji": "Re:_HAMATORA",
+    "title_english": "Re: Hamatora",
     "synonyms": [
       "Hamatora The Animation Season 2"
     ],
@@ -21045,8 +21048,8 @@
     "id": 20741,
     "title_chinese": "劇場版 Date A Live 萬由里審判",
     "title_japanese": "劇場版デート・ア・ライブ 万由里ジャッジメント",
-    "title_romaji": "Date A Live Movie: Mayuri Judgement",
-    "title_english": "Date A Live Movie: Mayuri Judgement",
+    "title_romaji": "DATE A LIVE Movie: Mayuri Judgement",
+    "title_english": "DATE A LIVE Movie: Mayuri Judgement",
     "synonyms_chinese": [
       "約會大作戰 萬由里審判"
     ]
@@ -21070,7 +21073,7 @@
     "id": 20744,
     "title_chinese": "幸腹塗鴉",
     "title_japanese": "幸腹グラフィティ",
-    "title_romaji": "Koufuku Graffiti",
+    "title_romaji": "KOUFUKU GRAFFITI",
     "title_english": "Gourmet Girl Graffiti",
     "synonyms": [
       "Happy Cooking Graffiti"
@@ -21236,7 +21239,7 @@
     "id": 20768,
     "title_chinese": "劇場版 境界的彼方 I'LL BE HERE 過去篇",
     "title_japanese": "劇場版 境界の彼方 I'LL BE HERE 過去篇",
-    "title_romaji": "Kyoukai no Kanata Movie: I'll Be Here - Kako-hen",
+    "title_romaji": "kyokai no kanata Movie: I'll BE HERE - Kako-hen",
     "title_english": "Beyond the Boundary Movie: I'll Be Here - Kako-hen"
   },
   {
@@ -21263,8 +21266,8 @@
     "id": 20773,
     "title_chinese": "Gangsta",
     "title_japanese": "ギャングスタ",
-    "title_romaji": "Gangsta.",
-    "title_english": "Gangsta.",
+    "title_romaji": "GANGSTA.",
+    "title_english": "GANGSTA.",
     "synonyms_chinese": [
       "GANGSTA 黑街"
     ]
@@ -21486,8 +21489,8 @@
     "id": 20812,
     "title_chinese": "白箱",
     "title_japanese": "SHIROBAKO",
-    "title_romaji": "Shirobako",
-    "title_english": "Shirobako",
+    "title_romaji": "SHIROBAKO",
+    "title_english": "SHIROBAKO",
     "synonyms": [
       "White Box"
     ]
@@ -21687,14 +21690,14 @@
     "id": 20843,
     "title_chinese": "Show By Rock!!",
     "title_japanese": "ＳＨＯＷ ＢＹ ＲＯＣＫ!!",
-    "title_romaji": "Show By Rock!!",
+    "title_romaji": "SHOW BY ROCK!!",
     "title_english": "Show By Rock!!"
   },
   {
     "id": 20845,
     "title_chinese": "Fate/kaleid liner Prisma☆Illya 2wei Herz!",
     "title_japanese": "Fate/kaleid liner プリズマ☆イリヤ ツヴァイ ヘルツ！",
-    "title_romaji": "Fate/kaleid liner Prisma☆Illya 2wei Herz!",
+    "title_romaji": "Fate/kaleid liner PRISMA☆ILLYA 2wei Herz!",
     "title_english": "Fate/kaleid liner Prisma Illya 2wei Herz!",
     "synonyms": [
       "Fate/kaleid liner Prisma☆Illya Zwei Herz!"
@@ -21724,7 +21727,7 @@
     "id": 20849,
     "title_chinese": "God Eater",
     "title_japanese": "ゴッドイーター",
-    "title_romaji": "God Eater",
+    "title_romaji": "GOD EATER",
     "title_english": "God Eater",
     "synonyms_chinese": [
       "噬神者"
@@ -21755,8 +21758,8 @@
     "id": 20853,
     "title_chinese": "ALDNOAH.ZERO",
     "title_japanese": "アルドノア・ゼロ 2",
-    "title_romaji": "Aldnoah.Zero 2",
-    "title_english": "Aldnoah.Zero 2",
+    "title_romaji": "ALDNOAH.ZERO 2",
+    "title_english": "ALDNOAH.ZERO 2",
     "synonyms_chinese": [
       "ALDNOAH ZERO"
     ]
@@ -21833,7 +21836,7 @@
     "id": 20877,
     "title_chinese": "美男高中地球防衛部Love！",
     "title_japanese": "美男高校地球防衛部LOVE!",
-    "title_romaji": "Binan Koukou Chikyuu Bouei-bu LOVE!",
+    "title_romaji": "BINAN KOUKOU CHIKYUU BOUEIBU LOVE!",
     "title_english": "Cute High Earth Defense Club LOVE!",
     "synonyms_chinese": [
       "美男高校地球防衛部LOVE！"
@@ -21863,8 +21866,8 @@
     "id": 20881,
     "title_chinese": "Heavy Object",
     "title_japanese": "ヘヴィーオブジェクト",
-    "title_romaji": "Heavy Object",
-    "title_english": "Heavy Object",
+    "title_romaji": "HEAVY OBJECT",
+    "title_english": "HEAVY OBJECT",
     "synonyms_chinese": [
       "重裝武器"
     ]
@@ -21935,8 +21938,8 @@
     "id": 20913,
     "title_chinese": "K RETURN OF KINGS",
     "title_japanese": "K RETURN OF KINGS",
-    "title_romaji": "K: Return of Kings",
-    "title_english": "K: Return of Kings",
+    "title_romaji": "K: RETURN OF KINGS",
+    "title_english": "K: RETURN OF KINGS",
     "synonyms": [
       "K-Project 2"
     ]
@@ -21983,7 +21986,7 @@
     "title_chinese": "夜之小雙俠",
     "title_japanese": "夜ノヤッターマン",
     "title_romaji": "Yoru no Yatterman",
-    "title_english": "Yoru no Yatterman",
+    "title_english": "Yatterman Night",
     "synonyms_chinese": [
       "夜晚的小雙俠",
       "夜晚的正義雙俠"
@@ -21993,8 +21996,11 @@
     "id": 20923,
     "title_chinese": "食戟之靈",
     "title_japanese": "食戟のソーマ",
-    "title_romaji": "Shokugeki no Souma ",
-    "title_english": "Food Wars! Shokugeki no Soma"
+    "title_romaji": "SHOKUGEKI NO SOMA",
+    "title_english": "Food Wars! Shokugeki no Soma",
+    "synonyms": [
+      "Shokugeki no Souma"
+    ]
   },
   {
     "id": 20924,
@@ -22139,7 +22145,7 @@
     "id": 20953,
     "title_chinese": "境界之輪迴",
     "title_japanese": "境界のRINNE",
-    "title_romaji": "Kyoukai no Rinne",
+    "title_romaji": "Kyoukai no RINNE",
     "title_english": "RIN-NE"
   },
   {
@@ -22174,7 +22180,7 @@
     "id": 20963,
     "title_chinese": "劇場版 境界的彼方 I'LL BE HERE 未來篇",
     "title_japanese": "劇場版 境界の彼方 I'LL BE HERE 未来篇",
-    "title_romaji": "Kyoukai no Kanata Movie: I'll Be Here - Mirai-hen",
+    "title_romaji": "kyokai no kanata Movie: I'LL BE HERE - Mirai-hen",
     "title_english": "Beyond the Boundary Movie: I'll Be Here - Mirai-hen"
   },
   {
@@ -22303,8 +22309,8 @@
     "id": 20987,
     "title_chinese": "乾物妹小埋",
     "title_japanese": "干物妹！うまるちゃん",
-    "title_romaji": "Himouto! Umaru-chan",
-    "title_english": "Himouto! Umaru-chan",
+    "title_romaji": "HIMOUTO! UMARU-CHAN",
+    "title_english": "HIMOUTO! UMARU-CHAN",
     "synonyms_chinese": [
       "我家有個魚乾妹"
     ]
@@ -22361,7 +22367,7 @@
     "id": 20994,
     "title_chinese": "GATE 奇幻自衛隊",
     "title_japanese": "GATE(ゲート) 自衛隊 彼の地にて、斯く戦えり",
-    "title_romaji": "Gate: Jieitai Kanochi nite, Kaku Tatakaeri",
+    "title_romaji": "GATE: Jieitai Kanochi nite, Kaku Tatakaeri",
     "title_english": "GATE"
   },
   {
@@ -22574,8 +22580,8 @@
     "id": 21043,
     "title_chinese": "ARIA The AVVENIRE",
     "title_japanese": "ARIA The AVVENIRE",
-    "title_romaji": "Aria the Avvenire",
-    "title_english": "Aria the Avvenire",
+    "title_romaji": "Aria The AVVENIRE",
+    "title_english": "Aria The AVVENIRE",
     "synonyms_chinese": [
       "水星領航員 The AVVENIRE"
     ]
@@ -22731,8 +22737,8 @@
     "id": 21075,
     "title_chinese": "Big Order",
     "title_japanese": "ビッグオーダー OAD",
-    "title_romaji": "Big Order OVA",
-    "title_english": "Big Order OVA",
+    "title_romaji": "BIG ORDER OVA",
+    "title_english": "BIG ORDER OVA",
     "synonyms_chinese": [
       "至高指令"
     ]
@@ -22786,8 +22792,8 @@
     "id": 21087,
     "title_chinese": "一拳超人",
     "title_japanese": "ワンパンマン",
-    "title_romaji": "One Punch Man",
-    "title_english": "One Punch Man"
+    "title_romaji": "ONE PUNCH MAN",
+    "title_english": "ONE PUNCH MAN"
   },
   {
     "id": 21088,
@@ -22837,8 +22843,8 @@
     "id": 21098,
     "title_chinese": "Strike the Blood",
     "title_japanese": "ストライク・ザ・ブラッド ヴァルキュリアの王国編",
-    "title_romaji": "Strike the Blood: Valkyria no Oukoku-hen",
-    "title_english": "Strike the Blood: Valkyria no Oukoku-hen",
+    "title_romaji": "STRIKE THE BLOOD: Valkyria no Oukoku-hen",
+    "title_english": "STRIKE THE BLOOD: Valkyria no Oukoku-hen",
     "synonyms": [
       "Strike the Blood: Valkyria no Oukoku-hen"
     ],
@@ -22993,8 +22999,8 @@
     "id": 21132,
     "title_chinese": "東京喰種 Jack",
     "title_japanese": "東京喰種トーキョーグール【ＪＡＣＫ】",
-    "title_romaji": "Tokyo Ghoul: Jack",
-    "title_english": "Tokyo Ghoul: Jack",
+    "title_romaji": "Tokyo Ghoul: JACK",
+    "title_english": "Tokyo Ghoul: JACK",
     "synonyms": [
       "Tokyo Kushu: Jack"
     ]
@@ -23275,8 +23281,8 @@
     "id": 21178,
     "title_chinese": "Code Geass 亡國的阿基德 第5章 致親愛的人與物",
     "title_japanese": "コードギアス 亡国のアキト 第5章 憎しみの記憶から",
-    "title_romaji": "Code Geass: Boukoku no Akito 5 - Itoshiki Mono-tachi e",
-    "title_english": "Code Geass: Boukoku no Akito 5 - Itoshiki Mono-tachi e"
+    "title_romaji": "CODE GEASS: Boukoku no Akito 5 - Itoshiki Mono-tachi e",
+    "title_english": "CODE GEASS: Boukoku no Akito 5 - Itoshiki Mono-tachi e"
   },
   {
     "id": 21179,
@@ -23359,7 +23365,7 @@
     "title_chinese": "甲鐵城的卡巴內里",
     "title_japanese": "甲鉄城のカバネリ",
     "title_romaji": "Koutetsujou no Kabaneri",
-    "title_english": "Kabaneri of the Iron Fortress",
+    "title_english": "KABANERI OF THE IRON FORTRESS",
     "synonyms_chinese": [
       "甲鐵城的煉屍"
     ]
@@ -23438,8 +23444,8 @@
     "id": 21212,
     "title_chinese": "劇場版 亞人 第1部 -衝動-",
     "title_japanese": "亜人 -衝動-",
-    "title_romaji": "Ajin: Shoudou",
-    "title_english": "Ajin: Shoudou"
+    "title_romaji": "AJIN: Shoudou",
+    "title_english": "AJIN: Shoudou"
   },
   {
     "id": 21213,
@@ -23581,7 +23587,7 @@
     "id": 21238,
     "title_chinese": "Unhappy♪",
     "title_japanese": "あんハピ♪",
-    "title_romaji": "Anne Happy♪",
+    "title_romaji": "ANNE HAPPY♪",
     "title_english": "Anne-Happy",
     "synonyms": [
       "Unhappy♪"
@@ -23701,7 +23707,7 @@
     "id": 21264,
     "title_chinese": "夢幻之星Online 2",
     "title_japanese": "PHANTASY STAR ONLINE2 THE ANIMATION",
-    "title_romaji": "Phantasy Star Online 2: The Animation",
+    "title_romaji": "PHANTASY START ONLINE 2: THE ANIMATION",
     "title_english": "Phantasy Star Online 2 The Animation"
   },
   {
@@ -23725,7 +23731,7 @@
     "id": 21275,
     "title_chinese": "彗星．路西法",
     "title_japanese": "コメット・ルシファー",
-    "title_romaji": "Comet Lucifer",
+    "title_romaji": "COMET LUCIFER",
     "title_english": "Comet Lucifer"
   },
   {
@@ -23821,7 +23827,7 @@
     "id": 21291,
     "title_chinese": "JOKER GAME",
     "title_japanese": "ジョーカー・ゲーム",
-    "title_romaji": "Joker Game",
+    "title_romaji": "JOKER GAME",
     "title_english": "JOKER GAME",
     "synonyms_chinese": [
       "鬼牌遊戲",
@@ -23850,7 +23856,7 @@
     "id": 21300,
     "title_chinese": "火星異種 Revenge",
     "title_japanese": "テラフォーマーズリベンジ",
-    "title_romaji": "Terra Formars Revenge",
+    "title_romaji": "TERRA FORMARS REVENGE",
     "title_english": "TERRAFORMARS REVENGE"
   },
   {
@@ -23870,8 +23876,8 @@
     "id": 21302,
     "title_chinese": "任性 High-Spec",
     "title_japanese": "ワガママハイスペック",
-    "title_romaji": "Wagamama High Spec",
-    "title_english": "Wagamama High Spec"
+    "title_romaji": "WAGAMAMA HIGH SPEC",
+    "title_english": "WAGAMAMA HIGH SPEC"
   },
   {
     "id": 21306,
@@ -23901,8 +23907,11 @@
     "id": 21311,
     "title_chinese": "文豪Stray Dogs",
     "title_japanese": "文豪ストレイドッグス",
-    "title_romaji": "Bungou Stray Dogs",
+    "title_romaji": "BUNGO STRAY DOGS",
     "title_english": "Bungo Stray Dogs",
+    "synonyms": [
+      "Bungou Stray Dogs"
+    ],
     "synonyms_chinese": [
       "文豪野犬"
     ]
@@ -23929,7 +23938,7 @@
     "id": 21316,
     "title_chinese": "Hai Furi",
     "title_japanese": "ハイスクール・フリート",
-    "title_romaji": "High School Fleet",
+    "title_romaji": "HIGH SCHOOL FLEET",
     "title_english": "High School Fleet",
     "synonyms": [
       "Haifuri"
@@ -23988,8 +23997,8 @@
     "id": 21326,
     "title_chinese": "東京喰種 Pinto",
     "title_japanese": "東京喰種 トーキョーグール【PINTO】",
-    "title_romaji": "Tokyo Ghoul: Pinto",
-    "title_english": "Tokyo Ghoul: Pinto",
+    "title_romaji": "Tokyo Ghoul: PINTO",
+    "title_english": "Tokyo Ghoul: PINTO",
     "synonyms": [
       "Tokyo Kushu: Pinto"
     ]
@@ -24005,8 +24014,8 @@
     "id": 21330,
     "title_chinese": "疾走王子",
     "title_japanese": "プリンス・オブ・ストライド　オルタナティブ",
-    "title_romaji": "Prince of Stride: Alternative",
-    "title_english": "Prince of Stride: Alternative"
+    "title_romaji": "PRINCE OF STRIDE: ALTERNATIVE",
+    "title_english": "PRINCE OF STRIDE: ALTERNATIVE"
   },
   {
     "id": 21332,
@@ -24046,7 +24055,7 @@
     "id": 21341,
     "title_chinese": "亞人",
     "title_japanese": "亜人",
-    "title_romaji": "Ajin",
+    "title_romaji": "AJIN",
     "title_english": "AJIN: Demi-Human"
   },
   {
@@ -24104,7 +24113,7 @@
     "id": 21357,
     "title_chinese": "境界之輪迴 2",
     "title_japanese": "境界のRINNE２",
-    "title_romaji": "Kyoukai no Rinne 2",
+    "title_romaji": "Kyoukai no RINNE 2",
     "title_english": "RIN-NE 2"
   },
   {
@@ -24132,7 +24141,7 @@
     "id": 21362,
     "title_chinese": "HUNDRED",
     "title_japanese": "ハンドレッド",
-    "title_romaji": "Hundred",
+    "title_romaji": "HUNDRED",
     "title_english": "Hundred",
     "synonyms_chinese": [
       "HUNDRED 百武裝戰記"
@@ -24142,7 +24151,7 @@
     "id": 21364,
     "title_chinese": "GATE 奇幻自衛隊 2",
     "title_japanese": "GATE(ゲート) 自衛隊 彼の地にて、斯く戦えり 2",
-    "title_romaji": "Gate: Jieitai Kanochi nite, Kaku Tatakaeri 2",
+    "title_romaji": "GATE: Jieitai Kanochi nite, Kaku Tatakaeri 2",
     "title_english": "GATE 2",
     "synonyms_chinese": [
       "GATE 奇幻自衛隊 炎龍篇"
@@ -24152,8 +24161,8 @@
     "id": 21365,
     "title_chinese": "粗點心戰爭",
     "title_japanese": "だがしかし",
-    "title_romaji": "Dagashi Kashi",
-    "title_english": "Dagashi Kashi"
+    "title_romaji": "DAGASHI KASHI",
+    "title_english": "DAGASHI KASHI"
   },
   {
     "id": 21369,
@@ -24219,8 +24228,8 @@
     "id": 21386,
     "title_chinese": "一拳超人",
     "title_japanese": "ワンパンマン「ロード・トゥ・ヒーロー」",
-    "title_romaji": "One Punch Man: Road to Hero",
-    "title_english": "One Punch Man: Road to Hero"
+    "title_romaji": "ONE PUNCH MAN: Road to Hero",
+    "title_english": "ONE PUNCH MAN: Road to Hero"
   },
   {
     "id": 21388,
@@ -24289,7 +24298,7 @@
     "id": 21417,
     "title_chinese": "Active Raid 機動強襲室第八課",
     "title_japanese": "アクティヴレイド 機動強襲室第八係",
-    "title_romaji": "Active Raid: Kidou Kyoushuushitsu Dai Hakkei",
+    "title_romaji": "ACTIVE RAID: Kidou Kyoushuushitsu Dai Hakkei",
     "title_english": "Active Raid"
   },
   {
@@ -24424,7 +24433,7 @@
     "id": 21445,
     "title_chinese": "Big Order",
     "title_japanese": "ビッグオーダー",
-    "title_romaji": "Big Order",
+    "title_romaji": "BIG ORDER",
     "title_english": "BIG ORDER",
     "synonyms_chinese": [
       "至高指令"
@@ -24594,7 +24603,7 @@
     "id": 21495,
     "title_chinese": "田中同學總是懶洋洋",
     "title_japanese": "田中くんはいつもけだるげ",
-    "title_romaji": "Tanaka-kun wa Itsumo Kedaruge",
+    "title_romaji": "tanaka-kun wa itsumo kedaruge",
     "title_english": "Tanaka-kun is Always Listless",
     "synonyms_chinese": [
       "田中君總是如此慵懶",
@@ -24683,8 +24692,8 @@
     "id": 21516,
     "title_chinese": "黑骸",
     "title_japanese": "クロムクロ",
-    "title_romaji": "Kuromukuro",
-    "title_english": "Kuromukuro",
+    "title_romaji": "KUROMUKURO",
+    "title_english": "KUROMUKURO",
     "synonyms_chinese": [
       "黑色殘骸"
     ]
@@ -24876,8 +24885,8 @@
     "id": 21570,
     "title_chinese": "兔龜高校網球部",
     "title_japanese": "うさかめ",
-    "title_romaji": "Usakame",
-    "title_english": "Usakame"
+    "title_romaji": "USAKAME",
+    "title_english": "USAKAME"
   },
   {
     "id": 21573,
@@ -24998,8 +25007,8 @@
     "id": 21611,
     "title_chinese": "Endride",
     "title_japanese": "エンドライド",
-    "title_romaji": "Endride",
-    "title_english": "Endride",
+    "title_romaji": "ENDRIDE",
+    "title_english": "ENDRIDE",
     "synonyms_chinese": [
       "最終騎士"
     ]
@@ -25095,7 +25104,7 @@
     "id": 21636,
     "title_chinese": "影鰐-承-",
     "title_japanese": "影鰐-承-",
-    "title_romaji": "Kagewani: Shou",
+    "title_romaji": "KAGEWANI: Shou",
     "title_english": "Kagewani ~II~"
   },
   {
@@ -25165,8 +25174,11 @@
     "id": 21691,
     "title_chinese": "食戟之靈 OVA",
     "title_japanese": "食戟のソーマ OVA",
-    "title_romaji": "Shokugeki no Souma OVA",
-    "title_english": "Shokugeki no Souma OVA"
+    "title_romaji": "SHOKUGEKI NO SOMA OVA",
+    "title_english": "SHOKUGEKI NO SOMA OVA",
+    "synonyms": [
+      "Shokugeki no Souma OVA"
+    ]
   },
   {
     "id": 21694,
@@ -25190,7 +25202,10 @@
     "title_chinese": "小飛翔魔女",
     "title_japanese": "ふらいんぐうぃっち ぷち",
     "title_romaji": "Flying Witch Puchi",
-    "title_english": "Flying Witch Petit"
+    "title_english": "Flying Witch Puchi",
+    "synonyms": [
+      "Flying Witch Petit"
+    ]
   },
   {
     "id": 21728,
@@ -25210,8 +25225,8 @@
     "id": 21743,
     "title_chinese": "Ragnastrike Angels",
     "title_japanese": "ラグナストライクエンジェルズ",
-    "title_romaji": "Ragnastrike Angels",
-    "title_english": "Ragnastrike Angels",
+    "title_romaji": "RAGNASTRIKE ANGELS",
+    "title_english": "RAGNASTRIKE ANGELS",
     "synonyms_chinese": [
       "拉格納的強襲天使"
     ]
