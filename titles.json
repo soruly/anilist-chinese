@@ -20,7 +20,7 @@
     "id": 6,
     "title_chinese": "Trigun",
     "title_japanese": "トライガン",
-    "title_romaji": "Trigun",
+    "title_romaji": "TRIGUN",
     "title_english": "Trigun",
     "synonyms_chinese": [
       "槍神Trigun"
@@ -880,7 +880,7 @@
     "id": 150,
     "title_chinese": "BLOOD+",
     "title_japanese": "ブラッドプラス",
-    "title_romaji": "Blood+",
+    "title_romaji": "BLOOD+",
     "title_english": "Blood+",
     "synonyms": [
       "Blood Plus"
@@ -1896,7 +1896,7 @@
     "id": 355,
     "title_chinese": "灼眼的夏娜",
     "title_japanese": "灼眼のシャナ",
-    "title_romaji": "Shakugan no Shana",
+    "title_romaji": "Shakugan no SHANA",
     "title_english": "Shana of the Burning Eyes"
   },
   {
@@ -2521,7 +2521,7 @@
     "id": 467,
     "title_chinese": "攻殼機動隊 STAND ALONE COMPLEX",
     "title_japanese": "攻殻機動隊 STAND ALONE COMPLEX",
-    "title_romaji": "Koukaku Kidoutai: Stand Alone Complex",
+    "title_romaji": "Koukaku Kidoutai: STAND ALONE COMPLEX",
     "title_english": "Ghost in the Shell: Stand Alone Complex",
     "synonyms": [
       "Ghost in the Shell SAC",
@@ -2533,7 +2533,7 @@
     "id": 468,
     "title_chinese": "攻殼機動隊 2 INNOCENCE",
     "title_japanese": "攻殻機動隊イノセンス",
-    "title_romaji": "Koukaku Kidoutai: Innocence",
+    "title_romaji": "Koukaku Kidoutai: INNOCENCE",
     "title_english": "Ghost in the Shell 2: Innocence"
   },
   {
@@ -3560,7 +3560,7 @@
     "id": 801,
     "title_chinese": "攻殼機動隊 S.A.C. 2nd GIG",
     "title_japanese": "攻殻機動隊 S.A.C. 2nd GIG",
-    "title_romaji": "Koukaku Kidoutai: Stand Alone Complex 2nd GIG",
+    "title_romaji": "Koukaku Kidoutai: STAND ALONE COMPLEX 2nd GIG",
     "title_english": "Ghost in the Shell: Stand Alone Complex 2nd GIG",
     "synonyms": [
       "Koukaku Kidoutai S.A.C. 2nd GIG",
@@ -5282,7 +5282,7 @@
     "id": 1566,
     "title_chinese": "攻殻機動隊 STAND ALONE COMPLEX Solid State Society",
     "title_japanese": "攻殻機動隊 STAND ALONE COMPLEX Solid State Society",
-    "title_romaji": "Koukaku Kidoutai: Stand Alone Complex - Solid State Society",
+    "title_romaji": "Koukaku Kidoutai: STAND ALONE COMPLEX - Solid State Society",
     "title_english": "Ghost in the Shell: Stand Alone Complex - Solid State Society",
     "synonyms": [
       "Koukaku Kidoutai Stand Alone Complex - Solid State Society",
@@ -5746,8 +5746,8 @@
     "id": 1815,
     "title_chinese": "劇場版 灼眼的夏娜",
     "title_japanese": "劇場版 灼眼のシャナ",
-    "title_romaji": "Shakugan no Shana Movie",
-    "title_english": "Shakugan no Shana Movie",
+    "title_romaji": "Shakugan no  SHANA Movie",
+    "title_english": "Shakugan no  SHANA Movie",
     "synonyms": [
       "Gekijouban Shakugan no Shana"
     ]
@@ -5756,7 +5756,7 @@
     "id": 1818,
     "title_chinese": "Claymore",
     "title_japanese": "クレイモア",
-    "title_romaji": "Claymore",
+    "title_romaji": "CLAYMORE",
     "title_english": "Claymore",
     "synonyms_chinese": [
       "大劍 CLAYMORE",
@@ -6757,7 +6757,7 @@
     "id": 2448,
     "title_chinese": "攻殼機動隊 S.A.C. 2nd GIG Individual Eleven",
     "title_japanese": "攻殻機動隊 S.A.C. 2nd GIG Individual Eleven",
-    "title_romaji": "Koukaku Kidoutai: Stand Alone Complex 2nd GIG - Individual Eleven",
+    "title_romaji": "Koukaku Kidoutai: STAND ALONE COMPLEX 2nd GIG - Individual Eleven",
     "title_english": "Ghost in the Shell: S.A.C. 2nd GIG - Individual Eleven",
     "synonyms": [
       "Ghost in the Shell: SAC 2nd GIG Movie",
@@ -6768,7 +6768,7 @@
     "id": 2449,
     "title_chinese": "攻殼機動隊 STAND ALONE COMPLEX The Laughing Man",
     "title_japanese": "攻殻機動隊 Stand Alone Complex - The Laughing Man",
-    "title_romaji": "Koukaku Kidoutai: Stand Alone Complex - The Laughing Man",
+    "title_romaji": "Koukaku Kidoutai: STAND ALONE COMPLEX - The Laughing Man",
     "title_english": "Ghost in the Shell: Stand Alone Complex - The Laughing Man",
     "synonyms": [
       "Ghost in the Shell: STAND ALONE COMPLEX Movie",
@@ -7041,8 +7041,8 @@
     "id": 2787,
     "title_chinese": "灼眼的夏娜 II",
     "title_japanese": "灼眼のシャナII (Second)",
-    "title_romaji": "Shakugan no Shana II (Second)",
-    "title_english": "Shakugan no Shana II (Second)",
+    "title_romaji": "Shakugan no  SHANA II (Second)",
+    "title_english": "Shakugan no  SHANA II (Second)",
     "synonyms": [
       "Shakugan no Shana Second",
       "Shakugan no Shana 2"
@@ -7741,7 +7741,7 @@
     "id": 3366,
     "title_chinese": "Persona Trinity Soul",
     "title_japanese": "ペルソナ 〜トリニティ・ソウル〜",
-    "title_romaji": "Persona: Trinity Soul",
+    "title_romaji": "PERSONA -trinity soul-",
     "title_english": "Persona: Trinity Soul",
     "synonyms_chinese": [
       "女神異聞錄 聖靈之魂"
@@ -8914,8 +8914,8 @@
     "id": 4720,
     "title_chinese": "White Album",
     "title_japanese": "ホワイトアルバム",
-    "title_romaji": "White Album",
-    "title_english": "White Album",
+    "title_romaji": "WHITE ALBUM",
+    "title_english": "WHITE ALBUM",
     "synonyms": [
       "W.A."
     ],
@@ -9246,7 +9246,7 @@
     "id": 5040,
     "title_chinese": "ONE OUTS",
     "title_japanese": "ワンナウツ",
-    "title_romaji": "One Outs",
+    "title_romaji": "ONE OUTS",
     "title_english": "One Outs",
     "synonyms": [
       "ONE OUTS Nobody wins",
@@ -9597,7 +9597,7 @@
     "id": 5356,
     "title_chinese": "CANAAN",
     "title_japanese": "カナン",
-    "title_romaji": "Canaan",
+    "title_romaji": "CANAAN",
     "title_english": "Canaan",
     "synonyms": [
       "428 ~Fuusa Sareta Shibuya de~ Tokubetsu Hen",
@@ -10151,8 +10151,8 @@
     "id": 6114,
     "title_chinese": "少年犯罪檔案",
     "title_japanese": "RAINBOW 二舎六房の七人",
-    "title_romaji": "Rainbow: Nisha Rokubou no Shichinin",
-    "title_english": "Rainbow: Nisha Rokubou no Shichinin",
+    "title_romaji": "RAINBOW: Nisha Rokubou no Shichinin",
+    "title_english": "Rainbow",
     "synonyms": [
       "Rainbow"
     ],
@@ -10219,8 +10219,8 @@
     "id": 6165,
     "title_chinese": "White Album",
     "title_japanese": "WHITE ALBUM 第2期",
-    "title_romaji": "White Album 2nd Season",
-    "title_english": "White Album 2nd Season",
+    "title_romaji": "WHITE ALBUM 2nd Season",
+    "title_english": "WHITE ALBUM 2nd Season",
     "synonyms": [
       "White Album Second Season",
       "White Album the Latter Half"
@@ -10505,8 +10505,8 @@
     "id": 6572,
     "title_chinese": "灼眼的夏娜 S",
     "title_japanese": "灼眼のシャナ S",
-    "title_romaji": "Shakugan no Shana S",
-    "title_english": "Shakugan no Shana S",
+    "title_romaji": "Shakugan no  SHANA S",
+    "title_english": "Shakugan no  SHANA S",
     "synonyms": [
       "Shakugan no Shana OVA 2"
     ]
@@ -10760,8 +10760,8 @@
     "id": 6773,
     "title_chinese": "灼眼的夏娜 III",
     "title_japanese": "灼眼のシャナIII (Final)",
-    "title_romaji": "Shakugan no Shana III (Final)",
-    "title_english": "Shakugan no Shana III (Final)",
+    "title_romaji": "Shakugan no  SHANA III (Final)",
+    "title_english": "Shakugan no  SHANA III (Final)",
     "synonyms": [
       "Shakugan no Shana Third",
       "Shakugan no Shana 3",
@@ -12000,7 +12000,7 @@
     "id": 8769,
     "title_chinese": "我的妹妹哪有這麼可愛！",
     "title_japanese": "俺の妹がこんなに可愛いわけがない",
-    "title_romaji": "Ore no Imouto ga Konnani Kawaii Wake ga Nai",
+    "title_romaji": "ore no imouto ga konnani kawaii wake ga nai",
     "title_english": "Oreimo",
     "synonyms": [
       "My Little Sister Can't Be This Cute"
@@ -12485,8 +12485,8 @@
     "id": 9479,
     "title_chinese": "Coppelion",
     "title_japanese": "コッペリオン",
-    "title_romaji": "Coppelion",
-    "title_english": "Coppelion",
+    "title_romaji": "COPPELION",
+    "title_english": "COPPELION",
     "synonyms_chinese": [
       "核爆末世錄",
       "核爆默示錄"
@@ -12955,7 +12955,7 @@
     "id": 9941,
     "title_chinese": "TIGER & BUNNY",
     "title_japanese": "TIGER & BUNNY （タイガー・アンド・バニー）",
-    "title_romaji": "Tiger & Bunny",
+    "title_romaji": "TIGER & BUNNY",
     "title_english": "Tiger & Bunny",
     "synonyms": [
       "Tiger and Bunny",
@@ -13305,7 +13305,7 @@
     "id": 10165,
     "title_chinese": "日常",
     "title_japanese": "日常",
-    "title_romaji": "Nichijou",
+    "title_romaji": "nichijou",
     "title_english": "My Ordinary Life",
     "synonyms": [
       "Everyday"
@@ -13813,7 +13813,7 @@
     "id": 10588,
     "title_chinese": "Persona 4 The Animation",
     "title_japanese": "ペルソナ4アニメーション",
-    "title_romaji": "Persona 4 The Animation",
+    "title_romaji": "Persona 4 the ANIMATION",
     "title_english": "Persona 4 The Animation",
     "synonyms": [
       "P4A"
@@ -14912,7 +14912,7 @@
     "id": 12015,
     "title_chinese": "劇場版 TIGER & BUNNY The Beginning",
     "title_japanese": "劇場版 TIGER & BUNNY -The Beginning-",
-    "title_romaji": "Tiger & Bunny Movie 1: The Beginning",
+    "title_romaji": "TIGER & BUNNY Movie 1: The Beginning",
     "title_english": "Tiger & Bunny Movie 1",
     "synonyms": [
       "Tiger and Bunny Movie 1",
@@ -14926,7 +14926,7 @@
     "id": 12017,
     "title_chinese": "劇場版 TIGER & BUNNY The Rising",
     "title_japanese": "劇場版 TIGER & BUNNY",
-    "title_romaji": "Tiger & Bunny Movie 2: The Rising",
+    "title_romaji": "TIGER & BUNNY Movie 2: The Rising",
     "title_english": "Tiger & Bunny Movie 2",
     "synonyms": [
       "Tiger and Bunny Movie 2",
@@ -15690,9 +15690,9 @@
   {
     "id": 13333,
     "title_chinese": "Tari Tari",
-    "title_japanese": "Tari Tari",
-    "title_romaji": "Tari Tari",
-    "title_english": "Tari Tari",
+    "title_japanese": "TARI TARI",
+    "title_romaji": "TARI TARI",
+    "title_english": "TARI TARI",
     "synonyms_chinese": [
       "心之旋律"
     ]
@@ -15805,8 +15805,8 @@
     "id": 13601,
     "title_chinese": "PSYCHO-PASS",
     "title_japanese": "PSYCHO-PASS サイコパス",
-    "title_romaji": "Psycho-Pass",
-    "title_english": "Psycho-Pass",
+    "title_romaji": "PSYCHO-PASS",
+    "title_english": "PSYCHO-PASS",
     "synonyms": [
       "Psychopath"
     ],
@@ -15845,7 +15845,7 @@
     "id": 13659,
     "title_chinese": "我的妹妹哪有這麼可愛。",
     "title_japanese": "俺の妹がこんなに可愛いわけがない。",
-    "title_romaji": "Ore no Imouto ga Konnani Kawaii Wake ga Nai.",
+    "title_romaji": "ore no imouto ga konnani kawaii wake ga nai.",
     "title_english": "Oreimo 2",
     "synonyms": [
       "My Little Sister Can't Be This Cute 2"
@@ -17187,7 +17187,7 @@
     "id": 16011,
     "title_chinese": "東京闇鴉",
     "title_japanese": "東京レイヴンズ",
-    "title_romaji": "Tokyo Ravens",
+    "title_romaji": "TOKYO RAVENS",
     "title_english": "Tokyo Ravens",
     "synonyms_chinese": [
       "東京烏鴉"
@@ -17718,8 +17718,8 @@
     "id": 17082,
     "title_chinese": "AIURA",
     "title_japanese": "あいうら",
-    "title_romaji": "Aiura",
-    "title_english": "Aiura",
+    "title_romaji": "AIURA",
+    "title_english": "AIURA",
     "synonyms_chinese": [
       "校園日記 AIURA"
     ]
@@ -17761,7 +17761,7 @@
     "id": 17187,
     "title_chinese": "攻殼機動隊 ARISE 第一話 Ghost Pain",
     "title_japanese": "攻殻機動隊ARISE -GHOST IN THE SHELL- border:1 Ghost Pain",
-    "title_romaji": "Koukaku Kidoutai Arise: Ghost in the Shell - Border:1 Ghost Pain",
+    "title_romaji": "Koukaku Kidoutai ARISE: GHOST IN THE SHELL - border:1 Ghost Pain",
     "title_english": "Ghost in the Shell: Arise - Border:1 Ghost Pain",
     "synonyms": [
       "Koukaku Kidoutai Arise: Ghost in the Shell - Border:1 Ghost Pain"
@@ -18325,7 +18325,7 @@
     "id": 18153,
     "title_chinese": "境界的彼方",
     "title_japanese": "境界の彼方",
-    "title_romaji": "kyokai no kanata",
+    "title_romaji": "kyoukai no kanata",
     "title_english": "Beyond the Boundary",
     "synonyms": [
       "Beyond the Horizon"
@@ -18374,8 +18374,8 @@
     "id": 18245,
     "title_chinese": "White Album 2",
     "title_japanese": "ホワイトアルバム2",
-    "title_romaji": "White Album 2",
-    "title_english": "White Album 2",
+    "title_romaji": "WHITE ALBUM 2",
+    "title_english": "WHITE ALBUM 2",
     "synonyms": [
       "WA2"
     ],
@@ -18710,21 +18710,21 @@
     "id": 19191,
     "title_chinese": "攻殼機動隊 ARISE 第二話 Ghost Whispers",
     "title_japanese": "攻殻機動隊ARISE -GHOST IN THE SHELL- border:2 Ghost Whispers",
-    "title_romaji": "Koukaku Kidoutai Arise: Ghost in the Shell - Border:2 Ghost Whispers",
+    "title_romaji": "Koukaku Kidoutai ARISE: GHOST IN THE SHELL - border:2 Ghost Whispers",
     "title_english": "Ghost in the Shell: Arise - Border:2 Ghost Whispers"
   },
   {
     "id": 19193,
     "title_chinese": "攻殼機動隊 ARISE 第三話 Ghost Tears",
     "title_japanese": "攻殻機動隊ARISE -GHOST IN THE SHELL- border:3 Ghost Tears",
-    "title_romaji": "Koukaku Kidoutai Arise: Ghost in the Shell - Border:3 Ghost Tears",
+    "title_romaji": "Koukaku Kidoutai ARISE: GHOST IN THE SHELL - border:3 Ghost Tears",
     "title_english": "Ghost in the Shell: Arise - Border:3 Ghost Tears"
   },
   {
     "id": 19195,
     "title_chinese": "攻殼機動隊 ARISE 第四話 Ghost Stands Alone",
     "title_japanese": "攻殻機動隊ARISE -GHOST IN THE SHELL- border:4 Ghost Stands Alone",
-    "title_romaji": "Koukaku Kidoutai Arise: Ghost in the Shell - Border:4 Ghost Stands Alone",
+    "title_romaji": "Koukaku Kidoutai ARISE: GHOST IN THE SHELL - border:4 Ghost Stands Alone",
     "title_english": "Ghost in the Shell: Arise - Border:4 Ghost Stands Alone"
   },
   {
@@ -18738,8 +18738,8 @@
     "id": 19221,
     "title_chinese": "我的腦內戀礙選項",
     "title_japanese": "俺の脳内選択肢が、学園ラブコメを全力で邪魔している",
-    "title_romaji": "Ore no Nounai Sentakushi ga, Gakuen Love Comedy wo Zenryoku de Jama Shiteiru",
-    "title_english": "My Mental Multiple-Choice Power Is Completely Ruining My School Romantic Comedy",
+    "title_romaji": "Ore no nounai sentakushi ga, Gakuen Love-comedy wo Zenryoku de jama shiteiru",
+    "title_english": "My Mental Choices Are Completely Interfering With My School Romantic Comedy",
     "synonyms": [
       "NouKome",
       "NouCome"
@@ -18779,8 +18779,8 @@
     "id": 19319,
     "title_chinese": "Gundam Build Fighters",
     "title_japanese": "ガンダムビルドファイターズ",
-    "title_romaji": "Gundam Build Fighters",
-    "title_english": "Gundam Build Fighters",
+    "title_romaji": "GUNDAM BUILD FIGHTERS",
+    "title_english": "GUNDAM BUILD FIGHTERS",
     "synonyms_chinese": [
       "高達創戰者",
       "鋼彈創鬥者",
@@ -18983,7 +18983,7 @@
     "id": 19815,
     "title_chinese": "No Game No Life",
     "title_japanese": "ノーゲーム・ノーライフ",
-    "title_romaji": "No Game No Life",
+    "title_romaji": "NO GAME NO LIFE",
     "title_english": "No Game No Life",
     "synonyms_chinese": [
       "遊戲人生"
@@ -19077,8 +19077,8 @@
     "id": 20057,
     "title_chinese": "Space☆Dandy",
     "title_japanese": "スペース☆ダンディ",
-    "title_romaji": "Space☆Dandy",
-    "title_english": "Space☆Dandy",
+    "title_romaji": "SPACE☆DANDY",
+    "title_english": "SPACE☆DANDY",
     "synonyms": [
       "Space Dandy"
     ],
@@ -19189,7 +19189,7 @@
     "id": 20447,
     "title_chinese": "流浪神差",
     "title_japanese": "ノラガミ",
-    "title_romaji": "Noragami",
+    "title_romaji": "NORAGAMI",
     "title_english": "Noragami",
     "synonyms": [
       "Stray God"
@@ -19447,7 +19447,7 @@
     "id": 20494,
     "title_chinese": "流浪神差",
     "title_japanese": "ノラガミ OAD",
-    "title_romaji": "Noragami OVA",
+    "title_romaji": "NORAGAMI OVA",
     "title_english": "Noragami OVA",
     "synonyms": [
       "ノラガミ OVA",
@@ -19582,8 +19582,8 @@
     "id": 20513,
     "title_chinese": "PSYCHO-PASS 2",
     "title_japanese": "PSYCHO-PASS サイコパス2",
-    "title_romaji": "Psycho-Pass 2",
-    "title_english": "Psycho-Pass 2",
+    "title_romaji": "PSYCHO-PASS 2",
+    "title_english": "PSYCHO-PASS 2",
     "synonyms": [
       "Project Re:START 02"
     ],
@@ -19595,8 +19595,8 @@
     "id": 20514,
     "title_chinese": "PSYCHO-PASS 劇場版",
     "title_japanese": "劇場版　PSYCHO-PASS サイコパス",
-    "title_romaji": "Psycho-Pass Movie",
-    "title_english": "Psycho-Pass Movie",
+    "title_romaji": "PSYCHO-PASS Movie",
+    "title_english": "PSYCHO-PASS Movie",
     "synonyms": [
       "Psychopath Movie",
       "Project Re:START 03"
@@ -19633,8 +19633,8 @@
     "id": 20519,
     "title_chinese": "玉子愛情故事",
     "title_japanese": "たまこラブストーリー",
-    "title_romaji": "Tamako Love Story",
-    "title_english": "Tamako Love Story",
+    "title_romaji": "Tamako love story",
+    "title_english": "Tamako love story",
     "synonyms_chinese": [
       "玉子市場"
     ]
@@ -19912,7 +19912,7 @@
     "title_chinese": "RAIL WARS!",
     "title_japanese": "レールウォーズ",
     "title_romaji": "RAIL WARS!",
-    "title_english": "RAIL WARS!",
+    "title_english": "Rail Wars!",
     "synonyms_chinese": [
       "RAIL WARS! -日本國有鐵道公安隊-"
     ]
@@ -19949,7 +19949,7 @@
     "id": 20590,
     "title_chinese": "巴哈姆特之怒",
     "title_japanese": "神撃のバハムート GENESIS",
-    "title_romaji": "Shingeki no Bahamut: Genesis",
+    "title_romaji": "Shingeki no Bahamut: GENESIS",
     "title_english": "Rage of Bahamut: Genesis",
     "synonyms_chinese": [
       "神擊之巴哈姆特"
@@ -20095,7 +20095,7 @@
     "id": 20607,
     "title_chinese": "乒乓",
     "title_japanese": "ピンポン THE ANIMATION",
-    "title_romaji": "Ping Pong The Animation",
+    "title_romaji": "Ping Pong THE ANIMATION",
     "title_english": "Ping Pong The Animation"
   },
   {
@@ -20270,7 +20270,7 @@
     "id": 20631,
     "title_chinese": "Trinity Seven",
     "title_japanese": "トリニティセブン",
-    "title_romaji": "Trinity Seven",
+    "title_romaji": "TRINITY SEVEN",
     "title_english": "TRINITY SEVEN",
     "synonyms": [
       "Trinity Seven: 7-nin no Mahoutsukai",
@@ -20392,8 +20392,8 @@
     "id": 20645,
     "title_chinese": "Glasslip",
     "title_japanese": "グラスリップ",
-    "title_romaji": "Glasslip",
-    "title_english": "Glasslip",
+    "title_romaji": "GLASSLIP",
+    "title_english": "GLASSLIP",
     "synonyms": [
       "Glass Lip"
     ],
@@ -20491,7 +20491,7 @@
     "id": 20657,
     "title_chinese": "不起眼女主角培育法",
     "title_japanese": "冴えない彼女の育てかた",
-    "title_romaji": "Saenai Heroine no Sodate-kata",
+    "title_romaji": "Saenai heroine no sodate-kata",
     "title_english": "Saekano: How to Raise a Boring Girlfriend",
     "synonyms_chinese": [
       "不起眼女主育成法",
@@ -20556,8 +20556,8 @@
     "id": 20664,
     "title_chinese": "PSYCHO-PASS 新編集版",
     "title_japanese": "PSYCHO-PASS サイコパス 新編集版",
-    "title_romaji": "Psycho-Pass Shin Henshuu-ban",
-    "title_english": "Psycho-Pass Shin Henshuu-ban",
+    "title_romaji": "PSYCHO-PASS Shin Henshuu-ban",
+    "title_english": "PSYCHO-PASS Shin Henshuu-ban",
     "synonyms": [
       "Project Re:START 01"
     ],
@@ -20576,8 +20576,8 @@
     "id": 20666,
     "title_chinese": "Space☆Dandy 2",
     "title_japanese": "スペース☆ダンディ 2",
-    "title_romaji": "Space☆Dandy 2",
-    "title_english": "Space☆Dandy 2",
+    "title_romaji": "SPACE☆DANDY 2",
+    "title_english": "SPACE☆DANDY 2",
     "synonyms": [
       "Space Dandy"
     ],
@@ -20647,7 +20647,7 @@
     "id": 20672,
     "title_chinese": "天體運行式",
     "title_japanese": "天体のメソッド",
-    "title_romaji": "Sora no Method",
+    "title_romaji": "sora no method",
     "title_english": "Celestial Method",
     "synonyms_chinese": [
       "天體的秩序",
@@ -20863,8 +20863,8 @@
     "id": 20713,
     "title_chinese": "Persona 4 The Golden Animation",
     "title_japanese": "ペルソナ4 ザ・ゴールデンアニメーション",
-    "title_romaji": "Persona 4 The Golden Animation",
-    "title_english": "Persona 4 The Golden Animation",
+    "title_romaji": "Persona 4 the Golden ANIMATION",
+    "title_english": "Persona 4 the Golden ANIMATION",
     "synonyms": [
       "P4GA"
     ],
@@ -21026,8 +21026,8 @@
     "id": 20739,
     "title_chinese": "Gundam Build Fighters Try",
     "title_japanese": "ガンダムビルドファイターズトライ",
-    "title_romaji": "Gundam Build Fighters Try",
-    "title_english": "Gundam Build Fighters Try",
+    "title_romaji": "GUNDAM BUILD FIGHTERS TRY",
+    "title_english": "GUNDAM BUILD FIGHTERS TRY",
     "synonyms_chinese": [
       "高達創戰者TRY",
       "鋼彈創鬥者TRY",
@@ -21038,7 +21038,7 @@
     "id": 20740,
     "title_chinese": "山田君與七位魔女",
     "title_japanese": "山田くんと7人の魔女 OAD",
-    "title_romaji": "Yamada-kun to 7-nin no Majo (OVA)",
+    "title_romaji": "YAMADA-KUN to 7-NIN no MAJO (OVA)",
     "title_english": "Yamada and the Seven Witches (OVA)",
     "synonyms": [
       "Yamajo OVA"
@@ -21239,7 +21239,7 @@
     "id": 20768,
     "title_chinese": "劇場版 境界的彼方 I'LL BE HERE 過去篇",
     "title_japanese": "劇場版 境界の彼方 I'LL BE HERE 過去篇",
-    "title_romaji": "kyokai no kanata Movie: I'll BE HERE - Kako-hen",
+    "title_romaji": "kyoukai no kanata Movie: I'll BE HERE - Kako-hen",
     "title_english": "Beyond the Boundary Movie: I'll Be Here - Kako-hen"
   },
   {
@@ -21276,7 +21276,7 @@
     "id": 20774,
     "title_chinese": "空戰魔導士候補生的教官",
     "title_japanese": "空戦魔導士候補生の教官",
-    "title_romaji": "Kuusen Madoushi Kouhosei no Kyoukan",
+    "title_romaji": "KUUSEN MADOUSHI KOUHOSEI NO KYOUKAN",
     "title_english": "Sky Wizards Academy",
     "synonyms_chinese": [
       "空戰魔導士培訓生的教官"
@@ -21639,7 +21639,7 @@
     "id": 20832,
     "title_chinese": "Overlord",
     "title_japanese": "オーバーロード",
-    "title_romaji": "Overlord",
+    "title_romaji": "OVERLORD",
     "title_english": "Overlord",
     "synonyms": [
       "Over Lord"
@@ -21709,9 +21709,9 @@
   {
     "id": 20847,
     "title_chinese": "Tari Tari OVA",
-    "title_japanese": "Tari Tari Special",
-    "title_romaji": "Tari Tari Special",
-    "title_english": "Tari Tari Special",
+    "title_japanese": "TARI TARI Special",
+    "title_romaji": "TARI TARI Special",
+    "title_english": "TARI TARI Special",
     "synonyms_chinese": [
       "心之旋律 OVA"
     ]
@@ -21802,7 +21802,7 @@
     "id": 20872,
     "title_chinese": "Plastic Memories",
     "title_japanese": "プラスティックメモリーズ",
-    "title_romaji": "Plastic Memories",
+    "title_romaji": "PLASTIC MEMORIES",
     "title_english": "Plastic Memories",
     "synonyms": [
       "Plamemo"
@@ -22103,8 +22103,8 @@
     "id": 20946,
     "title_chinese": "俺物語!!",
     "title_japanese": "俺物語!!",
-    "title_romaji": "Ore Monogatari!!",
-    "title_english": "MY love STORY!!"
+    "title_romaji": "ORE MONOGATARI!!",
+    "title_english": "My Love Story!!"
   },
   {
     "id": 20947,
@@ -22180,7 +22180,7 @@
     "id": 20963,
     "title_chinese": "劇場版 境界的彼方 I'LL BE HERE 未來篇",
     "title_japanese": "劇場版 境界の彼方 I'LL BE HERE 未来篇",
-    "title_romaji": "kyokai no kanata Movie: I'LL BE HERE - Mirai-hen",
+    "title_romaji": "kyoukai no kanata Movie: I'LL BE HERE - Mirai-hen",
     "title_english": "Beyond the Boundary Movie: I'll Be Here - Mirai-hen"
   },
   {
@@ -22215,7 +22215,7 @@
     "id": 20966,
     "title_chinese": "山田君與七位魔女",
     "title_japanese": "山田くんと7人の魔女",
-    "title_romaji": "Yamada-kun to 7-nin no Majo",
+    "title_romaji": "YAMADA-KUN to 7-NIN no MAJO",
     "title_english": "Yamada-kun and the Seven Witches",
     "synonyms": [
       "Yamadakun to Nananin no Majo",
@@ -22259,7 +22259,7 @@
     "id": 20979,
     "title_chinese": "Gunslinger Stratos",
     "title_japanese": "ガンスリンガー ストラトス -THE ANIMATION-",
-    "title_romaji": "Gunslinger Stratos: The Animation",
+    "title_romaji": "Gunslinger Stratos: THE ANIMATION",
     "title_english": "Gunslinger Stratos",
     "synonyms_chinese": [
       "雙槍激鬥",
@@ -22628,14 +22628,14 @@
     "id": 21055,
     "title_chinese": "赤龍戰役",
     "title_japanese": "ケイオスドラゴン 赤竜戦役",
-    "title_romaji": "Chaos Dragon: Sekiryuu Sen'eki",
+    "title_romaji": "CHAOS DRAGON: Sekiryuu Sen'eki",
     "title_english": "Chaos Dragon"
   },
   {
     "id": 21056,
     "title_chinese": "攻殼機動隊 ARISE ALTERNATIVE ARCHITECTURE",
     "title_japanese": "攻殻機動隊ARISE ALTERNATIVE ARCHITECTURE",
-    "title_romaji": "Koukaku Kidoutai Arise: Alternative Architecture",
+    "title_romaji": "Koukaku Kidoutai ARISE: ALTERNATIVE ARCHITECTURE",
     "title_english": "Ghost in the Shell Arise: Alternative Architecture",
     "synonyms": [
       "Koukaku Kidoutai: AAA"
@@ -22975,7 +22975,7 @@
     "id": 21128,
     "title_chinese": "流浪神差 ARAGOTO",
     "title_japanese": "ノラガミ ARAGOTO",
-    "title_romaji": "Noragami Aragoto",
+    "title_romaji": "NORAGAMI ARAGOTO",
     "title_english": "Noragami Aragoto",
     "synonyms_chinese": [
       "野良神 ARAGOTO"
@@ -23273,7 +23273,7 @@
   {
     "id": 21177,
     "title_chinese": "SUPER LOVERS",
-    "title_japanese": "SUPER LOVERS",
+    "title_japanese": "スーパーラヴァーズ",
     "title_romaji": "SUPER LOVERS",
     "title_english": "SUPER LOVERS"
   },
@@ -23907,11 +23907,8 @@
     "id": 21311,
     "title_chinese": "文豪Stray Dogs",
     "title_japanese": "文豪ストレイドッグス",
-    "title_romaji": "BUNGO STRAY DOGS",
+    "title_romaji": "BUNGOU STRAY DOGS",
     "title_english": "Bungo Stray Dogs",
-    "synonyms": [
-      "Bungou Stray Dogs"
-    ],
     "synonyms_chinese": [
       "文豪野犬"
     ]
@@ -25229,6 +25226,16 @@
     "title_english": "RAGNASTRIKE ANGELS",
     "synonyms_chinese": [
       "拉格納的強襲天使"
+    ]
+  },
+  {
+    "id": 21817,
+    "title_chinese": "亞爾斯蘭戰記 OVA",
+    "title_japanese": "アルスラーン戦記 OVA",
+    "title_romaji": "Arslan Senki (TV) OVA",
+    "title_english": "Arslan Senki (TV) OVA",
+    "synonyms_chinese": [
+      "阿爾斯蘭戰記 OVA"
     ]
   }
 ]
