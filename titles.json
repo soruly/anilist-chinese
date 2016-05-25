@@ -21996,11 +21996,8 @@
     "id": 20923,
     "title_chinese": "食戟之靈",
     "title_japanese": "食戟のソーマ",
-    "title_romaji": "SHOKUGEKI NO SOMA",
-    "title_english": "Food Wars! Shokugeki no Soma",
-    "synonyms": [
-      "Shokugeki no Souma"
-    ]
+    "title_romaji": "SHOKUGEKI NO SOUMA",
+    "title_english": "Food Wars! Shokugeki no Soma"
   },
   {
     "id": 20924,
@@ -22837,6 +22834,17 @@
     ],
     "synonyms_chinese": [
       "偶像大師 灰姑娘女孩"
+    ]
+  },
+  {
+    "id": 21096,
+    "title_chinese": "同級生",
+    "title_japanese": "同級生",
+    "title_romaji": "Doukyuusei",
+    "title_english": "Doukyuusei",
+    "synonyms": [
+      "Doukyusei",
+      "Classmate"
     ]
   },
   {
