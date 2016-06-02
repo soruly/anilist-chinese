@@ -1531,7 +1531,7 @@
     "id": 273,
     "title_chinese": "魔法使的注意事項",
     "title_japanese": "魔法遣いに大切なこと",
-    "title_romaji": "Mahou Tsukai ni Taisetsu na Koto",
+    "title_romaji": "Mahoutsukai ni Taisetsu na Koto",
     "title_english": "Someday's Dreamers",
     "synonyms_chinese": [
       "魔法使的條件"
@@ -8764,7 +8764,7 @@
     "id": 4483,
     "title_chinese": "魔法使的注意事項 夏日的天空",
     "title_japanese": "魔法遣いに大切なこと ～夏のソラ～",
-    "title_romaji": "Mahou Tsukai ni Taisetsu na Koto: Natsu no Sora",
+    "title_romaji": "Mahoutsukai ni Taisetsu na Koto: Natsu no Sora",
     "title_english": "Someday's Dreamers II Sora",
     "synonyms": [
       "Someday's Dreamers Summer Skies"
@@ -17456,7 +17456,7 @@
     "id": 16592,
     "title_chinese": "彈丸論破",
     "title_japanese": "ダンガンロンパ 希望の学園と絶望の高校生 THE ANIMATION",
-    "title_romaji": "Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei - The Animation",
+    "title_romaji": "DANGANRONPA: Kibou no Gakuen to Zetsubou no Koukousei - THE ANIMATION",
     "title_english": "Danganronpa: The Animation",
     "synonyms_chinese": [
       "槍彈辯駁 希望學園與絕望高中生",
@@ -18502,6 +18502,20 @@
     "title_japanese": "彼女×彼女×彼女 完全版",
     "title_romaji": "Kanojo x Kanojo x Kanojo (2013)",
     "title_english": "Kanojo x Kanojo x Kanojo Full Version"
+  },
+  {
+    "id": 18617,
+    "title_chinese": "少女與戰車 劇場版",
+    "title_japanese": "ガールズ＆パンツァー　劇場版",
+    "title_romaji": "Girls und Panzer der Film",
+    "title_english": "Girls und Panzer der Film",
+    "synonyms": [
+      "Girls und Panzer Movie"
+    ],
+    "synonyms_chinese": [
+      "女子高生&重戰車 劇場版",
+      "少女&坦克 劇場版"
+    ]
   },
   {
     "id": 18619,
@@ -25144,6 +25158,17 @@
     ]
   },
   {
+    "id": 21649,
+    "title_chinese": "少女與戰車 劇場版 OVA",
+    "title_japanese": "ガールズ＆パンツァー　劇場版 OVA",
+    "title_romaji": "Girls und Panzer der Film OVA",
+    "title_english": "Girls und Panzer der Film OVA",
+    "synonyms_chinese": [
+      "女子高生&重戰車 劇場版 OVA",
+      "少女&坦克 劇場版 OVA"
+    ]
+  },
+  {
     "id": 21656,
     "title_chinese": "こいなか -小田舎で初恋×中出しセクシャルライフ- THE ANIMATION",
     "title_japanese": "こいなか -小田舎で初恋×中出しセクシャルライフ- THE ANIMATION",
@@ -25179,11 +25204,8 @@
     "id": 21691,
     "title_chinese": "食戟之靈 OVA",
     "title_japanese": "食戟のソーマ OVA",
-    "title_romaji": "SHOKUGEKI NO SOMA OVA",
-    "title_english": "SHOKUGEKI NO SOMA OVA",
-    "synonyms": [
-      "Shokugeki no Souma OVA"
-    ]
+    "title_romaji": "SHOKUGEKI NO SOUMA OVA",
+    "title_english": "SHOKUGEKI NO SOUMA OVA"
   },
   {
     "id": 21694,
