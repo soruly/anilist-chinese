@@ -6387,6 +6387,16 @@
     ]
   },
   {
+    "id": 2113,
+    "title_chinese": "天空戰記",
+    "title_japanese": "天空戦記シュラト",
+    "title_romaji": "Tenkuu Senki Shurato",
+    "title_english": "Tenkuu Senki Shurato",
+    "synonyms": [
+      "Heaven Wars Shurato"
+    ]
+  },
+  {
     "id": 2123,
     "title_chinese": "數碼暴龍X進化",
     "title_japanese": "デジタルモンスター ゼヴォリューション",
@@ -12181,6 +12191,22 @@
     "title_english": "Infinite Stratos",
     "synonyms_chinese": [
       "IS學園"
+    ]
+  },
+  {
+    "id": 9047,
+    "title_chinese": "科學超電磁砲 OVA",
+    "title_japanese": "とある科学の超電磁砲 御坂さんはいま注目の的ですから",
+    "title_romaji": "Toaru Kagaku no Railgun: Misaka-san wa Ima Chuumoku no Mato Desukara",
+    "title_english": "Toaru Kagaku no Railgun: Misaka-san wa Ima Chuumoku no Mato Desukara",
+    "synonyms": [
+      "Toaru Kagaku no Railgun OVA",
+      "Toaru Kagaku no Choudenjihou OVA",
+      "A Certain Scientific Railgun OVA"
+    ],
+    "synonyms_chinese": [
+      "科學超電磁砲 御坂學姐現在是焦點人物",
+      "科學超電磁砲 EX"
     ]
   },
   {
@@ -19070,6 +19096,19 @@
     ]
   },
   {
+    "id": 20035,
+    "title_chinese": "劇場版 魔法禁書目錄：安迪米昂的奇蹟 SP",
+    "title_japanese": "劇場版とある魔術の禁書目録たん-エンデュミオンの奇蹟-があったりなかったり",
+    "title_romaji": "Toaru Majutsu no Index: Endymion no Kiseki Special",
+    "title_english": "A Certain Magical Index Movie Special",
+    "synonyms": [
+      "Toaru Majutsu no Index: Endymion no Kiseki Omake"
+    ],
+    "synonyms_chinese": [
+      "劇場版 魔法禁書目錄：恩底彌翁的奇蹟 SP"
+    ]
+  },
+  {
     "id": 20047,
     "title_chinese": "櫻Trick",
     "title_japanese": "桜Trick",
@@ -20734,6 +20773,13 @@
     ]
   },
   {
+    "id": 20686,
+    "title_chinese": "科學超電磁砲S OVA",
+    "title_japanese": "とある科学の超電磁砲S 大事なことはぜんぶ銭湯に教わった",
+    "title_romaji": "Toaru Kagaku no Railgun S: Daiji na Koto wa Zenbu Sentou ni Osowatta",
+    "title_english": "Toaru Kagaku no Railgun S: Daiji na Koto wa Zenbu Sentou ni Osowatta"
+  },
+  {
     "id": 20691,
     "title_chinese": "劇場版 進擊的巨人 前編 紅蓮的弓矢",
     "title_japanese": "劇場版「進撃の巨人」前編～紅蓮の弓矢～",
@@ -21277,6 +21323,13 @@
     "title_english": "Shomin Sample"
   },
   {
+    "id": 20772,
+    "title_chinese": "忍者殺手",
+    "title_japanese": "ニンジャスレイヤー フロムアニメイシヨン",
+    "title_romaji": "Ninja Slayer From Animation",
+    "title_english": "Ninja Slayer"
+  },
+  {
     "id": 20773,
     "title_chinese": "Gangsta",
     "title_japanese": "ギャングスタ",
@@ -21433,7 +21486,7 @@
   },
   {
     "id": 20802,
-    "title_chinese": "數碼暴龍大冒險tri. 第一章 「再會」",
+    "title_chinese": "數碼暴龍大冒險tri. 第1章「再會」",
     "title_japanese": "デジモンアドベンチャー tri. 第1章「再会」",
     "title_romaji": "Digimon Adventure tri. 1: Saikai",
     "title_english": "Digimon Adventure tri. 1: Saikai"
@@ -24061,6 +24114,16 @@
     "title_english": "Three Leaves, Three Colors"
   },
   {
+    "id": 21336,
+    "title_chinese": "青春水球社",
+    "title_japanese": "ハンツー×トラッシュ",
+    "title_romaji": "Hantsu x Trash",
+    "title_english": "Hantsu x Trash",
+    "synonyms_chinese": [
+      "巨乳娘×屌絲男"
+    ]
+  },
+  {
     "id": 21339,
     "title_chinese": "Charlotte OVA",
     "title_japanese": "Charlotte(シャーロット)TV未放送エピソード特別篇",
@@ -24091,6 +24154,7 @@
     "title_romaji": "Haikyuu!!: vs. Akaten",
     "title_english": "Haikyu!!: vs. Akaten",
     "synonyms_chinese": [
+      "排球少年 vs 不及格　",
       "排球少年 OAD"
     ]
   },
@@ -24648,7 +24712,7 @@
   },
   {
     "id": 21500,
-    "title_chinese": "數碼暴龍大冒險tri. 第二章 「決意」",
+    "title_chinese": "數碼暴龍大冒險tri. 第2章「決意」",
     "title_japanese": "デジモンアドベンチャー tri. 第2章「決意」",
     "title_romaji": "Digimon Adventure tri. 2: Ketsui",
     "title_english": "Digimon Adventure tri. 2: Ketsui"
@@ -25194,6 +25258,13 @@
     "title_english": "Hyoudou Ibuki: Kanpeki Ibuki Kaichou ga Kousoku Do M!? na Wake"
   },
   {
+    "id": 21668,
+    "title_chinese": "ヌーディストビーチに修学旅行で!! THE ANIMATION",
+    "title_japanese": "ヌーディストビーチに修学旅行で!! THE ANIMATION",
+    "title_romaji": "Nudist Beach ni Shuugakuryokou de!! The Animation",
+    "title_english": "Nudist Beach ni Shuugakuryokou de!! The Animation"
+  },
+  {
     "id": 21670,
     "title_chinese": "えなじぃキョーカ！！",
     "title_japanese": "えなじぃキョーカ！！",
@@ -25206,6 +25277,13 @@
     "title_japanese": "食戟のソーマ OVA",
     "title_romaji": "SHOKUGEKI NO SOUMA OVA",
     "title_english": "SHOKUGEKI NO SOUMA OVA"
+  },
+  {
+    "id": 21693,
+    "title_chinese": "恥辱の制服",
+    "title_japanese": "恥辱の制服",
+    "title_romaji": "Chijoku no Seifuku",
+    "title_english": "Chijoku no Seifuku"
   },
   {
     "id": 21694,
@@ -25259,6 +25337,13 @@
     ]
   },
   {
+    "id": 21758,
+    "title_chinese": "なま LO Re: なまけもの THE ANIMATION",
+    "title_japanese": "なま LO Re: なまけもの THE ANIMATION",
+    "title_romaji": "Nama Lo re: Nama Kemono The Animation",
+    "title_english": "Nama Lo re: Nama Kemono The Animation"
+  },
+  {
     "id": 21817,
     "title_chinese": "亞爾斯蘭戰記 OVA",
     "title_japanese": "アルスラーン戦記 OVA",
@@ -25267,5 +25352,12 @@
     "synonyms_chinese": [
       "阿爾斯蘭戰記 OVA"
     ]
+  },
+  {
+    "id": 21821,
+    "title_chinese": "魯邦三世 義大利遊戲",
+    "title_japanese": "ルパン三世 イタリアン・ゲーム",
+    "title_romaji": "Lupin III (2015): Italian Game",
+    "title_english": "Lupin III (2015): Italian Game"
   }
 ]
