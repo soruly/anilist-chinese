@@ -14641,6 +14641,13 @@
     ]
   },
   {
+    "id": 11735,
+    "title_chinese": "Coluboccoro",
+    "title_japanese": "コルボッコロ",
+    "title_romaji": "Coluboccoro",
+    "title_english": "Coluboccoro"
+  },
+  {
     "id": 11737,
     "title_chinese": "劇場版 青之驅魔師",
     "title_japanese": "劇場版 青の祓魔師（エクソシスト）",
@@ -17579,7 +17586,7 @@
     "id": 16732,
     "title_chinese": "黃金拼圖",
     "title_japanese": "きんいろモザイク",
-    "title_romaji": "kiniro mosaic",
+    "title_romaji": "Kiniro Mosaic",
     "title_english": "KINMOZA!",
     "synonyms_chinese": [
       "金色馬賽克",
@@ -20523,7 +20530,7 @@
     "id": 20654,
     "title_chinese": "Hello!! 黃金拼圖",
     "title_japanese": "ハロー!!きんいろモザイク",
-    "title_romaji": "Hello!! kiniro mosaic",
+    "title_romaji": "Hello!! Kiniro Mosaic",
     "title_english": "Hello!! KINMOZA!",
     "synonyms_chinese": [
       "你好!! 金色馬賽克",
@@ -22490,7 +22497,7 @@
     "id": 21000,
     "title_chinese": "關於完全聽不懂老公在說什麼的事 第二季",
     "title_japanese": "旦那が何を言っているかわからない件2スレ目",
-    "title_romaji": "Danna ga Nani o Itteiru ka Wakaranai Ken 2-sure-me",
+    "title_romaji": "Danna ga Nani wo Itteiru ka Wakaranai Ken 2-sure-me",
     "title_english": "I Can't Understand What My Husband is Saying 2nd Thread"
   },
   {
@@ -22678,8 +22685,8 @@
     "id": 21050,
     "title_chinese": "小桃小栗Love Love物語",
     "title_japanese": "ももくり",
-    "title_romaji": "Momokuri",
-    "title_english": "Momokuri"
+    "title_romaji": "momokuri",
+    "title_english": "momokuri"
   },
   {
     "id": 21054,
@@ -23817,6 +23824,13 @@
     "title_english": "Enbi"
   },
   {
+    "id": 21279,
+    "title_chinese": "High School DxD BorN SP",
+    "title_japanese": "ハイスクールD×D BorN: 石踏一榮完全監修！妄想爆揺解除オリジナルビデオ",
+    "title_romaji": "High School DxD BorN: Ishibumi Ichiei Kanzen Kanshuu! Mousou Bakuyure Kaijo Original Video",
+    "title_english": "High School DxD BorN: Ishibumi Ichiei Kanzen Kanshuu! Mousou Bakuyure Kaijo Original Video"
+  },
+  {
     "id": 21281,
     "title_chinese": "進擊！巨人中學校",
     "title_japanese": "進撃！巨人中学校",
@@ -24659,6 +24673,13 @@
     "title_english": "Konna ni Yasashiku Sareta no"
   },
   {
+    "id": 21487,
+    "title_chinese": "亞人 OAD",
+    "title_japanese": "Ajin OAD",
+    "title_romaji": "AJIN OVA",
+    "title_english": "AJIN OVA"
+  },
+  {
     "id": 21489,
     "title_chinese": "新妹魔王的契約者BURST",
     "title_japanese": "新妹魔王の契約者 BURST オリジナルアニメブルーレイ",
@@ -25201,6 +25222,13 @@
     ]
   },
   {
+    "id": 21640,
+    "title_chinese": "血界戰線 OAD",
+    "title_japanese": "血界戦線 王様のレストランの王様",
+    "title_romaji": "Kekkai Sensen: Ousama no Restaurant no Ousama",
+    "title_english": "Blood Blockade Battlefront: Ousama no Restaurant no Ousama"
+  },
+  {
     "id": 21642,
     "title_chinese": "咲日和",
     "title_japanese": "咲日和",
@@ -25306,11 +25334,8 @@
     "id": 21721,
     "title_chinese": "小飛翔魔女",
     "title_japanese": "ふらいんぐうぃっち ぷち",
-    "title_romaji": "Flying Witch Puchi",
-    "title_english": "Flying Witch Puchi",
-    "synonyms": [
-      "Flying Witch Petit"
-    ]
+    "title_romaji": "flying witch Puchi",
+    "title_english": "flying witch Puchi"
   },
   {
     "id": 21728,
