@@ -24090,6 +24090,26 @@
     ]
   },
   {
+    "id": 21327,
+    "title_chinese": "乾物妹小埋 OVA",
+    "title_japanese": "干物妹！うまるちゃん OVA",
+    "title_romaji": "HIMOUTO! UMARU-CHAN OVA",
+    "title_english": "HIMOUTO! UMARU-CHAN OVA",
+    "synonyms_chinese": [
+      "我家有個魚乾妹 OVA"
+    ]
+  },
+  {
+    "id": 21328,
+    "title_chinese": "乾物妹小埋S",
+    "title_japanese": "ひもうと! うまるちゃんS",
+    "title_romaji": "Himouto! Umaru-chanS",
+    "title_english": "Himouto! Umaru-chanS",
+    "synonyms_chinese": [
+      "我家有個魚乾妹S"
+    ]
+  },
+  {
     "id": 21329,
     "title_chinese": "石膏男孩",
     "title_japanese": "石膏ボーイズ",
@@ -24308,7 +24328,10 @@
     "title_chinese": "闘技場の戦姫~another story~",
     "title_japanese": "闘技場の戦姫~another story~",
     "title_romaji": "Tougijou no Senki: Another Story",
-    "title_english": "Tougijou no Senki: Another Story"
+    "title_english": "Tougijou no Senki: Another Story",
+    "synonyms": [
+      "Colosseum no Senki: Another Story"
+    ]
   },
   {
     "id": 21380,
@@ -24442,8 +24465,7 @@
       "Girl meets Bear"
     ],
     "synonyms_chinese": [
-      "當女孩遇到熊",
-      "熊污女"
+      "當女孩遇到熊"
     ]
   },
   {
@@ -25000,6 +25022,16 @@
     "title_english": "High School DxD BorN: Yomigaeranai Fushichou"
   },
   {
+    "id": 21574,
+    "title_chinese": "為美好的世界獻上祝福！ OVA",
+    "title_japanese": "この素晴らしい世界に祝福を！ オリジナルアニメブルーレイ",
+    "title_romaji": "Kono Subarashii Sekai ni Shukufuku wo! Original Anime Blu-ray",
+    "title_english": "Kono Subarashii Sekai ni Shukufuku wo! Original Anime Blu-ray",
+    "synonyms": [
+      "Konosuba Original Anime Blu-ray"
+    ]
+  },
+  {
     "id": 21575,
     "title_chinese": "アマカノ",
     "title_japanese": "アマカノ",
@@ -25367,6 +25399,23 @@
     "title_japanese": "なま LO Re: なまけもの THE ANIMATION",
     "title_romaji": "Nama Lo re: Nama Kemono The Animation",
     "title_english": "Nama Lo re: Nama Kemono The Animation"
+  },
+  {
+    "id": 21763,
+    "title_chinese": "放學後Initiation",
+    "title_japanese": "放課後Initiation",
+    "title_romaji": "Houkago Initiation",
+    "title_english": "Houkago Initiation"
+  },
+  {
+    "id": 21784,
+    "title_chinese": "熊巫女 OVA",
+    "title_japanese": "くまみこ",
+    "title_romaji": "Kuma Miko Specials",
+    "title_english": "Kumamiko -Girl Meets Bear Specials",
+    "synonyms_chinese": [
+      "當女孩遇到熊 OVA"
+    ]
   },
   {
     "id": 21817,
