@@ -1927,6 +1927,17 @@
     ]
   },
   {
+    "id": 358,
+    "title_chinese": "伊里野的天空、UFO的夏天",
+    "title_japanese": "イリヤの空、UFOの夏",
+    "title_romaji": "Iriya no Sora, UFO no Natsu",
+    "title_english": "Iriya no Sora, UFO no Natsu",
+    "synonyms": [
+      "Sky of Iriya",
+      "Summer of UFO"
+    ]
+  },
+  {
     "id": 361,
     "title_chinese": "秋之回憶",
     "title_japanese": "Memories Off",
@@ -12010,7 +12021,7 @@
     "id": 8769,
     "title_chinese": "我的妹妹哪有這麼可愛！",
     "title_japanese": "俺の妹がこんなに可愛いわけがない",
-    "title_romaji": "ore no imouto ga konnani kawaii wake ga nai",
+    "title_romaji": "Ore no Imouto ga Konnani Kawaii Wake ga Nai",
     "title_english": "Oreimo",
     "synonyms": [
       "My Little Sister Can't Be This Cute"
@@ -15878,7 +15889,7 @@
     "id": 13659,
     "title_chinese": "我的妹妹哪有這麼可愛。",
     "title_japanese": "俺の妹がこんなに可愛いわけがない。",
-    "title_romaji": "ore no imouto ga konnani kawaii wake ga nai.",
+    "title_romaji": "Ore no Imouto ga Konnani Kawaii Wake ga Nai.",
     "title_english": "Oreimo 2",
     "synonyms": [
       "My Little Sister Can't Be This Cute 2"
@@ -16557,6 +16568,16 @@
     "title_english": "Maoyu: Archenemy & Hero",
     "synonyms": [
       "Maoyu Maou Yusha"
+    ]
+  },
+  {
+    "id": 14835,
+    "title_chinese": "The iDOLM@STER Shiny Festa",
+    "title_japanese": "アイドルマスター シャイニーフェスタ",
+    "title_romaji": "The iDOLM@STER: Shiny Festa",
+    "title_english": "The iDOLM@STER: Shiny Festa",
+    "synonyms": [
+      "The Idolmaster: Shiny Festa"
     ]
   },
   {
@@ -17617,6 +17638,21 @@
     "synonyms": [
       "Koto no Ha no Niwa",
       "The Garden of Kotonoha"
+    ]
+  },
+  {
+    "id": 16868,
+    "title_chinese": "只要妳說妳愛我 OVA",
+    "title_japanese": "好きっていいなよ。 OVA",
+    "title_romaji": "Sukitte Ii na yo. OVA",
+    "title_english": "Sukitte Ii na yo. OVA",
+    "synonyms": [
+      "Suki-tte Ii na yo. OVA",
+      "Sukinayo OVA",
+      "Sukitte Ii na yo.: Dareka ga"
+    ],
+    "synonyms_chinese": [
+      "只要你說你愛我 OVA"
     ]
   },
   {
@@ -21954,7 +21990,8 @@
     "title_english": "Haikyu!!: Lev Kenzan!",
     "synonyms": [
       "Haikyuu!!: Jump Festa 2014 Special",
-      "Haikyuu!!: Lev Genzan!"
+      "Haikyuu!!: Lev Genzan!",
+      "Haikyuu!! OVA"
     ],
     "synonyms_chinese": [
       "排球少年 OAD"
@@ -24187,6 +24224,10 @@
     "title_japanese": "ハイキュー!! VS赤点",
     "title_romaji": "Haikyuu!!: vs. Akaten",
     "title_english": "Haikyu!!: vs. Akaten",
+    "synonyms": [
+      "Haikyuu!!: Jump Festa 2015 Special",
+      "Haikyuu!! OVA"
+    ],
     "synonyms_chinese": [
       "排球少年 vs 不及格　",
       "排球少年 OAD"
