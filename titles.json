@@ -12021,7 +12021,7 @@
     "id": 8769,
     "title_chinese": "我的妹妹哪有這麼可愛！",
     "title_japanese": "俺の妹がこんなに可愛いわけがない",
-    "title_romaji": "Ore no Imouto ga Konnani Kawaii Wake ga Nai",
+    "title_romaji": "ore no imouto ga konnani kawaii wake ga nai",
     "title_english": "Oreimo",
     "synonyms": [
       "My Little Sister Can't Be This Cute"
@@ -15889,7 +15889,7 @@
     "id": 13659,
     "title_chinese": "我的妹妹哪有這麼可愛。",
     "title_japanese": "俺の妹がこんなに可愛いわけがない。",
-    "title_romaji": "Ore no Imouto ga Konnani Kawaii Wake ga Nai.",
+    "title_romaji": "ore no imouto ga konnani kawaii wake ga nai.",
     "title_english": "Oreimo 2",
     "synonyms": [
       "My Little Sister Can't Be This Cute 2"
@@ -18999,7 +18999,8 @@
     "synonyms": [
       "Burning Wind Ocean Earth Samurai Lord",
       "Bushilord",
-      "Bushiroad"
+      "Bushiroad",
+      "Neppu Kairiku Bushi Road"
     ]
   },
   {
@@ -21102,7 +21103,10 @@
     "title_chinese": "Tales of Zestiria",
     "title_japanese": "テイルズ オブ ゼスティリア ～導師の夜明け～",
     "title_romaji": "Tales of Zestiria: Doushi no Yoake",
-    "title_english": "Tales of Zestiria: Doushi no Yoake"
+    "title_english": "Tales of Zestiria: Dawn of the Shepherd",
+    "synonyms_chinese": [
+      "熱情傳奇 ～導師的黎明～"
+    ]
   },
   {
     "id": 20735,
@@ -22229,6 +22233,13 @@
     "title_english": "Urawa no Usagi-chan"
   },
   {
+    "id": 20950,
+    "title_chinese": "月歌。THE ANIMATION",
+    "title_japanese": "ツキウタ。 THE ANIMATION",
+    "title_romaji": "TSUKIUTA. THE ANIMATION",
+    "title_english": "TSUKIUTA. The Animation"
+  },
+  {
     "id": 20951,
     "title_chinese": "城下町的蒲公英",
     "title_japanese": "城下町のダンデライオン",
@@ -22627,6 +22638,16 @@
     "title_english": "Oni Chichi 2: Harvest"
   },
   {
+    "id": 21031,
+    "title_chinese": "TABOO TATTOO",
+    "title_japanese": "タブー・タトゥー",
+    "title_romaji": "TABOO TATTOO",
+    "title_english": "TABOO TATTOO",
+    "synonyms_chinese": [
+      "TABOO TATTOO 禁忌咒紋"
+    ]
+  },
+  {
     "id": 21033,
     "title_chinese": "其實我是",
     "title_japanese": "実は私は",
@@ -22717,6 +22738,16 @@
     "title_japanese": "DIABOLIK LOVERS MORE,BLOOD",
     "title_romaji": "Diabolik Lovers More,Blood",
     "title_english": "DIABOLIK LOVERS Ⅱ : MORE,BLOOD"
+  },
+  {
+    "id": 21049,
+    "title_chinese": "ReLIFE",
+    "title_japanese": "リライフ",
+    "title_romaji": "ReLIFE",
+    "title_english": "ReLIFE",
+    "synonyms_chinese": [
+      "重返17歲"
+    ]
   },
   {
     "id": 21050,
@@ -23619,6 +23650,16 @@
     "title_english": "Yobai Suru Shichinin no Harame"
   },
   {
+    "id": 21221,
+    "title_chinese": "Tales of Zestiria the X",
+    "title_japanese": "テイルズ オブ ゼスティリア ザ クロス",
+    "title_romaji": "Tales of Zestiria the X",
+    "title_english": "Tales of Zestiria the X",
+    "synonyms_chinese": [
+      "熱情傳奇 The X"
+    ]
+  },
+  {
     "id": 21222,
     "title_chinese": "漫喫ハプニング",
     "title_japanese": "漫喫ハプニング",
@@ -23744,6 +23785,17 @@
     ]
   },
   {
+    "id": 21242,
+    "title_chinese": "初戀Monster",
+    "title_japanese": "初恋モンスター",
+    "title_romaji": "HATSUKOI MONSTER",
+    "title_english": "FIRST LOVE MONSTER",
+    "synonyms_chinese": [
+      "初戀怪獸",
+      "初戀怪　"
+    ]
+  },
+  {
     "id": 21243,
     "title_chinese": "小森拒絕不了！",
     "title_japanese": "小森さんは断れない!",
@@ -23845,6 +23897,16 @@
     "title_japanese": "機動戦士ガンダム 鉄血のオルフェンズ",
     "title_romaji": "Kidou Senshi Gundam: Tekketsu no Orphans",
     "title_english": "Mobile Suit Gundam: Iron-Blooded Orphans"
+  },
+  {
+    "id": 21269,
+    "title_chinese": "SERVAMP",
+    "title_japanese": "SERVAMP -サーヴァンプ-",
+    "title_romaji": "SERVAMP",
+    "title_english": "SERVAMP",
+    "synonyms_chinese": [
+      "SERVAMP 吸血鬼僕人"
+    ]
   },
   {
     "id": 21275,
@@ -23967,8 +24029,21 @@
     "title_japanese": "虹色デイズ",
     "title_romaji": "Nijiiro Days",
     "title_english": "Rainbow Days",
+    "synonyms": [
+      "Niji-iro Days"
+    ],
     "synonyms_chinese": [
       "虹色時光"
+    ]
+  },
+  {
+    "id": 21293,
+    "title_chinese": "美男高中地球防衛部LOVE！LOVE！",
+    "title_japanese": "美男高校地球防衛部LOVE！LOVE！",
+    "title_romaji": "BINAN KOUKOU CHIKYUU BOUEIBU LOVE! LOVE!",
+    "title_english": "Cute High Earth Defense Club LOVE! LOVE!",
+    "synonyms_chinese": [
+      "美男高校地球防衛部LOVE！LOVE！"
     ]
   },
   {
@@ -24375,6 +24450,26 @@
     ]
   },
   {
+    "id": 21378,
+    "title_chinese": "魔裝學園HxH",
+    "title_japanese": "魔装学園H×H",
+    "title_romaji": "Masou Gakuen HxH",
+    "title_english": "Hybrid x Heart Magias Academy Ataraxia"
+  },
+  {
+    "id": 21379,
+    "title_chinese": "Fate/kaleid liner Prisma☆Illya 3rei!!",
+    "title_japanese": "Fate/kaleid liner プリズマ☆イリヤ ドライ!!",
+    "title_romaji": "Fate/kaleid liner PRISMA☆ILLYA 3rei!!",
+    "title_english": "Fate/kaleid liner Prisma Illya 3wei!!",
+    "synonyms": [
+      "Fate/kaleid liner Prisma Illya drei!"
+    ],
+    "synonyms_chinese": [
+      "Fate/kaleid liner 魔法少女☆伊莉雅 3rei!!"
+    ]
+  },
+  {
     "id": 21380,
     "title_chinese": "Divine Gate",
     "title_japanese": "ディバインゲート",
@@ -24384,6 +24479,20 @@
       "神聖之門",
       "神賜之門"
     ]
+  },
+  {
+    "id": 21382,
+    "title_chinese": "Rewrite",
+    "title_japanese": "リライト",
+    "title_romaji": "Rewrite",
+    "title_english": "Rewrite"
+  },
+  {
+    "id": 21385,
+    "title_chinese": "七大罪 聖戰的預兆",
+    "title_japanese": "七つの大罪 聖戦の予兆",
+    "title_romaji": "Nanatsu no Taizai: Seisen no Shirushi",
+    "title_english": "The Seven Deadly Sins: Seisen no Shirushi"
   },
   {
     "id": 21386,
@@ -24449,6 +24558,23 @@
     "title_english": "Okusama wa Moto Yariman"
   },
   {
+    "id": 21406,
+    "title_chinese": "藍海少女！",
+    "title_japanese": "あまんちゅ！",
+    "title_romaji": "Amanchu!",
+    "title_english": "Amanchu!",
+    "synonyms_chinese": [
+      "海之少女！"
+    ]
+  },
+  {
+    "id": 21410,
+    "title_chinese": "發條精靈戰記 天鏡的極北之星",
+    "title_japanese": "ねじ巻き精霊戦記 天鏡のアルデラミン",
+    "title_romaji": "Nejimaki Seirei Senki: Tenkyou no Alderamin",
+    "title_english": "Nejimaki Seirei Senki: Alderamin on the Sky"
+  },
+  {
     "id": 21414,
     "title_chinese": "青春 x 機關鎗",
     "title_japanese": "青春×機関銃 獣たちの戦場だなっ！",
@@ -24510,6 +24636,16 @@
     ]
   },
   {
+    "id": 21424,
+    "title_chinese": "亞爾斯蘭戰記 風塵亂舞",
+    "title_japanese": "アルスラーン戦記 風塵乱舞",
+    "title_romaji": "Arslan Senki: Fuujin Ranbu",
+    "title_english": "The Heroic Legend of Arslan: Fuujin Ranbu",
+    "synonyms_chinese": [
+      "阿爾斯蘭戰記 風塵亂舞"
+    ]
+  },
+  {
     "id": 21427,
     "title_chinese": "怪盜Joker 3",
     "title_japanese": "怪盗ジョーカー 3",
@@ -24549,6 +24685,16 @@
     "title_english": "This Boy is a Professional Wizard",
     "synonyms_chinese": [
       "這名男子，以魔法為工作。"
+    ]
+  },
+  {
+    "id": 21439,
+    "title_chinese": "Ange Vierge",
+    "title_japanese": "アンジュ・ヴィエルジュ",
+    "title_romaji": "Ange Vierge",
+    "title_english": "Ange Vierge",
+    "synonyms_chinese": [
+      "聖潔天使"
     ]
   },
   {
@@ -24605,6 +24751,23 @@
     "title_japanese": "ジョジョの奇妙な冒険 ダイヤモンドは砕けない",
     "title_romaji": "JoJo no Kimyou na Bouken: Diamond wa Kudakenai",
     "title_english": "JoJo's Bizarre Adventure: Diamond is Unbreakable"
+  },
+  {
+    "id": 21455,
+    "title_chinese": "NEW GAME!",
+    "title_japanese": "NEW GAME!",
+    "title_romaji": "NEW GAME!",
+    "title_english": "NEW GAME!"
+  },
+  {
+    "id": 21457,
+    "title_chinese": "這個美術社大有問題",
+    "title_japanese": "この美術部には問題がある!",
+    "title_romaji": "Kono Bijutsu-bu ni wa Mondai ga Aru!",
+    "title_english": "Kono Bijutsu-bu ni wa Mondai ga Aru!",
+    "synonyms_chinese": [
+      "這個美術部有問題"
+    ]
   },
   {
     "id": 21458,
@@ -24683,6 +24846,13 @@
     "title_japanese": "えろまんが！ Hもマンガもステップアップ♪",
     "title_romaji": "Ero Manga! H mo Manga mo Step-up♪",
     "title_english": "Ero Manga! H mo Manga mo Step-up♪"
+  },
+  {
+    "id": 21477,
+    "title_chinese": "SHOW BY ROCK!! Short!!",
+    "title_japanese": "SHOW BY ROCK!! しょ～と!!",
+    "title_romaji": "SHOW BY ROCK!! Short!!",
+    "title_english": "SHOW BY ROCK!! Short!!"
   },
   {
     "id": 21478,
@@ -24819,6 +24989,27 @@
     ]
   },
   {
+    "id": 21507,
+    "title_chinese": "Mob Psycho 100",
+    "title_japanese": "モブサイコ１００",
+    "title_romaji": "Mob Psycho 100",
+    "title_english": "Mob Psycho 100",
+    "synonyms_chinese": [
+      "靈能百分百",
+      "路人超能100"
+    ]
+  },
+  {
+    "id": 21509,
+    "title_chinese": "槍彈辯駁3 －The End of 希望峰學園－ 未來篇",
+    "title_japanese": "ダンガンロンパ３ –The End of 希望ヶ峰学園–",
+    "title_romaji": "DANGANRONPA 3: The End of Kibougamine Gakuen - Mirai-Hen",
+    "title_english": "Danganronpa 3: The End of Hope’s Peak High School - Future Arc",
+    "synonyms_chinese": [
+      "彈丸論破3"
+    ]
+  },
+  {
     "id": 21511,
     "title_chinese": "紅殼的潘朵拉",
     "title_japanese": "紅殻のパンドラ",
@@ -24864,6 +25055,13 @@
     "synonyms_chinese": [
       "黑色殘骸"
     ]
+  },
+  {
+    "id": 21518,
+    "title_chinese": "食戟之靈 貳之皿",
+    "title_japanese": "食戟のソーマ 弍ノ皿",
+    "title_romaji": "SHOKUGEKI NO SOUMA: Ni no Sara",
+    "title_english": "Food Wars! The Second Plate"
   },
   {
     "id": 21520,
@@ -24924,6 +25122,13 @@
     "title_japanese": "サムライホルモン THE ANIMATION",
     "title_romaji": "Samurai Hormone: The Animation",
     "title_english": "Samurai Hormone: The Animation"
+  },
+  {
+    "id": 21534,
+    "title_chinese": "Active Raid 機動強襲室第八課 2",
+    "title_japanese": "アクティヴレイド 機動強襲室第八係 2",
+    "title_romaji": "ACTIVE RAID: Kidou Kyoushuushitsu Dai Hakkei 2",
+    "title_english": "Active Raid 2"
   },
   {
     "id": 21535,
@@ -25010,6 +25215,20 @@
     ]
   },
   {
+    "id": 21557,
+    "title_chinese": "QUALIDEA CODE",
+    "title_japanese": "クオリディア・コード",
+    "title_romaji": "QUALIDEA CODE",
+    "title_english": "QUALIDEA CODE"
+  },
+  {
+    "id": 21558,
+    "title_chinese": "驅魔少年 HALLOW",
+    "title_japanese": "D.Gray-man HALLOW",
+    "title_romaji": "D.Gray-man HALLOW",
+    "title_english": "D.Gray-man HALLOW"
+  },
+  {
     "id": 21559,
     "title_chinese": "PriPara 3rd Season",
     "title_japanese": "プリパラ 3rdシーズン",
@@ -25022,6 +25241,17 @@
       "星光樂園 第三期",
       "美妙天堂 第三期",
       "美妙旋律姐妹篇:美妙天堂"
+    ]
+  },
+  {
+    "id": 21560,
+    "title_chinese": "烙印戰士 2016",
+    "title_japanese": "ベルセルク (2016)",
+    "title_romaji": "BERSERK (2016)",
+    "title_english": "Berserk (2016)",
+    "synonyms_chinese": [
+      "烙印勇士 2016",
+      "劍風傳奇 2016"
     ]
   },
   {
@@ -25094,6 +25324,13 @@
     "title_english": "She and Her Cat: Everything Flows"
   },
   {
+    "id": 21578,
+    "title_chinese": "DAYS",
+    "title_japanese": "DAYS",
+    "title_romaji": "DAYS",
+    "title_english": "DAYS"
+  },
+  {
     "id": 21580,
     "title_chinese": "私は, 快楽依存症",
     "title_japanese": "私は, 快楽依存症",
@@ -25120,6 +25357,17 @@
     "title_japanese": "ましゅまろ-いもうと-さっきゅばす",
     "title_romaji": "Marshmallow, Imouto, Succubus",
     "title_english": "Marshmallow, Imouto, Succubus"
+  },
+  {
+    "id": 21584,
+    "title_chinese": "Love Live! Sunshine!!",
+    "title_japanese": "ラブライブ！サンシャイン!!",
+    "title_romaji": "Love Live! Sunshine!!",
+    "title_english": "Love Live! Sunshine!!",
+    "synonyms_chinese": [
+      "明星學生妹 Sunshine!!",
+      "學園偶像祭 Sunshine!!"
+    ]
   },
   {
     "id": 21586,
@@ -25247,6 +25495,13 @@
     "title_english": "Kyonyuu Try! -Tanki Shuuchuu Chichi Momi Lesson-"
   },
   {
+    "id": 21626,
+    "title_chinese": "半田君傳說",
+    "title_japanese": "はんだくん",
+    "title_romaji": "handa-kun",
+    "title_english": "Handa-kun"
+  },
+  {
     "id": 21632,
     "title_chinese": "バカな妹を利口にするのは俺の××だけな件について",
     "title_japanese": "バカな妹を利口にするのは俺の××だけな件について",
@@ -25302,6 +25557,13 @@
     "title_english": "Blood Blockade Battlefront: Ousama no Restaurant no Ousama"
   },
   {
+    "id": 21641,
+    "title_chinese": "OZMAFIA!!",
+    "title_japanese": "オズマフィア",
+    "title_romaji": "OZMAFIA!!",
+    "title_english": "OZMAFIA!!"
+  },
+  {
     "id": 21642,
     "title_chinese": "咲日和",
     "title_japanese": "咲日和",
@@ -25309,6 +25571,38 @@
     "title_english": "Saki Biyori",
     "synonyms_chinese": [
       "天才麻將少女 日和"
+    ]
+  },
+  {
+    "id": 21643,
+    "title_chinese": "憂鬱的物怪庵",
+    "title_japanese": "不機嫌なモノノケ庵",
+    "title_romaji": "Fukigen na Mononokean",
+    "title_english": "The Morose Mononokean",
+    "synonyms_chinese": [
+      "不愉快的妖怪庵",
+      "不高興的怪物庵",
+      "猶豫的物怪庵"
+    ]
+  },
+  {
+    "id": 21644,
+    "title_chinese": "PUZZLE & DRAGONS X",
+    "title_japanese": "パズドラＸ",
+    "title_romaji": "PUZZLE & DRAGONS X",
+    "title_english": "PUZZLE & DRAGONS X",
+    "synonyms_chinese": [
+      "龍族拼圖X"
+    ]
+  },
+  {
+    "id": 21647,
+    "title_chinese": "orange",
+    "title_japanese": "orange",
+    "title_romaji": "orange",
+    "title_english": "orange",
+    "synonyms_chinese": [
+      "orange 橘色奇蹟"
     ]
   },
   {
@@ -25350,6 +25644,13 @@
       "機動戰士GUNDAM UC RE:0096",
       "機動戰士高達UC RE:0096"
     ]
+  },
+  {
+    "id": 21659,
+    "title_chinese": "天真與閃電",
+    "title_japanese": "甘々と稲妻",
+    "title_romaji": "amaama to inazuma",
+    "title_english": "sweetness & lightning"
   },
   {
     "id": 21667,
@@ -25397,6 +25698,54 @@
     ]
   },
   {
+    "id": 21702,
+    "title_chinese": "BATTERY",
+    "title_japanese": "バッテリー",
+    "title_romaji": "BATTERY",
+    "title_english": "BATTERY",
+    "synonyms_chinese": [
+      "野球少年"
+    ]
+  },
+  {
+    "id": 21704,
+    "title_chinese": "Bananya",
+    "title_japanese": "ばなにゃ",
+    "title_romaji": "Bananya",
+    "title_english": "Bananya",
+    "synonyms_chinese": [
+      "香蕉喵"
+    ]
+  },
+  {
+    "id": 21705,
+    "title_chinese": "RS計畫 -Rebirth Storage-",
+    "title_japanese": "RS計画　-Rebirth Storage-",
+    "title_romaji": "RS Keikaku: Rebirth Storage",
+    "title_english": "RS Keikaku: Rebirth Storage"
+  },
+  {
+    "id": 21707,
+    "title_chinese": "Regalia: The Three Sacred Stars",
+    "title_japanese": "レガリア The Three Sacred Stars",
+    "title_romaji": "Regalia: The Three Sacred Stars",
+    "title_english": "Regalia: The Three Sacred Stars"
+  },
+  {
+    "id": 21711,
+    "title_chinese": "91Days",
+    "title_japanese": "91Days",
+    "title_romaji": "91Days",
+    "title_english": "91Days"
+  },
+  {
+    "id": 21713,
+    "title_chinese": "男子啦啦隊!!",
+    "title_japanese": "チア男子!!",
+    "title_romaji": "Cheer Danshi!!",
+    "title_english": "Cheer Boys"
+  },
+  {
     "id": 21716,
     "title_chinese": "LO Re：パコ すくすくみずきちゃん THE ANIMATION",
     "title_japanese": "LO Re：パコ すくすくみずきちゃん THE ANIMATION",
@@ -25418,6 +25767,13 @@
     "title_english": "BROTHERHOOD FINAL FANTASY XV"
   },
   {
+    "id": 21732,
+    "title_chinese": "planetarian ～星之夢～",
+    "title_japanese": "planetarian～ちいさなほしのゆめ～",
+    "title_romaji": "planetarian: Chiisana Hoshi no Yume",
+    "title_english": "planetarian: Chiisana Hoshi no Yume"
+  },
+  {
     "id": 21736,
     "title_chinese": "思念的碎片",
     "title_japanese": "想いのかけら",
@@ -25435,6 +25791,23 @@
     ]
   },
   {
+    "id": 21747,
+    "title_chinese": "Scared Rider XechS",
+    "title_japanese": "スカーレッドライダーゼクス",
+    "title_romaji": "Scared Rider XechS",
+    "title_english": "Sca-red Rider XechS",
+    "synonyms_chinese": [
+      "紅傷騎士X"
+    ]
+  },
+  {
+    "id": 21751,
+    "title_chinese": "B-PROJECT〜鼓動＊Ambitious〜",
+    "title_japanese": "B-PROJECT～鼓動＊アンビシャス～",
+    "title_romaji": "B-PROJECT: Kodou＊Ambitious",
+    "title_english": "B-PROJECT: Kodou＊Ambitious"
+  },
+  {
     "id": 21758,
     "title_chinese": "なま LO Re: なまけもの THE ANIMATION",
     "title_japanese": "なま LO Re: なまけもの THE ANIMATION",
@@ -25449,6 +25822,20 @@
     "title_english": "Houkago Initiation"
   },
   {
+    "id": 21780,
+    "title_chinese": "Re：從零開始的休憩時間",
+    "title_japanese": "Re:ゼロから始める休憩時間(ブレイクタイム)",
+    "title_romaji": "Re: Zero Kara Hajimeru Kyuukei Jikan (Break Time)",
+    "title_english": "Re: Zero Kara Hajimeru Kyuukei Jikan (Break Time)"
+  },
+  {
+    "id": 21782,
+    "title_chinese": "腐男子高校生活",
+    "title_japanese": "腐男子高校生活",
+    "title_romaji": "FUDANSHI KOUKOU SEIKATSU",
+    "title_english": "The Highschool Life of a Fudanshi"
+  },
+  {
     "id": 21784,
     "title_chinese": "熊巫女 OVA",
     "title_japanese": "くまみこ",
@@ -25457,6 +25844,24 @@
     "synonyms_chinese": [
       "當女孩遇到熊 OVA"
     ]
+  },
+  {
+    "id": 21800,
+    "title_chinese": "田中同學總是懶洋洋 小劇場",
+    "title_japanese": "田中くんは今日もけだるげ",
+    "title_romaji": "tanaka-kun wa kyou mo kedaruge",
+    "title_english": "tanaka-kun wa kyou mo kedaruge",
+    "synonyms_chinese": [
+      "田中君總是如此慵懶 小劇場",
+      "田中君總是懶洋洋的 小劇場"
+    ]
+  },
+  {
+    "id": 21804,
+    "title_chinese": "齊木楠雄的災難",
+    "title_japanese": "斉木楠雄のΨ難 (TV)",
+    "title_romaji": "Saiki Kusuo no Ψ Nan (TV)",
+    "title_english": "The Disastrous Life of Saiki K."
   },
   {
     "id": 21817,
@@ -25474,5 +25879,46 @@
     "title_japanese": "ルパン三世 イタリアン・ゲーム",
     "title_romaji": "Lupin III (2015): Italian Game",
     "title_english": "Lupin III (2015): Italian Game"
+  },
+  {
+    "id": 21824,
+    "title_chinese": "時間旅行少女",
+    "title_japanese": "タイムトラベル少女～マリ・ワカと8人の科学者たち～",
+    "title_romaji": "Time Travel Shoujo: Mari Waka to 8-nin no Kagakusha-tachi",
+    "title_english": "Time Travel Girl",
+    "synonyms": [
+      "Mariwaka"
+    ],
+    "synonyms_chinese": [
+      "時間旅行少女～真理、和花與8名科學家～"
+    ]
+  },
+  {
+    "id": 21825,
+    "title_chinese": "槍彈辯駁3 －The End of 希望峰學園－ 絕望篇",
+    "title_japanese": "ダンガンロンパ3 -The End of 希望ヶ峰学園-　絶望編",
+    "title_romaji": "DANGANRONPA 3: The End of Kibougamine Gakuen - Zetsubou-hen",
+    "title_english": "Danganronpa 3: The End of Hope’s Peak High School - Despair Arc"
+  },
+  {
+    "id": 21835,
+    "title_chinese": "魔法少女？Naria☆Girls",
+    "title_japanese": "魔法少女? なりあ☆がーるず",
+    "title_romaji": "Mahou Shoujo? Naria☆Girls",
+    "title_english": "Mahou Shoujo? Naria☆Girls"
+  },
+  {
+    "id": 21840,
+    "title_chinese": "一人之下 the outcast",
+    "title_japanese": "一人之下 the outcast",
+    "title_romaji": "Hitori no Shita: the outcast",
+    "title_english": "Hitori no Shita: the outcast"
+  },
+  {
+    "id": 21841,
+    "title_chinese": "小桃小栗Love Love物語",
+    "title_japanese": "ももくり",
+    "title_romaji": "momokuri (TV)",
+    "title_english": "momokuri (TV)"
   }
 ]
