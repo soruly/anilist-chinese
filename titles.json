@@ -25061,7 +25061,10 @@
     "title_chinese": "食戟之靈 貳之皿",
     "title_japanese": "食戟のソーマ 弍ノ皿",
     "title_romaji": "SHOKUGEKI NO SOUMA: Ni no Sara",
-    "title_english": "Food Wars! The Second Plate"
+    "title_english": "Food Wars! The Second Plate",
+    "synonyms_chinese": [
+      "食戟之靈 二之皿"
+    ]
   },
   {
     "id": 21520,
@@ -25580,8 +25583,10 @@
     "title_romaji": "Fukigen na Mononokean",
     "title_english": "The Morose Mononokean",
     "synonyms_chinese": [
+      "不機嫌的妖怪庵",
       "不愉快的妖怪庵",
       "不高興的怪物庵",
+      "不開心的怪物庵",
       "猶豫的物怪庵"
     ]
   },
@@ -25602,7 +25607,8 @@
     "title_romaji": "orange",
     "title_english": "orange",
     "synonyms_chinese": [
-      "orange 橘色奇蹟"
+      "orange 橘色奇蹟",
+      "Orange 橙"
     ]
   },
   {
@@ -25851,6 +25857,9 @@
     "title_japanese": "田中くんは今日もけだるげ",
     "title_romaji": "tanaka-kun wa kyou mo kedaruge",
     "title_english": "tanaka-kun wa kyou mo kedaruge",
+    "synonyms": [
+      "Tanaka is Listless Today Too"
+    ],
     "synonyms_chinese": [
       "田中君總是如此慵懶 小劇場",
       "田中君總是懶洋洋的 小劇場"
@@ -25912,7 +25921,7 @@
     "title_chinese": "一人之下 the outcast",
     "title_japanese": "一人之下 the outcast",
     "title_romaji": "Hitori no Shita: the outcast",
-    "title_english": "Hitori no Shita: the outcast"
+    "title_english": "Hitorinoshita - The Outcast"
   },
   {
     "id": 21841,
