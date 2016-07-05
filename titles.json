@@ -23656,7 +23656,8 @@
     "title_romaji": "Tales of Zestiria the X",
     "title_english": "Tales of Zestiria the X",
     "synonyms_chinese": [
-      "熱情傳奇 The X"
+      "熱情傳奇 The X",
+      "情熱傳說 The X"
     ]
   },
   {
@@ -25597,7 +25598,8 @@
     "title_romaji": "PUZZLE & DRAGONS X",
     "title_english": "PUZZLE & DRAGONS X",
     "synonyms_chinese": [
-      "龍族拼圖X"
+      "龍族拼圖X",
+      "智龍迷城X"
     ]
   },
   {
@@ -25656,7 +25658,10 @@
     "title_chinese": "天真與閃電",
     "title_japanese": "甘々と稲妻",
     "title_romaji": "amaama to inazuma",
-    "title_english": "sweetness & lightning"
+    "title_english": "sweetness & lightning",
+    "synonyms_chinese": [
+      "甜蜜稻妻"
+    ]
   },
   {
     "id": 21667,
@@ -25819,6 +25824,13 @@
     "title_japanese": "なま LO Re: なまけもの THE ANIMATION",
     "title_romaji": "Nama Lo re: Nama Kemono The Animation",
     "title_english": "Nama Lo re: Nama Kemono The Animation"
+  },
+  {
+    "id": 21762,
+    "title_chinese": "魔将の贄3",
+    "title_japanese": "魔将の贄3",
+    "title_romaji": "Mashou no Nie 3",
+    "title_english": "Mashou no Nie 3"
   },
   {
     "id": 21763,
