@@ -24573,7 +24573,7 @@
     "title_chinese": "發條精靈戰記 天鏡的極北之星",
     "title_japanese": "ねじ巻き精霊戦記 天鏡のアルデラミン",
     "title_romaji": "Nejimaki Seirei Senki: Tenkyou no Alderamin",
-    "title_english": "Nejimaki Seirei Senki: Alderamin on the Sky"
+    "title_english": "Alderamin on the Sky"
   },
   {
     "id": 21414,
@@ -24765,7 +24765,7 @@
     "title_chinese": "這個美術社大有問題",
     "title_japanese": "この美術部には問題がある!",
     "title_romaji": "Kono Bijutsu-bu ni wa Mondai ga Aru!",
-    "title_english": "Kono Bijutsu-bu ni wa Mondai ga Aru!",
+    "title_english": "This Art Club Has a Problem!",
     "synonyms_chinese": [
       "這個美術部有問題"
     ]
@@ -25733,14 +25733,17 @@
     "title_chinese": "RS計畫 -Rebirth Storage-",
     "title_japanese": "RS計画　-Rebirth Storage-",
     "title_romaji": "RS Keikaku: Rebirth Storage",
-    "title_english": "RS Keikaku: Rebirth Storage"
+    "title_english": "RS Project: Rebirth Storage"
   },
   {
     "id": 21707,
     "title_chinese": "Regalia: The Three Sacred Stars",
     "title_japanese": "レガリア The Three Sacred Stars",
     "title_romaji": "Regalia: The Three Sacred Stars",
-    "title_english": "Regalia: The Three Sacred Stars"
+    "title_english": "Regalia: The Three Sacred Stars",
+    "synonyms_chinese": [
+      "雷加利亞三聖星"
+    ]
   },
   {
     "id": 21711,
@@ -25754,7 +25757,7 @@
     "title_chinese": "男子啦啦隊!!",
     "title_japanese": "チア男子!!",
     "title_romaji": "Cheer Danshi!!",
-    "title_english": "Cheer Boys"
+    "title_english": "Cheer Boys!!"
   },
   {
     "id": 21716,
@@ -25822,8 +25825,8 @@
     "id": 21758,
     "title_chinese": "なま LO Re: なまけもの THE ANIMATION",
     "title_japanese": "なま LO Re: なまけもの THE ANIMATION",
-    "title_romaji": "Nama Lo re: Nama Kemono The Animation",
-    "title_english": "Nama Lo re: Nama Kemono The Animation"
+    "title_romaji": "Nama LO re: Nama Kemono The Animation",
+    "title_english": "Nama LO re: Nama Kemono The Animation"
   },
   {
     "id": 21762,
