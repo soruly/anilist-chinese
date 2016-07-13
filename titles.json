@@ -13430,10 +13430,7 @@
     "title_chinese": "快盜天使雙胞胎",
     "title_japanese": "快盗天使ツインエンジェル 〜キュンキュン☆ときめきパラダイス!!〜",
     "title_romaji": "Kaitou Tenshi Twin Angel: Kyun Kyun Tokimeki Paradise!!",
-    "title_english": "Twin Angel: Twinkle Paradise",
-    "synonyms": [
-      "Kaitou Tenshi Twin Angel (TV)"
-    ]
+    "title_english": "Twin Angel: Twinkle Paradise"
   },
   {
     "id": 10218,
@@ -23650,6 +23647,16 @@
     "title_english": "Yobai Suru Shichinin no Harame"
   },
   {
+    "id": 21220,
+    "title_chinese": "火影忍者劇場版：慕留人",
+    "title_japanese": "BORUTO-NARUTO THE MOVIE-",
+    "title_romaji": "Boruto: Naruto the Movie",
+    "title_english": "Boruto: Naruto the Movie",
+    "synonyms_chinese": [
+      "火影忍者劇場版：博人傳"
+    ]
+  },
+  {
     "id": 21221,
     "title_chinese": "Tales of Zestiria the X",
     "title_japanese": "テイルズ オブ ゼスティリア ザ クロス",
@@ -24695,7 +24702,8 @@
     "title_romaji": "Ange Vierge",
     "title_english": "Ange Vierge",
     "synonyms_chinese": [
-      "聖潔天使"
+      "聖潔天使",
+      "聖光天使"
     ]
   },
   {
@@ -24928,6 +24936,13 @@
     "title_english": "My Wife is the Student Council President OVA"
   },
   {
+    "id": 21492,
+    "title_chinese": "我被綁架到貴族女校當「庶民樣本」 SP",
+    "title_japanese": "俺がお嬢様学校に『庶民サンプル』としてゲッツされた件　新作ショートアニメ『九条さんのドS相談室アニメ版』",
+    "title_romaji": "Ore ga Ojou-sama Gakkou ni \"Shomin Sample\" Toshite Gets-Sareta Ken: Kujou-san no Doesu Soudan-Shitsu Anime-ban",
+    "title_english": "Shomin Sample: Kujou-san no Doesu Soudan-Shitsu Anime-ban"
+  },
+  {
     "id": 21493,
     "title_chinese": "空戰魔導士候補生的教官 OVA",
     "title_japanese": "空戦魔導士候補生の教官 OAD",
@@ -25003,7 +25018,7 @@
   {
     "id": 21509,
     "title_chinese": "槍彈辯駁3 －The End of 希望峰學園－ 未來篇",
-    "title_japanese": "ダンガンロンパ３ –The End of 希望ヶ峰学園–",
+    "title_japanese": "ダンガンロンパ３ –The End of 希望ヶ峰学園– 未来編",
     "title_romaji": "DANGANRONPA 3: The End of Kibougamine Gakuen - Mirai-Hen",
     "title_english": "Danganronpa 3: The End of Hope’s Peak High School - Future Arc",
     "synonyms_chinese": [
@@ -25132,7 +25147,7 @@
     "title_chinese": "Active Raid 機動強襲室第八課 2",
     "title_japanese": "アクティヴレイド 機動強襲室第八係 2",
     "title_romaji": "ACTIVE RAID: Kidou Kyoushuushitsu Dai Hakkei 2",
-    "title_english": "Active Raid 2"
+    "title_english": "Active Raid Second"
   },
   {
     "id": 21535,
@@ -25208,6 +25223,13 @@
     "title_english": "Jokei Kazoku III ~Himitsu~: The Anime"
   },
   {
+    "id": 21553,
+    "title_chinese": "莉露莉露Fairilu～妖精之門～",
+    "title_japanese": "リルリルフェアリル～妖精のドア～",
+    "title_romaji": "Rilu Rilu Fairilu: Yousei no Door",
+    "title_english": "Rilu Rilu Fairilu: Yousei no Door"
+  },
+  {
     "id": 21554,
     "title_chinese": "玉響～畢業寫真～ 第四部 拂曉",
     "title_japanese": "たまゆら～卒業写真～　第4部 朝-あした-",
@@ -25223,7 +25245,11 @@
     "title_chinese": "QUALIDEA CODE",
     "title_japanese": "クオリディア・コード",
     "title_romaji": "QUALIDEA CODE",
-    "title_english": "QUALIDEA CODE"
+    "title_english": "QUALIDEA CODE",
+    "synonyms_chinese": [
+      "心靈代碼",
+      "庫爾利迪亞代碼"
+    ]
   },
   {
     "id": 21558,
@@ -25333,6 +25359,16 @@
     "title_japanese": "DAYS",
     "title_romaji": "DAYS",
     "title_english": "DAYS"
+  },
+  {
+    "id": 21579,
+    "title_chinese": "火影忍者劇場版：慕留人 鳴人成為火影之日",
+    "title_japanese": "BORUTO-NARUTO THE MOVIE- ナルトが火影になった日",
+    "title_romaji": "BORUTO: Naruto the Movie - Naruto ga Hokage ni Natta hi",
+    "title_english": "BORUTO: Naruto the Movie - Naruto ga Hokage ni Natta hi",
+    "synonyms_chinese": [
+      "火影忍者劇場版：博人傳 鳴人成為火影之日"
+    ]
   },
   {
     "id": 21580,
@@ -25750,7 +25786,7 @@
     "title_chinese": "91Days",
     "title_japanese": "91Days",
     "title_romaji": "91Days",
-    "title_english": "91Days"
+    "title_english": "91 Days"
   },
   {
     "id": 21713,
@@ -25936,7 +25972,7 @@
     "title_chinese": "一人之下 the outcast",
     "title_japanese": "一人之下 the outcast",
     "title_romaji": "Hitori no Shita: the outcast",
-    "title_english": "Hitorinoshita - The Outcast"
+    "title_english": "hitorinoshita - The Outcast"
   },
   {
     "id": 21841,
