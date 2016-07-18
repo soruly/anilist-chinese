@@ -3112,6 +3112,20 @@
     "title_english": "Pretty Cure"
   },
   {
+    "id": 607,
+    "title_chinese": "童話槍手小紅帽",
+    "title_japanese": "おとぎ銃士 赤ずきん",
+    "title_romaji": "Otogi-jushi Akazukin",
+    "title_english": "Fairy Musketeers",
+    "synonyms": [
+      "Fairy Musketeer Akazukin",
+      "Akazukin TV"
+    ],
+    "synonyms_chinese": [
+      "俏皮劍俠小紅帽"
+    ]
+  },
+  {
     "id": 608,
     "title_chinese": "櫻花大戰 活動寫真",
     "title_japanese": "サクラ大戦 活動写真",
@@ -6239,7 +6253,7 @@
     "id": 2025,
     "title_chinese": "DARKER THAN BLACK -黑之契約者-",
     "title_japanese": "Darker than BLACK -黒の契約者-",
-    "title_romaji": "DARKER THAN BLACK: Kuro no Keiyakusha",
+    "title_romaji": "Darker than BLACK: Kuro no Keiyakusha",
     "title_english": "Darker than Black"
   },
   {
@@ -9420,7 +9434,9 @@
     "title_romaji": "Denpa Teki na Kanojo",
     "title_english": "Denpa Teki na Kanojo",
     "synonyms": [
-      "Denpateki na Kanojo"
+      "Denpateki na Kanojo",
+      "The Radio Wave-Like Girlfriend",
+      "Electromagnetic Girlfriend"
     ]
   },
   {
@@ -10536,7 +10552,7 @@
     "id": 6573,
     "title_chinese": "DARKER THAN BLACK -流星之雙子-",
     "title_japanese": "DARKER THAN BLACK 流星の双子",
-    "title_romaji": "DARKER THAN BLACK: Ryuusei no Gemini",
+    "title_romaji": "Darker than BLACK: Ryuusei no Gemini",
     "title_english": "Darker than Black: Gemini of the Meteor"
   },
   {
@@ -11138,7 +11154,7 @@
     "title_romaji": "Aoi Bungaku Series",
     "title_english": "Aoi Bungaku Series",
     "synonyms": [
-      "Blue Literature"
+      "Blue Literature Series"
     ]
   },
   {
@@ -11188,8 +11204,11 @@
     "id": 7338,
     "title_chinese": "DARKER THAN BLACK -黑之契約者- 外傳",
     "title_japanese": "Darker than BLACK -黒の契約者 外伝",
-    "title_romaji": "DARKER THAN BLACK: Kuro no Keiyakusha Gaiden",
-    "title_english": "DARKER THAN BLACK: Kuro no Keiyakusha Gaiden"
+    "title_romaji": "Darker than BLACK: Kuro no Keiyakusha Gaiden",
+    "title_english": "Darker than BLACK: Kuro no Keiyakusha Gaiden",
+    "synonyms": [
+      "Darker than BLACK: Origin"
+    ]
   },
   {
     "id": 7411,
@@ -16396,7 +16415,7 @@
     "title_chinese": "AURA ～魔龍院光牙最後的戰鬥～",
     "title_japanese": "AURA～魔竜院光牙最後の闘い～",
     "title_romaji": "Aura: Maryuuinkouga Saigo no Tatakai",
-    "title_english": "Aura: Maryuuinkouga Saigo no Tatakai",
+    "title_english": "Aura: Koga Maryuin's Last War",
     "synonyms": [
       "Aura: Maryuinkoga Saigo no Tatakai",
       "Aura: Maryuin Kouga Saigo no Tatakai"
@@ -19663,6 +19682,17 @@
     ]
   },
   {
+    "id": 20511,
+    "title_chinese": "明治東京戀伽 ～弦月的小夜曲～",
+    "title_japanese": "劇場版「明治東亰恋伽」～弦月の小夜曲～",
+    "title_romaji": "Meiji Tokyo Renka: Yumihari no Serenade",
+    "title_english": "Meiji Tokyo Renka: Yumihari no Serenade",
+    "synonyms": [
+      "Meikoi",
+      "Meiji Tokyo Renka: Gengetsu no Sayokyoku"
+    ]
+  },
+  {
     "id": 20512,
     "title_chinese": "Wake Up, Girls! 七人的偶像",
     "title_japanese": "Wake Up, Girls! 七人のアイドル",
@@ -21298,10 +21328,7 @@
     "title_chinese": "銀河騎士傳 第九行星戰役",
     "title_japanese": "シドニアの騎士　第九惑星戦役",
     "title_romaji": "Sidonia no Kishi: Daikyuu Wakusei Seneki",
-    "title_english": "Knights of Sidonia: Daikyuu Wakusei Seneki",
-    "synonyms": [
-      "Knights of Sidonia: War of the Ninth Planet"
-    ],
+    "title_english": "Knights of Sidonia: War of the Ninth Planet",
     "synonyms_chinese": [
       "希德尼婭的騎士 第九行星戰役"
     ]
