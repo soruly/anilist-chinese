@@ -11687,6 +11687,17 @@
     ]
   },
   {
+    "id": 8241,
+    "title_chinese": "Rio RainbowGate!",
+    "title_japanese": "リオ レインボーゲート",
+    "title_romaji": "Rio: Rainbow Gate!",
+    "title_english": "Rio: Rainbow Gate!",
+    "synonyms_chinese": [
+      "里歐 彩虹之門！",
+      "兔女郎的誘惑"
+    ]
+  },
+  {
     "id": 8246,
     "title_chinese": "火影忍者劇場版：失落之塔",
     "title_japanese": "劇場版 NARUTO-ナルト-疾風伝 ザ・ロストタワー",
@@ -13517,6 +13528,20 @@
     "title_japanese": "トワノクオン 第1章 泡沫の花弁",
     "title_romaji": "Towa no Quon 1: Utakata no Kaben",
     "title_english": "Towanoquon: The Ephemeral Petala"
+  },
+  {
+    "id": 10301,
+    "title_chinese": "Rio RainbowGate! OVA",
+    "title_japanese": "リオ レインボーゲート",
+    "title_romaji": "Rio: Rainbow Gate Special",
+    "title_english": "Rio: Rainbow Gate Special",
+    "synonyms": [
+      "Rio: Rainbow Gate OVA"
+    ],
+    "synonyms_chinese": [
+      "里歐 彩虹之門！ OVA",
+      "兔女郎的誘惑 OVA"
+    ]
   },
   {
     "id": 10308,
@@ -23093,6 +23118,20 @@
     ]
   },
   {
+    "id": 21114,
+    "title_chinese": "飆速宅男  劇場版",
+    "title_japanese": "劇場版 弱虫ペダル",
+    "title_romaji": "Yowamushi Pedal Movie",
+    "title_english": "Yowamushi Pedal: The Movie",
+    "synonyms": [
+      "Yowapeda Movie"
+    ],
+    "synonyms_chinese": [
+      "弱蟲腳踏板  劇場版",
+      "飈速宅男  劇場版"
+    ]
+  },
+  {
     "id": 21115,
     "title_chinese": "創聖大天使Logos",
     "title_japanese": "アクエリオンロゴス",
@@ -23332,6 +23371,17 @@
     "title_japanese": "不思議なソメラちゃん",
     "title_romaji": "Fushigi na Somera-chan",
     "title_english": "Magical Somera-chan"
+  },
+  {
+    "id": 21158,
+    "title_chinese": "High☆Speed!: Free! Starting Days",
+    "title_japanese": "映画ハイ☆スピード！ -Free! Starting Days-",
+    "title_romaji": "High☆Speed!: Free! Starting Days",
+    "title_english": "High☆Speed!: Free! Starting Days",
+    "synonyms_chinese": [
+      "熱血自由式",
+      "男子水泳部"
+    ]
   },
   {
     "id": 21159,
@@ -23700,6 +23750,13 @@
     "title_japanese": "漫喫ハプニング",
     "title_romaji": "Mankitsu Happening",
     "title_english": "Mankitsu Happening"
+  },
+  {
+    "id": 21223,
+    "title_chinese": "暗闇三太",
+    "title_japanese": "暗闇三太",
+    "title_romaji": "Kurayami Santa",
+    "title_english": "Kurayami Santa"
   },
   {
     "id": 21224,
@@ -24496,7 +24553,7 @@
     "title_chinese": "Fate/kaleid liner Prisma☆Illya 3rei!!",
     "title_japanese": "Fate/kaleid liner プリズマ☆イリヤ ドライ!!",
     "title_romaji": "Fate/kaleid liner PRISMA☆ILLYA 3rei!!",
-    "title_english": "Fate/kaleid liner Prisma Illya 3wei!!",
+    "title_english": "Fate/kaleid liner PRISMA ILLYA 3rei!!",
     "synonyms": [
       "Fate/kaleid liner Prisma Illya drei!"
     ],
@@ -24591,6 +24648,13 @@
     "title_japanese": "奥様は元ヤリマン",
     "title_romaji": "Okusama wa Moto Yariman",
     "title_english": "Okusama wa Moto Yariman"
+  },
+  {
+    "id": 21404,
+    "title_chinese": "加速世界 INFINITE∞BURST",
+    "title_japanese": "アクセル・ワールド -インフィニット・バースト-",
+    "title_romaji": "Accel World: INFINITE∞BURST",
+    "title_english": "Accel World: INFINITE∞BURST"
   },
   {
     "id": 21406,
@@ -25020,6 +25084,13 @@
     "title_japanese": "ボーイ・ミーツ・ハーレム THE ANIMATION",
     "title_romaji": "Boy Meets Harem The Animation",
     "title_english": "Boy Meets Harem The Animation"
+  },
+  {
+    "id": 21504,
+    "title_chinese": "光之美少女 All Stars 大家一起唱響♪奇跡的魔法！",
+    "title_japanese": "プリキュアオールスターズ みんなで歌う♪奇跡の魔法！",
+    "title_romaji": "Precure All Stars Minna de Utau♪ Kiseki no Mahou!",
+    "title_english": "Precure All Stars Minna de Utau♪ Kiseki no Mahou!"
   },
   {
     "id": 21506,
