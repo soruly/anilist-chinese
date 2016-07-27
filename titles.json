@@ -24938,7 +24938,10 @@
     "title_chinese": "薄櫻鬼 ~御伽草子~",
     "title_japanese": "薄桜鬼 ~御伽草紙~",
     "title_romaji": "Hakuouki: Otogisoushi",
-    "title_english": "Hakuouki: Otogisoushi"
+    "title_english": "Hakuouki: Otogisoushi",
+    "synonyms": [
+      "Hakuoki: Otogisoushi"
+    ]
   },
   {
     "id": 21475,
@@ -25536,6 +25539,17 @@
     ]
   },
   {
+    "id": 21599,
+    "title_chinese": "灰與幻想的格林姆迦爾 OVA",
+    "title_japanese": "灰と幻想のグリムガル OVA2.5",
+    "title_romaji": "Hai to Gensou no Grimgar OVA 2.5",
+    "title_english": "Grimgar of Fantasy and Ash OVA 2.5",
+    "synonyms": [
+      "Grimgar",
+      "  Ashes and Illusions OVA 2.5"
+    ]
+  },
+  {
     "id": 21600,
     "title_chinese": "貓貓日本史",
     "title_japanese": "ねこねこ日本史",
@@ -25983,7 +25997,7 @@
     "title_chinese": "Re：從零開始的休憩時間",
     "title_japanese": "Re:ゼロから始める休憩時間(ブレイクタイム)",
     "title_romaji": "Re: Zero Kara Hajimeru Kyuukei Jikan (Break Time)",
-    "title_english": "Re: Zero Kara Hajimeru Kyuukei Jikan (Break Time)"
+    "title_english": "Re:ZERO ~Starting Break Time From Zero~"
   },
   {
     "id": 21782,
@@ -26022,6 +26036,13 @@
     "title_japanese": "斉木楠雄のΨ難 (TV)",
     "title_romaji": "Saiki Kusuo no Ψ Nan (TV)",
     "title_english": "The Disastrous Life of Saiki K."
+  },
+  {
+    "id": 21805,
+    "title_chinese": "PINKERTON",
+    "title_japanese": "PINKERTON",
+    "title_romaji": "Pinkerton",
+    "title_english": "Pinkerton"
   },
   {
     "id": 21817,
