@@ -12399,6 +12399,13 @@
     ]
   },
   {
+    "id": 9260,
+    "title_chinese": "傷物語 I 鐵血篇",
+    "title_japanese": "傷物語〈Ⅰ鉄血篇〉",
+    "title_romaji": "Kizumonogatari I - Tekketsu-hen",
+    "title_english": "Kizumonogatari I - Tekketsu-hen"
+  },
+  {
     "id": 9288,
     "title_chinese": "電影 Heart Catch 光之美少女：超級時尚秀在花之都...真的嗎！？",
     "title_japanese": "映画 ハートキャッチプリキュア！花の都でファッションショー・・・ですか！？",
@@ -25745,6 +25752,9 @@
     "title_japanese": "パズドラＸ",
     "title_romaji": "PUZZLE & DRAGONS X",
     "title_english": "PUZZLE & DRAGONS X",
+    "synonyms": [
+      "PAD X"
+    ],
     "synonyms_chinese": [
       "龍族拼圖X",
       "智龍迷城X"
@@ -25854,6 +25864,16 @@
     "title_english": "Crane Game Girls",
     "synonyms_chinese": [
       "美少女遊戲組合 Crane Game Girls"
+    ]
+  },
+  {
+    "id": 21695,
+    "title_chinese": "無頭騎士異聞錄x2 結 DuFuFuFu!!",
+    "title_japanese": "デュラララ!!×２ 結 デュフフフ!!",
+    "title_romaji": "Durarara!!×2 Ketsu: DuFuFuFu!!",
+    "title_english": "Durarara!! X2 The Third Arc: DuFuFuFu!!",
+    "synonyms": [
+      "Durarara!!x2 Ketsu Episode 19.5"
     ]
   },
   {
@@ -26101,5 +26121,18 @@
     "title_japanese": "ももくり",
     "title_romaji": "momokuri (TV)",
     "title_english": "momokuri (TV)"
+  },
+  {
+    "id": 21881,
+    "title_chinese": "人家怎麼可能不在意貓田。",
+    "title_japanese": "猫田のことが気になって仕方ない。",
+    "title_romaji": "Nekota no Koto ga Kininatte Shikatanai. (ONA)",
+    "title_english": "Nekota no Koto ga Kininatte Shikatanai. (ONA)",
+    "synonyms": [
+      "Ribon x Oha Suta Specials"
+    ],
+    "synonyms_chinese": [
+      "我好在意貓田。"
+    ]
   }
 ]
