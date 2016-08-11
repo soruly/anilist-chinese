@@ -22612,6 +22612,13 @@
     "title_english": "Go! Princess Precure"
   },
   {
+    "id": 21002,
+    "title_chinese": "Under the Dog",
+    "title_japanese": "UNDER THE DOG",
+    "title_romaji": "UNDER THE DOG",
+    "title_english": "UNDER THE DOG"
+  },
+  {
     "id": 21004,
     "title_chinese": "怪盜Joker 2",
     "title_japanese": "怪盗ジョーカー2",
@@ -25955,7 +25962,10 @@
     "title_chinese": "planetarian ～星之夢～",
     "title_japanese": "planetarian～ちいさなほしのゆめ～",
     "title_romaji": "planetarian: Chiisana Hoshi no Yume",
-    "title_english": "planetarian: Chiisana Hoshi no Yume"
+    "title_english": "Planetarian",
+    "synonyms": [
+      "planetarian: The Reverie of a Little Planet"
+    ]
   },
   {
     "id": 21736,
@@ -26133,6 +26143,13 @@
     "title_japanese": "ももくり",
     "title_romaji": "momokuri (TV)",
     "title_english": "momokuri (TV)"
+  },
+  {
+    "id": 21869,
+    "title_chinese": "Misuzu イケナイコト",
+    "title_japanese": "misuzu -イケナイコト-",
+    "title_romaji": "Misuzu: Ikenai Koto",
+    "title_english": "Misuzu: Ikenai Koto"
   },
   {
     "id": 21881,
