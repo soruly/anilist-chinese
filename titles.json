@@ -20255,7 +20255,7 @@
     "title_chinese": "乒乓",
     "title_japanese": "ピンポン THE ANIMATION",
     "title_romaji": "Ping Pong THE ANIMATION",
-    "title_english": "Ping Pong The Animation"
+    "title_english": "Ping Pong the Animation"
   },
   {
     "id": 20610,
@@ -23987,7 +23987,7 @@
     "id": 21264,
     "title_chinese": "夢幻之星Online 2",
     "title_japanese": "PHANTASY STAR ONLINE2 THE ANIMATION",
-    "title_romaji": "PHANTASY START ONLINE 2: THE ANIMATION",
+    "title_romaji": "PHANTASY STAR ONLINE 2: THE ANIMATION",
     "title_english": "Phantasy Star Online 2 The Animation"
   },
   {
@@ -26088,6 +26088,18 @@
     "title_japanese": "PINKERTON",
     "title_romaji": "Pinkerton",
     "title_english": "Pinkerton"
+  },
+  {
+    "id": 21814,
+    "title_chinese": "Gundam Build Fighters Try OVA",
+    "title_japanese": "ガンダムビルドファイターズトライ OVA",
+    "title_romaji": "GUNDAM BUILD FIGHTERS TRY OVA",
+    "title_english": "GUNDAM BUILD FIGHTERS TRY OVA",
+    "synonyms_chinese": [
+      "高達創戰者TRY 鳥上熱戰",
+      "鋼彈創鬥者TRY OVA",
+      "敢達創戰者TRY OVA"
+    ]
   },
   {
     "id": 21817,
