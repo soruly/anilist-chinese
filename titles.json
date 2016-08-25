@@ -23585,8 +23585,8 @@
     "id": 21192,
     "title_chinese": "Bikini Warriors",
     "title_japanese": "ビキニ・ウォリアーズ",
-    "title_romaji": "Bikini Warriors",
-    "title_english": "Bikini Warriors",
+    "title_romaji": "BIKINI WARRIORS",
+    "title_english": "BIKINI WARRIORS",
     "synonyms_chinese": [
       "比基尼勇士"
     ]
@@ -25030,7 +25030,10 @@
     "title_chinese": "亞人 OAD",
     "title_japanese": "Ajin OAD",
     "title_romaji": "AJIN OVA",
-    "title_english": "AJIN OVA"
+    "title_english": "AJIN OVA",
+    "synonyms_chinese": [
+      "亞人 OVA"
+    ]
   },
   {
     "id": 21489,
