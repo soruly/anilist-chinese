@@ -17502,6 +17502,13 @@
     ]
   },
   {
+    "id": 16444,
+    "title_chinese": "問題兒童都來自異世界？ OVA",
+    "title_japanese": "問題児たちが異世界から来るそうですよ? OVA",
+    "title_romaji": "Mondaiji-tachi ga Isekai kara Kuru Sou Desu yo? OVA",
+    "title_english": "Problem Children Are Coming From Another World, Aren't They? OVA"
+  },
+  {
     "id": 16498,
     "title_chinese": "進擊的巨人",
     "title_japanese": "進撃の巨人",
@@ -20695,10 +20702,11 @@
     "title_chinese": "歌之王子殿下 真愛革命",
     "title_japanese": "うたの☆プリンスさまっ♪マジLOVEレボリューションス",
     "title_romaji": "Uta no☆Prince-sama♪ Maji Love Revolutions",
-    "title_english": "Utano☆Princesama Revolutions",
+    "title_english": "Uta no Prince Sama Revolutions",
     "synonyms": [
       "UtaPri 3",
-      "Uta no☆Prince-sama♪ Maji Love 3"
+      "Uta no☆Prince-sama♪ Maji Love 3",
+      "Utano☆Princesama Revolutions"
     ]
   },
   {
@@ -23268,7 +23276,7 @@
   },
   {
     "id": 21138,
-    "title_chinese": "晨曦公主",
+    "title_chinese": "晨曦公主 背負之物",
     "title_japanese": "暁のヨナ その背には",
     "title_romaji": "Akatsuki no Yona: Sono Se ni wa",
     "title_english": "Akatsuki no Yona: Sono Se ni wa",
@@ -23276,6 +23284,9 @@
       "AkaYona OVA",
       "Akatsuki no Yona OVA",
       "Yona of the Dawn OVA"
+    ],
+    "synonyms_chinese": [
+      "拂曉的尤娜 背負之物"
     ]
   },
   {
@@ -24882,6 +24893,9 @@
     "title_japanese": "この美術部には問題がある!",
     "title_romaji": "Kono Bijutsu-bu ni wa Mondai ga Aru!",
     "title_english": "This Art Club Has a Problem!",
+    "synonyms": [
+      "Konobi"
+    ],
     "synonyms_chinese": [
       "這個美術部有問題"
     ]
@@ -25950,6 +25964,16 @@
     "title_english": "LO Re: Pako Sukusuku Mizuki-chan The Animation"
   },
   {
+    "id": 21720,
+    "title_chinese": "晨曦公主 傑諾篇",
+    "title_japanese": "暁のヨナ ゼノ編",
+    "title_romaji": "Akatsuki no Yona: Zeno-hen",
+    "title_english": "Akatsuki no Yona: Zeno-hen",
+    "synonyms_chinese": [
+      "拂曉的尤娜 傑諾篇"
+    ]
+  },
+  {
     "id": 21721,
     "title_chinese": "小飛翔魔女",
     "title_japanese": "ふらいんぐうぃっち ぷち",
@@ -26013,6 +26037,13 @@
     "title_japanese": "なま LO Re: なまけもの THE ANIMATION",
     "title_romaji": "Nama LO re: Nama Kemono The Animation",
     "title_english": "Nama LO re: Nama Kemono The Animation"
+  },
+  {
+    "id": 21759,
+    "title_chinese": "高校星歌劇 OVA",
+    "title_japanese": "スタミュ OVA",
+    "title_romaji": "Star Mu OVA",
+    "title_english": "STARMYU OVA"
   },
   {
     "id": 21762,
