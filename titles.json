@@ -20495,6 +20495,13 @@
     "title_english": "Wake Up, Girls!"
   },
   {
+    "id": 19101,
+    "title_chinese": "真・秘湯めぐり",
+    "title_japanese": "真・秘湯めぐり",
+    "title_romaji": "Shin Hitou Meguri",
+    "title_english": "Shin Hitou Meguri"
+  },
+  {
     "id": 19111,
     "title_chinese": "LoveLive! 2期",
     "title_japanese": "ラブライブ! School idol project 2期",
@@ -25365,7 +25372,8 @@
     "title_romaji": "Buta no Gotoki Sanzoku ni Torawarete Shojo wo Ubawareru Kyonyuu Himekishi & Onna Senshi",
     "title_english": "Buta no Gotoki Sanzoku ni Torawarete Shojo wo Ubawareru Kyonyuu Himekishi & Onna Senshi",
     "synonyms": [
-      "Buta no Gotoki Sanzoku ni Torawarete Shojo wo Ubawareru Kyonyuu Himekishi & Onna Senshi: Zettai Chinpo Nanka ni Maketari Shinai!! The Animation"
+      "Buta no Gotoki Sanzoku ni Torawarete Shojo wo Ubawareru Kyonyuu Himekishi & Onna Senshi: Zettai Chinpo Nanka ni Maketari Shinai!! The Animation",
+      "Buta no Gotoki"
     ]
   },
   {
@@ -25694,13 +25702,6 @@
     "title_japanese": "漫喫ハプニング",
     "title_romaji": "Mankitsu Happening",
     "title_english": "Mankitsu Happening"
-  },
-  {
-    "id": 21223,
-    "title_chinese": "暗闇三太",
-    "title_japanese": "暗闇三太",
-    "title_romaji": "Kurayami Santa",
-    "title_english": "Kurayami Santa"
   },
   {
     "id": 21224,
@@ -26288,9 +26289,9 @@
   {
     "id": 21327,
     "title_chinese": "乾物妹小埋 OVA",
-    "title_japanese": "干物妹！うまるちゃん OVA",
-    "title_romaji": "HIMOUTO! UMARU-CHAN OVA",
-    "title_english": "HIMOUTO! UMARU-CHAN OVA",
+    "title_japanese": "干物妹！うまるちゃん OVA「うまるちゃん　もう一回！」",
+    "title_romaji": "HIMOUTO! UMARU-CHAN OVA: Umaru-chan Mou Ikkai!",
+    "title_english": "HIMOUTO! UMARU-CHAN OVA: Umaru-chan Mou Ikkai!",
     "synonyms_chinese": [
       "我家有個魚乾妹 OVA"
     ]
@@ -26543,9 +26544,12 @@
   {
     "id": 21377,
     "title_chinese": "黑子的籃球 Extra Game",
-    "title_japanese": "黒子のバスケ EXTRA GAME",
-    "title_romaji": "Kuroko no Basket: EXTRA GAME",
-    "title_english": "Kuroko's Basketball: EXTRA GAME",
+    "title_japanese": "劇場版 黒子のバスケ LAST GAME",
+    "title_romaji": "Kuroko no Basket: LAST GAME",
+    "title_english": "Kuroko no Basket: LAST GAME",
+    "synonyms": [
+      "Kuroko no Basket: EXTRA GAME"
+    ],
     "synonyms_chinese": [
       "影子籃球員 Extra Game",
       "幻影籃球王 Extra Game"
@@ -26695,12 +26699,16 @@
   },
   {
     "id": 21409,
-    "title_chinese": "星光少男 KING OF PRISM",
+    "title_chinese": "KING OF PRISM by PrettyRhythm",
     "title_japanese": "KING OF PRISM by PrettyRhythm",
     "title_romaji": "King of Prism by Pretty Rhythm",
     "title_english": "King of Prism by Pretty Rhythm",
     "synonyms": [
       "Kinpri"
+    ],
+    "synonyms_chinese": [
+      "星光少男 KING OF PRISM",
+      "美妙旋律劇場版02"
     ]
   },
   {
@@ -27246,6 +27254,16 @@
     "title_english": "Food Wars! The Second Plate",
     "synonyms_chinese": [
       "食戟之靈 二之皿"
+    ]
+  },
+  {
+    "id": 21519,
+    "title_chinese": "你的名字。",
+    "title_japanese": "君の名は。",
+    "title_romaji": "Kimi no Na wa.",
+    "title_english": "your name.",
+    "synonyms_chinese": [
+      "你的名字是"
     ]
   },
   {
@@ -28048,6 +28066,13 @@
     "title_english": "BROTHERHOOD FINAL FANTASY XV"
   },
   {
+    "id": 21729,
+    "title_chinese": "KINGSGLAIVE FINAL FANTASY XV",
+    "title_japanese": "KINGSGLAIVE FINAL FANTASY XV",
+    "title_romaji": "KINGSGLAIVE FINAL FANTASY XV",
+    "title_english": "KINGSGLAIVE FINAL FANTASY XV"
+  },
+  {
     "id": 21732,
     "title_chinese": "planetarian ～星之夢～",
     "title_japanese": "planetarian～ちいさなほしのゆめ～",
@@ -28151,6 +28176,13 @@
     ]
   },
   {
+    "id": 21789,
+    "title_chinese": "三者三葉 OVA",
+    "title_japanese": "三者三葉 OVA未放映エピソード",
+    "title_romaji": "Sansha Sanyou OVA mi Houei Episode",
+    "title_english": "Three Leaves, Three Colors OVA mi Houei Episode"
+  },
+  {
     "id": 21790,
     "title_chinese": "JOKER GAME 黑貓約魯的冒險",
     "title_japanese": "ジョーカー・ゲーム 「黒猫ヨルの冒険」",
@@ -28160,6 +28192,16 @@
       "鬼牌遊戲 黑貓約魯的冒險",
       "D機關 黑貓約魯的冒險",
       "代號D機關 黑貓約魯的冒險"
+    ]
+  },
+  {
+    "id": 21795,
+    "title_chinese": "Honobono Log",
+    "title_japanese": "ほのぼのログ",
+    "title_romaji": "Honobono Log",
+    "title_english": "Honobono Log",
+    "synonyms_chinese": [
+      "暖心手賬"
     ]
   },
   {
@@ -28295,6 +28337,16 @@
     ],
     "synonyms_chinese": [
       "我好在意貓田。"
+    ]
+  },
+  {
+    "id": 21883,
+    "title_chinese": "エクスメイデン 居酒屋たまき",
+    "title_japanese": "エクスメイデン 居酒屋たまき",
+    "title_romaji": "X Maiden: Izakaya Tamaki",
+    "title_english": "X Maiden: Izakaya Tamaki",
+    "synonyms": [
+      "X Maiden Specials"
     ]
   }
 ]
