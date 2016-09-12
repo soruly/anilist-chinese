@@ -24021,8 +24021,7 @@
     "title_romaji": "Hibike! Euphonium",
     "title_english": "Sound! Euphonium",
     "synonyms_chinese": [
-      "吹響吧！悠風號",
-      "吹響吧！上低音號～歡迎加入北宇治高中管樂團～"
+      "吹響吧！悠風號"
     ]
   },
   {
@@ -25451,7 +25450,10 @@
     "title_chinese": "Code Geass 亡國的阿基德 第5章 致親愛的人與物",
     "title_japanese": "コードギアス 亡国のアキト 第5章 憎しみの記憶から",
     "title_romaji": "CODE GEASS: Boukoku no Akito 5 - Itoshiki Mono-tachi e",
-    "title_english": "CODE GEASS: Boukoku no Akito 5 - Itoshiki Mono-tachi e"
+    "title_english": "CODE GEASS: Boukoku no Akito 5 - Itoshiki Mono-tachi e",
+    "synonyms": [
+      "Code Geass: Akito the Exiled 5 - To Beloved Ones"
+    ]
   },
   {
     "id": 21179,
@@ -26546,7 +26548,7 @@
     "title_chinese": "黑子的籃球 Extra Game",
     "title_japanese": "劇場版 黒子のバスケ LAST GAME",
     "title_romaji": "Kuroko no Basket: LAST GAME",
-    "title_english": "Kuroko no Basket: LAST GAME",
+    "title_english": "Kuroko's Basketball: LAST GAME",
     "synonyms": [
       "Kuroko no Basket: EXTRA GAME"
     ],
@@ -27792,6 +27794,16 @@
     ]
   },
   {
+    "id": 21638,
+    "title_chinese": "劇場版 吹響！上低音號",
+    "title_japanese": "劇場版 響け！ユーフォニアム～北宇治高校吹奏楽部へようこそ～",
+    "title_romaji": "Gekijouban Hibike! Euphonium: Kitauji Koukou Suisougaku-bu e Youkoso",
+    "title_english": "Sound! Euphonium the Movie: Welcome to the Kitauji High School Concert Band",
+    "synonyms_chinese": [
+      "劇場版 吹響吧！上低音號～歡迎加入北宇治高中管樂團～"
+    ]
+  },
+  {
     "id": 21640,
     "title_chinese": "血界戰線 OAD",
     "title_japanese": "血界戦線 王様のレストランの王様",
@@ -27868,9 +27880,9 @@
   {
     "id": 21649,
     "title_chinese": "少女與戰車 劇場版 OVA",
-    "title_japanese": "ガールズ＆パンツァー　劇場版 OVA",
-    "title_romaji": "Girls und Panzer der Film OVA",
-    "title_english": "Girls und Panzer der Film OVA",
+    "title_japanese": "ガールズ＆パンツァー 劇場版 「愛里寿・ウォー！」",
+    "title_romaji": "Girls und Panzer der Film: Arisu War!",
+    "title_english": "Girls und Panzer der Film: Arisu War!",
     "synonyms_chinese": [
       "女子高生&重戰車 劇場版 OVA",
       "少女&坦克 劇場版 OVA"
