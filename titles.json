@@ -25218,8 +25218,8 @@
     "id": 21140,
     "title_chinese": "颱風的諾爾達",
     "title_japanese": "台風のノルダ",
-    "title_romaji": "Taifu no Noruda",
-    "title_english": "Taifu no Noruda",
+    "title_romaji": "Taifuu no Noruda",
+    "title_english": "Taifuu no Noruda",
     "synonyms": [
       "Typhoon Noruda"
     ]
@@ -27462,9 +27462,9 @@
   {
     "id": 21560,
     "title_chinese": "烙印戰士 2016",
-    "title_japanese": "ベルセルク (2016)",
-    "title_romaji": "BERSERK (2016)",
-    "title_english": "Berserk (2016)",
+    "title_japanese": "ベルセルク",
+    "title_romaji": "BERSERK",
+    "title_english": "Berserk",
     "synonyms_chinese": [
       "烙印勇士 2016",
       "劍風傳奇 2016"
@@ -28360,5 +28360,19 @@
     "synonyms": [
       "X Maiden Specials"
     ]
+  },
+  {
+    "id": 87437,
+    "title_chinese": "300円のおつきあい",
+    "title_japanese": "300円のおつきあい",
+    "title_romaji": "300 Yen no Otsukiai",
+    "title_english": "300 Yen no Otsukiai"
+  },
+  {
+    "id": 87456,
+    "title_chinese": "少女達の茶道ism THE ANIMATION",
+    "title_japanese": "少女達の茶道ism THE ANIMATION",
+    "title_romaji": "Shoujo-tachi no Sadism The Animation",
+    "title_english": "Shoujo-tachi no Sadism The Animation"
   }
 ]
