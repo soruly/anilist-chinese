@@ -13320,6 +13320,13 @@
     ]
   },
   {
+    "id": 9322,
+    "title_chinese": "HHH Triple Ecchi",
+    "title_japanese": "HHH トリプルエッチ",
+    "title_romaji": "HHH Triple Ecchi",
+    "title_english": "HHH Triple Ecchi"
+  },
+  {
     "id": 9330,
     "title_chinese": "Dragon Crisis!",
     "title_japanese": "ドラゴンクライシス!",
@@ -17786,6 +17793,9 @@
     "synonyms": [
       "Shin Megami Tensei: Persona 3",
       "P3M"
+    ],
+    "synonyms_chinese": [
+      "女神異聞錄 3 劇場版 #1 Spring of Birth"
     ]
   },
   {
@@ -23024,14 +23034,20 @@
     "title_chinese": "Persona 3 the Movie 2 Midsummer Knight's Dream",
     "title_japanese": "PERSONA3 THE MOVIE —#2 Midsummer Knight's Dream—",
     "title_romaji": "Persona 3 the Movie 2: Midsummer Knight's Dream",
-    "title_english": "Persona 3 the Movie: #2 Midsummer Knight's Dream"
+    "title_english": "Persona 3 the Movie: #2 Midsummer Knight's Dream",
+    "synonyms_chinese": [
+      "女神異聞錄 3 劇場版 #2 Midsummer Knight's Dream"
+    ]
   },
   {
     "id": 20737,
     "title_chinese": "Persona 3 the Movie 3 Falling Down",
     "title_japanese": "PERSONA3 THE MOVIE —#3 Falling Down—",
     "title_romaji": "Persona 3 the Movie 3: Falling Down",
-    "title_english": "Persona 3 the Movie: #3 Falling Down"
+    "title_english": "Persona 3 the Movie: #3 Falling Down",
+    "synonyms_chinese": [
+      "女神異聞錄 3 劇場版 #3 Falling Down"
+    ]
   },
   {
     "id": 20739,
@@ -25881,10 +25897,13 @@
   },
   {
     "id": 21248,
-    "title_chinese": "Persona 3 the Movie 4",
+    "title_chinese": "Persona 3 the Movie 4 Winter of Rebirth",
     "title_japanese": "PERSONA3 THE MOVIE — #4 Winter of Rebirth —",
     "title_romaji": "Persona 3 The Movie 4: Winter of Rebirth",
-    "title_english": "Persona 3 the Movie: #4 Winter of Rebirth"
+    "title_english": "Persona 3 the Movie: #4 Winter of Rebirth",
+    "synonyms_chinese": [
+      "女神異聞錄 3 劇場版 #4 Winter of Rebirth"
+    ]
   },
   {
     "id": 21249,
@@ -26821,6 +26840,26 @@
     ],
     "synonyms_chinese": [
       "少女們以荒野為目標 OVA"
+    ]
+  },
+  {
+    "id": 21432,
+    "title_chinese": "PERSONA5 the Animation: THE DAY BREAKERS",
+    "title_japanese": "ペルソナ5",
+    "title_romaji": "PERSONA5 THE ANIMATION: THE DAY BREAKERS",
+    "title_english": "PERSONA5 the Animation -THE DAY BREAKERS-",
+    "synonyms_chinese": [
+      "女神異聞錄 5"
+    ]
+  },
+  {
+    "id": 21434,
+    "title_chinese": "Persona 4 The Golden Animation: Thank you Mr. Accomplice",
+    "title_japanese": "ペルソナ4 ザ・ゴールデンアニメーション Thank you Mr. Accomplice",
+    "title_romaji": "Persona 4 The Golden Animation: Thank you Mr. Accomplice",
+    "title_english": "Persona 4 The Golden Animation: Thank you Mr. Accomplice",
+    "synonyms_chinese": [
+      "女神異聞錄 4 黃金版 7.5話"
     ]
   },
   {
@@ -28325,6 +28364,13 @@
     "title_english": "momokuri (TV)"
   },
   {
+    "id": 21847,
+    "title_chinese": "烏龍派出所特別篇：兩津勘吉最後的一天",
+    "title_japanese": "こちら葛飾区亀有公園前派出所～THE FINAL 両津勘吉最後の日～",
+    "title_romaji": "Kochira Katsushikaku Kameari Kouenmae Hashutsujo: The Final - Ryoutsu Kakichi Saigo no Hi",
+    "title_english": "Kochira Katsushikaku Kameari Kouenmae Hashutsujo: The Final - Ryoutsu Kakichi Saigo no Hi"
+  },
+  {
     "id": 21868,
     "title_chinese": "円交少女 ~陸上部ゆっきーの場合~ THE ANIMATION",
     "title_japanese": "円交少女 ~陸上部ゆっきーの場合~ THE ANIMATION",
@@ -28374,5 +28420,18 @@
     "title_japanese": "少女達の茶道ism THE ANIMATION",
     "title_romaji": "Shoujo-tachi no Sadism The Animation",
     "title_english": "Shoujo-tachi no Sadism The Animation"
+  },
+  {
+    "id": 97610,
+    "title_chinese": "咲-Saki- 阿知賀篇 玄的生日",
+    "title_japanese": "咲-Saki-阿知賀編 episode of side-A ショートオリジナルアニメ「玄の誕生日」",
+    "title_romaji": "Saki Achiga-hen: Episode of Side-A - Kuro no Tanjoubi",
+    "title_english": "Saki Achiga-hen: Episode of Side-A - Kuro no Tanjoubi",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": [
+      "天才麻將少女 阿知賀篇 玄的生日"
+    ]
   }
 ]
