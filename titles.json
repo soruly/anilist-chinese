@@ -26610,9 +26610,12 @@
   {
     "id": 21382,
     "title_chinese": "Rewrite",
-    "title_japanese": "リライト",
+    "title_japanese": "Rewrite",
     "title_romaji": "Rewrite",
-    "title_english": "Rewrite"
+    "title_english": "Rewrite",
+    "synonyms": [
+      "リライト"
+    ]
   },
   {
     "id": 21385,
