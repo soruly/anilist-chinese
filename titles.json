@@ -21153,6 +21153,13 @@
     ]
   },
   {
+    "id": 20454,
+    "title_chinese": "Brave Witches",
+    "title_japanese": "ブレイブウィッチーズ",
+    "title_romaji": "Brave Witches",
+    "title_english": "Brave Witches"
+  },
+  {
     "id": 20455,
     "title_chinese": "Super Sonico",
     "title_japanese": "そにアニ -SUPER SONICO THE ANIMATION-",
@@ -24762,6 +24769,17 @@
     "title_english": "momokuri"
   },
   {
+    "id": 21051,
+    "title_chinese": "黑白來看守所",
+    "title_japanese": "ナンバカ",
+    "title_romaji": "Nanbaka",
+    "title_english": "NANBAKA",
+    "synonyms": [
+      "Nambaka",
+      "The Numbers"
+    ]
+  },
+  {
     "id": 21054,
     "title_chinese": "雨色可可",
     "title_japanese": "雨色ココア",
@@ -25134,6 +25152,13 @@
     "title_english": "Happiness Charge Pretty Cure!: Ballerina of the Doll Kingdom"
   },
   {
+    "id": 21123,
+    "title_chinese": "漂流武士",
+    "title_japanese": "ドリフターズ",
+    "title_romaji": "Drifters",
+    "title_english": "Drifters"
+  },
+  {
     "id": 21127,
     "title_chinese": "Steins;Gate 0",
     "title_japanese": "シュタインズ・ゲート ゼロ",
@@ -25432,6 +25457,13 @@
     "title_japanese": "暗殺教室 2",
     "title_romaji": "Ansatsu Kyoushitsu (TV) 2",
     "title_english": "Assassination Classroom 2"
+  },
+  {
+    "id": 21171,
+    "title_chinese": "長騎美眉",
+    "title_japanese": "ろんぐらいだぁす！",
+    "title_romaji": "Long Riders!",
+    "title_english": "Long Riders!"
   },
   {
     "id": 21173,
@@ -25916,6 +25948,13 @@
     ]
   },
   {
+    "id": 21250,
+    "title_chinese": "ClassicaLoid",
+    "title_japanese": "クラシカロイド",
+    "title_romaji": "ClassicaLoid",
+    "title_english": "ClassicaLoid"
+  },
+  {
     "id": 21256,
     "title_chinese": "Dimension W",
     "title_japanese": "ディメンション ダブリュー",
@@ -25945,6 +25984,17 @@
     "title_japanese": "12歳。",
     "title_romaji": "12-sai.",
     "title_english": "12-sai."
+  },
+  {
+    "id": 21260,
+    "title_chinese": "歌之王子殿下 真愛傳說之星",
+    "title_japanese": "うたの☆プリンスさまっ♪マジLOVE レジェンドスター",
+    "title_romaji": "Uta no☆Prince-sama♪ Maji Love Legend Star",
+    "title_english": "Uta no☆Prince-sama♪ Maji Love Legend Star",
+    "synonyms": [
+      "Uta no☆Prince-sama♪ Maji Love Fourth Season",
+      "UtaPri 4"
+    ]
   },
   {
     "id": 21261,
@@ -26386,6 +26436,16 @@
     ]
   },
   {
+    "id": 21340,
+    "title_chinese": "魔法少女育成計劃",
+    "title_japanese": "魔法少女育成計画",
+    "title_romaji": "Mahou Shoujo Ikusei Keikaku",
+    "title_english": "Mahou Shoujo Ikusei Keikaku",
+    "synonyms": [
+      "Magical Girl Raising Project"
+    ]
+  },
+  {
     "id": 21341,
     "title_chinese": "亞人",
     "title_japanese": "亜人",
@@ -26420,6 +26480,13 @@
       "排球少年 vs 不及格　",
       "排球少年 OAD"
     ]
+  },
+  {
+    "id": 21349,
+    "title_chinese": "ALL OUT!!",
+    "title_japanese": "オールアウト!!",
+    "title_romaji": "ALL OUT!!",
+    "title_english": "All Out!!"
   },
   {
     "id": 21354,
@@ -26494,6 +26561,16 @@
     ]
   },
   {
+    "id": 21363,
+    "title_chinese": "Monster Hunter Stories: RIDE ON",
+    "title_japanese": "モンスターハンター ストーリーズ RIDE ON",
+    "title_romaji": "Monster Hunter Stories: RIDE ON",
+    "title_english": "Monster Hunter Stories: RIDE ON",
+    "synonyms_chinese": [
+      "魔物獵人物語 RIDE ON"
+    ]
+  },
+  {
     "id": 21364,
     "title_chinese": "GATE 奇幻自衛隊 2",
     "title_japanese": "GATE(ゲート) 自衛隊 彼の地にて、斯く戦えり 2",
@@ -26509,6 +26586,17 @@
     "title_japanese": "だがしかし",
     "title_romaji": "DAGASHI KASHI",
     "title_english": "DAGASHI KASHI"
+  },
+  {
+    "id": 21366,
+    "title_chinese": "3月的獅子",
+    "title_japanese": "３月のライオン",
+    "title_romaji": "3-gatsu no Lion",
+    "title_english": "3-gatsu no Lion",
+    "synonyms": [
+      "March comes in like a lion",
+      "Sangatsu no Lion"
+    ]
   },
   {
     "id": 21369,
@@ -26990,6 +27078,16 @@
     "title_english": "My Hero Academia"
   },
   {
+    "id": 21460,
+    "title_chinese": "吹響！上低音號 2",
+    "title_japanese": "響け！ユーフォニアム 2",
+    "title_romaji": "Hibike! Euphonium 2",
+    "title_english": "Sound! Euphonium 2",
+    "synonyms_chinese": [
+      "吹響吧！悠風號 2"
+    ]
+  },
+  {
     "id": 21462,
     "title_chinese": "Sailor Moon Crystal 死亡毀滅者篇",
     "title_japanese": "美少女戦士セーラームーン Crystal「デス・バスターズ編」",
@@ -27063,6 +27161,16 @@
     "title_japanese": "えろまんが！ Hもマンガもステップアップ♪",
     "title_romaji": "Ero Manga! H mo Manga mo Step-up♪",
     "title_english": "Ero Manga! H mo Manga mo Step-up♪"
+  },
+  {
+    "id": 21476,
+    "title_chinese": "SHOW BY ROCK!!#",
+    "title_japanese": "SHOW BY ROCK!!#",
+    "title_romaji": "SHOW BY ROCK!!#",
+    "title_english": "SHOW BY ROCK!!#",
+    "synonyms": [
+      "Show by Rock!! 2"
+    ]
   },
   {
     "id": 21477,
@@ -27673,6 +27781,13 @@
     "title_english": "Digimon Adventure tri. 3: Kokuhaku"
   },
   {
+    "id": 21597,
+    "title_chinese": "斯特拉的魔法",
+    "title_japanese": "ステラのまほう",
+    "title_romaji": "Stella no Mahou",
+    "title_english": "Magic of Stella"
+  },
+  {
     "id": 21599,
     "title_chinese": "灰與幻想的格林姆迦爾 OVA",
     "title_japanese": "灰と幻想のグリムガル OVA2.5",
@@ -27713,6 +27828,13 @@
     "synonyms_chinese": [
       "12歲。~小小的心動~"
     ]
+  },
+  {
+    "id": 21610,
+    "title_chinese": "我老婆是學生會長!+!",
+    "title_japanese": "おくさまが生徒会長!+!",
+    "title_romaji": "Okusama ga Seitokaichou!+!",
+    "title_english": "My Wife is the Student Council President! 2"
   },
   {
     "id": 21611,
@@ -27788,6 +27910,20 @@
     "title_english": "Handa-kun"
   },
   {
+    "id": 21627,
+    "title_chinese": "少女編號",
+    "title_japanese": "ガーリッシュ ナンバー",
+    "title_romaji": "Girlish Number",
+    "title_english": "Girlish Number"
+  },
+  {
+    "id": 21631,
+    "title_chinese": "烏龍麵之國的金色毛毬",
+    "title_japanese": "うどんの国の金色毛鞠",
+    "title_romaji": "Udon no Kuni no Kiniro Kemari",
+    "title_english": "Udon no Kuni no Kiniro Kemari"
+  },
+  {
     "id": 21632,
     "title_chinese": "バカな妹を利口にするのは俺の××だけな件について",
     "title_japanese": "バカな妹を利口にするのは俺の××だけな件について",
@@ -27844,6 +27980,13 @@
     "synonyms_chinese": [
       "劇場版 吹響吧！上低音號～歡迎加入北宇治高中管樂團～"
     ]
+  },
+  {
+    "id": 21639,
+    "title_chinese": "競女!!!!!!!!",
+    "title_japanese": "競女!!!!!!!!",
+    "title_romaji": "Keijo!!!!!!!!",
+    "title_english": "Keijo!!!!!!!!"
   },
   {
     "id": 21640,
@@ -27931,6 +28074,13 @@
     ]
   },
   {
+    "id": 21655,
+    "title_chinese": "Nyanbo!",
+    "title_japanese": "にゃんぼー!",
+    "title_romaji": "Nyanbo!",
+    "title_english": "Nyanbo!"
+  },
+  {
     "id": 21656,
     "title_chinese": "こいなか -小田舎で初恋×中出しセクシャルライフ- THE ANIMATION",
     "title_japanese": "こいなか -小田舎で初恋×中出しセクシャルライフ- THE ANIMATION",
@@ -27959,6 +28109,13 @@
     ]
   },
   {
+    "id": 21666,
+    "title_chinese": "信長的忍者",
+    "title_japanese": "信長の忍び",
+    "title_romaji": "Nobunaga no Shinobi",
+    "title_english": "Nobunaga no Shinobi"
+  },
+  {
     "id": 21667,
     "title_chinese": "氷堂伊吹 ～完璧伊吹会長が拘束ドMな理由～",
     "title_japanese": "氷堂伊吹 ～完璧伊吹会長が拘束ドMな理由～",
@@ -27978,6 +28135,44 @@
     "title_japanese": "えなじぃキョーカ！！",
     "title_romaji": "Energy Kyouka!!",
     "title_english": "Energy Kyouka!!"
+  },
+  {
+    "id": 21674,
+    "title_chinese": "人狼密碼1951",
+    "title_japanese": "ルガーコード 1951",
+    "title_romaji": "Luger Code 1951",
+    "title_english": "Luger Code 1951"
+  },
+  {
+    "id": 21679,
+    "title_chinese": "文豪Stray Dogs 2",
+    "title_japanese": "文豪ストレイドッグス 2",
+    "title_romaji": "BUNGOU STRAY DOGS 2",
+    "title_english": "Bungo Stray Dogs 2",
+    "synonyms_chinese": [
+      "文豪野犬 2"
+    ]
+  },
+  {
+    "id": 21682,
+    "title_chinese": "Tiger Mask W",
+    "title_japanese": "タイガーマスクW",
+    "title_romaji": "Tiger Mask W",
+    "title_english": "Tiger Mask W",
+    "synonyms_chinese": [
+      "老虎假面W"
+    ]
+  },
+  {
+    "id": 21686,
+    "title_chinese": "我太受歡迎了該怎麼辦",
+    "title_japanese": "私がモテてどうすんだ",
+    "title_romaji": "Watashi ga Motete Dousunda",
+    "title_english": "Watashi ga Motete Dousunda",
+    "synonyms": [
+      "Kiss Him",
+      " Not Me"
+    ]
   },
   {
     "id": 21691,
@@ -28036,6 +28231,16 @@
     ]
   },
   {
+    "id": 21698,
+    "title_chinese": "排球少年!! 烏野高中 VS 白鳥澤學園高中",
+    "title_japanese": "ハイキュー!! 烏野高校 VS 白鳥沢学園高校",
+    "title_romaji": "Haikyuu!!: Karasuno Koukou VS Shiratorizawa Gakuen Koukou",
+    "title_english": "Haikyuu!!: Karasuno Koukou VS Shiratorizawa Gakuen Koukou",
+    "synonyms": [
+      "Haikyu!! Karasuno High vs Shiratorizawa Academy"
+    ]
+  },
+  {
     "id": 21702,
     "title_chinese": "BATTERY",
     "title_japanese": "バッテリー",
@@ -28045,6 +28250,16 @@
       "野球少年",
       "棒球伙伴",
       "投捕搭檔"
+    ]
+  },
+  {
+    "id": 21703,
+    "title_chinese": "啟航吧！編舟計畫",
+    "title_japanese": "舟を編む",
+    "title_romaji": "Fune wo Amu",
+    "title_english": "Fune wo Amu",
+    "synonyms": [
+      "The Great Passage"
     ]
   },
   {
@@ -28075,6 +28290,30 @@
     ]
   },
   {
+    "id": 21708,
+    "title_chinese": "Occultic;Nine",
+    "title_japanese": "Occultic;Nine -オカルティック・ナイン-",
+    "title_romaji": "Occultic;Nine",
+    "title_english": "Occultic;Nine"
+  },
+  {
+    "id": 21709,
+    "title_chinese": "Yuri!!! on ICE",
+    "title_japanese": "ユーリ!!! on ICE",
+    "title_romaji": "Yuri!!! on ICE",
+    "title_english": "Yuri!!! on ICE"
+  },
+  {
+    "id": 21710,
+    "title_chinese": "夏目友人帳 伍",
+    "title_japanese": "夏目友人帳 伍",
+    "title_romaji": "Natsume Yuujinchou Go",
+    "title_english": "Natsume's Book of Friends Go",
+    "synonyms_chinese": [
+      "妖怪連絡簿 伍"
+    ]
+  },
+  {
     "id": 21711,
     "title_chinese": "91Days",
     "title_japanese": "91Days",
@@ -28087,6 +28326,20 @@
     "title_japanese": "チア男子!!",
     "title_romaji": "Cheer Danshi!!",
     "title_english": "Cheer Boys!!"
+  },
+  {
+    "id": 21714,
+    "title_chinese": "FLIP FLAPPERS",
+    "title_japanese": "フリップフラッパーズ",
+    "title_romaji": "FLIP FLAPPERS",
+    "title_english": "FLIP FLAPPERS"
+  },
+  {
+    "id": 21715,
+    "title_chinese": "灼熱桌球娘",
+    "title_japanese": "灼熱の卓球娘",
+    "title_romaji": "Shakunetsu no Takkyuu Musume",
+    "title_english": "Shakunetsu no Takkyuu Musume"
   },
   {
     "id": 21716,
@@ -28144,6 +28397,20 @@
     "title_english": "Omoi no Kakera"
   },
   {
+    "id": 21740,
+    "title_chinese": "舞武器 舞亂伎 星之巨人",
+    "title_japanese": "ブブキ・ブランキ 星の巨人",
+    "title_romaji": "Bubuki Buranki: Hoshi no Kyojin",
+    "title_english": "BBK/BRNK: Hoshi no Kyojin"
+  },
+  {
+    "id": 21741,
+    "title_chinese": "刀劍亂舞-花丸-",
+    "title_japanese": "刀剣乱舞-花丸-",
+    "title_romaji": "Touken Ranbu: Hanamaru",
+    "title_english": "Touken Ranbu: Hanamaru"
+  },
+  {
     "id": 21743,
     "title_chinese": "Ragnastrike Angels",
     "title_japanese": "ラグナストライクエンジェルズ",
@@ -28164,6 +28431,13 @@
     ]
   },
   {
+    "id": 21749,
+    "title_chinese": "機動戰士鋼彈 鐵血的孤兒 2",
+    "title_japanese": "機動戦士ガンダム 鉄血のオルフェンズ 2",
+    "title_romaji": "Kidou Senshi Gundam: Tekketsu no Orphans 2",
+    "title_english": "Mobile Suit Gundam: Iron-Blooded Orphans 2"
+  },
+  {
     "id": 21751,
     "title_chinese": "B-PROJECT〜鼓動＊Ambitious〜",
     "title_japanese": "B-PROJECT～鼓動＊アンビシャス～",
@@ -28176,6 +28450,13 @@
     "title_japanese": "飼育×彼女",
     "title_romaji": "Shiiku x Kanojo",
     "title_english": "Shiiku x Kanojo"
+  },
+  {
+    "id": 21755,
+    "title_chinese": "時間飛船24",
+    "title_japanese": "タイムボカン24",
+    "title_romaji": "Time Bokan 24",
+    "title_english": "Time Bokan 24"
   },
   {
     "id": 21758,
@@ -28204,6 +28485,24 @@
     "title_japanese": "放課後Initiation",
     "title_romaji": "Houkago Initiation",
     "title_english": "Houkago Initiation"
+  },
+  {
+    "id": 21764,
+    "title_chinese": "WWW.WORKING!!",
+    "title_japanese": "WWW.WORKING!!",
+    "title_romaji": "WWW.WORKING!!",
+    "title_english": "WWW.WORKING!!",
+    "synonyms_chinese": [
+      "WWW.WORKING!!迷糊餐廳",
+      "WWW.WORKING!!無聊西餐廳"
+    ]
+  },
+  {
+    "id": 21772,
+    "title_chinese": "Lostorage incited WIXOSS",
+    "title_japanese": "ロストレージインサイテッドウィクロス",
+    "title_romaji": "Lostorage incited WIXOSS",
+    "title_english": "Lostorage incited WIXOSS"
   },
   {
     "id": 21780,
@@ -28259,6 +28558,23 @@
     ]
   },
   {
+    "id": 21797,
+    "title_chinese": "雨色可可 3",
+    "title_japanese": "雨色ココア 3",
+    "title_romaji": "Ameiro Cocoa 3",
+    "title_english": "Rainy Cocoa 3",
+    "synonyms_chinese": [
+      "雨色可可亞 3"
+    ]
+  },
+  {
+    "id": 21799,
+    "title_chinese": "亞人 2",
+    "title_japanese": "亜人 2",
+    "title_romaji": "AJIN 2",
+    "title_english": "AJIN: Demi-Human 2"
+  },
+  {
     "id": 21800,
     "title_chinese": "田中同學總是懶洋洋 小劇場",
     "title_japanese": "田中くんは今日もけだるげ",
@@ -28271,6 +28587,13 @@
       "田中君總是如此慵懶 小劇場",
       "田中君總是懶洋洋的 小劇場"
     ]
+  },
+  {
+    "id": 21802,
+    "title_chinese": "奇異太郎少年的妖怪繪日記",
+    "title_japanese": "奇異太郎少年の妖怪絵日記",
+    "title_romaji": "Kiitarou Shounen no Youkai Enikki",
+    "title_english": "Kiitarou Shounen no Youkai Enikki"
   },
   {
     "id": 21804,
@@ -28346,11 +28669,47 @@
     "title_english": "Danganronpa 3: The End of Hope’s Peak High School - Despair Arc"
   },
   {
+    "id": 21832,
+    "title_chinese": "TRICKSTER-來自江戶川亂步「少年探偵團」-",
+    "title_japanese": "TRICKSTER -江戸川乱歩「少年探偵団」より-",
+    "title_romaji": "TRICKSTER: Edogawa Rampo \"Shounen Tantei-dan\" yori",
+    "title_english": "TRICKSTER: Edogawa Rampo \"Shounen Tantei-dan\" yori"
+  },
+  {
     "id": 21835,
     "title_chinese": "魔法少女？Naria☆Girls",
     "title_japanese": "魔法少女? なりあ☆がーるず",
     "title_romaji": "Mahou Shoujo? Naria☆Girls",
     "title_english": "Mahou Shoujo? Naria☆Girls"
+  },
+  {
+    "id": 21837,
+    "title_chinese": "學園帥哥",
+    "title_japanese": "学園ハンサム",
+    "title_romaji": "Gakuen Handsome",
+    "title_english": "Gakuen Handsome"
+  },
+  {
+    "id": 21838,
+    "title_chinese": "終末的伊澤塔",
+    "title_japanese": "終末のイゼッタ",
+    "title_romaji": "Shuumatsu no Izetta",
+    "title_english": "Shuumatsu no Izetta",
+    "synonyms": [
+      "Izetta",
+      " Die Letze Hexe",
+      "Izetta of the End"
+    ]
+  },
+  {
+    "id": 21839,
+    "title_chinese": "12歲。〜小小的胸口心跳加速〜 2",
+    "title_japanese": "12歳。～ちっちゃなムネのトキメキ～ 2",
+    "title_romaji": "12-Sai. Chiccha na Mune no Tokimeki 2",
+    "title_english": "12-Sai. Chiccha na Mune no Tokimeki 2",
+    "synonyms_chinese": [
+      "12歲。~小小的心動~ 2"
+    ]
   },
   {
     "id": 21840,
@@ -28374,6 +28733,27 @@
     "title_english": "Kochira Katsushikaku Kameari Kouenmae Hashutsujo: The Final - Ryoutsu Kakichi Saigo no Hi"
   },
   {
+    "id": 21850,
+    "title_chinese": "超心動！文藝復興",
+    "title_japanese": "マジきゅんっ！ルネッサンス",
+    "title_romaji": "Magic-kyun! Renaissance",
+    "title_english": "Magic-kyun! Renaissance"
+  },
+  {
+    "id": 21854,
+    "title_chinese": "伯納德小姐說",
+    "title_japanese": "バーナード嬢曰く。",
+    "title_romaji": "Barnard-jou Iwaku.",
+    "title_english": "Barnard-jou Iwaku."
+  },
+  {
+    "id": 21859,
+    "title_chinese": "怪盜Joker 4",
+    "title_japanese": "怪盗ジョーカー 4",
+    "title_romaji": "Kaitou Joker 4",
+    "title_english": "Kaitou Joker 4"
+  },
+  {
     "id": 21868,
     "title_chinese": "円交少女 ~陸上部ゆっきーの場合~ THE ANIMATION",
     "title_japanese": "円交少女 ~陸上部ゆっきーの場合~ THE ANIMATION",
@@ -28386,6 +28766,37 @@
     "title_japanese": "misuzu -イケナイコト-",
     "title_romaji": "Misuzu: Ikenai Koto",
     "title_english": "Misuzu: Ikenai Koto"
+  },
+  {
+    "id": 21871,
+    "title_chinese": "ViVid Strike!",
+    "title_japanese": "ヴィヴァッド ストライク",
+    "title_romaji": "ViVid Strike!",
+    "title_english": "ViVid Strike!"
+  },
+  {
+    "id": 21872,
+    "title_chinese": "Idol Memories",
+    "title_japanese": "アイドルメモリーズ",
+    "title_romaji": "Idol Memories",
+    "title_english": "Idol Memories"
+  },
+  {
+    "id": 21873,
+    "title_chinese": "神裝少女小纏",
+    "title_japanese": "装神少女まとい",
+    "title_romaji": "Soushin Shoujo Matoi",
+    "title_english": "Soushin Shoujo Matoi",
+    "synonyms": [
+      "Matoi the Sacred Slayer"
+    ]
+  },
+  {
+    "id": 21876,
+    "title_chinese": "Nazotokine",
+    "title_japanese": "ナゾトキネ",
+    "title_romaji": "Nazotokine",
+    "title_english": "Nazotokine"
   },
   {
     "id": 21881,
@@ -28411,6 +28822,53 @@
     ]
   },
   {
+    "id": 21886,
+    "title_chinese": "Anitore!! XX",
+    "title_japanese": "あにトレ!!XX",
+    "title_romaji": "Anitore! XX",
+    "title_english": "Anime De Training! XX",
+    "synonyms_chinese": [
+      "動畫鍛煉!! XX"
+    ]
+  },
+  {
+    "id": 21892,
+    "title_chinese": "魔法少女什麼的已經夠了啦。 2",
+    "title_japanese": "魔法少女なんてもういいですから。 2",
+    "title_romaji": "Mahou Shoujo Nante Mouiidesukara. 2",
+    "title_english": "Mahou Shoujo Nante Mouiidesukara. 2"
+  },
+  {
+    "id": 21895,
+    "title_chinese": "戰國鳥獸戲畫",
+    "title_japanese": "戦国鳥獣戯画",
+    "title_romaji": "Sengoku Choujuu Giga",
+    "title_english": "Sengoku Choujuu Giga",
+    "synonyms": [
+      ""
+    ]
+  },
+  {
+    "id": 21896,
+    "title_chinese": "庭球社 8",
+    "title_japanese": "てーきゅう 8",
+    "title_romaji": "Teekyuu 8",
+    "title_english": "Teekyu 8",
+    "synonyms_chinese": [
+      "女高網球部 8",
+      "網球少女 8",
+      "網球並不可笑嘛 8",
+      "女子搞笑網球 8"
+    ]
+  },
+  {
+    "id": 21897,
+    "title_chinese": "青鬼～THE ANIMATION～",
+    "title_japanese": "あおおに ～じ・あにめぇしょん～",
+    "title_romaji": "Ao Oni: The Animation",
+    "title_english": "Ao Oni: The Animation"
+  },
+  {
     "id": 87437,
     "title_chinese": "300円のおつきあい",
     "title_japanese": "300円のおつきあい",
@@ -28425,6 +28883,55 @@
     "title_english": "Shoujo-tachi no Sadism The Animation"
   },
   {
+    "id": 87530,
+    "title_chinese": "Dream Festival",
+    "title_japanese": "ドリフェス！",
+    "title_romaji": "Dream Festival",
+    "title_english": "Dream Festival",
+    "synonyms": [
+      ""
+    ]
+  },
+  {
+    "id": 97591,
+    "title_chinese": "Bloodivores",
+    "title_japanese": "Bloodivores",
+    "title_romaji": "Bloodivores",
+    "title_english": "Bloodivores",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": [
+      "時空囚徒"
+    ]
+  },
+  {
+    "id": 97608,
+    "title_chinese": "鋼鐵交響樂",
+    "title_japanese": "はがねオーケストラ",
+    "title_romaji": "HAGANE ORCHESTRA",
+    "title_english": "HAGANE ORCHESTRA",
+    "synonyms": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "id": 97609,
+    "title_chinese": "CHEATING CRAFT",
+    "title_japanese": "チーティングクラフト",
+    "title_romaji": "CHEATING CRAFT",
+    "title_english": "CHEATING CRAFT",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": [
+      "一課一練"
+    ]
+  },
+  {
     "id": 97610,
     "title_chinese": "咲-Saki- 阿知賀篇 玄的生日",
     "title_japanese": "咲-Saki-阿知賀編 episode of side-A ショートオリジナルアニメ「玄の誕生日」",
@@ -28435,6 +28942,20 @@
     ],
     "synonyms_chinese": [
       "天才麻將少女 阿知賀篇 玄的生日"
+    ]
+  },
+  {
+    "id": 97634,
+    "title_chinese": "Pokemon Sun & Moon",
+    "title_japanese": "ポケットモンスター サン＆ムーン",
+    "title_romaji": "Pokemon Sun & Moon",
+    "title_english": "Pokemon Sun & Moon",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": [
+      "寵物小精靈：太陽＆月亮",
+      "神奇寶貝太陽＆月亮"
     ]
   }
 ]
