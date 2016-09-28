@@ -27364,7 +27364,7 @@
   {
     "id": 21513,
     "title_chinese": "庭球社 7",
-    "title_japanese": "てーきゅう 7",
+    "title_japanese": "てーきゅう7",
     "title_romaji": "Teekyuu 7",
     "title_english": "Teekyu 7",
     "synonyms_chinese": [
@@ -28045,7 +28045,10 @@
     "title_chinese": "orange",
     "title_japanese": "orange",
     "title_romaji": "orange",
-    "title_english": "orange",
+    "title_english": "Orange",
+    "synonyms": [
+      "オレンジ"
+    ],
     "synonyms_chinese": [
       "orange 橘色奇蹟",
       "Orange 橙"
@@ -28078,7 +28081,11 @@
     "title_chinese": "Nyanbo!",
     "title_japanese": "にゃんぼー!",
     "title_romaji": "Nyanbo!",
-    "title_english": "Nyanbo!"
+    "title_english": "Nyanbo!",
+    "synonyms_chinese": [
+      "喵阿楞",
+      "喵啵"
+    ]
   },
   {
     "id": 21656,
@@ -28473,6 +28480,13 @@
     "title_english": "STARMYU OVA"
   },
   {
+    "id": 21760,
+    "title_chinese": "怪獸娘～超人力霸王怪獸擬人化計劃～",
+    "title_japanese": "怪獣娘[かいじゅうがーるず] ~ウルトラ怪獣擬人化計画~",
+    "title_romaji": "Kaijuu Girls: Ultra Kaijuu Gijinka Keikaku",
+    "title_english": "Kaijuu Girls: Ultra Kaijuu Gijinka Keikaku"
+  },
+  {
     "id": 21762,
     "title_chinese": "魔将の贄3",
     "title_japanese": "魔将の贄3",
@@ -28743,8 +28757,11 @@
     "id": 21854,
     "title_chinese": "伯納德小姐說",
     "title_japanese": "バーナード嬢曰く。",
-    "title_romaji": "Barnard-jou Iwaku.",
-    "title_english": "Barnard-jou Iwaku."
+    "title_romaji": "Bernard-jou Iwaku.",
+    "title_english": "Bernard-jou Iwaku.",
+    "synonyms": [
+      "Miss Bernard said."
+    ]
   },
   {
     "id": 21859,
@@ -28851,7 +28868,7 @@
   {
     "id": 21896,
     "title_chinese": "庭球社 8",
-    "title_japanese": "てーきゅう 8",
+    "title_japanese": "てーきゅう8",
     "title_romaji": "Teekyuu 8",
     "title_english": "Teekyu 8",
     "synonyms_chinese": [
