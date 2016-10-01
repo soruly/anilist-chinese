@@ -9709,6 +9709,16 @@
     ]
   },
   {
+    "id": 4918,
+    "title_chinese": "×××HOLiC 春夢記",
+    "title_japanese": "×××HOLiC 春夢記",
+    "title_romaji": "xxxHOLiC Shunmuki",
+    "title_english": "×××HOLiC",
+    "synonyms": [
+      "xxxHOLiC OVA"
+    ]
+  },
+  {
     "id": 4938,
     "title_chinese": "Tsubasa 春雷記",
     "title_japanese": "ツバサ 春雷記",
@@ -26440,9 +26450,9 @@
     "title_chinese": "魔法少女育成計劃",
     "title_japanese": "魔法少女育成計画",
     "title_romaji": "Mahou Shoujo Ikusei Keikaku",
-    "title_english": "Mahou Shoujo Ikusei Keikaku",
+    "title_english": "Magical Girl Raising Project",
     "synonyms": [
-      "Magical Girl Raising Project"
+      ""
     ]
   },
   {
@@ -26592,7 +26602,7 @@
     "title_chinese": "3月的獅子",
     "title_japanese": "３月のライオン",
     "title_romaji": "3-gatsu no Lion",
-    "title_english": "3-gatsu no Lion",
+    "title_english": "March Come in Like a Lion",
     "synonyms": [
       "March comes in like a lion",
       "Sangatsu no Lion"
@@ -27348,7 +27358,7 @@
     "title_romaji": "DANGANRONPA 3: The End of Kibougamine Gakuen - Mirai-Hen",
     "title_english": "Danganronpa 3: The End of Hope’s Peak High School - Future Arc",
     "synonyms_chinese": [
-      "彈丸論破3"
+      "彈丸論破3 －The End of 希望峰學園－ 未來篇"
     ]
   },
   {
@@ -28680,7 +28690,10 @@
     "title_chinese": "槍彈辯駁3 －The End of 希望峰學園－ 絕望篇",
     "title_japanese": "ダンガンロンパ3 -The End of 希望ヶ峰学園-　絶望編",
     "title_romaji": "DANGANRONPA 3: The End of Kibougamine Gakuen - Zetsubou-hen",
-    "title_english": "Danganronpa 3: The End of Hope’s Peak High School - Despair Arc"
+    "title_english": "Danganronpa 3: The End of Hope’s Peak High School - Despair Arc",
+    "synonyms_chinese": [
+      "彈丸論破3 －The End of 希望峰學園－ 絕望篇"
+    ]
   },
   {
     "id": 21832,
@@ -28708,7 +28721,7 @@
     "title_chinese": "終末的伊澤塔",
     "title_japanese": "終末のイゼッタ",
     "title_romaji": "Shuumatsu no Izetta",
-    "title_english": "Shuumatsu no Izetta",
+    "title_english": "Izetta: The Last Witch",
     "synonyms": [
       "Izetta",
       " Die Letze Hexe",
@@ -28883,7 +28896,7 @@
     "title_chinese": "青鬼～THE ANIMATION～",
     "title_japanese": "あおおに ～じ・あにめぇしょん～",
     "title_romaji": "Ao Oni: The Animation",
-    "title_english": "Ao Oni: The Animation"
+    "title_english": "Aooni The Blue Monster"
   },
   {
     "id": 87437,
@@ -28903,8 +28916,8 @@
     "id": 87530,
     "title_chinese": "Dream Festival",
     "title_japanese": "ドリフェス！",
-    "title_romaji": "Dream Festival",
-    "title_english": "Dream Festival",
+    "title_romaji": "DREAM FESTIVAL!",
+    "title_english": "DREAM FESTIVAL!",
     "synonyms": [
       ""
     ]
@@ -28973,6 +28986,19 @@
     "synonyms_chinese": [
       "寵物小精靈：太陽＆月亮",
       "神奇寶貝太陽＆月亮"
+    ]
+  },
+  {
+    "id": 97672,
+    "title_chinese": "槍彈辯駁3 －The End of 希望峰學園－ 希望篇",
+    "title_japanese": "ダンガンロンパ３-The End of 希望ヶ峰学園-希望編",
+    "title_romaji": "DANGANRONPA 3: The End of Kibougamine Gakuen - Kibou-hen",
+    "title_english": "Danganronpa 3: The End of Hope's Peak High School - Hope Arc",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": [
+      "彈丸論破3 －The End of 希望峰學園－ 希望篇"
     ]
   }
 ]
