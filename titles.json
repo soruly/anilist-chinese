@@ -863,6 +863,13 @@
     ]
   },
   {
+    "id": 146,
+    "title_chinese": "這醜陋又美麗的世界",
+    "title_japanese": "この醜くも美しい世界",
+    "title_romaji": "Kono Minikuku mo Utsukushii Sekai",
+    "title_english": "This Ugly Yet Beautiful World"
+  },
+  {
     "id": 147,
     "title_chinese": "你所期望的永遠",
     "title_japanese": "君が望む永遠",
@@ -1478,6 +1485,38 @@
     "synonyms": [
       "Jungle wa Itsumo Hale Nochi Guu",
       "Hare+Guu"
+    ],
+    "synonyms_chinese": [
+      "哈雷小仔"
+    ]
+  },
+  {
+    "id": 254,
+    "title_chinese": "熱帶雨林的爆笑生活 Deluxe",
+    "title_japanese": "ジャングルはいつもハレのちグゥ　デラックス",
+    "title_romaji": "Jungle wa Itsumo Hare nochi Guu Deluxe",
+    "title_english": "Haré+Guu Deluxe",
+    "synonyms": [
+      "Jungle wa Itsumo Hale Nochi Guu Deluxe",
+      "Hare+Guu Deluxe"
+    ],
+    "synonyms_chinese": [
+      "哈雷小仔 Deluxe"
+    ]
+  },
+  {
+    "id": 255,
+    "title_chinese": "熱帶雨林的爆笑生活 Fin",
+    "title_japanese": "ジャングルはいつもハレのちグゥ　ＦＩＮＡＬ",
+    "title_romaji": "Jungle wa Itsumo Hare nochi Guu Final",
+    "title_english": "Jungle wa Itsumo Hare nochi Guu Final",
+    "synonyms": [
+      "Jungle wa Itsumo Hale Nochi Guu Final",
+      "Haré+Guu Final",
+      "Hare+Guu Final"
+    ],
+    "synonyms_chinese": [
+      "哈雷小仔 Final"
     ]
   },
   {
@@ -3704,6 +3743,9 @@
       "Gekijouban Horikku - Manatsu no Yoru no Yume",
       "X-zobanHOLIC: Manatsu no Yo no Yume",
       "xxxHolic - The Movie - A Midsummer's Night Dream"
+    ],
+    "synonyms_chinese": [
+      "四月一日靈異事件簿 仲夏夜之夢"
     ]
   },
   {
@@ -3918,7 +3960,6 @@
     "title_romaji": "xxxHOLiC",
     "title_english": "xxxHOLiC",
     "synonyms_chinese": [
-      "次元魔女",
       "四月一日靈異事件簿"
     ]
   },
@@ -7906,6 +7947,9 @@
       "xxxHOLiC TV2",
       "xxxHOLiC New Series",
       "xxxHOLiC second season"
+    ],
+    "synonyms_chinese": [
+      "四月一日靈異事件簿 繼"
     ]
   },
   {
@@ -9716,6 +9760,9 @@
     "title_english": "×××HOLiC",
     "synonyms": [
       "xxxHOLiC OVA"
+    ],
+    "synonyms_chinese": [
+      "四月一日靈異事件簿 春夢記"
     ]
   },
   {
@@ -11539,7 +11586,8 @@
       "xxxHOLiC Rou: Adayume"
     ],
     "synonyms_chinese": [
-      "xxxHOLiC・籠 徒夢"
+      "四月一日靈異事件簿 籠",
+      "四月一日靈異事件簿 籠 徒夢"
     ]
   },
   {
@@ -26213,6 +26261,16 @@
     ]
   },
   {
+    "id": 21296,
+    "title_chinese": "從好久以前就喜歡你。～告白實行委員會～",
+    "title_japanese": "ずっと前から好きでした。～告白実行委員会～",
+    "title_romaji": "Zutto Mae Kara Suki Deshita.: Kokuhaku Jikkou Iinkai",
+    "title_english": "Zutto Mae Kara Suki Deshita.: Kokuhaku Jikkou Iinkai",
+    "synonyms": [
+      "Kokuhaku Jikkou Iinkai: Renai Series"
+    ]
+  },
+  {
     "id": 21297,
     "title_chinese": "炸豬排 DJ 揚太郎",
     "title_japanese": "とんかつＤＪアゲ太郎",
@@ -28418,7 +28476,7 @@
     "title_chinese": "舞武器 舞亂伎 星之巨人",
     "title_japanese": "ブブキ・ブランキ 星の巨人",
     "title_romaji": "Bubuki Buranki: Hoshi no Kyojin",
-    "title_english": "BBK/BRNK: Hoshi no Kyojin"
+    "title_english": "BUBUKI/BURANKI The Gentle Giants of the Galaxy"
   },
   {
     "id": 21741,
@@ -28515,7 +28573,7 @@
     "title_chinese": "WWW.WORKING!!",
     "title_japanese": "WWW.WORKING!!",
     "title_romaji": "WWW.WORKING!!",
-    "title_english": "WWW.WORKING!!",
+    "title_english": "WWW.WAGNARIA!!",
     "synonyms_chinese": [
       "WWW.WORKING!!迷糊餐廳",
       "WWW.WORKING!!無聊西餐廳"
@@ -28664,6 +28722,16 @@
     "title_japanese": "JKビッチに搾られたい",
     "title_romaji": "JK Bitch ni Shiboraretai",
     "title_english": "JK Bitch ni Shiboraretai"
+  },
+  {
+    "id": 21820,
+    "title_chinese": "Digimon Universe: App Monsters",
+    "title_japanese": "デジモンユニバース アプリモンスターズ",
+    "title_romaji": "Digimon Universe: App Monsters",
+    "title_english": "Digimon Universe: App Monsters",
+    "synonyms_chinese": [
+      "數碼暴龍宇宙-應用怪獸"
+    ]
   },
   {
     "id": 21821,
@@ -28816,9 +28884,9 @@
     "title_chinese": "神裝少女小纏",
     "title_japanese": "装神少女まとい",
     "title_romaji": "Soushin Shoujo Matoi",
-    "title_english": "Soushin Shoujo Matoi",
+    "title_english": "Matoi the Sacred Slayer",
     "synonyms": [
-      "Matoi the Sacred Slayer"
+      ""
     ]
   },
   {
