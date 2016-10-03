@@ -25291,13 +25291,15 @@
   {
     "id": 21138,
     "title_chinese": "晨曦公主 背負之物",
-    "title_japanese": "暁のヨナ その背には",
-    "title_romaji": "Akatsuki no Yona: Sono Se ni wa",
-    "title_english": "Akatsuki no Yona: Sono Se ni wa",
+    "title_japanese": "暁のヨナ OVA",
+    "title_romaji": "Akatsuki no Yona OVA",
+    "title_english": "Akatsuki no Yona OVA",
     "synonyms": [
       "AkaYona OVA",
-      "Akatsuki no Yona OVA",
-      "Yona of the Dawn OVA"
+      "Akatsuki no Yona: Sono Se ni wa",
+      "Yona of the Dawn OVA",
+      "Akatsuki no Yona: Zeno-hen",
+      "暁のヨナ その背には"
     ],
     "synonyms_chinese": [
       "拂曉的尤娜 背負之物"
@@ -26265,7 +26267,7 @@
     "title_chinese": "從好久以前就喜歡你。～告白實行委員會～",
     "title_japanese": "ずっと前から好きでした。～告白実行委員会～",
     "title_romaji": "Zutto Mae Kara Suki Deshita.: Kokuhaku Jikkou Iinkai",
-    "title_english": "Zutto Mae Kara Suki Deshita.: Kokuhaku Jikkou Iinkai",
+    "title_english": "I've Always Liked You",
     "synonyms": [
       "Kokuhaku Jikkou Iinkai: Renai Series"
     ]
@@ -26660,9 +26662,9 @@
     "title_chinese": "3月的獅子",
     "title_japanese": "３月のライオン",
     "title_romaji": "3-gatsu no Lion",
-    "title_english": "March Come in Like a Lion",
+    "title_english": "March comes in like a lion",
     "synonyms": [
-      "March comes in like a lion",
+      "March Come in Like a Lion",
       "Sangatsu no Lion"
     ]
   },
@@ -28791,9 +28793,12 @@
     "title_romaji": "Shuumatsu no Izetta",
     "title_english": "Izetta: The Last Witch",
     "synonyms": [
-      "Izetta",
-      " Die Letze Hexe",
-      "Izetta of the End"
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
     ]
   },
   {
