@@ -26095,7 +26095,7 @@
     "title_chinese": "機動戰士鋼彈 鐵血的孤兒",
     "title_japanese": "機動戦士ガンダム 鉄血のオルフェンズ",
     "title_romaji": "Kidou Senshi Gundam: Tekketsu no Orphans",
-    "title_english": "Mobile Suit Gundam: Iron-Blooded Orphans"
+    "title_english": "Mobile Suit GUNDAM Iron Blooded Orphans"
   },
   {
     "id": 21269,
@@ -26635,7 +26635,7 @@
     "title_chinese": "Monster Hunter Stories: RIDE ON",
     "title_japanese": "モンスターハンター ストーリーズ RIDE ON",
     "title_romaji": "Monster Hunter Stories: RIDE ON",
-    "title_english": "Monster Hunter Stories: RIDE ON",
+    "title_english": "Monster Hunter Stories: Ride On",
     "synonyms_chinese": [
       "魔物獵人物語 RIDE ON"
     ]
@@ -27816,6 +27816,18 @@
     ]
   },
   {
+    "id": 21585,
+    "title_chinese": "噥噥日和 Repeat OAD",
+    "title_japanese": "のんのんびより OAD",
+    "title_romaji": "Non Non Biyori OAD",
+    "title_english": "Non Non Biyori OAD",
+    "synonyms_chinese": [
+      "濃濃日和 Repeat OAD",
+      "悠悠哉哉少女日和 Repeat OAD",
+      "悠哉日常大王 Repeat OAD"
+    ]
+  },
+  {
     "id": 21586,
     "title_chinese": "終結的熾天使 吸血鬼米迦爾物語",
     "title_japanese": "終わりのセラフ 吸血鬼シャハル",
@@ -27904,7 +27916,7 @@
     "title_chinese": "我老婆是學生會長!+!",
     "title_japanese": "おくさまが生徒会長!+!",
     "title_romaji": "Okusama ga Seitokaichou!+!",
-    "title_english": "My Wife is the Student Council President! 2"
+    "title_english": "My Wife is the Student Council President+!"
   },
   {
     "id": 21611,
@@ -28190,7 +28202,7 @@
     "title_chinese": "信長的忍者",
     "title_japanese": "信長の忍び",
     "title_romaji": "Nobunaga no Shinobi",
-    "title_english": "Nobunaga no Shinobi"
+    "title_english": "Ninja Girl & Samurai Master"
   },
   {
     "id": 21667,
@@ -28237,7 +28249,8 @@
     "title_romaji": "Tiger Mask W",
     "title_english": "Tiger Mask W",
     "synonyms_chinese": [
-      "老虎假面W"
+      "老虎假面W",
+      "虎面人W"
     ]
   },
   {
@@ -28250,6 +28263,13 @@
       "Kiss Him",
       " Not Me"
     ]
+  },
+  {
+    "id": 21688,
+    "title_chinese": "魔法使的新娘",
+    "title_japanese": "魔法使いの嫁 星待つひと",
+    "title_romaji": "Mahoutsukai no Yome: Hoshi Matsu Hito",
+    "title_english": "The Ancient Magus' Bride"
   },
   {
     "id": 21691,
@@ -28416,7 +28436,7 @@
     "title_chinese": "灼熱桌球娘",
     "title_japanese": "灼熱の卓球娘",
     "title_romaji": "Shakunetsu no Takkyuu Musume",
-    "title_english": "Shakunetsu no Takkyuu Musume"
+    "title_english": "Scorching Ping Pong Girls"
   },
   {
     "id": 21716,
@@ -28485,7 +28505,7 @@
     "title_chinese": "刀劍亂舞-花丸-",
     "title_japanese": "刀剣乱舞-花丸-",
     "title_romaji": "Touken Ranbu: Hanamaru",
-    "title_english": "Touken Ranbu: Hanamaru"
+    "title_english": "Touken Ranbu - Hanamaru"
   },
   {
     "id": 21743,
@@ -28512,7 +28532,7 @@
     "title_chinese": "機動戰士鋼彈 鐵血的孤兒 2",
     "title_japanese": "機動戦士ガンダム 鉄血のオルフェンズ 2",
     "title_romaji": "Kidou Senshi Gundam: Tekketsu no Orphans 2",
-    "title_english": "Mobile Suit Gundam: Iron-Blooded Orphans 2"
+    "title_english": "Mobile Suit GUNDAM Iron Blooded Orphans 2"
   },
   {
     "id": 21751,
@@ -28770,7 +28790,10 @@
     "title_chinese": "TRICKSTER-來自江戶川亂步「少年探偵團」-",
     "title_japanese": "TRICKSTER -江戸川乱歩「少年探偵団」より-",
     "title_romaji": "TRICKSTER: Edogawa Rampo \"Shounen Tantei-dan\" yori",
-    "title_english": "TRICKSTER: Edogawa Rampo \"Shounen Tantei-dan\" yori"
+    "title_english": "Trickster",
+    "synonyms_chinese": [
+      "江戶川亂步 少年偵探團"
+    ]
   },
   {
     "id": 21835,
@@ -28854,7 +28877,7 @@
     "title_chinese": "怪盜Joker 4",
     "title_japanese": "怪盗ジョーカー 4",
     "title_romaji": "Kaitou Joker 4",
-    "title_english": "Kaitou Joker 4"
+    "title_english": "JOKER 4"
   },
   {
     "id": 21868,
@@ -28998,6 +29021,16 @@
     "title_japanese": "ドリフェス！",
     "title_romaji": "DREAM FESTIVAL!",
     "title_english": "DREAM FESTIVAL!",
+    "synonyms": [
+      ""
+    ]
+  },
+  {
+    "id": 87538,
+    "title_chinese": "少年女僕 SP",
+    "title_japanese": "少年メイド",
+    "title_romaji": "Shounen Maid Special",
+    "title_english": "Shounen Maid Special",
     "synonyms": [
       ""
     ]
