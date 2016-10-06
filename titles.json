@@ -24069,6 +24069,16 @@
     ]
   },
   {
+    "id": 20904,
+    "title_chinese": "電波少女與錢仙大人 SP",
+    "title_japanese": "繰繰れ！コックリさん",
+    "title_romaji": "GUGURE! KOKKURI-SAN Specials",
+    "title_english": "GUGURE! KOKKURI-SAN Specials",
+    "synonyms_chinese": [
+      "銀仙 SP"
+    ]
+  },
+  {
     "id": 20906,
     "title_chinese": "魯邦三世 2015",
     "title_japanese": "ルパン三世 (2015)",
@@ -26664,8 +26674,8 @@
     "title_romaji": "3-gatsu no Lion",
     "title_english": "March comes in like a lion",
     "synonyms": [
-      "March Come in Like a Lion",
-      "Sangatsu no Lion"
+      "Sangatsu no Lion",
+      ""
     ]
   },
   {
@@ -28258,10 +28268,10 @@
     "title_chinese": "我太受歡迎了該怎麼辦",
     "title_japanese": "私がモテてどうすんだ",
     "title_romaji": "Watashi ga Motete Dousunda",
-    "title_english": "Watashi ga Motete Dousunda",
+    "title_english": "Kiss Him, Not Me",
     "synonyms": [
-      "Kiss Him",
-      " Not Me"
+      "",
+      ""
     ]
   },
   {
@@ -28697,7 +28707,7 @@
     "title_chinese": "奇異太郎少年的妖怪繪日記",
     "title_japanese": "奇異太郎少年の妖怪絵日記",
     "title_romaji": "Kiitarou Shounen no Youkai Enikki",
-    "title_english": "Kiitarou Shounen no Youkai Enikki"
+    "title_english": "Kiitaro's yokai picture diary"
   },
   {
     "id": 21804,
@@ -28916,12 +28926,15 @@
   },
   {
     "id": 21873,
-    "title_chinese": "神裝少女小纏",
+    "title_chinese": "裝神少女小纏",
     "title_japanese": "装神少女まとい",
     "title_romaji": "Soushin Shoujo Matoi",
     "title_english": "Matoi the Sacred Slayer",
     "synonyms": [
       ""
+    ],
+    "synonyms_chinese": [
+      "神裝少女小纏"
     ]
   },
   {
