@@ -21215,7 +21215,10 @@
     "title_chinese": "Brave Witches",
     "title_japanese": "ブレイブウィッチーズ",
     "title_romaji": "Brave Witches",
-    "title_english": "Brave Witches"
+    "title_english": "Brave Witches",
+    "synonyms_chinese": [
+      "無畏魔女"
+    ]
   },
   {
     "id": 20455,
@@ -26399,7 +26402,8 @@
     "title_romaji": "Anitore! EX",
     "title_english": "Anime De Training! Ex",
     "synonyms_chinese": [
-      "動畫鍛煉！EX "
+      "動畫鍛煉！EX ",
+      "動畫鍛鍊！EX "
     ]
   },
   {
@@ -28552,6 +28556,13 @@
     "title_english": "B-PROJECT: Kodou＊Ambitious"
   },
   {
+    "id": 21752,
+    "title_chinese": "銀河機攻隊 第25話",
+    "title_japanese": "銀河機攻隊 マジェスティックプリンス 第25話",
+    "title_romaji": "Ginga Kikoutai Majestic Prince Dai 25-wa",
+    "title_english": "Majestic Prince Dai 25-wa"
+  },
+  {
     "id": 21754,
     "title_chinese": "飼育×彼女",
     "title_japanese": "飼育×彼女",
@@ -28890,6 +28901,13 @@
     "title_english": "JOKER 4"
   },
   {
+    "id": 21866,
+    "title_chinese": "今からアタシ......",
+    "title_japanese": "今からアタシ......",
+    "title_romaji": "Ima kara Atashi...",
+    "title_english": "Ima kara Atashi..."
+  },
+  {
     "id": 21868,
     "title_chinese": "円交少女 ~陸上部ゆっきーの場合~ THE ANIMATION",
     "title_japanese": "円交少女 ~陸上部ゆっきーの場合~ THE ANIMATION",
@@ -28974,7 +28992,8 @@
     "title_romaji": "Anitore! XX",
     "title_english": "Anime De Training! XX",
     "synonyms_chinese": [
-      "動畫鍛煉!! XX"
+      "動畫鍛煉!! XX",
+      "動畫鍛鍊!! XX"
     ]
   },
   {
