@@ -25026,7 +25026,7 @@
     "title_chinese": "一拳超人",
     "title_japanese": "ワンパンマン",
     "title_romaji": "ONE PUNCH MAN",
-    "title_english": "ONE PUNCH MAN"
+    "title_english": "One Punch Man"
   },
   {
     "id": 21088,
@@ -28081,8 +28081,11 @@
     "id": 21639,
     "title_chinese": "競女!!!!!!!!",
     "title_japanese": "競女!!!!!!!!",
-    "title_romaji": "Keijo!!!!!!!!",
-    "title_english": "Keijo!!!!!!!!"
+    "title_romaji": "KEIJO!!!!!!!!",
+    "title_english": "Keijo!!!!!!!!",
+    "synonyms": [
+      "Hip Whip Girl"
+    ]
   },
   {
     "id": 21640,
@@ -28346,7 +28349,7 @@
     "title_chinese": "排球少年!! 烏野高中 VS 白鳥澤學園高中",
     "title_japanese": "ハイキュー!! 烏野高校 VS 白鳥沢学園高校",
     "title_romaji": "Haikyuu!!: Karasuno Koukou VS Shiratorizawa Gakuen Koukou",
-    "title_english": "Haikyuu!!: Karasuno Koukou VS Shiratorizawa Gakuen Koukou",
+    "title_english": "HAIKYU!! 3rd Season",
     "synonyms": [
       "Haikyu!! Karasuno High vs Shiratorizawa Academy"
     ]
@@ -28412,7 +28415,12 @@
     "title_chinese": "Yuri!!! on ICE",
     "title_japanese": "ユーリ!!! on ICE",
     "title_romaji": "Yuri!!! on ICE",
-    "title_english": "Yuri!!! on ICE"
+    "title_english": "Yuri!!! on ICE",
+    "synonyms_chinese": [
+      "冰上的尤里",
+      "冰上的勇利",
+      "冰上的百合"
+    ]
   },
   {
     "id": 21710,
@@ -28888,9 +28896,9 @@
     "title_chinese": "伯納德小姐說",
     "title_japanese": "バーナード嬢曰く。",
     "title_romaji": "Bernard-jou Iwaku.",
-    "title_english": "Bernard-jou Iwaku.",
+    "title_english": "Miss Bernard said.",
     "synonyms": [
-      "Miss Bernard said."
+      ""
     ]
   },
   {
