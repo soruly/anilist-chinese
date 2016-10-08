@@ -13195,6 +13195,19 @@
     ]
   },
   {
+    "id": 9117,
+    "title_chinese": "聖誕之吻SS OVA",
+    "title_japanese": "アマガミSS",
+    "title_romaji": "Amagami SS OVA",
+    "title_english": "Amagami SS OVA",
+    "synonyms": [
+      "Amagami SS Short Animations"
+    ],
+    "synonyms_chinese": [
+      "甜蜜吻痕 OVA"
+    ]
+  },
+  {
     "id": 9127,
     "title_chinese": "絕對可憐CHILDREN OVA",
     "title_japanese": "絶対可憐チルドレン 限定解禁!! OVA超先取りスペシャル!!",
@@ -14022,7 +14035,7 @@
   },
   {
     "id": 9925,
-    "title_chinese": "聖誕之吻SS",
+    "title_chinese": "聖誕之吻SS 橘美也編",
     "title_japanese": "アマガミSS イモウト",
     "title_romaji": "Amagami SS: Imouto",
     "title_english": "Amagami SS: Sister",
@@ -14033,7 +14046,7 @@
       "Amagami SS Episode 26"
     ],
     "synonyms_chinese": [
-      "甜蜜吻痕"
+      "甜蜜吻痕 橘美也編"
     ]
   },
   {
@@ -16831,6 +16844,21 @@
     "title_english": "Danball Senki W",
     "synonyms": [
       "Danbooru Senki W"
+    ]
+  },
+  {
+    "id": 12669,
+    "title_chinese": "聖誕之吻SS+ plus SP",
+    "title_japanese": "アマガミSS+ plus",
+    "title_romaji": "Amagami SS+ Plus Specials",
+    "title_english": "Amagami SS+ Plus Specials",
+    "synonyms": [
+      "Amagami SS Dai Ni Ki Specials",
+      "Amagami SS Second Season Specials",
+      "Amagami SS 2nd Season Specials"
+    ],
+    "synonyms_chinese": [
+      "甜蜜吻痕+ plus SP"
     ]
   },
   {
