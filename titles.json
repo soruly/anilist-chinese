@@ -28037,8 +28037,11 @@
     "id": 21627,
     "title_chinese": "少女編號",
     "title_japanese": "ガーリッシュ ナンバー",
-    "title_romaji": "Girlish Number",
-    "title_english": "Girlish Number"
+    "title_romaji": "gi(a)rlish number",
+    "title_english": "gi(a)rlish number",
+    "synonyms": [
+      "Girlish Number"
+    ]
   },
   {
     "id": 21631,
@@ -28380,6 +28383,9 @@
     "title_english": "HAIKYU!! 3rd Season",
     "synonyms": [
       "Haikyu!! Karasuno High vs Shiratorizawa Academy"
+    ],
+    "synonyms_chinese": [
+      "排球少年 3"
     ]
   },
   {
