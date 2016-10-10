@@ -28040,7 +28040,8 @@
     "title_romaji": "gi(a)rlish number",
     "title_english": "gi(a)rlish number",
     "synonyms": [
-      "Girlish Number"
+      "Girlish Number",
+      ""
     ]
   },
   {
@@ -28048,7 +28049,7 @@
     "title_chinese": "烏龍麵之國的金色毛毬",
     "title_japanese": "うどんの国の金色毛鞠",
     "title_romaji": "Udon no Kuni no Kiniro Kemari",
-    "title_english": "Udon no Kuni no Kiniro Kemari"
+    "title_english": "Poco's Udon World"
   },
   {
     "id": 21632,
@@ -28852,6 +28853,13 @@
     ]
   },
   {
+    "id": 21828,
+    "title_chinese": "小女ラムネ",
+    "title_japanese": "小女ラムネ",
+    "title_romaji": "Shoujo Ramune",
+    "title_english": "Shoujo Ramune"
+  },
+  {
     "id": 21832,
     "title_chinese": "TRICKSTER-來自江戶川亂步「少年探偵團」-",
     "title_japanese": "TRICKSTER -江戸川乱歩「少年探偵団」より-",
@@ -28985,7 +28993,11 @@
     "title_chinese": "Idol Memories",
     "title_japanese": "アイドルメモリーズ",
     "title_romaji": "Idol Memories",
-    "title_english": "Idol Memories"
+    "title_english": "Idol Memories",
+    "synonyms_chinese": [
+      "偶像筆記",
+      "星夢手記"
+    ]
   },
   {
     "id": 21873,
@@ -29136,6 +29148,9 @@
       "",
       "",
       ""
+    ],
+    "synonyms_chinese": [
+      "鋼之管絃樂"
     ]
   },
   {
