@@ -28934,7 +28934,10 @@
     "title_chinese": "超心動！文藝復興",
     "title_japanese": "マジきゅんっ！ルネッサンス",
     "title_romaji": "Magic-kyun! Renaissance",
-    "title_english": "Magic-kyun! Renaissance"
+    "title_english": "Magic-kyun! Renaissance",
+    "synonyms_chinese": [
+      "超心動！藝術之星"
+    ]
   },
   {
     "id": 21854,
@@ -29105,6 +29108,16 @@
     "title_english": "Shoujo-tachi no Sadism The Animation"
   },
   {
+    "id": 87489,
+    "title_chinese": "Overlord OVA",
+    "title_japanese": "オーバーロード　ぷれぷれぷれあです",
+    "title_romaji": "OVERLORD: Ple Ple Pleiades (OVA)",
+    "title_english": "OVERLORD: Ple Ple Pleiades (OVA)",
+    "synonyms": [
+      ""
+    ]
+  },
+  {
     "id": 87530,
     "title_chinese": "Dream Festival",
     "title_japanese": "ドリフェス！",
@@ -29177,6 +29190,16 @@
     ],
     "synonyms_chinese": [
       "天才麻將少女 阿知賀篇 玄的生日"
+    ]
+  },
+  {
+    "id": 97623,
+    "title_chinese": "せいかつ指導!! Anime Edition",
+    "title_japanese": "せいかつ指導!! Anime Edition",
+    "title_romaji": "Seikatsu Shidou!! Anime Edition",
+    "title_english": "Seikatsu Shidou!! Anime Edition",
+    "synonyms": [
+      ""
     ]
   },
   {
