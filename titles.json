@@ -21245,6 +21245,7 @@
     "title_romaji": "Brave Witches",
     "title_english": "Brave Witches",
     "synonyms_chinese": [
+      "勇敢魔女",
       "無畏魔女"
     ]
   },
@@ -28676,6 +28677,19 @@
     "title_english": "Lostorage incited WIXOSS"
   },
   {
+    "id": 21777,
+    "title_chinese": "無彩限的幻影世界 OVA",
+    "title_japanese": "無彩限のファントム・ワールド OVA",
+    "title_romaji": "Musaigen no Phantom World OVA",
+    "title_english": "Myriad Colors Phantom World OVA",
+    "synonyms_chinese": [
+      "無彩限的魅影世界 OVA",
+      "無彩限的怪靈世界 OVA",
+      "無彩限的虛幻世界 OVA",
+      "無色的幻影世界 OVA"
+    ]
+  },
+  {
     "id": 21780,
     "title_chinese": "Re：從零開始的休憩時間",
     "title_japanese": "Re:ゼロから始める休憩時間(ブレイクタイム)",
@@ -29190,6 +29204,16 @@
     ],
     "synonyms_chinese": [
       "天才麻將少女 阿知賀篇 玄的生日"
+    ]
+  },
+  {
+    "id": 97621,
+    "title_chinese": "コワレモノ璃沙 PLUS THE ANIMATION",
+    "title_japanese": "コワレモノ:璃沙 PLUS THE ANIMATION",
+    "title_romaji": "Kowaremono: Risa Plus The Animation",
+    "title_english": "Kowaremono: Risa Plus The Animation",
+    "synonyms": [
+      ""
     ]
   },
   {
