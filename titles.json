@@ -20461,6 +20461,11 @@
     "title_japanese": "勇者になれなかった俺はしぶしぶ就職を決意しました。",
     "title_romaji": "Yuusha ni Narenakatta Ore wa Shibushibu Shuushoku wo Ketsui Shimashita.",
     "title_english": "I Couldn’t Become a Hero, So I Reluctantly Decided to Get a Job.",
+    "synonyms": [
+      "Yu-sibu",
+      "Yusibu",
+      "Yuushibu"
+    ],
     "synonyms_chinese": [
       "沒能成為勇者的我無可奈何決定去工作"
     ]
@@ -23049,8 +23054,8 @@
   {
     "id": 20723,
     "title_chinese": "飆速宅男 GRANDE ROAD",
-    "title_japanese": "弱虫ペダルGrande Road",
-    "title_romaji": "Yowamushi Pedal: Grande Road",
+    "title_japanese": "弱虫ペダルGRANDE ROAD",
+    "title_romaji": "Yowamushi Pedal: GRANDE ROAD",
     "title_english": "Yowamushi Pedal: Grande Road",
     "synonyms": [
       "Yowapeda: Grande Road"
