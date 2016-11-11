@@ -29117,7 +29117,10 @@
     "title_chinese": "おいでよ! 私立ヤリまxり学園",
     "title_japanese": "おいでよ! 私立ヤリまxり学園",
     "title_romaji": "Oide yo! Shiritsu Yari Ma x Ri Gakuen",
-    "title_english": "Oide yo! Shiritsu Yari Ma x Ri Gakuen"
+    "title_english": "Oide yo! Shiritsu Yari Ma x Ri Gakuen",
+    "synonyms": [
+      "Oideyo! Shiritsu Yarimari Gakuen"
+    ]
   },
   {
     "id": 21892,
@@ -29331,6 +29334,26 @@
     "title_english": "Shelter",
     "synonyms": [
       "Shelter The Animation"
+    ]
+  },
+  {
+    "id": 97773,
+    "title_chinese": "飯塚先輩×ブレザー -姉キュン! より- THE ANIMATION",
+    "title_japanese": "飯塚先輩×ブレザー -姉キュン! より- THE ANIMATION",
+    "title_romaji": "Iizuka-senpai x Blazer: Ane Kyun! Yori The Animation",
+    "title_english": "Iizuka-senpai x Blazer: Ane Kyun! Yori The Animation",
+    "synonyms": [
+      ""
+    ]
+  },
+  {
+    "id": 97819,
+    "title_chinese": "Soul Worker",
+    "title_japanese": "ソウルワーカー",
+    "title_romaji": "Soul Worker: Your Destiny Awaits",
+    "title_english": "Soul Worker: Your Destiny Awaits",
+    "synonyms": [
+      ""
     ]
   }
 ]
