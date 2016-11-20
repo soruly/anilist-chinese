@@ -19539,6 +19539,13 @@
     ]
   },
   {
+    "id": 16932,
+    "title_chinese": "漂流武士 OVA",
+    "title_japanese": "ドリフターズ",
+    "title_romaji": "Drifters (OVA)",
+    "title_english": "Drifters (OVA)"
+  },
+  {
     "id": 16982,
     "title_chinese": "旋風管家 Cuties",
     "title_japanese": "ハヤテのごとく！ Cuties",
@@ -21503,6 +21510,18 @@
     "title_japanese": "世界征服～謀略のズヴィズダー～",
     "title_romaji": "Sekai Seifuku: Bouryaku no Zvezda",
     "title_english": "World Conquest Zvezda Plot"
+  },
+  {
+    "id": 20497,
+    "title_chinese": "噥噥日和 OAD",
+    "title_japanese": "のんのんびより　沖縄へ行くことになった",
+    "title_romaji": "Non Non Biyori: Okinawa e Ikukoto ni Natta",
+    "title_english": "Non Non Biyori: Okinawa e Ikukoto ni Natta",
+    "synonyms_chinese": [
+      "濃濃日和 OAD",
+      "悠悠哉哉少女日和 OAD",
+      "悠哉日常大王 OAD"
+    ]
   },
   {
     "id": 20498,
@@ -28046,7 +28065,11 @@
     "title_chinese": "巨乳トライ！ -短期集中乳揉みレッスン-",
     "title_japanese": "巨乳トライ！ -短期集中乳揉みレッスン-",
     "title_romaji": "Kyonyuu Try! -Tanki Shuuchuu Chichi Momi Lesson-",
-    "title_english": "Kyonyuu Try! -Tanki Shuuchuu Chichi Momi Lesson-"
+    "title_english": "Kyonyuu Try! -Tanki Shuuchuu Chichi Momi Lesson-",
+    "synonyms": [
+      "Busty Trial!",
+      "Busty Try"
+    ]
   },
   {
     "id": 21626,
@@ -29188,6 +29211,16 @@
     "title_japanese": "少女達の茶道ism THE ANIMATION",
     "title_romaji": "Shoujo-tachi no Sadism The Animation",
     "title_english": "Shoujo-tachi no Sadism The Animation"
+  },
+  {
+    "id": 87487,
+    "title_chinese": "機動警察 Patlabor REBOOT",
+    "title_japanese": "機動警察パトレイバーREBOOT",
+    "title_romaji": "MOBILE POLICE PATLABOR REBOOT",
+    "title_english": "MOBILE POLICE PATLABOR REBOOT",
+    "synonyms": [
+      ""
+    ]
   },
   {
     "id": 87489,
