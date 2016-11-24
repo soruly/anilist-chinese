@@ -26383,6 +26383,13 @@
     "title_english": "WAGAMAMA HIGH SPEC"
   },
   {
+    "id": 21305,
+    "title_chinese": "Overlord Purepure Purea Desu",
+    "title_japanese": "オーバーロード ぷれぷれぷれあです",
+    "title_romaji": "OVERLORD: Purepure Purea Desu",
+    "title_english": "Overlord: Purepure Purea Desu"
+  },
+  {
     "id": 21306,
     "title_chinese": "無彩限的幻影世界",
     "title_japanese": "無彩限のファントム・ワールド",
@@ -26875,6 +26882,16 @@
     "title_japanese": "クイーンズブレイド グリムワール",
     "title_romaji": "Queen's Blade: Grimoire",
     "title_english": "Queen's Blade: Grimoire"
+  },
+  {
+    "id": 21389,
+    "title_chinese": "魔物娘的相伴日常",
+    "title_japanese": "モンスター娘のいる日常 ほぼ毎日○○！生っぽい動画",
+    "title_romaji": "Monster Musume no Iru Nichijou: Hobo Mainichi OO! Namappoi Douga",
+    "title_english": "MONSTER MUSUME EVERYDAY LIFE WITH MONSTER GIRLS: Hobo Mainichi OO! Namappoi Douga",
+    "synonyms_chinese": [
+      "魔物娘的同居日常"
+    ]
   },
   {
     "id": 21390,
@@ -28253,6 +28270,16 @@
     ]
   },
   {
+    "id": 21650,
+    "title_chinese": "魔物娘的相伴日常 OVA",
+    "title_japanese": "モンスター娘のいる日常 OVA",
+    "title_romaji": "Monster Musume no Iru Nichijou OVA",
+    "title_english": "Monster Musume no Iru Nichijou OVA",
+    "synonyms_chinese": [
+      "魔物娘的同居日常 OVA"
+    ]
+  },
+  {
     "id": 21655,
     "title_chinese": "Nyanbo!",
     "title_japanese": "にゃんぼー!",
@@ -28735,6 +28762,16 @@
     "title_japanese": "ロストレージインサイテッドウィクロス",
     "title_romaji": "Lostorage incited WIXOSS",
     "title_english": "Lostorage incited WIXOSS"
+  },
+  {
+    "id": 21775,
+    "title_chinese": "虹色Days OVA",
+    "title_japanese": "虹色デイズ OAD",
+    "title_romaji": "Nijiiro Days OAD",
+    "title_english": "Rainbow Days OAD",
+    "synonyms_chinese": [
+      "虹色時光 OVA"
+    ]
   },
   {
     "id": 21777,
@@ -29273,7 +29310,7 @@
     "title_chinese": "鋼鐵交響樂",
     "title_japanese": "はがねオーケストラ",
     "title_romaji": "HAGANE ORCHESTRA",
-    "title_english": "HAGANE ORCHESTRA",
+    "title_english": "Hagane Orchestra",
     "synonyms": [
       "",
       "",
