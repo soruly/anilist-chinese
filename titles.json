@@ -26884,16 +26884,6 @@
     "title_english": "Queen's Blade: Grimoire"
   },
   {
-    "id": 21389,
-    "title_chinese": "魔物娘的相伴日常",
-    "title_japanese": "モンスター娘のいる日常 ほぼ毎日○○！生っぽい動画",
-    "title_romaji": "Monster Musume no Iru Nichijou: Hobo Mainichi OO! Namappoi Douga",
-    "title_english": "MONSTER MUSUME EVERYDAY LIFE WITH MONSTER GIRLS: Hobo Mainichi OO! Namappoi Douga",
-    "synonyms_chinese": [
-      "魔物娘的同居日常"
-    ]
-  },
-  {
     "id": 21390,
     "title_chinese": "學戰都市Asterisk 2",
     "title_japanese": "学戦都市アスタリスク 2",
@@ -28570,8 +28560,11 @@
     "id": 21715,
     "title_chinese": "灼熱桌球娘",
     "title_japanese": "灼熱の卓球娘",
-    "title_romaji": "Shakunetsu no Takkyuu Musume",
-    "title_english": "Scorching Ping Pong Girls"
+    "title_romaji": "Syakunetsu no Takkyuu Musume",
+    "title_english": "Scorching Ping Pong Girls",
+    "synonyms": [
+      "Shakunetsu no Takkyuu Musume"
+    ]
   },
   {
     "id": 21716,
@@ -28921,6 +28914,16 @@
       "高達創戰者TRY 鳥上熱戰",
       "鋼彈創鬥者TRY OVA",
       "敢達創戰者TRY OVA"
+    ]
+  },
+  {
+    "id": 21815,
+    "title_chinese": "Strike the Blood II",
+    "title_japanese": "ストライク・ザ・ブラッド II",
+    "title_romaji": "STRIKE THE BLOOD II",
+    "title_english": "STRIKE THE BLOOD II",
+    "synonyms_chinese": [
+      "噬血狂襲 II"
     ]
   },
   {
