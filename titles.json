@@ -27935,6 +27935,13 @@
     ]
   },
   {
+    "id": 21588,
+    "title_chinese": "銀魂 愛染香篇",
+    "title_japanese": "銀魂 愛染香篇",
+    "title_romaji": "Gintamaº: Aizome Kaori-hen",
+    "title_english": "Gintamaº: Aizome Kaori-hen"
+  },
+  {
     "id": 21594,
     "title_chinese": "少女から娼女へ...",
     "title_japanese": "少女から娼女へ...",
@@ -28313,6 +28320,16 @@
     "title_english": "sweetness & lightning",
     "synonyms_chinese": [
       "甜蜜稻妻"
+    ]
+  },
+  {
+    "id": 21660,
+    "title_chinese": "在地下城尋求邂逅是否搞錯了什麼 FAMILIA MYTH",
+    "title_japanese": "ダンジョンに出会いを求めるのは間違っているだろうか FAMILIA MYTH",
+    "title_romaji": "Dungeon ni Deai o Motomeru no wa Machigatteiru Darou ka: FAMILIA MYTH",
+    "title_english": "Is It Wrong to Try to Pick Up Girls in a Dungeon? FAMILIA MYTH",
+    "synonyms": [
+      "DanMachi: FAMILIA MYTH"
     ]
   },
   {
@@ -29280,6 +29297,19 @@
     "title_japanese": "八尺八話快樂巡り 異形怪奇譚 The Animation",
     "title_romaji": "Hachishaku Hachiwa Keraku Meguri: Igyou Kaikitan The Animation",
     "title_english": "Hachishaku Hachiwa Keraku Meguri: Igyou Kaikitan The Animation"
+  },
+  {
+    "id": 87480,
+    "title_chinese": "Bikini Warriors OVA",
+    "title_japanese": "ビキニ・ウォリアーズ",
+    "title_romaji": "BIKINI WARRIORS OVA",
+    "title_english": "BIKINI WARRIORS OVA",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": [
+      "比基尼勇士 OVA"
+    ]
   },
   {
     "id": 87484,
