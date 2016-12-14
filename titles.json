@@ -28866,9 +28866,12 @@
   {
     "id": 21797,
     "title_chinese": "雨色可可 3",
-    "title_japanese": "雨色ココア 3",
-    "title_romaji": "Ameiro Cocoa 3",
-    "title_english": "Rainy Cocoa 3",
+    "title_japanese": "雨色ココア in Hawaii",
+    "title_romaji": "Ameiro Cocoa in Hawaii",
+    "title_english": "Ameiro Cocoa in Hawaii",
+    "synonyms": [
+      "Rainy Cocoa 3"
+    ],
     "synonyms_chinese": [
       "雨色可可亞 3"
     ]
