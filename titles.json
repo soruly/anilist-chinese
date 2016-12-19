@@ -22605,7 +22605,7 @@
     "id": 20657,
     "title_chinese": "不起眼女主角培育法",
     "title_japanese": "冴えない彼女の育てかた",
-    "title_romaji": "Saenai heroine no sodate-kata",
+    "title_romaji": "Saenai Heroine no Sodatekata",
     "title_english": "Saekano: How to Raise a Boring Girlfriend",
     "synonyms_chinese": [
       "不起眼女主育成法",
@@ -25872,8 +25872,8 @@
     "id": 21220,
     "title_chinese": "火影忍者劇場版：慕留人",
     "title_japanese": "BORUTO-NARUTO THE MOVIE-",
-    "title_romaji": "Boruto: Naruto the Movie",
-    "title_english": "Boruto: Naruto the Movie",
+    "title_romaji": "BORUTO: NARUTO THE MOVIE",
+    "title_english": "BORUTO: NARUTO THE MOVIE",
     "synonyms_chinese": [
       "火影忍者劇場版：博人傳"
     ]
@@ -26567,7 +26567,10 @@
     "title_chinese": "ちっちゃなおなか",
     "title_japanese": "ちっちゃなおなか",
     "title_romaji": "Chiccha na Onaka",
-    "title_english": "Chiccha na Onaka"
+    "title_english": "Chiccha na Onaka",
+    "synonyms": [
+      "Chicchana Onaka"
+    ]
   },
   {
     "id": 21334,
@@ -27930,6 +27933,12 @@
     "title_japanese": "終わりのセラフ 吸血鬼シャハル",
     "title_romaji": "Owari no Seraph: Kyuuketsuki Shahal",
     "title_english": "Seraph of the End: Kyuuketsuki Shahal",
+    "synonyms": [
+      "Owari no Seraph: Jump Festa 2015 Special",
+      "Owari no Seraph: Vampire Shahar",
+      "Owari no Seraph OVA",
+      "終わりのセラフ ジャンプフェスタ2015"
+    ],
     "synonyms_chinese": [
       "終結的撒拉弗 吸血鬼米迦爾物語"
     ]
@@ -28578,7 +28587,10 @@
     "title_chinese": "FLIP FLAPPERS",
     "title_japanese": "フリップフラッパーズ",
     "title_romaji": "FLIP FLAPPERS",
-    "title_english": "FLIP FLAPPERS"
+    "title_english": "FLIP FLAPPERS",
+    "synonyms_chinese": [
+      "輕拍翻轉小魔女"
+    ]
   },
   {
     "id": 21715,
@@ -29342,7 +29354,7 @@
     "title_romaji": "OVERLORD: Ple Ple Pleiades (OVA)",
     "title_english": "OVERLORD: Ple Ple Pleiades (OVA)",
     "synonyms": [
-      ""
+      "OVERLORD: Pure Pure Pleiades"
     ]
   },
   {
