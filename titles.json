@@ -27066,6 +27066,13 @@
     ]
   },
   {
+    "id": 21426,
+    "title_chinese": "牙狼 Divine Flame",
+    "title_japanese": "牙狼〈GARO〉-DIVINE FLAME-",
+    "title_romaji": "Garo: Divine Flame",
+    "title_english": "Garo: Divine Flame"
+  },
+  {
     "id": 21427,
     "title_chinese": "怪盜Joker 3",
     "title_japanese": "怪盗ジョーカー 3",
@@ -28199,7 +28206,10 @@
     "title_chinese": "血界戰線 OAD",
     "title_japanese": "血界戦線 王様のレストランの王様",
     "title_romaji": "Kekkai Sensen: Ousama no Restaurant no Ousama",
-    "title_english": "Blood Blockade Battlefront: Ousama no Restaurant no Ousama"
+    "title_english": "Blood Blockade Battlefront: Ousama no Restaurant no Ousama",
+    "synonyms": [
+      "King of Kings Restaurant Fit for a King"
+    ]
   },
   {
     "id": 21641,
@@ -28563,7 +28573,10 @@
     "title_chinese": "夏目友人帳 伍",
     "title_japanese": "夏目友人帳 伍",
     "title_romaji": "Natsume Yuujinchou Go",
-    "title_english": "Natsume's Book of Friends Go",
+    "title_english": "Natsume Yujin-cho 5",
+    "synonyms": [
+      "Natsume's Book of Friends Go"
+    ],
     "synonyms_chinese": [
       "妖怪連絡簿 伍"
     ]
@@ -29543,11 +29556,31 @@
     ]
   },
   {
+    "id": 97774,
+    "title_chinese": "働くオトナの恋愛事情 THE ANIMATION",
+    "title_japanese": "働くオトナの恋愛事情 THE ANIMATION",
+    "title_romaji": "Hataraku Otona no Ren'ai Jijou The Animation",
+    "title_english": "Hataraku Otona no Ren'ai Jijou The Animation",
+    "synonyms": [
+      ""
+    ]
+  },
+  {
     "id": 97775,
     "title_chinese": "君の魔名はリナ・ウィッチ",
     "title_japanese": "君の魔名はリナ・ウィッチ",
     "title_romaji": "Kimi no Mana wa Rina Witch",
     "title_english": "Your Magical Name is Rina Witch",
+    "synonyms": [
+      ""
+    ]
+  },
+  {
+    "id": 97809,
+    "title_chinese": "催眠クラス",
+    "title_japanese": "催眠クラス",
+    "title_romaji": "Saimin Class",
+    "title_english": "Saimin Class",
     "synonyms": [
       ""
     ]
@@ -29568,6 +29601,26 @@
     "title_japanese": "ソウルワーカー",
     "title_romaji": "Soul Worker: Your Destiny Awaits",
     "title_english": "Soul Worker: Your Destiny Awaits",
+    "synonyms": [
+      ""
+    ]
+  },
+  {
+    "id": 97854,
+    "title_chinese": "対魔忍アサギ3",
+    "title_japanese": "対魔忍アサギ3",
+    "title_romaji": "Taimanin Asagi 3",
+    "title_english": "Taimanin Asagi 3",
+    "synonyms": [
+      ""
+    ]
+  },
+  {
+    "id": 97892,
+    "title_chinese": "ヤれる子！電車エッチ",
+    "title_japanese": "ヤれる子！電車エッチ",
+    "title_romaji": "Yareruko! Densha Ecchi",
+    "title_english": "Bangable Girl",
     "synonyms": [
       ""
     ]
