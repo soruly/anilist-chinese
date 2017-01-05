@@ -16008,6 +16008,11 @@
     "synonyms": [
       "Ao no Exorcist Gekijouban",
       "Ao no Futsumashi Movie"
+    ],
+    "synonyms_chinese": [
+      "青之祓魔師 劇場版",
+      "藍色驅魔師 劇場版",
+      "藍色的除魔師 劇場版"
     ]
   },
   {
@@ -23508,6 +23513,13 @@
     ]
   },
   {
+    "id": 20787,
+    "title_chinese": "Chain Chronicle OVA",
+    "title_japanese": "チェインクロニクル",
+    "title_romaji": "Chain Chronicle",
+    "title_english": "Chain Chronicle"
+  },
+  {
     "id": 20789,
     "title_chinese": "七大罪",
     "title_japanese": "七つの大罪",
@@ -24571,6 +24583,13 @@
     ]
   },
   {
+    "id": 20986,
+    "title_chinese": "鎖鍊戰記 赫克瑟塔斯之光",
+    "title_japanese": "チェインクロニクル ～ヘクセイタスの閃(ひかり)～",
+    "title_romaji": "CHAIN CHRONICLE: Haecceitas no Hikari",
+    "title_english": "CHAIN CHRONICLE: Haecceitas no Hikari"
+  },
+  {
     "id": 20987,
     "title_chinese": "乾物妹小埋",
     "title_japanese": "干物妹！うまるちゃん",
@@ -25308,6 +25327,13 @@
     "title_japanese": "ドリフターズ",
     "title_romaji": "Drifters",
     "title_english": "Drifters"
+  },
+  {
+    "id": 21126,
+    "title_chinese": "Chaos;Child",
+    "title_japanese": "カオスチャイルド",
+    "title_romaji": "Chaos;Child",
+    "title_english": "Chaos;Child"
   },
   {
     "id": 21127,
@@ -26373,6 +26399,13 @@
     "title_english": "Tonkatsu DJ Agetarou"
   },
   {
+    "id": 21298,
+    "title_chinese": "南鎌倉高校女子自行車部",
+    "title_japanese": "南鎌倉高校女子自転車部",
+    "title_romaji": "Minami Kamakura Koukou Joshi Jitensha-Bu",
+    "title_english": "Minami Kamakura High School Girls Cycling Club"
+  },
+  {
     "id": 21300,
     "title_chinese": "火星異種 Revenge",
     "title_japanese": "テラフォーマーズリベンジ",
@@ -26488,6 +26521,9 @@
     "title_japanese": "あにトレ！EX",
     "title_romaji": "Anitore! EX",
     "title_english": "Anime De Training! Ex",
+    "synonyms": [
+      "Ani Tore! EX"
+    ],
     "synonyms_chinese": [
       "動畫鍛煉！EX ",
       "動畫鍛鍊！EX "
@@ -26722,6 +26758,16 @@
     "title_english": "Ace Attorney",
     "synonyms": [
       "Phoenix Wright: Ace Attorney"
+    ]
+  },
+  {
+    "id": 21361,
+    "title_chinese": "GRANBLUE FANTASY",
+    "title_japanese": "GRANBLUE FANTASY The Animation",
+    "title_romaji": "GRANBLUE FANTASY The Animation",
+    "title_english": "GRANBLUE FANTASY The Animation",
+    "synonyms_chinese": [
+      "碧藍幻想"
     ]
   },
   {
@@ -26981,6 +27027,20 @@
     "title_english": "Amanchu!",
     "synonyms_chinese": [
       "海之少女！"
+    ]
+  },
+  {
+    "id": 21407,
+    "title_chinese": "飆速宅男 NEW GENERATION",
+    "title_japanese": "弱虫ペダル NEW GENERATION",
+    "title_romaji": "Yowamushi Pedal: NEW GENERATION",
+    "title_english": "Yowamushi Pedal: NEW GENERATION",
+    "synonyms": [
+      "Yowapeda 3"
+    ],
+    "synonyms_chinese": [
+      "弱蟲腳踏板 NEW GENERATION",
+      "飈速宅男 NEW GENERATION"
     ]
   },
   {
@@ -28066,6 +28126,16 @@
     "title_english": "Onigiri"
   },
   {
+    "id": 21613,
+    "title_chinese": "幼女戰記",
+    "title_japanese": "幼女戦記",
+    "title_romaji": "Youjo Senki",
+    "title_english": "Saga of Tanya the Evil",
+    "synonyms": [
+      ""
+    ]
+  },
+  {
     "id": 21614,
     "title_chinese": "ドロップアウト",
     "title_japanese": "ドロップアウト",
@@ -28267,6 +28337,13 @@
     ]
   },
   {
+    "id": 21645,
+    "title_chinese": "MARGINAL#4",
+    "title_japanese": "MARGINAL#4 KISSから創造るBig Bang",
+    "title_romaji": "Marginal#4 KISS Kara Tsukuru Big Bang",
+    "title_english": "Marginal#4 KISS Kara Tsukuru Big Bang"
+  },
+  {
     "id": 21647,
     "title_chinese": "orange",
     "title_japanese": "orange",
@@ -28397,6 +28474,26 @@
     "title_english": "Luger Code 1951"
   },
   {
+    "id": 21677,
+    "title_chinese": "ēlDLIVE",
+    "title_japanese": "エルドライブ 【ēlDLIVE】",
+    "title_romaji": "ēlDLIVE",
+    "title_english": "ēlDLIVE",
+    "synonyms": [
+      "elDLIVE"
+    ],
+    "synonyms_chinese": [
+      "宇宙警探ēlDLIVE"
+    ]
+  },
+  {
+    "id": 21678,
+    "title_chinese": "暗殺教室 2 課外授業編",
+    "title_japanese": "暗殺教室 2 課外授業編",
+    "title_romaji": "Ansatsu Kyoushitsu (TV) 2: Kagai Jugyou-hen",
+    "title_english": "Assassination Classroom 2: Kagai Jugyou-hen"
+  },
+  {
     "id": 21679,
     "title_chinese": "文豪Stray Dogs 2",
     "title_japanese": "文豪ストレイドッグス 2",
@@ -28481,6 +28578,13 @@
     ]
   },
   {
+    "id": 21696,
+    "title_chinese": "Urara迷路帖",
+    "title_japanese": "うらら迷路帖",
+    "title_romaji": "Urara Meirochou",
+    "title_english": "Urara Meirochou"
+  },
+  {
     "id": 21697,
     "title_chinese": "劇場版 星夢學園",
     "title_japanese": "劇場版 アイカツスターズ！",
@@ -28503,6 +28607,23 @@
     "synonyms_chinese": [
       "排球少年 3"
     ]
+  },
+  {
+    "id": 21699,
+    "title_chinese": "為美好的世界獻上祝福！2",
+    "title_japanese": "この素晴らしい世界に祝福を！2",
+    "title_romaji": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+    "title_english": "KONOSUBA -God's blessing on this wonderful world! 2",
+    "synonyms": [
+      "Konosuba 2"
+    ]
+  },
+  {
+    "id": 21701,
+    "title_chinese": "人渣的本願",
+    "title_japanese": "クズの本懐",
+    "title_romaji": "Kuzu no Honkai",
+    "title_english": "Kuzu no Honkai"
   },
   {
     "id": 21702,
@@ -28664,6 +28785,13 @@
     "title_english": "KINGSGLAIVE FINAL FANTASY XV"
   },
   {
+    "id": 21731,
+    "title_chinese": "Hand Shakers",
+    "title_japanese": "ハンドシェイカー",
+    "title_romaji": "Hand Shakers",
+    "title_english": "Hand Shakers"
+  },
+  {
     "id": 21732,
     "title_chinese": "planetarian ～星之夢～",
     "title_japanese": "planetarian～ちいさなほしのゆめ～",
@@ -28672,6 +28800,13 @@
     "synonyms": [
       "planetarian: The Reverie of a Little Planet"
     ]
+  },
+  {
+    "id": 21733,
+    "title_chinese": "昭和元祿落語心中 助六再現篇",
+    "title_japanese": "昭和元禄落語心中～助六再び篇～",
+    "title_romaji": "Shouwa Genroku Rakugo Shinjuu: Sukeroku Futatabi-hen",
+    "title_english": "Showa Genroku Rakugo Shinju: Sukeroku Futatabi-hen"
   },
   {
     "id": 21736,
@@ -28702,6 +28837,16 @@
     "title_english": "RAGNASTRIKE ANGELS",
     "synonyms_chinese": [
       "拉格納的強襲天使"
+    ]
+  },
+  {
+    "id": 21744,
+    "title_chinese": "靈劍山 通往睿智的資格",
+    "title_japanese": "霊剣山 叡智への資格",
+    "title_romaji": "Reikenzan: Eichi e no Shikaku",
+    "title_english": "Reikenzan: Eichi e no Shikaku",
+    "synonyms_chinese": [
+      "從前有座靈劍山 通往睿智的資格"
     ]
   },
   {
@@ -28824,6 +28969,13 @@
     "synonyms_chinese": [
       "虹色時光 OVA"
     ]
+  },
+  {
+    "id": 21776,
+    "title_chinese": "小林家的女僕龍",
+    "title_japanese": "小林さんちのメイドラゴン",
+    "title_romaji": "Kobayashi-san Chi no Maidragon",
+    "title_english": "Miss Kobayashi's Dragon Maid"
   },
   {
     "id": 21777,
@@ -29023,6 +29175,16 @@
     "title_english": "Lupin III (2015): Italian Game"
   },
   {
+    "id": 21823,
+    "title_chinese": "ACCA 13區監察課",
+    "title_japanese": "ACCA 13区監察課",
+    "title_romaji": "ACCA: 13-ku Kansatsu-ka",
+    "title_english": "ACCA: 13-ku Kansatsu-ka",
+    "synonyms": [
+      "ACCA: Jusan-ku Kansatsu-Ka"
+    ]
+  },
+  {
     "id": 21824,
     "title_chinese": "時間旅行少女",
     "title_japanese": "タイムトラベル少女～マリ・ワカと8人の科学者たち～",
@@ -29080,6 +29242,13 @@
     "title_english": "Mahou Shoujo? Naria☆Girls"
   },
   {
+    "id": 21836,
+    "title_chinese": "SUPER LOVERS 2",
+    "title_japanese": "スーパーラヴァーズ 2",
+    "title_romaji": "SUPER LOVERS 2",
+    "title_english": "SUPER LOVERS 2"
+  },
+  {
     "id": 21837,
     "title_chinese": "學園帥哥",
     "title_japanese": "学園ハンサム",
@@ -29128,6 +29297,16 @@
     "title_english": "momokuri (TV)"
   },
   {
+    "id": 21842,
+    "title_chinese": "舌尖上的義大利",
+    "title_japanese": "ピアシェ~私のイタリアン~",
+    "title_romaji": "Piace: Watashi no Italian",
+    "title_english": "Piace: Watashi no Italian",
+    "synonyms": [
+      "Piacevole!"
+    ]
+  },
+  {
     "id": 21847,
     "title_chinese": "烏龍派出所特別篇：兩津勘吉最後的一天",
     "title_japanese": "こちら葛飾区亀有公園前派出所～THE FINAL 両津勘吉最後の日～",
@@ -29167,11 +29346,43 @@
     ]
   },
   {
+    "id": 21857,
+    "title_chinese": "政宗君的復仇",
+    "title_japanese": "政宗くんのリベンジ",
+    "title_romaji": "Masamune-kun no Revenge",
+    "title_english": "Masamune-kun's Revenge",
+    "synonyms": [
+      ""
+    ]
+  },
+  {
+    "id": 21858,
+    "title_chinese": "小魔女學院",
+    "title_japanese": "リトルウィッチアカデミア (TV)",
+    "title_romaji": "Little Witch Academia (TV)",
+    "title_english": "Little Witch Academia (TV)"
+  },
+  {
     "id": 21859,
     "title_chinese": "怪盜Joker 4",
     "title_japanese": "怪盗ジョーカー 4",
     "title_romaji": "Kaitou Joker 4",
     "title_english": "JOKER 4"
+  },
+  {
+    "id": 21861,
+    "title_chinese": "青之驅魔師 京都不淨王篇",
+    "title_japanese": "青の祓魔師 京都不浄王篇",
+    "title_romaji": "Ao no Exorcist: Kyoto Fujouou-hen",
+    "title_english": "Blue Exorcist: Kyoto Saga",
+    "synonyms": [
+      "Blue Exorcist: Kyoto Impure King Arc"
+    ],
+    "synonyms_chinese": [
+      "青之祓魔師 京都不淨王篇",
+      "藍色驅魔師 京都不淨王篇",
+      "藍色的除魔師 京都不淨王篇"
+    ]
   },
   {
     "id": 21866,
@@ -29240,6 +29451,16 @@
     "title_english": "Nazotokine"
   },
   {
+    "id": 21878,
+    "title_chinese": "Gabriel DropOut",
+    "title_japanese": "ガヴリールドロップアウト",
+    "title_romaji": "Gabriel DropOut",
+    "title_english": "Gabriel DropOut",
+    "synonyms_chinese": [
+      "廢天使加百列"
+    ]
+  },
+  {
     "id": 21881,
     "title_chinese": "人家怎麼可能不在意貓田。",
     "title_japanese": "猫田のことが気になって仕方ない。",
@@ -29268,10 +29489,20 @@
     "title_japanese": "あにトレ!!XX",
     "title_romaji": "Anitore! XX",
     "title_english": "Anime De Training! XX",
+    "synonyms": [
+      "Ani Tore! XX"
+    ],
     "synonyms_chinese": [
       "動畫鍛煉!! XX",
       "動畫鍛鍊!! XX"
     ]
+  },
+  {
+    "id": 21887,
+    "title_chinese": "風夏",
+    "title_japanese": "風夏",
+    "title_romaji": "Fuuka",
+    "title_english": "Fuuka"
   },
   {
     "id": 21888,
@@ -29326,6 +29557,13 @@
     "title_japanese": "あおおに ～じ・あにめぇしょん～",
     "title_romaji": "Ao Oni: The Animation",
     "title_english": "Aooni The Blue Monster"
+  },
+  {
+    "id": 87435,
+    "title_chinese": "BanG Dream!",
+    "title_japanese": "BanG Dream!",
+    "title_romaji": "BanG Dream!",
+    "title_english": "BanG Dream!"
   },
   {
     "id": 87437,
@@ -29393,6 +29631,19 @@
     ]
   },
   {
+    "id": 87496,
+    "title_chinese": "Kemono Friends",
+    "title_japanese": "けものフレンズ",
+    "title_romaji": "Kemono Friends",
+    "title_english": "Kemono Friends",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": [
+      "動物好友"
+    ]
+  },
+  {
     "id": 87530,
     "title_chinese": "Dream Festival",
     "title_japanese": "ドリフェス！",
@@ -29413,6 +29664,29 @@
     ]
   },
   {
+    "id": 87539,
+    "title_chinese": "龍的牙醫",
+    "title_japanese": "龍の歯医者",
+    "title_romaji": "Ryuu no Haisha",
+    "title_english": "The Dragon Dentist",
+    "synonyms": [
+      ""
+    ]
+  },
+  {
+    "id": 97590,
+    "title_chinese": "鬼平",
+    "title_japanese": "鬼平",
+    "title_romaji": "Onihei",
+    "title_english": "Onihei",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": [
+      "鬼平犯科帳"
+    ]
+  },
+  {
     "id": 97591,
     "title_chinese": "Bloodivores",
     "title_japanese": "Bloodivores",
@@ -29423,6 +29697,16 @@
     ],
     "synonyms_chinese": [
       "時空囚徒"
+    ]
+  },
+  {
+    "id": 97592,
+    "title_chinese": "亞人醬有話要說",
+    "title_japanese": "亜人ちゃんは語りたい",
+    "title_romaji": "Demi-chan wa Kataritai",
+    "title_english": "Demi-chan wa Kataritai",
+    "synonyms": [
+      ""
     ]
   },
   {
@@ -29465,6 +29749,16 @@
     ],
     "synonyms_chinese": [
       "天才麻將少女 阿知賀篇 玄的生日"
+    ]
+  },
+  {
+    "id": 97618,
+    "title_chinese": "偶像事變",
+    "title_japanese": "アイドル事変",
+    "title_romaji": "Idol Jihen",
+    "title_english": "Idol Incidents",
+    "synonyms": [
+      "Idol Incidents"
     ]
   },
   {
@@ -29522,6 +29816,43 @@
     ]
   },
   {
+    "id": 97636,
+    "title_chinese": "AKIBA' S TRIP -THE ANIMATION-",
+    "title_japanese": "AKIBA' S TRIP -THE ANIMATION-",
+    "title_romaji": "AKIBA' S TRIP: THE ANIMATION",
+    "title_english": "AKIBA' S TRIP: THE ANIMATION",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": [
+      "秋葉原之旅"
+    ]
+  },
+  {
+    "id": 97645,
+    "title_chinese": "Tales of Zestiria the X 2",
+    "title_japanese": "テイルズ オブ ゼスティリア ザ クロス 2",
+    "title_romaji": "Tales of Zestiria the X 2",
+    "title_english": "Tales of Zestiria the X 2",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": [
+      "熱情傳奇 The X 2",
+      "情熱傳說 The X 2"
+    ]
+  },
+  {
+    "id": 97665,
+    "title_chinese": "Rewrite 2nd Season",
+    "title_japanese": "Rewrite　／　2ndシーズン Moon編／Terra編",
+    "title_romaji": "Rewrite / 2nd Season Moon-Hen/Terra-Hen",
+    "title_english": "Rewrite / 2nd Season Moon-Hen/Terra-Hen",
+    "synonyms": [
+      "リライト　／　2ndシーズン Moon編／Terra編"
+    ]
+  },
+  {
     "id": 97672,
     "title_chinese": "槍彈辯駁3 －The End of 希望峰學園－ 希望篇",
     "title_japanese": "ダンガンロンパ３-The End of 希望ヶ峰学園-希望編",
@@ -29532,6 +29863,16 @@
     ],
     "synonyms_chinese": [
       "彈丸論破3 －The End of 希望峰學園－ 希望篇"
+    ]
+  },
+  {
+    "id": 97673,
+    "title_chinese": "喵咪Days",
+    "title_japanese": "にゃんこデイズ",
+    "title_romaji": "nyanko-days",
+    "title_english": "nyanko-days",
+    "synonyms": [
+      ""
     ]
   },
   {
@@ -29556,6 +29897,19 @@
     ]
   },
   {
+    "id": 97730,
+    "title_chinese": "SEIREN",
+    "title_japanese": "セイレン",
+    "title_romaji": "Seiren",
+    "title_english": "Seiren",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": [
+      "清戀"
+    ]
+  },
+  {
     "id": 97731,
     "title_chinese": "Shelter",
     "title_japanese": "シェルター",
@@ -29563,6 +29917,16 @@
     "title_english": "Shelter",
     "synonyms": [
       "Shelter The Animation"
+    ]
+  },
+  {
+    "id": 97745,
+    "title_chinese": "ちるらん にぶんの壱",
+    "title_japanese": "ちるらん にぶんの壱",
+    "title_romaji": "Chiruran: Nibun no Ichi",
+    "title_english": "Chiruran: Nibun no Ichi",
+    "synonyms": [
+      ""
     ]
   },
   {
@@ -29591,6 +29955,16 @@
     "title_japanese": "君の魔名はリナ・ウィッチ",
     "title_romaji": "Kimi no Mana wa Rina Witch",
     "title_english": "Your Magical Name is Rina Witch",
+    "synonyms": [
+      ""
+    ]
+  },
+  {
+    "id": 97776,
+    "title_chinese": "SCHOOLGIRL STRIKERS",
+    "title_japanese": "スクールガールストライカーズ Animation Channel",
+    "title_romaji": "SCHOOLGIRL STRIKERS Animation Channel",
+    "title_english": "SCHOOLGIRL STRIKERS Animation Channel",
     "synonyms": [
       ""
     ]
@@ -29626,6 +30000,20 @@
     ]
   },
   {
+    "id": 97818,
+    "title_chinese": "漫研部 3",
+    "title_japanese": "ちょぼらうにょぽみ劇場第三幕『あいまいみー～Surgical Friends～",
+    "title_romaji": "Choboraunyopomi Gekijou Dai Ni Maku ai mai mi: Surgical Friends",
+    "title_english": "Ai-Mai-Mi 3",
+    "synonyms": [
+      "Choboraunyopomi Gekijou Dai Ni Maku ai mai mii 3"
+    ],
+    "synonyms_chinese": [
+      "漫研社 3",
+      "曖昧ME 3"
+    ]
+  },
+  {
     "id": 97819,
     "title_chinese": "Soul Worker",
     "title_japanese": "ソウルワーカー",
@@ -29646,11 +30034,64 @@
     ]
   },
   {
+    "id": 97857,
+    "title_chinese": "One Room",
+    "title_japanese": "One Room",
+    "title_romaji": "One Room",
+    "title_english": "One Room",
+    "synonyms": [
+      ""
+    ]
+  },
+  {
+    "id": 97875,
+    "title_chinese": "黑白來看守所 2",
+    "title_japanese": "ナンバカ 2",
+    "title_romaji": "Nanbaka 2",
+    "title_english": "Nanbaka 2",
+    "synonyms": [
+      "Nambaka 2"
+    ]
+  },
+  {
+    "id": 97889,
+    "title_chinese": "銀魂 (2017)",
+    "title_japanese": "銀魂。(2017)",
+    "title_romaji": "Gintama. (2017)",
+    "title_english": "Gintama. (2017)",
+    "synonyms": [
+      ""
+    ]
+  },
+  {
     "id": 97892,
     "title_chinese": "ヤれる子！電車エッチ",
     "title_japanese": "ヤれる子！電車エッチ",
     "title_romaji": "Yareruko! Densha Ecchi",
     "title_english": "Bangable Girl",
+    "synonyms": [
+      ""
+    ]
+  },
+  {
+    "id": 98004,
+    "title_chinese": "GRAVITY DAZE The Animation ~Ouverture~",
+    "title_japanese": "GRAVITY DAZE The Animation ~Ouverture~",
+    "title_romaji": "Gravity Daze The Animation: Ouverture",
+    "title_english": "Gravity Rush: The Animation - Overture",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": [
+      "重力異想世界 動畫序曲"
+    ]
+  },
+  {
+    "id": 98045,
+    "title_chinese": "超・少年偵探團NEO",
+    "title_japanese": "超・少年探偵団NEO",
+    "title_romaji": "Chou Shounen Tanteidan Neo",
+    "title_english": "Chou Shounen Tanteidan Neo",
     "synonyms": [
       ""
     ]
