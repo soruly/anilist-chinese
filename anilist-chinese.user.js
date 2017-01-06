@@ -16,12 +16,12 @@
 var search = function(idList,callback){
         var request = {};
     request.size = 1000;
-        request.fields = ["id","title_chinese","synonyms_chinese"];
-        request.query = {"query":{ "ids":{ "values": idList } } };
+        request._source = ["id","title_chinese","synonyms_chinese"];
+        request.query = { "ids":{ "values": idList } };
 
         $.ajax({
             type: "POST",
-            url: "https://whatanime.ga/s/",
+            url: "https://api.whatanime.ga/s/",
             dataType: 'json',
             data: JSON.stringify(request),
             async: true,
@@ -39,8 +39,8 @@ var translate = function(){
     search(idSearchList,function(data){
         idSearchList = [];
         if(data.hits.total > 0){
-            var info = data.hits.hits[0].fields;
-            $(".series__banner__title").text(info.title_chinese[0]);
+            var info = data.hits.hits[0]._source;
+            $(".series__banner__title").text(info.title_chinese);
             $('<div>', {class: 'data__row', html:'<div translate><span>Chinese</span></div><div>'+info.title_chinese+'</div>'}).appendTo($("div.series__data"));
             var synonyms_chinese = "";
             if(info.synonyms_chinese){
@@ -77,11 +77,11 @@ var myDOMNodeInsertedAction = function () {
                     idSearchList = [];
                     if(data.hits.total > 0){
                         $.each(data.hits.hits, function(index,value){
-                            var info = value.fields;
+                            var info = value._source;
                             $(target).each(function(){
-                                if(info.title_chinese[0]){
+                                if(info.title_chinese){
                                     if(info.id == $(this).attr("href").split('/')[2])
-                                        $(this).text(info.title_chinese[0]);
+                                        $(this).text(info.title_chinese);
                                 }
                             });
                         });
