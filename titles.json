@@ -15382,6 +15382,18 @@
     ]
   },
   {
+    "id": 9982,
+    "title_chinese": "Fairy Tail OVA",
+    "title_japanese": "フェアリーテイル OVA",
+    "title_romaji": "Fairy Tail OVA",
+    "title_english": "Fairy Tail OVA",
+    "synonyms": [],
+    "synonyms_chinese": [
+      "妖精的尾巴 OVA",
+      "魔導少年 OVA"
+    ]
+  },
+  {
     "id": 9988,
     "title_chinese": "少女愛上姐姐",
     "title_japanese": "処女はお姉さまに恋してる ～2人のエルダー～",
@@ -24902,6 +24914,15 @@
     "synonyms_chinese": []
   },
   {
+    "id": 20705,
+    "title_chinese": "sin 七宗罪",
+    "title_japanese": "sin 七つの大罪",
+    "title_romaji": "sin Nanatsu no Taizai",
+    "title_english": "sin Nanatsu no Taizai",
+    "synonyms": [],
+    "synonyms_chinese": []
+  },
+  {
     "id": 20706,
     "title_chinese": "真Strange+",
     "title_japanese": "真　ストレンジ・プラス",
@@ -26985,6 +27006,19 @@
     "title_english": "Ultimate Otaku Teacher",
     "synonyms": [],
     "synonyms_chinese": []
+  },
+  {
+    "id": 21025,
+    "title_chinese": "6HP",
+    "title_japanese": "6HP(シックスハートプリンセス)",
+    "title_romaji": "6HP(Six Hearts Princess)",
+    "title_english": "6HP (Six Hearts Princess)",
+    "synonyms": [
+      "6♥Princess"
+    ],
+    "synonyms_chinese": [
+      "六心公主"
+    ]
   },
   {
     "id": 21026,
@@ -32355,6 +32389,18 @@
     "title_romaji": "Nazotokine",
     "title_english": "Nazotokine",
     "synonyms": [],
+    "synonyms_chinese": []
+  },
+  {
+    "id": 21877,
+    "title_chinese": "現在 兩人的道路",
+    "title_japanese": "今、ふたりの道",
+    "title_romaji": "Ima, Futari no Michi",
+    "title_english": "Ima, Futari no Michi",
+    "synonyms": [
+      "Now",
+      " The Pair's Paths"
+    ],
     "synonyms_chinese": []
   },
   {
