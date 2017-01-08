@@ -26765,7 +26765,7 @@
     "title_chinese": "鎖鍊戰記 赫克瑟塔斯之光",
     "title_japanese": "チェインクロニクル ～ヘクセイタスの閃(ひかり)～",
     "title_romaji": "CHAIN CHRONICLE: Haecceitas no Hikari",
-    "title_english": "CHAIN CHRONICLE: Haecceitas no Hikari",
+    "title_english": "Chain Chronicle - The Light of Haecceitas -",
     "synonyms": [],
     "synonyms_chinese": []
   },
@@ -31398,7 +31398,9 @@
     "title_romaji": "Urara Meirochou",
     "title_english": "Urara Meirochou",
     "synonyms": [],
-    "synonyms_chinese": []
+    "synonyms_chinese": [
+      "烏菈菈迷路帖"
+    ]
   },
   {
     "id": 21697,
@@ -31640,7 +31642,7 @@
     "title_chinese": "昭和元祿落語心中 助六再現篇",
     "title_japanese": "昭和元禄落語心中～助六再び篇～",
     "title_romaji": "Shouwa Genroku Rakugo Shinjuu: Sukeroku Futatabi-hen",
-    "title_english": "Showa Genroku Rakugo Shinju: Sukeroku Futatabi-hen",
+    "title_english": "Descending Stories: Showa Genroku Rakugo Shinju",
     "synonyms": [],
     "synonyms_chinese": []
   },
