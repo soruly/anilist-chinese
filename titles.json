@@ -26767,7 +26767,9 @@
     "title_romaji": "CHAIN CHRONICLE: Haecceitas no Hikari",
     "title_english": "Chain Chronicle - The Light of Haecceitas -",
     "synonyms": [],
-    "synonyms_chinese": []
+    "synonyms_chinese": [
+      "鎖鏈戰記 赫克瑟塔斯之光"
+    ]
   },
   {
     "id": 20987,
@@ -31295,7 +31297,7 @@
       "elDLIVE"
     ],
     "synonyms_chinese": [
-      "宇宙警探ēlDLIVE"
+      "宇宙警探 ēlDLIVE"
     ]
   },
   {
@@ -31443,7 +31445,7 @@
     "title_chinese": "人渣的本願",
     "title_japanese": "クズの本懐",
     "title_romaji": "Kuzu no Honkai",
-    "title_english": "Kuzu no Honkai",
+    "title_english": "Scum's Wish",
     "synonyms": [],
     "synonyms_chinese": []
   },
@@ -31465,9 +31467,9 @@
     "title_chinese": "啟航吧！編舟計畫",
     "title_japanese": "舟を編む",
     "title_romaji": "Fune wo Amu",
-    "title_english": "Fune wo Amu",
+    "title_english": "The Great Passage",
     "synonyms": [
-      "The Great Passage"
+      ""
     ],
     "synonyms_chinese": [
       "編舟記"
@@ -32863,7 +32865,10 @@
     "synonyms": [
       ""
     ],
-    "synonyms_chinese": []
+    "synonyms_chinese": [
+      "喵咪Days",
+      "貓咪日常"
+    ]
   },
   {
     "id": 97716,
@@ -33073,6 +33078,17 @@
     "title_japanese": "ヤれる子！電車エッチ",
     "title_romaji": "Yareruko! Densha Ecchi",
     "title_english": "Bangable Girl",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": []
+  },
+  {
+    "id": 97911,
+    "title_chinese": "サグラレ堕メ THE ANIMATION",
+    "title_japanese": "サグラレ堕メ THE ANIMATION",
+    "title_romaji": "Sagurare Otome The Animation",
+    "title_english": "Sagurare Otome The Animation",
     "synonyms": [
       ""
     ],
