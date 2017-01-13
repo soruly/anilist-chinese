@@ -12153,6 +12153,18 @@
     "synonyms_chinese": []
   },
   {
+    "id": 6443,
+    "title_chinese": "AIKa: ZERO",
+    "title_japanese": "AIKa: ZERO",
+    "title_romaji": "AIKa: ZERO",
+    "title_english": "AIKa: ZERO",
+    "synonyms": [],
+    "synonyms_chinese": [
+      "藍華 Zero",
+      "海底嬌娃藍華"
+    ]
+  },
+  {
     "id": 6444,
     "title_chinese": "信蜂",
     "title_japanese": "テガミバチ",
@@ -32063,8 +32075,8 @@
     "id": 21820,
     "title_chinese": "Digimon Universe: App Monsters",
     "title_japanese": "デジモンユニバース アプリモンスターズ",
-    "title_romaji": "Digimon Universe: App Monsters",
-    "title_english": "Digimon Universe: App Monsters",
+    "title_romaji": "Digimon Universe: Appli Monsters",
+    "title_english": "Digimon Universe: Appli Monsters",
     "synonyms": [],
     "synonyms_chinese": [
       "數碼暴龍宇宙-應用怪獸"
@@ -32224,9 +32236,9 @@
     "title_chinese": "舌尖上的義大利",
     "title_japanese": "ピアシェ~私のイタリアン~",
     "title_romaji": "Piace: Watashi no Italian",
-    "title_english": "Piace: Watashi no Italian",
+    "title_english": "Piacevole",
     "synonyms": [
-      "Piacevole!"
+      "Piacevole: My Italian Cooking"
     ],
     "synonyms_chinese": []
   },
@@ -32926,7 +32938,9 @@
     "synonyms": [
       ""
     ],
-    "synonyms_chinese": []
+    "synonyms_chinese": [
+      "新撰組鎮魂歌"
+    ]
   },
   {
     "id": 97773,
