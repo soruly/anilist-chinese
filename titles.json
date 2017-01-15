@@ -25530,6 +25530,15 @@
     "synonyms_chinese": []
   },
   {
+    "id": 20778,
+    "title_chinese": "劇場版 龍珠Z：復活的F",
+    "title_japanese": "劇場版　ドラゴンボールZ　復活のF",
+    "title_romaji": "Dragon Ball Z Movie 15: Fukkatsu no F",
+    "title_english": "Dragon Ball Z Movie 15: Resurrection F",
+    "synonyms": [],
+    "synonyms_chinese": []
+  },
+  {
     "id": 20783,
     "title_chinese": "ランス01 光をもとめて THE ANIMATION",
     "title_japanese": "ランス01 光をもとめて THE ANIMATION",
@@ -31459,7 +31468,9 @@
     "title_romaji": "Kuzu no Honkai",
     "title_english": "Scum's Wish",
     "synonyms": [],
-    "synonyms_chinese": []
+    "synonyms_chinese": [
+      "人渣的本心"
+    ]
   },
   {
     "id": 21702,
@@ -32751,6 +32762,20 @@
     ]
   },
   {
+    "id": 97616,
+    "title_chinese": "To Be HERO",
+    "title_japanese": "To Be HERO",
+    "title_romaji": "To Be HERO",
+    "title_english": "To Be HERO",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": [
+      "凸變英雄",
+      "突變英雄"
+    ]
+  },
+  {
     "id": 97618,
     "title_chinese": "偶像事變",
     "title_japanese": "アイドル事変",
@@ -33062,7 +33087,9 @@
     "synonyms": [
       ""
     ],
-    "synonyms_chinese": []
+    "synonyms_chinese": [
+      "一間房"
+    ]
   },
   {
     "id": 97875,
