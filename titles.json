@@ -24887,7 +24887,7 @@
     "title_chinese": "空之境界 未來福音 Extra Chorus",
     "title_japanese": "空の境界 未来福音 extra chorus",
     "title_romaji": "Kara no Kyoukai: Mirai Fukuin - Extra Chorus",
-    "title_english": "the Garden of sinners: About recalled out summer –extra chorus–",
+    "title_english": "the Garden of sinners: recalled out summer –extra chorus–",
     "synonyms": [],
     "synonyms_chinese": []
   },
@@ -30600,7 +30600,10 @@
     "title_japanese": "アイドルマスター シンデレラガールズ Anytime, Anywhere with Cinderella.",
     "title_romaji": "The iDOLM@STER: Cinderella Girls - Anytime, Anywhere with Cinderella.",
     "title_english": "The iDOLM@STER: Cinderella Girls - Anytime, Anywhere with Cinderella.",
-    "synonyms": [],
+    "synonyms": [
+      "The Idolmaster: Cinderella Girls - Anytime",
+      " Anywhere with Cinderella."
+    ],
     "synonyms_chinese": [
       "偶像大師 灰姑娘女孩 OVA"
     ]
