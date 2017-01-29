@@ -31783,6 +31783,15 @@
     "synonyms_chinese": []
   },
   {
+    "id": 21757,
+    "title_chinese": "喜歡你的那一瞬間。～告白實行委員會～",
+    "title_japanese": "好きになるその瞬間を。～告白実行委員会",
+    "title_romaji": "Suki ni Naru Sono Shunkan wo.: Kokuhaku Jikkou Iinkai",
+    "title_english": "Suki ni Naru Sono Shunkan wo.: Kokuhaku Jikkou Iinkai",
+    "synonyms": [],
+    "synonyms_chinese": []
+  },
+  {
     "id": 21758,
     "title_chinese": "なま LO Re: なまけもの THE ANIMATION",
     "title_japanese": "なま LO Re: なまけもの THE ANIMATION",
@@ -33174,6 +33183,17 @@
     "title_japanese": "超・少年探偵団NEO",
     "title_romaji": "Chou Shounen Tanteidan Neo",
     "title_english": "Chou Shounen Tanteidan Neo",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": []
+  },
+  {
+    "id": 98081,
+    "title_chinese": "オトコのコ♂デリバリー",
+    "title_japanese": "オトコのコ♂デリバリー",
+    "title_romaji": "Otoko no Ko Delivery",
+    "title_english": "Otoko no Ko Delivery",
     "synonyms": [
       ""
     ],
