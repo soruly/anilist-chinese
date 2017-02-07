@@ -332,6 +332,15 @@
     ]
   },
   {
+    "id": 58,
+    "title_chinese": "蟲孽",
+    "title_japanese": "ブルージェンダー",
+    "title_romaji": "Blue Gender",
+    "title_english": "Blue Gender",
+    "synonyms": [],
+    "synonyms_chinese": []
+  },
+  {
     "id": 59,
     "title_chinese": "Chobits",
     "title_japanese": "ちょびっツ",
@@ -5654,6 +5663,15 @@
       "Kino no Tabi: the Beautiful World - Life Goes On",
       "Kino's Journey Movie"
     ],
+    "synonyms_chinese": []
+  },
+  {
+    "id": 1380,
+    "title_chinese": "蟲孽 劇場版",
+    "title_japanese": "ブルージェンダー ザ・ウォリアー",
+    "title_romaji": "Blue Gender: The Warrior",
+    "title_english": "Blue Gender: The Warrior",
+    "synonyms": [],
     "synonyms_chinese": []
   },
   {
@@ -20206,6 +20224,17 @@
     ]
   },
   {
+    "id": 15535,
+    "title_chinese": "溫泉物語",
+    "title_japanese": "ゆめくり",
+    "title_romaji": "Yumekuri",
+    "title_english": "Yumekuri",
+    "synonyms": [],
+    "synonyms_chinese": [
+      "溫泉巡禮"
+    ]
+  },
+  {
     "id": 15537,
     "title_chinese": "都合のよいセックスフレンド?",
     "title_japanese": "都合のよいセックスフレンド?",
@@ -25399,6 +25428,19 @@
       "Unlimited Fafnir School Battle"
     ],
     "synonyms_chinese": []
+  },
+  {
+    "id": 20761,
+    "title_chinese": "漫畫家與助手 OVA",
+    "title_japanese": "マンガ家さんとアシスタントさんと ",
+    "title_romaji": "Mangaka-san to Assistant-san to Specials",
+    "title_english": "Mangaka-san to Assistant-san to Specials",
+    "synonyms": [
+      "The Comic Artist and Assistants Specials"
+    ],
+    "synonyms_chinese": [
+      "漫畫家與助手們 OVA"
+    ]
   },
   {
     "id": 20762,
@@ -32395,7 +32437,7 @@
   {
     "id": 21871,
     "title_chinese": "ViVid Strike!",
-    "title_japanese": "ヴィヴァッド ストライク",
+    "title_japanese": "ViVid Strike!",
     "title_romaji": "ViVid Strike!",
     "title_english": "ViVid Strike!",
     "synonyms": [],
@@ -32661,7 +32703,8 @@
       ""
     ],
     "synonyms_chinese": [
-      "動物好友"
+      "動物好友",
+      "動物朋友"
     ]
   },
   {
@@ -33185,6 +33228,28 @@
     "title_japanese": "超・少年探偵団NEO",
     "title_romaji": "Chou Shounen Tanteidan Neo",
     "title_english": "Chou Shounen Tanteidan Neo",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": []
+  },
+  {
+    "id": 98079,
+    "title_chinese": "桃色望遠鏡 Anime Edition",
+    "title_japanese": "桃色望遠鏡 Anime Edition",
+    "title_romaji": "Momoiro Bouenkyou Anime Edition",
+    "title_english": "Momoiro Bouenkyou Anime Edition",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": []
+  },
+  {
+    "id": 98080,
+    "title_chinese": "グリーン・アイズ -姉キュン! より- THE ANIMATION",
+    "title_japanese": "グリーン・アイズ -姉キュン! より- THE ANIMATION",
+    "title_romaji": "Green Eyes: Ane Kyun! yori The Animation",
+    "title_english": "Green Eyes: Ane Kyun! yori The Animation",
     "synonyms": [
       ""
     ],
