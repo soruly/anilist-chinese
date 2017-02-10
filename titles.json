@@ -8559,6 +8559,18 @@
     "synonyms_chinese": []
   },
   {
+    "id": 3011,
+    "title_chinese": "四葉",
+    "title_japanese": "よつのは",
+    "title_romaji": "Yotsunoha",
+    "title_english": "Yotsunoha",
+    "synonyms": [],
+    "synonyms_chinese": [
+      "四葉草",
+      "四娘物語"
+    ]
+  },
+  {
     "id": 3031,
     "title_chinese": "數碼暴龍最前線 古代數碼暴龍復活！！",
     "title_japanese": "デジモンフロンティア 古代デジモン（オニスモン）復活！！",
@@ -9330,6 +9342,19 @@
       "D.C.II S.S.: Da Capo II 2nd Season"
     ],
     "synonyms_chinese": []
+  },
+  {
+    "id": 3641,
+    "title_chinese": "少女的秘密心事",
+    "title_japanese": "ないしょのつぼみ",
+    "title_romaji": "Naisho no Tsubomi",
+    "title_english": "Naisho no Tsubomi",
+    "synonyms": [
+      "Tsubomi's Secrets"
+    ],
+    "synonyms_chinese": [
+      "秘密蓓蕾"
+    ]
   },
   {
     "id": 3652,
@@ -31789,6 +31814,17 @@
     "synonyms_chinese": []
   },
   {
+    "id": 21750,
+    "title_chinese": "劇場版 銀河機攻隊",
+    "title_japanese": "劇場版マジェスティックプリンス",
+    "title_romaji": "Majestic Prince Movie",
+    "title_english": "Majestic Prince Movie",
+    "synonyms": [],
+    "synonyms_chinese": [
+      "劇場版 銀河機攻隊 覺醒的遺傳因子"
+    ]
+  },
+  {
     "id": 21751,
     "title_chinese": "B-PROJECT〜鼓動＊Ambitious〜",
     "title_japanese": "B-PROJECT～鼓動＊アンビシャス～",
@@ -33165,11 +33201,11 @@
   {
     "id": 97889,
     "title_chinese": "銀魂 (2017)",
-    "title_japanese": "銀魂。(2017)",
-    "title_romaji": "Gintama. (2017)",
-    "title_english": "Gintama. (2017)",
+    "title_japanese": "銀魂。",
+    "title_romaji": "Gintama.",
+    "title_english": "Gintama.",
     "synonyms": [
-      ""
+      "Gintama. (2017)"
     ],
     "synonyms_chinese": []
   },
