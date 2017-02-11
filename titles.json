@@ -25472,7 +25472,7 @@
     "title_chinese": "銀河騎士傳 第九行星戰役",
     "title_japanese": "シドニアの騎士　第九惑星戦役",
     "title_romaji": "Sidonia no Kishi: Daikyuu Wakusei Seneki",
-    "title_english": "Knights of Sidonia: War of the Ninth Planet",
+    "title_english": "Knights of Sidonia: Battle for Planet Nine",
     "synonyms": [],
     "synonyms_chinese": [
       "希德尼婭的騎士 第九行星戰役"
@@ -26377,6 +26377,17 @@
     "title_english": "LUPIN THE 3rd PART4",
     "synonyms": [],
     "synonyms_chinese": []
+  },
+  {
+    "id": 20907,
+    "title_chinese": "Steins;Gate 聰明睿智的認知計算",
+    "title_japanese": "Steins;Gate 聡明叡智のコグニティブ・コンピューティング",
+    "title_romaji": "Steins;Gate: Soumei Eichi no Cognitive Computing",
+    "title_english": "Steins;Gate: Soumei Eichi no Cognitive Computing",
+    "synonyms": [],
+    "synonyms_chinese": [
+      "命運石之門 聰明睿智的認知計算"
+    ]
   },
   {
     "id": 20908,
