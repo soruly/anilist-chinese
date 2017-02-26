@@ -31509,14 +31509,14 @@
   },
   {
     "id": 21697,
-    "title_chinese": "劇場版 星夢學園",
+    "title_chinese": "劇場版 星夢學園 Stars!",
     "title_japanese": "劇場版 アイカツスターズ！",
     "title_romaji": "Aikatsu Stars! The Movie",
     "title_english": "Aikatsu Stars! The Movie",
     "synonyms": [],
     "synonyms_chinese": [
-      "劇場版 偶像活動",
-      "劇場版 偶像學園"
+      "劇場版 偶像活動 Stars!",
+      "劇場版 偶像學園 Stars!"
     ]
   },
   {
@@ -33186,6 +33186,17 @@
     "synonyms_chinese": []
   },
   {
+    "id": 97851,
+    "title_chinese": "漆黒のシャガ THE ANIMATION",
+    "title_japanese": "漆黒のシャガ THE ANIMATION",
+    "title_romaji": "Shikkoku no Shaga The Animation",
+    "title_english": "Shikkoku no Shaga The Animation",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": []
+  },
+  {
     "id": 97854,
     "title_chinese": "対魔忍アサギ3",
     "title_japanese": "対魔忍アサギ3",
@@ -33256,11 +33267,33 @@
     "synonyms_chinese": []
   },
   {
+    "id": 97905,
+    "title_chinese": "ヌキどきッ! ~天使と悪魔の搾精バトル~ Revolution",
+    "title_japanese": "ヌキどきッ! ~天使と悪魔の搾精バトル~ Revolution",
+    "title_romaji": "Nuki Doki! Tenshi to Akuma no Sakusei Battle - Revolution",
+    "title_english": "Nuki Doki! Tenshi to Akuma no Sakusei Battle - Revolution",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": []
+  },
+  {
     "id": 97911,
     "title_chinese": "サグラレ堕メ THE ANIMATION",
     "title_japanese": "サグラレ堕メ THE ANIMATION",
     "title_romaji": "Sagurare Otome The Animation",
     "title_english": "Sagurare Otome The Animation",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": []
+  },
+  {
+    "id": 97912,
+    "title_chinese": "アイドル強制操作",
+    "title_japanese": "アイドル強制操作",
+    "title_romaji": "Idol Kyousei Sousa",
+    "title_english": "Idol Kyousei Sousa",
     "synonyms": [
       ""
     ],
