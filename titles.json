@@ -21832,6 +21832,15 @@
     "synonyms_chinese": []
   },
   {
+    "id": 17867,
+    "title_chinese": "ヌキどきッ! ~天使と悪魔の搾精バトル~",
+    "title_japanese": "ヌキどきッ! ~天使と悪魔の搾精バトル~",
+    "title_romaji": "Nuki Doki! Tenshi to Akuma no Sakusei Battle",
+    "title_english": "Nuki Doki! Tenshi to Akuma no Sakusei Battle",
+    "synonyms": [],
+    "synonyms_chinese": []
+  },
+  {
     "id": 17873,
     "title_chinese": "寵物小精靈BW 第2季 Da！",
     "title_japanese": "ポケットモンスター ベストウイッシュ シーズン２ デコロラアドベンチャー",
@@ -33056,6 +33065,17 @@
     "title_english": "Shelter",
     "synonyms": [
       "Shelter The Animation"
+    ],
+    "synonyms_chinese": []
+  },
+  {
+    "id": 97734,
+    "title_chinese": "數碼暴龍大冒險tri. 第4章「喪失」",
+    "title_japanese": "デジモンアドベンチャー tri.第４章「喪失」",
+    "title_romaji": "Digimon Adventure tri. 4: Soushitsu",
+    "title_english": "Digimon Adventure tri. 4: Soushitsu",
+    "synonyms": [
+      ""
     ],
     "synonyms_chinese": []
   },
