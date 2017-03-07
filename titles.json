@@ -28978,6 +28978,19 @@
     ]
   },
   {
+    "id": 21295,
+    "title_chinese": "劇場版 艦隊Collection",
+    "title_japanese": "劇場版 艦これ",
+    "title_romaji": "KanColle Movie",
+    "title_english": "KanColle Movie",
+    "synonyms": [
+      "KanKore Movie"
+    ],
+    "synonyms_chinese": [
+      "劇場版 艦隊收藏"
+    ]
+  },
+  {
     "id": 21296,
     "title_chinese": "從好久以前就喜歡你。～告白實行委員會～",
     "title_japanese": "ずっと前から好きでした。～告白実行委員会～",
@@ -31958,6 +31971,15 @@
     "synonyms_chinese": [
       "我的青春戀愛喜劇果然有問題。續 OVA"
     ]
+  },
+  {
+    "id": 21771,
+    "title_chinese": "planetarian ～星之人～",
+    "title_japanese": "planetarian～星の人～",
+    "title_romaji": "planetarian: Hoshi no Hito",
+    "title_english": "planetarian: Hoshi no Hito",
+    "synonyms": [],
+    "synonyms_chinese": []
   },
   {
     "id": 21772,
