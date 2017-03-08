@@ -30019,6 +30019,15 @@
     "synonyms_chinese": []
   },
   {
+    "id": 21454,
+    "title_chinese": "劇場版 星光樂園 大家的憧憬♪ Let's Go☆美妙巴黎",
+    "title_japanese": "映画 プリパラ み～んなのあこがれ♪ レッツゴー☆プリパリ",
+    "title_romaji": "PriPara Movie: Mi~nna no Akogare♪ Let's Go☆Prix Paris",
+    "title_english": "PriPara Movie: Mi~nna no Akogare♪ Let's Go☆Prix Paris",
+    "synonyms": [],
+    "synonyms_chinese": []
+  },
+  {
     "id": 21455,
     "title_chinese": "NEW GAME!",
     "title_japanese": "NEW GAME!",
@@ -32544,6 +32553,18 @@
     ],
     "synonyms_chinese": [
       "神裝少女小纏"
+    ]
+  },
+  {
+    "id": 21874,
+    "title_chinese": "劇場版 Trinity Seven 悠久圖書館與鍊金術少女",
+    "title_japanese": "劇場版 トリニティセブン",
+    "title_romaji": "TRINITY SEVEN Movie",
+    "title_english": "TRINITY SEVEN Movie",
+    "synonyms": [],
+    "synonyms_chinese": [
+      "劇場版 魔道書7使者",
+      "劇場版 七人魔法使"
     ]
   },
   {
