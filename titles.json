@@ -15847,6 +15847,17 @@
     ]
   },
   {
+    "id": 10196,
+    "title_chinese": "Baby Princess 3D Paradise Love",
+    "title_japanese": "ベイビー・プリンセス 3Dぱらだいす0[ラブ]",
+    "title_romaji": "Baby Princess 3D Paradise 0 [Love]",
+    "title_english": "Baby Princess 3D Paradise 0 [Love]",
+    "synonyms": [],
+    "synonyms_chinese": [
+      "寶貝公主"
+    ]
+  },
+  {
     "id": 10197,
     "title_chinese": "吸血貓",
     "title_japanese": "にゃんぱいあ The Animation",
@@ -23633,7 +23644,7 @@
     "title_chinese": "人生",
     "title_japanese": "人生",
     "title_romaji": "Jinsei",
-    "title_english": "Jinsei",
+    "title_english": "Jinsei - Life Consulting",
     "synonyms": [
       "La Bonne Vie"
     ],
