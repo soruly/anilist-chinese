@@ -8560,14 +8560,13 @@
   },
   {
     "id": 3011,
-    "title_chinese": "四葉",
+    "title_chinese": "四娘物語",
     "title_japanese": "よつのは",
     "title_romaji": "Yotsunoha",
     "title_english": "Yotsunoha",
     "synonyms": [],
     "synonyms_chinese": [
-      "四葉草",
-      "四娘物語"
+      "四葉"
     ]
   },
   {
@@ -9329,6 +9328,17 @@
     "title_romaji": "Kamen no Maid Guy",
     "title_english": "Kamen no Maid Guy",
     "synonyms": [],
+    "synonyms_chinese": []
+  },
+  {
+    "id": 3625,
+    "title_chinese": "真魔神傳 Battle Royal High School",
+    "title_japanese": "真魔神伝　バトルロイヤルハイスクール",
+    "title_romaji": "Battle Royal High School",
+    "title_english": "Battle Royal High School",
+    "synonyms": [
+      "Shin Majinden"
+    ],
     "synonyms_chinese": []
   },
   {
