@@ -33526,5 +33526,65 @@
       "Super Danganronpa 2.5: Nagito Komaeda and the Destroyer of the World"
     ],
     "synonyms_chinese": []
+  },
+  {
+    "id": 98220,
+    "title_chinese": "ViVid Strike! OVA",
+    "title_japanese": "ViVid Strike! OVA",
+    "title_romaji": "ViVid Strike! OVA",
+    "title_english": "ViVid Strike! OVA",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": []
+  },
+  {
+    "id": 98307,
+    "title_chinese": "一年ぶりの THE ANIMATION",
+    "title_japanese": "一年ぶりの THE ANIMATION",
+    "title_romaji": "Ichinen Buri no The Animation",
+    "title_english": "Ichinen Buri no The Animation",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": []
+  },
+  {
+    "id": 98332,
+    "title_chinese": "劇場版 偶像活動! 被盯上的魔法偶活卡",
+    "title_japanese": "アイカツ！ねらわれた魔法のアイカツ！カード",
+    "title_romaji": "Aikatsu! Nerawareta Mahou no Aikatsu! Card",
+    "title_english": "Aikatsu! Nerawareta Mahou no Aikatsu! Card",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": [
+      "劇場版 星夢學園! 被盯上的魔法星夢學園卡",
+      "劇場版 偶像學園! 被盯上的魔法偶像學園卡"
+    ]
+  },
+  {
+    "id": 98338,
+    "title_chinese": "吹響！上低音號 2 SP",
+    "title_japanese": "響け！ユーフォニアム2",
+    "title_romaji": "Hibike! Euphonium 2 Specials",
+    "title_english": "Sound! Euphonium 2 Specials",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": [
+      "吹響吧！悠風號 2 SP"
+    ]
+  },
+  {
+    "id": 98436,
+    "title_chinese": "魔法使的新娘",
+    "title_japanese": "魔法使いの嫁",
+    "title_romaji": "Mahoutsukai no Yome",
+    "title_english": "The Ancient Magus' Bride",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": []
   }
 ]
