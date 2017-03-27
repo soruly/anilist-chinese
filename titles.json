@@ -25020,7 +25020,7 @@
   },
   {
     "id": 20705,
-    "title_chinese": "sin 七宗罪",
+    "title_chinese": "sin 七大罪",
     "title_japanese": "sin 七つの大罪",
     "title_romaji": "sin Nanatsu no Taizai",
     "title_english": "sin Nanatsu no Taizai",
@@ -25724,9 +25724,9 @@
   {
     "id": 20791,
     "title_chinese": "Fate/stay night: Heaven's Feel",
-    "title_japanese": "Fate/stay night [Heaven's Feel]",
-    "title_romaji": "Fate/stay night [Heaven's Feel]",
-    "title_english": "Fate/stay night [Heaven's Feel]",
+    "title_japanese": "Fate/stay night[Heaven's Feel] Ⅰ.presage flower",
+    "title_romaji": "Fate/stay night[Heaven's Feel] I .presage flower",
+    "title_english": "Fate/stay night[Heaven's Feel] I .presage flower",
     "synonyms": [],
     "synonyms_chinese": [
       "命運守護夜",
@@ -26731,6 +26731,15 @@
     "title_japanese": "六花の勇者",
     "title_romaji": "Rokka no Yuusha",
     "title_english": "Rokka -Braves of the Six Flowers-",
+    "synonyms": [],
+    "synonyms_chinese": []
+  },
+  {
+    "id": 20958,
+    "title_chinese": "進擊的巨人 2",
+    "title_japanese": "進撃の巨人 2",
+    "title_romaji": "Shingeki no Kyojin 2",
+    "title_english": "Attack on Titan 2",
     "synonyms": [],
     "synonyms_chinese": []
   },
@@ -28221,6 +28230,23 @@
     "synonyms_chinese": []
   },
   {
+    "id": 21180,
+    "title_chinese": "不起眼女主角培育法 ♭",
+    "title_japanese": "冴えない彼女の育てかた ♭",
+    "title_romaji": "Saenai Heroine no Sodatekata ♭",
+    "title_english": "Saekano: How to Raise a Boring Girlfriend ♭",
+    "synonyms": [
+      "Saenai Heroine no Sodate-kata Flat",
+      "Saenai Heroine no Sodate-kata 2",
+      "Saekano: How to Raise a Boring Girlfriend 2",
+      "Saekano flat"
+    ],
+    "synonyms_chinese": [
+      "不起眼女主育成法 ♭",
+      "路人女主的養成方法 ♭"
+    ]
+  },
+  {
     "id": 21182,
     "title_chinese": "Hacka Doll",
     "title_japanese": "ハッカドール THE あにめーしょん",
@@ -28228,6 +28254,17 @@
     "title_english": "Hackadoll the Animation",
     "synonyms": [],
     "synonyms_chinese": []
+  },
+  {
+    "id": 21184,
+    "title_chinese": "巴哈姆特之怒 VIRGIN SOUL",
+    "title_japanese": "神撃のバハムート VIRGIN SOUL",
+    "title_romaji": "Shingeki no Bahamut: VIRGIN SOUL",
+    "title_english": "Rage of Bahamut: Virgin Soul",
+    "synonyms": [],
+    "synonyms_chinese": [
+      "神擊之巴哈姆特 VIRGIN SOUL"
+    ]
   },
   {
     "id": 21186,
@@ -29453,7 +29490,7 @@
   },
   {
     "id": 21361,
-    "title_chinese": "GRANBLUE FANTASY",
+    "title_chinese": "GRANBLUE FANTASY The Animation",
     "title_japanese": "GRANBLUE FANTASY The Animation",
     "title_romaji": "GRANBLUE FANTASY The Animation",
     "title_english": "GRANBLUE FANTASY The Animation",
@@ -30038,6 +30075,17 @@
     "synonyms_chinese": []
   },
   {
+    "id": 21452,
+    "title_chinese": "正確的卡多",
+    "title_japanese": "正解するカド",
+    "title_romaji": "Seikaisuru Kado",
+    "title_english": "Seikaisuru Kado",
+    "synonyms": [
+      "KADO：The Right Answer"
+    ],
+    "synonyms_chinese": []
+  },
+  {
     "id": 21453,
     "title_chinese": "跳出星光樂園 大家的目標！偶像☆大賽",
     "title_japanese": "とびだすプリパラ　み～んなでめざせ！アイドル☆グランプリ",
@@ -30465,6 +30513,17 @@
     ]
   },
   {
+    "id": 21517,
+    "title_chinese": "戀愛暴君",
+    "title_japanese": "恋愛暴君",
+    "title_romaji": "Renai Boukun",
+    "title_english": "Renai Boukun",
+    "synonyms": [
+      "The very lovely tyrant of love♥"
+    ],
+    "synonyms_chinese": []
+  },
+  {
     "id": 21518,
     "title_chinese": "食戟之靈 貳之皿",
     "title_japanese": "食戟のソーマ 弍ノ皿",
@@ -30731,6 +30790,17 @@
     "synonyms_chinese": [
       "烙印勇士 2016",
       "劍風傳奇 2016"
+    ]
+  },
+  {
+    "id": 21563,
+    "title_chinese": "CLOCKWORK PLANET",
+    "title_japanese": "クロックワーク・プラネット",
+    "title_romaji": "CLOCKWORK PLANET",
+    "title_english": "CLOCKWORK PLANET",
+    "synonyms": [],
+    "synonyms_chinese": [
+      "時鐘機關之星"
     ]
   },
   {
@@ -31407,6 +31477,17 @@
     "synonyms_chinese": []
   },
   {
+    "id": 21662,
+    "title_chinese": "銀之守墓人",
+    "title_japanese": "銀の墓守り",
+    "title_romaji": "Gin no Guardian",
+    "title_english": "The Silver Guardian",
+    "synonyms": [],
+    "synonyms_chinese": [
+      "銀色守墓者"
+    ]
+  },
+  {
     "id": 21666,
     "title_chinese": "信長的忍者",
     "title_japanese": "信長の忍び",
@@ -31448,6 +31529,15 @@
     "title_japanese": "ルガーコード 1951",
     "title_romaji": "Luger Code 1951",
     "title_english": "Luger Code 1951",
+    "synonyms": [],
+    "synonyms_chinese": []
+  },
+  {
+    "id": 21676,
+    "title_chinese": "在地下城尋求邂逅是否搞錯了什麼 外傳 劍姬神聖譚",
+    "title_japanese": "ダンジョンに出会いを求めるのは間違っているだろうか外伝 ソード・オラトリア",
+    "title_romaji": "Dungeon ni Deai o Motomeru no wa Machigatteiru Darou ka Gaiden: Sword Oratoria",
+    "title_english": "Is It Wrong to Try and Pick Up Girls in a Dungeon? Gaiden: Sword Oratoria",
     "synonyms": [],
     "synonyms_chinese": []
   },
@@ -31495,6 +31585,15 @@
       "老虎假面W",
       "虎面人W"
     ]
+  },
+  {
+    "id": 21685,
+    "title_chinese": "情色漫畫老師",
+    "title_japanese": "エロマンガ先生",
+    "title_romaji": "eromanga sensei",
+    "title_english": "eromanga sensei",
+    "synonyms": [],
+    "synonyms_chinese": []
   },
   {
     "id": 21686,
@@ -31602,6 +31701,15 @@
     "synonyms": [
       "Konosuba 2"
     ],
+    "synonyms_chinese": []
+  },
+  {
+    "id": 21700,
+    "title_chinese": "不正經的魔術講師與禁忌教典",
+    "title_japanese": "ロクでなし魔術講師と禁忌教典",
+    "title_romaji": "Rokudenashi Majutsu Koushi to Kinki Kyouten",
+    "title_english": "Akashic records of bastard magic instructor",
+    "synonyms": [],
     "synonyms_chinese": []
   },
   {
@@ -32045,6 +32153,15 @@
     "synonyms_chinese": []
   },
   {
+    "id": 21773,
+    "title_chinese": "覆面系NOISE",
+    "title_japanese": "覆面系ノイズ",
+    "title_romaji": "Fukumenkei Noise",
+    "title_english": "Anonymous Noise",
+    "synonyms": [],
+    "synonyms_chinese": []
+  },
+  {
     "id": 21775,
     "title_chinese": "虹色Days OVA",
     "title_japanese": "虹色デイズ OAD",
@@ -32347,6 +32464,17 @@
     "synonyms_chinese": []
   },
   {
+    "id": 21830,
+    "title_chinese": "ATOM: THE BEGINNING",
+    "title_japanese": "アトム ザ・ビギニング",
+    "title_romaji": "ATOM: THE BEGINNING",
+    "title_english": "ATOM: THE BEGINNING",
+    "synonyms": [],
+    "synonyms_chinese": [
+      "原子小金剛 THE BEGINNING"
+    ]
+  },
+  {
     "id": 21832,
     "title_chinese": "TRICKSTER-來自江戶川亂步「少年探偵團」-",
     "title_japanese": "TRICKSTER -江戸川乱歩「少年探偵団」より-",
@@ -32463,6 +32591,17 @@
     ]
   },
   {
+    "id": 21851,
+    "title_chinese": "武裝少女Machiavellianism",
+    "title_japanese": "武装少女マキャヴェリズム",
+    "title_romaji": "Busou Shoujo Machiavellianism",
+    "title_english": "Busou Shoujo Machiavellianism",
+    "synonyms": [
+      "Armed Girl's Machiavellism"
+    ],
+    "synonyms_chinese": []
+  },
+  {
     "id": 21853,
     "title_chinese": "To LOVE-Ru Darkness 2nd OVA",
     "title_japanese": "To LOVEる -とらぶる- ダークネス2nd",
@@ -32484,6 +32623,15 @@
     "synonyms": [
       ""
     ],
+    "synonyms_chinese": []
+  },
+  {
+    "id": 21856,
+    "title_chinese": "我的英雄學院 2",
+    "title_japanese": "僕のヒーローアカデミア 2",
+    "title_romaji": "Boku no Hero Academia 2",
+    "title_english": "My Hero Academia 2",
+    "synonyms": [],
     "synonyms_chinese": []
   },
   {
@@ -32516,6 +32664,18 @@
     "synonyms_chinese": []
   },
   {
+    "id": 21860,
+    "title_chinese": "末日時在做什麼？有沒有空？可以來拯救嗎？",
+    "title_japanese": "終末なにしてますか? 忙しいですか? 救ってもらっていいですか?",
+    "title_romaji": "Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka?",
+    "title_english": "Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka?",
+    "synonyms": [
+      "Do you have what THE END? Are you busy? Shall you save xxx?",
+      "Sukasuka"
+    ],
+    "synonyms_chinese": []
+  },
+  {
     "id": 21861,
     "title_chinese": "青之驅魔師 京都不淨王篇",
     "title_japanese": "青の祓魔師 京都不浄王篇",
@@ -32528,6 +32688,17 @@
       "青之祓魔師 京都不淨王篇",
       "藍色驅魔師 京都不淨王篇",
       "藍色的除魔師 京都不淨王篇"
+    ]
+  },
+  {
+    "id": 21865,
+    "title_chinese": "Twin Angel BREAK",
+    "title_japanese": "ツインエンジェルBREAK",
+    "title_romaji": "Twin Angel BREAK",
+    "title_english": "Twin Angel BREAK",
+    "synonyms": [],
+    "synonyms_chinese": [
+      "快盜天使BREAK"
     ]
   },
   {
@@ -32721,6 +32892,15 @@
     "synonyms_chinese": []
   },
   {
+    "id": 21894,
+    "title_chinese": "ID-0",
+    "title_japanese": "ID-0",
+    "title_romaji": "ID-0",
+    "title_english": "ID-0",
+    "synonyms": [],
+    "synonyms_chinese": []
+  },
+  {
     "id": 21895,
     "title_chinese": "戰國鳥獸戲畫",
     "title_japanese": "戦国鳥獣戯画",
@@ -32850,6 +33030,28 @@
       "動物好友",
       "動物朋友"
     ]
+  },
+  {
+    "id": 87500,
+    "title_chinese": "青春歌舞伎",
+    "title_japanese": "カブキブ！",
+    "title_romaji": "KABUKIBU!",
+    "title_english": "KABUKIBU!",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": []
+  },
+  {
+    "id": 87517,
+    "title_chinese": "雛子的筆記",
+    "title_japanese": "ひなこのーと",
+    "title_romaji": "Hinako Note",
+    "title_english": "Hinako Note",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": []
   },
   {
     "id": 87526,
@@ -33047,6 +33249,17 @@
     "synonyms_chinese": []
   },
   {
+    "id": 97625,
+    "title_chinese": "怪怪守護神",
+    "title_japanese": "つぐもも",
+    "title_romaji": "Tsugumomo",
+    "title_english": "Tsugumomo",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": []
+  },
+  {
     "id": 97634,
     "title_chinese": "Pokemon Sun & Moon",
     "title_japanese": "ポケットモンスター サン＆ムーン",
@@ -33074,6 +33287,31 @@
     ]
   },
   {
+    "id": 97642,
+    "title_chinese": "有頂天家族 2",
+    "title_japanese": "有頂天家族 2",
+    "title_romaji": "Uchouten Kazoku 2",
+    "title_english": "The Eccentric Family 2",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": []
+  },
+  {
+    "id": 97643,
+    "title_chinese": "烙印戰士 2",
+    "title_japanese": "ベルセルク 2",
+    "title_romaji": "BERSERK 2",
+    "title_english": "Berserk 2",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": [
+      "烙印勇士 2",
+      "劍風傳奇 2"
+    ]
+  },
+  {
     "id": 97645,
     "title_chinese": "Tales of Zestiria the X 2",
     "title_japanese": "テイルズ オブ ゼスティリア ザ クロス 2",
@@ -33088,6 +33326,17 @@
     ]
   },
   {
+    "id": 97660,
+    "title_chinese": "重啟咲良田",
+    "title_japanese": "サクラダリセット",
+    "title_romaji": "SAGRADA RESET",
+    "title_english": "SAGRADA RESET",
+    "synonyms": [
+      "Sakurada Reset"
+    ],
+    "synonyms_chinese": []
+  },
+  {
     "id": 97665,
     "title_chinese": "Rewrite 2nd Season",
     "title_japanese": "Rewrite　／　2ndシーズン Moon編／Terra編",
@@ -33095,6 +33344,50 @@
     "title_english": "Rewrite / 2nd Season Moon-Hen/Terra-Hen",
     "synonyms": [
       "リライト　／　2ndシーズン Moon編／Terra編"
+    ],
+    "synonyms_chinese": []
+  },
+  {
+    "id": 97667,
+    "title_chinese": "HIGH SCHOOL FLEET OVA",
+    "title_japanese": "ハイスクール・フリート OVA",
+    "title_romaji": "HIGH SCHOOL FLEET OVA",
+    "title_english": "HIGH SCHOOL FLEET OVA",
+    "synonyms": [
+      "Haifuri OVA",
+      "",
+      "",
+      ""
+    ],
+    "synonyms_chinese": [
+      "高校艦隊 OVA",
+      "青春波紋 OVA"
+    ]
+  },
+  {
+    "id": 97669,
+    "title_chinese": "orange -未來-",
+    "title_japanese": "orange -未来-",
+    "title_romaji": "orange: Mirai",
+    "title_english": "Orange: Mirai",
+    "synonyms": [
+      "オレンジ -未来-",
+      "",
+      "",
+      ""
+    ],
+    "synonyms_chinese": [
+      "orange 劇場版"
+    ]
+  },
+  {
+    "id": 97670,
+    "title_chinese": "境界之輪迴 3",
+    "title_japanese": "境界のRINNE 3",
+    "title_romaji": "Kyoukai no RINNE 3",
+    "title_english": "RIN-NE 3",
+    "synonyms": [
+      ""
     ],
     "synonyms_chinese": []
   },
@@ -33124,6 +33417,17 @@
       "喵咪Days",
       "貓咪日常"
     ]
+  },
+  {
+    "id": 97682,
+    "title_chinese": "從零開始的魔法書",
+    "title_japanese": "ゼロから始める魔法の書",
+    "title_romaji": "Zero kara Hajimeru Mahou no Sho",
+    "title_english": "Zero kara Hajimeru Mahou no Sho",
+    "synonyms": [
+      "Grimoire of Zero"
+    ],
+    "synonyms_chinese": []
   },
   {
     "id": 97716,
@@ -33187,6 +33491,17 @@
     "title_japanese": "ちるらん にぶんの壱",
     "title_romaji": "Chiruran: Nibun no Ichi",
     "title_english": "Chiruran 1/2",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": []
+  },
+  {
+    "id": 97765,
+    "title_chinese": "Cinderella Girls 劇場",
+    "title_japanese": "シンデレラガールズ劇場",
+    "title_romaji": "Cinderella Girls Gekijou",
+    "title_english": "Cinderella Girls Gekijou",
     "synonyms": [
       ""
     ],
@@ -33297,6 +33612,29 @@
     "synonyms_chinese": []
   },
   {
+    "id": 97820,
+    "title_chinese": "高校星歌劇 2",
+    "title_japanese": "スタミュ 2",
+    "title_romaji": "Star Mu 2",
+    "title_english": "STARMYU 2",
+    "synonyms": [
+      "High School Star Musical 2"
+    ],
+    "synonyms_chinese": []
+  },
+  {
+    "id": 97821,
+    "title_chinese": "愛麗絲與藏六",
+    "title_japanese": "アリスと蔵六",
+    "title_romaji": "Alice to Zouroku",
+    "title_english": "Alice & Zouroku",
+    "synonyms": [
+      "Alice and Zouroku",
+      ""
+    ],
+    "synonyms_chinese": []
+  },
+  {
     "id": 97850,
     "title_chinese": "巨乳令嬢MC学園",
     "title_japanese": "巨乳令嬢MC学園",
@@ -33317,6 +33655,20 @@
       ""
     ],
     "synonyms_chinese": []
+  },
+  {
+    "id": 97853,
+    "title_chinese": "Mobile Suit Gundam Thunderbolt 2",
+    "title_japanese": "機動戦士ガンダム サンダーボルト 2",
+    "title_romaji": "Kidou Senshi Gundam Thunderbolt 2",
+    "title_english": "Mobile Suit Gundam Thunderbolt 2",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": [
+      "機動戰士高達 雷霆戰線 2",
+      "機動戰士高達 雷霆宙域 2"
+    ]
   },
   {
     "id": 97854,
@@ -33340,6 +33692,31 @@
     ],
     "synonyms_chinese": [
       "一間房"
+    ]
+  },
+  {
+    "id": 97862,
+    "title_chinese": "Love米 -WE LOVE RICE-",
+    "title_japanese": "ラブ米 -WE LOVE RICE-",
+    "title_romaji": "Love Kome: WE LOVE RICE",
+    "title_english": "Love Kome: WE LOVE RICE",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": []
+  },
+  {
+    "id": 97874,
+    "title_chinese": "FRAME ARMS GIRL",
+    "title_japanese": "フレームアームズ・ガール",
+    "title_romaji": "FRAME ARMS GIRL",
+    "title_english": "FRAME ARMS GIRL",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": [
+      "Frame Arms Girl 機甲少女",
+      "Frame Arms Girl 骨裝機娘"
     ]
   },
   {
@@ -33389,11 +33766,35 @@
     "synonyms_chinese": []
   },
   {
+    "id": 97903,
+    "title_chinese": "SAKURA QUEST",
+    "title_japanese": "サクラクエスト",
+    "title_romaji": "SAKURA QUEST",
+    "title_english": "SAKURA QUEST",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": [
+      "櫻花任務"
+    ]
+  },
+  {
     "id": 97905,
     "title_chinese": "ヌキどきッ! ~天使と悪魔の搾精バトル~ Revolution",
     "title_japanese": "ヌキどきッ! ~天使と悪魔の搾精バトル~ Revolution",
     "title_romaji": "Nuki Doki! Tenshi to Akuma no Sakusei Battle - Revolution",
     "title_english": "Nuki Doki! Tenshi to Akuma no Sakusei Battle - Revolution",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": []
+  },
+  {
+    "id": 97909,
+    "title_chinese": "喧嘩番長 乙女-Girl Beats Boys-",
+    "title_japanese": "喧嘩番長 乙女-Girl Beats Boys-",
+    "title_romaji": "Kenka Banchou Otome: Girl Beats Boys",
+    "title_english": "Kenka Banchou Otome: Girl Beats Boys",
     "synonyms": [
       ""
     ],
@@ -33422,6 +33823,30 @@
     "synonyms_chinese": []
   },
   {
+    "id": 97915,
+    "title_chinese": "小松先生 馬的小故事",
+    "title_japanese": "おそ松さん おうまでこばなし",
+    "title_romaji": "Osomatsu-san: Ouma de Kobanashi",
+    "title_english": "Mr. Osomatsu JRA Special 2016",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": [
+      "阿松 馬的小故事"
+    ]
+  },
+  {
+    "id": 97932,
+    "title_chinese": "王室教師海涅",
+    "title_japanese": "王室教師ハイネ",
+    "title_romaji": "Oushitsu Kyoushi Haine",
+    "title_english": "The Royal Tutor",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": []
+  },
+  {
     "id": 97936,
     "title_chinese": "魔裝學園HxH SP",
     "title_japanese": "Masou Gakuen HxH Specials",
@@ -33431,6 +33856,43 @@
       ""
     ],
     "synonyms_chinese": []
+  },
+  {
+    "id": 97938,
+    "title_chinese": "BORUTO -NARUTO NEXT GENERATIONS-",
+    "title_japanese": "BORUTO -NARUTO NEXT GENERATIONS-",
+    "title_romaji": "BORUTO: NARUTO NEXT GENERATIONS",
+    "title_english": "BORUTO: NARUTO NEXT GENERATIONS",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": [
+      "火影忍者 慕留人 火影新世代"
+    ]
+  },
+  {
+    "id": 97980,
+    "title_chinese": "Re:CREATORS",
+    "title_japanese": "Re:CREATORS（レクリエイターズ）",
+    "title_romaji": "Re:CREATORS",
+    "title_english": "Re:CREATORS",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": []
+  },
+  {
+    "id": 97983,
+    "title_chinese": "夏目友人帳 陸",
+    "title_japanese": "夏目友人帳 陸",
+    "title_romaji": "Natsume Yuujinchou Roku",
+    "title_english": "Natsume's Book of Friends Roku",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": [
+      "妖怪連絡簿 陸"
+    ]
   },
   {
     "id": 98004,
@@ -33465,6 +33927,17 @@
     "title_japanese": "超・少年探偵団NEO",
     "title_romaji": "Chou Shounen Tanteidan Neo",
     "title_english": "Chou Shounen Tanteidan Neo",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": []
+  },
+  {
+    "id": 98069,
+    "title_chinese": "怪物彈珠 2",
+    "title_japanese": "モンスターストライク 2",
+    "title_romaji": "Monster Strike 2",
+    "title_english": "Monster Strike 2",
     "synonyms": [
       ""
     ],
@@ -33517,6 +33990,20 @@
     ]
   },
   {
+    "id": 98107,
+    "title_chinese": "PriPara 偶像時間",
+    "title_japanese": "アイドルタイムプリパラ",
+    "title_romaji": "Idol Time PriPara",
+    "title_english": "Idol Time PriPara",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": [
+      "星光樂園 偶像時間",
+      "美妙天堂 偶像時間"
+    ]
+  },
+  {
     "id": 98153,
     "title_chinese": "超級彈丸論破2.5 狛枝凪斗與世界的破壞者",
     "title_japanese": "スーパーダンガンロンパ2.5 狛枝凪斗と世界の破壊者",
@@ -33524,6 +34011,28 @@
     "title_english": "SUPER DANGANRONPA 2.5 Komaeda Nagito to Sekai no Hakaimono",
     "synonyms": [
       "Super Danganronpa 2.5: Nagito Komaeda and the Destroyer of the World"
+    ],
+    "synonyms_chinese": []
+  },
+  {
+    "id": 98202,
+    "title_chinese": "月色真美",
+    "title_japanese": "月がきれい",
+    "title_romaji": "Tsuki ga Kirei",
+    "title_english": "Tsuki ga Kirei",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": []
+  },
+  {
+    "id": 98203,
+    "title_chinese": "與僧侶交合的色欲之夜",
+    "title_japanese": "僧侶と交わる色欲の夜に",
+    "title_romaji": "Souryo to Majiwaru Shikiyoku no Yoru ni",
+    "title_english": "Souryo to Majiwaru Shikiyoku no Yoru ni",
+    "synonyms": [
+      ""
     ],
     "synonyms_chinese": []
   },
@@ -33537,6 +34046,41 @@
       ""
     ],
     "synonyms_chinese": []
+  },
+  {
+    "id": 98231,
+    "title_chinese": "遊戯王VRAINS",
+    "title_japanese": "遊戯王VRAINS",
+    "title_romaji": "Yu-Gi-Oh VRAINS",
+    "title_english": "Yu-Gi-Oh VRAINS",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": []
+  },
+  {
+    "id": 98238,
+    "title_chinese": "Room Mate",
+    "title_japanese": "Room Mate",
+    "title_romaji": "Room Mate",
+    "title_english": "Room Mate",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": []
+  },
+  {
+    "id": 98239,
+    "title_chinese": "黑色推銷員NEW",
+    "title_japanese": "笑ゥせぇるすまんNEW",
+    "title_romaji": "Warau Salesman NEW",
+    "title_english": "Warau Salesman NEW",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": [
+      "笑面推銷員NEW"
+    ]
   },
   {
     "id": 98307,
@@ -33575,6 +34119,17 @@
     "synonyms_chinese": [
       "吹響吧！悠風號 2 SP"
     ]
+  },
+  {
+    "id": 98420,
+    "title_chinese": "信長的忍者 伊勢金金崎篇",
+    "title_japanese": "信長の忍び~伊勢・金ヶ崎篇~",
+    "title_romaji": "Nobunaga no Shinobi: Ise Kanegasaki-hen",
+    "title_english": "Nobunaga no Shinobi: Ise Kanegasaki-hen",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": []
   },
   {
     "id": 98436,
