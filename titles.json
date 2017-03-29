@@ -32568,7 +32568,9 @@
     "synonyms": [
       "Piacevole: My Italian Cooking"
     ],
-    "synonyms_chinese": []
+    "synonyms_chinese": [
+      "Piace: 我的義大利料理"
+    ]
   },
   {
     "id": 21847,
@@ -32890,6 +32892,18 @@
     "title_english": "Mahou Shoujo Nante Mouiidesukara. 2",
     "synonyms": [],
     "synonyms_chinese": []
+  },
+  {
+    "id": 21893,
+    "title_chinese": "Mobile Suit Gundam Thunderbolt December Sky",
+    "title_japanese": "機動戦士ガンダム サンダーボルト December Sky",
+    "title_romaji": "Kidou Senshi Gundam Thunderbolt: December Sky",
+    "title_english": "Mobile Suit Gundam Thunderbolt: December Sky",
+    "synonyms": [],
+    "synonyms_chinese": [
+      "機動戰士高達 雷霆戰線 December Sky",
+      "機動戰士高達 雷霆宙域 December Sky"
+    ]
   },
   {
     "id": 21894,
@@ -34004,6 +34018,20 @@
     ]
   },
   {
+    "id": 98143,
+    "title_chinese": "Thunderbolt Fantasy 東離劍遊紀",
+    "title_japanese": "Thunderbolt Fantasy 東離劍遊紀",
+    "title_romaji": "Thunderbolt Fantasy",
+    "title_english": "Thunderbolt Fantasy",
+    "synonyms": [
+      "Thunderbolt Fantasy: Tōriken Kōki",
+      "Thunderbolt Fantasy: Sword Travels from the East",
+      "",
+      ""
+    ],
+    "synonyms_chinese": []
+  },
+  {
     "id": 98153,
     "title_chinese": "超級彈丸論破2.5 狛枝凪斗與世界的破壞者",
     "title_japanese": "スーパーダンガンロンパ2.5 狛枝凪斗と世界の破壊者",
@@ -34118,6 +34146,20 @@
     ],
     "synonyms_chinese": [
       "吹響吧！悠風號 2 SP"
+    ]
+  },
+  {
+    "id": 98344,
+    "title_chinese": "悠悠式 OVA",
+    "title_japanese": "ゆゆ式 OVA「困らせたり、困らされたり」",
+    "title_romaji": "Yuyushiki OVA: Komarasetari, Komarasaretari",
+    "title_english": "Yuyushiki OVA: Komarasetari, Komarasaretari",
+    "synonyms": [
+      "Yuyushiki OVA"
+    ],
+    "synonyms_chinese": [
+      "校園大萌主 OVA",
+      "YUYU式 OVA"
     ]
   },
   {
