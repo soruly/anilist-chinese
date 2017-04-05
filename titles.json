@@ -33519,7 +33519,9 @@
     "synonyms": [
       "Cingeki"
     ],
-    "synonyms_chinese": []
+    "synonyms_chinese": [
+      "灰姑娘女孩劇場"
+    ]
   },
   {
     "id": 97773,
@@ -34232,5 +34234,16 @@
     "synonyms_chinese": [
       "廢天使加百列"
     ]
+  },
+  {
+    "id": 98548,
+    "title_chinese": "斯特拉的魔法 OVA",
+    "title_japanese": "ステラのまほう OVA",
+    "title_romaji": "Stella no Mahou OVA",
+    "title_english": "MAGIC OF STELLA OVA",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": []
   }
 ]
