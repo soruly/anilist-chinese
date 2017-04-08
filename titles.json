@@ -30085,8 +30085,10 @@
     ],
     "synonyms_chinese": [
       "正確的KADO",
+      "正解的卡多",
       "正解卡多",
-      "正解何方"
+      "正解何方",
+      "魔方:正解"
     ]
   },
   {
@@ -33902,7 +33904,9 @@
     "synonyms": [
       ""
     ],
-    "synonyms_chinese": []
+    "synonyms_chinese": [
+      "Re:創世主們"
+    ]
   },
   {
     "id": 97983,
@@ -34213,6 +34217,17 @@
     "title_japanese": "信長の忍び~伊勢・金ヶ崎篇~",
     "title_romaji": "Nobunaga no Shinobi: Ise Kanegasaki-hen",
     "title_english": "Nobunaga no Shinobi: Ise Kanegasaki-hen",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": []
+  },
+  {
+    "id": 98421,
+    "title_chinese": "莉露莉露Fairilu～魔法之鏡～",
+    "title_japanese": "リルリルフェアリル ~魔法の鏡~",
+    "title_romaji": "Rilu Rilu Fairilu: Mahou no Kagami",
+    "title_english": "Rilu Rilu Fairilu: Mahou no Kagami",
     "synonyms": [
       ""
     ],
