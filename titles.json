@@ -31599,7 +31599,10 @@
     "title_romaji": "eromanga sensei",
     "title_english": "eromanga sensei",
     "synonyms": [],
-    "synonyms_chinese": []
+    "synonyms_chinese": [
+      "我的妹妹是黃漫老師",
+      "埃羅芒阿老師"
+    ]
   },
   {
     "id": 21686,
@@ -33980,6 +33983,17 @@
       "Homeguard",
       "",
       "",
+      ""
+    ],
+    "synonyms_chinese": []
+  },
+  {
+    "id": 98059,
+    "title_chinese": "KiraKira☆光之美少女 A La Mode",
+    "title_japanese": "キラキラ☆プリキュアアラモード",
+    "title_romaji": "Kirakira☆Precure A la mode",
+    "title_english": "Kirakira☆Precure A la mode",
+    "synonyms": [
       ""
     ],
     "synonyms_chinese": []
