@@ -21623,6 +21623,19 @@
     "synonyms_chinese": []
   },
   {
+    "id": 17641,
+    "title_chinese": "Date A Live OV",
+    "title_japanese": "デート・ア・ライブ OVA",
+    "title_romaji": "DATE A LIVE OVA",
+    "title_english": "Date A Live OVA",
+    "synonyms": [
+      "Date A Live Episode 13"
+    ],
+    "synonyms_chinese": [
+      "約會大作戰 OV"
+    ]
+  },
+  {
     "id": 17651,
     "title_chinese": "穿透幻影的太陽",
     "title_japanese": "幻影ヲ駆ケル太陽",
@@ -25562,6 +25575,17 @@
       "LoveLive! 學園偶像電影",
       "明星學生妹 劇場版",
       "學園偶像祭 劇場版"
+    ]
+  },
+  {
+    "id": 20767,
+    "title_chinese": "Date A Live Encore",
+    "title_japanese": "デート・ア・ライブ　アンコール",
+    "title_romaji": "DATE A LIVE: Encore",
+    "title_english": "DATE A LIVE: Encore",
+    "synonyms": [],
+    "synonyms_chinese": [
+      "約會大作戰"
     ]
   },
   {
@@ -32930,7 +32954,7 @@
     "title_romaji": "Sengoku Choujuu Giga",
     "title_english": "Sengoku Choujuu Giga",
     "synonyms": [
-      ""
+      "Sengokuchojugiga"
     ],
     "synonyms_chinese": []
   },
