@@ -26750,6 +26750,15 @@
     "synonyms_chinese": []
   },
   {
+    "id": 20954,
+    "title_chinese": "聲之形",
+    "title_japanese": "聲の形",
+    "title_romaji": "Koe no Katachi",
+    "title_english": "A Silent Voice",
+    "synonyms": [],
+    "synonyms_chinese": []
+  },
+  {
     "id": 20955,
     "title_chinese": "六花的勇者",
     "title_japanese": "六花の勇者",
@@ -29805,6 +29814,17 @@
     "title_romaji": "Okusama wa Moto Yariman",
     "title_english": "Okusama wa Moto Yariman",
     "synonyms": [],
+    "synonyms_chinese": []
+  },
+  {
+    "id": 21403,
+    "title_chinese": "劇場版 Sword Art Online 序列爭戰",
+    "title_japanese": "劇場版 ソードアート・オンライン -オーディナル・スケール-",
+    "title_romaji": "SWORD ART ONLINE Movie: Ordinal Scale",
+    "title_english": "Sword Art Online the Movie: Ordinal Scale",
+    "synonyms": [
+      "SAO THE MOVIE"
+    ],
     "synonyms_chinese": []
   },
   {
@@ -34323,6 +34343,17 @@
     "title_japanese": "ステラのまほう OVA",
     "title_romaji": "Stella no Mahou OVA",
     "title_english": "MAGIC OF STELLA OVA",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": []
+  },
+  {
+    "id": 98579,
+    "title_chinese": "變形少女",
+    "title_japanese": "変形少女",
+    "title_romaji": "Henkei Shoujo",
+    "title_english": "Henkei Shoujo",
     "synonyms": [
       ""
     ],
