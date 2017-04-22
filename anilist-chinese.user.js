@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      0.1
+// @version      0.2
 // @description  Translate anime titles to Chinese
 // @author       soruly
 // @grant        none
@@ -40,14 +40,13 @@ var translate = function(){
         idSearchList = [];
         if(data.hits.total > 0){
             var info = data.hits.hits[0]._source;
-            $(".series__banner__title").text(info.title_chinese);
-            $('<div>', {class: 'data__row', html:'<div translate><span>Chinese</span></div><div>'+info.title_chinese+'</div>'}).appendTo($("div.series__data"));
+            $('<div>', {html:'<span translate><span>Chinese</span></span><span>'+info.title_chinese+'</span>'}).appendTo($("div.series__data"));
             var synonyms_chinese = "";
             if(info.synonyms_chinese){
                 $(info.synonyms_chinese).each(function(index,synonym){
-                    synonyms_chinese += '<span>'+synonym+'<br></span>';
+                    synonyms_chinese += '<span style="display:block">'+synonym+'</span>';
                 });
-                $('<div>', {class: 'data__row data__row--list', html:'<div translate><span>Synonyms Chinese</span></div><div>'+synonyms_chinese+'</div>'}).appendTo($("div.series__data"));
+                $('<div>', {html:'<span translate><span>Synonyms Chinese</span></span><span class="data__list">'+synonyms_chinese+'</span>'}).appendTo($("div.series__data"));
             }
         }
     });
@@ -98,15 +97,22 @@ var myDOMNodeInsertedAction = function () {
             if(window.location.pathname.indexOf('/anime/') === 0)
                 translate();
         }
-        
+        // legacy lists
         if(window.location.pathname.indexOf('/animelist/') === 0){
             batchTranslate(".row__title a");
+        }
+        // series list
+        if(window.location.pathname.indexOf('/user/') === 0){
+            batchTranslate(".base-serieslist.anime .title>a");
         }
         if(window.location.pathname.indexOf('/browse/anime') === 0 || window.location.pathname.indexOf('/search') === 0){
             batchTranslate(".cover__data a");
         }
         if(window.location.pathname.indexOf('/home') === 0 || window.location.pathname.indexOf('/user/') === 0){
             batchTranslate(".activity__list>a");
+        }
+        if(window.location.pathname.indexOf('/home') === 0){
+            batchTranslate(".quicklist__title>a");
         }
     },500);
 };
