@@ -8177,6 +8177,15 @@
     "synonyms_chinese": []
   },
   {
+    "id": 2695,
+    "title_chinese": "Gundam 0083 吉翁的殘光",
+    "title_japanese": "機動戦士ガンダム0083 －ジオンの残光－",
+    "title_romaji": "Kidou Senshi Gundam 0083 - Zeon no Zankou -",
+    "title_english": "Mobile Suit Gundam 0083: The Afterglow Of Zeon",
+    "synonyms": [],
+    "synonyms_chinese": []
+  },
+  {
     "id": 2746,
     "title_chinese": "Vexille 2077日本鎖國",
     "title_japanese": "ベクシル 2077日本鎖国",
@@ -27365,7 +27374,7 @@
   {
     "id": 21049,
     "title_chinese": "ReLIFE",
-    "title_japanese": "リライフ",
+    "title_japanese": "ReLIFE",
     "title_romaji": "ReLife",
     "title_english": "ReLife",
     "synonyms": [],
@@ -31603,7 +31612,9 @@
     "title_japanese": "ダンジョンに出会いを求めるのは間違っているだろうか外伝 ソード・オラトリア",
     "title_romaji": "Dungeon ni Deai o Motomeru no wa Machigatteiru Darou ka Gaiden: Sword Oratoria",
     "title_english": "Is It Wrong to Try and Pick Up Girls in a Dungeon? Gaiden: Sword Oratoria",
-    "synonyms": [],
+    "synonyms": [
+      "Is It Wrong to Hope to Meet a Girl in a Dungeon? On the Side: Sword Oratoria"
+    ],
     "synonyms_chinese": []
   },
   {
@@ -31688,8 +31699,8 @@
     "id": 21691,
     "title_chinese": "食戟之靈 OVA",
     "title_japanese": "食戟のソーマ OVA",
-    "title_romaji": "Shokugeki No Souma Ova",
-    "title_english": "Shokugeki No Souma Ova",
+    "title_romaji": "Shokugeki No Souma OVA",
+    "title_english": "Shokugeki No Souma OVA",
     "synonyms": [],
     "synonyms_chinese": []
   },
@@ -31957,9 +31968,9 @@
   {
     "id": 21729,
     "title_chinese": "KINGSGLAIVE FINAL FANTASY XV",
-    "title_japanese": "Kingsglaive Final Fantasy Xv",
-    "title_romaji": "Kingsglaive Final Fantasy Xv",
-    "title_english": "Kingsglaive Final Fantasy Xv",
+    "title_japanese": "Kingsglaive Final Fantasy XV",
+    "title_romaji": "Kingsglaive Final Fantasy XV",
+    "title_english": "Kingsglaive Final Fantasy XV",
     "synonyms": [],
     "synonyms_chinese": []
   },
@@ -33913,6 +33924,17 @@
     "synonyms_chinese": []
   },
   {
+    "id": 97914,
+    "title_chinese": "貴方ハ私ノモノ",
+    "title_japanese": "貴方ハ私ノモノ",
+    "title_romaji": "Anata wa Watashi no Mono",
+    "title_english": "Anata wa Watashi no Mono",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": []
+  },
+  {
     "id": 97915,
     "title_chinese": "小松先生 馬的小故事",
     "title_japanese": "おそ松さん おうまでこばなし",
@@ -34073,13 +34095,24 @@
     "synonyms_chinese": []
   },
   {
+    "id": 98078,
+    "title_chinese": "冥刻學園受胎編",
+    "title_japanese": "冥刻學園受胎編",
+    "title_romaji": "Meikoku Gakuen Jutai Hen",
+    "title_english": "Meikoku Gakuen Jutai Hen",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": []
+  },
+  {
     "id": 98079,
     "title_chinese": "桃色望遠鏡 Anime Edition",
     "title_japanese": "桃色望遠鏡 Anime Edition",
     "title_romaji": "Momoiro Bouenkyou Anime Edition",
     "title_english": "Momoiro Bouenkyou Anime Edition",
     "synonyms": [
-      ""
+      "The Pink Telescope"
     ],
     "synonyms_chinese": []
   },
@@ -34251,11 +34284,33 @@
     "synonyms_chinese": []
   },
   {
+    "id": 98306,
+    "title_chinese": "ずっと好きだった",
+    "title_japanese": "ずっと好きだった",
+    "title_romaji": "Zutto Suki Datta",
+    "title_english": "Zutto Suki Datta",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": []
+  },
+  {
     "id": 98307,
     "title_chinese": "一年ぶりの THE ANIMATION",
     "title_japanese": "一年ぶりの THE ANIMATION",
     "title_romaji": "Ichinen Buri no The Animation",
     "title_english": "Ichinen Buri no The Animation",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": []
+  },
+  {
+    "id": 98309,
+    "title_chinese": "ボクとみさき先生",
+    "title_japanese": "ボクとみさき先生",
+    "title_romaji": "Boku to Misaki-sensei",
+    "title_english": "Boku to Misaki-sensei",
     "synonyms": [
       ""
     ],
@@ -34325,6 +34380,28 @@
     "synonyms_chinese": []
   },
   {
+    "id": 98432,
+    "title_chinese": "学園侵触 XX of the DEAD",
+    "title_japanese": "学園侵触 XX of the DEAD",
+    "title_romaji": "Gakuen Shinshoku: XX of the Dead",
+    "title_english": "Gakuen Shinshoku: XX of the Dead",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": []
+  },
+  {
+    "id": 98433,
+    "title_chinese": "ヤリモクビーチに修学旅行で!! THE ANIMATION",
+    "title_japanese": "ヤリモクビーチに修学旅行で!! THE ANIMATION",
+    "title_romaji": "Yarimoku Beach ni Shuugakuryokou de!! The Animation",
+    "title_english": "Yarimoku Beach ni Shuugakuryokou de!! The Animation",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": []
+  },
+  {
     "id": 98436,
     "title_chinese": "魔法使的新娘",
     "title_japanese": "魔法使いの嫁",
@@ -34353,7 +34430,7 @@
     "title_romaji": "Daraku Reijyou",
     "title_english": "Daraku Reijyou",
     "synonyms": [
-      ""
+      "Daraku Reijou"
     ],
     "synonyms_chinese": []
   },
