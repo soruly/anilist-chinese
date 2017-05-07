@@ -20155,6 +20155,20 @@
     "synonyms_chinese": []
   },
   {
+    "id": 15227,
+    "title_chinese": "這個世界的角落",
+    "title_japanese": "この世界の片隅に",
+    "title_romaji": "Kono Sekai no Katasumi ni",
+    "title_english": "In This Corner of the World",
+    "synonyms": [
+      "To All the Corners of the World",
+      "In This Corner of the World"
+    ],
+    "synonyms_chinese": [
+      "謝謝你，在世界角落中找到我"
+    ]
+  },
+  {
     "id": 15307,
     "title_chinese": "電影 Smile 光之美少女! 兒童圖畫書裡的世界都不協調！",
     "title_japanese": "映画 スマイルプリキュア! 絵本の中はみんなチグハグ!",
@@ -28892,6 +28906,17 @@
     "synonyms_chinese": []
   },
   {
+    "id": 21265,
+    "title_chinese": "遊戲王 次元之暗面",
+    "title_japanese": "遊☆戯☆王 THE DARK SIDE OF DIMENTSIONS",
+    "title_romaji": "Yu☆Gi☆Oh!: The Dark Side of Dimensions",
+    "title_english": "Yu☆Gi☆Oh!: The Dark Side of Dimensions",
+    "synonyms": [
+      "Yu-Gi-Oh!: The Dark Side of Dimensions"
+    ],
+    "synonyms_chinese": []
+  },
+  {
     "id": 21266,
     "title_chinese": "寵物小精靈劇場版 光環的超魔神 胡帕",
     "title_japanese": "ポケモン・ザ・ムービーXY『光輪（リング）の超魔神 フーパ』",
@@ -32206,6 +32231,15 @@
     ]
   },
   {
+    "id": 21766,
+    "title_chinese": "ZEGAPAIN ADP",
+    "title_japanese": "ゼーガペイン ADP",
+    "title_romaji": "Zegapain ADP",
+    "title_english": "Zegapain ADP",
+    "synonyms": [],
+    "synonyms_chinese": []
+  },
+  {
     "id": 21769,
     "title_chinese": "果然我的青春戀愛喜劇搞錯了。續 OVA",
     "title_japanese": "やはり俺の青春ラブコメはまちがっている. 続 きっと、女の子はお砂糖とスパイスと素敵な何かでできている。",
@@ -33793,6 +33827,28 @@
     "synonyms_chinese": [
       "一間房"
     ]
+  },
+  {
+    "id": 97858,
+    "title_chinese": "結城友奈是勇者 -鷲尾須美篇-",
+    "title_japanese": "結城友奈は勇者である -鷲尾須美の章-",
+    "title_romaji": "Yuuki Yuuna wa Yuusha de Aru: Washio Sumi no Shou",
+    "title_english": "YUKI YUNA IS A HERO: Washio Sumi no Shou",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": []
+  },
+  {
+    "id": 97859,
+    "title_chinese": "結城友奈是勇者 -鷲尾須美篇- 2",
+    "title_japanese": "結城友奈は勇者である -鷲尾須美の章- 2",
+    "title_romaji": "Yuuki Yuuna wa Yuusha de Aru: Washio Sumi no Shou 2",
+    "title_english": "YUKI YUNA IS A HERO: Washio Sumi no Shou 2",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": []
   },
   {
     "id": 97862,
