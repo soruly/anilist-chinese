@@ -25075,7 +25075,9 @@
     "title_japanese": "sin 七つの大罪",
     "title_romaji": "Sin Nanatsu no Taizai",
     "title_english": "Seven Mortal Sins",
-    "synonyms": [],
+    "synonyms": [
+      "Sin: The 7 Deadly Sins"
+    ],
     "synonyms_chinese": []
   },
   {
@@ -32015,7 +32017,7 @@
     "id": 21732,
     "title_chinese": "planetarian ～星之夢～",
     "title_japanese": "planetarian～ちいさなほしのゆめ～",
-    "title_romaji": "planetarian: Chiisana Hoshi no Yume",
+    "title_romaji": "Planetarian: Chiisana Hoshi no Yume",
     "title_english": "Planetarian",
     "synonyms": [
       "planetarian: The Reverie of a Little Planet"
@@ -32254,8 +32256,8 @@
     "id": 21771,
     "title_chinese": "planetarian ～星之人～",
     "title_japanese": "planetarian～星の人～",
-    "title_romaji": "planetarian: Hoshi no Hito",
-    "title_english": "planetarian: Hoshi no Hito",
+    "title_romaji": "Planetarian: Hoshi no Hito",
+    "title_english": "Planetarian: Hoshi no Hito",
     "synonyms": [],
     "synonyms_chinese": []
   },
