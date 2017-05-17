@@ -15984,6 +15984,15 @@
     ]
   },
   {
+    "id": 10258,
+    "title_chinese": "蟑螂娘",
+    "title_japanese": "ごきチャ!!",
+    "title_romaji": "Gokicha!! Cockroach Girl!",
+    "title_english": "Gokicha!! Cockroach Girl!",
+    "synonyms": [],
+    "synonyms_chinese": []
+  },
+  {
     "id": 10271,
     "title_chinese": "賭博破戒錄 逆境無賴開司 破戒錄篇",
     "title_japanese": "逆境無頼カイジ 破戒録篇",
@@ -33203,6 +33212,21 @@
     ]
   },
   {
+    "id": 87528,
+    "title_chinese": "Black Clover OVA",
+    "title_japanese": "ブラッククローバー",
+    "title_romaji": "BLACK CLOVER: Jump Festa 2016 Special",
+    "title_english": "Black Clover: Jump Festa 2016 Special",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": [
+      "黑色五葉草",
+      "黑色四葉草",
+      "黑色三葉草"
+    ]
+  },
+  {
     "id": 87530,
     "title_chinese": "Dream Festival",
     "title_japanese": "ドリフェス！",
@@ -34067,6 +34091,21 @@
     ]
   },
   {
+    "id": 97940,
+    "title_chinese": "Black Clover",
+    "title_japanese": "ブラッククローバー",
+    "title_romaji": "Black Clover",
+    "title_english": "Black Clover",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": [
+      "黑色五葉草",
+      "黑色四葉草",
+      "黑色三葉草"
+    ]
+  },
+  {
     "id": 97980,
     "title_chinese": "Re:CREATORS",
     "title_japanese": "Re:Creators（レクリエイターズ）",
@@ -34540,6 +34579,17 @@
     "synonyms_chinese": [
       "廢天使加百列"
     ]
+  },
+  {
+    "id": 98527,
+    "title_chinese": "第二次裏入学試験 THE ANIMATION",
+    "title_japanese": "第二次裏入学試験 THE ANIMATION",
+    "title_romaji": "Dainiji Ura Nyuugakushiken The Animation",
+    "title_english": "Dainiji Ura Nyuugakushiken The Animation",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": []
   },
   {
     "id": 98548,
