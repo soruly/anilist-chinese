@@ -32742,7 +32742,7 @@
     "title_romaji": "Busou Shoujo Machiavellianism",
     "title_english": "Armed Girl's Machiavellism",
     "synonyms": [
-      "Armed Girl's Machiavellism"
+      ""
     ],
     "synonyms_chinese": []
   },
@@ -34671,5 +34671,32 @@
       ""
     ],
     "synonyms_chinese": []
+  },
+  {
+    "id": 98768,
+    "title_chinese": "妻が温泉でサークル仲間の肉便器になったのですが... Anime Edition",
+    "title_japanese": "妻が温泉でサークル仲間の肉便器になったのですが... Anime Edition",
+    "title_romaji": "Tsuma ga Onsen de Circle Nakama no Nikubenki ni Natta no Desu ga... Anime Edition",
+    "title_english": "Tsuma ga Onsen de Circle Nakama no Nikubenki ni Natta no Desu ga... Anime Edition",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": []
+  },
+  {
+    "id": 98814,
+    "title_chinese": "Dimension W OVA",
+    "title_japanese": "ディメンション ダブリュー Special",
+    "title_romaji": "Dimension W Special",
+    "title_english": "Dimension W Special",
+    "synonyms": [
+      "Dimension W OVA",
+      "",
+      "",
+      ""
+    ],
+    "synonyms_chinese": [
+      "Dimension W ～維度戰記～ OVA"
+    ]
   }
 ]
