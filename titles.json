@@ -34173,11 +34173,12 @@
   {
     "id": 98031,
     "title_chinese": "Spiritpact",
-    "title_japanese": "SpiritPact",
-    "title_romaji": "SpiritPact",
-    "title_english": "SpiritPact",
+    "title_japanese": "灵契",
+    "title_romaji": "Ling Qi",
+    "title_english": "Spirit Pact",
     "synonyms": [
-      "Spirit Pact",
+      "Soul Contract",
+      " Spirit Contract",
       "スピリットパクト"
     ],
     "synonyms_chinese": [
@@ -34556,7 +34557,7 @@
     "title_romaji": "Yarimoku Beach ni Shuugakuryokou de!! The Animation",
     "title_english": "Yarimoku Beach ni Shuugakuryokou de!! The Animation",
     "synonyms": [
-      ""
+      "Field Trip to the Beach: The Animation"
     ],
     "synonyms_chinese": []
   },
