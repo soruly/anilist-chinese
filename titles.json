@@ -29849,7 +29849,7 @@
     "title_chinese": "傷物語 II 熱血篇",
     "title_japanese": "傷物語〈Ⅱ熱血篇〉",
     "title_romaji": "Kizumonogatari II - Nekketsu-hen",
-    "title_english": "Kizumonogatari II - Nekketsu-hen",
+    "title_english": "Kizumonogatari Part 2: Nekketsu",
     "synonyms": [],
     "synonyms_chinese": []
   },
@@ -29858,8 +29858,10 @@
     "title_chinese": "傷物語 III 冷血篇",
     "title_japanese": "傷物語〈Ⅲ冷血篇〉",
     "title_romaji": "Kizumonogatari III - Reiketsu-hen",
-    "title_english": "Kizumonogatari III - Reiketsu-hen",
-    "synonyms": [],
+    "title_english": "Kizumonogatari Part 3: Reiketsu",
+    "synonyms": [
+      ""
+    ],
     "synonyms_chinese": []
   },
   {
@@ -31718,7 +31720,9 @@
     "title_japanese": "エロマンガ先生",
     "title_romaji": "Eromanga Sensei",
     "title_english": "Eromanga Sensei",
-    "synonyms": [],
+    "synonyms": [
+      "Ero Manga Sensei"
+    ],
     "synonyms_chinese": [
       "我的妹妹是黃漫老師",
       "埃羅芒阿老師"
