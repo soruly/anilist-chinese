@@ -25725,7 +25725,9 @@
     "title_japanese": "ランス01 光をもとめて THE ANIMATION",
     "title_romaji": "Rance 01: Hikari wo Motomete The Animation",
     "title_english": "Rance 01: Hikari wo Motomete The Animation",
-    "synonyms": [],
+    "synonyms": [
+      "Rance 01: The Quest for Hikari"
+    ],
     "synonyms_chinese": []
   },
   {
@@ -29568,7 +29570,10 @@
     "title_japanese": "大家さんは思春期！",
     "title_romaji": "Ooya-san wa Shishunki!",
     "title_english": "Ooya-san wa Shishunki!",
-    "synonyms": [],
+    "synonyms": [
+      "Ooyasan wa Shishunki!",
+      "Landlord is in Puberty!"
+    ],
     "synonyms_chinese": [
       "房東思春期",
       "蘿莉房東思春期"
@@ -29579,9 +29584,9 @@
     "title_chinese": "逆轉裁判",
     "title_japanese": "逆転裁判 その『真実』、異議あり！",
     "title_romaji": "Gyakuten Saiban: Sono \"Shinjitsu\", Igi Ari!",
-    "title_english": "Ace Attorney",
+    "title_english": "Phoenix Wright: Ace Attorney",
     "synonyms": [
-      "Phoenix Wright: Ace Attorney"
+      ""
     ],
     "synonyms_chinese": []
   },
