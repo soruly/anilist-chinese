@@ -24152,10 +24152,10 @@
     "title_romaji": "Hanamonogatari",
     "title_english": "Hanamonogatari",
     "synonyms": [
-      "Suruga Devil",
-      "Flower Story",
-      "〈物語〉シリーズ セカンドシーズン+α",
-      "Monogatari Series: Second Season +α"
+      "",
+      "",
+      "",
+      ""
     ],
     "synonyms_chinese": []
   },
@@ -24754,7 +24754,7 @@
     "title_english": "Terror in Resonance",
     "synonyms": [
       "Terror in Tokyo",
-      "Echo's Terror"
+      ""
     ],
     "synonyms_chinese": [
       "恐怖殘響"
@@ -24787,11 +24787,11 @@
   {
     "id": 20664,
     "title_chinese": "PSYCHO-PASS 新編集版",
-    "title_japanese": "Psycho-Pass サイコパス 新編集版",
+    "title_japanese": "PSYCHO-PASS サイコパス 新編集版",
     "title_romaji": "Psycho-Pass Shin Henshuu-ban",
     "title_english": "Psycho-Pass Shin Henshuu-ban",
     "synonyms": [
-      "Project Re:START 01"
+      ""
     ],
     "synonyms_chinese": [
       "心靈判官 新編集版"
@@ -26828,7 +26828,10 @@
     "title_japanese": "進撃の巨人 2",
     "title_romaji": "Shingeki no Kyojin 2",
     "title_english": "Attack on Titan 2",
-    "synonyms": [],
+    "synonyms": [
+      "SnK 2",
+      "AoT 2"
+    ],
     "synonyms_chinese": []
   },
   {
@@ -27645,7 +27648,9 @@
     "title_japanese": "ワンパンマン",
     "title_romaji": "One Punch Man",
     "title_english": "One Punch Man",
-    "synonyms": [],
+    "synonyms": [
+      "OPM"
+    ],
     "synonyms_chinese": []
   },
   {
@@ -31670,7 +31675,8 @@
     "title_romaji": "Dungeon ni Deai o Motomeru no wa Machigatteiru Darou ka Gaiden: Sword Oratoria",
     "title_english": "Is It Wrong to Try and Pick Up Girls in a Dungeon? Gaiden: Sword Oratoria",
     "synonyms": [
-      "Is It Wrong to Hope to Meet a Girl in a Dungeon? On the Side: Sword Oratoria"
+      "Is It Wrong to Hope to Meet a Girl in a Dungeon? On the Side: Sword Oratoria",
+      "Danmachi Sword Oratoria"
     ],
     "synonyms_chinese": []
   },
@@ -32471,7 +32477,8 @@
     "title_romaji": "Kubikiri Cycle: Aoiro Savant to Zaregototsukai",
     "title_english": "Kubikiri Cycle: Aoiro Savant to Zaregototsukai",
     "synonyms": [
-      "Zaregoto Series"
+      "Zaregoto Series",
+      "The Beheading Cycle"
     ],
     "synonyms_chinese": []
   },
