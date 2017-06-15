@@ -23568,7 +23568,11 @@
     "title_japanese": "アルモニ",
     "title_romaji": "Harmonie",
     "title_english": "Harmonie",
-    "synonyms": [],
+    "synonyms": [
+      "Wakate Animator Ikusei Project",
+      "2014 Young Animator Training Project",
+      "Anime Mirai 2014"
+    ],
     "synonyms_chinese": [
       "動畫未來2014"
     ]
@@ -23578,9 +23582,13 @@
     "title_chinese": "帕羅的未來島",
     "title_japanese": "パロルのみらい島",
     "title_romaji": "Parol no Mirai Shima",
-    "title_english": "Parol no Mirai Shima",
+    "title_english": "Paroru's Future Island",
     "synonyms": [
-      "Paroru no Miraijima"
+      "Paroru no Miraijima",
+      "Paro no Mirai Shima",
+      " Wakate Animator Ikusei Project",
+      " 2014 Young Animator Training Project",
+      " Anime Mirai 2014"
     ],
     "synonyms_chinese": [
       "動畫未來2014"
@@ -23602,8 +23610,16 @@
     "title_chinese": "一年級大個子二年級小個子",
     "title_japanese": "大きい1年生と小さな2年生",
     "title_romaji": "Ookii 1 Nensei to Chiisana 2 Nensei",
-    "title_english": "Ookii 1 Nensei to Chiisana 2 Nensei",
-    "synonyms": [],
+    "title_english": "The Big First-Grader and the Small Second-Grader",
+    "synonyms": [
+      "Oukii Ichinensei to Chiisana Ninensei",
+      "Wakate Animator Ikusei Project",
+      "2014 Young Animator Training Project",
+      "Anime Mirai 2014",
+      "",
+      "",
+      ""
+    ],
     "synonyms_chinese": [
       "動畫未來2014"
     ]
@@ -23614,7 +23630,13 @@
     "title_japanese": "黒の栖 -Chronus-",
     "title_romaji": "Kuro no Sumika -Chronus-",
     "title_english": "Kuro no Sumika -Chronus-",
-    "synonyms": [],
+    "synonyms": [
+      "Kuro no Sumika",
+      "-Chronus-",
+      "Wakate Animator Ikusei Project",
+      "2014 Young Animator Training Project",
+      "Anime Mirai 2014"
+    ],
     "synonyms_chinese": [
       "動畫未來2014"
     ]
@@ -25768,9 +25790,9 @@
   {
     "id": 20787,
     "title_chinese": "Chain Chronicle OVA",
-    "title_japanese": "チェインクロニクル",
-    "title_romaji": "Chain Chronicle",
-    "title_english": "Chain Chronicle",
+    "title_japanese": "チェインクロニクル ~ショートアニメ~",
+    "title_romaji": "Chain Chronicle: Short Animation",
+    "title_english": "Chain Chronicle: Short Animation",
     "synonyms": [],
     "synonyms_chinese": []
   },
@@ -27528,7 +27550,11 @@
     "title_japanese": "アキの奏で",
     "title_romaji": "Aki no Kanade",
     "title_english": "Aki no Kanade",
-    "synonyms": [],
+    "synonyms": [
+      "Wakate Animator Ikusei Project",
+      "2015 Young Animator Training Project",
+      "Anime Mirai 2015"
+    ],
     "synonyms_chinese": [
       "動畫未來2015"
     ]
@@ -27539,7 +27565,12 @@
     "title_japanese": "ハッピーカムカム",
     "title_romaji": "Happy ComeCome",
     "title_english": "Happy ComeCome",
-    "synonyms": [],
+    "synonyms": [
+      "Happy★ComeCome",
+      "Wakate Animator Ikusei Project",
+      "2015 Young Animator Training Project",
+      "Anime Mirai 2015"
+    ],
     "synonyms_chinese": [
       "動畫未來2015"
     ]
@@ -27550,7 +27581,11 @@
     "title_japanese": "音楽少女",
     "title_romaji": "Ongaku Shoujo",
     "title_english": "Ongaku Shoujo",
-    "synonyms": [],
+    "synonyms": [
+      "Wakate Animator Ikusei Project",
+      "2015 Young Animator Training Project",
+      "Anime Mirai 2015"
+    ],
     "synonyms_chinese": [
       "動畫未來2015"
     ]
@@ -27561,7 +27596,11 @@
     "title_japanese": "クミとチューリップ",
     "title_romaji": "Kumi to Tulip",
     "title_english": "Kumi to Tulip",
-    "synonyms": [],
+    "synonyms": [
+      "Wakate Animator Ikusei Project",
+      "2015 Young Animator Training Project",
+      "Anime Mirai 2015"
+    ],
     "synonyms_chinese": [
       "動畫未來2015"
     ]
@@ -29849,7 +29888,11 @@
     "title_japanese": "風の又三郎",
     "title_romaji": "Kaze no Matasaburou",
     "title_english": "Kaze no Matasaburou",
-    "synonyms": [],
+    "synonyms": [
+      "Wakate Animator Ikusei Project",
+      "2016 Young Animator Training Project",
+      "Anime Tamago 2016"
+    ],
     "synonyms_chinese": [
       "動畫未來2016"
     ]
@@ -30512,7 +30555,11 @@
     "title_japanese": "霊剣山　星屑たちの宴",
     "title_romaji": "Reikenzan: Hoshikuzu-tachi no Utage",
     "title_english": "Reikenzan: Hoshikuzu-tachi no Utage",
-    "synonyms": [],
+    "synonyms": [
+      "Ling Jian Shan",
+      "Lingjianshan",
+      "Spirit Blade Mountain"
+    ],
     "synonyms_chinese": [
       "從前有座靈劍山"
     ]
@@ -32116,7 +32163,12 @@
     "title_japanese": "霊剣山 叡智への資格",
     "title_romaji": "Reikenzan: Eichi e no Shikaku",
     "title_english": "Reikenzan: Eichi e no Shikaku",
-    "synonyms": [],
+    "synonyms": [
+      "Ling Jian Shan",
+      "Lingjianshan",
+      "Spirit Blade Mountain",
+      "Reikenzan: Hoshikuzu-tachi no Utage 2nd Season"
+    ],
     "synonyms_chinese": [
       "從前有座靈劍山 通往睿智的資格"
     ]
@@ -33615,7 +33667,7 @@
     "title_romaji": "nyanko-days",
     "title_english": "nyanko-days",
     "synonyms": [
-      ""
+      "Nyanko Days"
     ],
     "synonyms_chinese": [
       "喵咪Days",
