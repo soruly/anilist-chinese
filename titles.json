@@ -23961,9 +23961,9 @@
   {
     "id": 20552,
     "title_chinese": "遊戲王ARC-V",
-    "title_japanese": "遊☆戯☆王　アーク・ファイブ ARC-V",
-    "title_romaji": "Yu☆Gi☆Oh! Arc-V",
-    "title_english": "Yu☆Gi☆Oh! Arc-V",
+    "title_japanese": "遊☆戯☆王ARC-V（アーク・ファイブ）",
+    "title_romaji": "Yu-Gi-Oh! Arc-V",
+    "title_english": "Yu-Gi-Oh! Arc-V",
     "synonyms": [
       "Yugioh Arc-V"
     ],
@@ -26612,7 +26612,7 @@
     "id": 20920,
     "title_chinese": "在地下城尋求邂逅是否搞錯了什麼",
     "title_japanese": "ダンジョンに出会いを求めるのは間違っているだろうか",
-    "title_romaji": "Dungeon ni Deai o Motomeru no wa Machigatteiru Darou ka",
+    "title_romaji": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka",
     "title_english": "Is It Wrong to Try and Pick Up Girls in a Dungeon?",
     "synonyms": [
       "Danmachi"
@@ -28975,11 +28975,11 @@
   {
     "id": 21265,
     "title_chinese": "遊戲王 次元之暗面",
-    "title_japanese": "遊☆戯☆王 THE DARK SIDE OF DIMENTSIONS",
-    "title_romaji": "Yu☆Gi☆Oh!: The Dark Side of Dimensions",
-    "title_english": "Yu☆Gi☆Oh!: The Dark Side of Dimensions",
+    "title_japanese": "遊☆戯☆王 THE DARK SIDE OF DIMENSIONS",
+    "title_romaji": "Yu-Gi-Oh!: The Dark Side of Dimensions",
+    "title_english": "Yu-Gi-Oh!: The Dark Side of Dimensions",
     "synonyms": [
-      "Yu-Gi-Oh!: The Dark Side of Dimensions"
+      "Yu-Gi-Oh!: The Darkside of Dimensions"
     ],
     "synonyms_chinese": []
   },
@@ -31660,7 +31660,7 @@
     "id": 21660,
     "title_chinese": "在地下城尋求邂逅是否搞錯了什麼 FAMILIA MYTH",
     "title_japanese": "ダンジョンに出会いを求めるのは間違っているだろうか FAMILIA MYTH",
-    "title_romaji": "Dungeon ni Deai o Motomeru no wa Machigatteiru Darou ka: FAMILIA MYTH",
+    "title_romaji": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka: FAMILIA MYTH",
     "title_english": "Is It Wrong to Try to Pick Up Girls in a Dungeon? FAMILIA MYTH",
     "synonyms": [
       "DanMachi: FAMILIA MYTH"
@@ -31729,7 +31729,7 @@
     "id": 21676,
     "title_chinese": "在地下城尋求邂逅是否搞錯了什麼 外傳 劍姬神聖譚",
     "title_japanese": "ダンジョンに出会いを求めるのは間違っているだろうか外伝 ソード・オラトリア",
-    "title_romaji": "Dungeon ni Deai o Motomeru no wa Machigatteiru Darou ka Gaiden: Sword Oratoria",
+    "title_romaji": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Gaiden: Sword Oratoria",
     "title_english": "Is It Wrong to Try and Pick Up Girls in a Dungeon? Gaiden: Sword Oratoria",
     "synonyms": [
       "Is It Wrong to Hope to Meet a Girl in a Dungeon? On the Side: Sword Oratoria",
