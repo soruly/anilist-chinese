@@ -33720,7 +33720,8 @@
     "title_romaji": "Knight's & Magic",
     "title_english": "Knight's & Magic",
     "synonyms": [
-      "Knight's and Magic"
+      "Knight's and Magic",
+      "Naitsuma"
     ],
     "synonyms_chinese": [
       "騎士＆魔法"
@@ -35032,6 +35033,17 @@
     "synonyms_chinese": []
   },
   {
+    "id": 98435,
+    "title_chinese": "バカだけどチンチンしゃぶるのだけはじょうずなちーちゃん",
+    "title_japanese": "バカだけどチンチンしゃぶるのだけはじょうずなちーちゃん",
+    "title_romaji": "Baka Dakedo Chinchin Shaburu no Dake wa Jouzu na Chii-chan",
+    "title_english": "Baka Dakedo Chinchin Shaburu no Dake wa Jouzu na Chii-chan",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": []
+  },
+  {
     "id": 98436,
     "title_chinese": "魔法使的新娘",
     "title_japanese": "魔法使いの嫁",
@@ -35208,6 +35220,17 @@
     "title_japanese": "ステラのまほう OVA",
     "title_romaji": "Stella no Mahou OVA",
     "title_english": "MAGIC OF STELLA OVA",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": []
+  },
+  {
+    "id": 98557,
+    "title_chinese": "メンヘラ歩理のヤまないおねだり ～ヘッドホンは はずせない～",
+    "title_japanese": "メンヘラ歩理のヤまないおねだり ～ヘッドホンは はずせない～",
+    "title_romaji": "Menheru Ayuri no Yamanai Onedari: Headphone wa Hazusenai",
+    "title_english": "Menheru Ayuri no Yamanai Onedari: Headphone wa Hazusenai",
     "synonyms": [
       ""
     ],
