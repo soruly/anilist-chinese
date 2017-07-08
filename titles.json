@@ -25111,7 +25111,9 @@
     "synonyms": [
       "Sin: The 7 Deadly Sins"
     ],
-    "synonyms_chinese": []
+    "synonyms_chinese": [
+      "sin七宗罪"
+    ]
   },
   {
     "id": 20706,
@@ -34707,7 +34709,9 @@
     "synonyms": [
       ""
     ],
-    "synonyms_chinese": []
+    "synonyms_chinese": [
+      "動作女英雄 水果應援團"
+    ]
   },
   {
     "id": 98153,
@@ -35283,6 +35287,19 @@
       ""
     ],
     "synonyms_chinese": []
+  },
+  {
+    "id": 98622,
+    "title_chinese": "sin 七大罪 懺悔錄",
+    "title_japanese": "sin 七つの大罪 ショートアニメ「懺悔録」",
+    "title_romaji": "Sin Nanatsu no Taizai Zangeroku",
+    "title_english": "Sin Nanatsu no Taizai Zangeroku",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": [
+      "sin七宗罪 懺悔錄 "
+    ]
   },
   {
     "id": 98623,
