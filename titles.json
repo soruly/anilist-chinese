@@ -32174,7 +32174,9 @@
     "title_romaji": "Hina Logi ~from Luck & Logic~",
     "title_english": "Hina Logic - from Luck & Logic",
     "synonyms": [],
-    "synonyms_chinese": []
+    "synonyms_chinese": [
+      "雛邏輯 來自幸運邏輯"
+    ]
   },
   {
     "id": 21740,
@@ -34463,7 +34465,9 @@
     "synonyms": [
       "7o3x"
     ],
-    "synonyms_chinese": []
+    "synonyms_chinese": [
+      "7○3×"
+    ]
   },
   {
     "id": 97980,
@@ -34503,7 +34507,9 @@
       "",
       ""
     ],
-    "synonyms_chinese": []
+    "synonyms_chinese": [
+      "將國之天鷹星"
+    ]
   },
   {
     "id": 97986,
@@ -35146,6 +35152,19 @@
       ""
     ],
     "synonyms_chinese": []
+  },
+  {
+    "id": 98504,
+    "title_chinese": "Mobile Suit Gundam Twilight AXIS",
+    "title_japanese": "機動戦士ガンダム Twilight AXIS",
+    "title_romaji": "Kidou Senshi Gundam: Twilight Axis",
+    "title_english": "MOBILE SUIT GUNDAM: Twilight AXIS",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": [
+      "機動戰士高達 Twilight AXIS"
+    ]
   },
   {
     "id": 98505,
