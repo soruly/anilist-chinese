@@ -34463,7 +34463,7 @@
     "title_chinese": "猜謎王",
     "title_japanese": "ナナマル サンバツ",
     "title_romaji": "Nana Maru San Batsu",
-    "title_english": "Nana Maru San Batsu",
+    "title_english": "Fastest Finger First",
     "synonyms": [
       "7o3x"
     ],
@@ -34474,7 +34474,7 @@
   {
     "id": 97980,
     "title_chinese": "Re:CREATORS",
-    "title_japanese": "Re:Creators（レクリエイターズ）",
+    "title_japanese": "Re:CREATORS（レクリエイターズ）",
     "title_romaji": "Re:Creators",
     "title_english": "Re:Creators",
     "synonyms": [
@@ -34489,9 +34489,10 @@
     "title_chinese": "夏目友人帳 陸",
     "title_japanese": "夏目友人帳 陸",
     "title_romaji": "Natsume Yuujinchou Roku",
-    "title_english": "Natsume's Book of Friends Roku",
+    "title_english": "Natsume's Book of Friends Season 6",
     "synonyms": [
-      ""
+      "Natsume Yuujinchou Season 6",
+      "Natsume's Book of Friends Six"
     ],
     "synonyms_chinese": [
       "妖怪連絡簿 陸"
@@ -34502,7 +34503,7 @@
     "title_chinese": "將國戡亂記",
     "title_japanese": "将国のアルタイル",
     "title_romaji": "Shoukoku no Altair",
-    "title_english": "Shoukoku no Altair",
+    "title_english": "Altair: A Record of Battles",
     "synonyms": [
       "Project Altair",
       "",
@@ -34616,8 +34617,8 @@
     "id": 98059,
     "title_chinese": "KiraKira☆光之美少女 A La Mode",
     "title_japanese": "キラキラ☆プリキュアアラモード",
-    "title_romaji": "Kirakira☆Precure A la mode",
-    "title_english": "Kirakira☆Precure A la mode",
+    "title_romaji": "Kirakira☆Precure A La Mode",
+    "title_english": "Kirakira☆Precure A La Mode",
     "synonyms": [
       ""
     ],
@@ -34674,7 +34675,7 @@
     "title_romaji": "Otoko no Ko Delivery",
     "title_english": "Otoko no Ko Delivery",
     "synonyms": [
-      ""
+      "Otokonoko ♂ Delivery"
     ],
     "synonyms_chinese": []
   },
@@ -34771,9 +34772,9 @@
     "title_chinese": "潔癖男子！青山君",
     "title_japanese": "潔癖男子! 青山くん",
     "title_romaji": "Keppeki Danshi! Aoyama-kun",
-    "title_english": "Cleanliness Boy! Aoyama-kun",
+    "title_english": "Clean Freak! Aoyama kun",
     "synonyms": [
-      ""
+      "Cleanliness Boy! Aoyama-kun"
     ],
     "synonyms_chinese": []
   },
@@ -34802,11 +34803,11 @@
   {
     "id": 98231,
     "title_chinese": "遊戯王VRAINS",
-    "title_japanese": "遊戯王Vrains",
-    "title_romaji": "Yu-Gi-Oh Vrains",
-    "title_english": "Yu-Gi-Oh Vrains",
+    "title_japanese": "遊☆戯☆王VRAINS（ヴレインズ）",
+    "title_romaji": "Yu-Gi-Oh! VRAINS",
+    "title_english": "Yu-Gi-Oh! VRAINS",
     "synonyms": [
-      ""
+      "Yugioh Vrains"
     ],
     "synonyms_chinese": []
   },
@@ -34868,9 +34869,9 @@
     "title_chinese": "徒然CHILDREN",
     "title_japanese": "徒然チルドレン",
     "title_romaji": "Tsurezure Children",
-    "title_english": "Tsurezure Children",
+    "title_english": "Tsuredure Children",
     "synonyms": [
-      "Tsuredure Children",
+      "Tsure x dure children",
       "",
       "",
       ""
@@ -34942,9 +34943,9 @@
     "title_chinese": "戀愛與謊言",
     "title_japanese": "恋と嘘",
     "title_romaji": "Koi to Uso",
-    "title_english": "Koi to Uso",
+    "title_english": "LOVE and LIES",
     "synonyms": [
-      "Love and Lies",
+      "Love & Lies",
       "",
       "",
       ""
@@ -35070,7 +35071,7 @@
     "title_romaji": "Baka Dakedo Chinchin Shaburu no Dake wa Jouzu na Chii-chan",
     "title_english": "Baka Dakedo Chinchin Shaburu no Dake wa Jouzu na Chii-chan",
     "synonyms": [
-      ""
+      "Not Too Bright but at Least She Sucks Dick Like a Pro: Chii-chan"
     ],
     "synonyms_chinese": []
   },
@@ -35101,7 +35102,7 @@
     "title_chinese": "海天使之光",
     "title_japanese": "クリオネの灯り",
     "title_romaji": "Clione no Akari",
-    "title_english": "Clione no Akari",
+    "title_english": "Lights of the Clione",
     "synonyms": [
       ""
     ],
@@ -35125,7 +35126,7 @@
     "title_romaji": "Isekai wa Smartphone to Tomo ni.",
     "title_english": "In Another World With My Smartphone",
     "synonyms": [
-      ""
+      "IseSuma"
     ],
     "synonyms_chinese": []
   },
@@ -35133,8 +35134,8 @@
     "id": 98501,
     "title_chinese": "妖怪公寓的優雅日常",
     "title_japanese": "妖怪アパートの幽雅な日常",
-    "title_romaji": "Youkai Apato no Yuuga na Nichijou",
-    "title_english": "Youkai Apato no Yuuga na Nichijou",
+    "title_romaji": "Youkai Apartment no Yuuga na Nichijou",
+    "title_english": "Elegant Yokai Apartment Life",
     "synonyms": [
       ""
     ],
@@ -35144,7 +35145,7 @@
     "id": 98502,
     "title_chinese": "小林家的女僕龍 SP",
     "title_japanese": "小林さんちのメイドラゴン",
-    "title_romaji": "Kobayashi-san Chi no Maid Dragon Specials",
+    "title_romaji": "Kobayashi-san Chi no Maidragon Specials",
     "title_english": "Miss Kobayashi's Dragon Maid Specials",
     "synonyms": [
       "Kobayashi-san Chi no OO Dragon",
@@ -35197,7 +35198,7 @@
     "title_romaji": "Kaito x Ansa",
     "title_english": "Kaito x Ansa",
     "synonyms": [
-      "Nazotokine 2"
+      ""
     ],
     "synonyms_chinese": []
   },
@@ -35261,9 +35262,9 @@
   {
     "id": 98548,
     "title_chinese": "斯特拉的魔法 OVA",
-    "title_japanese": "ステラのまほう OVA",
-    "title_romaji": "Stella no Mahou OVA",
-    "title_english": "MAGIC OF STELLA OVA",
+    "title_japanese": "ステラのまほう Specials",
+    "title_romaji": "Stella no Mahou Specials",
+    "title_english": "MAGIC OF STELLA Specials",
     "synonyms": [
       ""
     ],
@@ -35273,8 +35274,8 @@
     "id": 98557,
     "title_chinese": "メンヘラ歩理のヤまないおねだり ～ヘッドホンは はずせない～",
     "title_japanese": "メンヘラ歩理のヤまないおねだり ～ヘッドホンは はずせない～",
-    "title_romaji": "Menheru Ayuri no Yamanai Onedari: Headphone wa Hazusenai",
-    "title_english": "Menheru Ayuri no Yamanai Onedari: Headphone wa Hazusenai",
+    "title_romaji": "Menhera Ayuri no Yamanai Onedari: Headphone wa Hazusenai",
+    "title_english": "Menhera Ayuri no Yamanai Onedari: Headphone wa Hazusenai",
     "synonyms": [
       ""
     ],
@@ -35301,7 +35302,7 @@
     "title_chinese": "むさしの!",
     "title_japanese": "むさしの!",
     "title_romaji": "Musashino!",
-    "title_english": "Musashino!",
+    "title_english": "Musasino!",
     "synonyms": [
       ""
     ],
@@ -35349,7 +35350,7 @@
     "title_chinese": "便利店男友",
     "title_japanese": "コンビニカレシ",
     "title_romaji": "Konbini Kareshi",
-    "title_english": "Konbini Kareshi",
+    "title_english": "Convenience Store Boy Friends",
     "synonyms": [
       ""
     ],
@@ -35362,7 +35363,9 @@
     "title_romaji": "Karada Sagashi",
     "title_english": "Karada Sagashi",
     "synonyms": [
-      ""
+      "Karadasagashi",
+      "Body Search",
+      "Re/member"
     ],
     "synonyms_chinese": []
   },
@@ -35371,7 +35374,7 @@
     "title_chinese": "歡迎來到實力至上主義的教室",
     "title_japanese": "ようこそ実力至上主義の教室へ",
     "title_romaji": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e",
-    "title_english": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e",
+    "title_english": "Classroom of the Elite",
     "synonyms": [
       ""
     ],
@@ -35406,7 +35409,7 @@
     "title_romaji": "Skirt no Naka wa Kedamono Deshita.",
     "title_english": "Skirt no Naka wa Kedamono Deshita.",
     "synonyms": [
-      ""
+      "There Was a Beast Inside the Skirt."
     ],
     "synonyms_chinese": [
       "裙子裡面是野獸"
@@ -35427,5 +35430,49 @@
     "synonyms_chinese": [
       "Dimension W ～維度戰記～ OVA"
     ]
+  },
+  {
+    "id": 98976,
+    "title_chinese": "狐妖小紅娘",
+    "title_japanese": "縁結びの妖狐ちゃん",
+    "title_romaji": "Enmusubi no Youko-chan",
+    "title_english": "Fox Spirit Matchmaker",
+    "synonyms": [
+      "狐妖小红娘"
+    ],
+    "synonyms_chinese": []
+  },
+  {
+    "id": 99055,
+    "title_chinese": "無責任 Galaxy☆Tylor",
+    "title_japanese": "無責任ギャラクシー☆タイラー",
+    "title_romaji": "Musekinin Galaxy☆Tylor",
+    "title_english": "Musekinin Galaxy☆Tylor",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": []
+  },
+  {
+    "id": 99268,
+    "title_chinese": "SWAMP STAMP Anime Edition",
+    "title_japanese": "SWAMP STAMP Anime Edition",
+    "title_romaji": "Swamp Stamp Anime Edition",
+    "title_english": "Swamp Stamp Anime Edition",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": []
+  },
+  {
+    "id": 99347,
+    "title_chinese": "マヨヒガのお姉さん",
+    "title_japanese": "マヨヒガのお姉さん",
+    "title_romaji": "Mayohiga no Onee-san",
+    "title_english": "Mayohiga no Onee-san",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": []
   }
 ]
