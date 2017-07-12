@@ -27001,9 +27001,9 @@
   {
     "id": 20970,
     "title_chinese": "昭和元祿落語心中",
-    "title_japanese": "昭和元禄落語心中 与太郎編",
-    "title_romaji": "Shouwa Genroku Rakugo Shinjuu: Yotarou-hen",
-    "title_english": "Shouwa Genroku Rakugo Shinjuu: Yotarou-hen",
+    "title_japanese": "昭和元禄落語心中 与太郎放浪篇",
+    "title_romaji": "Shouwa Genroku Rakugo Shinjuu: Yotarou Hourou-hen",
+    "title_english": "Shouwa Genroku Rakugo Shinjuu: Yotarou Hourou-hen",
     "synonyms": [],
     "synonyms_chinese": []
   },
@@ -35427,6 +35427,19 @@
     "synonyms_chinese": []
   },
   {
+    "id": 98702,
+    "title_chinese": "食戟之靈 貳之皿 OVA",
+    "title_japanese": "食戟のソーマ 弍ノ皿 OVA",
+    "title_romaji": "Shokugeki no Souma: Ni no Sara OVA",
+    "title_english": "Shokugeki no Souma: Ni no Sara OVA",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": [
+      "食戟之靈 二之皿 OVA"
+    ]
+  },
+  {
     "id": 98715,
     "title_chinese": "美男戰國◆跨越時空的戀情",
     "title_japanese": "イケメン戦国◆時をかける恋",
@@ -35478,6 +35491,17 @@
     ]
   },
   {
+    "id": 98959,
+    "title_chinese": "來自貓咪的團團幸福",
+    "title_japanese": "猫がくれたまぁるいしあわせ",
+    "title_romaji": "Neko ga Kureta Marui Shiawase",
+    "title_english": "Neko ga Kureta Marui Shiawase",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": []
+  },
+  {
     "id": 98976,
     "title_chinese": "狐妖小紅娘",
     "title_japanese": "縁結びの妖狐ちゃん",
@@ -35520,5 +35544,21 @@
       ""
     ],
     "synonyms_chinese": []
+  },
+  {
+    "id": 99363,
+    "title_chinese": "夏目友人帳 伍 SP",
+    "title_japanese": "夏目友人帳 伍 特別編",
+    "title_romaji": "Natsume Yuujinchou Go Specials",
+    "title_english": "Natsume Yujin-cho 5 Specials",
+    "synonyms": [
+      "Natsume Yuujinchou Go Tokubetsuhen",
+      "Natsume's Book of Friends Go Specials",
+      "",
+      ""
+    ],
+    "synonyms_chinese": [
+      "妖怪連絡簿 伍 SP"
+    ]
   }
 ]
