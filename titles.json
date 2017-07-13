@@ -31814,7 +31814,9 @@
       "Is It Wrong to Hope to Meet a Girl in a Dungeon? On the Side: Sword Oratoria",
       "Danmachi Sword Oratoria"
     ],
-    "synonyms_chinese": []
+    "synonyms_chinese": [
+      "劍姬神聖譚"
+    ]
   },
   {
     "id": 21677,
@@ -34264,7 +34266,9 @@
       "My First Gal",
       ""
     ],
-    "synonyms_chinese": []
+    "synonyms_chinese": [
+      "第一次的GAL"
+    ]
   },
   {
     "id": 97874,
@@ -35576,5 +35580,17 @@
     "synonyms_chinese": [
       "妖怪連絡簿 伍 SP"
     ]
+  },
+  {
+    "id": 99394,
+    "title_chinese": "亞人醬有話要說 OVA",
+    "title_japanese": "亜人ちゃんは語りたい 亜人ちゃんの夏休み",
+    "title_romaji": "Demi-chan wa Kataritai: Demi-chan no Natsuyasumi",
+    "title_english": "Interviews with Monster Girls: The Demi-chans' Summer Break",
+    "synonyms": [
+      "",
+      ""
+    ],
+    "synonyms_chinese": []
   }
 ]
