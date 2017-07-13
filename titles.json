@@ -29588,9 +29588,11 @@
     "id": 21345,
     "title_chinese": "卡片鬥爭!!先導者Ｇ齒輪危機篇",
     "title_japanese": "カードファイト!! ヴァンガードG ギアースクライシス編",
-    "title_romaji": "Cardfight!! Vanguard G: Gears Crisis-hen",
-    "title_english": "Cardfight!! Vanguard G: Gears Crisis-hen",
-    "synonyms": [],
+    "title_romaji": "Cardfight!! Vanguard G: GIRS Crisis-hen",
+    "title_english": "Cardfight!! Vanguard G GIRS Crisis",
+    "synonyms": [
+      "Cardfight!! Vanguard G: Gears Crisis-hen"
+    ],
     "synonyms_chinese": []
   },
   {
@@ -32245,8 +32247,8 @@
   {
     "id": 21742,
     "title_chinese": "活擊 刀劍亂舞",
-    "title_japanese": "活撃 刀剣乱舞",
-    "title_romaji": "Katsugeki Touken Ranbu",
+    "title_japanese": "活撃／刀剣乱舞",
+    "title_romaji": "Katsugeki/Touken Ranbu",
     "title_english": "Katsugeki Touken Ranbu",
     "synonyms": [],
     "synonyms_chinese": []
@@ -34433,10 +34435,10 @@
     "id": 97932,
     "title_chinese": "王室教師海涅",
     "title_japanese": "王室教師ハイネ",
-    "title_romaji": "Oushitsu Kyoushi Haine",
+    "title_romaji": "Oushitsu Kyoushi Heine",
     "title_english": "The Royal Tutor",
     "synonyms": [
-      ""
+      "Oushitsu Kyoushi Haine"
     ],
     "synonyms_chinese": []
   },
@@ -34762,6 +34764,17 @@
       "Thunderbolt Fantasy: Tōriken Kōki",
       "Thunderbolt Fantasy: Sword Travels from the East",
       "",
+      ""
+    ],
+    "synonyms_chinese": []
+  },
+  {
+    "id": 98144,
+    "title_chinese": "咕嚕咕嚕魔法陣 (2017)",
+    "title_japanese": "魔法陣グルグル",
+    "title_romaji": "Mahoujin Guru Guru",
+    "title_english": "MAGICAL CIRCLE GURU-GURU",
+    "synonyms": [
       ""
     ],
     "synonyms_chinese": []
@@ -35257,7 +35270,10 @@
     "synonyms": [
       ""
     ],
-    "synonyms_chinese": []
+    "synonyms_chinese": [
+      "人馬小姐的煩惱",
+      "人馬小姐不迷茫"
+    ]
   },
   {
     "id": 98524,
