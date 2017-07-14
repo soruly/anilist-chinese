@@ -35063,7 +35063,7 @@
     "title_chinese": "地獄少女 宵伽",
     "title_japanese": "地獄少女宵伽",
     "title_romaji": "Jigoku Shoujo Yoi no Togi",
-    "title_english": "Jigoku Shoujo Yoi no Togi",
+    "title_english": "Hell Girl: Fourth Twilight",
     "synonyms": [
       "Hell Girl Yoi no Togi",
       "",
@@ -35169,7 +35169,9 @@
     "synonyms": [
       ""
     ],
-    "synonyms_chinese": []
+    "synonyms_chinese": [
+      "海天使的燈火"
+    ]
   },
   {
     "id": 98480,
@@ -35388,6 +35390,17 @@
     "synonyms_chinese": []
   },
   {
+    "id": 98595,
+    "title_chinese": "擴張少女系三重奏",
+    "title_japanese": "拡張少女系トライナリー",
+    "title_romaji": "Kakuchou Shoujo-Kei Trinary",
+    "title_english": "Augmented Reality Girls Trinary",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": []
+  },
+  {
     "id": 98622,
     "title_chinese": "sin 七大罪 懺悔錄",
     "title_japanese": "sin 七つの大罪 ショートアニメ「懺悔録」",
@@ -35465,6 +35478,17 @@
     "title_japanese": "イケメン戦国◆時をかける恋",
     "title_romaji": "Ikemen Sengoku: Toki o Kakeru Koi",
     "title_english": "Ikemen Sengoku: Toki o Kakeru Koi",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": []
+  },
+  {
+    "id": 98767,
+    "title_chinese": "いちごショコラふれーばー",
+    "title_japanese": "いちごショコラふれーばー",
+    "title_romaji": "Ichigo Chocola Flavor",
+    "title_english": "Strawberry Chocolate Flavor",
     "synonyms": [
       ""
     ],
