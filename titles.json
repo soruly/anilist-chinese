@@ -35267,7 +35267,9 @@
     "synonyms": [
       ""
     ],
-    "synonyms_chinese": []
+    "synonyms_chinese": [
+      "解謎之音"
+    ]
   },
   {
     "id": 98519,
@@ -35456,6 +35458,17 @@
     "title_japanese": "ようこそ実力至上主義の教室へ",
     "title_romaji": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e",
     "title_english": "Classroom of the Elite",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": []
+  },
+  {
+    "id": 98660,
+    "title_chinese": "手垢塗れの天使 THE ANIMATION",
+    "title_japanese": "手垢塗れの天使 THE ANIMATION",
+    "title_romaji": "Teakamamire no Tenshi The Animation",
+    "title_english": "Teakamamire no Tenshi The Animation",
     "synonyms": [
       ""
     ],
