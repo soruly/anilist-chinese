@@ -22907,7 +22907,7 @@
     "title_english": "Initial D Final Stage",
     "synonyms": [],
     "synonyms_chinese": [
-      "頭文字D 第六＿季"
+      "頭文字D 第六季"
     ]
   },
   {
@@ -32653,6 +32653,22 @@
     ]
   },
   {
+    "id": 21796,
+    "title_chinese": "甜甜起司貓 第三季",
+    "title_japanese": "チーズスイートホーム",
+    "title_romaji": "Koneko no Chii: Ponponra Daibouken",
+    "title_english": "Chi's Sweet Adventure",
+    "synonyms": [
+      "Chi's Sweet Home (2016)"
+    ],
+    "synonyms_chinese": [
+      "起司貓 第三季",
+      "甜甜私房貓 第三季",
+      "賤貓小嘰的幸福生活 第三季",
+      "奇奇的異想世界 第三季"
+    ]
+  },
+  {
     "id": 21797,
     "title_chinese": "雨色可可 3",
     "title_japanese": "雨色ココア in Hawaii",
@@ -33150,7 +33166,7 @@
   },
   {
     "id": 21873,
-    "title_chinese": "裝神少女小纏",
+    "title_chinese": "神裝少女小纏",
     "title_japanese": "装神少女まとい",
     "title_romaji": "Soushin Shoujo Matoi",
     "title_english": "Matoi the Sacred Slayer",
@@ -33158,7 +33174,7 @@
       ""
     ],
     "synonyms_chinese": [
-      "神裝少女小纏"
+      "裝神少女小纏"
     ]
   },
   {
@@ -34362,6 +34378,21 @@
     ]
   },
   {
+    "id": 97891,
+    "title_chinese": "青之驅魔師 京都不淨王篇 OVA",
+    "title_japanese": "青の祓魔師 OVA",
+    "title_romaji": "Ao no Exorcist OVA",
+    "title_english": "Blue Exorcist OVA",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": [
+      "青之祓魔師 京都不淨王篇 OVA",
+      "藍色驅魔師 京都不淨王篇 OVA",
+      "藍色的除魔師 京都不淨王篇 OVA"
+    ]
+  },
+  {
     "id": 97892,
     "title_chinese": "ヤれる子！電車エッチ",
     "title_japanese": "ヤれる子！電車エッチ",
@@ -35019,6 +35050,17 @@
     "synonyms_chinese": []
   },
   {
+    "id": 98308,
+    "title_chinese": "もんむす・くえすと!",
+    "title_japanese": "もんむす・くえすと!",
+    "title_romaji": "Monmusu Quest",
+    "title_english": "Monster Girl Quest",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": []
+  },
+  {
     "id": 98309,
     "title_chinese": "ボクとみさき先生",
     "title_japanese": "ボクとみさき先生",
@@ -35372,6 +35414,19 @@
     "synonyms_chinese": []
   },
   {
+    "id": 98547,
+    "title_chinese": "傳頌之物 虛偽的假面 OVA",
+    "title_japanese": "うたわれるもの 偽りの仮面",
+    "title_romaji": "Utawarerumono: Itsuwari no Kamen Specials",
+    "title_english": "Utawarerumono: The False Faces Specials",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": [
+      "受讚頌者 虛偽的假面 OVA"
+    ]
+  },
+  {
     "id": 98548,
     "title_chinese": "斯特拉的魔法 OVA",
     "title_japanese": "ステラのまほう Specials",
@@ -35408,6 +35463,17 @@
       "網球並不可笑嘛 9",
       "女子搞笑網球 9"
     ]
+  },
+  {
+    "id": 98573,
+    "title_chinese": "相對世界",
+    "title_japanese": "ソウタイセカイ",
+    "title_romaji": "Soutai Sekai",
+    "title_english": "Soutai Sekai",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": []
   },
   {
     "id": 98577,
@@ -35474,6 +35540,17 @@
     "title_japanese": "コンビニカレシ",
     "title_romaji": "Konbini Kareshi",
     "title_english": "Convenience Store Boy Friends",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": []
+  },
+  {
+    "id": 98642,
+    "title_chinese": "SUPER LOVERS OVA",
+    "title_japanese": "スーパーラヴァーズ OVA",
+    "title_romaji": "Super Lovers OVA",
+    "title_english": "Super Lovers OVA",
     "synonyms": [
       ""
     ],
@@ -35590,6 +35667,19 @@
     ]
   },
   {
+    "id": 98843,
+    "title_chinese": "神裝少女小纏 OVA",
+    "title_japanese": "株式会社ナイツ・バスターズ",
+    "title_romaji": "Soushin Shoujo Matoi: Kabushiki Gaisha Knight Busters",
+    "title_english": "Soushin Shoujo Matoi: Kabushiki Gaisha Knight Busters",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": [
+      "裝神少女小纏 OVA"
+    ]
+  },
+  {
     "id": 98959,
     "title_chinese": "來自貓咪的團團幸福",
     "title_japanese": "猫がくれたまぁるいしあわせ",
@@ -35610,6 +35700,35 @@
       "狐妖小红娘"
     ],
     "synonyms_chinese": []
+  },
+  {
+    "id": 98978,
+    "title_chinese": "闇芝居 5",
+    "title_japanese": "闇芝居 5",
+    "title_romaji": "Yami Shibai 5",
+    "title_english": "Yami Shibai 5",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": [
+      "暗芝居 5"
+    ]
+  },
+  {
+    "id": 99054,
+    "title_chinese": "One Room OVA",
+    "title_japanese": "-another- One Room",
+    "title_romaji": "-another- One Room",
+    "title_english": "-another- One Room",
+    "synonyms": [
+      "One Room Episode 13",
+      "One Room OVA",
+      "One Room Special",
+      ""
+    ],
+    "synonyms_chinese": [
+      "一間房 OVA"
+    ]
   },
   {
     "id": 99055,
