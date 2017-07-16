@@ -8234,6 +8234,17 @@
     "synonyms_chinese": []
   },
   {
+    "id": 2841,
+    "title_chinese": "黒愛 一夜妻館・淫口乱乳録",
+    "title_japanese": "黒愛 一夜妻館・淫口乱乳録",
+    "title_romaji": "Kuro Ai: Hitoyozumakan Inkou Rannyuuroku",
+    "title_english": "Dark Love",
+    "synonyms": [
+      "Kuro Ai"
+    ],
+    "synonyms_chinese": []
+  },
+  {
     "id": 2889,
     "title_chinese": "劇場版 BLEACH 另一個冰輪丸",
     "title_japanese": "ＢＬＥＡＣＨ Ｔｈｅ ＤｉａｍｏｎｄＤｕｓｔ Ｒｅｂｅｌｌｉｏｎ もう一つの氷輪丸",
@@ -10216,6 +10227,17 @@
     "synonyms_chinese": [
       "火球"
     ]
+  },
+  {
+    "id": 4363,
+    "title_chinese": "痴漢電車",
+    "title_japanese": "痴漢電車",
+    "title_romaji": "Chikan Densha",
+    "title_english": "Xpress Train",
+    "synonyms": [
+      "Groper Train"
+    ],
+    "synonyms_chinese": []
   },
   {
     "id": 4382,
@@ -26277,7 +26299,7 @@
   },
   {
     "id": 20842,
-    "title_chinese": "新劇場版 頭文字D",
+    "title_chinese": "新劇場版 頭文字D Legend1 -覺醒-",
     "title_japanese": "新劇場版 頭文字D Legend1-覚醒-",
     "title_romaji": "New Initial D Movie: Legend 1 - Kakusei",
     "title_english": "New Initial D Movie: Legend 1 - Kakusei",
@@ -27112,6 +27134,15 @@
     "title_japanese": "Wake Up, Girls！ 青春の影",
     "title_romaji": "Wake Up, Girls! Seishun no Kage",
     "title_english": "Wake Up, Girls! Seishun no Kage",
+    "synonyms": [],
+    "synonyms_chinese": []
+  },
+  {
+    "id": 20990,
+    "title_chinese": "新劇場版 頭文字D Legend2 -闘走-",
+    "title_japanese": "新劇場 版頭文字DLegend2 -闘走-",
+    "title_romaji": "New Initial D Movie: Legend 2 - Dokusou",
+    "title_english": "New Initial D Movie: Legend 2 - Dokusou",
     "synonyms": [],
     "synonyms_chinese": []
   },
@@ -29192,6 +29223,15 @@
     "title_japanese": "モンスターストライク",
     "title_romaji": "Monster Strike",
     "title_english": "Monster Strike",
+    "synonyms": [],
+    "synonyms_chinese": []
+  },
+  {
+    "id": 21289,
+    "title_chinese": "新劇場版 頭文字D Legend3 -夢現-",
+    "title_japanese": "新劇場 版頭文字DLegend3 -夢現-",
+    "title_romaji": "New Initial D Movie: Legend 3 - Mugen",
+    "title_english": "New Initial D Movie: Legend 3 - Mugen",
     "synonyms": [],
     "synonyms_chinese": []
   },
