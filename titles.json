@@ -28453,7 +28453,7 @@
     "title_romaji": "Saenai Heroine no Sodatekata ♭",
     "title_english": "Saekano: How to Raise a Boring Girlfriend ♭",
     "synonyms": [
-      "Saenai Heroine no Sodate-kata Flat",
+      "Saenai heroine no sodate-kata. flat",
       "Saekano♭",
       "",
       ""
@@ -35632,6 +35632,17 @@
     "title_japanese": "妻が温泉でサークル仲間の肉便器になったのですが... Anime Edition",
     "title_romaji": "Tsuma ga Onsen de Circle Nakama no Nikubenki ni Natta no Desu ga... Anime Edition",
     "title_english": "Tsuma ga Onsen de Circle Nakama no Nikubenki ni Natta no Desu ga... Anime Edition",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": []
+  },
+  {
+    "id": 98778,
+    "title_chinese": "91Days Special",
+    "title_japanese": "91Days Special",
+    "title_romaji": "91Days Special",
+    "title_english": "91 Days Special",
     "synonyms": [
       ""
     ],
