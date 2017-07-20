@@ -24714,7 +24714,11 @@
     "title_japanese": "異能バトルは日常系のなかで",
     "title_romaji": "Inou-Battle wa Nichijou-kei no Naka de",
     "title_english": "When Supernatural Battles Became Commonplace",
-    "synonyms": [],
+    "synonyms": [
+      "InoBato",
+      "Inou-Battle in the Usually Daze.",
+      "Inou Battle Within Everyday Life"
+    ],
     "synonyms_chinese": [
       "日常生活中的異能戰鬥"
     ]
@@ -33181,10 +33185,12 @@
   {
     "id": 21874,
     "title_chinese": "劇場版 Trinity Seven 悠久圖書館與鍊金術少女",
-    "title_japanese": "劇場版 トリニティセブン",
-    "title_romaji": "Trinity Seven Movie",
-    "title_english": "Trinity Seven Movie",
-    "synonyms": [],
+    "title_japanese": "劇場版 トリニティセブン -悠久図書館と錬金術少女-",
+    "title_romaji": "Trinity Seven - Yuukyuu Toshokan to Renkinjutsu Shoujo",
+    "title_english": "Trinity Seven - Yuukyuu Toshokan to Renkinjutsu Shoujo",
+    "synonyms": [
+      "Trinity Seven: Eternal Library & Alchemic Girl"
+    ],
     "synonyms_chinese": [
       "劇場版 魔道書7使者",
       "劇場版 七人魔法使"
@@ -34333,10 +34339,11 @@
     "id": 97874,
     "title_chinese": "FRAME ARMS GIRL",
     "title_japanese": "フレームアームズ・ガール",
-    "title_romaji": "Frame Arms Girls",
-    "title_english": "Frame Arms Girls",
+    "title_romaji": "Frame Arms Girl",
+    "title_english": "Frame Arms Girl",
     "synonyms": [
-      ""
+      "Frame Arms Girls",
+      "F.A. Girl"
     ],
     "synonyms_chinese": [
       "Frame Arms Girl 機甲少女",
