@@ -32295,9 +32295,9 @@
   {
     "id": 21742,
     "title_chinese": "活擊 刀劍亂舞",
-    "title_japanese": "活撃／刀剣乱舞",
-    "title_romaji": "Katsugeki/Touken Ranbu",
-    "title_english": "Katsugeki Touken Ranbu",
+    "title_japanese": "活撃　刀剣乱舞",
+    "title_romaji": "Katsugeki Touken Ranbu",
+    "title_english": "Katsugeki TOUKEN RANBU",
     "synonyms": [],
     "synonyms_chinese": []
   },
@@ -35807,6 +35807,17 @@
     "title_japanese": "マヨヒガのお姉さん THE ANIMATION",
     "title_romaji": "Mayohiga no Onee-san The Animation",
     "title_english": "Mayohiga no Onee-san The Animation",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": []
+  },
+  {
+    "id": 99348,
+    "title_chinese": "僕だけのヘンタイカノジョ",
+    "title_japanese": "僕だけのヘンタイカノジョ",
+    "title_romaji": "Boku Dake no Hentai Kanojo",
+    "title_english": "Boku Dake no Hentai Kanojo",
     "synonyms": [
       ""
     ],
