@@ -29044,7 +29044,7 @@
     "title_chinese": "終物語",
     "title_japanese": "終物語",
     "title_romaji": "Owarimonogatari",
-    "title_english": "Owarimonogatari",
+    "title_english": "OWARIMONOGATARI",
     "synonyms": [],
     "synonyms_chinese": []
   },
@@ -30698,8 +30698,10 @@
     "title_chinese": "數碼暴龍大冒險tri. 第2章「決意」",
     "title_japanese": "デジモンアドベンチャー tri. 第2章「決意」",
     "title_romaji": "Digimon Adventure tri. 2: Ketsui",
-    "title_english": "Digimon Adventure tri. 2: Ketsui",
-    "synonyms": [],
+    "title_english": "Digimon Adventure tri. Chapter 2: Determination",
+    "synonyms": [
+      "Digimon tri. 2"
+    ],
     "synonyms_chinese": []
   },
   {
@@ -31330,8 +31332,10 @@
     "title_chinese": "數碼暴龍大冒險tri. 第3章「告白」",
     "title_japanese": "デジモンアドベンチャー tri. 第3章「告白」",
     "title_romaji": "Digimon Adventure tri. 3: Kokuhaku",
-    "title_english": "Digimon Adventure tri. 3: Kokuhaku",
-    "synonyms": [],
+    "title_english": "Digimon Adventure tri. Chapter 3: Confession",
+    "synonyms": [
+      "Digimon tri. 3"
+    ],
     "synonyms_chinese": []
   },
   {
@@ -32333,7 +32337,7 @@
     "title_chinese": "終物語（下）",
     "title_japanese": "終物語（下）",
     "title_romaji": "Owarimonogatari (Ge)",
-    "title_english": "Owarimonogatari (Ge)",
+    "title_english": "OWARIMONOGATARI Second Season",
     "synonyms": [
       "Owarimonogatari 2"
     ],
@@ -34028,9 +34032,9 @@
     "title_chinese": "數碼暴龍大冒險tri. 第4章「喪失」",
     "title_japanese": "デジモンアドベンチャー tri.第４章「喪失」",
     "title_romaji": "Digimon Adventure tri. 4: Soushitsu",
-    "title_english": "Digimon Adventure tri. 4: Soushitsu",
+    "title_english": "Digimon Adventure tri. Chapter 4: Lost",
     "synonyms": [
-      ""
+      "Digimon tri. 4"
     ],
     "synonyms_chinese": []
   },
