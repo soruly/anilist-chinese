@@ -33407,7 +33407,9 @@
     "title_japanese": "八尺八話快樂巡り 異形怪奇譚 The Animation",
     "title_romaji": "Hachishaku Hachiwa Keraku Meguri: Igyou Kaikitan The Animation",
     "title_english": "Hachishaku Hachiwa Keraku Meguri: Igyou Kaikitan The Animation",
-    "synonyms": [],
+    "synonyms": [
+      "8-shaku 8-wa Kerakumeguri: Igyou Kaikitan"
+    ],
     "synonyms_chinese": []
   },
   {
@@ -35740,6 +35742,17 @@
     "synonyms_chinese": [
       "Dimension W ～維度戰記～ OVA"
     ]
+  },
+  {
+    "id": 98833,
+    "title_chinese": "競女!!!!!!!! SP",
+    "title_japanese": "競女!!!!!!!! Specials",
+    "title_romaji": "Keijo!!!!!!!! Specials",
+    "title_english": "Keijo!!!!!!!! Specials",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": []
   },
   {
     "id": 98843,
