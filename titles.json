@@ -30057,7 +30057,9 @@
     "synonyms": [
       "SAO THE MOVIE"
     ],
-    "synonyms_chinese": []
+    "synonyms_chinese": [
+      "劇場版 刀劍神域 序列爭戰"
+    ]
   },
   {
     "id": 21404,
@@ -35507,6 +35509,19 @@
       ""
     ],
     "synonyms_chinese": []
+  },
+  {
+    "id": 98554,
+    "title_chinese": "百變小櫻 透明卡篇 小櫻與二人的小熊",
+    "title_japanese": "カードキャプターさくら クリアカード編 プロローグ さくらとふたつのくま",
+    "title_romaji": "Cardcaptor Sakura: Clear Card-hen - Prologue Sakura to Futatsu no Kuma",
+    "title_english": "Cardcaptor Sakura: Clear Card-hen - Prologue Sakura to Futatsu no Kuma",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": [
+      "庫洛魔法使 透明卡篇 小櫻與二人的小熊"
+    ]
   },
   {
     "id": 98557,
