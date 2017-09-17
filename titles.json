@@ -31958,7 +31958,9 @@
     "title_japanese": "魔法使いの嫁 星待つひと",
     "title_romaji": "Mahoutsukai no Yome: Hoshi Matsu Hito",
     "title_english": "The Ancient Magus' Bride",
-    "synonyms": [],
+    "synonyms": [
+      "Mahou Tsukai no Yome: Hoshi Matsu Hito"
+    ],
     "synonyms_chinese": []
   },
   {
@@ -32661,6 +32663,15 @@
       "D機關 黑貓約魯的冒險",
       "代號D機關 黑貓約魯的冒險"
     ]
+  },
+  {
+    "id": 21791,
+    "title_chinese": "文豪Stray Dogs OVA",
+    "title_japanese": "文豪ストレイドッグス 『独り歩む』;",
+    "title_romaji": "Bungou Stray Dogs: Hitori Ayumu",
+    "title_english": "Bungou Stray Dogs OVA",
+    "synonyms": [],
+    "synonyms_chinese": []
   },
   {
     "id": 21795,
@@ -35302,7 +35313,7 @@
     "title_romaji": "Mahoutsukai no Yome",
     "title_english": "The Ancient Magus' Bride",
     "synonyms": [
-      ""
+      "Mahou Tsukai no Yome"
     ],
     "synonyms_chinese": []
   },
