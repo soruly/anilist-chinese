@@ -31068,6 +31068,15 @@
     ]
   },
   {
+    "id": 21555,
+    "title_chinese": "Dies irae",
+    "title_japanese": "ディエス イレ",
+    "title_romaji": "Dies irae",
+    "title_english": "Dies irae",
+    "synonyms": [],
+    "synonyms_chinese": []
+  },
+  {
     "id": 21557,
     "title_chinese": "QUALIDEA CODE",
     "title_japanese": "クオリディア・コード",
@@ -32454,6 +32463,15 @@
     "synonyms_chinese": []
   },
   {
+    "id": 21756,
+    "title_chinese": "Infini-T Force",
+    "title_japanese": "インフィニティフォース",
+    "title_romaji": "Infini-T Force",
+    "title_english": "Infini-T Force",
+    "synonyms": [],
+    "synonyms_chinese": []
+  },
+  {
     "id": 21757,
     "title_chinese": "喜歡你的那一瞬間。～告白實行委員會～",
     "title_japanese": "好きになるその瞬間を。～告白実行委員会",
@@ -33076,6 +33094,17 @@
     "synonyms_chinese": []
   },
   {
+    "id": 21855,
+    "title_chinese": "UQ Holder! ～魔法老師!2～",
+    "title_japanese": "UQ Holder! ～魔法先生ネギま!2～",
+    "title_romaji": "UQ Holder!: Mahou Sensei Negima! 2",
+    "title_english": "UQ Holder!: Mahou Sensei Negima! 2",
+    "synonyms": [],
+    "synonyms_chinese": [
+      "悠久持有者! ～魔法老師!2～"
+    ]
+  },
+  {
     "id": 21856,
     "title_chinese": "我的英雄學院 2",
     "title_japanese": "僕のヒーローアカデミア 2",
@@ -33541,6 +33570,17 @@
     "title_japanese": "カブキブ！",
     "title_romaji": "Kabukibu!",
     "title_english": "Kabukibu!",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": []
+  },
+  {
+    "id": 87504,
+    "title_chinese": "罪人與龍共舞",
+    "title_japanese": "されど罪人は竜と踊る",
+    "title_romaji": "Saredo Tsumibito wa Ryuu to Odoru",
+    "title_english": "Dance with the Dragons",
     "synonyms": [
       ""
     ],
@@ -34120,6 +34160,17 @@
     ]
   },
   {
+    "id": 97769,
+    "title_chinese": "結城友奈是勇者 -勇者之章-",
+    "title_japanese": "結城友奈は勇者である -勇者の章-",
+    "title_romaji": "Yuuki Yuuna wa Yuusha de Aru: Yuusha no Shou",
+    "title_english": "YUKI YUNA IS A HERO: Yuusha no Shou",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": []
+  },
+  {
     "id": 97773,
     "title_chinese": "飯塚先輩×ブレザー -姉キュン! より- THE ANIMATION",
     "title_japanese": "飯塚先輩×ブレザー -姉キュン! より- THE ANIMATION",
@@ -34419,6 +34470,17 @@
     "synonyms_chinese": []
   },
   {
+    "id": 97886,
+    "title_chinese": "血界戰線 & BEYOND",
+    "title_japanese": "血界戦線 & BEYOND",
+    "title_romaji": "Kekkai Sensen & Beyond",
+    "title_english": "Blood Blockade Battlefront & Beyond",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": []
+  },
+  {
     "id": 97889,
     "title_chinese": "銀魂 (2017)",
     "title_japanese": "銀魂。",
@@ -34480,6 +34542,17 @@
     "synonyms_chinese": [
       "櫻花任務"
     ]
+  },
+  {
+    "id": 97904,
+    "title_chinese": "TSUKIPRO THE ANIMATION",
+    "title_japanese": "TSUKIPRO THE ANIMATION",
+    "title_romaji": "TSUKIPRO THE ANIMATION",
+    "title_english": "TSUKIPRO THE ANIMATION",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": []
   },
   {
     "id": 97905,
@@ -34575,6 +34648,17 @@
     ]
   },
   {
+    "id": 97922,
+    "title_chinese": "殺戮重生犬屋敷",
+    "title_japanese": "いぬやしき",
+    "title_romaji": "Inuyashiki",
+    "title_english": "Inuyashiki",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": []
+  },
+  {
     "id": 97932,
     "title_chinese": "王室教師海涅",
     "title_japanese": "王室教師ハイネ",
@@ -34582,6 +34666,17 @@
     "title_english": "The Royal Tutor",
     "synonyms": [
       "Oushitsu Kyoushi Haine"
+    ],
+    "synonyms_chinese": []
+  },
+  {
+    "id": 97933,
+    "title_chinese": "Wake Up, Girls! 新章",
+    "title_japanese": "Wake Up, Girls! 新章",
+    "title_romaji": "Wake Up, Girls! Shin Shou",
+    "title_english": "Wake Up, Girls! Shin Shou",
+    "synonyms": [
+      ""
     ],
     "synonyms_chinese": []
   },
@@ -34598,7 +34693,7 @@
   },
   {
     "id": 97937,
-    "title_chinese": "Dream Festival! 2",
+    "title_chinese": "Dream Festival! R",
     "title_japanese": "ドリフェス！ R",
     "title_romaji": "Dream Festival! R",
     "title_english": "Dream Festival! R",
@@ -34717,6 +34812,17 @@
     "synonyms_chinese": [
       "來自深淵"
     ]
+  },
+  {
+    "id": 97994,
+    "title_chinese": "Blend・S",
+    "title_japanese": "ブレンド・S",
+    "title_romaji": "Blend S",
+    "title_english": "Blend S",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": []
   },
   {
     "id": 97996,
@@ -34911,6 +35017,17 @@
       "星光樂園 偶像時間",
       "美妙天堂 偶像時間"
     ]
+  },
+  {
+    "id": 98108,
+    "title_chinese": "DYNAMIC CHORD",
+    "title_japanese": "DYNAMIC CHORD",
+    "title_romaji": "DYNAMIC CHORD",
+    "title_english": "DYNAMIC CHORD",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": []
   },
   {
     "id": 98143,
@@ -35167,6 +35284,19 @@
     "synonyms_chinese": []
   },
   {
+    "id": 98310,
+    "title_chinese": "The Idolm@ster SideM",
+    "title_japanese": "アイドルマスター SideM",
+    "title_romaji": "The Idolm@ster SideM",
+    "title_english": "The Idolm@ster SideM",
+    "synonyms": [
+      "The Idolmaster Side M"
+    ],
+    "synonyms_chinese": [
+      "偶像大師 SideM"
+    ]
+  },
+  {
     "id": 98314,
     "title_chinese": "狂賭之淵",
     "title_japanese": "賭ケグルイ",
@@ -35235,6 +35365,20 @@
     "synonyms_chinese": [
       "校園大萌主 OVA",
       "YUYU式 OVA"
+    ]
+  },
+  {
+    "id": 98349,
+    "title_chinese": "Love Live! Sunshine!! 2",
+    "title_japanese": "ラブライブ！サンシャイン!! 2",
+    "title_romaji": "Love Live! Sunshine!! 2",
+    "title_english": "Love Live! Sunshine!! 2",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": [
+      "明星學生妹 Sunshine!! 2",
+      "學園偶像祭 Sunshine!! 2"
     ]
   },
   {
@@ -35331,11 +35475,66 @@
     "synonyms_chinese": []
   },
   {
+    "id": 98438,
+    "title_chinese": "鬼燈的冷徹 2",
+    "title_japanese": "鬼灯の冷徹 2",
+    "title_romaji": "Hoozuki no Reitetsu 2",
+    "title_english": "Cool-headed Hoozuki 2",
+    "synonyms": [
+      "Hozuki no Reitetsu"
+    ],
+    "synonyms_chinese": []
+  },
+  {
     "id": 98442,
     "title_chinese": "世界黑暗圖鑒",
     "title_japanese": "世界の闇図鑑",
     "title_romaji": "Sekai no Yami Zukan",
     "title_english": "The World YAMIZUKAN",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": []
+  },
+  {
+    "id": 98443,
+    "title_chinese": "十二大戰",
+    "title_japanese": "十二大戦",
+    "title_romaji": "Juuni Taisen",
+    "title_english": "Juuni Taisen",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": []
+  },
+  {
+    "id": 98448,
+    "title_chinese": "奇諾之旅 The Beautiful World",
+    "title_japanese": "キノの旅-the Beautiful World-　the Animated Series",
+    "title_romaji": "Kino no Tabi: The Beautiful World - the Animated Series",
+    "title_english": "Kino's Journey",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": []
+  },
+  {
+    "id": 98449,
+    "title_chinese": "泥鯨之子們在沙地上歌唱",
+    "title_japanese": "クジラの子らは砂上に歌う",
+    "title_romaji": "Kujira no Kora wa Sajou ni Utau",
+    "title_english": "Children of the Whales",
+    "synonyms": [
+      "KujiSuna"
+    ],
+    "synonyms_chinese": []
+  },
+  {
+    "id": 98473,
+    "title_chinese": "Lostorage Conflated WIXOSS",
+    "title_japanese": "Lostorage Conflated WIXOSS",
+    "title_romaji": "Lostorage Conflated WIXOSS",
+    "title_english": "Lostorage Conflated WIXOSS",
     "synonyms": [
       ""
     ],
@@ -35353,6 +35552,18 @@
     "synonyms_chinese": [
       "海天使的燈火"
     ]
+  },
+  {
+    "id": 98478,
+    "title_chinese": "3月的獅子 2",
+    "title_japanese": "３月のライオン 2",
+    "title_romaji": "3-gatsu no Lion 2",
+    "title_english": "March comes in like a lion 2",
+    "synonyms": [
+      "Sangatsu no Lion 2",
+      ""
+    ],
+    "synonyms_chinese": []
   },
   {
     "id": 98480,
@@ -35427,11 +35638,33 @@
     "synonyms_chinese": []
   },
   {
+    "id": 98506,
+    "title_chinese": "此花亭奇譚",
+    "title_japanese": "このはな綺譚",
+    "title_romaji": "Konohana Kitan",
+    "title_english": "Konohana Kitan",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": []
+  },
+  {
     "id": 98512,
     "title_chinese": "18if",
     "title_japanese": "18if",
     "title_romaji": "18if",
     "title_english": "18if",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": []
+  },
+  {
+    "id": 98513,
+    "title_chinese": "URAHARA",
+    "title_japanese": "URAHARA",
+    "title_romaji": "URAHARA",
+    "title_english": "URAHARA",
     "synonyms": [
       ""
     ],
@@ -35511,6 +35744,19 @@
     "synonyms_chinese": []
   },
   {
+    "id": 98546,
+    "title_chinese": "ClassicaLoid 2",
+    "title_japanese": "クラシカロイド 2",
+    "title_romaji": "ClassicaLoid 2",
+    "title_english": "ClassicaLoid 2",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": [
+      "克拉斯卡勞埃德 2"
+    ]
+  },
+  {
     "id": 98547,
     "title_chinese": "傳頌之物 虛偽的假面 OVA",
     "title_japanese": "うたわれるもの 偽りの仮面",
@@ -35531,6 +35777,17 @@
     "title_english": "MAGIC OF STELLA Specials",
     "synonyms": [
       ""
+    ],
+    "synonyms_chinese": []
+  },
+  {
+    "id": 98549,
+    "title_chinese": "Pop Team Epic",
+    "title_japanese": "ポプテピピック",
+    "title_romaji": "Pop Team Epic",
+    "title_english": "Pop Team Epic",
+    "synonyms": [
+      "Poputepipikku"
     ],
     "synonyms_chinese": []
   },
@@ -35561,6 +35818,19 @@
     "synonyms_chinese": []
   },
   {
+    "id": 98565,
+    "title_chinese": "小松先生 2",
+    "title_japanese": "おそ松さん 2",
+    "title_romaji": "Osomatsu-san 2",
+    "title_english": "Mr. Osomatsu 2",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": [
+      "阿松 2"
+    ]
+  },
+  {
     "id": 98566,
     "title_chinese": "庭球社 9",
     "title_japanese": "てーきゅう9",
@@ -35574,6 +35844,19 @@
       "網球少女 9",
       "網球並不可笑嘛 9",
       "女子搞笑網球 9"
+    ]
+  },
+  {
+    "id": 98572,
+    "title_chinese": "乾物妹小埋 R",
+    "title_japanese": "干物妹! うまるちゃん R",
+    "title_romaji": "Himouto! Umaru-chan R",
+    "title_english": "Himouto! Umaru-chan R",
+    "synonyms": [
+      "Himouto! Umaru-chan Season 2"
+    ],
+    "synonyms_chinese": [
+      "我家有個魚乾妹 R"
     ]
   },
   {
@@ -35623,6 +35906,39 @@
     "synonyms_chinese": []
   },
   {
+    "id": 98596,
+    "title_chinese": "如果有妹妹就好了。",
+    "title_japanese": "妹さえいればいい。",
+    "title_romaji": "Imouto sae Ireba Ii.",
+    "title_english": "Imouto sae Ireba Ii.",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": []
+  },
+  {
+    "id": 98603,
+    "title_chinese": "戰刻夜血",
+    "title_japanese": "戦刻ナイトブラッド",
+    "title_romaji": "Sengoku Night Blood",
+    "title_english": "Sengoku Night Blood",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": []
+  },
+  {
+    "id": 98607,
+    "title_chinese": "動畫同好會",
+    "title_japanese": "アニメガタリズ",
+    "title_romaji": "Anime-Gataris",
+    "title_english": "Anime-Gataris",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": []
+  },
+  {
     "id": 98622,
     "title_chinese": "sin 七大罪 懺悔錄",
     "title_japanese": "sin 七つの大罪 ショートアニメ「懺悔録」",
@@ -35643,6 +35959,17 @@
     "title_english": "Residence",
     "synonyms": [
       ""
+    ],
+    "synonyms_chinese": []
+  },
+  {
+    "id": 98630,
+    "title_chinese": "Code:Realize～創世的姫君～",
+    "title_japanese": "Code:Realize～創世の姫君～",
+    "title_romaji": "Code:Realize - Sousei no Himegimi",
+    "title_english": "Code:Realize - Sousei no Himegimi",
+    "synonyms": [
+      "Code: Realize ~Guardian of Rebirth~"
     ],
     "synonyms_chinese": []
   },
@@ -35682,6 +36009,17 @@
     "synonyms_chinese": []
   },
   {
+    "id": 98657,
+    "title_chinese": "品酒要在成為夫妻後",
+    "title_japanese": "お酒は夫婦になってから",
+    "title_romaji": "Osake wa Fuufu ni Natte Kara",
+    "title_english": "Osake wa Fuufu ni Natte Kara",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": []
+  },
+  {
     "id": 98659,
     "title_chinese": "歡迎來到實力至上主義的教室",
     "title_japanese": "ようこそ実力至上主義の教室へ",
@@ -35715,6 +36053,17 @@
     "synonyms_chinese": [
       "食戟之靈 二之皿 OVA"
     ]
+  },
+  {
+    "id": 98707,
+    "title_chinese": "寶石之國",
+    "title_japanese": "宝石の国",
+    "title_romaji": "Houseki no Kuni",
+    "title_english": "Land of the Lustrous",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": []
   },
   {
     "id": 98715,
@@ -35813,6 +36162,17 @@
     ]
   },
   {
+    "id": 98820,
+    "title_chinese": "Just Because!",
+    "title_japanese": "Just Because！",
+    "title_romaji": "Just Because!",
+    "title_english": "Just Because!",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": []
+  },
+  {
     "id": 98833,
     "title_chinese": "競女!!!!!!!! SP",
     "title_japanese": "競女!!!!!!!! Specials",
@@ -35843,6 +36203,20 @@
     "title_romaji": "BanG Dream! Special",
     "title_english": "BanG Dream! Special",
     "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": []
+  },
+  {
+    "id": 98951,
+    "title_chinese": "我的女友是個過度認真的處女 bitch",
+    "title_japanese": "僕の彼女がマジメ過ぎる処女ビッチな件",
+    "title_romaji": "Boku no Kanojo ga Majime Sugiru Shojo Bitch na Ken",
+    "title_english": "My girlfriend is faithful virgin bitch",
+    "synonyms": [
+      "My Girlfriend Is a Virgin Who Takes Being Slutty Too Seriously",
+      "",
+      "",
       ""
     ],
     "synonyms_chinese": []
@@ -35923,6 +36297,17 @@
     "synonyms_chinese": []
   },
   {
+    "id": 99255,
+    "title_chinese": "食戟之靈 餐之皿",
+    "title_japanese": "食戟のソーマ 餐ノ皿",
+    "title_romaji": "Shokugeki no Souma: San no Sara",
+    "title_english": "Food Wars! The Third Plate",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": []
+  },
+  {
     "id": 99268,
     "title_chinese": "SWAMP STAMP Anime Edition",
     "title_japanese": "SWAMP STAMP Anime Edition",
@@ -35983,6 +36368,19 @@
     ]
   },
   {
+    "id": 99391,
+    "title_chinese": "Love米 -WE LOVE RICE- 2",
+    "title_japanese": "ラブ米 -We Love Rice- 2",
+    "title_romaji": "Love Kome: We Love Rice 2",
+    "title_english": "Love Kome: We Love Rice 2",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": [
+      "愛米~WE LOVE RICE~ 2"
+    ]
+  },
+  {
     "id": 99394,
     "title_chinese": "亞人醬有話要說 OVA",
     "title_japanese": "亜人ちゃんは語りたい 亜人ちゃんの夏休み",
@@ -35990,6 +36388,75 @@
     "title_english": "Interviews with Monster Girls: The Demi-chans' Summer Break",
     "synonyms": [
       "The Demis' Summer Break",
+      ""
+    ],
+    "synonyms_chinese": []
+  },
+  {
+    "id": 99420,
+    "title_chinese": "少女終末旅行",
+    "title_japanese": "少女終末旅行",
+    "title_romaji": "Shoujo Shuumatsu Ryokou",
+    "title_english": "Girls' Last Tour",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": []
+  },
+  {
+    "id": 99636,
+    "title_chinese": "Dia Horizon",
+    "title_japanese": "ディア ホライゾン",
+    "title_romaji": "Dia Horizon",
+    "title_english": "Dia Horizon",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": []
+  },
+  {
+    "id": 99672,
+    "title_chinese": "Two Car",
+    "title_japanese": "つうかあ",
+    "title_romaji": "Two Car",
+    "title_english": "Two Car",
+    "synonyms": [
+      "Tsuuka"
+    ],
+    "synonyms_chinese": [
+      "側邊車搭檔"
+    ]
+  },
+  {
+    "id": 99698,
+    "title_chinese": "國王遊戲",
+    "title_japanese": "王様ゲーム The Animation",
+    "title_romaji": "Ousama Game The Animation",
+    "title_english": "King's Game The Animation",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": []
+  },
+  {
+    "id": 99714,
+    "title_chinese": "銀魂 (2017)",
+    "title_japanese": "銀魂",
+    "title_romaji": "Gintama (Shinsaku)",
+    "title_english": "Gintama (Shinsaku)",
+    "synonyms": [
+      "Gintama. (2017)",
+      "Gintama: Porori-hen"
+    ],
+    "synonyms_chinese": []
+  },
+  {
+    "id": 99726,
+    "title_chinese": "網路勝利組",
+    "title_japanese": "ネト充のススメ",
+    "title_romaji": "Net-juu no Susume",
+    "title_english": "Recovery of an MMO Junkie",
+    "synonyms": [
       ""
     ],
     "synonyms_chinese": []
@@ -36021,6 +36488,33 @@
     "synonyms_chinese": []
   },
   {
+    "id": 99741,
+    "title_chinese": "雨色可可 2017",
+    "title_japanese": "雨色ココア (2017)",
+    "title_romaji": "Ame-con!!",
+    "title_english": "Ame-con!!",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": [
+      "雨色可可 4"
+    ]
+  },
+  {
+    "id": 99742,
+    "title_chinese": "THE iDOLM@STER: Cinderella Girls 2期",
+    "title_japanese": "シンデレラガールズ劇場 2期",
+    "title_romaji": "Cinderella Girls Gekijou 2nd Season",
+    "title_english": "Cinderella Girls Gekijou 2nd Season",
+    "synonyms": [
+      "Cingeki 2",
+      "The IDOLM@STER Cinderella Girls Gekijou 2"
+    ],
+    "synonyms_chinese": [
+      "偶像大師 灰姑娘女孩 2期"
+    ]
+  },
+  {
     "id": 99743,
     "title_chinese": "ヒトヅマライフ ワンタイムギャル",
     "title_japanese": "ヒトヅマライフ ワンタイムギャル",
@@ -36033,6 +36527,17 @@
     "synonyms_chinese": []
   },
   {
+    "id": 99796,
+    "title_chinese": "牙狼 Vanishing Line",
+    "title_japanese": "牙狼＜GARO＞-VANISHING LINE-",
+    "title_romaji": "GARO -VANISHING LINE-",
+    "title_english": "GARO -VANISHING LINE-",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": []
+  },
+  {
     "id": 99817,
     "title_chinese": "僕だけのヘンタイカノジョ もっと",
     "title_japanese": "僕だけのヘンタイカノジョ もっと",
@@ -36040,6 +36545,17 @@
     "title_english": "Boku Dake no Hentai Kanojo: Motto",
     "synonyms": [
       "My Perverted Girlfriend: More"
+    ],
+    "synonyms_chinese": []
+  },
+  {
+    "id": 99894,
+    "title_chinese": "相親對象是我教的強勢問題兒",
+    "title_japanese": "お見合い相手は教え子、強気な、問題児",
+    "title_romaji": "Omiai Aite wa Oshiego, Tsuyoki na, Mondaiji",
+    "title_english": "Omiai Aite wa Oshiego, Tsuyoki na, Mondaiji",
+    "synonyms": [
+      ""
     ],
     "synonyms_chinese": []
   }
