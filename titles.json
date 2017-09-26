@@ -33557,7 +33557,7 @@
     "id": 87498,
     "title_chinese": "最遊記RELOAD BLAST",
     "title_japanese": "最遊記RELOAD BLAST",
-    "title_romaji": "Saiyuuki Reload Blast",
+    "title_romaji": "Saiyuuki RELOAD BLAST",
     "title_english": "SAIYUKI RELOAD BLAST",
     "synonyms": [
       ""
@@ -35891,6 +35891,17 @@
     "title_japanese": "変形少女",
     "title_romaji": "Henkei Shoujo",
     "title_english": "Henkei Shoujo",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": []
+  },
+  {
+    "id": 98580,
+    "title_chinese": "小林家的女僕龍",
+    "title_japanese": "小林さんちのメイドラゴン",
+    "title_romaji": "Kobayashi-san Chi no Maidragon Special",
+    "title_english": "Miss Kobayashi's Dragon Maid Special",
     "synonyms": [
       ""
     ],
