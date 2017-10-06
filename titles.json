@@ -32521,8 +32521,8 @@
     "id": 21758,
     "title_chinese": "なま LO Re: なまけもの THE ANIMATION",
     "title_japanese": "なま LO Re: なまけもの THE ANIMATION",
-    "title_romaji": "Nama LO re: Nama Kemono The Animation",
-    "title_english": "Nama LO re: Nama Kemono The Animation",
+    "title_romaji": "Nama LO Re: Nama Kemono The Animation",
+    "title_english": "Nama LO Re: Nama Kemono The Animation",
     "synonyms": [],
     "synonyms_chinese": []
   },
@@ -36344,7 +36344,7 @@
       "UQ Holder! Episode 0"
     ],
     "synonyms_chinese": [
-      "悠久持有者! OV"
+      "悠久持有者! OVA"
     ]
   },
   {
@@ -36511,6 +36511,17 @@
     "title_english": "Imouto Bitch ni Shiboraretai",
     "synonyms": [
       ""
+    ],
+    "synonyms_chinese": []
+  },
+  {
+    "id": 99556,
+    "title_chinese": "キメ恋!",
+    "title_japanese": "キメ恋!",
+    "title_romaji": "Kime Koi!",
+    "title_english": "Kime Koi!",
+    "synonyms": [
+      "Kimekoi!"
     ],
     "synonyms_chinese": []
   },
