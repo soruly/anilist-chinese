@@ -25756,6 +25756,15 @@
     "synonyms_chinese": []
   },
   {
+    "id": 20769,
+    "title_chinese": "No Game No Life SP",
+    "title_japanese": "ノーゲーム・ノーライフ ミニ",
+    "title_romaji": "No Game No Life Specials",
+    "title_english": "No Game No Life Specials",
+    "synonyms": [],
+    "synonyms_chinese": []
+  },
+  {
     "id": 20770,
     "title_chinese": "晨曦公主",
     "title_japanese": "暁のヨナ",
@@ -36473,6 +36482,17 @@
     "synonyms_chinese": []
   },
   {
+    "id": 99441,
+    "title_chinese": "オトメ＊ドメイン THE ANIMATION",
+    "title_japanese": "オトメ＊ドメイン THE ANIMATION",
+    "title_romaji": "Otome Domain: The Animation",
+    "title_english": "Otome Domain: The Animation",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": []
+  },
+  {
     "id": 99518,
     "title_chinese": "Implicity",
     "title_japanese": "Implicity",
@@ -36661,6 +36681,17 @@
     "title_english": "Sakyubamisuto Story The Animation",
     "synonyms": [
       "Succuba Mist Story The Animation"
+    ],
+    "synonyms_chinese": []
+  },
+  {
+    "id": 100006,
+    "title_chinese": "熟女志願～KINBAKU～",
+    "title_japanese": "熟女志願～KINBAKU～",
+    "title_romaji": "Jukujo Shigan: Kinbaku",
+    "title_english": "Jukujo Shigan: Kinbaku",
+    "synonyms": [
+      ""
     ],
     "synonyms_chinese": []
   }
