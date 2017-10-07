@@ -34520,6 +34520,17 @@
     "synonyms_chinese": []
   },
   {
+    "id": 97876,
+    "title_chinese": "大正小小先生",
+    "title_japanese": "大正ちっちゃいさん",
+    "title_romaji": "Taishou Mebius Line: Chicchai-san",
+    "title_english": "Taishou Mebius Line: Chicchai-san",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": []
+  },
+  {
     "id": 97886,
     "title_chinese": "血界戰線 & BEYOND",
     "title_japanese": "血界戦線 & BEYOND",
@@ -35595,6 +35606,17 @@
     "synonyms_chinese": []
   },
   {
+    "id": 98451,
+    "title_chinese": "恩星與魔法平板 ~另一位午睡公主~",
+    "title_japanese": "エンシェンと魔法のタブレット ~もうひとつのひるね姫~",
+    "title_romaji": "Ancien to Mahou no Tablet: Mou Hitotsu no Hirune Hime",
+    "title_english": "Ancien to Mahou no Tablet: Mou Hitotsu no Hirune Hime",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": []
+  },
+  {
     "id": 98473,
     "title_chinese": "Lostorage Conflated WIXOSS",
     "title_japanese": "Lostorage Conflated WIXOSS",
@@ -35711,7 +35733,9 @@
     "synonyms": [
       ""
     ],
-    "synonyms_chinese": []
+    "synonyms_chinese": [
+      "此花奇譚"
+    ]
   },
   {
     "id": 98512,
