@@ -32475,8 +32475,8 @@
     "title_romaji": "Kiniro Mosaic: Pretty Days",
     "title_english": "Kiniro Mosaic: Pretty Days",
     "synonyms": [
-      "Kinmoza",
-      "Kinmosa"
+      "",
+      ""
     ],
     "synonyms_chinese": [
       "金色馬賽克 Pretty Days",
@@ -32652,9 +32652,9 @@
   {
     "id": 21777,
     "title_chinese": "無彩限的幻影世界 OVA",
-    "title_japanese": "無彩限のファントム・ワールド OVA",
-    "title_romaji": "Musaigen no Phantom World OVA",
-    "title_english": "Myriad Colors Phantom World OVA",
+    "title_japanese": "無彩限のファントム・ワールド 水玉の奇跡",
+    "title_romaji": "Musaigen no Phantom World: Mizutama no Kiseki",
+    "title_english": "Myriad Colors Phantom World: Mizutama no Kiseki",
     "synonyms": [],
     "synonyms_chinese": [
       "無彩限的魅影世界 OVA",
@@ -35701,13 +35701,13 @@
   {
     "id": 98502,
     "title_chinese": "小林家的女僕龍 SP",
-    "title_japanese": "小林さんちのメイドラゴン",
-    "title_romaji": "Kobayashi-san Chi no Maidragon Specials",
-    "title_english": "Miss Kobayashi's Dragon Maid Specials",
+    "title_japanese": "小林さんちの○○ドラゴン",
+    "title_romaji": "Kobayashi-san Chi no OO Dragon",
+    "title_english": "Kobayashi-san Chi no OO Dragon",
     "synonyms": [
-      "Kobayashi-san Chi no OO Dragon",
-      "Miss Kobayashi's OO Dragon",
-      "Miss Kobayashi's Dragon Maid Something",
+      "",
+      "",
+      "",
       "",
       ""
     ],
