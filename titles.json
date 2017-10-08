@@ -29259,8 +29259,10 @@
     "title_chinese": "怪物彈珠",
     "title_japanese": "モンスターストライク",
     "title_romaji": "Monster Strike",
-    "title_english": "Monster Strike",
-    "synonyms": [],
+    "title_english": "Monster Strike the Animation",
+    "synonyms": [
+      ""
+    ],
     "synonyms_chinese": []
   },
   {
@@ -34879,7 +34881,7 @@
     "title_chinese": "Blend・S",
     "title_japanese": "ブレンド・S",
     "title_romaji": "Blend S",
-    "title_english": "Blend S",
+    "title_english": "BLEND-S",
     "synonyms": [
       ""
     ],
@@ -35004,7 +35006,7 @@
     "title_chinese": "怪物彈珠 2",
     "title_japanese": "モンスターストライク 2",
     "title_romaji": "Monster Strike 2",
-    "title_english": "Monster Strike 2",
+    "title_english": "Monster Strike the Anime 2nd Season",
     "synonyms": [
       ""
     ],
@@ -36078,7 +36080,7 @@
     "title_chinese": "Code:Realize～創世的姫君～",
     "title_japanese": "Code:Realize～創世の姫君～",
     "title_romaji": "Code:Realize - Sousei no Himegimi",
-    "title_english": "Code:Realize - Sousei no Himegimi",
+    "title_english": "Code: Realize ~Guardian of Rebirth~",
     "synonyms": [
       "Code: Realize ~Guardian of Rebirth~"
     ],
@@ -36227,7 +36229,10 @@
     "title_romaji": "Oide yo! Mizuryuu Kei Land",
     "title_english": "Oide yo! Mizuryuu Kei Land",
     "synonyms": [
-      "Come here! Mizuryuu Kei Land"
+      "Oideyo! Mizuryuu Kei Land",
+      "Come here! Mizuryuu Kei Land",
+      "",
+      ""
     ],
     "synonyms_chinese": []
   },
