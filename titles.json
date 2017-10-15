@@ -31987,6 +31987,15 @@
     ]
   },
   {
+    "id": 21684,
+    "title_chinese": "魔法科高中的劣等生 呼喚繁星的少女",
+    "title_japanese": "劇場版 魔法科高校の劣等生 星を呼ぶ少女",
+    "title_romaji": "Mahouka Koukou no Rettousei Movie: Hoshi o Yobu Shoujo",
+    "title_english": "The Irregular at Magic High School on The Movie: Hoshi o Yobu Shoujo",
+    "synonyms": [],
+    "synonyms_chinese": []
+  },
+  {
     "id": 21685,
     "title_chinese": "情色漫畫老師",
     "title_japanese": "エロマンガ先生",
@@ -33321,6 +33330,17 @@
     ]
   },
   {
+    "id": 21875,
+    "title_chinese": "No Game No Life Zero",
+    "title_japanese": "ノーゲーム・ノーライフ ゼロ",
+    "title_romaji": "No Game No Life -Zero-",
+    "title_english": "No Game No Life -Zero-",
+    "synonyms": [
+      "NO GAME NO LIFE Movie"
+    ],
+    "synonyms_chinese": []
+  },
+  {
     "id": 21876,
     "title_chinese": "Nazotokine",
     "title_japanese": "ナゾトキネ",
@@ -34184,6 +34204,19 @@
       ""
     ],
     "synonyms_chinese": []
+  },
+  {
+    "id": 97757,
+    "title_chinese": "Fate/kaleid liner Prisma☆Illya 雪下的誓言",
+    "title_japanese": "Fate/kaleid liner プリズマ☆イリヤ 雪下の誓い",
+    "title_romaji": "Fate/kaleid liner Prisma☆Illya: Sekka no Chikai",
+    "title_english": "Fate/kaleid liner Prisma☆Illya: Sekka no Chikai",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": [
+      "Fate/kaleid liner 魔法少女☆伊莉雅 雪下的誓言"
+    ]
   },
   {
     "id": 97765,
