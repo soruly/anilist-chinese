@@ -10809,6 +10809,19 @@
     ]
   },
   {
+    "id": 5020,
+    "title_chinese": "絕對衝激 ～PLATONIC HEART～",
+    "title_japanese": "絶対衝激～プラトニックハート～",
+    "title_romaji": "Zettai Shougeki: Platonic Heart",
+    "title_english": "Master of Martial Hearts",
+    "synonyms": [
+      "Zettai Shogeki"
+    ],
+    "synonyms_chinese": [
+      "絕對衝激 ～柏拉圖之心～"
+    ]
+  },
+  {
     "id": 5028,
     "title_chinese": "棒球大聯盟 第5季",
     "title_japanese": "メジャー",
@@ -34229,6 +34242,17 @@
     "synonyms_chinese": []
   },
   {
+    "id": 97735,
+    "title_chinese": "花辮兒小神明",
+    "title_japanese": "みつあみの神様",
+    "title_romaji": "Mitsuami no Kamisama",
+    "title_english": "Pigtails",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": []
+  },
+  {
     "id": 97745,
     "title_chinese": "新撰組鎮魂歌",
     "title_japanese": "ちるらん にぶんの壱",
@@ -34923,6 +34947,20 @@
     "synonyms_chinese": [
       "Re:創世主們"
     ]
+  },
+  {
+    "id": 97981,
+    "title_chinese": "瑪麗與魔女之花",
+    "title_japanese": "メアリと魔女の花",
+    "title_romaji": "Mary to Majo no Hana",
+    "title_english": "Mary and The Witch's Flower",
+    "synonyms": [
+      "The Little Broomstick",
+      "",
+      "",
+      ""
+    ],
+    "synonyms_chinese": []
   },
   {
     "id": 97983,
