@@ -26717,6 +26717,19 @@
     "synonyms_chinese": []
   },
   {
+    "id": 20919,
+    "title_chinese": "虐殺器官",
+    "title_japanese": "虐殺器官",
+    "title_romaji": "Gyakusatsu Kikan",
+    "title_english": "Genocidal Organ",
+    "synonyms": [
+      "Project Itoh"
+    ],
+    "synonyms_chinese": [
+      "伊籐計劃"
+    ]
+  },
+  {
     "id": 20920,
     "title_chinese": "在地下城尋求邂逅是否搞錯了什麼",
     "title_japanese": "ダンジョンに出会いを求めるのは間違っているだろうか",
@@ -34765,6 +34778,17 @@
     ]
   },
   {
+    "id": 97917,
+    "title_chinese": "春宵苦短，少女前進吧！",
+    "title_japanese": "夜は短し歩けよ乙女",
+    "title_romaji": "Yoru wa Mijikashi Arukeyo Otome",
+    "title_english": "The Night is Short, Walk on Girl",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": []
+  },
+  {
     "id": 97921,
     "title_chinese": "DIVE!!",
     "title_japanese": "DIVE!!",
@@ -36702,6 +36726,17 @@
     ]
   },
   {
+    "id": 99685,
+    "title_chinese": "は～とふるママン THE ANIMATION",
+    "title_japanese": "は～とふるママン THE ANIMATION",
+    "title_romaji": "Heartful Maman The Animation",
+    "title_english": "Heartful Maman The Animation",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": []
+  },
+  {
     "id": 99698,
     "title_chinese": "國王遊戲",
     "title_japanese": "王様ゲーム The Animation",
@@ -36862,6 +36897,17 @@
       "相親對象是強硬的問題學生",
       "相親對象是自己的學生，強勢的問題兒童。"
     ]
+  },
+  {
+    "id": 99911,
+    "title_chinese": "かぎろひ~勺景~ Another",
+    "title_japanese": "かぎろひ~勺景~ Another",
+    "title_romaji": "Kagirohi: Shaku Kei - Another",
+    "title_english": "Kagirohi: Shaku Kei - Another",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": []
   },
   {
     "id": 100004,
