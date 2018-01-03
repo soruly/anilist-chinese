@@ -32362,6 +32362,15 @@
     "synonyms_chinese": []
   },
   {
+    "id": 21717,
+    "title_chinese": "Fate/EXTRA Last Encore",
+    "title_japanese": "Fate/EXTRA Last Encore",
+    "title_romaji": "Fate/EXTRA Last Encore",
+    "title_english": "Fate/EXTRA Last Encore",
+    "synonyms": [],
+    "synonyms_chinese": []
+  },
+  {
     "id": 21721,
     "title_chinese": "小飛翔魔女",
     "title_japanese": "ふらいんぐうぃっち ぷち",
@@ -33046,6 +33055,17 @@
     ]
   },
   {
+    "id": 21827,
+    "title_chinese": "Violet Evergarden",
+    "title_japanese": "ヴァイオレット・エヴァーガーデン",
+    "title_romaji": "Violet Evergarden",
+    "title_english": "Violet Evergarden",
+    "synonyms": [],
+    "synonyms_chinese": [
+      "紫羅蘭永恆花園"
+    ]
+  },
+  {
     "id": 21828,
     "title_chinese": "小女ラムネ",
     "title_japanese": "小女ラムネ",
@@ -33698,7 +33718,9 @@
     "synonyms": [
       ""
     ],
-    "synonyms_chinese": []
+    "synonyms_chinese": [
+      "IDOLiSH Seven"
+    ]
   },
   {
     "id": 87496,
@@ -34356,6 +34378,17 @@
     ]
   },
   {
+    "id": 97768,
+    "title_chinese": "皇帝聖印戰記",
+    "title_japanese": "グランクレスト戦記",
+    "title_romaji": "Grancrest Senki",
+    "title_english": "Record of Grancrest War",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": []
+  },
+  {
     "id": 97769,
     "title_chinese": "結城友奈是勇者 -勇者之章-",
     "title_japanese": "結城友奈は勇者である -勇者の章-",
@@ -34489,6 +34522,17 @@
     "title_english": "Alice & Zoroku",
     "synonyms": [
       "Alice and Zouroku",
+      ""
+    ],
+    "synonyms_chinese": []
+  },
+  {
+    "id": 97832,
+    "title_chinese": "citrus",
+    "title_japanese": "citrus",
+    "title_romaji": "citrus",
+    "title_english": "citrus",
+    "synonyms": [
       ""
     ],
     "synonyms_chinese": []
@@ -34677,6 +34721,17 @@
     "synonyms_chinese": []
   },
   {
+    "id": 97881,
+    "title_chinese": "百變小櫻 透明卡篇",
+    "title_japanese": "カードキャプターさくら クリアカード編",
+    "title_romaji": "Cardcaptor Sakura: Clear Card-hen",
+    "title_english": "Cardcaptor Sakura: Clear Card",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": []
+  },
+  {
     "id": 97886,
     "title_chinese": "血界戰線 & BEYOND",
     "title_japanese": "血界戦線 & BEYOND",
@@ -34770,6 +34825,17 @@
     "synonyms": [
       "Nuki Doki! Tenshi to Akuma no Sakusei Battle - Revolution",
       "Nuki Doki! Revolution: The Milking Battle of Angels and Demons"
+    ],
+    "synonyms_chinese": []
+  },
+  {
+    "id": 97907,
+    "title_chinese": "爆肝工程師的異世界狂想曲",
+    "title_japanese": "デスマーチからはじまる異世界狂想曲",
+    "title_romaji": "Death March Kara Hajimaru Isekai Kyousoukyoku",
+    "title_english": "Death March to the Parallel World Rhapsody",
+    "synonyms": [
+      ""
     ],
     "synonyms_chinese": []
   },
@@ -35135,6 +35201,17 @@
     "synonyms_chinese": []
   },
   {
+    "id": 98034,
+    "title_chinese": "齊木楠雄的災難 2",
+    "title_japanese": "斉木楠雄のΨ難 2",
+    "title_romaji": "Saiki Kusuo no Ψ Nan 2",
+    "title_english": "The Disastrous Life of Saiki K. 2",
+    "synonyms": [
+      "Saiki Kusuo no Psi Nan 2"
+    ],
+    "synonyms_chinese": []
+  },
+  {
     "id": 98035,
     "title_chinese": "Fate／Apocrypha",
     "title_japanese": "Fate/Apocrypha",
@@ -35392,6 +35469,17 @@
     "title_english": "Tamashii: Insert",
     "synonyms": [
       "Soul Insert"
+    ],
+    "synonyms_chinese": []
+  },
+  {
+    "id": 98217,
+    "title_chinese": "三麗鷗男子",
+    "title_japanese": "サンリオ男子",
+    "title_romaji": "Sanrio Danshi",
+    "title_english": "Sanrio Danshi",
+    "synonyms": [
+      ""
     ],
     "synonyms_chinese": []
   },
@@ -35676,6 +35764,33 @@
     "synonyms_chinese": []
   },
   {
+    "id": 98385,
+    "title_chinese": "愛在雨過天晴時",
+    "title_japanese": "恋は雨上がりのように",
+    "title_romaji": "Koi wa Ameagari no You ni",
+    "title_english": "Koi wa Ameagari no You ni",
+    "synonyms": [
+      "Koi wa Amaagari no You ni",
+      "Love is Like after the Rain"
+    ],
+    "synonyms_chinese": [
+      "戀如雨止"
+    ]
+  },
+  {
+    "id": 98389,
+    "title_chinese": "Killing Bites",
+    "title_japanese": "キリングバイツ",
+    "title_romaji": "Killing Bites",
+    "title_english": "Killing Bites",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": [
+      "牙鬥獸娘"
+    ]
+  },
+  {
     "id": 98402,
     "title_chinese": "數碼暴龍大冒險tri. 第5章「共生」",
     "title_japanese": "デジモンアドベンチャー tri. 第5章「共生」",
@@ -35770,6 +35885,20 @@
     "synonyms_chinese": []
   },
   {
+    "id": 98437,
+    "title_chinese": "Overlord II",
+    "title_japanese": "オーバーロードⅡ",
+    "title_romaji": "Overlord II",
+    "title_english": "Overlord II",
+    "synonyms": [
+      "Over Lord 2",
+      "",
+      "",
+      ""
+    ],
+    "synonyms_chinese": []
+  },
+  {
     "id": 98438,
     "title_chinese": "鬼燈的冷徹 2",
     "title_japanese": "鬼灯の冷徹 2",
@@ -35780,6 +35909,20 @@
       "Cool-headed Hoozuki 2"
     ],
     "synonyms_chinese": []
+  },
+  {
+    "id": 98439,
+    "title_chinese": "三星colors",
+    "title_japanese": "三ツ星カラーズ",
+    "title_romaji": "Mitsuboshi Colors",
+    "title_english": "Mitsuboshi Colors",
+    "synonyms": [
+      "三星★★★colors",
+      "3boshi"
+    ],
+    "synonyms_chinese": [
+      "三顆星彩色冒險"
+    ]
   },
   {
     "id": 98442,
@@ -35799,6 +35942,19 @@
     "title_romaji": "Juuni Taisen",
     "title_english": "JUNI TAISEN：ZODIAC WAR",
     "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": []
+  },
+  {
+    "id": 98444,
+    "title_chinese": "搖曳露營",
+    "title_japanese": "ゆるキャン△",
+    "title_romaji": "Yuru Camp△",
+    "title_english": "Laid-Back Camp Δ",
+    "synonyms": [
+      "Yurucamp",
+      "Yurukyan△",
       ""
     ],
     "synonyms_chinese": []
@@ -35833,6 +35989,17 @@
     "title_japanese": "エンシェンと魔法のタブレット ~もうひとつのひるね姫~",
     "title_romaji": "Ancien to Mahou no Tablet: Mou Hitotsu no Hirune Hime",
     "title_english": "Ancien to Mahou no Tablet: Mou Hitotsu no Hirune Hime",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": []
+  },
+  {
+    "id": 98460,
+    "title_chinese": "DEVILMAN crybaby",
+    "title_japanese": "DEVILMAN crybaby",
+    "title_romaji": "Devilman crybaby",
+    "title_english": "Devilman crybaby",
     "synonyms": [
       ""
     ],
@@ -35918,6 +36085,17 @@
       "",
       "",
       "",
+      ""
+    ],
+    "synonyms_chinese": []
+  },
+  {
+    "id": 98503,
+    "title_chinese": "學園奶爸",
+    "title_japanese": "学園ベビーシッターズ",
+    "title_romaji": "Gakuen Babysitters",
+    "title_english": "School Babysitters",
+    "synonyms": [
       ""
     ],
     "synonyms_chinese": []
@@ -36022,6 +36200,17 @@
     ]
   },
   {
+    "id": 98520,
+    "title_chinese": "續 刀劍亂舞-花丸-",
+    "title_japanese": "続刀剣乱舞-花丸-",
+    "title_romaji": "Zoku Touken Ranbu: Hanamaru",
+    "title_english": "Zoku Touken Ranbu: Hanamaru",
+    "synonyms": [
+      "Touken Ranbu: Hanamaru 2"
+    ],
+    "synonyms_chinese": []
+  },
+  {
     "id": 98524,
     "title_chinese": "Gabriel DropOut",
     "title_japanese": "ガヴリールドロップアウト",
@@ -36064,6 +36253,17 @@
     "title_english": "Zton Jingai Animation: A Beautiful Greed Nulu Nulu",
     "synonyms": [
       "Z-ton Jingai Animation: A Beautiful Greed Nulu Nulu"
+    ],
+    "synonyms_chinese": []
+  },
+  {
+    "id": 98529,
+    "title_chinese": "愛吃拉麵的小泉同學",
+    "title_japanese": "ラーメン大好き小泉さん",
+    "title_romaji": "Ramen Daisuki Koizumi-san",
+    "title_english": "Ms. Koizumi loves ramen noodles",
+    "synonyms": [
+      ""
     ],
     "synonyms_chinese": []
   },
@@ -36409,6 +36609,17 @@
     "synonyms_chinese": []
   },
   {
+    "id": 98693,
+    "title_chinese": "Slow Start",
+    "title_japanese": "スロウスタート",
+    "title_romaji": "Slow Start",
+    "title_english": "Slow Start",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": []
+  },
+  {
     "id": 98702,
     "title_chinese": "食戟之靈 貳之皿 OVA",
     "title_japanese": "食戟のソーマ 弍ノ皿 OVA",
@@ -36438,6 +36649,17 @@
     "title_japanese": "イケメン戦国◆時をかける恋",
     "title_romaji": "Ikemen Sengoku: Toki o Kakeru Koi",
     "title_english": "Ikemen Sengoku: Bromances Across Time",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": []
+  },
+  {
+    "id": 98747,
+    "title_chinese": "刀使之巫女",
+    "title_japanese": "刀使ノ巫女",
+    "title_romaji": "Toji no Miko",
+    "title_english": "Katana Maidens ~ Toji No Miko",
     "synonyms": [
       ""
     ],
@@ -36706,6 +36928,19 @@
     "synonyms_chinese": []
   },
   {
+    "id": 99148,
+    "title_chinese": "銀之守墓人 2",
+    "title_japanese": "銀の墓守り 2",
+    "title_romaji": "Gin no Guardian 2",
+    "title_english": "The Silver Guardian 2",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": [
+      "銀色守墓者 2"
+    ]
+  },
+  {
     "id": 99255,
     "title_chinese": "食戟之靈 餐之皿",
     "title_japanese": "食戟のソーマ 餐ノ皿",
@@ -36777,6 +37012,17 @@
     ]
   },
   {
+    "id": 99390,
+    "title_chinese": "木乃伊飼育法",
+    "title_japanese": "ミイラの飼い方",
+    "title_romaji": "Miira no Kaikata",
+    "title_english": "How to keep a mummy",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": []
+  },
+  {
     "id": 99391,
     "title_chinese": "Love米 -WE LOVE RICE- 2",
     "title_japanese": "ラブ米 -WE LOVE RICE- 二期作",
@@ -36813,11 +37059,91 @@
     "synonyms_chinese": []
   },
   {
+    "id": 99423,
+    "title_chinese": "DARLING in the FRANKXX",
+    "title_japanese": "ダーリン・イン・ザ・フランキス",
+    "title_romaji": "Darling in the Franxx",
+    "title_english": "DARLING in the FRANXX",
+    "synonyms": [
+      "DarliFra"
+    ],
+    "synonyms_chinese": []
+  },
+  {
+    "id": 99426,
+    "title_chinese": "比宇宙更遙遠的地方",
+    "title_japanese": "宇宙よりも遠い場所",
+    "title_romaji": "Sora yori mo Tooi Basho",
+    "title_english": "A Place Further Than the Universe",
+    "synonyms": [
+      "Uchuu Yorimo Toui Basho",
+      "Sora yorimo Tooi Basho",
+      "A story that leads to the Antarctica",
+      "Uchuu yori mo Tooi Basho"
+    ],
+    "synonyms_chinese": [
+      "比宇宙更遠的地方"
+    ]
+  },
+  {
     "id": 99441,
     "title_chinese": "オトメ＊ドメイン THE ANIMATION",
     "title_japanese": "オトメ＊ドメイン THE ANIMATION",
     "title_romaji": "Otome*Domain The Animation",
     "title_english": "Otome*Domain The Animation",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": []
+  },
+  {
+    "id": 99468,
+    "title_chinese": "擅長捉弄人的高木同學",
+    "title_japanese": "からかい上手の高木さん",
+    "title_romaji": "Karakai Jouzu no Takagi-san",
+    "title_english": "Karakai Jouzu no Takagi-san",
+    "synonyms": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "synonyms_chinese": []
+  },
+  {
+    "id": 99476,
+    "title_chinese": "飆速宅男 GLORY LINE",
+    "title_japanese": "弱虫ペダルGLORY LINE",
+    "title_romaji": "Yowamushi Pedal: GLORY LINE",
+    "title_english": "Yowamushi Pedal: GLORY LINE",
+    "synonyms": [
+      "YowaPeda 4",
+      "",
+      "",
+      ""
+    ],
+    "synonyms_chinese": [
+      "弱蟲腳踏板 GLORY LINE",
+      "飈速宅男 GLORY LINE"
+    ]
+  },
+  {
+    "id": 99483,
+    "title_chinese": "博多豚骨拉麵",
+    "title_japanese": "博多豚骨ラーメンズ",
+    "title_romaji": "Hakata Tonkotsu Ramens",
+    "title_english": "Hakata Tonkotsu Ramens",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": []
+  },
+  {
+    "id": 99507,
+    "title_chinese": "龍王的工作！",
+    "title_japanese": "りゅうおうのおしごと!",
+    "title_romaji": "Ryuuou no Oshigoto!",
+    "title_english": "The Ryuo's Work is Never Done!",
     "synonyms": [
       ""
     ],
@@ -36831,6 +37157,17 @@
     "title_english": "Implicity",
     "synonyms": [
       "Implicity: Donors make human world peace."
+    ],
+    "synonyms_chinese": []
+  },
+  {
+    "id": 99539,
+    "title_chinese": "七大罪 戒律的復活",
+    "title_japanese": "七つの大罪 戒めの復活",
+    "title_romaji": "Nanatsu no Taizai: Imashime no Fukkatsu",
+    "title_english": "The Seven Deadly Sins: Revival of the Commandments",
+    "synonyms": [
+      ""
     ],
     "synonyms_chinese": []
   },
@@ -36858,6 +37195,17 @@
     "synonyms_chinese": []
   },
   {
+    "id": 99569,
+    "title_chinese": "櫻花忍法帖",
+    "title_japanese": "バジリスク ～桜花忍法帖～",
+    "title_romaji": "Basilisk: Ouka Ninpouchou",
+    "title_english": "Basilisk: The Ouka Ninja Scrolls",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": []
+  },
+  {
     "id": 99636,
     "title_chinese": "Dia Horizon",
     "title_japanese": "ディア ホライゾン（被）",
@@ -36865,6 +37213,18 @@
     "title_english": "Dia Horizon Kabu",
     "synonyms": [
       "Dia Horizon: Hi"
+    ],
+    "synonyms_chinese": []
+  },
+  {
+    "id": 99637,
+    "title_chinese": "Dame x Prince ANIME CARAVAN",
+    "title_japanese": "ダメプリ ANIME CARAVAN",
+    "title_romaji": "Dame×Prince ANIME CARAVAN",
+    "title_english": "Dame×Prince ANIME CARAVAN",
+    "synonyms": [
+      "DamePri",
+      "Dame x Prince Anime Caravan"
     ],
     "synonyms_chinese": []
   },
@@ -36916,6 +37276,18 @@
     "synonyms_chinese": []
   },
   {
+    "id": 99720,
+    "title_chinese": "童話・少女",
+    "title_japanese": "メルヘン・メドヘン",
+    "title_romaji": "Märchen Mädchen",
+    "title_english": "Märchen Mädchen",
+    "synonyms": [
+      "Marchen Madchen",
+      "Fairy Girls"
+    ],
+    "synonyms_chinese": []
+  },
+  {
     "id": 99726,
     "title_chinese": "網路勝利組",
     "title_japanese": "ネト充のススメ",
@@ -36927,6 +37299,19 @@
       "Recommendation of the Wonderful Virtual Life",
       "Recommendation of The Internet Enhancement",
       "Netoju"
+    ],
+    "synonyms_chinese": []
+  },
+  {
+    "id": 99727,
+    "title_chinese": "霸穹 封神演義",
+    "title_japanese": "覇穹 封神演義",
+    "title_romaji": "Hakyuu Houshin Engi",
+    "title_english": "Hakyuu Houshin Engi",
+    "synonyms": [
+      "Hakyuu: Houshin Engi",
+      "Soul Hunter",
+      "Senkai-den Houshin Engi"
     ],
     "synonyms_chinese": []
   },
@@ -36951,6 +37336,17 @@
     "title_japanese": "Gundam Build Fighters: GM no Gyakushuu",
     "title_romaji": "Gundam Build Fighters: GM no Gyakushuu",
     "title_english": "Gundam Build Fighters: GM no Gyakushuu",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": []
+  },
+  {
+    "id": 99734,
+    "title_chinese": "粗點心戰爭 2",
+    "title_japanese": "だがしかし 2",
+    "title_romaji": "Dagashi Kashi 2",
+    "title_english": "Dagashi Kashi 2",
     "synonyms": [
       ""
     ],
@@ -36997,6 +37393,31 @@
     "synonyms_chinese": []
   },
   {
+    "id": 99748,
+    "title_chinese": "妖精森林的小不點",
+    "title_japanese": "ハクメイとミコチ",
+    "title_romaji": "Hakumei to Mikochi",
+    "title_english": "Hakumei and Mikochi",
+    "synonyms": [
+      "Hakumei & Mikochi",
+      "Kobito Hiyori",
+      "",
+      ""
+    ],
+    "synonyms_chinese": []
+  },
+  {
+    "id": 99753,
+    "title_chinese": "居家飲酒趣",
+    "title_japanese": "たくのみ。",
+    "title_romaji": "Takunomi.",
+    "title_english": "Takunomi.",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": []
+  },
+  {
     "id": 99796,
     "title_chinese": "牙狼 Vanishing Line",
     "title_japanese": "牙狼＜GARO＞-VANISHING LINE-",
@@ -37037,6 +37458,17 @@
     "title_english": "Ryuudouji Shimon no Inbou",
     "synonyms": [
       "Ryuudouji Shimon's Obscene Plot"
+    ],
+    "synonyms_chinese": []
+  },
+  {
+    "id": 99888,
+    "title_chinese": "怪獸娘～超人力霸王怪獸擬人化計劃～ 2期",
+    "title_japanese": "怪獣娘[かいじゅうがーるず] ~ウルトラ怪獣擬人化計画~ 第2シリーズ",
+    "title_romaji": "Kaijuu Girls: Ultra Kaijuu Gijinka Keikaku 2",
+    "title_english": "Kaijuu Girls: Ultra Kaijuu Gijinka Keikaku 2",
+    "synonyms": [
+      "Kaiju Girls 2"
     ],
     "synonyms_chinese": []
   },
@@ -37103,6 +37535,19 @@
       "Neko Para OVA"
     ],
     "synonyms_chinese": []
+  },
+  {
+    "id": 99940,
+    "title_chinese": "伊藤潤二 恐怖Collection",
+    "title_japanese": "伊藤潤二「コレクション」",
+    "title_romaji": "Ito Junji: Collection",
+    "title_english": "Junji Ito Collection",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": [
+      "伊藤潤二 恐怖收集"
+    ]
   },
   {
     "id": 99964,
@@ -37174,6 +37619,17 @@
     "synonyms_chinese": []
   },
   {
+    "id": 100245,
+    "title_chinese": "BEATLESS",
+    "title_japanese": "ビートレス",
+    "title_romaji": "Beatless",
+    "title_english": "Beatless",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": []
+  },
+  {
     "id": 100288,
     "title_chinese": "ジュヴナイルポルノグラフィ THE ANIMATION",
     "title_japanese": "ジュヴナイルポルノグラフィ THE ANIMATION",
@@ -37183,6 +37639,19 @@
       ""
     ],
     "synonyms_chinese": []
+  },
+  {
+    "id": 100332,
+    "title_chinese": "刻刻",
+    "title_japanese": "刻刻",
+    "title_romaji": "Kokkoku",
+    "title_english": "Kokkoku",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": [
+      "刻刻-時間暫停-"
+    ]
   },
   {
     "id": 100436,
@@ -37207,6 +37676,39 @@
     "synonyms_chinese": []
   },
   {
+    "id": 100635,
+    "title_chinese": "25歲的女高中生",
+    "title_japanese": "25歳の女子高生",
+    "title_romaji": "25-sai no Joshikousei",
+    "title_english": "25-sai no Joshikousei",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": []
+  },
+  {
+    "id": 100644,
+    "title_chinese": "七美德",
+    "title_japanese": "七つの美徳",
+    "title_romaji": "Nanatsu no Bitoku",
+    "title_english": "The Seven Heavenly Virtues",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": []
+  },
+  {
+    "id": 100657,
+    "title_chinese": "Marronni☆Yell",
+    "title_japanese": "サクラノチカイ～まろに☆え～る 東の飛鳥下野市をえーる！～",
+    "title_romaji": "Sakura no Chikai: Marronni☆Yell - Higashi no Hichou Shimotsuke-shi wo Yell!",
+    "title_english": "Sakura no Chikai: Marronni☆Yell - Higashi no Hichou Shimotsuke-shi wo Yell!",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": []
+  },
+  {
     "id": 100791,
     "title_chinese": "結城友奈是勇者 -鷲尾須美之章-",
     "title_japanese": "結城友奈は勇者である -鷲尾須美の章-",
@@ -37216,5 +37718,31 @@
       ""
     ],
     "synonyms_chinese": []
+  },
+  {
+    "id": 100813,
+    "title_chinese": "靈契·黃泉之契",
+    "title_japanese": "灵契",
+    "title_romaji": "Ling Qi: Bond of the Underworld",
+    "title_english": "Ling Qi: Bond of the Underworld",
+    "synonyms": [
+      "Spiritpact: Yomi no Chigiri",
+      "「spiritpact」-黄泉の契り",
+      "Ling Qi 2"
+    ],
+    "synonyms_chinese": []
+  },
+  {
+    "id": 100855,
+    "title_chinese": "衛宮家今天的飯",
+    "title_japanese": "衛宮さんちの今日のごはん",
+    "title_romaji": "Emiya-san Chi no Kyou no Gohan",
+    "title_english": "Today's Menu for Emiya Family",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": [
+      "衛宮家今天的餐桌風景"
+    ]
   }
 ]
