@@ -20704,6 +20704,8 @@
     ],
     "synonyms_chinese": [
       "校園大萌主",
+      "幼幼式",
+      "柚柚式",
       "YUYU式"
     ]
   },
@@ -34736,7 +34738,8 @@
     ],
     "synonyms_chinese": [
       "百變小櫻Magic咭 透明卡篇",
-      "百變小櫻魔法卡 透明卡篇"
+      "百變小櫻魔法卡 透明卡篇",
+      "魔卡少女櫻 透明卡篇"
     ]
   },
   {
@@ -35740,6 +35743,8 @@
     ],
     "synonyms_chinese": [
       "校園大萌主 OVA",
+      "幼幼式 OVA",
+      "柚柚式 OVA",
       "YUYU式 OVA"
     ]
   },
@@ -36334,7 +36339,9 @@
     "synonyms": [
       "Poputepipikku"
     ],
-    "synonyms_chinese": []
+    "synonyms_chinese": [
+      "Pop子和Pipi美的日常"
+    ]
   },
   {
     "id": 98554,
@@ -37240,7 +37247,7 @@
     "title_chinese": "Dame x Prince ANIME CARAVAN",
     "title_japanese": "ダメプリ ANIME CARAVAN",
     "title_romaji": "Dame×Prince ANIME CARAVAN",
-    "title_english": "Dame×Prince ANIME CARAVAN",
+    "title_english": "DamePri Anime Caravan",
     "synonyms": [
       "DamePri",
       "Dame x Prince Anime Caravan"
@@ -37726,6 +37733,17 @@
     "title_english": "Sakura no Chikai: Marronni☆Yell - Higashi no Hichou Shimotsuke-shi wo Yell!",
     "synonyms": [
       ""
+    ],
+    "synonyms_chinese": []
+  },
+  {
+    "id": 100784,
+    "title_chinese": "銀魂 銀之魂篇",
+    "title_japanese": "銀魂. 銀ノ魂篇",
+    "title_romaji": "Gintama. Gin no Tamashii-hen",
+    "title_english": "Gintama. Gin no Tamashii-hen",
+    "synonyms": [
+      "Gintama.: Silver Soul Arc"
     ],
     "synonyms_chinese": []
   },
