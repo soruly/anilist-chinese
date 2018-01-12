@@ -36278,7 +36278,9 @@
     "synonyms": [
       ""
     ],
-    "synonyms_chinese": []
+    "synonyms_chinese": [
+      "喜歡拉麵的小泉同學"
+    ]
   },
   {
     "id": 98536,
@@ -37303,7 +37305,7 @@
   },
   {
     "id": 99720,
-    "title_chinese": "童話・少女",
+    "title_chinese": "童話魔法使",
     "title_japanese": "メルヘン・メドヘン",
     "title_romaji": "Märchen Mädchen",
     "title_english": "Märchen Mädchen",
@@ -37311,7 +37313,11 @@
       "Marchen Madchen",
       "Fairy Girls"
     ],
-    "synonyms_chinese": []
+    "synonyms_chinese": [
+      "童話・少女",
+      "原書·見習生",
+      "原書·原書使"
+    ]
   },
   {
     "id": 99726,
