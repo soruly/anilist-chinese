@@ -37088,7 +37088,7 @@
   },
   {
     "id": 99423,
-    "title_chinese": "DARLING in the FRANKXX",
+    "title_chinese": "DARLING in the FRANXX",
     "title_japanese": "ダーリン・イン・ザ・フランキス",
     "title_romaji": "Darling in the Franxx",
     "title_english": "DARLING in the FRANXX",
@@ -37447,7 +37447,10 @@
     "synonyms": [
       ""
     ],
-    "synonyms_chinese": []
+    "synonyms_chinese": [
+      "酒鬼妹子",
+      "宅飲"
+    ]
   },
   {
     "id": 99796,
@@ -37662,7 +37665,9 @@
     "synonyms": [
       ""
     ],
-    "synonyms_chinese": []
+    "synonyms_chinese": [
+      "沒有心跳的少女"
+    ]
   },
   {
     "id": 100288,
