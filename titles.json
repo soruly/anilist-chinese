@@ -36425,6 +36425,18 @@
     "synonyms_chinese": []
   },
   {
+    "id": 98574,
+    "title_chinese": "一人之下 The Outcast 2",
+    "title_japanese": "一人之下 THE OUTCAST 2ndシーズン",
+    "title_romaji": "Hitori no Shita: The Outcast 2nd Season",
+    "title_english": "Hitori no Shita: The Outcast 2nd Season",
+    "synonyms": [
+      "Hitori no Shita: the outcast 2",
+      "hitorinoshita - The Outcast"
+    ],
+    "synonyms_chinese": []
+  },
+  {
     "id": 98576,
     "title_chinese": "Chaos;Child: Silent Sky",
     "title_japanese": "Chaos;Child: Silent Sky",
@@ -37236,6 +37248,18 @@
     "synonyms_chinese": []
   },
   {
+    "id": 99634,
+    "title_chinese": "進擊的巨人 LOST GIRLS",
+    "title_japanese": "進撃の巨人 LOST GIRLS",
+    "title_romaji": "Shingeki no Kyojin: Lost Girls",
+    "title_english": "Attack on Titan: Lost Girls",
+    "synonyms": [
+      "Epispde 16.5A: Wall Sina",
+      " Goodbye"
+    ],
+    "synonyms_chinese": []
+  },
+  {
     "id": 99636,
     "title_chinese": "Dia Horizon",
     "title_japanese": "ディア ホライゾン（被）",
@@ -37659,6 +37683,17 @@
     "synonyms_chinese": []
   },
   {
+    "id": 100226,
+    "title_chinese": "EVIL OR LIVE",
+    "title_japanese": "EVIL OR LIVE",
+    "title_romaji": "EVIL OR LIVE",
+    "title_english": "EVIL OR LIVE",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": []
+  },
+  {
     "id": 100245,
     "title_chinese": "BEATLESS",
     "title_japanese": "ビートレス",
@@ -37732,6 +37767,17 @@
     "synonyms_chinese": []
   },
   {
+    "id": 100620,
+    "title_chinese": "新幹線變形機器人Shinkalion",
+    "title_japanese": "新幹線変形ロボ シンカリオン",
+    "title_romaji": "Shinkansen Henkei Robo Shinkalion",
+    "title_english": "Shinkansen Henkei Robo Shinkalion",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": []
+  },
+  {
     "id": 100635,
     "title_chinese": "25歲的女高中生",
     "title_japanese": "25歳の女子高生",
@@ -37761,6 +37807,21 @@
     "title_english": "Sakura no Chikai: Marronni☆Yell - Higashi no Hichou Shimotsuke-shi wo Yell!",
     "synonyms": [
       ""
+    ],
+    "synonyms_chinese": []
+  },
+  {
+    "id": 100684,
+    "title_chinese": "網路勝利組 OVA",
+    "title_japanese": "ネト充のススメ",
+    "title_romaji": "Net-juu no Susume OVA",
+    "title_english": "Recovery of an MMO Junkie OVA",
+    "synonyms": [
+      "Neto-juu no Susume OVA",
+      "Netojuu no Susume OVA",
+      "Recommendation of the Wonderful Virtual Life OVA",
+      "Recommendation of The Internet Enhancement OVA",
+      "Netoju OVA"
     ],
     "synonyms_chinese": []
   },
@@ -37820,6 +37881,28 @@
     "title_english": "Mameneko",
     "synonyms": [
       "Mame Neko"
+    ],
+    "synonyms_chinese": []
+  },
+  {
+    "id": 100873,
+    "title_chinese": "働くお兄さん!",
+    "title_japanese": "働くお兄さん!",
+    "title_romaji": "Hataraku Onii-san!",
+    "title_english": "Working Buddies!",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": []
+  },
+  {
+    "id": 100910,
+    "title_chinese": "ピカちんキット",
+    "title_japanese": "ピカちんキット",
+    "title_romaji": "Pikachin-Kit",
+    "title_english": "Pikachin-Kit",
+    "synonyms": [
+      ""
     ],
     "synonyms_chinese": []
   }
