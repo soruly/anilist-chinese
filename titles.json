@@ -17019,6 +17019,15 @@
     "synonyms_chinese": []
   },
   {
+    "id": 10958,
+    "title_chinese": "High Score",
+    "title_japanese": "High Score",
+    "title_romaji": "High Score",
+    "title_english": "High Score",
+    "synonyms": [],
+    "synonyms_chinese": []
+  },
+  {
     "id": 11001,
     "title_chinese": "圖書館戰爭 革命之翼",
     "title_japanese": "図書館戦争 革命のつばさ",
@@ -18454,6 +18463,15 @@
     "synonyms_chinese": []
   },
   {
+    "id": 12611,
+    "title_chinese": "戰國Collection",
+    "title_japanese": "戦国コレクション",
+    "title_romaji": "Sengoku Collection",
+    "title_english": "Parallel World Samurai",
+    "synonyms": [],
+    "synonyms_chinese": []
+  },
+  {
     "id": 12651,
     "title_chinese": "紙箱戰機W",
     "title_japanese": "ダンボール戦機 Ｗ",
@@ -18741,6 +18759,15 @@
     "synonyms_chinese": [
       "自新世界"
     ]
+  },
+  {
+    "id": 13139,
+    "title_chinese": "學活！",
+    "title_japanese": "ガッ活!",
+    "title_romaji": "Gakkatsu!",
+    "title_english": "Gakkatsu!",
+    "synonyms": [],
+    "synonyms_chinese": []
   },
   {
     "id": 13159,
@@ -21516,6 +21543,17 @@
     "synonyms_chinese": []
   },
   {
+    "id": 17147,
+    "title_chinese": "學活！第二季",
+    "title_japanese": "ガッ活！ 第2シーズン",
+    "title_romaji": "Gakkatsu! 2nd Season",
+    "title_english": "Gakkatsu! 2nd Season",
+    "synonyms": [
+      "Gakkatsu! Dai 2 Series"
+    ],
+    "synonyms_chinese": []
+  },
+  {
     "id": 17157,
     "title_chinese": "ノ・ゾ・キ・ア・ナ",
     "title_japanese": "ノ・ゾ・キ・ア・ナ",
@@ -24148,6 +24186,19 @@
     "title_romaji": "Nagato Yuki-chan no Shoushitsu",
     "title_english": "The Disappearance of Nagato Yuki-chan",
     "synonyms": [],
+    "synonyms_chinese": []
+  },
+  {
+    "id": 20567,
+    "title_chinese": "GJ部@",
+    "title_japanese": "GJ部@",
+    "title_romaji": "GJ-bu@",
+    "title_english": "GJ-bu@",
+    "synonyms": [
+      "GJ-bu Special",
+      "GJ Club Special",
+      "Good Job-bu Special"
+    ],
     "synonyms_chinese": []
   },
   {
@@ -31936,6 +31987,15 @@
     "synonyms": [
       "DanMachi: FAMILIA MYTH"
     ],
+    "synonyms_chinese": []
+  },
+  {
+    "id": 21661,
+    "title_chinese": "侍靈演武：將星亂",
+    "title_japanese": "侍灵演武",
+    "title_romaji": "Soul Buster",
+    "title_english": "Soul Buster",
+    "synonyms": [],
     "synonyms_chinese": []
   },
   {
