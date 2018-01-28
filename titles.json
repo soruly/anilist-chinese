@@ -7768,6 +7768,17 @@
     "synonyms_chinese": []
   },
   {
+    "id": 2354,
+    "title_chinese": "Devilman The Birth",
+    "title_japanese": "デビルマン 誕生編",
+    "title_romaji": "Devilman: The Birth",
+    "title_english": "Devilman: The Birth",
+    "synonyms": [
+      "Devilman: Tanjou Hen"
+    ],
+    "synonyms_chinese": []
+  },
+  {
     "id": 2367,
     "title_chinese": "萌單",
     "title_japanese": "もえたん",
@@ -35679,6 +35690,17 @@
     "synonyms_chinese": []
   },
   {
+    "id": 98298,
+    "title_chinese": "寵物小精靈劇場版 就決定是你了！",
+    "title_japanese": "劇場版 ポケットモンスター キミにきめた!",
+    "title_romaji": "Pokemon: Kimi ni Kimeta!",
+    "title_english": "Pokemon: Kimi ni Kimeta!",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": []
+  },
+  {
     "id": 98306,
     "title_chinese": "ずっと好きだった",
     "title_japanese": "ずっと好きだった",
@@ -37745,6 +37767,17 @@
     "synonyms_chinese": []
   },
   {
+    "id": 100184,
+    "title_chinese": "Lostorage incited WIXOSS -missing link-",
+    "title_japanese": "Lostorage incited WIXOSS -missing link-",
+    "title_romaji": "Lostorage incited WIXOSS -missing link-",
+    "title_english": "Lostorage incited WIXOSS -missing link-",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": []
+  },
+  {
     "id": 100226,
     "title_chinese": "EVIL OR LIVE",
     "title_japanese": "EVIL OR LIVE",
@@ -37873,6 +37906,20 @@
     "synonyms_chinese": []
   },
   {
+    "id": 100659,
+    "title_chinese": "To LOVE-Ru Multiplication",
+    "title_japanese": "To LOVEる -とらぶる- Multiplication ~前から後ろから~",
+    "title_romaji": "To LOVE-Ru: Multiplication - Mae kara Ushiro kara",
+    "title_english": "To LOVE-Ru: Multiplication - Mae kara Ushiro kara",
+    "synonyms": [
+      "To LOVE-Ru (2017)",
+      "To Love ru: Trouble - Multiplication",
+      " From the Front",
+      " from Behind"
+    ],
+    "synonyms_chinese": []
+  },
+  {
     "id": 100684,
     "title_chinese": "網路勝利組 OVA",
     "title_japanese": "ネト充のススメ",
@@ -37963,6 +38010,17 @@
     "title_japanese": "ピカちんキット",
     "title_romaji": "Pikachin-Kit",
     "title_english": "Pikachin-Kit",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": []
+  },
+  {
+    "id": 100912,
+    "title_chinese": "泥鯨之子們在沙地上歌唱 OVA",
+    "title_japanese": "クジラの子らは砂上に歌う",
+    "title_romaji": "Kujira no Kora wa Sajou ni Utau Specials",
+    "title_english": "Children of the Whales Specials",
     "synonyms": [
       ""
     ],
