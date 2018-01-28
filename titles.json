@@ -21661,6 +21661,21 @@
     ]
   },
   {
+    "id": 17341,
+    "title_chinese": "登山物語 牆壁不可怕？",
+    "title_japanese": "ヤマノススメ 壁って怖くないの？",
+    "title_romaji": "Yama no Susume: Kabette Kowakunai no?",
+    "title_english": "Encouragement of Climb: Kabette Kowakunai no?",
+    "synonyms": [
+      "Yama no Susume Episode 13"
+    ],
+    "synonyms_chinese": [
+      "前進吧！登山少女 牆壁不可怕？",
+      "向山進發 牆壁不可怕？",
+      "來去登山 牆壁不可怕？"
+    ]
+  },
+  {
     "id": 17351,
     "title_chinese": "漫畫少女！",
     "title_japanese": "まんがーる! 遊ぶへんしゅうがぁる",
@@ -32446,6 +32461,21 @@
     "synonyms_chinese": []
   },
   {
+    "id": 21718,
+    "title_chinese": "Fate/stay night [Heaven's Feel] II. lost butterfly",
+    "title_japanese": "Fate/stay night[Heaven's Feel] ⅠⅠ.lost butterfly",
+    "title_romaji": "Fate/stay night [Heaven's Feel] II. lost butterfly",
+    "title_english": "Fate/stay night [Heaven's Feel] II. lost butterfly",
+    "synonyms": [],
+    "synonyms_chinese": [
+      "命運守護夜",
+      "命運之夜",
+      "聖杯戰爭",
+      "Fate/stay night 命運／停駐之夜",
+      "命運Fate"
+    ]
+  },
+  {
     "id": 21721,
     "title_chinese": "小飛翔魔女",
     "title_japanese": "ふらいんぐうぃっち ぷち",
@@ -36931,6 +36961,21 @@
       ""
     ],
     "synonyms_chinese": []
+  },
+  {
+    "id": 98868,
+    "title_chinese": "登山物語 回憶的禮物",
+    "title_japanese": "ヤマノススメ おもいでプレゼント",
+    "title_romaji": "Yama no Susume: Omoide Present",
+    "title_english": "Encouragement of Climb: Omoide Present",
+    "synonyms": [
+      ""
+    ],
+    "synonyms_chinese": [
+      "前進吧！登山少女 回憶的禮物",
+      "向山進發 回憶的禮物",
+      "來去登山 回憶的禮物"
+    ]
   },
   {
     "id": 98897,
