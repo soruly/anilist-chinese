@@ -1,0 +1,25 @@
+{
+  "name": "anilist-chinese",
+  "version": "1.0.0",
+  "description": "Tampermonkey extension to translate anilist titles to chinese",
+  "main": "anilist-chinese.user.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soruly/anilist-chinese.git"
+  },
+  "keywords": [
+    "anilist"
+  ],
+  "author": "soruly",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/soruly/anilist-chinese/issues"
+  },
+  "homepage": "https://github.com/soruly/anilist-chinese#readme",
+  "dependencies": {
+    "mariasql": "^0.2.6"
+  }
+}
