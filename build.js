@@ -13,7 +13,7 @@ const c = new MariaClient({
 
 c.query("SELECT * FROM anilist_chinese", (error, rows) => {
   const db = rows.map(e=>({id: parseInt(e.id), title: JSON.parse(e.json).title.chinese}));
-  const db_str = db.map(e=>JSON.stringify(e).replace(/"id":/g, "id:").replace(/"title":/g, "title:")).join("\n");
+  const db_str = db.map(e=>JSON.stringify(e).replace(/"id":/g, "id:").replace(/"title":/g, "title:")).join(",\n");
   const template = fs.readFileSync("template.js", "utf8");
   const d = new Date();
   const version_str = `1.${d.getFullYear()}.${d.getMonth()+1}.${d.getDate()}`;
