@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      1.2018.2.21
+// @version      1.2018.2.22
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -3258,6 +3258,7 @@ var database = [
 {id:100332,title:"刻刻"},
 {id:100397,title:"Cherry & Gal's↑↑"},
 {id:100436,title:"Jewelry The Animation"},
+{id:100451,title:"新妹魔王的契約者 DEPARTURES"},
 {id:100479,title:"ドSな生徒会長サマがMノートに支配されました。"},
 {id:100485,title:"リアルエロゲシチュエーション！ THE ANIMATION"},
 {id:100486,title:"ようこそ！ スケベエルフの森へ"},
