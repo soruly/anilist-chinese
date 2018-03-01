@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      1.2018.2.22
+// @version      1.2018.3.1
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -3266,9 +3266,11 @@ var database = [
 {id:100527,title:"gd Men"},
 {id:100620,title:"新幹線變形機器人Shinkalion"},
 {id:100635,title:"25歲的女高中生"},
+{id:100641,title:"なりゆき→パパ活GIRLS!! THE ANIMATION"},
 {id:100644,title:"七美德"},
 {id:100657,title:"Marronni☆Yell"},
 {id:100659,title:"To LOVE-Ru Multiplication"},
+{id:100667,title:"フリフレ2"},
 {id:100684,title:"網路勝利組 OVA"},
 {id:100735,title:"ねぇ、…しよ♥"},
 {id:100784,title:"銀魂 銀之魂篇"},
