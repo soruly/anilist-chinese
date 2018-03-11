@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      1.2018.3.1
+// @version      1.2018.3.11
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -3223,6 +3223,7 @@ var database = [
 {id:99698,title:"國王遊戲"},
 {id:99714,title:"銀魂 (2017)"},
 {id:99720,title:"童話魔法使"},
+{id:99725,title:"A.I.C.O. -Incarnation-"},
 {id:99726,title:"網路勝利組"},
 {id:99727,title:"霸穹 封神演義"},
 {id:99731,title:"Gundam Build Fighters: Battlogue"},
