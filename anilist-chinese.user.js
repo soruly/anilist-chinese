@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      1.2018.3.11
+// @version      1.2018.3.12
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -3271,6 +3271,7 @@ var database = [
 {id:100644,title:"七美德"},
 {id:100657,title:"Marronni☆Yell"},
 {id:100659,title:"To LOVE-Ru Multiplication"},
+{id:100661,title:"Hugtto! Precure"},
 {id:100667,title:"フリフレ2"},
 {id:100684,title:"網路勝利組 OVA"},
 {id:100735,title:"ねぇ、…しよ♥"},
