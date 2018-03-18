@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      1.2018.3.12
+// @version      1.2018.3.18
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -2759,6 +2759,7 @@ var database = [
 {id:21660,title:"在地下城尋求邂逅是否搞錯了什麼 FAMILIA MYTH"},
 {id:21661,title:"侍靈演武：將星亂"},
 {id:21662,title:"銀之守墓人"},
+{id:21665,title:"B The Beginning"},
 {id:21666,title:"信長的忍者"},
 {id:21667,title:"氷堂伊吹 ～完璧伊吹会長が拘束ドMな理由～"},
 {id:21668,title:"ヌーディストビーチに修学旅行で!! THE ANIMATION"},
@@ -3182,6 +3183,7 @@ var database = [
 {id:98847,title:"BanG Dream! OVA"},
 {id:98856,title:"武裝少女Machiavellianism OVA"},
 {id:98868,title:"登山物語 回憶的禮物"},
+{id:98876,title:"劇場版 吹響！上低音號 ～想要傳達的旋律～"},
 {id:98878,title:"第一次的辣妹 OVA"},
 {id:98897,title:"A-Channel 吃火煱吧"},
 {id:98951,title:"我的女友是個過度認真的處女 bitch"},
@@ -3283,7 +3285,8 @@ var database = [
 {id:100873,title:"働くお兄さん!"},
 {id:100910,title:"ピカちんキット"},
 {id:100911,title:"エンコ―J●ビッチギャル オジサンとなまパコ性活"},
-{id:100912,title:"泥鯨之子們在沙地上歌唱 OVA"}
+{id:100912,title:"泥鯨之子們在沙地上歌唱 OVA"},
+{id:101124,title:"妻ネトリ"}
 ];
 
 var translate = function(){
