@@ -1,8 +1,9 @@
 ## Anilist 中文化
+[![](https://david-dm.org/soruly/anilist-chinese/status.svg)](https://david-dm.org/soruly/anilist-chinese)
 
 這個瀏覽器插件可以把[Anilist](http://anilist.co)上的動畫名稱中文化
 
-js檔內嵌了所有已翻譯的動畫中文名稱，隨着 Tampermonkey / Greasemonkey 更新js 檔時會一拼更新
+js檔內嵌了所有已翻譯的動畫中文名稱，隨着 Tampermonkey / Greasemonkey 更新 js 檔時會一拼更新
 
 ## 安裝方法
 
