@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      1.2018.3.18
+// @version      1.2018.3.21
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -1223,6 +1223,7 @@ var database = [
 {id:9047,title:"科學超電磁砲 OVA"},
 {id:9055,title:"玉響"},
 {id:9062,title:"Angel Beats! OVA"},
+{id:9063,title:"科學超電磁砲 #13'"},
 {id:9065,title:"薄櫻鬼 碧血錄"},
 {id:9074,title:"荒川爆笑團 第二季"},
 {id:9107,title:"寵物小精靈BW"},
