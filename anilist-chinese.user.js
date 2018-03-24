@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      1.2018.3.21
+// @version      1.2018.3.24
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -3161,6 +3161,7 @@ var database = [
 {id:98623,title:"レジデンス"},
 {id:98630,title:"Code:Realize～創世的姫君～"},
 {id:98631,title:"便利店男友"},
+{id:98635,title:"ReLIFE 完結篇"},
 {id:98642,title:"SUPER LOVERS OVA"},
 {id:98655,title:"尋找身體"},
 {id:98657,title:"品酒要在成為夫妻後"},
