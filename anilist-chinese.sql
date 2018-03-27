@@ -3132,7 +3132,7 @@ INSERT INTO `anilist_chinese` VALUES (98442,'{\"title\":{\"chinese\":\"世界黑
 INSERT INTO `anilist_chinese` VALUES (98443,'{\"title\":{\"chinese\":\"十二大戰\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (98444,'{\"title\":{\"chinese\":\"搖曳露營\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (98448,'{\"title\":{\"chinese\":\"奇諾之旅 The Beautiful World\"},\"synonyms_chinese\":[\"奇諾之旅 美麗的世界\"]}');
-INSERT INTO `anilist_chinese` VALUES (98449,'{\"title\":{\"chinese\":\"泥鯨之子們在沙地上歌唱\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (98449,'{\"title\":{\"chinese\":\"泥鯨之子們在沙地上歌唱\"},\"synonyms_chinese\":[\"鯨魚的孩子們在沙海上歌唱\"]}');
 INSERT INTO `anilist_chinese` VALUES (98451,'{\"title\":{\"chinese\":\"恩星與魔法平板 ~另一位午睡公主~\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (98460,'{\"title\":{\"chinese\":\"DEVILMAN crybaby\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (98473,'{\"title\":{\"chinese\":\"Lostorage Conflated WIXOSS\"},\"synonyms_chinese\":[]}');
@@ -3308,7 +3308,7 @@ INSERT INTO `anilist_chinese` VALUES (100871,'{\"title\":{\"chinese\":\"豆豆�
 INSERT INTO `anilist_chinese` VALUES (100873,'{\"title\":{\"chinese\":\"働くお兄さん!\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (100910,'{\"title\":{\"chinese\":\"ピカちんキット\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (100911,'{\"title\":{\"chinese\":\"エンコ―J●ビッチギャル オジサンとなまパコ性活\"},\"synonyms_chinese\":[]}');
-INSERT INTO `anilist_chinese` VALUES (100912,'{\"title\":{\"chinese\":\"泥鯨之子們在沙地上歌唱 OVA\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (100912,'{\"title\":{\"chinese\":\"泥鯨之子們在沙地上歌唱 OVA\"},\"synonyms_chinese\":[\"鯨魚的孩子們在沙海上歌唱 OVA\"]}');
 INSERT INTO `anilist_chinese` VALUES (101124,'{\"title\":{\"chinese\":\"妻ネトリ\"},\"synonyms_chinese\":[]}');
 /*!40000 ALTER TABLE `anilist_chinese` ENABLE KEYS */;
 UNLOCK TABLES;
@@ -3322,4 +3322,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2018-03-26  0:34:01
+-- Dump completed on 2018-03-27  0:34:01
