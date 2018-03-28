@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      1.2018.3.24
+// @version      1.2018.3.28
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -3119,6 +3119,8 @@ var database = [
 {id:98478,title:"3月的獅子 2"},
 {id:98480,title:"堕落令嬢 THE ANIMATION"},
 {id:98491,title:"帶著智慧型手機闖蕩異世界"},
+{id:98495,title:"劇場版 Free!-Timeless Medley- 絆"},
+{id:98496,title:"劇場版 Free!-Timeless Medley- 約束"},
 {id:98501,title:"妖怪公寓的優雅日常"},
 {id:98502,title:"小林家的女僕龍 SP"},
 {id:98503,title:"學園奶爸"},

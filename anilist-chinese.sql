@@ -3140,6 +3140,8 @@ INSERT INTO `anilist_chinese` VALUES (98475,'{\"title\":{\"chinese\":\"海天使
 INSERT INTO `anilist_chinese` VALUES (98478,'{\"title\":{\"chinese\":\"3月的獅子 2\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (98480,'{\"title\":{\"chinese\":\"堕落令嬢 THE ANIMATION\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (98491,'{\"title\":{\"chinese\":\"帶著智慧型手機闖蕩異世界\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (98495,'{\"title\":{\"chinese\":\"劇場版 Free!-Timeless Medley- 絆\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (98496,'{\"title\":{\"chinese\":\"劇場版 Free!-Timeless Medley- 約束\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (98501,'{\"title\":{\"chinese\":\"妖怪公寓的優雅日常\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (98502,'{\"title\":{\"chinese\":\"小林家的女僕龍 SP\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (98503,'{\"title\":{\"chinese\":\"學園奶爸\"},\"synonyms_chinese\":[]}');
@@ -3322,4 +3324,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2018-03-28  0:34:01
+-- Dump completed on 2018-03-28 16:07:02
