@@ -2878,6 +2878,7 @@ INSERT INTO `anilist_chinese` VALUES (21802,'{\"title\":{\"chinese\":\"奇異太
 INSERT INTO `anilist_chinese` VALUES (21803,'{\"title\":{\"chinese\":\"斬首循環-藍色學者與戲言跟班\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (21804,'{\"title\":{\"chinese\":\"齊木楠雄的災難\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (21805,'{\"title\":{\"chinese\":\"PINKERTON\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (21813,'{\"title\":{\"chinese\":\"請問您今天要來點兔子嗎？？~Dear My Sister~\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (21814,'{\"title\":{\"chinese\":\"Gundam Build Fighters Try OVA\"},\"synonyms_chinese\":[\"高達創戰者TRY 鳥上熱戰\",\"鋼彈創鬥者TRY OVA\",\"敢達創戰者TRY OVA\"]}');
 INSERT INTO `anilist_chinese` VALUES (21815,'{\"title\":{\"chinese\":\"Strike the Blood II\"},\"synonyms_chinese\":[\"噬血狂襲 II\"]}');
 INSERT INTO `anilist_chinese` VALUES (21817,'{\"title\":{\"chinese\":\"亞爾斯蘭戰記 OVA\"},\"synonyms_chinese\":[\"阿爾斯蘭戰記 OVA\"]}');
@@ -3284,6 +3285,7 @@ INSERT INTO `anilist_chinese` VALUES (100245,'{\"title\":{\"chinese\":\"BEATLESS
 INSERT INTO `anilist_chinese` VALUES (100283,'{\"title\":{\"chinese\":\"夏目友人帳 陸 OVA\"},\"synonyms_chinese\":[\"妖怪連絡簿 陸 OVA\"]}');
 INSERT INTO `anilist_chinese` VALUES (100288,'{\"title\":{\"chinese\":\"ジュヴナイルポルノグラフィ THE ANIMATION\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (100332,'{\"title\":{\"chinese\":\"刻刻\"},\"synonyms_chinese\":[\"刻刻-時間暫停-\"]}');
+INSERT INTO `anilist_chinese` VALUES (100341,'{\"title\":{\"chinese\":\"重神機潘多拉\"},\"synonyms_chinese\":[\"重機神潘多拉\"]}');
 INSERT INTO `anilist_chinese` VALUES (100397,'{\"title\":{\"chinese\":\"Cherry & Gal\'s↑↑\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (100436,'{\"title\":{\"chinese\":\"Jewelry The Animation\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (100451,'{\"title\":{\"chinese\":\"新妹魔王的契約者 DEPARTURES\"},\"synonyms_chinese\":[]}');
@@ -3292,6 +3294,7 @@ INSERT INTO `anilist_chinese` VALUES (100485,'{\"title\":{\"chinese\":\"リア�
 INSERT INTO `anilist_chinese` VALUES (100486,'{\"title\":{\"chinese\":\"ようこそ！ スケベエルフの森へ\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (100519,'{\"title\":{\"chinese\":\"Princess Principal SP\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (100527,'{\"title\":{\"chinese\":\"gd Men\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (100532,'{\"title\":{\"chinese\":\"藍海少女! Advance\"},\"synonyms_chinese\":[\"藍海少女~進階~\"]}');
 INSERT INTO `anilist_chinese` VALUES (100620,'{\"title\":{\"chinese\":\"新幹線變形機器人Shinkalion\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (100635,'{\"title\":{\"chinese\":\"25歲的女高中生\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (100641,'{\"title\":{\"chinese\":\"なりゆき→パパ活GIRLS!! THE ANIMATION\"},\"synonyms_chinese\":[]}');
@@ -3301,6 +3304,7 @@ INSERT INTO `anilist_chinese` VALUES (100659,'{\"title\":{\"chinese\":\"To LOVE-
 INSERT INTO `anilist_chinese` VALUES (100661,'{\"title\":{\"chinese\":\"Hugtto! Precure\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (100667,'{\"title\":{\"chinese\":\"フリフレ2\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (100684,'{\"title\":{\"chinese\":\"網路勝利組 OVA\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (100715,'{\"title\":{\"chinese\":\"魔法少女 我\"},\"synonyms_chinese\":[\"老子是魔法少女\"]}');
 INSERT INTO `anilist_chinese` VALUES (100735,'{\"title\":{\"chinese\":\"ねぇ、…しよ♥\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (100784,'{\"title\":{\"chinese\":\"銀魂 銀之魂篇\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (100791,'{\"title\":{\"chinese\":\"結城友奈是勇者 -鷲尾須美之章-\"},\"synonyms_chinese\":[]}');
@@ -3324,4 +3328,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2018-03-29  7:00:01
+-- Dump completed on 2018-03-30  7:00:02

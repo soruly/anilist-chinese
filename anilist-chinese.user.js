@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      1.2018.3.28
+// @version      1.2018.3.30
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -2857,6 +2857,7 @@ var database = [
 {id:21803,title:"斬首循環-藍色學者與戲言跟班"},
 {id:21804,title:"齊木楠雄的災難"},
 {id:21805,title:"PINKERTON"},
+{id:21813,title:"請問您今天要來點兔子嗎？？~Dear My Sister~"},
 {id:21814,title:"Gundam Build Fighters Try OVA"},
 {id:21815,title:"Strike the Blood II"},
 {id:21817,title:"亞爾斯蘭戰記 OVA"},
@@ -3263,6 +3264,7 @@ var database = [
 {id:100283,title:"夏目友人帳 陸 OVA"},
 {id:100288,title:"ジュヴナイルポルノグラフィ THE ANIMATION"},
 {id:100332,title:"刻刻"},
+{id:100341,title:"重神機潘多拉"},
 {id:100397,title:"Cherry & Gal's↑↑"},
 {id:100436,title:"Jewelry The Animation"},
 {id:100451,title:"新妹魔王的契約者 DEPARTURES"},
@@ -3271,6 +3273,7 @@ var database = [
 {id:100486,title:"ようこそ！ スケベエルフの森へ"},
 {id:100519,title:"Princess Principal SP"},
 {id:100527,title:"gd Men"},
+{id:100532,title:"藍海少女! Advance"},
 {id:100620,title:"新幹線變形機器人Shinkalion"},
 {id:100635,title:"25歲的女高中生"},
 {id:100641,title:"なりゆき→パパ活GIRLS!! THE ANIMATION"},
@@ -3280,6 +3283,7 @@ var database = [
 {id:100661,title:"Hugtto! Precure"},
 {id:100667,title:"フリフレ2"},
 {id:100684,title:"網路勝利組 OVA"},
+{id:100715,title:"魔法少女 我"},
 {id:100735,title:"ねぇ、…しよ♥"},
 {id:100784,title:"銀魂 銀之魂篇"},
 {id:100791,title:"結城友奈是勇者 -鷲尾須美之章-"},
