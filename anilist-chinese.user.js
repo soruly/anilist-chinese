@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      1.2018.3.30
+// @version      1.2018.4.1
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -3054,6 +3054,7 @@ var database = [
 {id:98058,title:"自宅警備員"},
 {id:98059,title:"KiraKira☆光之美少女 A La Mode"},
 {id:98069,title:"怪物彈珠 2"},
+{id:98073,title:"LOST SONG"},
 {id:98078,title:"冥刻學園受胎編"},
 {id:98079,title:"桃色望遠鏡 Anime Edition"},
 {id:98080,title:"グリーン・アイズ -姉キュン! より- THE ANIMATION"},
