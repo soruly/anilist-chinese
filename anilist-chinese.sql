@@ -3077,7 +3077,7 @@ INSERT INTO `anilist_chinese` VALUES (98045,'{\"title\":{\"chinese\":\"超・少
 INSERT INTO `anilist_chinese` VALUES (98058,'{\"title\":{\"chinese\":\"自宅警備員\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (98059,'{\"title\":{\"chinese\":\"KiraKira☆光之美少女 A La Mode\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (98069,'{\"title\":{\"chinese\":\"怪物彈珠 2\"},\"synonyms_chinese\":[]}');
-INSERT INTO `anilist_chinese` VALUES (98073,'{\"title\":{\"chinese\":\"LOST SONG\"},\"synonyms_chinese\":[\"失落的歌謠\"]}');
+INSERT INTO `anilist_chinese` VALUES (98073,'{\"title\":{\"chinese\":\"LOST SONG\"},\"synonyms_chinese\":[\"失落的歌謠\",\"失落之歌\"]}');
 INSERT INTO `anilist_chinese` VALUES (98078,'{\"title\":{\"chinese\":\"冥刻學園受胎編\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (98079,'{\"title\":{\"chinese\":\"桃色望遠鏡 Anime Edition\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (98080,'{\"title\":{\"chinese\":\"グリーン・アイズ -姉キュン! より- THE ANIMATION\"},\"synonyms_chinese\":[]}');
@@ -3370,4 +3370,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2018-04-02  7:00:02
+-- Dump completed on 2018-04-03  7:00:01
