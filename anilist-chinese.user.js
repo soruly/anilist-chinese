@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      1.2018.4.2
+// @version      1.2018.4.4
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -3083,6 +3083,7 @@ var database = [
 {id:98249,title:"宣告黎明的露之歌"},
 {id:98251,title:"單蠢女孩"},
 {id:98252,title:"不要輸！！惡之軍團！"},
+{id:98289,title:"戰鬥陀螺 爆發 神之篇"},
 {id:98291,title:"徒然CHILDREN"},
 {id:98292,title:"NEW GAME!!"},
 {id:98298,title:"寵物小精靈劇場版 就決定是你了！"},
@@ -3287,6 +3288,7 @@ var database = [
 {id:100341,title:"重神機潘多拉"},
 {id:100397,title:"Cherry & Gal's↑↑"},
 {id:100401,title:"鋼琴之森"},
+{id:100408,title:"蒼天之拳 REGENESIS"},
 {id:100436,title:"Jewelry The Animation"},
 {id:100451,title:"新妹魔王的契約者 DEPARTURES"},
 {id:100479,title:"ドSな生徒会長サマがMノートに支配されました。"},
@@ -3334,6 +3336,7 @@ var database = [
 {id:101043,title:"星夢學園 Friends!"},
 {id:101046,title:"美男高中地球防衛部HAPPY KISS！"},
 {id:101097,title:"星光頻道"},
+{id:101115,title:"戰鬥陀螺 爆發 超絕篇"},
 {id:101124,title:"妻ネトリ"},
 {id:101160,title:"甜蜜懲罰～我是看守專用寵物"},
 {id:101424,title:"Puzzle & Dragons"}
