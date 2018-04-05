@@ -1,8 +1,8 @@
--- MySQL dump 10.16  Distrib 10.2.13-MariaDB, for Linux (x86_64)
+-- MySQL dump 10.16  Distrib 10.2.14-MariaDB, for Linux (x86_64)
 --
 -- Host: localhost    Database: anime
 -- ------------------------------------------------------
--- Server version	10.2.13-MariaDB
+-- Server version	10.2.14-MariaDB
 
 /*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
 /*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
@@ -2822,7 +2822,7 @@ INSERT INTO `anilist_chinese` VALUES (21713,'{\"title\":{\"chinese\":\"男子啦
 INSERT INTO `anilist_chinese` VALUES (21714,'{\"title\":{\"chinese\":\"FLIP FLAPPERS\"},\"synonyms_chinese\":[\"輕拍翻轉小魔女\"]}');
 INSERT INTO `anilist_chinese` VALUES (21715,'{\"title\":{\"chinese\":\"灼熱桌球娘\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (21716,'{\"title\":{\"chinese\":\"LO Re：パコ すくすくみずきちゃん THE ANIMATION\"},\"synonyms_chinese\":[]}');
-INSERT INTO `anilist_chinese` VALUES (21717,'{\"title\":{\"chinese\":\"Fate/EXTRA Last Encore\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (21717,'{\"title\":{\"chinese\":\"Fate/EXTRA Last Encore\"},\"synonyms_chinese\":[\"Fate/EXTRA 被遺忘的地動說\"]}');
 INSERT INTO `anilist_chinese` VALUES (21718,'{\"title\":{\"chinese\":\"Fate/stay night [Heaven\'s Feel] II. lost butterfly\"},\"synonyms_chinese\":[\"命運守護夜\",\"命運之夜\",\"聖杯戰爭\",\"Fate/stay night 命運／停駐之夜\",\"命運Fate\"]}');
 INSERT INTO `anilist_chinese` VALUES (21721,'{\"title\":{\"chinese\":\"小飛翔魔女\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (21728,'{\"title\":{\"chinese\":\"BROTHERHOOD FINAL FANTASY XV\"},\"synonyms_chinese\":[]}');
@@ -3295,7 +3295,7 @@ INSERT INTO `anilist_chinese` VALUES (100077,'{\"title\":{\"chinese\":\"極道�
 INSERT INTO `anilist_chinese` VALUES (100108,'{\"title\":{\"chinese\":\"気に入った膣にいきなり中出しOKなリゾート島\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (100166,'{\"title\":{\"chinese\":\"我的英雄學院 3\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (100167,'{\"title\":{\"chinese\":\"パコマネ わたし、今日から名門野球部の性処理係になります… THE ANIMATION\"},\"synonyms_chinese\":[]}');
-INSERT INTO `anilist_chinese` VALUES (100179,'{\"title\":{\"chinese\":\"多田君不談戀愛\"},\"synonyms_chinese\":\"[]\"}');
+INSERT INTO `anilist_chinese` VALUES (100179,'{\"title\":{\"chinese\":\"多田君不談戀愛\"},\"synonyms_chinese\":[\"多田君不戀愛\"]}');
 INSERT INTO `anilist_chinese` VALUES (100183,'{\"title\":{\"chinese\":\"Sword Art Online Alternative Gun Gale Online\"},\"synonyms_chinese\":[\"刀劍神域外傳 Gun Gale Online\"]}');
 INSERT INTO `anilist_chinese` VALUES (100184,'{\"title\":{\"chinese\":\"Lostorage incited WIXOSS -missing link-\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (100226,'{\"title\":{\"chinese\":\"EVIL OR LIVE\"},\"synonyms_chinese\":[]}');
@@ -3373,4 +3373,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2018-04-05  7:00:01
+-- Dump completed on 2018-04-06  7:00:02
