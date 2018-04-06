@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      1.2018.4.4
+// @version      1.2018.4.7
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -3270,7 +3270,7 @@ var database = [
 {id:100006,title:"熟女志願～KINBAKU～"},
 {id:100009,title:"宇宙戰艦提拉米蘇"},
 {id:100010,title:"魔法少女網站"},
-{id:100077,title:"極道超女"},
+{id:100077,title:"黑社會的超能力女兒"},
 {id:100108,title:"気に入った膣にいきなり中出しOKなリゾート島"},
 {id:100166,title:"我的英雄學院 3"},
 {id:100167,title:"パコマネ わたし、今日から名門野球部の性処理係になります… THE ANIMATION"},
@@ -3305,6 +3305,7 @@ var database = [
 {id:100635,title:"25歲的女高中生"},
 {id:100641,title:"なりゆき→パパ活GIRLS!! THE ANIMATION"},
 {id:100644,title:"七美德"},
+{id:100645,title:"敦君與女朋友"},
 {id:100657,title:"Marronni☆Yell"},
 {id:100659,title:"To LOVE-Ru Multiplication"},
 {id:100661,title:"Hugtto! Precure"},

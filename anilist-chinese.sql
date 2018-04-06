@@ -3291,7 +3291,7 @@ INSERT INTO `anilist_chinese` VALUES (100004,'{\"title\":{\"chinese\":\"さき�
 INSERT INTO `anilist_chinese` VALUES (100006,'{\"title\":{\"chinese\":\"熟女志願～KINBAKU～\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (100009,'{\"title\":{\"chinese\":\"宇宙戰艦提拉米蘇\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (100010,'{\"title\":{\"chinese\":\"魔法少女網站\"},\"synonyms_chinese\":\"[]\"}');
-INSERT INTO `anilist_chinese` VALUES (100077,'{\"title\":{\"chinese\":\"極道超女\"},\"synonyms_chinese\":\"[]\"}');
+INSERT INTO `anilist_chinese` VALUES (100077,'{\"title\":{\"chinese\":\"黑社會的超能力女兒\"},\"synonyms_chinese\":[\"極道超女\"]}');
 INSERT INTO `anilist_chinese` VALUES (100108,'{\"title\":{\"chinese\":\"気に入った膣にいきなり中出しOKなリゾート島\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (100166,'{\"title\":{\"chinese\":\"我的英雄學院 3\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (100167,'{\"title\":{\"chinese\":\"パコマネ わたし、今日から名門野球部の性処理係になります… THE ANIMATION\"},\"synonyms_chinese\":[]}');
@@ -3326,6 +3326,7 @@ INSERT INTO `anilist_chinese` VALUES (100620,'{\"title\":{\"chinese\":\"新幹�
 INSERT INTO `anilist_chinese` VALUES (100635,'{\"title\":{\"chinese\":\"25歲的女高中生\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (100641,'{\"title\":{\"chinese\":\"なりゆき→パパ活GIRLS!! THE ANIMATION\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (100644,'{\"title\":{\"chinese\":\"七美德\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (100645,'{\"title\":{\"chinese\":\"敦君與女朋友\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (100657,'{\"title\":{\"chinese\":\"Marronni☆Yell\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (100659,'{\"title\":{\"chinese\":\"To LOVE-Ru Multiplication\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (100661,'{\"title\":{\"chinese\":\"Hugtto! Precure\"},\"synonyms_chinese\":[]}');
@@ -3373,4 +3374,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2018-04-06  7:00:02
+-- Dump completed on 2018-04-07  7:00:02
