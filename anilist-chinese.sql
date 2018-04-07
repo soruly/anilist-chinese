@@ -3140,7 +3140,7 @@ INSERT INTO `anilist_chinese` VALUES (98448,'{\"title\":{\"chinese\":\"奇諾之
 INSERT INTO `anilist_chinese` VALUES (98449,'{\"title\":{\"chinese\":\"泥鯨之子們在沙地上歌唱\"},\"synonyms_chinese\":[\"鯨魚的孩子們在沙海上歌唱\"]}');
 INSERT INTO `anilist_chinese` VALUES (98451,'{\"title\":{\"chinese\":\"恩星與魔法平板 ~另一位午睡公主~\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (98460,'{\"title\":{\"chinese\":\"DEVILMAN crybaby\"},\"synonyms_chinese\":[]}');
-INSERT INTO `anilist_chinese` VALUES (98473,'{\"title\":{\"chinese\":\"Lostorage Conflated WIXOSS\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (98473,'{\"title\":{\"chinese\":\"Lostorage Conflated WIXOSS\"},\"synonyms_chinese\":[\"失憶融合 WIXOSS\"]}');
 INSERT INTO `anilist_chinese` VALUES (98475,'{\"title\":{\"chinese\":\"海天使之光\"},\"synonyms_chinese\":[\"海天使的燈火\"]}');
 INSERT INTO `anilist_chinese` VALUES (98477,'{\"title\":{\"chinese\":\"實驗品家庭\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (98478,'{\"title\":{\"chinese\":\"3月的獅子 2\"},\"synonyms_chinese\":[]}');
@@ -3353,7 +3353,7 @@ INSERT INTO `anilist_chinese` VALUES (100923,'{\"title\":{\"chinese\":\"催眠�
 INSERT INTO `anilist_chinese` VALUES (100957,'{\"title\":{\"chinese\":\"魯邦三世 PART 5\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (100966,'{\"title\":{\"chinese\":\"信長的忍者 ～姊川・石山篇～\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (100978,'{\"title\":{\"chinese\":\"鬼太郎 (2018)\"},\"synonyms_chinese\":\"[]\"}');
-INSERT INTO `anilist_chinese` VALUES (101036,'{\"title\":{\"chinese\":\"Gundam Build Divers\"},\"synonyms_chinese\":[\"鋼彈創鬥者潛網大戰\"]}');
+INSERT INTO `anilist_chinese` VALUES (101036,'{\"title\":{\"chinese\":\"Gundam Build Divers\"},\"synonyms_chinese\":[\"鋼彈創鬥者 潛網大戰\",\"高達創潛者\",\"高達潛行者\"]}');
 INSERT INTO `anilist_chinese` VALUES (101042,'{\"title\":{\"chinese\":\"你還不懂群馬\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (101043,'{\"title\":{\"chinese\":\"星夢學園 Friends!\"},\"synonyms_chinese\":[\"偶像活動 Friends!\",\"偶像學園 Friends!\"]}');
 INSERT INTO `anilist_chinese` VALUES (101046,'{\"title\":{\"chinese\":\"美男高中地球防衛部HAPPY KISS！\"},\"synonyms_chinese\":[\"美男高校地球防衛部HAPPY KISS！\"]}');
@@ -3374,4 +3374,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2018-04-07  7:00:02
+-- Dump completed on 2018-04-08  7:00:02
