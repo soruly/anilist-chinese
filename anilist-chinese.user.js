@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      1.2018.4.9
+// @version      1.2018.4.12
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -2734,6 +2734,7 @@ var database = [
 {id:21620,title:"ふくびき！トライアングル～双葉はあたふた～"},
 {id:21621,title:"兄貴の嫁さんなら、俺にハメられてヒイヒイ言ってるところだよ"},
 {id:21622,title:"巨乳トライ！ -短期集中乳揉みレッスン-"},
+{id:21624,title:"Steins;Gate 23 (β)"},
 {id:21626,title:"半田君傳說"},
 {id:21627,title:"少女編號"},
 {id:21631,title:"烏龍麵之國的金色毛毬"},
@@ -2982,6 +2983,7 @@ var database = [
 {id:97757,title:"Fate/kaleid liner Prisma☆Illya 雪下的誓言"},
 {id:97765,title:"Cinderella Girls 劇場"},
 {id:97766,title:"Gamers!"},
+{id:97767,title:"High School DxD HERO"},
 {id:97768,title:"皇帝聖印戰記"},
 {id:97769,title:"結城友奈是勇者 -勇者之章-"},
 {id:97773,title:"飯塚先輩×ブレザー -姉キュン! より- THE ANIMATION"},
@@ -3239,6 +3241,7 @@ var database = [
 {id:99685,title:"は～とふるママン THE ANIMATION"},
 {id:99693,title:"Persona 5 The Animation"},
 {id:99698,title:"國王遊戲"},
+{id:99699,title:"Golden Kamui"},
 {id:99714,title:"銀魂 (2017)"},
 {id:99720,title:"童話魔法使"},
 {id:99725,title:"A.I.C.O. -Incarnation-"},
@@ -3271,6 +3274,7 @@ var database = [
 {id:100009,title:"宇宙戰艦提拉米蘇"},
 {id:100010,title:"魔法少女網站"},
 {id:100077,title:"黑社會的超能力女兒"},
+{id:100083,title:"Butlers 千年百年物語"},
 {id:100108,title:"気に入った膣にいきなり中出しOKなリゾート島"},
 {id:100166,title:"我的英雄學院 3"},
 {id:100167,title:"パコマネ わたし、今日から名門野球部の性処理係になります… THE ANIMATION"},
@@ -3312,6 +3316,7 @@ var database = [
 {id:100667,title:"フリフレ2"},
 {id:100684,title:"網路勝利組 OVA"},
 {id:100715,title:"魔法少女 我"},
+{id:100727,title:"和風喫茶鹿楓堂"},
 {id:100735,title:"ねぇ、…しよ♥"},
 {id:100745,title:"足球小將翼 (2018)"},
 {id:100748,title:"裏・受胎島"},
@@ -3333,14 +3338,18 @@ var database = [
 {id:100957,title:"魯邦三世 PART 5"},
 {id:100966,title:"信長的忍者 ～姊川・石山篇～"},
 {id:100978,title:"鬼太郎 (2018)"},
+{id:101002,title:"踏切時間"},
 {id:101036,title:"Gundam Build Divers"},
 {id:101042,title:"你還不懂群馬"},
 {id:101043,title:"星夢學園 Friends!"},
+{id:101044,title:"最終休止符"},
 {id:101046,title:"美男高中地球防衛部HAPPY KISS！"},
 {id:101097,title:"星光頻道"},
 {id:101115,title:"戰鬥陀螺 爆發 超絕篇"},
 {id:101124,title:"妻ネトリ"},
 {id:101160,title:"甜蜜懲罰～我是看守專用寵物"},
+{id:101277,title:"若おかみは小学生！"},
+{id:101314,title:"Ladyspo"},
 {id:101424,title:"Puzzle & Dragons"}
 ];
 
