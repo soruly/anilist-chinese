@@ -1880,6 +1880,7 @@ INSERT INTO `anilist_chinese` VALUES (17875,'{\"title\":{\"chinese\":\"要聽爸
 INSERT INTO `anilist_chinese` VALUES (17895,'{\"title\":{\"chinese\":\"青春紀行\"},\"synonyms_chinese\":[\"黃金時代\",\"金色年華\",\"金色時光\"]}');
 INSERT INTO `anilist_chinese` VALUES (17909,'{\"title\":{\"chinese\":\"有頂天家族\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (17919,'{\"title\":{\"chinese\":\"放學後的昴星團\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (17947,'{\"title\":{\"chinese\":\"魔法少女奈葉 Reflection\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (18001,'{\"title\":{\"chinese\":\"零度戰姬 振動\"},\"synonyms_chinese\":[\"結界女王 震顫\"]}');
 INSERT INTO `anilist_chinese` VALUES (18039,'{\"title\":{\"chinese\":\"れすきゅーME!\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (18041,'{\"title\":{\"chinese\":\"薔薇少女 2013\"},\"synonyms_chinese\":[\"新薔薇少女\"]}');
@@ -3384,4 +3385,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2018-04-12  7:00:01
+-- Dump completed on 2018-04-13  7:00:02

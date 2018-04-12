@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      1.2018.4.12
+// @version      1.2018.4.13
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -1859,6 +1859,7 @@ var database = [
 {id:17895,title:"青春紀行"},
 {id:17909,title:"有頂天家族"},
 {id:17919,title:"放學後的昴星團"},
+{id:17947,title:"魔法少女奈葉 Reflection"},
 {id:18001,title:"零度戰姬 振動"},
 {id:18039,title:"れすきゅーME!"},
 {id:18041,title:"薔薇少女 2013"},
