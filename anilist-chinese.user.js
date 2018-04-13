@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      1.2018.4.13
+// @version      1.2018.4.14
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -2621,6 +2621,7 @@ var database = [
 {id:21444,title:"少女們向荒野進發"},
 {id:21445,title:"Big Order"},
 {id:21450,title:"JoJo的奇妙冒險 不滅鑽石"},
+{id:21451,title:"驚爆危機 Invisible Victory"},
 {id:21452,title:"正確的卡多"},
 {id:21453,title:"跳出星光樂園 大家的目標！偶像☆大賽"},
 {id:21454,title:"劇場版 星光樂園 大家的憧憬♪ Let's Go☆美妙巴黎"},
@@ -3234,6 +3235,7 @@ var database = [
 {id:99555,title:"妹ビッチに搾られたい"},
 {id:99556,title:"キメ恋!"},
 {id:99569,title:"櫻花忍法帖"},
+{id:99578,title:"阿宅的戀愛太難"},
 {id:99634,title:"進擊的巨人 LOST GIRLS"},
 {id:99636,title:"Dia Horizon"},
 {id:99637,title:"Dame x Prince ANIME CARAVAN"},
@@ -3285,6 +3287,7 @@ var database = [
 {id:100226,title:"EVIL OR LIVE"},
 {id:100240,title:"東京喰種 re"},
 {id:100245,title:"BEATLESS"},
+{id:100251,title:"奴隸區"},
 {id:100283,title:"夏目友人帳 陸 OVA"},
 {id:100288,title:"ジュヴナイルポルノグラフィ THE ANIMATION"},
 {id:100298,title:"Megalo Box"},
@@ -3315,6 +3318,7 @@ var database = [
 {id:100659,title:"To LOVE-Ru Multiplication"},
 {id:100661,title:"Hugtto! Precure"},
 {id:100667,title:"フリフレ2"},
+{id:100673,title:"Hisone與Masotan"},
 {id:100684,title:"網路勝利組 OVA"},
 {id:100715,title:"魔法少女 我"},
 {id:100727,title:"和風喫茶鹿楓堂"},

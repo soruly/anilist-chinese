@@ -2642,6 +2642,7 @@ INSERT INTO `anilist_chinese` VALUES (21443,'{\"title\":{\"chinese\":\"ツンプ
 INSERT INTO `anilist_chinese` VALUES (21444,'{\"title\":{\"chinese\":\"少女們向荒野進發\"},\"synonyms_chinese\":[\"少女們以荒野為目標\"]}');
 INSERT INTO `anilist_chinese` VALUES (21445,'{\"title\":{\"chinese\":\"Big Order\"},\"synonyms_chinese\":[\"至高指令\"]}');
 INSERT INTO `anilist_chinese` VALUES (21450,'{\"title\":{\"chinese\":\"JoJo的奇妙冒險 不滅鑽石\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (21451,'{\"title\":{\"chinese\":\"驚爆危機 Invisible Victory\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (21452,'{\"title\":{\"chinese\":\"正確的卡多\"},\"synonyms_chinese\":[\"正確的KADO\",\"正解的卡多\",\"正解卡多\",\"正解何方\",\"魔方:正解\"]}');
 INSERT INTO `anilist_chinese` VALUES (21453,'{\"title\":{\"chinese\":\"跳出星光樂園 大家的目標！偶像☆大賽\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (21454,'{\"title\":{\"chinese\":\"劇場版 星光樂園 大家的憧憬♪ Let\'s Go☆美妙巴黎\"},\"synonyms_chinese\":[]}');
@@ -3255,6 +3256,7 @@ INSERT INTO `anilist_chinese` VALUES (99539,'{\"title\":{\"chinese\":\"七大罪
 INSERT INTO `anilist_chinese` VALUES (99555,'{\"title\":{\"chinese\":\"妹ビッチに搾られたい\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (99556,'{\"title\":{\"chinese\":\"キメ恋!\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (99569,'{\"title\":{\"chinese\":\"櫻花忍法帖\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (99578,'{\"title\":{\"chinese\":\"阿宅的戀愛太難\"},\"synonyms_chinese\":[\"宅男腐女戀愛真難\"]}');
 INSERT INTO `anilist_chinese` VALUES (99634,'{\"title\":{\"chinese\":\"進擊的巨人 LOST GIRLS\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (99636,'{\"title\":{\"chinese\":\"Dia Horizon\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (99637,'{\"title\":{\"chinese\":\"Dame x Prince ANIME CARAVAN\"},\"synonyms_chinese\":[]}');
@@ -3306,6 +3308,7 @@ INSERT INTO `anilist_chinese` VALUES (100184,'{\"title\":{\"chinese\":\"Lostorag
 INSERT INTO `anilist_chinese` VALUES (100226,'{\"title\":{\"chinese\":\"EVIL OR LIVE\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (100240,'{\"title\":{\"chinese\":\"東京喰種 re\"},\"synonyms_chinese\":[\"東京食屍鬼 re\"]}');
 INSERT INTO `anilist_chinese` VALUES (100245,'{\"title\":{\"chinese\":\"BEATLESS\"},\"synonyms_chinese\":[\"沒有心跳的少女\"]}');
+INSERT INTO `anilist_chinese` VALUES (100251,'{\"title\":{\"chinese\":\"奴隸區\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (100283,'{\"title\":{\"chinese\":\"夏目友人帳 陸 OVA\"},\"synonyms_chinese\":[\"妖怪連絡簿 陸 OVA\"]}');
 INSERT INTO `anilist_chinese` VALUES (100288,'{\"title\":{\"chinese\":\"ジュヴナイルポルノグラフィ THE ANIMATION\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (100298,'{\"title\":{\"chinese\":\"Megalo Box\"},\"synonyms_chinese\":\"[]\"}');
@@ -3336,6 +3339,7 @@ INSERT INTO `anilist_chinese` VALUES (100657,'{\"title\":{\"chinese\":\"Marronni
 INSERT INTO `anilist_chinese` VALUES (100659,'{\"title\":{\"chinese\":\"To LOVE-Ru Multiplication\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (100661,'{\"title\":{\"chinese\":\"Hugtto! Precure\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (100667,'{\"title\":{\"chinese\":\"フリフレ2\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (100673,'{\"title\":{\"chinese\":\"Hisone與Masotan\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (100684,'{\"title\":{\"chinese\":\"網路勝利組 OVA\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (100715,'{\"title\":{\"chinese\":\"魔法少女 我\"},\"synonyms_chinese\":[\"老子是魔法少女\"]}');
 INSERT INTO `anilist_chinese` VALUES (100727,'{\"title\":{\"chinese\":\"和風喫茶鹿楓堂\"},\"synonyms_chinese\":\"[]\"}');
@@ -3385,4 +3389,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2018-04-13  7:00:02
+-- Dump completed on 2018-04-14  7:00:02
