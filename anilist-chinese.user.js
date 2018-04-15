@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      1.2018.4.14
+// @version      1.2018.4.16
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -1579,6 +1579,7 @@ var database = [
 {id:12921,title:"沉默的森田同學"},
 {id:12929,title:"聖鬥士星矢Ω"},
 {id:12955,title:"セレ・カノ"},
+{id:12961,title:"姦染5-THE Daybreak-"},
 {id:12967,title:"聖靈家族"},
 {id:12995,title:"Dark Blue"},
 {id:13115,title:"薄櫻鬼 黎明錄"},
@@ -3353,7 +3354,7 @@ var database = [
 {id:101115,title:"戰鬥陀螺 爆發 超絕篇"},
 {id:101124,title:"妻ネトリ"},
 {id:101160,title:"甜蜜懲罰～我是看守專用寵物"},
-{id:101277,title:"若おかみは小学生！"},
+{id:101277,title:"溫泉屋小女將"},
 {id:101314,title:"Ladyspo"},
 {id:101424,title:"Puzzle & Dragons"}
 ];

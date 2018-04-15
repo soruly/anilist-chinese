@@ -1600,6 +1600,7 @@ INSERT INTO `anilist_chinese` VALUES (12893,'{\"title\":{\"chinese\":\"男子高
 INSERT INTO `anilist_chinese` VALUES (12921,'{\"title\":{\"chinese\":\"沉默的森田同學\"},\"synonyms_chinese\":[\"森田同學很沉默\",\"無口的森田小姐\"]}');
 INSERT INTO `anilist_chinese` VALUES (12929,'{\"title\":{\"chinese\":\"聖鬥士星矢Ω\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (12955,'{\"title\":{\"chinese\":\"セレ・カノ\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (12961,'{\"title\":{\"chinese\":\"姦染5-THE Daybreak-\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (12967,'{\"title\":{\"chinese\":\"聖靈家族\"},\"synonyms_chinese\":[\"魔力家族\",\"聖靈妖精\"]}');
 INSERT INTO `anilist_chinese` VALUES (12995,'{\"title\":{\"chinese\":\"Dark Blue\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (13115,'{\"title\":{\"chinese\":\"薄櫻鬼 黎明錄\"},\"synonyms_chinese\":[]}');
@@ -3374,7 +3375,7 @@ INSERT INTO `anilist_chinese` VALUES (101097,'{\"title\":{\"chinese\":\"星光�
 INSERT INTO `anilist_chinese` VALUES (101115,'{\"title\":{\"chinese\":\"戰鬥陀螺 爆發 超絕篇\"},\"synonyms_chinese\":[\"爆旋陀螺 爆發 超絕篇\"]}');
 INSERT INTO `anilist_chinese` VALUES (101124,'{\"title\":{\"chinese\":\"妻ネトリ\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (101160,'{\"title\":{\"chinese\":\"甜蜜懲罰～我是看守專用寵物\"},\"synonyms_chinese\":\"[]\"}');
-INSERT INTO `anilist_chinese` VALUES (101277,'{\"title\":{\"chinese\":\"若おかみは小学生！\"},\"synonyms_chinese\":\"[]\"}');
+INSERT INTO `anilist_chinese` VALUES (101277,'{\"title\":{\"chinese\":\"溫泉屋小女將\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (101314,'{\"title\":{\"chinese\":\"Ladyspo\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (101424,'{\"title\":{\"chinese\":\"Puzzle & Dragons\"},\"synonyms_chinese\":[\"龍族拼圖\",\"智龍迷城\"]}');
 /*!40000 ALTER TABLE `anilist_chinese` ENABLE KEYS */;
@@ -3389,4 +3390,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2018-04-15  7:00:02
+-- Dump completed on 2018-04-16  7:00:01
