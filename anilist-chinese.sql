@@ -3266,7 +3266,7 @@ INSERT INTO `anilist_chinese` VALUES (99672,'{\"title\":{\"chinese\":\"Two Car\"
 INSERT INTO `anilist_chinese` VALUES (99685,'{\"title\":{\"chinese\":\"は～とふるママン THE ANIMATION\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (99693,'{\"title\":{\"chinese\":\"Persona 5 The Animation\"},\"synonyms_chinese\":[\"女神異聞錄 5\"]}');
 INSERT INTO `anilist_chinese` VALUES (99698,'{\"title\":{\"chinese\":\"國王遊戲\"},\"synonyms_chinese\":[]}');
-INSERT INTO `anilist_chinese` VALUES (99699,'{\"title\":{\"chinese\":\"Golden Kamui\"},\"synonyms_chinese\":\"[]\"}');
+INSERT INTO `anilist_chinese` VALUES (99699,'{\"title\":{\"chinese\":\"黃金神威\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (99714,'{\"title\":{\"chinese\":\"銀魂 (2017)\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (99720,'{\"title\":{\"chinese\":\"童話魔法使\"},\"synonyms_chinese\":[\"童話・少女\",\"原書·見習生\",\"原書·原書使\"]}');
 INSERT INTO `anilist_chinese` VALUES (99725,'{\"title\":{\"chinese\":\"A.I.C.O. -Incarnation-\"},\"synonyms_chinese\":[\"A.I.C.O.：化身\"]}');
@@ -3330,7 +3330,7 @@ INSERT INTO `anilist_chinese` VALUES (100526,'{\"title\":{\"chinese\":\"3D彼女
 INSERT INTO `anilist_chinese` VALUES (100527,'{\"title\":{\"chinese\":\"gd Men\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (100532,'{\"title\":{\"chinese\":\"藍海少女! Advance\"},\"synonyms_chinese\":[\"藍海少女~進階~\"]}');
 INSERT INTO `anilist_chinese` VALUES (100537,'{\"title\":{\"chinese\":\"SERVAMP Alice in the Garden\"},\"synonyms_chinese\":[\"SERVAMP 吸血鬼僕人 Alice in the Garden\"]}');
-INSERT INTO `anilist_chinese` VALUES (100569,'{\"title\":{\"chinese\":\"Caligula\"},\"synonyms_chinese\":\"[]\"}');
+INSERT INTO `anilist_chinese` VALUES (100569,'{\"title\":{\"chinese\":\"卡里古拉\"},\"synonyms_chinese\":[\"卡利古拉\"]}');
 INSERT INTO `anilist_chinese` VALUES (100620,'{\"title\":{\"chinese\":\"新幹線變形機器人Shinkalion\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (100635,'{\"title\":{\"chinese\":\"25歲的女高中生\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (100641,'{\"title\":{\"chinese\":\"なりゆき→パパ活GIRLS!! THE ANIMATION\"},\"synonyms_chinese\":[]}');
@@ -3390,4 +3390,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2018-04-17  7:00:02
+-- Dump completed on 2018-04-18  7:00:01

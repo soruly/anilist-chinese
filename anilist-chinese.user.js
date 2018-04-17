@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      1.2018.4.16
+// @version      1.2018.4.18
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -3245,7 +3245,7 @@ var database = [
 {id:99685,title:"は～とふるママン THE ANIMATION"},
 {id:99693,title:"Persona 5 The Animation"},
 {id:99698,title:"國王遊戲"},
-{id:99699,title:"Golden Kamui"},
+{id:99699,title:"黃金神威"},
 {id:99714,title:"銀魂 (2017)"},
 {id:99720,title:"童話魔法使"},
 {id:99725,title:"A.I.C.O. -Incarnation-"},
@@ -3309,7 +3309,7 @@ var database = [
 {id:100527,title:"gd Men"},
 {id:100532,title:"藍海少女! Advance"},
 {id:100537,title:"SERVAMP Alice in the Garden"},
-{id:100569,title:"Caligula"},
+{id:100569,title:"卡里古拉"},
 {id:100620,title:"新幹線變形機器人Shinkalion"},
 {id:100635,title:"25歲的女高中生"},
 {id:100641,title:"なりゆき→パパ活GIRLS!! THE ANIMATION"},
