@@ -3047,7 +3047,7 @@ INSERT INTO `anilist_chinese` VALUES (97903,'{\"title\":{\"chinese\":\"SAKURA QU
 INSERT INTO `anilist_chinese` VALUES (97904,'{\"title\":{\"chinese\":\"TSUKIPRO THE ANIMATION\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (97905,'{\"title\":{\"chinese\":\"ヌキどきッ! ~天使と悪魔の搾精バトル~ Revolution\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (97907,'{\"title\":{\"chinese\":\"爆肝工程師的異世界狂想曲\"},\"synonyms_chinese\":[]}');
-INSERT INTO `anilist_chinese` VALUES (97908,'{\"title\":{\"chinese\":\"升起的煙花，從下面看？還是從側面看？\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (97908,'{\"title\":{\"chinese\":\"升起的煙火，從下面看？還是從側面看？\"},\"synonyms_chinese\":[\"煙花，應該和誰看\"]}');
 INSERT INTO `anilist_chinese` VALUES (97909,'{\"title\":{\"chinese\":\"喧嘩番長 乙女-Girl Beats Boys-\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (97911,'{\"title\":{\"chinese\":\"サグラレ堕メ THE ANIMATION\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (97912,'{\"title\":{\"chinese\":\"アイドル強制操作\"},\"synonyms_chinese\":[]}');
@@ -3390,4 +3390,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2018-04-18  7:00:01
+-- Dump completed on 2018-04-19  7:00:01

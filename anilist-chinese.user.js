@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      1.2018.4.18
+// @version      1.2018.4.19
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -3026,7 +3026,7 @@ var database = [
 {id:97904,title:"TSUKIPRO THE ANIMATION"},
 {id:97905,title:"ヌキどきッ! ~天使と悪魔の搾精バトル~ Revolution"},
 {id:97907,title:"爆肝工程師的異世界狂想曲"},
-{id:97908,title:"升起的煙花，從下面看？還是從側面看？"},
+{id:97908,title:"升起的煙火，從下面看？還是從側面看？"},
 {id:97909,title:"喧嘩番長 乙女-Girl Beats Boys-"},
 {id:97911,title:"サグラレ堕メ THE ANIMATION"},
 {id:97912,title:"アイドル強制操作"},
