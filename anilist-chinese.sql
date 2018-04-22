@@ -3340,7 +3340,7 @@ INSERT INTO `anilist_chinese` VALUES (100657,'{\"title\":{\"chinese\":\"Marronni
 INSERT INTO `anilist_chinese` VALUES (100659,'{\"title\":{\"chinese\":\"To LOVE-Ru Multiplication\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (100661,'{\"title\":{\"chinese\":\"Hugtto! Precure\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (100667,'{\"title\":{\"chinese\":\"フリフレ2\"},\"synonyms_chinese\":[]}');
-INSERT INTO `anilist_chinese` VALUES (100673,'{\"title\":{\"chinese\":\"Hisone與Masotan\"},\"synonyms_chinese\":\"[]\"}');
+INSERT INTO `anilist_chinese` VALUES (100673,'{\"title\":{\"chinese\":\"Hisone與Masotan\"},\"synonyms_chinese\":[\"飛龍女孩\",\"小小龍機師\"]}');
 INSERT INTO `anilist_chinese` VALUES (100684,'{\"title\":{\"chinese\":\"網路勝利組 OVA\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (100715,'{\"title\":{\"chinese\":\"魔法少女 我\"},\"synonyms_chinese\":[\"老子是魔法少女\"]}');
 INSERT INTO `anilist_chinese` VALUES (100727,'{\"title\":{\"chinese\":\"和風喫茶鹿楓堂\"},\"synonyms_chinese\":\"[]\"}');
@@ -3390,4 +3390,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2018-04-22  7:00:02
+-- Dump completed on 2018-04-23  7:00:01
