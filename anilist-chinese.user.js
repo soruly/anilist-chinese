@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      1.2018.4.19
+// @version      1.2018.5.6
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -3283,6 +3283,7 @@ var database = [
 {id:100166,title:"我的英雄學院 3"},
 {id:100167,title:"パコマネ わたし、今日から名門野球部の性処理係になります… THE ANIMATION"},
 {id:100179,title:"多田君不談戀愛"},
+{id:100181,title:"數碼暴龍大冒險tri. 第6章「我們的未來」"},
 {id:100183,title:"Sword Art Online Alternative Gun Gale Online"},
 {id:100184,title:"Lostorage incited WIXOSS -missing link-"},
 {id:100226,title:"EVIL OR LIVE"},
@@ -3345,6 +3346,9 @@ var database = [
 {id:100966,title:"信長的忍者 ～姊川・石山篇～"},
 {id:100978,title:"鬼太郎 (2018)"},
 {id:101002,title:"踏切時間"},
+{id:101015,title:"俺が姪を犯す理由"},
+{id:101020,title:"淫行教師4 feat.エロ議員センセイ"},
+{id:101021,title:"ツンえむ！ ～ぎゅっと縛って指導して～ THE ANIMATION"},
 {id:101036,title:"Gundam Build Divers"},
 {id:101042,title:"你還不懂群馬"},
 {id:101043,title:"星夢學園 Friends!"},
@@ -3354,6 +3358,7 @@ var database = [
 {id:101115,title:"戰鬥陀螺 爆發 超絕篇"},
 {id:101124,title:"妻ネトリ"},
 {id:101160,title:"甜蜜懲罰～我是看守專用寵物"},
+{id:101210,title:"妹ぱらだいす！3 The Animation"},
 {id:101277,title:"溫泉屋小女將"},
 {id:101314,title:"Ladyspo"},
 {id:101424,title:"Puzzle & Dragons"}
