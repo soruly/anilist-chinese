@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      1.2018.5.6
+// @version      1.2018.5.9
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -2155,6 +2155,7 @@ var database = [
 {id:20728,title:"偽戀"},
 {id:20729,title:"World Trigger"},
 {id:20730,title:"Tales of Zestiria"},
+{id:20732,title:"鬼燈的冷徹 OVA"},
 {id:20735,title:"關於完全聽不懂老公在說什麼的事"},
 {id:20736,title:"Persona 3 the Movie 2 Midsummer Knight's Dream"},
 {id:20737,title:"Persona 3 the Movie 3 Falling Down"},
@@ -2197,7 +2198,7 @@ var database = [
 {id:20787,title:"Chain Chronicle OVA"},
 {id:20789,title:"七大罪"},
 {id:20790,title:"魔術快斗1412"},
-{id:20791,title:"Fate/stay night: Heaven's Feel"},
+{id:20791,title:"Fate/stay night [Heaven's Feel] I. presage flower"},
 {id:20792,title:"Fate/stay night: Unlimited Blade Works"},
 {id:20793,title:"Military!"},
 {id:20794,title:"星夢學園 第3部"},
@@ -3282,6 +3283,7 @@ var database = [
 {id:100108,title:"気に入った膣にいきなり中出しOKなリゾート島"},
 {id:100166,title:"我的英雄學院 3"},
 {id:100167,title:"パコマネ わたし、今日から名門野球部の性処理係になります… THE ANIMATION"},
+{id:100168,title:"Blade Runner: Black Out 2022"},
 {id:100179,title:"多田君不談戀愛"},
 {id:100181,title:"數碼暴龍大冒險tri. 第6章「我們的未來」"},
 {id:100183,title:"Sword Art Online Alternative Gun Gale Online"},

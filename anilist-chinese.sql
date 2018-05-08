@@ -2176,6 +2176,7 @@ INSERT INTO `anilist_chinese` VALUES (20727,'{\"title\":{\"chinese\":\"血界戰
 INSERT INTO `anilist_chinese` VALUES (20728,'{\"title\":{\"chinese\":\"偽戀\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (20729,'{\"title\":{\"chinese\":\"World Trigger\"},\"synonyms_chinese\":[\"境界觸發者\",\"世界觸發者\"]}');
 INSERT INTO `anilist_chinese` VALUES (20730,'{\"title\":{\"chinese\":\"Tales of Zestiria\"},\"synonyms_chinese\":[\"熱情傳奇 ～導師的黎明～\"]}');
+INSERT INTO `anilist_chinese` VALUES (20732,'{\"title\":{\"chinese\":\"鬼燈的冷徹 OVA\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (20735,'{\"title\":{\"chinese\":\"關於完全聽不懂老公在說什麼的事\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (20736,'{\"title\":{\"chinese\":\"Persona 3 the Movie 2 Midsummer Knight\'s Dream\"},\"synonyms_chinese\":[\"女神異聞錄 3 劇場版 #2 Midsummer Knight\'s Dream\"]}');
 INSERT INTO `anilist_chinese` VALUES (20737,'{\"title\":{\"chinese\":\"Persona 3 the Movie 3 Falling Down\"},\"synonyms_chinese\":[\"女神異聞錄 3 劇場版 #3 Falling Down\"]}');
@@ -2218,7 +2219,7 @@ INSERT INTO `anilist_chinese` VALUES (20786,'{\"title\":{\"chinese\":\"Appleseed
 INSERT INTO `anilist_chinese` VALUES (20787,'{\"title\":{\"chinese\":\"Chain Chronicle OVA\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (20789,'{\"title\":{\"chinese\":\"七大罪\"},\"synonyms_chinese\":[\"七原罪\",\"七宗罪\"]}');
 INSERT INTO `anilist_chinese` VALUES (20790,'{\"title\":{\"chinese\":\"魔術快斗1412\"},\"synonyms_chinese\":[\"神偷怪盜1412\",\"怪盜基德1412\"]}');
-INSERT INTO `anilist_chinese` VALUES (20791,'{\"title\":{\"chinese\":\"Fate/stay night: Heaven\'s Feel\"},\"synonyms_chinese\":[\"命運守護夜\",\"命運之夜\",\"聖杯戰爭\",\"Fate/stay night 命運／停駐之夜\",\"命運Fate\"]}');
+INSERT INTO `anilist_chinese` VALUES (20791,'{\"title\":{\"chinese\":\"Fate/stay night [Heaven\'s Feel] I. presage flower\"},\"synonyms_chinese\":[\"命運守護夜\",\"命運之夜\",\"聖杯戰爭\",\"Fate/stay night 命運／停駐之夜\",\"命運Fate\"]}');
 INSERT INTO `anilist_chinese` VALUES (20792,'{\"title\":{\"chinese\":\"Fate/stay night: Unlimited Blade Works\"},\"synonyms_chinese\":[\"命運守護夜\",\"命運之夜\",\"聖杯戰爭\",\"Fate/stay night 命運／停駐之夜\",\"命運Fate\"]}');
 INSERT INTO `anilist_chinese` VALUES (20793,'{\"title\":{\"chinese\":\"Military!\"},\"synonyms_chinese\":[\"軍人少女！\",\"軍方！\"]}');
 INSERT INTO `anilist_chinese` VALUES (20794,'{\"title\":{\"chinese\":\"星夢學園 第3部\"},\"synonyms_chinese\":[\"偶像活動 第3部\",\"偶像學園 第3部\"]}');
@@ -3303,6 +3304,7 @@ INSERT INTO `anilist_chinese` VALUES (100083,'{\"title\":{\"chinese\":\"Butlers 
 INSERT INTO `anilist_chinese` VALUES (100108,'{\"title\":{\"chinese\":\"気に入った膣にいきなり中出しOKなリゾート島\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (100166,'{\"title\":{\"chinese\":\"我的英雄學院 3\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (100167,'{\"title\":{\"chinese\":\"パコマネ わたし、今日から名門野球部の性処理係になります… THE ANIMATION\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (100168,'{\"title\":{\"chinese\":\"Blade Runner: Black Out 2022\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (100179,'{\"title\":{\"chinese\":\"多田君不談戀愛\"},\"synonyms_chinese\":[\"多田君不戀愛\"]}');
 INSERT INTO `anilist_chinese` VALUES (100181,'{\"title\":{\"chinese\":\"數碼暴龍大冒險tri. 第6章「我們的未來」\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (100183,'{\"title\":{\"chinese\":\"Sword Art Online Alternative Gun Gale Online\"},\"synonyms_chinese\":[\"刀劍神域外傳 Gun Gale Online\"]}');
@@ -3395,4 +3397,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2018-05-08  7:00:02
+-- Dump completed on 2018-05-09  7:00:02
