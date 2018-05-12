@@ -675,6 +675,7 @@ INSERT INTO `anilist_chinese` VALUES (2155,'{\"title\":{\"chinese\":\"青空下�
 INSERT INTO `anilist_chinese` VALUES (2158,'{\"title\":{\"chinese\":\"奔向地球\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (2159,'{\"title\":{\"chinese\":\"王牌投手 振臂高揮\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (2164,'{\"title\":{\"chinese\":\"電腦線圈\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (2165,'{\"title\":{\"chinese\":\"鬼太郎 (2007)\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (2166,'{\"title\":{\"chinese\":\"同人Work\"},\"synonyms_chinese\":[\"造夢同人誌\"]}');
 INSERT INTO `anilist_chinese` VALUES (2167,'{\"title\":{\"chinese\":\"CLANNAD\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (2168,'{\"title\":{\"chinese\":\"櫻花大戰 紐約\"},\"synonyms_chinese\":[]}');
@@ -3397,4 +3398,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2018-05-12  7:00:02
+-- Dump completed on 2018-05-13  7:00:01

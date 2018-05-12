@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      1.2018.5.9
+// @version      1.2018.5.13
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -654,6 +654,7 @@ var database = [
 {id:2158,title:"奔向地球"},
 {id:2159,title:"王牌投手 振臂高揮"},
 {id:2164,title:"電腦線圈"},
+{id:2165,title:"鬼太郎 (2007)"},
 {id:2166,title:"同人Work"},
 {id:2167,title:"CLANNAD"},
 {id:2168,title:"櫻花大戰 紐約"},
