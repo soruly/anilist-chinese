@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      1.2018.5.13
+// @version      1.2018.5.18
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -347,6 +347,7 @@ var database = [
 {id:670,title:"波子汽水"},
 {id:671,title:"Lemon Angel Project"},
 {id:675,title:"ONE～光輝的季節～"},
+{id:677,title:"青澀之戀"},
 {id:685,title:"To Heart ~Remember My Memories~"},
 {id:694,title:"Canvas 2 七彩的素描"},
 {id:706,title:"Comic Party Revolution"},

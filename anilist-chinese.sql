@@ -368,6 +368,7 @@ INSERT INTO `anilist_chinese` VALUES (669,'{\"title\":{\"chinese\":\"不平衡�
 INSERT INTO `anilist_chinese` VALUES (670,'{\"title\":{\"chinese\":\"波子汽水\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (671,'{\"title\":{\"chinese\":\"Lemon Angel Project\"},\"synonyms_chinese\":[\"檸檬天使計劃\"]}');
 INSERT INTO `anilist_chinese` VALUES (675,'{\"title\":{\"chinese\":\"ONE～光輝的季節～\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (677,'{\"title\":{\"chinese\":\"青澀之戀\"},\"synonyms_chinese\":[\"青澀寶貝\"]}');
 INSERT INTO `anilist_chinese` VALUES (685,'{\"title\":{\"chinese\":\"To Heart ~Remember My Memories~\"},\"synonyms_chinese\":[\"To Heart 回憶永恆\"]}');
 INSERT INTO `anilist_chinese` VALUES (694,'{\"title\":{\"chinese\":\"Canvas 2 七彩的素描\"},\"synonyms_chinese\":[\"Canvas 2 彩虹色的圖畫\"]}');
 INSERT INTO `anilist_chinese` VALUES (706,'{\"title\":{\"chinese\":\"Comic Party Revolution\"},\"synonyms_chinese\":[\"漫畫派對 Revolution\",\"漫畫同人會 Revolution\"]}');
@@ -3398,4 +3399,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2018-05-17  7:00:01
+-- Dump completed on 2018-05-18  7:00:02
