@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      1.2018.5.18
+// @version      1.2018.5.23
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -3238,6 +3238,7 @@ var database = [
 {id:99539,title:"七大罪 戒律的復活"},
 {id:99555,title:"妹ビッチに搾られたい"},
 {id:99556,title:"キメ恋!"},
+{id:99568,title:"梵諦岡奇蹟調查官 OVA"},
 {id:99569,title:"櫻花忍法帖"},
 {id:99578,title:"阿宅的戀愛太難"},
 {id:99634,title:"進擊的巨人 LOST GIRLS"},

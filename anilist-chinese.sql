@@ -3259,6 +3259,7 @@ INSERT INTO `anilist_chinese` VALUES (99531,'{\"title\":{\"chinese\":\"Devils Li
 INSERT INTO `anilist_chinese` VALUES (99539,'{\"title\":{\"chinese\":\"七大罪 戒律的復活\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (99555,'{\"title\":{\"chinese\":\"妹ビッチに搾られたい\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (99556,'{\"title\":{\"chinese\":\"キメ恋!\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (99568,'{\"title\":{\"chinese\":\"梵諦岡奇蹟調查官 OVA\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (99569,'{\"title\":{\"chinese\":\"櫻花忍法帖\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (99578,'{\"title\":{\"chinese\":\"阿宅的戀愛太難\"},\"synonyms_chinese\":[\"宅男腐女戀愛真難\"]}');
 INSERT INTO `anilist_chinese` VALUES (99634,'{\"title\":{\"chinese\":\"進擊的巨人 LOST GIRLS\"},\"synonyms_chinese\":[]}');
@@ -3399,4 +3400,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2018-05-22  7:00:02
+-- Dump completed on 2018-05-23  7:00:01
