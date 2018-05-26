@@ -3386,8 +3386,10 @@ INSERT INTO `anilist_chinese` VALUES (101124,'{\"title\":{\"chinese\":\"妻ネ�
 INSERT INTO `anilist_chinese` VALUES (101160,'{\"title\":{\"chinese\":\"甜蜜懲罰～我是看守專用寵物\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (101210,'{\"title\":{\"chinese\":\"妹ぱらだいす！3 The Animation\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (101277,'{\"title\":{\"chinese\":\"溫泉屋小女將\"},\"synonyms_chinese\":\"[]\"}');
+INSERT INTO `anilist_chinese` VALUES (101301,'{\"title\":{\"chinese\":\"放課後の優等生\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (101314,'{\"title\":{\"chinese\":\"Ladyspo\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (101424,'{\"title\":{\"chinese\":\"Puzzle & Dragons\"},\"synonyms_chinese\":[\"龍族拼圖\",\"智龍迷城\"]}');
+INSERT INTO `anilist_chinese` VALUES (101608,'{\"title\":{\"chinese\":\"Lilitales\"},\"synonyms_chinese\":\"[]\"}');
 /*!40000 ALTER TABLE `anilist_chinese` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
@@ -3400,4 +3402,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2018-05-26  7:00:01
+-- Dump completed on 2018-05-27  7:00:02

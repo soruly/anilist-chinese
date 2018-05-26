@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      1.2018.5.23
+// @version      1.2018.5.27
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -3365,8 +3365,10 @@ var database = [
 {id:101160,title:"甜蜜懲罰～我是看守專用寵物"},
 {id:101210,title:"妹ぱらだいす！3 The Animation"},
 {id:101277,title:"溫泉屋小女將"},
+{id:101301,title:"放課後の優等生"},
 {id:101314,title:"Ladyspo"},
-{id:101424,title:"Puzzle & Dragons"}
+{id:101424,title:"Puzzle & Dragons"},
+{id:101608,title:"Lilitales"}
 ];
 
 var translate = function(){
