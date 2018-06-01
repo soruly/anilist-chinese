@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      1.2018.5.28
+// @version      1.2018.6.2
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -3354,6 +3354,7 @@ var database = [
 {id:101015,title:"俺が姪を犯す理由"},
 {id:101020,title:"淫行教師4 feat.エロ議員センセイ"},
 {id:101021,title:"ツンえむ！ ～ぎゅっと縛って指導して～ THE ANIMATION"},
+{id:101033,title:"むっつりドスケベロシア義母姉妹の本質見抜いてセックス三昧"},
 {id:101036,title:"Gundam Build Divers"},
 {id:101042,title:"你還不懂群馬"},
 {id:101043,title:"星夢學園 Friends!"},

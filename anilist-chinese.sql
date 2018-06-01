@@ -3375,6 +3375,7 @@ INSERT INTO `anilist_chinese` VALUES (101002,'{\"title\":{\"chinese\":\"踏切�
 INSERT INTO `anilist_chinese` VALUES (101015,'{\"title\":{\"chinese\":\"俺が姪を犯す理由\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (101020,'{\"title\":{\"chinese\":\"淫行教師4 feat.エロ議員センセイ\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (101021,'{\"title\":{\"chinese\":\"ツンえむ！ ～ぎゅっと縛って指導して～ THE ANIMATION\"},\"synonyms_chinese\":\"[]\"}');
+INSERT INTO `anilist_chinese` VALUES (101033,'{\"title\":{\"chinese\":\"むっつりドスケベロシア義母姉妹の本質見抜いてセックス三昧\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (101036,'{\"title\":{\"chinese\":\"Gundam Build Divers\"},\"synonyms_chinese\":[\"鋼彈創鬥者 潛網大戰\",\"高達創潛者\",\"高達潛行者\"]}');
 INSERT INTO `anilist_chinese` VALUES (101042,'{\"title\":{\"chinese\":\"你還不懂群馬\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (101043,'{\"title\":{\"chinese\":\"星夢學園 Friends!\"},\"synonyms_chinese\":[\"偶像活動 Friends!\",\"偶像學園 Friends!\"]}');
@@ -3403,4 +3404,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2018-06-01  7:00:01
+-- Dump completed on 2018-06-02  7:00:01
