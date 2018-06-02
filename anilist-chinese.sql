@@ -2902,6 +2902,7 @@ INSERT INTO `anilist_chinese` VALUES (21828,'{\"title\":{\"chinese\":\"小女ラ
 INSERT INTO `anilist_chinese` VALUES (21829,'{\"title\":{\"chinese\":\"英雄 解体\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (21830,'{\"title\":{\"chinese\":\"ATOM: THE BEGINNING\"},\"synonyms_chinese\":[\"原子小金剛 THE BEGINNING\",\"阿童木 起源\"]}');
 INSERT INTO `anilist_chinese` VALUES (21832,'{\"title\":{\"chinese\":\"TRICKSTER-來自江戶川亂步「少年探偵團」-\"},\"synonyms_chinese\":[\"江戶川亂步 少年偵探團\"]}');
+INSERT INTO `anilist_chinese` VALUES (21833,'{\"title\":{\"chinese\":\"劇場版 窈窕淑女 前編～紅緒、花樣的17歲～\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (21835,'{\"title\":{\"chinese\":\"魔法少女？Naria☆Girls\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (21836,'{\"title\":{\"chinese\":\"SUPER LOVERS 2\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (21837,'{\"title\":{\"chinese\":\"學園帥哥\"},\"synonyms_chinese\":[]}');
@@ -3331,6 +3332,7 @@ INSERT INTO `anilist_chinese` VALUES (100479,'{\"title\":{\"chinese\":\"ドSな�
 INSERT INTO `anilist_chinese` VALUES (100485,'{\"title\":{\"chinese\":\"リアルエロゲシチュエーション！ THE ANIMATION\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (100486,'{\"title\":{\"chinese\":\"ようこそ！ スケベエルフの森へ\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (100500,'{\"title\":{\"chinese\":\"妖怪旅館營業中\"},\"synonyms_chinese\":\"[]\"}');
+INSERT INTO `anilist_chinese` VALUES (100518,'{\"title\":{\"chinese\":\"我的女友是個過度認真的處女 bitch OVA\"},\"synonyms_chinese\":[\"關於我女友是個一本正經的碧池這件事 OVA\"]}');
 INSERT INTO `anilist_chinese` VALUES (100519,'{\"title\":{\"chinese\":\"Princess Principal SP\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (100526,'{\"title\":{\"chinese\":\"3D彼女\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (100527,'{\"title\":{\"chinese\":\"gd Men\"},\"synonyms_chinese\":[]}');
@@ -3404,4 +3406,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2018-06-02  7:00:01
+-- Dump completed on 2018-06-03  7:00:02

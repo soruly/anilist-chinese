@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      1.2018.6.2
+// @version      1.2018.6.3
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -2881,6 +2881,7 @@ var database = [
 {id:21829,title:"英雄 解体"},
 {id:21830,title:"ATOM: THE BEGINNING"},
 {id:21832,title:"TRICKSTER-來自江戶川亂步「少年探偵團」-"},
+{id:21833,title:"劇場版 窈窕淑女 前編～紅緒、花樣的17歲～"},
 {id:21835,title:"魔法少女？Naria☆Girls"},
 {id:21836,title:"SUPER LOVERS 2"},
 {id:21837,title:"學園帥哥"},
@@ -3310,6 +3311,7 @@ var database = [
 {id:100485,title:"リアルエロゲシチュエーション！ THE ANIMATION"},
 {id:100486,title:"ようこそ！ スケベエルフの森へ"},
 {id:100500,title:"妖怪旅館營業中"},
+{id:100518,title:"我的女友是個過度認真的處女 bitch OVA"},
 {id:100519,title:"Princess Principal SP"},
 {id:100526,title:"3D彼女"},
 {id:100527,title:"gd Men"},
