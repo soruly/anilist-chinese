@@ -2802,6 +2802,7 @@ INSERT INTO `anilist_chinese` VALUES (21677,'{\"title\":{\"chinese\":\"ēlDLIVE\
 INSERT INTO `anilist_chinese` VALUES (21678,'{\"title\":{\"chinese\":\"暗殺教室 2 課外授業編\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (21679,'{\"title\":{\"chinese\":\"文豪Stray Dogs 2\"},\"synonyms_chinese\":[\"文豪野犬 2\"]}');
 INSERT INTO `anilist_chinese` VALUES (21682,'{\"title\":{\"chinese\":\"Tiger Mask W\"},\"synonyms_chinese\":[\"老虎假面W\",\"虎面人W\"]}');
+INSERT INTO `anilist_chinese` VALUES (21683,'{\"title\":{\"chinese\":\"想要傳達你的聲音\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (21684,'{\"title\":{\"chinese\":\"魔法科高中的劣等生 呼喚繁星的少女\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (21685,'{\"title\":{\"chinese\":\"情色漫畫老師\"},\"synonyms_chinese\":[\"我的妹妹是黃漫老師\",\"埃羅芒阿老師\"]}');
 INSERT INTO `anilist_chinese` VALUES (21686,'{\"title\":{\"chinese\":\"我太受歡迎了該怎麼辦\"},\"synonyms_chinese\":[]}');
@@ -3406,4 +3407,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2018-06-03  7:00:02
+-- Dump completed on 2018-06-04  7:00:02

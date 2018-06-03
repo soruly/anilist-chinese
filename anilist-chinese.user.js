@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      1.2018.6.3
+// @version      1.2018.6.4
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -2781,6 +2781,7 @@ var database = [
 {id:21678,title:"暗殺教室 2 課外授業編"},
 {id:21679,title:"文豪Stray Dogs 2"},
 {id:21682,title:"Tiger Mask W"},
+{id:21683,title:"想要傳達你的聲音"},
 {id:21684,title:"魔法科高中的劣等生 呼喚繁星的少女"},
 {id:21685,title:"情色漫畫老師"},
 {id:21686,title:"我太受歡迎了該怎麼辦"},
