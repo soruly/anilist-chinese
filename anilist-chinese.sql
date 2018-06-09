@@ -1763,6 +1763,7 @@ INSERT INTO `anilist_chinese` VALUES (15771,'{\"title\":{\"chinese\":\"聖哥傳
 INSERT INTO `anilist_chinese` VALUES (15775,'{\"title\":{\"chinese\":\"聖哥傳\"},\"synonyms_chinese\":[\"聖☆哥傳\"]}');
 INSERT INTO `anilist_chinese` VALUES (15785,'{\"title\":{\"chinese\":\"閃電十一人GO VS 紙箱戰機W\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (15793,'{\"title\":{\"chinese\":\"戰姬絕唱SYMPHOGEAR G\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (15807,'{\"title\":{\"chinese\":\"蘿球部！OVA\"},\"synonyms_chinese\":[\"蘿球社！OVA\"]}');
 INSERT INTO `anilist_chinese` VALUES (15809,'{\"title\":{\"chinese\":\"打工吧！魔王大人\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (15813,'{\"title\":{\"chinese\":\"魔法少女姐妹悠悠和寧寧\"},\"synonyms_chinese\":[\"詛咒屋姐妹\"]}');
 INSERT INTO `anilist_chinese` VALUES (15819,'{\"title\":{\"chinese\":\"金田一少年事件簿 黑魔術殺人事件\"},\"synonyms_chinese\":[]}');
@@ -3407,4 +3408,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2018-06-09  7:00:02
+-- Dump completed on 2018-06-10  7:00:02

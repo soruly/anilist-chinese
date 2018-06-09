@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      1.2018.6.4
+// @version      1.2018.6.10
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -1742,6 +1742,7 @@ var database = [
 {id:15775,title:"聖哥傳"},
 {id:15785,title:"閃電十一人GO VS 紙箱戰機W"},
 {id:15793,title:"戰姬絕唱SYMPHOGEAR G"},
+{id:15807,title:"蘿球部！OVA"},
 {id:15809,title:"打工吧！魔王大人"},
 {id:15813,title:"魔法少女姐妹悠悠和寧寧"},
 {id:15819,title:"金田一少年事件簿 黑魔術殺人事件"},
