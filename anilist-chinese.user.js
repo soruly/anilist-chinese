@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      1.2018.6.10
+// @version      1.2018.6.12
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -3274,6 +3274,7 @@ var database = [
 {id:99894,title:"相親對象是我教的強勢問題兒"},
 {id:99911,title:"かぎろひ~勺景~ Another"},
 {id:99912,title:"巨乳大家族催眠"},
+{id:99916,title:"牽牛花與加瀨同學。"},
 {id:99938,title:"少女與戰車 最終章"},
 {id:99939,title:"Nekopara OVA"},
 {id:99940,title:"伊藤潤二 恐怖Collection"},

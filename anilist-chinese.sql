@@ -3295,6 +3295,7 @@ INSERT INTO `anilist_chinese` VALUES (99888,'{\"title\":{\"chinese\":\"怪獸娘
 INSERT INTO `anilist_chinese` VALUES (99894,'{\"title\":{\"chinese\":\"相親對象是我教的強勢問題兒\"},\"synonyms_chinese\":[\"相親對象是強硬的問題學生\",\"相親對象是自己的學生，強勢的問題兒童。\"]}');
 INSERT INTO `anilist_chinese` VALUES (99911,'{\"title\":{\"chinese\":\"かぎろひ~勺景~ Another\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (99912,'{\"title\":{\"chinese\":\"巨乳大家族催眠\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (99916,'{\"title\":{\"chinese\":\"牽牛花與加瀨同學。\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (99938,'{\"title\":{\"chinese\":\"少女與戰車 最終章\"},\"synonyms_chinese\":[\"女子高生&重戰車 最終章\",\"少女&坦克 最終章\"]}');
 INSERT INTO `anilist_chinese` VALUES (99939,'{\"title\":{\"chinese\":\"Nekopara OVA\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (99940,'{\"title\":{\"chinese\":\"伊藤潤二 恐怖Collection\"},\"synonyms_chinese\":[\"伊藤潤二 恐怖收集\",\"伊藤潤二驚選集\"]}');
@@ -3408,4 +3409,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2018-06-11  7:00:01
+-- Dump completed on 2018-06-12  7:00:02
