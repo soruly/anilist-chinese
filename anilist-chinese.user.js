@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      1.2018.6.12
+// @version      1.2018.6.21
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -3298,6 +3298,7 @@ var database = [
 {id:100226,title:"EVIL OR LIVE"},
 {id:100240,title:"東京喰種 re"},
 {id:100245,title:"BEATLESS"},
+{id:100248,title:"忍者蝙蝠俠"},
 {id:100251,title:"奴隸區"},
 {id:100283,title:"夏目友人帳 陸 OVA"},
 {id:100288,title:"ジュヴナイルポルノグラフィ THE ANIMATION"},

@@ -3319,6 +3319,7 @@ INSERT INTO `anilist_chinese` VALUES (100184,'{\"title\":{\"chinese\":\"Lostorag
 INSERT INTO `anilist_chinese` VALUES (100226,'{\"title\":{\"chinese\":\"EVIL OR LIVE\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (100240,'{\"title\":{\"chinese\":\"東京喰種 re\"},\"synonyms_chinese\":[\"東京食屍鬼 re\"]}');
 INSERT INTO `anilist_chinese` VALUES (100245,'{\"title\":{\"chinese\":\"BEATLESS\"},\"synonyms_chinese\":[\"沒有心跳的少女\"]}');
+INSERT INTO `anilist_chinese` VALUES (100248,'{\"title\":{\"chinese\":\"忍者蝙蝠俠\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (100251,'{\"title\":{\"chinese\":\"奴隸區\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (100283,'{\"title\":{\"chinese\":\"夏目友人帳 陸 OVA\"},\"synonyms_chinese\":[\"妖怪連絡簿 陸 OVA\"]}');
 INSERT INTO `anilist_chinese` VALUES (100288,'{\"title\":{\"chinese\":\"ジュヴナイルポルノグラフィ THE ANIMATION\"},\"synonyms_chinese\":[]}');
@@ -3409,4 +3410,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2018-06-20  7:00:01
+-- Dump completed on 2018-06-21  7:00:01
