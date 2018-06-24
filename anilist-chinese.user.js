@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      1.2018.6.21
+// @version      1.2018.6.25
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -436,6 +436,7 @@ var database = [
 {id:969,title:"Tsubasa Chronicle 2"},
 {id:974,title:"Dead Leaves"},
 {id:990,title:"神樣家族"},
+{id:995,title:"網球王子 OVA 全國大賽篇"},
 {id:996,title:"Sailor Moon Sailor Stars"},
 {id:1002,title:"Gunbuster 2 - Diebuster"},
 {id:1003,title:"幸運女神"},
@@ -709,6 +710,7 @@ var database = [
 {id:2685,title:"Tsubasa 東京默示錄"},
 {id:2695,title:"Gundam 0083 吉翁的殘光"},
 {id:2746,title:"Vexille 2077日本鎖國"},
+{id:2752,title:"網球王子 OVA 全國大賽篇 準決賽"},
 {id:2759,title:"新世紀福音戰士 新劇場版：序"},
 {id:2787,title:"灼眼的夏娜 II"},
 {id:2795,title:"龍鳴"},
@@ -849,6 +851,7 @@ var database = [
 {id:4028,title:"Slayers Revolution"},
 {id:4033,title:"The iDOLM@STER: Live for You!"},
 {id:4038,title:"絕對可憐CHILDREN"},
+{id:4053,title:"網球王子 OVA 全國大賽篇 決賽"},
 {id:4056,title:"搞笑漫畫日和 3"},
 {id:4059,title:"CLANNAD 另一個世界 智代篇"},
 {id:4063,title:"鶺鴒女神"},

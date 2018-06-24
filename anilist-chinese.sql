@@ -457,6 +457,7 @@ INSERT INTO `anilist_chinese` VALUES (966,'{\"title\":{\"chinese\":\"蠟筆小�
 INSERT INTO `anilist_chinese` VALUES (969,'{\"title\":{\"chinese\":\"Tsubasa Chronicle 2\"},\"synonyms_chinese\":[\"TSUBASA翼 第二季\",\"翼之奇幻旅程 第二季\",\"翼·年代記 第二季\",\"翼·編年史 第二季\"]}');
 INSERT INTO `anilist_chinese` VALUES (974,'{\"title\":{\"chinese\":\"Dead Leaves\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (990,'{\"title\":{\"chinese\":\"神樣家族\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (995,'{\"title\":{\"chinese\":\"網球王子 OVA 全國大賽篇\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (996,'{\"title\":{\"chinese\":\"Sailor Moon Sailor Stars\"},\"synonyms_chinese\":[\"美少女戰士Sailor Stars\",\"美少女戰士 最後星光\"]}');
 INSERT INTO `anilist_chinese` VALUES (1002,'{\"title\":{\"chinese\":\"Gunbuster 2 - Diebuster\"},\"synonyms_chinese\":[\"飛越巔峰 2\",\"勇往直前 2\",\"飛越顛峰 2\",\"飛躍巔峰 2\",\"飛躍顛峰 2\"]}');
 INSERT INTO `anilist_chinese` VALUES (1003,'{\"title\":{\"chinese\":\"幸運女神\"},\"synonyms_chinese\":[\"我的愛神\",\"女神事務所\"]}');
@@ -730,6 +731,7 @@ INSERT INTO `anilist_chinese` VALUES (2623,'{\"title\":{\"chinese\":\"義犬報�
 INSERT INTO `anilist_chinese` VALUES (2685,'{\"title\":{\"chinese\":\"Tsubasa 東京默示錄\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (2695,'{\"title\":{\"chinese\":\"Gundam 0083 吉翁的殘光\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (2746,'{\"title\":{\"chinese\":\"Vexille 2077日本鎖國\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (2752,'{\"title\":{\"chinese\":\"網球王子 OVA 全國大賽篇 準決賽\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (2759,'{\"title\":{\"chinese\":\"新世紀福音戰士 新劇場版：序\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (2787,'{\"title\":{\"chinese\":\"灼眼的夏娜 II\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (2795,'{\"title\":{\"chinese\":\"龍鳴\"},\"synonyms_chinese\":[]}');
@@ -870,6 +872,7 @@ INSERT INTO `anilist_chinese` VALUES (4027,'{\"title\":{\"chinese\":\"魔界天�
 INSERT INTO `anilist_chinese` VALUES (4028,'{\"title\":{\"chinese\":\"Slayers Revolution\"},\"synonyms_chinese\":[\"魔劍美神 Revolution\",\"秀逗魔導士 Revolution\"]}');
 INSERT INTO `anilist_chinese` VALUES (4033,'{\"title\":{\"chinese\":\"The iDOLM@STER: Live for You!\"},\"synonyms_chinese\":[\"偶像大師 OVA\"]}');
 INSERT INTO `anilist_chinese` VALUES (4038,'{\"title\":{\"chinese\":\"絕對可憐CHILDREN\"},\"synonyms_chinese\":[\"絕對可憐少女\",\"絕對可憐小孩\",\"超能少女組\",\"楚楚可憐超能少女組\"]}');
+INSERT INTO `anilist_chinese` VALUES (4053,'{\"title\":{\"chinese\":\"網球王子 OVA 全國大賽篇 決賽\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (4056,'{\"title\":{\"chinese\":\"搞笑漫畫日和 3\"},\"synonyms_chinese\":[\"搞笑漫画日和 3\"]}');
 INSERT INTO `anilist_chinese` VALUES (4059,'{\"title\":{\"chinese\":\"CLANNAD 另一個世界 智代篇\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (4063,'{\"title\":{\"chinese\":\"鶺鴒女神\"},\"synonyms_chinese\":[\"鸚鵡女神\",\"女神計劃\"]}');
@@ -3410,4 +3413,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2018-06-24  7:00:01
+-- Dump completed on 2018-06-25  7:00:02
