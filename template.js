@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      1.0
+// @version      2.0
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -16,54 +16,53 @@
 
 var database = [];
 
-var translate = function(){
-    var anilist_id = parseInt(window.location.pathname.split('/')[2]);
-    var result = database.filter(e => e.id === anilist_id)[0];
-    if(result){
-        $('<div>', {html:'<span translate><span>Chinese</span></span><span>'+result.title+'</span>'}).appendTo($("div.series__data"));
-    }
-};
-
 var updating;
 var url;
 var myDOMNodeInsertedAction = function () {
 
-    var batchTranslate = function(target){
-        $(target).each(function(){
-            var anilist_id = parseInt($(this).attr("href").split('/')[2]);
-            var result = database.filter(e => e.id === anilist_id)[0];
-            if(result){
-                $(this).text(result.title);
+    var translate = function() {
+        var anilist_id = parseInt(window.location.pathname.split('/')[2]);
+        var result = database.filter(e => e.id === anilist_id)[0];
+        if (result) {
+            var zh_title = document.createElement("div");
+            zh_title.class = 'data-set';
+            zh_title.innerHTML = '<div class="type">Chinese</div><div class="value">'+result.title+'</div>';
+            if (document.querySelector("div.data")) {
+                document.querySelector("div.data").appendChild(zh_title);
             }
+            if (document.querySelector("h1")) {
+                document.querySelector("h1").innerText = result.title;
+            }
+        }
+    }
 
+    var batchTranslate = function(target) {
+        document.querySelectorAll(target).forEach(function(e) {
+            var anilist_id = parseInt(e.href.split('/')[4]);
+            var result = database.filter(e => e.id === anilist_id)[0];
+            if (result) {
+                e.text = result.title;
+            }
         });
     };
 
     clearTimeout(updating);
-    updating = setTimeout(function(){
-        if(window.location.pathname != url){
+    updating = setTimeout(function() {
+        if (window.location.pathname !== url) {
             url = window.location.pathname;
-            if(window.location.pathname.indexOf('/anime/') === 0)
+            if (window.location.pathname.indexOf('/anime/') === 0) {
                 translate();
+            }
         }
-        // legacy lists
-        if(window.location.pathname.indexOf('/animelist/') === 0){
-            batchTranslate(".row__title a");
+        if (window.location.pathname.indexOf('/animelist') >= 0) {
+            batchTranslate(".title a");
+        } else if (window.location.pathname.indexOf('/user') >= 0) {
+            batchTranslate("a.title");
+        } else if (window.location.pathname.indexOf('/search') >= 0) {
+            batchTranslate("a.title");
+        } else if (window.location.pathname.indexOf('/home') === 0) {
+            batchTranslate("a.title");
         }
-        // series list
-        if(window.location.pathname.indexOf('/user/') === 0){
-            batchTranslate(".base-serieslist.anime .title>a");
-        }
-        if(window.location.pathname.indexOf('/browse/anime') === 0 || window.location.pathname.indexOf('/search') === 0){
-            batchTranslate(".cover__data a");
-        }
-        if(window.location.pathname.indexOf('/home') === 0 || window.location.pathname.indexOf('/user/') === 0){
-            batchTranslate(".activity__list>a");
-        }
-        if(window.location.pathname.indexOf('/home') === 0){
-            batchTranslate(".quicklist__title>a");
-        }
-    }, 500);
+    }, 200);
 };
 window.addEventListener('DOMNodeInserted', myDOMNodeInsertedAction);
-
