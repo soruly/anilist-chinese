@@ -19,8 +19,8 @@ c.query("SELECT * FROM anilist_chinese", (error, rows) => {
   if (js_str !== fs.readFileSync("cache.txt", "utf8")) {
     fs.writeFileSync("cache.txt", js_str);
     const d = new Date();
-    const version_str = `1.${d.getFullYear()}.${d.getMonth()+1}.${d.getDate()}`;
-    const js_file_str = js_str.replace("// @version      1.0", `// @version      ${version_str}`);
+    const version_str = `2.${d.getFullYear()}.${d.getMonth()+1}.${d.getDate()}`;
+    const js_file_str = js_str.replace("// @version      2.0", `// @version      ${version_str}`);
     fs.writeFileSync("anilist-chinese.user.js", js_file_str);
     console.log(`build completed (version ${version_str})`);
   } else {
