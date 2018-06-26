@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2018.6.25
+// @version      2.2018.6.27
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -3196,6 +3196,7 @@ var database = [
 {id:98707,title:"寶石之國"},
 {id:98715,title:"美男戰國◆跨越時空的戀情"},
 {id:98747,title:"刀使之巫女"},
+{id:98762,title:"中二病也要談戀愛！ -Take On Me-"},
 {id:98766,title:"炎の孕ませおっぱい★エロアプリ学園 THE ANIMATION"},
 {id:98767,title:"いちごショコラふれーばー"},
 {id:98768,title:"妻が温泉でサークル仲間の肉便器になったのですが... Anime Edition"},
@@ -3379,7 +3380,8 @@ var database = [
 {id:101301,title:"放課後の優等生"},
 {id:101314,title:"Ladyspo"},
 {id:101424,title:"Puzzle & Dragons"},
-{id:101608,title:"Lilitales"}
+{id:101608,title:"Lilitales"},
+{id:101859,title:"濡れ透けJ○ 雨宿りレ×プ"}
 ];
 
 var updating;

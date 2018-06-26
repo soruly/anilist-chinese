@@ -3217,6 +3217,7 @@ INSERT INTO `anilist_chinese` VALUES (98702,'{\"title\":{\"chinese\":\"食戟之
 INSERT INTO `anilist_chinese` VALUES (98707,'{\"title\":{\"chinese\":\"寶石之國\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (98715,'{\"title\":{\"chinese\":\"美男戰國◆跨越時空的戀情\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (98747,'{\"title\":{\"chinese\":\"刀使之巫女\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (98762,'{\"title\":{\"chinese\":\"中二病也要談戀愛！ -Take On Me-\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (98766,'{\"title\":{\"chinese\":\"炎の孕ませおっぱい★エロアプリ学園 THE ANIMATION\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (98767,'{\"title\":{\"chinese\":\"いちごショコラふれーばー\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (98768,'{\"title\":{\"chinese\":\"妻が温泉でサークル仲間の肉便器になったのですが... Anime Edition\"},\"synonyms_chinese\":[]}');
@@ -3401,6 +3402,7 @@ INSERT INTO `anilist_chinese` VALUES (101301,'{\"title\":{\"chinese\":\"放課�
 INSERT INTO `anilist_chinese` VALUES (101314,'{\"title\":{\"chinese\":\"Ladyspo\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (101424,'{\"title\":{\"chinese\":\"Puzzle & Dragons\"},\"synonyms_chinese\":[\"龍族拼圖\",\"智龍迷城\"]}');
 INSERT INTO `anilist_chinese` VALUES (101608,'{\"title\":{\"chinese\":\"Lilitales\"},\"synonyms_chinese\":\"[]\"}');
+INSERT INTO `anilist_chinese` VALUES (101859,'{\"title\":{\"chinese\":\"濡れ透けJ○ 雨宿りレ×プ\"},\"synonyms_chinese\":\"[]\"}');
 /*!40000 ALTER TABLE `anilist_chinese` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
@@ -3413,4 +3415,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2018-06-26  7:00:01
+-- Dump completed on 2018-06-27  7:00:01
