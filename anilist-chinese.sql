@@ -3053,6 +3053,7 @@ INSERT INTO `anilist_chinese` VALUES (97875,'{\"title\":{\"chinese\":\"黑白來
 INSERT INTO `anilist_chinese` VALUES (97876,'{\"title\":{\"chinese\":\"大正小小先生\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (97881,'{\"title\":{\"chinese\":\"百變小櫻 透明卡篇\"},\"synonyms_chinese\":[\"百變小櫻Magic咭 透明卡篇\",\"百變小櫻魔法卡 透明卡篇\",\"魔卡少女櫻 透明卡篇\"]}');
 INSERT INTO `anilist_chinese` VALUES (97886,'{\"title\":{\"chinese\":\"血界戰線 & BEYOND\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (97888,'{\"title\":{\"chinese\":\"Baki NEW GRAPPLER BAKI\"},\"synonyms_chinese\":[\"新刃牙\"]}');
 INSERT INTO `anilist_chinese` VALUES (97889,'{\"title\":{\"chinese\":\"銀魂 (2017)\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (97890,'{\"title\":{\"chinese\":\"闇芝居 4\"},\"synonyms_chinese\":[\"暗芝居 4\"]}');
 INSERT INTO `anilist_chinese` VALUES (97891,'{\"title\":{\"chinese\":\"青之驅魔師 京都不淨王篇 OVA\"},\"synonyms_chinese\":[\"青之祓魔師 京都不淨王篇 OVA\",\"藍色驅魔師 京都不淨王篇 OVA\",\"藍色的除魔師 京都不淨王篇 OVA\"]}');
@@ -3455,6 +3456,7 @@ INSERT INTO `anilist_chinese` VALUES (101859,'{\"title\":{\"chinese\":\"濡れ�
 INSERT INTO `anilist_chinese` VALUES (101925,'{\"title\":{\"chinese\":\"銀魂 銀之魂篇 2\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (101972,'{\"title\":{\"chinese\":\"魔道袓師\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (101985,'{\"title\":{\"chinese\":\"告訴我吧魔法靈擺～莉露莉露Fairilu～\"},\"synonyms_chinese\":\"[]\"}');
+INSERT INTO `anilist_chinese` VALUES (102352,'{\"title\":{\"chinese\":\"Super Dragon Ball Heroes\"},\"synonyms_chinese\":\"[]\"}');
 /*!40000 ALTER TABLE `anilist_chinese` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
@@ -3467,4 +3469,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2018-07-02  7:00:02
+-- Dump completed on 2018-07-03  7:00:01

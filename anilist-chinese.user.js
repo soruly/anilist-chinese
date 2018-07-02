@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2018.6.29
+// @version      2.2018.7.3
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -3032,6 +3032,7 @@ var database = [
 {id:97876,title:"大正小小先生"},
 {id:97881,title:"百變小櫻 透明卡篇"},
 {id:97886,title:"血界戰線 & BEYOND"},
+{id:97888,title:"Baki NEW GRAPPLER BAKI"},
 {id:97889,title:"銀魂 (2017)"},
 {id:97890,title:"闇芝居 4"},
 {id:97891,title:"青之驅魔師 京都不淨王篇 OVA"},
@@ -3433,7 +3434,8 @@ var database = [
 {id:101859,title:"濡れ透けJ○ 雨宿りレ×プ"},
 {id:101925,title:"銀魂 銀之魂篇 2"},
 {id:101972,title:"魔道袓師"},
-{id:101985,title:"告訴我吧魔法靈擺～莉露莉露Fairilu～"}
+{id:101985,title:"告訴我吧魔法靈擺～莉露莉露Fairilu～"},
+{id:102352,title:"Super Dragon Ball Heroes"}
 ];
 
 var updating;
