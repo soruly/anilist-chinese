@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2018.7.3
+// @version      2.2018.7.4
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -3398,6 +3398,7 @@ var database = [
 {id:101044,title:"最終休止符"},
 {id:101045,title:"羽球戰爭！"},
 {id:101046,title:"美男高中地球防衛部HAPPY KISS！"},
+{id:101085,title:"Dies irae To the ring reincarnation"},
 {id:101097,title:"星光頻道"},
 {id:101115,title:"戰鬥陀螺 爆發 超絕篇"},
 {id:101117,title:"Free! -Dive to the Future-"},
@@ -3434,6 +3435,7 @@ var database = [
 {id:101859,title:"濡れ透けJ○ 雨宿りレ×プ"},
 {id:101925,title:"銀魂 銀之魂篇 2"},
 {id:101972,title:"魔道袓師"},
+{id:101981,title:"じょしおちっ！～2階から女の子が…降ってきた！？～"},
 {id:101985,title:"告訴我吧魔法靈擺～莉露莉露Fairilu～"},
 {id:102352,title:"Super Dragon Ball Heroes"}
 ];

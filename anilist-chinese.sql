@@ -3419,6 +3419,7 @@ INSERT INTO `anilist_chinese` VALUES (101043,'{\"title\":{\"chinese\":\"星夢�
 INSERT INTO `anilist_chinese` VALUES (101044,'{\"title\":{\"chinese\":\"最終休止符\"},\"synonyms_chinese\":[\"最後的休止符\"]}');
 INSERT INTO `anilist_chinese` VALUES (101045,'{\"title\":{\"chinese\":\"羽球戰爭！\"},\"synonyms_chinese\":[\"羽毛球戰爭！\",\"輕羽飛揚\"]}');
 INSERT INTO `anilist_chinese` VALUES (101046,'{\"title\":{\"chinese\":\"美男高中地球防衛部HAPPY KISS！\"},\"synonyms_chinese\":[\"美男高校地球防衛部HAPPY KISS！\"]}');
+INSERT INTO `anilist_chinese` VALUES (101085,'{\"title\":{\"chinese\":\"Dies irae To the ring reincarnation\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (101097,'{\"title\":{\"chinese\":\"星光頻道\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (101115,'{\"title\":{\"chinese\":\"戰鬥陀螺 爆發 超絕篇\"},\"synonyms_chinese\":[\"爆旋陀螺 爆發 超絕篇\"]}');
 INSERT INTO `anilist_chinese` VALUES (101117,'{\"title\":{\"chinese\":\"Free! -Dive to the Future-\"},\"synonyms_chinese\":[\"熱血自由式 -Dive to the Future-\",\"男子水泳部 -Dive to the Future-\"]}');
@@ -3455,6 +3456,7 @@ INSERT INTO `anilist_chinese` VALUES (101844,'{\"title\":{\"chinese\":\"快把�
 INSERT INTO `anilist_chinese` VALUES (101859,'{\"title\":{\"chinese\":\"濡れ透けJ○ 雨宿りレ×プ\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (101925,'{\"title\":{\"chinese\":\"銀魂 銀之魂篇 2\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (101972,'{\"title\":{\"chinese\":\"魔道袓師\"},\"synonyms_chinese\":\"[]\"}');
+INSERT INTO `anilist_chinese` VALUES (101981,'{\"title\":{\"chinese\":\"じょしおちっ！～2階から女の子が…降ってきた！？～\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (101985,'{\"title\":{\"chinese\":\"告訴我吧魔法靈擺～莉露莉露Fairilu～\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (102352,'{\"title\":{\"chinese\":\"Super Dragon Ball Heroes\"},\"synonyms_chinese\":\"[]\"}');
 /*!40000 ALTER TABLE `anilist_chinese` ENABLE KEYS */;
@@ -3469,4 +3471,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2018-07-03  7:00:01
+-- Dump completed on 2018-07-04  7:00:02
