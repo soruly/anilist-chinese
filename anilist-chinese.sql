@@ -3425,7 +3425,7 @@ INSERT INTO `anilist_chinese` VALUES (101115,'{\"title\":{\"chinese\":\"戰鬥�
 INSERT INTO `anilist_chinese` VALUES (101117,'{\"title\":{\"chinese\":\"Free! -Dive to the Future-\"},\"synonyms_chinese\":[\"熱血自由式 -Dive to the Future-\",\"男子水泳部 -Dive to the Future-\"]}');
 INSERT INTO `anilist_chinese` VALUES (101124,'{\"title\":{\"chinese\":\"妻ネトリ\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (101160,'{\"title\":{\"chinese\":\"甜蜜懲罰～我是看守專用寵物\"},\"synonyms_chinese\":\"[]\"}');
-INSERT INTO `anilist_chinese` VALUES (101161,'{\"title\":{\"chinese\":\"中間管理錄利根川\"},\"synonyms_chinese\":\"[]\"}');
+INSERT INTO `anilist_chinese` VALUES (101161,'{\"title\":{\"chinese\":\"中間管理錄利根川\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (101210,'{\"title\":{\"chinese\":\"妹ぱらだいす！3 The Animation\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (101228,'{\"title\":{\"chinese\":\"Zoid Wild\"},\"synonyms_chinese\":[\"索斯機械獸\",\"機獸創世紀\"]}');
 INSERT INTO `anilist_chinese` VALUES (101240,'{\"title\":{\"chinese\":\"dokidokiりとる大家さん\"},\"synonyms_chinese\":\"[]\"}');
@@ -3454,9 +3454,10 @@ INSERT INTO `anilist_chinese` VALUES (101632,'{\"title\":{\"chinese\":\"BanG Dre
 INSERT INTO `anilist_chinese` VALUES (101743,'{\"title\":{\"chinese\":\"闇芝居 6\"},\"synonyms_chinese\":[\"暗芝居 6\"]}');
 INSERT INTO `anilist_chinese` VALUES (101844,'{\"title\":{\"chinese\":\"快把我哥帶走 2\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (101859,'{\"title\":{\"chinese\":\"濡れ透けJ○ 雨宿りレ×プ\"},\"synonyms_chinese\":\"[]\"}');
+INSERT INTO `anilist_chinese` VALUES (101924,'{\"title\":{\"chinese\":\"食戟之靈 餐之皿 OVA\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (101925,'{\"title\":{\"chinese\":\"銀魂 銀之魂篇 2\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (101972,'{\"title\":{\"chinese\":\"魔道袓師\"},\"synonyms_chinese\":\"[]\"}');
-INSERT INTO `anilist_chinese` VALUES (101981,'{\"title\":{\"chinese\":\"じょしおちっ！～2階から女の子が…降ってきた！？～\"},\"synonyms_chinese\":\"[]\"}');
+INSERT INTO `anilist_chinese` VALUES (101981,'{\"title\":{\"chinese\":\"天降女子!~女孩子從2樓…掉了下來！ ？\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (101985,'{\"title\":{\"chinese\":\"告訴我吧魔法靈擺～莉露莉露Fairilu～\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (102352,'{\"title\":{\"chinese\":\"Super Dragon Ball Heroes\"},\"synonyms_chinese\":\"[]\"}');
 /*!40000 ALTER TABLE `anilist_chinese` ENABLE KEYS */;
@@ -3471,4 +3472,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2018-07-04  7:00:02
+-- Dump completed on 2018-07-05  7:00:01

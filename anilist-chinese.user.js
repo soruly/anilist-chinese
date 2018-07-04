@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2018.7.4
+// @version      2.2018.7.5
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -3433,9 +3433,10 @@ var database = [
 {id:101743,title:"闇芝居 6"},
 {id:101844,title:"快把我哥帶走 2"},
 {id:101859,title:"濡れ透けJ○ 雨宿りレ×プ"},
+{id:101924,title:"食戟之靈 餐之皿 OVA"},
 {id:101925,title:"銀魂 銀之魂篇 2"},
 {id:101972,title:"魔道袓師"},
-{id:101981,title:"じょしおちっ！～2階から女の子が…降ってきた！？～"},
+{id:101981,title:"天降女子!~女孩子從2樓…掉了下來！ ？"},
 {id:101985,title:"告訴我吧魔法靈擺～莉露莉露Fairilu～"},
 {id:102352,title:"Super Dragon Ball Heroes"}
 ];
