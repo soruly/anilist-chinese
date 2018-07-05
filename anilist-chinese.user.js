@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2018.7.5
+// @version      2.2018.7.6
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -2831,9 +2831,9 @@ var database = [
 {id:21743,title:"Ragnastrike Angels"},
 {id:21744,title:"靈劍山 通往睿智的資格"},
 {id:21745,title:"終物語（下）"},
-{id:21746,title:"FLCL 2"},
+{id:21746,title:"FLCL Progressive"},
 {id:21747,title:"Scared Rider XechS"},
-{id:21748,title:"FLCL 3"},
+{id:21748,title:"FLCL Alternative"},
 {id:21749,title:"機動戰士鋼彈 鐵血的孤兒 2"},
 {id:21750,title:"劇場版 銀河機攻隊"},
 {id:21751,title:"B-PROJECT〜鼓動＊Ambitious〜"},
@@ -3423,6 +3423,7 @@ var database = [
 {id:101382,title:"Phantom in the Twilight"},
 {id:101384,title:"Lord of Vermillion 紅蓮之王"},
 {id:101424,title:"Puzzle & Dragons"},
+{id:101432,title:"Violet Evergarden Extra Episode"},
 {id:101435,title:"働くお兄さん! 2"},
 {id:101471,title:"裝刀凱 2"},
 {id:101474,title:"Overlord III"},
