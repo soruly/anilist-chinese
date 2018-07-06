@@ -2982,6 +2982,7 @@ INSERT INTO `anilist_chinese` VALUES (97590,'{\"title\":{\"chinese\":\"鬼平\"}
 INSERT INTO `anilist_chinese` VALUES (97591,'{\"title\":{\"chinese\":\"Bloodivores\"},\"synonyms_chinese\":[\"時空囚徒\"]}');
 INSERT INTO `anilist_chinese` VALUES (97592,'{\"title\":{\"chinese\":\"亞人醬有話要說\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (97604,'{\"title\":{\"chinese\":\"夢王國與沉睡中的100位王子殿下\"},\"synonyms_chinese\":[\"夢王國與沈睡的100王子\"]}');
+INSERT INTO `anilist_chinese` VALUES (97605,'{\"title\":{\"chinese\":\"夢王國與沉睡中的100位王子殿下 SP\"},\"synonyms_chinese\":[\"夢王國與沈睡的100王子 SP\"]}');
 INSERT INTO `anilist_chinese` VALUES (97607,'{\"title\":{\"chinese\":\"Days OVA\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (97608,'{\"title\":{\"chinese\":\"鋼鐵交響樂\"},\"synonyms_chinese\":[\"鋼之管絃樂\"]}');
 INSERT INTO `anilist_chinese` VALUES (97609,'{\"title\":{\"chinese\":\"CHEATING CRAFT\"},\"synonyms_chinese\":[\"一課一練\"]}');
@@ -3283,7 +3284,7 @@ INSERT INTO `anilist_chinese` VALUES (99568,'{\"title\":{\"chinese\":\"梵諦岡
 INSERT INTO `anilist_chinese` VALUES (99569,'{\"title\":{\"chinese\":\"櫻花忍法帖\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (99578,'{\"title\":{\"chinese\":\"阿宅的戀愛太難\"},\"synonyms_chinese\":[\"宅男腐女戀愛真難\"]}');
 INSERT INTO `anilist_chinese` VALUES (99586,'{\"title\":{\"chinese\":\"遙的接球\"},\"synonyms_chinese\":[\"遙之彼方的接發球\"]}');
-INSERT INTO `anilist_chinese` VALUES (99629,'{\"title\":{\"chinese\":\"殺戮的天使\"},\"synonyms_chinese\":\"[]\"}');
+INSERT INTO `anilist_chinese` VALUES (99629,'{\"title\":{\"chinese\":\"殺戮的天使\"},\"synonyms_chinese\":[\"X的天使\"]}');
 INSERT INTO `anilist_chinese` VALUES (99634,'{\"title\":{\"chinese\":\"進擊的巨人 LOST GIRLS\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (99636,'{\"title\":{\"chinese\":\"Dia Horizon\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (99637,'{\"title\":{\"chinese\":\"Dame x Prince ANIME CARAVAN\"},\"synonyms_chinese\":[]}');
@@ -3348,7 +3349,7 @@ INSERT INTO `anilist_chinese` VALUES (100298,'{\"title\":{\"chinese\":\"Megalo B
 INSERT INTO `anilist_chinese` VALUES (100306,'{\"title\":{\"chinese\":\"棒球大聯盟 2nd\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (100332,'{\"title\":{\"chinese\":\"刻刻\"},\"synonyms_chinese\":[\"刻刻-時間暫停-\"]}');
 INSERT INTO `anilist_chinese` VALUES (100341,'{\"title\":{\"chinese\":\"重神機潘多拉\"},\"synonyms_chinese\":[\"重機神潘多拉\"]}');
-INSERT INTO `anilist_chinese` VALUES (100388,'{\"title\":{\"chinese\":\"BANANA FISH\"},\"synonyms_chinese\":\"[]\"}');
+INSERT INTO `anilist_chinese` VALUES (100388,'{\"title\":{\"chinese\":\"BANANA FISH\"},\"synonyms_chinese\":[\"戰栗殺機\"]}');
 INSERT INTO `anilist_chinese` VALUES (100397,'{\"title\":{\"chinese\":\"Cherry & Gal\'s↑↑\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (100401,'{\"title\":{\"chinese\":\"鋼琴之森\"},\"synonyms_chinese\":[\"琴之森\",\"琴絃森林\",\"森林中的鋼琴師\"]}');
 INSERT INTO `anilist_chinese` VALUES (100408,'{\"title\":{\"chinese\":\"蒼天之拳 REGENESIS\"},\"synonyms_chinese\":\"[]\"}');
@@ -3441,7 +3442,7 @@ INSERT INTO `anilist_chinese` VALUES (101351,'{\"title\":{\"chinese\":\"Happy Su
 INSERT INTO `anilist_chinese` VALUES (101361,'{\"title\":{\"chinese\":\"天狼 Sirius the Jaeger\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (101368,'{\"title\":{\"chinese\":\"Planet With\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (101380,'{\"title\":{\"chinese\":\"千銃士\"},\"synonyms_chinese\":\"[]\"}');
-INSERT INTO `anilist_chinese` VALUES (101382,'{\"title\":{\"chinese\":\"Phantom in the Twilight\"},\"synonyms_chinese\":\"[]\"}');
+INSERT INTO `anilist_chinese` VALUES (101382,'{\"title\":{\"chinese\":\"Phantom in the Twilight\"},\"synonyms_chinese\":[\"暮光幻影\"]}');
 INSERT INTO `anilist_chinese` VALUES (101384,'{\"title\":{\"chinese\":\"Lord of Vermillion 紅蓮之王\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (101424,'{\"title\":{\"chinese\":\"Puzzle & Dragons\"},\"synonyms_chinese\":[\"龍族拼圖\",\"智龍迷城\"]}');
 INSERT INTO `anilist_chinese` VALUES (101432,'{\"title\":{\"chinese\":\"Violet Evergarden Extra Episode\"},\"synonyms_chinese\":[\"紫羅蘭永恆花園 Extra Episode\",\"薇爾莉特·伊芙加登 Extra Episode\"]}');
@@ -3449,8 +3450,9 @@ INSERT INTO `anilist_chinese` VALUES (101435,'{\"title\":{\"chinese\":\"働く�
 INSERT INTO `anilist_chinese` VALUES (101471,'{\"title\":{\"chinese\":\"裝刀凱 2\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (101474,'{\"title\":{\"chinese\":\"Overlord III\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (101525,'{\"title\":{\"chinese\":\"某殭屍少女的災難\"},\"synonyms_chinese\":[\"殭屍少女的災難\",\"某重生少女的灾难\"]}');
+INSERT INTO `anilist_chinese` VALUES (101581,'{\"title\":{\"chinese\":\"搖曳莊的幽奈小姐 OVA\"},\"synonyms_chinese\":[\"湯搖莊的幽奈同學 OVA\"]}');
 INSERT INTO `anilist_chinese` VALUES (101608,'{\"title\":{\"chinese\":\"Lilitales\"},\"synonyms_chinese\":\"[]\"}');
-INSERT INTO `anilist_chinese` VALUES (101631,'{\"title\":{\"chinese\":\"惡偶 -天才人形-\"},\"synonyms_chinese\":\"[]\"}');
+INSERT INTO `anilist_chinese` VALUES (101631,'{\"title\":{\"chinese\":\"惡偶 -天才人形-\"},\"synonyms_chinese\":[\"天才玩偶\"]}');
 INSERT INTO `anilist_chinese` VALUES (101632,'{\"title\":{\"chinese\":\"BanG Dream! Girls Band Party! ☆ Pico\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (101743,'{\"title\":{\"chinese\":\"闇芝居 6\"},\"synonyms_chinese\":[\"暗芝居 6\"]}');
 INSERT INTO `anilist_chinese` VALUES (101844,'{\"title\":{\"chinese\":\"快把我哥帶走 2\"},\"synonyms_chinese\":\"[]\"}');
@@ -3460,6 +3462,7 @@ INSERT INTO `anilist_chinese` VALUES (101925,'{\"title\":{\"chinese\":\"銀魂 �
 INSERT INTO `anilist_chinese` VALUES (101972,'{\"title\":{\"chinese\":\"魔道袓師\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (101981,'{\"title\":{\"chinese\":\"天降女子!~女孩子從2樓…掉了下來！ ？\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (101985,'{\"title\":{\"chinese\":\"告訴我吧魔法靈擺～莉露莉露Fairilu～\"},\"synonyms_chinese\":\"[]\"}');
+INSERT INTO `anilist_chinese` VALUES (102004,'{\"title\":{\"chinese\":\"陰陽師：平安物語\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (102352,'{\"title\":{\"chinese\":\"Super Dragon Ball Heroes\"},\"synonyms_chinese\":\"[]\"}');
 /*!40000 ALTER TABLE `anilist_chinese` ENABLE KEYS */;
 UNLOCK TABLES;
@@ -3473,4 +3476,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2018-07-06  7:00:01
+-- Dump completed on 2018-07-07  7:00:01

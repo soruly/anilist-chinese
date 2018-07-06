@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2018.7.6
+// @version      2.2018.7.7
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -2961,6 +2961,7 @@ var database = [
 {id:97591,title:"Bloodivores"},
 {id:97592,title:"亞人醬有話要說"},
 {id:97604,title:"夢王國與沉睡中的100位王子殿下"},
+{id:97605,title:"夢王國與沉睡中的100位王子殿下 SP"},
 {id:97607,title:"Days OVA"},
 {id:97608,title:"鋼鐵交響樂"},
 {id:97609,title:"CHEATING CRAFT"},
@@ -3428,6 +3429,7 @@ var database = [
 {id:101471,title:"裝刀凱 2"},
 {id:101474,title:"Overlord III"},
 {id:101525,title:"某殭屍少女的災難"},
+{id:101581,title:"搖曳莊的幽奈小姐 OVA"},
 {id:101608,title:"Lilitales"},
 {id:101631,title:"惡偶 -天才人形-"},
 {id:101632,title:"BanG Dream! Girls Band Party! ☆ Pico"},
@@ -3439,6 +3441,7 @@ var database = [
 {id:101972,title:"魔道袓師"},
 {id:101981,title:"天降女子!~女孩子從2樓…掉了下來！ ？"},
 {id:101985,title:"告訴我吧魔法靈擺～莉露莉露Fairilu～"},
+{id:102004,title:"陰陽師：平安物語"},
 {id:102352,title:"Super Dragon Ball Heroes"}
 ];
 
