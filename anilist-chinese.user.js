@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2018.7.7
+// @version      2.2018.7.9
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -3433,6 +3433,8 @@ var database = [
 {id:101608,title:"Lilitales"},
 {id:101631,title:"惡偶 -天才人形-"},
 {id:101632,title:"BanG Dream! Girls Band Party! ☆ Pico"},
+{id:101695,title:"血界戰線 & BEYOND OVA"},
+{id:101696,title:"妖精森林的小不點 OVA"},
 {id:101743,title:"闇芝居 6"},
 {id:101844,title:"快把我哥帶走 2"},
 {id:101859,title:"濡れ透けJ○ 雨宿りレ×プ"},

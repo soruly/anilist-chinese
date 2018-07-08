@@ -3454,6 +3454,8 @@ INSERT INTO `anilist_chinese` VALUES (101581,'{\"title\":{\"chinese\":\"搖曳�
 INSERT INTO `anilist_chinese` VALUES (101608,'{\"title\":{\"chinese\":\"Lilitales\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (101631,'{\"title\":{\"chinese\":\"惡偶 -天才人形-\"},\"synonyms_chinese\":[\"天才玩偶\"]}');
 INSERT INTO `anilist_chinese` VALUES (101632,'{\"title\":{\"chinese\":\"BanG Dream! Girls Band Party! ☆ Pico\"},\"synonyms_chinese\":\"[]\"}');
+INSERT INTO `anilist_chinese` VALUES (101695,'{\"title\":{\"chinese\":\"血界戰線 & BEYOND OVA\"},\"synonyms_chinese\":\"[]\"}');
+INSERT INTO `anilist_chinese` VALUES (101696,'{\"title\":{\"chinese\":\"妖精森林的小不點 OVA\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (101743,'{\"title\":{\"chinese\":\"闇芝居 6\"},\"synonyms_chinese\":[\"暗芝居 6\"]}');
 INSERT INTO `anilist_chinese` VALUES (101844,'{\"title\":{\"chinese\":\"快把我哥帶走 2\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (101859,'{\"title\":{\"chinese\":\"濡れ透けJ○ 雨宿りレ×プ\"},\"synonyms_chinese\":\"[]\"}');
@@ -3476,4 +3478,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2018-07-08  7:00:01
+-- Dump completed on 2018-07-09  7:00:02
