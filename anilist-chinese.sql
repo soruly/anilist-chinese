@@ -3366,7 +3366,7 @@ INSERT INTO `anilist_chinese` VALUES (100526,'{\"title\":{\"chinese\":\"3D彼女
 INSERT INTO `anilist_chinese` VALUES (100527,'{\"title\":{\"chinese\":\"gd Men\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (100532,'{\"title\":{\"chinese\":\"藍海少女! Advance\"},\"synonyms_chinese\":[\"藍海少女~進階~\"]}');
 INSERT INTO `anilist_chinese` VALUES (100537,'{\"title\":{\"chinese\":\"SERVAMP Alice in the Garden\"},\"synonyms_chinese\":[\"SERVAMP 吸血鬼僕人 Alice in the Garden\"]}');
-INSERT INTO `anilist_chinese` VALUES (100556,'{\"title\":{\"chinese\":\"春原荘的管理人\"},\"synonyms_chinese\":[\"春原莊的管理員小姐\"]}');
+INSERT INTO `anilist_chinese` VALUES (100556,'{\"title\":{\"chinese\":\"春原荘的管理人\"},\"synonyms_chinese\":[\"春原莊的管理員小姐\",\"春原莊的管理員姐姐\"]}');
 INSERT INTO `anilist_chinese` VALUES (100562,'{\"title\":{\"chinese\":\"付喪神出租中\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (100569,'{\"title\":{\"chinese\":\"卡里古拉\"},\"synonyms_chinese\":[\"卡利古拉\"]}');
 INSERT INTO `anilist_chinese` VALUES (100620,'{\"title\":{\"chinese\":\"新幹線變形機器人Shinkalion\"},\"synonyms_chinese\":[]}');
@@ -3440,7 +3440,7 @@ INSERT INTO `anilist_chinese` VALUES (101314,'{\"title\":{\"chinese\":\"Ladyspo\
 INSERT INTO `anilist_chinese` VALUES (101340,'{\"title\":{\"chinese\":\"魔法律顧問事務所\"},\"synonyms_chinese\":[\"魔法律事務所\"]}');
 INSERT INTO `anilist_chinese` VALUES (101351,'{\"title\":{\"chinese\":\"Happy Sugar Life\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (101361,'{\"title\":{\"chinese\":\"天狼 Sirius the Jaeger\"},\"synonyms_chinese\":\"[]\"}');
-INSERT INTO `anilist_chinese` VALUES (101368,'{\"title\":{\"chinese\":\"Planet With\"},\"synonyms_chinese\":\"[]\"}');
+INSERT INTO `anilist_chinese` VALUES (101368,'{\"title\":{\"chinese\":\"Planet With\"},\"synonyms_chinese\":[\"行星與共\"]}');
 INSERT INTO `anilist_chinese` VALUES (101380,'{\"title\":{\"chinese\":\"千銃士\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (101382,'{\"title\":{\"chinese\":\"Phantom in the Twilight\"},\"synonyms_chinese\":[\"暮光幻影\"]}');
 INSERT INTO `anilist_chinese` VALUES (101384,'{\"title\":{\"chinese\":\"Lord of Vermillion 紅蓮之王\"},\"synonyms_chinese\":\"[]\"}');
@@ -3478,4 +3478,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2018-07-09  7:00:02
+-- Dump completed on 2018-07-10  7:00:01
