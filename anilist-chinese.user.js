@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2018.7.14
+// @version      2.2018.7.15
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -1792,6 +1792,7 @@ var database = [
 {id:16528,title:"HAL"},
 {id:16592,title:"彈丸論破"},
 {id:16642,title:"姉恋"},
+{id:16656,title:"絕對純白魔法少女"},
 {id:16662,title:"風起了"},
 {id:16664,title:"輝耀姬物語"},
 {id:16668,title:"革命機"},
