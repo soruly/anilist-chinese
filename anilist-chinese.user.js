@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2018.7.15
+// @version      2.2018.7.16
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -3447,7 +3447,8 @@ var database = [
 {id:101981,title:"天降女子!~女孩子從2樓…掉了下來！ ？"},
 {id:101985,title:"告訴我吧魔法靈擺～莉露莉露Fairilu～"},
 {id:102004,title:"陰陽師：平安物語"},
-{id:102352,title:"Super Dragon Ball Heroes"}
+{id:102352,title:"Super Dragon Ball Heroes"},
+{id:103136,title:"むち♥無知ッ強制成長中っ!!!"}
 ];
 
 var updating;

@@ -3469,6 +3469,7 @@ INSERT INTO `anilist_chinese` VALUES (101981,'{\"title\":{\"chinese\":\"天降�
 INSERT INTO `anilist_chinese` VALUES (101985,'{\"title\":{\"chinese\":\"告訴我吧魔法靈擺～莉露莉露Fairilu～\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (102004,'{\"title\":{\"chinese\":\"陰陽師：平安物語\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (102352,'{\"title\":{\"chinese\":\"Super Dragon Ball Heroes\"},\"synonyms_chinese\":\"[]\"}');
+INSERT INTO `anilist_chinese` VALUES (103136,'{\"title\":{\"chinese\":\"むち♥無知ッ強制成長中っ!!!\"},\"synonyms_chinese\":\"[]\"}');
 /*!40000 ALTER TABLE `anilist_chinese` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
@@ -3481,4 +3482,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2018-07-15  7:00:02
+-- Dump completed on 2018-07-16  7:00:01
