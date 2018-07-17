@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2018.7.16
+// @version      2.2018.7.18
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -3425,6 +3425,7 @@ var database = [
 {id:101382,title:"Phantom in the Twilight"},
 {id:101384,title:"Lord of Vermillion 紅蓮之王"},
 {id:101424,title:"Puzzle & Dragons"},
+{id:101426,title:"擅長捉弄人的高木同學 OVA"},
 {id:101432,title:"Violet Evergarden Extra Episode"},
 {id:101435,title:"働くお兄さん! 2"},
 {id:101471,title:"裝刀凱 2"},

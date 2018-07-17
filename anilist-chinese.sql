@@ -3446,6 +3446,7 @@ INSERT INTO `anilist_chinese` VALUES (101380,'{\"title\":{\"chinese\":\"千銃�
 INSERT INTO `anilist_chinese` VALUES (101382,'{\"title\":{\"chinese\":\"Phantom in the Twilight\"},\"synonyms_chinese\":[\"暮光幻影\"]}');
 INSERT INTO `anilist_chinese` VALUES (101384,'{\"title\":{\"chinese\":\"Lord of Vermillion 紅蓮之王\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (101424,'{\"title\":{\"chinese\":\"Puzzle & Dragons\"},\"synonyms_chinese\":[\"龍族拼圖\",\"智龍迷城\"]}');
+INSERT INTO `anilist_chinese` VALUES (101426,'{\"title\":{\"chinese\":\"擅長捉弄人的高木同學 OVA\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (101432,'{\"title\":{\"chinese\":\"Violet Evergarden Extra Episode\"},\"synonyms_chinese\":[\"紫羅蘭永恆花園 Extra Episode\",\"薇爾莉特·伊芙加登 Extra Episode\"]}');
 INSERT INTO `anilist_chinese` VALUES (101435,'{\"title\":{\"chinese\":\"働くお兄さん! 2\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (101471,'{\"title\":{\"chinese\":\"裝刀凱 2\"},\"synonyms_chinese\":\"[]\"}');
@@ -3482,4 +3483,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2018-07-17  7:00:02
+-- Dump completed on 2018-07-18  7:00:01
