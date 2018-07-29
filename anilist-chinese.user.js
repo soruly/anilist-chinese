@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2018.7.18
+// @version      2.2018.7.30
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -3434,6 +3434,7 @@ var database = [
 {id:101546,title:"The Idolm@ster SideM OVA"},
 {id:101580,title:"深夜! 天才バカボン"},
 {id:101581,title:"搖曳莊的幽奈小姐 OVA"},
+{id:101593,title:"新妻こよみ THE ANIMATION"},
 {id:101608,title:"Lilitales"},
 {id:101631,title:"惡偶 -天才人形-"},
 {id:101632,title:"BanG Dream! Girls Band Party! ☆ Pico"},

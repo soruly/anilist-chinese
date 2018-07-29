@@ -3455,6 +3455,7 @@ INSERT INTO `anilist_chinese` VALUES (101525,'{\"title\":{\"chinese\":\"某殭�
 INSERT INTO `anilist_chinese` VALUES (101546,'{\"title\":{\"chinese\":\"The Idolm@ster SideM OVA\"},\"synonyms_chinese\":[\"偶像大師 SideM OVA\"]}');
 INSERT INTO `anilist_chinese` VALUES (101580,'{\"title\":{\"chinese\":\"深夜! 天才バカボン\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (101581,'{\"title\":{\"chinese\":\"搖曳莊的幽奈小姐 OVA\"},\"synonyms_chinese\":[\"湯搖莊的幽奈同學 OVA\"]}');
+INSERT INTO `anilist_chinese` VALUES (101593,'{\"title\":{\"chinese\":\"新妻こよみ THE ANIMATION\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (101608,'{\"title\":{\"chinese\":\"Lilitales\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (101631,'{\"title\":{\"chinese\":\"惡偶 -天才人形-\"},\"synonyms_chinese\":[\"天才玩偶\"]}');
 INSERT INTO `anilist_chinese` VALUES (101632,'{\"title\":{\"chinese\":\"BanG Dream! Girls Band Party! ☆ Pico\"},\"synonyms_chinese\":\"[]\"}');
@@ -3483,4 +3484,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2018-07-29  7:00:01
+-- Dump completed on 2018-07-30  7:00:02
