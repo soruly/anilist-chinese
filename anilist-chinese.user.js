@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2018.7.30
+// @version      2.2018.8.2
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -3408,6 +3408,7 @@ var database = [
 {id:101160,title:"甜蜜懲罰～我是看守專用寵物"},
 {id:101161,title:"中間管理錄利根川"},
 {id:101210,title:"妹ぱらだいす！3 The Animation"},
+{id:101213,title:"政宗君的復仇 OVA"},
 {id:101228,title:"Zoid Wild"},
 {id:101240,title:"dokidokiりとる大家さん"},
 {id:101267,title:"Cinderella Girls 劇場 3期"},
