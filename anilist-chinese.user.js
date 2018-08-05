@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2018.8.2
+// @version      2.2018.8.6
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -3431,6 +3431,7 @@ var database = [
 {id:101435,title:"働くお兄さん! 2"},
 {id:101471,title:"裝刀凱 2"},
 {id:101474,title:"Overlord III"},
+{id:101496,title:"大好きな母"},
 {id:101525,title:"某殭屍少女的災難"},
 {id:101546,title:"The Idolm@ster SideM OVA"},
 {id:101580,title:"深夜! 天才バカボン"},
@@ -3444,6 +3445,7 @@ var database = [
 {id:101743,title:"闇芝居 6"},
 {id:101844,title:"快把我哥帶走 2"},
 {id:101859,title:"濡れ透けJ○ 雨宿りレ×プ"},
+{id:101902,title:"エルフの教え子と先生"},
 {id:101924,title:"食戟之靈 餐之皿 OVA"},
 {id:101925,title:"銀魂 銀之魂篇 2"},
 {id:101972,title:"魔道袓師"},

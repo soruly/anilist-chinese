@@ -3452,6 +3452,7 @@ INSERT INTO `anilist_chinese` VALUES (101432,'{\"title\":{\"chinese\":\"Violet E
 INSERT INTO `anilist_chinese` VALUES (101435,'{\"title\":{\"chinese\":\"働くお兄さん! 2\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (101471,'{\"title\":{\"chinese\":\"裝刀凱 2\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (101474,'{\"title\":{\"chinese\":\"Overlord III\"},\"synonyms_chinese\":\"[]\"}');
+INSERT INTO `anilist_chinese` VALUES (101496,'{\"title\":{\"chinese\":\"大好きな母\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (101525,'{\"title\":{\"chinese\":\"某殭屍少女的災難\"},\"synonyms_chinese\":[\"殭屍少女的災難\",\"某重生少女的灾难\"]}');
 INSERT INTO `anilist_chinese` VALUES (101546,'{\"title\":{\"chinese\":\"The Idolm@ster SideM OVA\"},\"synonyms_chinese\":[\"偶像大師 SideM OVA\"]}');
 INSERT INTO `anilist_chinese` VALUES (101580,'{\"title\":{\"chinese\":\"深夜! 天才バカボン\"},\"synonyms_chinese\":\"[]\"}');
@@ -3465,6 +3466,7 @@ INSERT INTO `anilist_chinese` VALUES (101696,'{\"title\":{\"chinese\":\"妖精�
 INSERT INTO `anilist_chinese` VALUES (101743,'{\"title\":{\"chinese\":\"闇芝居 6\"},\"synonyms_chinese\":[\"暗芝居 6\"]}');
 INSERT INTO `anilist_chinese` VALUES (101844,'{\"title\":{\"chinese\":\"快把我哥帶走 2\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (101859,'{\"title\":{\"chinese\":\"濡れ透けJ○ 雨宿りレ×プ\"},\"synonyms_chinese\":\"[]\"}');
+INSERT INTO `anilist_chinese` VALUES (101902,'{\"title\":{\"chinese\":\"エルフの教え子と先生\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (101924,'{\"title\":{\"chinese\":\"食戟之靈 餐之皿 OVA\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (101925,'{\"title\":{\"chinese\":\"銀魂 銀之魂篇 2\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (101972,'{\"title\":{\"chinese\":\"魔道袓師\"},\"synonyms_chinese\":\"[]\"}');
@@ -3485,4 +3487,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2018-08-05  7:00:01
+-- Dump completed on 2018-08-06  7:00:02
