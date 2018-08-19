@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2018.8.6
+// @version      2.2018.8.20
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -2858,6 +2858,7 @@ var database = [
 {id:21775,title:"虹色Days OVA"},
 {id:21776,title:"小林家的女僕龍"},
 {id:21777,title:"無彩限的幻影世界 OVA"},
+{id:21778,title:"岸邊露伴一動不動"},
 {id:21780,title:"Re：從零開始的休憩時間"},
 {id:21782,title:"腐男子高校生活"},
 {id:21784,title:"熊巫女 OVA"},

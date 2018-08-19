@@ -2879,6 +2879,7 @@ INSERT INTO `anilist_chinese` VALUES (21773,'{\"title\":{\"chinese\":\"覆面系
 INSERT INTO `anilist_chinese` VALUES (21775,'{\"title\":{\"chinese\":\"虹色Days OVA\"},\"synonyms_chinese\":[\"虹色時光 OVA\"]}');
 INSERT INTO `anilist_chinese` VALUES (21776,'{\"title\":{\"chinese\":\"小林家的女僕龍\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (21777,'{\"title\":{\"chinese\":\"無彩限的幻影世界 OVA\"},\"synonyms_chinese\":[\"無彩限的魅影世界 OVA\",\"無彩限的怪靈世界 OVA\",\"無彩限的虛幻世界 OVA\",\"無色的幻影世界 OVA\"]}');
+INSERT INTO `anilist_chinese` VALUES (21778,'{\"title\":{\"chinese\":\"岸邊露伴一動不動\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (21780,'{\"title\":{\"chinese\":\"Re：從零開始的休憩時間\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (21782,'{\"title\":{\"chinese\":\"腐男子高校生活\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (21784,'{\"title\":{\"chinese\":\"熊巫女 OVA\"},\"synonyms_chinese\":[\"當女孩遇到熊 OVA\"]}');
@@ -3487,4 +3488,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2018-08-19  7:00:02
+-- Dump completed on 2018-08-20  7:00:01
