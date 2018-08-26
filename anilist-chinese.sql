@@ -3432,6 +3432,7 @@ INSERT INTO `anilist_chinese` VALUES (101161,'{\"title\":{\"chinese\":\"中間�
 INSERT INTO `anilist_chinese` VALUES (101210,'{\"title\":{\"chinese\":\"妹ぱらだいす！3 The Animation\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (101213,'{\"title\":{\"chinese\":\"政宗君的復仇 OVA\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (101228,'{\"title\":{\"chinese\":\"Zoid Wild\"},\"synonyms_chinese\":[\"索斯機械獸\",\"機獸創世紀\"]}');
+INSERT INTO `anilist_chinese` VALUES (101231,'{\"title\":{\"chinese\":\"詩季織織\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (101240,'{\"title\":{\"chinese\":\"dokidokiりとる大家さん\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (101267,'{\"title\":{\"chinese\":\"Cinderella Girls 劇場 3期\"},\"synonyms_chinese\":[\"偶像大師 灰姑娘女孩 3期\"]}');
 INSERT INTO `anilist_chinese` VALUES (101277,'{\"title\":{\"chinese\":\"溫泉屋小女將\"},\"synonyms_chinese\":\"[]\"}');
@@ -3474,8 +3475,10 @@ INSERT INTO `anilist_chinese` VALUES (101972,'{\"title\":{\"chinese\":\"魔道�
 INSERT INTO `anilist_chinese` VALUES (101981,'{\"title\":{\"chinese\":\"天降女子!~女孩子從2樓…掉了下來！ ？\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (101985,'{\"title\":{\"chinese\":\"告訴我吧魔法靈擺～莉露莉露Fairilu～\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (102004,'{\"title\":{\"chinese\":\"陰陽師：平安物語\"},\"synonyms_chinese\":\"[]\"}');
+INSERT INTO `anilist_chinese` VALUES (102313,'{\"title\":{\"chinese\":\"はさんであげる♡\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (102352,'{\"title\":{\"chinese\":\"Super Dragon Ball Heroes\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (103136,'{\"title\":{\"chinese\":\"むち♥無知ッ強制成長中っ!!!\"},\"synonyms_chinese\":\"[]\"}');
+INSERT INTO `anilist_chinese` VALUES (103256,'{\"title\":{\"chinese\":\"Nekopara OVA Extra\"},\"synonyms_chinese\":\"[]\"}');
 /*!40000 ALTER TABLE `anilist_chinese` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
@@ -3488,4 +3491,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2018-08-26  7:00:02
+-- Dump completed on 2018-08-27  7:00:01
