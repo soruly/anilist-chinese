@@ -3471,6 +3471,7 @@ INSERT INTO `anilist_chinese` VALUES (101859,'{\"title\":{\"chinese\":\"濡れ�
 INSERT INTO `anilist_chinese` VALUES (101902,'{\"title\":{\"chinese\":\"エルフの教え子と先生\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (101924,'{\"title\":{\"chinese\":\"食戟之靈 餐之皿 OVA\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (101925,'{\"title\":{\"chinese\":\"銀魂 銀之魂篇 2\"},\"synonyms_chinese\":\"[]\"}');
+INSERT INTO `anilist_chinese` VALUES (101943,'{\"title\":{\"chinese\":\"あねちじょ☆マックスハート\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (101972,'{\"title\":{\"chinese\":\"魔道袓師\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (101981,'{\"title\":{\"chinese\":\"天降女子!~女孩子從2樓…掉了下來！ ？\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (101985,'{\"title\":{\"chinese\":\"告訴我吧魔法靈擺～莉露莉露Fairilu～\"},\"synonyms_chinese\":\"[]\"}');
@@ -3492,4 +3493,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2018-09-03  7:00:01
+-- Dump completed on 2018-09-04  7:00:01
