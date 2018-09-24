@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2018.9.17
+// @version      2.2018.9.25
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -3457,6 +3457,7 @@ var database = [
 {id:102004,title:"陰陽師：平安物語"},
 {id:102313,title:"はさんであげる♡"},
 {id:102352,title:"Super Dragon Ball Heroes"},
+{id:103077,title:"Tinderbox"},
 {id:103136,title:"むち♥無知ッ強制成長中っ!!!"},
 {id:103256,title:"Nekopara OVA Extra"},
 {id:103925,title:"くノ一牡丹"},
