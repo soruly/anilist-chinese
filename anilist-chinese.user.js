@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2018.9.26
+// @version      2.2018.10.1
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -3490,6 +3490,7 @@ var database = [
 {id:101924,title:"食戟之靈 餐之皿 OVA"},
 {id:101925,title:"銀魂 銀之魂篇 2"},
 {id:101943,title:"あねちじょ☆マックスハート"},
+{id:101970,title:"一臉嫌棄給你看胖次"},
 {id:101972,title:"魔道袓師"},
 {id:101981,title:"天降女子!~女孩子從2樓…掉了下來！ ？"},
 {id:101985,title:"告訴我吧魔法靈擺～莉露莉露Fairilu～"},

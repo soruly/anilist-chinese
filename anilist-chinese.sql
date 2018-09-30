@@ -3511,6 +3511,7 @@ INSERT INTO `anilist_chinese` VALUES (101903,'{\"title\":{\"chinese\":\"強風�
 INSERT INTO `anilist_chinese` VALUES (101924,'{\"title\":{\"chinese\":\"食戟之靈 餐之皿 OVA\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (101925,'{\"title\":{\"chinese\":\"銀魂 銀之魂篇 2\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (101943,'{\"title\":{\"chinese\":\"あねちじょ☆マックスハート\"},\"synonyms_chinese\":\"[]\"}');
+INSERT INTO `anilist_chinese` VALUES (101970,'{\"title\":{\"chinese\":\"一臉嫌棄給你看胖次\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (101972,'{\"title\":{\"chinese\":\"魔道袓師\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (101981,'{\"title\":{\"chinese\":\"天降女子!~女孩子從2樓…掉了下來！ ？\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (101985,'{\"title\":{\"chinese\":\"告訴我吧魔法靈擺～莉露莉露Fairilu～\"},\"synonyms_chinese\":\"[]\"}');
