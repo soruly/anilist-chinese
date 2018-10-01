@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2018.10.1
+// @version      2.2018.10.2
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -3382,6 +3382,7 @@ var database = [
 {id:100735,title:"ねぇ、…しよ♥"},
 {id:100745,title:"足球小將翼 (2018)"},
 {id:100748,title:"裏・受胎島"},
+{id:100749,title:"未來的未來"},
 {id:100762,title:"立花館戀愛三角關係"},
 {id:100773,title:"食戟之靈 餐之皿 遠月列車篇"},
 {id:100784,title:"銀魂 銀之魂篇"},

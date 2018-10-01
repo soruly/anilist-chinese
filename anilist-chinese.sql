@@ -3403,6 +3403,7 @@ INSERT INTO `anilist_chinese` VALUES (100727,'{\"title\":{\"chinese\":\"和風�
 INSERT INTO `anilist_chinese` VALUES (100735,'{\"title\":{\"chinese\":\"ねぇ、…しよ♥\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (100745,'{\"title\":{\"chinese\":\"足球小將翼 (2018)\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (100748,'{\"title\":{\"chinese\":\"裏・受胎島\"},\"synonyms_chinese\":\"[]\"}');
+INSERT INTO `anilist_chinese` VALUES (100749,'{\"title\":{\"chinese\":\"未來的未來\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (100762,'{\"title\":{\"chinese\":\"立花館戀愛三角關係\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (100773,'{\"title\":{\"chinese\":\"食戟之靈 餐之皿 遠月列車篇\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (100784,'{\"title\":{\"chinese\":\"銀魂 銀之魂篇\"},\"synonyms_chinese\":[]}');
@@ -3466,7 +3467,7 @@ INSERT INTO `anilist_chinese` VALUES (101310,'{\"title\":{\"chinese\":\"寄宿�
 INSERT INTO `anilist_chinese` VALUES (101313,'{\"title\":{\"chinese\":\"逆轉裁判 2\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (101314,'{\"title\":{\"chinese\":\"Ladyspo\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (101316,'{\"title\":{\"chinese\":\"來自繽紛世界的明天\"},\"synonyms_chinese\":\"[]\"}');
-INSERT INTO `anilist_chinese` VALUES (101318,'{\"title\":{\"chinese\":\"DOUBLE DECKER!\"},\"synonyms_chinese\":\"[]\"}');
+INSERT INTO `anilist_chinese` VALUES (101318,'{\"title\":{\"chinese\":\"DOUBLE DECKER!\"},\"synonyms_chinese\":[\"道格&基里爾\"]}');
 INSERT INTO `anilist_chinese` VALUES (101336,'{\"title\":{\"chinese\":\"傀儡馬戲團\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (101340,'{\"title\":{\"chinese\":\"魔法律顧問事務所\"},\"synonyms_chinese\":[\"魔法律事務所\"]}');
 INSERT INTO `anilist_chinese` VALUES (101351,'{\"title\":{\"chinese\":\"Happy Sugar Life\"},\"synonyms_chinese\":\"[]\"}');
