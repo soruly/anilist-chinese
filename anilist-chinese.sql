@@ -3338,7 +3338,7 @@ INSERT INTO `anilist_chinese` VALUES (100009,'{\"title\":{\"chinese\":\"宇宙�
 INSERT INTO `anilist_chinese` VALUES (100010,'{\"title\":{\"chinese\":\"魔法少女網站\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (100077,'{\"title\":{\"chinese\":\"黑社會的超能力女兒\"},\"synonyms_chinese\":[\"極道超女\"]}');
 INSERT INTO `anilist_chinese` VALUES (100083,'{\"title\":{\"chinese\":\"Butlers 千年百年物語\"},\"synonyms_chinese\":\"[]\"}');
-INSERT INTO `anilist_chinese` VALUES (100085,'{\"title\":{\"chinese\":\"昴宿七星\"},\"synonyms_chinese\":\"[]\"}');
+INSERT INTO `anilist_chinese` VALUES (100085,'{\"title\":{\"chinese\":\"昴宿七星\"},\"synonyms_chinese\":[\"七星之昴星團\",\"未聞刀劍\"]}');
 INSERT INTO `anilist_chinese` VALUES (100093,'{\"title\":{\"chinese\":\"書店裡的骷髏店員本田\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (100108,'{\"title\":{\"chinese\":\"気に入った膣にいきなり中出しOKなリゾート島\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (100133,'{\"title\":{\"chinese\":\"One Room 2\"},\"synonyms_chinese\":[\"一間房 2\"]}');
