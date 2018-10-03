@@ -3472,7 +3472,7 @@ INSERT INTO `anilist_chinese` VALUES (101336,'{\"title\":{\"chinese\":\"傀儡�
 INSERT INTO `anilist_chinese` VALUES (101340,'{\"title\":{\"chinese\":\"魔法律顧問事務所\"},\"synonyms_chinese\":[\"魔法律事務所\"]}');
 INSERT INTO `anilist_chinese` VALUES (101351,'{\"title\":{\"chinese\":\"Happy Sugar Life\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (101359,'{\"title\":{\"chinese\":\"叛逆性百萬亞瑟王\"},\"synonyms_chinese\":\"[]\"}');
-INSERT INTO `anilist_chinese` VALUES (101360,'{\"title\":{\"chinese\":\"AKANESASU少女\"},\"synonyms_chinese\":\"[]\"}');
+INSERT INTO `anilist_chinese` VALUES (101360,'{\"title\":{\"chinese\":\"夕照少女\"},\"synonyms_chinese\":[\"茜色少女\",\"AKANESASU少女\"]}');
 INSERT INTO `anilist_chinese` VALUES (101361,'{\"title\":{\"chinese\":\"天狼 Sirius the Jaeger\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (101368,'{\"title\":{\"chinese\":\"Planet With\"},\"synonyms_chinese\":[\"行星與共\"]}');
 INSERT INTO `anilist_chinese` VALUES (101371,'{\"title\":{\"chinese\":\"隔壁的吸血鬼美眉\"},\"synonyms_chinese\":\"[]\"}');
@@ -3529,7 +3529,7 @@ INSERT INTO `anilist_chinese` VALUES (102927,'{\"title\":{\"chinese\":\"爆釣�
 INSERT INTO `anilist_chinese` VALUES (102974,'{\"title\":{\"chinese\":\"Gurazeni 2\"},\"synonyms_chinese\":[\"錢進球場 2\"]}');
 INSERT INTO `anilist_chinese` VALUES (102977,'{\"title\":{\"chinese\":\"黃金神威 2\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (102978,'{\"title\":{\"chinese\":\"宇宙戰艦提拉米蘇 II\"},\"synonyms_chinese\":\"[]\"}');
-INSERT INTO `anilist_chinese` VALUES (103000,'{\"title\":{\"chinese\":\"人外先生的老婆\"},\"synonyms_chinese\":\"[]\"}');
+INSERT INTO `anilist_chinese` VALUES (103000,'{\"title\":{\"chinese\":\"人外先生的老婆\"},\"synonyms_chinese\":[\"非人先生的新娘\"]}');
 INSERT INTO `anilist_chinese` VALUES (103077,'{\"title\":{\"chinese\":\"Tinderbox\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (103136,'{\"title\":{\"chinese\":\"むち♥無知ッ強制成長中っ!!!\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (103256,'{\"title\":{\"chinese\":\"Nekopara OVA Extra\"},\"synonyms_chinese\":\"[]\"}');

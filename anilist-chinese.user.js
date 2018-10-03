@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2018.10.2
+// @version      2.2018.10.4
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -3451,7 +3451,7 @@ var database = [
 {id:101340,title:"魔法律顧問事務所"},
 {id:101351,title:"Happy Sugar Life"},
 {id:101359,title:"叛逆性百萬亞瑟王"},
-{id:101360,title:"AKANESASU少女"},
+{id:101360,title:"夕照少女"},
 {id:101361,title:"天狼 Sirius the Jaeger"},
 {id:101368,title:"Planet With"},
 {id:101371,title:"隔壁的吸血鬼美眉"},
