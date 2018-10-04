@@ -3459,7 +3459,7 @@ INSERT INTO `anilist_chinese` VALUES (101267,'{\"title\":{\"chinese\":\"Cinderel
 INSERT INTO `anilist_chinese` VALUES (101277,'{\"title\":{\"chinese\":\"溫泉屋小女將\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (101280,'{\"title\":{\"chinese\":\"關於我轉生變成史萊姆這檔事\"},\"synonyms_chinese\":[\"關於我轉生成為史萊姆的那件事\"]}');
 INSERT INTO `anilist_chinese` VALUES (101289,'{\"title\":{\"chinese\":\"百鍊霸王與聖約女武神\"},\"synonyms_chinese\":\"[]\"}');
-INSERT INTO `anilist_chinese` VALUES (101291,'{\"title\":{\"chinese\":\"青春豬頭少年不會夢到兔女郎學姊\"},\"synonyms_chinese\":[\"青春豬頭少年不做兔女郎學姐的夢\"]}');
+INSERT INTO `anilist_chinese` VALUES (101291,'{\"title\":{\"chinese\":\"青春豬頭少年不會夢到兔女郎學姊\"},\"synonyms_chinese\":[\"青春豬頭少年不做兔女郎學姐的夢\",\"青春期笨蛋不做兔女郎學姐的夢\",\"青春野狼不做兔女郎學姐的夢\"]}');
 INSERT INTO `anilist_chinese` VALUES (101292,'{\"title\":{\"chinese\":\"京都寺町三條商店街的福爾摩斯\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (101301,'{\"title\":{\"chinese\":\"放課後の優等生\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (101309,'{\"title\":{\"chinese\":\"音樂少女 (TV)\"},\"synonyms_chinese\":\"[]\"}');
@@ -3525,7 +3525,7 @@ INSERT INTO `anilist_chinese` VALUES (102822,'{\"title\":{\"chinese\":\"閃亂�
 INSERT INTO `anilist_chinese` VALUES (102860,'{\"title\":{\"chinese\":\"蒼天之拳 REGENESIS 2\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (102875,'{\"title\":{\"chinese\":\"Himote House\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (102883,'{\"title\":{\"chinese\":\"JoJo的奇妙冒險 黃金之風\"},\"synonyms_chinese\":\"[]\"}');
-INSERT INTO `anilist_chinese` VALUES (102927,'{\"title\":{\"chinese\":\"爆釣酒吧獵人\"},\"synonyms_chinese\":\"[]\"}');
+INSERT INTO `anilist_chinese` VALUES (102927,'{\"title\":{\"chinese\":\"爆釣酒吧獵人\"},\"synonyms_chinese\":[\"爆釣 Bar Hunter\"]}');
 INSERT INTO `anilist_chinese` VALUES (102974,'{\"title\":{\"chinese\":\"Gurazeni 2\"},\"synonyms_chinese\":[\"錢進球場 2\"]}');
 INSERT INTO `anilist_chinese` VALUES (102977,'{\"title\":{\"chinese\":\"黃金神威 2\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (102978,'{\"title\":{\"chinese\":\"宇宙戰艦提拉米蘇 II\"},\"synonyms_chinese\":\"[]\"}');
