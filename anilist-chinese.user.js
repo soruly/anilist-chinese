@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2018.10.4
+// @version      2.2018.10.7
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -3517,6 +3517,7 @@ var database = [
 {id:103923,title:"The Idolm@ster SideM 迷你是原因!"},
 {id:103925,title:"くノ一牡丹"},
 {id:104073,title:"那時的她。"},
+{id:104077,title:"閃電十一人 獵戶座的刻印"},
 {id:104078,title:"永不止步真好"},
 {id:104080,title:"喂，看見耳朵啦！"},
 {id:104103,title:"軒轅劍 蒼之曜"},

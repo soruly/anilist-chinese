@@ -3538,6 +3538,7 @@ INSERT INTO `anilist_chinese` VALUES (103872,'{\"title\":{\"chinese\":\"歡迎�
 INSERT INTO `anilist_chinese` VALUES (103923,'{\"title\":{\"chinese\":\"The Idolm@ster SideM 迷你是原因!\"},\"synonyms_chinese\":[\"偶像大師 SideM 迷你是原因!\"]}');
 INSERT INTO `anilist_chinese` VALUES (103925,'{\"title\":{\"chinese\":\"くノ一牡丹\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (104073,'{\"title\":{\"chinese\":\"那時的她。\"},\"synonyms_chinese\":\"[]\"}');
+INSERT INTO `anilist_chinese` VALUES (104077,'{\"title\":{\"chinese\":\"閃電十一人 獵戶座的刻印\"},\"synonyms_chinese\":[\"閃電十一人 俄里翁的刻印\"]}');
 INSERT INTO `anilist_chinese` VALUES (104078,'{\"title\":{\"chinese\":\"永不止步真好\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (104080,'{\"title\":{\"chinese\":\"喂，看見耳朵啦！\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (104103,'{\"title\":{\"chinese\":\"軒轅劍 蒼之曜\"},\"synonyms_chinese\":[]}');
