@@ -3429,7 +3429,7 @@ INSERT INTO `anilist_chinese` VALUES (101001,'{\"title\":{\"chinese\":\"來玩�
 INSERT INTO `anilist_chinese` VALUES (101002,'{\"title\":{\"chinese\":\"踏切時間\"},\"synonyms_chinese\":[\"平交道時間\",\"道口時間\"]}');
 INSERT INTO `anilist_chinese` VALUES (101004,'{\"title\":{\"chinese\":\"異世界魔王與召喚少女的奴隸魔術\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (101013,'{\"title\":{\"chinese\":\"Anima Yell!\"},\"synonyms_chinese\":\"[]\"}');
-INSERT INTO `anilist_chinese` VALUES (101014,'{\"title\":{\"chinese\":\"RELEASE THE SPYCE\"},\"synonyms_chinese\":\"[]\"}');
+INSERT INTO `anilist_chinese` VALUES (101014,'{\"title\":{\"chinese\":\"RELEASE THE SPYCE\"},\"synonyms_chinese\":[\"月影特工\",\"月影少女\"]}');
 INSERT INTO `anilist_chinese` VALUES (101015,'{\"title\":{\"chinese\":\"俺が姪を犯す理由\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (101020,'{\"title\":{\"chinese\":\"淫行教師4 feat.エロ議員センセイ\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (101021,'{\"title\":{\"chinese\":\"ツンえむ！ ～ぎゅっと縛って指導して～ THE ANIMATION\"},\"synonyms_chinese\":\"[]\"}');
@@ -3507,6 +3507,7 @@ INSERT INTO `anilist_chinese` VALUES (101696,'{\"title\":{\"chinese\":\"妖精�
 INSERT INTO `anilist_chinese` VALUES (101743,'{\"title\":{\"chinese\":\"闇芝居 6\"},\"synonyms_chinese\":[\"暗芝居 6\"]}');
 INSERT INTO `anilist_chinese` VALUES (101844,'{\"title\":{\"chinese\":\"快把我哥帶走 2\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (101859,'{\"title\":{\"chinese\":\"濡れ透けJ○ 雨宿りレ×プ\"},\"synonyms_chinese\":\"[]\"}');
+INSERT INTO `anilist_chinese` VALUES (101865,'{\"title\":{\"chinese\":\"巨乳J○がオジさんチ○ポとじゅぽじゅぽいやらしいセックスしてます。\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (101902,'{\"title\":{\"chinese\":\"エルフの教え子と先生\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (101903,'{\"title\":{\"chinese\":\"強風吹拂\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (101924,'{\"title\":{\"chinese\":\"食戟之靈 餐之皿 OVA\"},\"synonyms_chinese\":\"[]\"}');
@@ -3530,9 +3531,12 @@ INSERT INTO `anilist_chinese` VALUES (102974,'{\"title\":{\"chinese\":\"Gurazeni
 INSERT INTO `anilist_chinese` VALUES (102977,'{\"title\":{\"chinese\":\"黃金神威 2\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (102978,'{\"title\":{\"chinese\":\"宇宙戰艦提拉米蘇 II\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (103000,'{\"title\":{\"chinese\":\"人外先生的老婆\"},\"synonyms_chinese\":[\"非人先生的新娘\"]}');
+INSERT INTO `anilist_chinese` VALUES (103054,'{\"title\":{\"chinese\":\"Tiny Evil\"},\"synonyms_chinese\":\"[]\"}');
+INSERT INTO `anilist_chinese` VALUES (103076,'{\"title\":{\"chinese\":\"添いカノ～ぎゅっと抱きしめて～ THE ANIMATION\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (103077,'{\"title\":{\"chinese\":\"Tinderbox\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (103136,'{\"title\":{\"chinese\":\"むち♥無知ッ強制成長中っ!!!\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (103256,'{\"title\":{\"chinese\":\"Nekopara OVA Extra\"},\"synonyms_chinese\":\"[]\"}');
+INSERT INTO `anilist_chinese` VALUES (103740,'{\"title\":{\"chinese\":\"劇場版 星光樂園 一起閃耀吧！閃亮亮☆星光LIVE！\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (103871,'{\"title\":{\"chinese\":\"殭屍樂園薩加\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (103872,'{\"title\":{\"chinese\":\"歡迎光臨、千歲醬\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (103923,'{\"title\":{\"chinese\":\"The Idolm@ster SideM 迷你是原因!\"},\"synonyms_chinese\":[\"偶像大師 SideM 迷你是原因!\"]}');

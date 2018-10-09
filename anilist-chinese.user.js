@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2018.10.7
+// @version      2.2018.10.10
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -3486,6 +3486,7 @@ var database = [
 {id:101743,title:"闇芝居 6"},
 {id:101844,title:"快把我哥帶走 2"},
 {id:101859,title:"濡れ透けJ○ 雨宿りレ×プ"},
+{id:101865,title:"巨乳J○がオジさんチ○ポとじゅぽじゅぽいやらしいセックスしてます。"},
 {id:101902,title:"エルフの教え子と先生"},
 {id:101903,title:"強風吹拂"},
 {id:101924,title:"食戟之靈 餐之皿 OVA"},
@@ -3509,9 +3510,12 @@ var database = [
 {id:102977,title:"黃金神威 2"},
 {id:102978,title:"宇宙戰艦提拉米蘇 II"},
 {id:103000,title:"人外先生的老婆"},
+{id:103054,title:"Tiny Evil"},
+{id:103076,title:"添いカノ～ぎゅっと抱きしめて～ THE ANIMATION"},
 {id:103077,title:"Tinderbox"},
 {id:103136,title:"むち♥無知ッ強制成長中っ!!!"},
 {id:103256,title:"Nekopara OVA Extra"},
+{id:103740,title:"劇場版 星光樂園 一起閃耀吧！閃亮亮☆星光LIVE！"},
 {id:103871,title:"殭屍樂園薩加"},
 {id:103872,title:"歡迎光臨、千歲醬"},
 {id:103923,title:"The Idolm@ster SideM 迷你是原因!"},
