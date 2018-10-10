@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2018.10.10
+// @version      2.2018.10.11
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -3379,6 +3379,8 @@ var database = [
 {id:100714,title:"邪神與廚二病少女"},
 {id:100715,title:"魔法少女 我"},
 {id:100727,title:"和風喫茶鹿楓堂"},
+{id:100728,title:"Fate/Grand Order MOONLIGHT/LOSTROOM"},
+{id:100729,title:"Fate/Grand Order 冰室的天地 七人最強偉人篇"},
 {id:100735,title:"ねぇ、…しよ♥"},
 {id:100745,title:"足球小將翼 (2018)"},
 {id:100748,title:"裏・受胎島"},
@@ -3484,6 +3486,7 @@ var database = [
 {id:101695,title:"血界戰線 & BEYOND OVA"},
 {id:101696,title:"妖精森林的小不點 OVA"},
 {id:101743,title:"闇芝居 6"},
+{id:101830,title:"黃金神威 OVA"},
 {id:101844,title:"快把我哥帶走 2"},
 {id:101859,title:"濡れ透けJ○ 雨宿りレ×プ"},
 {id:101865,title:"巨乳J○がオジさんチ○ポとじゅぽじゅぽいやらしいセックスしてます。"},
