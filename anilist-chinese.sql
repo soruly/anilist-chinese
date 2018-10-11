@@ -3370,6 +3370,7 @@ INSERT INTO `anilist_chinese` VALUES (100402,'{\"title\":{\"chinese\":\"弦音�
 INSERT INTO `anilist_chinese` VALUES (100408,'{\"title\":{\"chinese\":\"蒼天之拳 REGENESIS\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (100432,'{\"title\":{\"chinese\":\"尤利西斯 貞德與鍊金騎士\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (100436,'{\"title\":{\"chinese\":\"Jewelry The Animation\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (100450,'{\"title\":{\"chinese\":\"巨乳ドスケベ学園\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (100451,'{\"title\":{\"chinese\":\"新妹魔王的契約者 DEPARTURES\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (100479,'{\"title\":{\"chinese\":\"ドSな生徒会長サマがMノートに支配されました。\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (100483,'{\"title\":{\"chinese\":\"搖曳莊的幽奈小姐\"},\"synonyms_chinese\":[\"湯搖莊的幽奈同學\"]}');
@@ -3470,7 +3471,7 @@ INSERT INTO `anilist_chinese` VALUES (101313,'{\"title\":{\"chinese\":\"逆轉�
 INSERT INTO `anilist_chinese` VALUES (101314,'{\"title\":{\"chinese\":\"Ladyspo\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (101316,'{\"title\":{\"chinese\":\"來自繽紛世界的明天\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (101318,'{\"title\":{\"chinese\":\"DOUBLE DECKER!\"},\"synonyms_chinese\":[\"道格&基里爾\"]}');
-INSERT INTO `anilist_chinese` VALUES (101336,'{\"title\":{\"chinese\":\"傀儡馬戲團\"},\"synonyms_chinese\":\"[]\"}');
+INSERT INTO `anilist_chinese` VALUES (101336,'{\"title\":{\"chinese\":\"傀儡馬戲團\"},\"synonyms_chinese\":[\"魔偶馬戲團\"]}');
 INSERT INTO `anilist_chinese` VALUES (101340,'{\"title\":{\"chinese\":\"魔法律顧問事務所\"},\"synonyms_chinese\":[\"魔法律事務所\"]}');
 INSERT INTO `anilist_chinese` VALUES (101351,'{\"title\":{\"chinese\":\"Happy Sugar Life\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (101359,'{\"title\":{\"chinese\":\"叛逆性百萬亞瑟王\"},\"synonyms_chinese\":\"[]\"}');

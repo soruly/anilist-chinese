@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2018.10.11
+// @version      2.2018.10.12
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -3349,6 +3349,7 @@ var database = [
 {id:100408,title:"蒼天之拳 REGENESIS"},
 {id:100432,title:"尤利西斯 貞德與鍊金騎士"},
 {id:100436,title:"Jewelry The Animation"},
+{id:100450,title:"巨乳ドスケベ学園"},
 {id:100451,title:"新妹魔王的契約者 DEPARTURES"},
 {id:100479,title:"ドSな生徒会長サマがMノートに支配されました。"},
 {id:100483,title:"搖曳莊的幽奈小姐"},
