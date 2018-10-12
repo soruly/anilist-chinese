@@ -400,6 +400,8 @@ INSERT INTO `anilist_chinese` VALUES (822,'{\"title\":{\"chinese\":\"頭文字D 
 INSERT INTO `anilist_chinese` VALUES (824,'{\"title\":{\"chinese\":\"Guardian Hearts\"},\"synonyms_chinese\":[\"守護之心火\"]}');
 INSERT INTO `anilist_chinese` VALUES (833,'{\"title\":{\"chinese\":\"超重神GRAVION\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (834,'{\"title\":{\"chinese\":\"BLEACH The Sealed Sword Frenzy\"},\"synonyms_chinese\":[\"BLEACH 死神\",\"BLEACH 境·界\",\"BLEACH 漂靈\"]}');
+INSERT INTO `anilist_chinese` VALUES (835,'{\"title\":{\"chinese\":\"妹妹公主 RePure\"},\"synonyms_chinese\":\"[]\"}');
+INSERT INTO `anilist_chinese` VALUES (836,'{\"title\":{\"chinese\":\"妹妹公主\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (844,'{\"title\":{\"chinese\":\"劇場版 魔法小神童加旋 第101個魔物\"},\"synonyms_chinese\":[\"魔法少年賈修\",\"魔法少年卡修\",\"金色的卡修\",\"魔界小金毛加旋\"]}');
 INSERT INTO `anilist_chinese` VALUES (845,'{\"title\":{\"chinese\":\"牙KIBA\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (846,'{\"title\":{\"chinese\":\"School Rumble 二學期\"},\"synonyms_chinese\":[\"校園迷糊大王 二學期\"]}');

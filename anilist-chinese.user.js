@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2018.10.12
+// @version      2.2018.10.13
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -379,6 +379,8 @@ var database = [
 {id:824,title:"Guardian Hearts"},
 {id:833,title:"超重神GRAVION"},
 {id:834,title:"BLEACH The Sealed Sword Frenzy"},
+{id:835,title:"妹妹公主 RePure"},
+{id:836,title:"妹妹公主"},
 {id:844,title:"劇場版 魔法小神童加旋 第101個魔物"},
 {id:845,title:"牙KIBA"},
 {id:846,title:"School Rumble 二學期"},
