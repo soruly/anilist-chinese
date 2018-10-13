@@ -3543,7 +3543,7 @@ INSERT INTO `anilist_chinese` VALUES (103077,'{\"title\":{\"chinese\":\"Tinderbo
 INSERT INTO `anilist_chinese` VALUES (103136,'{\"title\":{\"chinese\":\"むち♥無知ッ強制成長中っ!!!\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (103256,'{\"title\":{\"chinese\":\"Nekopara OVA Extra\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (103740,'{\"title\":{\"chinese\":\"劇場版 星光樂園 一起閃耀吧！閃亮亮☆星光LIVE！\"},\"synonyms_chinese\":[]}');
-INSERT INTO `anilist_chinese` VALUES (103871,'{\"title\":{\"chinese\":\"殭屍樂園薩加\"},\"synonyms_chinese\":\"[]\"}');
+INSERT INTO `anilist_chinese` VALUES (103871,'{\"title\":{\"chinese\":\"殭屍樂園薩加\"},\"synonyms_chinese\":[\"殭屍樂園佐賀\",\"喪屍之地傳奇\",\"佐賀偶像是傳奇\"]}');
 INSERT INTO `anilist_chinese` VALUES (103872,'{\"title\":{\"chinese\":\"歡迎光臨、千歲醬\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (103923,'{\"title\":{\"chinese\":\"The Idolm@ster SideM 迷你是原因!\"},\"synonyms_chinese\":[\"偶像大師 SideM 迷你是原因!\"]}');
 INSERT INTO `anilist_chinese` VALUES (103925,'{\"title\":{\"chinese\":\"くノ一牡丹\"},\"synonyms_chinese\":\"[]\"}');
@@ -3555,6 +3555,7 @@ INSERT INTO `anilist_chinese` VALUES (104103,'{\"title\":{\"chinese\":\"軒轅�
 INSERT INTO `anilist_chinese` VALUES (104117,'{\"title\":{\"chinese\":\"末班電車後、膠囊旅館、給上司微熱的夜晚。\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (104139,'{\"title\":{\"chinese\":\"レイプ合法化っ!!!\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (104214,'{\"title\":{\"chinese\":\"Devidol!\"},\"synonyms_chinese\":\"[]\"}');
+INSERT INTO `anilist_chinese` VALUES (104530,'{\"title\":{\"chinese\":\"品酒要在成為夫妻後 OVA\"},\"synonyms_chinese\":\"[]\"}');
 /*!40000 ALTER TABLE `anilist_chinese` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
