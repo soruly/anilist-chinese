@@ -3055,6 +3055,7 @@ INSERT INTO `anilist_chinese` VALUES (97859,'{\"title\":{\"chinese\":\"結城友
 INSERT INTO `anilist_chinese` VALUES (97860,'{\"title\":{\"chinese\":\"結城友奈是勇者 -鷲尾須美篇- 3\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (97862,'{\"title\":{\"chinese\":\"Love米 -WE LOVE RICE-\"},\"synonyms_chinese\":[\"愛米~WE LOVE RICE~\"]}');
 INSERT INTO `anilist_chinese` VALUES (97863,'{\"title\":{\"chinese\":\"第一次的辣妹\"},\"synonyms_chinese\":[\"第一次的GAL\"]}');
+INSERT INTO `anilist_chinese` VALUES (97873,'{\"title\":{\"chinese\":\"異世界居酒屋～古都阿伊特力亞的居酒屋阿信～\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (97874,'{\"title\":{\"chinese\":\"FRAME ARMS GIRL\"},\"synonyms_chinese\":[\"Frame Arms Girl 機甲少女\",\"Frame Arms Girl 骨裝機娘\"]}');
 INSERT INTO `anilist_chinese` VALUES (97875,'{\"title\":{\"chinese\":\"黑白來看守所 2\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (97876,'{\"title\":{\"chinese\":\"大正小小先生\"},\"synonyms_chinese\":[]}');

@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2018.10.14
+// @version      2.2018.10.19
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -3034,6 +3034,7 @@ var database = [
 {id:97860,title:"結城友奈是勇者 -鷲尾須美篇- 3"},
 {id:97862,title:"Love米 -WE LOVE RICE-"},
 {id:97863,title:"第一次的辣妹"},
+{id:97873,title:"異世界居酒屋～古都阿伊特力亞的居酒屋阿信～"},
 {id:97874,title:"FRAME ARMS GIRL"},
 {id:97875,title:"黑白來看守所 2"},
 {id:97876,title:"大正小小先生"},
