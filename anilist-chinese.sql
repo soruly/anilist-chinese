@@ -3482,7 +3482,7 @@ INSERT INTO `anilist_chinese` VALUES (101360,'{\"title\":{\"chinese\":\"夕照�
 INSERT INTO `anilist_chinese` VALUES (101361,'{\"title\":{\"chinese\":\"天狼 Sirius the Jaeger\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (101368,'{\"title\":{\"chinese\":\"Planet With\"},\"synonyms_chinese\":[\"行星與共\"]}');
 INSERT INTO `anilist_chinese` VALUES (101371,'{\"title\":{\"chinese\":\"隔壁的吸血鬼美眉\"},\"synonyms_chinese\":\"[]\"}');
-INSERT INTO `anilist_chinese` VALUES (101373,'{\"title\":{\"chinese\":\"BAKUMATSU\"},\"synonyms_chinese\":\"[]\"}');
+INSERT INTO `anilist_chinese` VALUES (101373,'{\"title\":{\"chinese\":\"BAKUMATSU\"},\"synonyms_chinese\":[\"戀愛幕末男友\"]}');
 INSERT INTO `anilist_chinese` VALUES (101380,'{\"title\":{\"chinese\":\"千銃士\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (101381,'{\"title\":{\"chinese\":\"我讓最想被擁抱的男人給威脅了\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (101382,'{\"title\":{\"chinese\":\"Phantom in the Twilight\"},\"synonyms_chinese\":[\"暮光幻影\"]}');
