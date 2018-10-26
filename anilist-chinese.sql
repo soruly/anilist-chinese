@@ -3281,6 +3281,7 @@ INSERT INTO `anilist_chinese` VALUES (99423,'{\"title\":{\"chinese\":\"DARLING i
 INSERT INTO `anilist_chinese` VALUES (99424,'{\"title\":{\"chinese\":\"SSSS.GRIDMAN\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (99426,'{\"title\":{\"chinese\":\"比宇宙更遙遠的地方\"},\"synonyms_chinese\":[\"比宇宙更遠的地方\"]}');
 INSERT INTO `anilist_chinese` VALUES (99441,'{\"title\":{\"chinese\":\"オトメ＊ドメイン THE ANIMATION\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (99457,'{\"title\":{\"chinese\":\"道別的早晨就用約定之花點綴吧\"},\"synonyms_chinese\":[\"朝花夕誓——於離別之朝束起約定之花\"]}');
 INSERT INTO `anilist_chinese` VALUES (99468,'{\"title\":{\"chinese\":\"擅長捉弄人的高木同學\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (99476,'{\"title\":{\"chinese\":\"飆速宅男 GLORY LINE\"},\"synonyms_chinese\":[\"弱蟲腳踏板 GLORY LINE\",\"飈速宅男 GLORY LINE\"]}');
 INSERT INTO `anilist_chinese` VALUES (99483,'{\"title\":{\"chinese\":\"博多豚骨拉麵\"},\"synonyms_chinese\":[]}');

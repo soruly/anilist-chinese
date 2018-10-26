@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2018.10.19
+// @version      2.2018.10.27
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -3260,6 +3260,7 @@ var database = [
 {id:99424,title:"SSSS.GRIDMAN"},
 {id:99426,title:"比宇宙更遙遠的地方"},
 {id:99441,title:"オトメ＊ドメイン THE ANIMATION"},
+{id:99457,title:"道別的早晨就用約定之花點綴吧"},
 {id:99468,title:"擅長捉弄人的高木同學"},
 {id:99476,title:"飆速宅男 GLORY LINE"},
 {id:99483,title:"博多豚骨拉麵"},
