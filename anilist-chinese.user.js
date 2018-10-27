@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2018.10.27
+// @version      2.2018.10.28
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -3387,6 +3387,7 @@ var database = [
 {id:100728,title:"Fate/Grand Order MOONLIGHT/LOSTROOM"},
 {id:100729,title:"Fate/Grand Order 冰室的天地 七人最強偉人篇"},
 {id:100735,title:"ねぇ、…しよ♥"},
+{id:100741,title:"おやすみせっくす"},
 {id:100745,title:"足球小將翼 (2018)"},
 {id:100748,title:"裏・受胎島"},
 {id:100749,title:"未來的未來"},
