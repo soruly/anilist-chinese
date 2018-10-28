@@ -3544,6 +3544,7 @@ INSERT INTO `anilist_chinese` VALUES (103054,'{\"title\":{\"chinese\":\"Tiny Evi
 INSERT INTO `anilist_chinese` VALUES (103076,'{\"title\":{\"chinese\":\"添いカノ～ぎゅっと抱きしめて～ THE ANIMATION\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (103077,'{\"title\":{\"chinese\":\"Tinderbox\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (103136,'{\"title\":{\"chinese\":\"むち♥無知ッ強制成長中っ!!!\"},\"synonyms_chinese\":\"[]\"}');
+INSERT INTO `anilist_chinese` VALUES (103148,'{\"title\":{\"chinese\":\"感染ソドム\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (103256,'{\"title\":{\"chinese\":\"Nekopara OVA Extra\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (103740,'{\"title\":{\"chinese\":\"劇場版 星光樂園 一起閃耀吧！閃亮亮☆星光LIVE！\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (103871,'{\"title\":{\"chinese\":\"殭屍樂園薩加\"},\"synonyms_chinese\":[\"殭屍樂園佐賀\",\"喪屍之地傳奇\",\"佐賀偶像是傳奇\"]}');
