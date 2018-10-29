@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2018.10.29
+// @version      2.2018.10.30
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -3525,6 +3525,7 @@ var database = [
 {id:103136,title:"むち♥無知ッ強制成長中っ!!!"},
 {id:103148,title:"感染ソドム"},
 {id:103256,title:"Nekopara OVA Extra"},
+{id:103574,title:"魔剣の姫はエロエロです 姫騎士の卑猥な拘束っ"},
 {id:103740,title:"劇場版 星光樂園 一起閃耀吧！閃亮亮☆星光LIVE！"},
 {id:103871,title:"殭屍樂園薩加"},
 {id:103872,title:"歡迎光臨、千歲醬"},
