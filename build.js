@@ -1,18 +1,19 @@
 const fs = require("fs");
-const MariaClient = require("mariasql");
 const config = require("./config");
 
-const c = new MariaClient({
-  host: config.db_host,
-  user: config.db_user,
-  password: config.db_pass,
-  db: config.db_database,
-  charset: 'utf8'
+const knex = require("knex")({
+  client: "mysql",
+  connection: {
+    host: config.db_host,
+    user: config.db_user,
+    password: config.db_pass,
+    database: config.db_database
+  }
 });
 
-
-c.query("SELECT * FROM anilist_chinese", (error, rows) => {
-  const db = rows.map(e=>({id: parseInt(e.id), title: JSON.parse(e.json).title.chinese}));
+(async () => {
+  const animeIDList = await knex("anilist_chinese").select("*");
+  const db = animeIDList.map(e=>({id: parseInt(e.id), title: JSON.parse(e.json).title.chinese}));
   const db_str = db.map(e=>JSON.stringify(e).replace(/"id":/g, "id:").replace(/"title":/g, "title:")).join(",\n");
   const template = fs.readFileSync("template.js", "utf8");
   const js_str = template.replace("var database = [];", "var database = [\n"+db_str+"\n];");
@@ -26,6 +27,5 @@ c.query("SELECT * FROM anilist_chinese", (error, rows) => {
   } else {
     console.log("build is the same, js file not updated.");
   }
-});
-
-c.end();
+  knex.destroy();
+})();
