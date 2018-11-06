@@ -3561,6 +3561,7 @@ INSERT INTO `anilist_chinese` VALUES (104103,'{\"title\":{\"chinese\":\"軒轅�
 INSERT INTO `anilist_chinese` VALUES (104117,'{\"title\":{\"chinese\":\"末班電車後、膠囊旅館、給上司微熱的夜晚。\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (104139,'{\"title\":{\"chinese\":\"レイプ合法化っ!!!\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (104214,'{\"title\":{\"chinese\":\"Devidol!\"},\"synonyms_chinese\":\"[]\"}');
+INSERT INTO `anilist_chinese` VALUES (104308,'{\"title\":{\"chinese\":\"大人的防具店\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (104530,'{\"title\":{\"chinese\":\"品酒要在成為夫妻後 OVA\"},\"synonyms_chinese\":\"[]\"}');
 /*!40000 ALTER TABLE `anilist_chinese` ENABLE KEYS */;
 UNLOCK TABLES;

@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2018.11.1
+// @version      2.2018.11.7
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -3540,6 +3540,7 @@ var database = [
 {id:104117,title:"末班電車後、膠囊旅館、給上司微熱的夜晚。"},
 {id:104139,title:"レイプ合法化っ!!!"},
 {id:104214,title:"Devidol!"},
+{id:104308,title:"大人的防具店"},
 {id:104530,title:"品酒要在成為夫妻後 OVA"}
 ];
 
