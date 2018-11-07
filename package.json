@@ -22,7 +22,6 @@
   "dependencies": {
     "dotenv": "^6.1.0",
     "knex": "^0.15.2",
-    "mariasql": "^0.2.6",
     "mysql": "^2.16.0"
   },
   "devDependencies": {
