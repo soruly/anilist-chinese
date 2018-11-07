@@ -1,10 +1,10 @@
 {
   "name": "anilist-chinese",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Tampermonkey extension to translate anilist titles to chinese",
   "main": "anilist-chinese.user.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "eslint ."
   },
   "repository": {
     "type": "git",
@@ -23,5 +23,8 @@
     "knex": "^0.15.2",
     "mariasql": "^0.2.6",
     "mysql": "^2.16.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.8.0"
   }
 }
