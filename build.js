@@ -1,13 +1,16 @@
+require("dotenv").config();
 const fs = require("fs");
-const config = require("./config");
+const {
+  DB_NAME, DB_USER, DB_PASS, DB_HOST
+} = process.env;
 
 const knex = require("knex")({
   client: "mysql",
   connection: {
-    host: config.db_host,
-    user: config.db_user,
-    password: config.db_pass,
-    database: config.db_database
+    host: DB_HOST,
+    user: DB_USER,
+    password: DB_PASS,
+    database: DB_NAME
   }
 });
 
