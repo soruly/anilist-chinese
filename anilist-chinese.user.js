@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2018.11.7
+// @version      2.2018.11.29
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -1274,6 +1274,7 @@ var database = [
 {id:9513,title:"惡魔奶爸"},
 {id:9515,title:"Highschool of the Dead OVA"},
 {id:9518,title:"一期一會～你的話語～"},
+{id:9523,title:"實乃里Scramble!"},
 {id:9587,title:"腹黑妹妹控兄記"},
 {id:9617,title:"K-ON! 輕音少女劇場版"},
 {id:9618,title:"玩伴貓耳娘 OVA"},

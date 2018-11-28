@@ -1295,6 +1295,7 @@ INSERT INTO `anilist_chinese` VALUES (9510,'{\"title\":{\"chinese\":\"超元氣3
 INSERT INTO `anilist_chinese` VALUES (9513,'{\"title\":{\"chinese\":\"惡魔奶爸\"},\"synonyms_chinese\":[\"魔B爸B\",\"魔王奶爸\",\"魔王的父親\"]}');
 INSERT INTO `anilist_chinese` VALUES (9515,'{\"title\":{\"chinese\":\"Highschool of the Dead OVA\"},\"synonyms_chinese\":[\"學園默示錄 OVA\"]}');
 INSERT INTO `anilist_chinese` VALUES (9518,'{\"title\":{\"chinese\":\"一期一會～你的話語～\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (9523,'{\"title\":{\"chinese\":\"實乃里Scramble!\"},\"synonyms_chinese\":[\"實乃裏Scramble!\",\"實乃梨Scramble!\",\"企鵝搗亂記\"]}');
 INSERT INTO `anilist_chinese` VALUES (9587,'{\"title\":{\"chinese\":\"腹黑妹妹控兄記\"},\"synonyms_chinese\":[\"人家一點都不喜歡啦！\",\"我才不會喜歡上像哥哥這樣的人呢！！\"]}');
 INSERT INTO `anilist_chinese` VALUES (9617,'{\"title\":{\"chinese\":\"K-ON! 輕音少女劇場版\"},\"synonyms_chinese\":[\"電影K-ON！輕音部\",\"輕音少女劇場版\"]}');
 INSERT INTO `anilist_chinese` VALUES (9618,'{\"title\":{\"chinese\":\"玩伴貓耳娘 OVA\"},\"synonyms_chinese\":[]}');
