@@ -3534,7 +3534,7 @@ INSERT INTO `anilist_chinese` VALUES (102352,'{\"title\":{\"chinese\":\"Super Dr
 INSERT INTO `anilist_chinese` VALUES (102385,'{\"title\":{\"chinese\":\"狐狸之聲\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (102822,'{\"title\":{\"chinese\":\"閃亂神樂 東京妖魔篇\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (102860,'{\"title\":{\"chinese\":\"蒼天之拳 REGENESIS 2\"},\"synonyms_chinese\":\"[]\"}');
-INSERT INTO `anilist_chinese` VALUES (102875,'{\"title\":{\"chinese\":\"Himote House\"},\"synonyms_chinese\":\"[]\"}');
+INSERT INTO `anilist_chinese` VALUES (102875,'{\"title\":{\"chinese\":\"Himote House\"},\"synonyms_chinese\":[\"不受歡迎之家\"]}');
 INSERT INTO `anilist_chinese` VALUES (102883,'{\"title\":{\"chinese\":\"JoJo的奇妙冒險 黃金之風\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (102927,'{\"title\":{\"chinese\":\"爆釣酒吧獵人\"},\"synonyms_chinese\":[\"爆釣 Bar Hunter\"]}');
 INSERT INTO `anilist_chinese` VALUES (102974,'{\"title\":{\"chinese\":\"Gurazeni 2\"},\"synonyms_chinese\":[\"錢進球場 2\"]}');
