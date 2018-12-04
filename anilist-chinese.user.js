@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2018.11.29
+// @version      2.2018.12.5
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -3329,6 +3329,7 @@ var database = [
 {id:100166,title:"我的英雄學院 3"},
 {id:100167,title:"パコマネ わたし、今日から名門野球部の性処理係になります… THE ANIMATION"},
 {id:100168,title:"Blade Runner: Black Out 2022"},
+{id:100178,title:"莉茲與青鳥"},
 {id:100179,title:"多田君不談戀愛"},
 {id:100181,title:"數碼暴龍大冒險tri. 第6章「我們的未來」"},
 {id:100182,title:"Sword Art Online Alicization"},

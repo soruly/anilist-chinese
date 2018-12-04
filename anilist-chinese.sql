@@ -3350,6 +3350,7 @@ INSERT INTO `anilist_chinese` VALUES (100133,'{\"title\":{\"chinese\":\"One Room
 INSERT INTO `anilist_chinese` VALUES (100166,'{\"title\":{\"chinese\":\"我的英雄學院 3\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (100167,'{\"title\":{\"chinese\":\"パコマネ わたし、今日から名門野球部の性処理係になります… THE ANIMATION\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (100168,'{\"title\":{\"chinese\":\"Blade Runner: Black Out 2022\"},\"synonyms_chinese\":\"[]\"}');
+INSERT INTO `anilist_chinese` VALUES (100178,'{\"title\":{\"chinese\":\"莉茲與青鳥\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (100179,'{\"title\":{\"chinese\":\"多田君不談戀愛\"},\"synonyms_chinese\":[\"多田君不戀愛\"]}');
 INSERT INTO `anilist_chinese` VALUES (100181,'{\"title\":{\"chinese\":\"數碼暴龍大冒險tri. 第6章「我們的未來」\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (100182,'{\"title\":{\"chinese\":\"Sword Art Online Alicization\"},\"synonyms_chinese\":[\"刀劍神域 Alicization\"]}');
