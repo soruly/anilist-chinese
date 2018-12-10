@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2018.12.5
+// @version      2.2018.12.11
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -3276,6 +3276,7 @@ var database = [
 {id:99569,title:"櫻花忍法帖"},
 {id:99578,title:"阿宅的戀愛太難"},
 {id:99586,title:"遙的接球"},
+{id:99609,title:""},
 {id:99629,title:"殺戮的天使"},
 {id:99634,title:"進擊的巨人 LOST GIRLS"},
 {id:99636,title:"Dia Horizon"},
@@ -3300,6 +3301,7 @@ var database = [
 {id:99743,title:"ヒトヅマライフ ワンタイムギャル"},
 {id:99748,title:"妖精森林的小不點"},
 {id:99749,title:"Fairy Tail 2018"},
+{id:99750,title:"我想吃掉你的胰臟"},
 {id:99753,title:"居家飲酒趣"},
 {id:99796,title:"牙狼 Vanishing Line"},
 {id:99817,title:"僕だけのヘンタイカノジョ もっと"},

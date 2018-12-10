@@ -3297,6 +3297,7 @@ INSERT INTO `anilist_chinese` VALUES (99568,'{\"title\":{\"chinese\":\"梵諦岡
 INSERT INTO `anilist_chinese` VALUES (99569,'{\"title\":{\"chinese\":\"櫻花忍法帖\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (99578,'{\"title\":{\"chinese\":\"阿宅的戀愛太難\"},\"synonyms_chinese\":[\"宅男腐女戀愛真難\"]}');
 INSERT INTO `anilist_chinese` VALUES (99586,'{\"title\":{\"chinese\":\"遙的接球\"},\"synonyms_chinese\":[\"遙之彼方的接發球\"]}');
+INSERT INTO `anilist_chinese` VALUES (99609,'{\"title\":{\"chinese\":\"\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (99629,'{\"title\":{\"chinese\":\"殺戮的天使\"},\"synonyms_chinese\":[\"X的天使\"]}');
 INSERT INTO `anilist_chinese` VALUES (99634,'{\"title\":{\"chinese\":\"進擊的巨人 LOST GIRLS\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (99636,'{\"title\":{\"chinese\":\"Dia Horizon\"},\"synonyms_chinese\":[]}');
@@ -3321,6 +3322,7 @@ INSERT INTO `anilist_chinese` VALUES (99742,'{\"title\":{\"chinese\":\"Cinderell
 INSERT INTO `anilist_chinese` VALUES (99743,'{\"title\":{\"chinese\":\"ヒトヅマライフ ワンタイムギャル\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (99748,'{\"title\":{\"chinese\":\"妖精森林的小不點\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (99749,'{\"title\":{\"chinese\":\"Fairy Tail 2018\"},\"synonyms_chinese\":\"[]\"}');
+INSERT INTO `anilist_chinese` VALUES (99750,'{\"title\":{\"chinese\":\"我想吃掉你的胰臟\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (99753,'{\"title\":{\"chinese\":\"居家飲酒趣\"},\"synonyms_chinese\":[\"酒鬼妹子\",\"宅飲\"]}');
 INSERT INTO `anilist_chinese` VALUES (99796,'{\"title\":{\"chinese\":\"牙狼 Vanishing Line\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (99817,'{\"title\":{\"chinese\":\"僕だけのヘンタイカノジョ もっと\"},\"synonyms_chinese\":[]}');
