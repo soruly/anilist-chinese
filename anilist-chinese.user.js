@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2018.12.11
+// @version      2.2018.12.12
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -3276,7 +3276,6 @@ var database = [
 {id:99569,title:"櫻花忍法帖"},
 {id:99578,title:"阿宅的戀愛太難"},
 {id:99586,title:"遙的接球"},
-{id:99609,title:""},
 {id:99629,title:"殺戮的天使"},
 {id:99634,title:"進擊的巨人 LOST GIRLS"},
 {id:99636,title:"Dia Horizon"},
@@ -3517,6 +3516,7 @@ var database = [
 {id:102822,title:"閃亂神樂 東京妖魔篇"},
 {id:102860,title:"蒼天之拳 REGENESIS 2"},
 {id:102875,title:"Himote House"},
+{id:102882,title:"3D彼女 2"},
 {id:102883,title:"JoJo的奇妙冒險 黃金之風"},
 {id:102927,title:"爆釣酒吧獵人"},
 {id:102974,title:"Gurazeni 2"},
