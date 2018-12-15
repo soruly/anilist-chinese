@@ -2897,6 +2897,7 @@ INSERT INTO `anilist_chinese` VALUES (21791,'{\"title\":{\"chinese\":\"文豪Str
 INSERT INTO `anilist_chinese` VALUES (21795,'{\"title\":{\"chinese\":\"Honobono Log\"},\"synonyms_chinese\":[\"暖心手賬\"]}');
 INSERT INTO `anilist_chinese` VALUES (21796,'{\"title\":{\"chinese\":\"甜甜起司貓 第三季\"},\"synonyms_chinese\":[\"起司貓 第三季\",\"甜甜私房貓 第三季\",\"賤貓小嘰的幸福生活 第三季\",\"奇奇的異想世界 第三季\"]}');
 INSERT INTO `anilist_chinese` VALUES (21797,'{\"title\":{\"chinese\":\"雨色可可 3\"},\"synonyms_chinese\":[\"雨色可可亞 3\"]}');
+INSERT INTO `anilist_chinese` VALUES (21798,'{\"title\":{\"chinese\":\"K SEVEN STORIES R：B ～BLAZE～\"},\"synonyms_chinese\":\"[]\"}');
 INSERT INTO `anilist_chinese` VALUES (21799,'{\"title\":{\"chinese\":\"亞人 2\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (21800,'{\"title\":{\"chinese\":\"田中同學總是懶洋洋 小劇場\"},\"synonyms_chinese\":[\"田中君總是如此慵懶 小劇場\",\"田中君總是懶洋洋的 小劇場\"]}');
 INSERT INTO `anilist_chinese` VALUES (21802,'{\"title\":{\"chinese\":\"奇異太郎少年的妖怪繪日記\"},\"synonyms_chinese\":[]}');

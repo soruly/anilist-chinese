@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2018.12.12
+// @version      2.2018.12.16
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -2876,6 +2876,7 @@ var database = [
 {id:21795,title:"Honobono Log"},
 {id:21796,title:"甜甜起司貓 第三季"},
 {id:21797,title:"雨色可可 3"},
+{id:21798,title:"K SEVEN STORIES R：B ～BLAZE～"},
 {id:21799,title:"亞人 2"},
 {id:21800,title:"田中同學總是懶洋洋 小劇場"},
 {id:21802,title:"奇異太郎少年的妖怪繪日記"},
