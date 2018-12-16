@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2018.12.16
+// @version      2.2018.12.17
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -3511,6 +3511,9 @@ var database = [
 {id:101985,title:"告訴我吧魔法靈擺～莉露莉露Fairilu～"},
 {id:102004,title:"陰陽師：平安物語"},
 {id:102313,title:"はさんであげる♡"},
+{id:102346,title:"K SEVEN STORIES SIDE：BLUE ～猶如天狼～"},
+{id:102347,title:"K SEVEN STORIES SIDE：GREEN ～覆寫世界～"},
+{id:102348,title:"K SEVEN STORIES Lost Small World ～牢籠的彼端～"},
 {id:102351,title:"東京喰種 re 2"},
 {id:102352,title:"Super Dragon Ball Heroes"},
 {id:102385,title:"狐狸之聲"},
