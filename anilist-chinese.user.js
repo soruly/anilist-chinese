@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2018.12.17
+// @version      2.2018.12.24
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -3517,6 +3517,7 @@ var database = [
 {id:102351,title:"東京喰種 re 2"},
 {id:102352,title:"Super Dragon Ball Heroes"},
 {id:102385,title:"狐狸之聲"},
+{id:102436,title:"Strike the Blood III"},
 {id:102822,title:"閃亂神樂 東京妖魔篇"},
 {id:102860,title:"蒼天之拳 REGENESIS 2"},
 {id:102875,title:"Himote House"},
@@ -3547,6 +3548,7 @@ var database = [
 {id:104103,title:"軒轅劍 蒼之曜"},
 {id:104117,title:"末班電車後、膠囊旅館、給上司微熱的夜晚。"},
 {id:104139,title:"レイプ合法化っ!!!"},
+{id:104174,title:"Steins;Gate 0 Special"},
 {id:104214,title:"Devidol!"},
 {id:104308,title:"大人的防具店"},
 {id:104530,title:"品酒要在成為夫妻後 OVA"}

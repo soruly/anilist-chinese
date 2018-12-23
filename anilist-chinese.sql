@@ -3538,6 +3538,7 @@ INSERT INTO `anilist_chinese` VALUES (102348,'{\"title\":{\"chinese\":\"K SEVEN 
 INSERT INTO `anilist_chinese` VALUES (102351,'{\"title\":{\"chinese\":\"東京喰種 re 2\"},\"synonyms_chinese\":[\"東京食屍鬼 re 2\"]}');
 INSERT INTO `anilist_chinese` VALUES (102352,'{\"title\":{\"chinese\":\"Super Dragon Ball Heroes\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (102385,'{\"title\":{\"chinese\":\"狐狸之聲\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (102436,'{\"title\":{\"chinese\":\"Strike the Blood III\"},\"synonyms_chinese\":[\"噬血狂襲 III\"]}');
 INSERT INTO `anilist_chinese` VALUES (102822,'{\"title\":{\"chinese\":\"閃亂神樂 東京妖魔篇\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (102860,'{\"title\":{\"chinese\":\"蒼天之拳 REGENESIS 2\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (102875,'{\"title\":{\"chinese\":\"Himote House\"},\"synonyms_chinese\":[\"不受歡迎之家\"]}');
@@ -3568,6 +3569,7 @@ INSERT INTO `anilist_chinese` VALUES (104080,'{\"title\":{\"chinese\":\"喂，�
 INSERT INTO `anilist_chinese` VALUES (104103,'{\"title\":{\"chinese\":\"軒轅劍 蒼之曜\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (104117,'{\"title\":{\"chinese\":\"末班電車後、膠囊旅館、給上司微熱的夜晚。\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (104139,'{\"title\":{\"chinese\":\"レイプ合法化っ!!!\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (104174,'{\"title\":{\"chinese\":\"Steins;Gate 0 Special\"},\"synonyms_chinese\":[\"命運石之門 0 Special\",\"史塔斯閘門 0 Special\",\"斯坦因之門 0 Special\",\"石頭門 0 Special\",\"黑曜石之門 0 Special\"]}');
 INSERT INTO `anilist_chinese` VALUES (104214,'{\"title\":{\"chinese\":\"Devidol!\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (104308,'{\"title\":{\"chinese\":\"大人的防具店\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (104530,'{\"title\":{\"chinese\":\"品酒要在成為夫妻後 OVA\"},\"synonyms_chinese\":[]}');
