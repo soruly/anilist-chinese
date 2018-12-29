@@ -3464,7 +3464,7 @@ INSERT INTO `anilist_chinese` VALUES (101085,'{\"title\":{\"chinese\":\"Dies ira
 INSERT INTO `anilist_chinese` VALUES (101097,'{\"title\":{\"chinese\":\"星光頻道\"},\"synonyms_chinese\":[\"閃亮 美妙☆頻道\"]}');
 INSERT INTO `anilist_chinese` VALUES (101115,'{\"title\":{\"chinese\":\"戰鬥陀螺 爆發 超絕篇\"},\"synonyms_chinese\":[\"爆旋陀螺 爆發 超絕篇\"]}');
 INSERT INTO `anilist_chinese` VALUES (101117,'{\"title\":{\"chinese\":\"Free! -Dive to the Future-\"},\"synonyms_chinese\":[\"熱血自由式 -Dive to the Future-\",\"男子水泳部 -Dive to the Future-\"]}');
-INSERT INTO `anilist_chinese` VALUES (101123,'{\"title\":{\"chinese\":\"Kemurikusa\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (101123,'{\"title\":{\"chinese\":\"Kemurikusa\"},\"synonyms_chinese\":[\"烟草\",\"煙草\",\"凱美瑞之草\",\"霧中末世，少女橫行！\"]}');
 INSERT INTO `anilist_chinese` VALUES (101124,'{\"title\":{\"chinese\":\"妻ネトリ\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (101125,'{\"title\":{\"chinese\":\"梅露可物語 -無精打采的少年與瓶中少女-\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (101160,'{\"title\":{\"chinese\":\"甜蜜懲罰～我是看守專用寵物\"},\"synonyms_chinese\":[]}');
@@ -3613,6 +3613,7 @@ INSERT INTO `anilist_chinese` VALUES (105096,'{\"title\":{\"chinese\":\"HERO MAS
 INSERT INTO `anilist_chinese` VALUES (105245,'{\"title\":{\"chinese\":\"W\'z OVA\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (105387,'{\"title\":{\"chinese\":\"迷你刀使\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (105662,'{\"title\":{\"chinese\":\"工作細胞 SP\"},\"synonyms_chinese\":[\"工作細胞 風邪症候群\"]}');
+INSERT INTO `anilist_chinese` VALUES (106433,'{\"title\":{\"chinese\":\"虛擬小姐在看著你\"},\"synonyms_chinese\":[]}');
 /*!40000 ALTER TABLE `anilist_chinese` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
