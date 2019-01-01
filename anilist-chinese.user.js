@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2018.12.30
+// @version      2.2019.1.2
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -2548,6 +2548,7 @@ var database = [
 {id:21307,title:"星夢學園 第4部"},
 {id:21311,title:"文豪Stray Dogs"},
 {id:21313,title:"赤髮白雪姬"},
+{id:21314,title:"劇場版 偵探歌劇 少女福爾摩斯 ～逆襲的少女福爾摩斯～"},
 {id:21315,title:"麵包日常！"},
 {id:21316,title:"Hai Furi"},
 {id:21319,title:"蒼之彼方的四重奏"},
@@ -2964,6 +2965,7 @@ var database = [
 {id:87526,title:"告訴我吧！辣妹子 OVA"},
 {id:87528,title:"Black Clover OVA"},
 {id:87530,title:"Dream Festival"},
+{id:87533,title:"偵探歌劇 少女福爾摩斯 SP 2016"},
 {id:87538,title:"少年女僕 SP"},
 {id:87539,title:"龍的牙醫"},
 {id:97590,title:"鬼平"},
@@ -3378,6 +3380,7 @@ var database = [
 {id:100556,title:"春原荘的管理人"},
 {id:100562,title:"付喪神出租中"},
 {id:100569,title:"卡里古拉"},
+{id:100570,title:"偵探歌劇 少女福爾摩斯 SP 2017"},
 {id:100620,title:"新幹線變形機器人Shinkalion"},
 {id:100635,title:"25歲的女高中生"},
 {id:100641,title:"なりゆき→パパ活GIRLS!! THE ANIMATION"},
@@ -3558,6 +3561,7 @@ var database = [
 {id:103139,title:"家有女友"},
 {id:103148,title:"感染ソドム"},
 {id:103222,title:"魔法少女特殊戰明日香"},
+{id:103237,title:"賽馬娘Pretty Derby OVA"},
 {id:103256,title:"Nekopara OVA Extra"},
 {id:103301,title:"Endro~!"},
 {id:103312,title:"発情スイッチ～堕とされた少女達～ THE ANIMATION"},
@@ -3580,11 +3584,13 @@ var database = [
 {id:104103,title:"軒轅劍 蒼之曜"},
 {id:104117,title:"末班電車後、膠囊旅館、給上司微熱的夜晚。"},
 {id:104139,title:"レイプ合法化っ!!!"},
+{id:104170,title:"來玩遊戲吧 OVA"},
 {id:104174,title:"Steins;Gate 0 Special"},
 {id:104214,title:"Devidol!"},
 {id:104253,title:"荒野的壽飛行隊"},
 {id:104308,title:"大人的防具店"},
 {id:104530,title:"品酒要在成為夫妻後 OVA"},
+{id:104580,title:"齊木楠雄的災難 完結篇"},
 {id:104674,title:"笑容的代價"},
 {id:104712,title:"雨色可可 sideG"},
 {id:104750,title:"Dimension High School"},
@@ -3592,6 +3598,8 @@ var database = [
 {id:105245,title:"W'z OVA"},
 {id:105387,title:"迷你刀使"},
 {id:105662,title:"工作細胞 SP"},
+{id:105663,title:"偵探歌劇 少女福爾摩斯 SP 2018"},
+{id:106169,title:"Persona 5 The Animation Dark Sun..."},
 {id:106433,title:"虛擬小姐在看著你"}
 ];
 
