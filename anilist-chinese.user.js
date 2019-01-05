@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2019.1.2
+// @version      2.2019.1.6
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -3597,6 +3597,7 @@ var database = [
 {id:105096,title:"HERO MASK"},
 {id:105245,title:"W'z OVA"},
 {id:105387,title:"迷你刀使"},
+{id:105391,title:"一騎當千 Western Wolves"},
 {id:105662,title:"工作細胞 SP"},
 {id:105663,title:"偵探歌劇 少女福爾摩斯 SP 2018"},
 {id:106169,title:"Persona 5 The Animation Dark Sun..."},
