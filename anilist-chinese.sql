@@ -3401,7 +3401,7 @@ INSERT INTO `anilist_chinese` VALUES (100537,'{\"title\":{\"chinese\":\"SERVAMP 
 INSERT INTO `anilist_chinese` VALUES (100556,'{\"title\":{\"chinese\":\"春原荘的管理人\"},\"synonyms_chinese\":[\"春原莊的管理員小姐\",\"春原莊的管理員姐姐\"]}');
 INSERT INTO `anilist_chinese` VALUES (100562,'{\"title\":{\"chinese\":\"付喪神出租中\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (100569,'{\"title\":{\"chinese\":\"卡里古拉\"},\"synonyms_chinese\":[\"卡利古拉\"]}');
-INSERT INTO `anilist_chinese` VALUES (100570,'{\"title\":{\"chinese\":\"偵探歌劇 少女福爾摩斯 SP 2017\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (100570,'{\"title\":{\"chinese\":\"偵探歌劇 少女福爾摩斯 SP 2017\"},\"synonyms_chinese\":[\"偵探歌劇 少女福爾摩斯 亞森華麗的慾望\"]}');
 INSERT INTO `anilist_chinese` VALUES (100620,'{\"title\":{\"chinese\":\"新幹線變形機器人Shinkalion\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (100635,'{\"title\":{\"chinese\":\"25歲的女高中生\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (100641,'{\"title\":{\"chinese\":\"なりゆき→パパ活GIRLS!! THE ANIMATION\"},\"synonyms_chinese\":[]}');
@@ -3620,7 +3620,7 @@ INSERT INTO `anilist_chinese` VALUES (105245,'{\"title\":{\"chinese\":\"W\'z OVA
 INSERT INTO `anilist_chinese` VALUES (105387,'{\"title\":{\"chinese\":\"迷你刀使\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (105391,'{\"title\":{\"chinese\":\"一騎當千 Western Wolves\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (105662,'{\"title\":{\"chinese\":\"工作細胞 SP\"},\"synonyms_chinese\":[\"工作細胞 風邪症候群\"]}');
-INSERT INTO `anilist_chinese` VALUES (105663,'{\"title\":{\"chinese\":\"偵探歌劇 少女福爾摩斯 SP 2018\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (105663,'{\"title\":{\"chinese\":\"偵探歌劇 少女福爾摩斯 SP 2018\"},\"synonyms_chinese\":[\"偵探歌劇 少女福爾摩斯 心靈的問候\"]}');
 INSERT INTO `anilist_chinese` VALUES (106169,'{\"title\":{\"chinese\":\"Persona 5 The Animation Dark Sun...\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (106433,'{\"title\":{\"chinese\":\"虛擬小姐在看著你\"},\"synonyms_chinese\":[]}');
 /*!40000 ALTER TABLE `anilist_chinese` ENABLE KEYS */;
