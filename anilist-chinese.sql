@@ -3463,6 +3463,7 @@ INSERT INTO `anilist_chinese` VALUES (101043,'{\"title\":{\"chinese\":\"星夢�
 INSERT INTO `anilist_chinese` VALUES (101044,'{\"title\":{\"chinese\":\"最終休止符\"},\"synonyms_chinese\":[\"最後的休止符\"]}');
 INSERT INTO `anilist_chinese` VALUES (101045,'{\"title\":{\"chinese\":\"羽球戰爭！\"},\"synonyms_chinese\":[\"羽毛球戰爭！\",\"輕羽飛揚\"]}');
 INSERT INTO `anilist_chinese` VALUES (101046,'{\"title\":{\"chinese\":\"美男高中地球防衛部HAPPY KISS！\"},\"synonyms_chinese\":[\"美男高校地球防衛部HAPPY KISS！\"]}');
+INSERT INTO `anilist_chinese` VALUES (101078,'{\"title\":{\"chinese\":\"劇場版 Infini-T Force 飛鷹俠 再見了朋友\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (101085,'{\"title\":{\"chinese\":\"Dies irae To the ring reincarnation\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (101097,'{\"title\":{\"chinese\":\"星光頻道\"},\"synonyms_chinese\":[\"閃亮 美妙☆頻道\"]}');
 INSERT INTO `anilist_chinese` VALUES (101115,'{\"title\":{\"chinese\":\"戰鬥陀螺 爆發 超絕篇\"},\"synonyms_chinese\":[\"爆旋陀螺 爆發 超絕篇\"]}');
@@ -3595,7 +3596,7 @@ INSERT INTO `anilist_chinese` VALUES (103872,'{\"title\":{\"chinese\":\"歡迎�
 INSERT INTO `anilist_chinese` VALUES (103874,'{\"title\":{\"chinese\":\"同居人時而在腿上、時而跑到腦袋上\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (103923,'{\"title\":{\"chinese\":\"The Idolm@ster SideM 迷你是原因!\"},\"synonyms_chinese\":[\"偶像大師 SideM 迷你是原因!\"]}');
 INSERT INTO `anilist_chinese` VALUES (103925,'{\"title\":{\"chinese\":\"くノ一牡丹\"},\"synonyms_chinese\":[]}');
-INSERT INTO `anilist_chinese` VALUES (104008,'{\"title\":{\"chinese\":\"Circlet Princess\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (104008,'{\"title\":{\"chinese\":\"Circlet Princess\"},\"synonyms_chinese\":[\"環戰公主\"]}');
 INSERT INTO `anilist_chinese` VALUES (104009,'{\"title\":{\"chinese\":\"臨死！！江古田醬\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (104073,'{\"title\":{\"chinese\":\"那時的她。\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (104077,'{\"title\":{\"chinese\":\"閃電十一人 獵戶座的刻印\"},\"synonyms_chinese\":[\"閃電十一人 俄里翁的刻印\"]}');
@@ -3621,6 +3622,7 @@ INSERT INTO `anilist_chinese` VALUES (105387,'{\"title\":{\"chinese\":\"迷你�
 INSERT INTO `anilist_chinese` VALUES (105391,'{\"title\":{\"chinese\":\"一騎當千 Western Wolves\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (105662,'{\"title\":{\"chinese\":\"工作細胞 SP\"},\"synonyms_chinese\":[\"工作細胞 風邪症候群\"]}');
 INSERT INTO `anilist_chinese` VALUES (105663,'{\"title\":{\"chinese\":\"偵探歌劇 少女福爾摩斯 SP 2018\"},\"synonyms_chinese\":[\"偵探歌劇 少女福爾摩斯 心靈的問候\"]}');
+INSERT INTO `anilist_chinese` VALUES (106165,'{\"title\":{\"chinese\":\"就算是爸爸也想做\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (106169,'{\"title\":{\"chinese\":\"Persona 5 The Animation Dark Sun...\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (106433,'{\"title\":{\"chinese\":\"虛擬小姐在看著你\"},\"synonyms_chinese\":[]}');
 /*!40000 ALTER TABLE `anilist_chinese` ENABLE KEYS */;

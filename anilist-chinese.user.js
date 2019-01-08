@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2019.1.6
+// @version      2.2019.1.9
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -3442,6 +3442,7 @@ var database = [
 {id:101044,title:"最終休止符"},
 {id:101045,title:"羽球戰爭！"},
 {id:101046,title:"美男高中地球防衛部HAPPY KISS！"},
+{id:101078,title:"劇場版 Infini-T Force 飛鷹俠 再見了朋友"},
 {id:101085,title:"Dies irae To the ring reincarnation"},
 {id:101097,title:"星光頻道"},
 {id:101115,title:"戰鬥陀螺 爆發 超絕篇"},
@@ -3600,6 +3601,7 @@ var database = [
 {id:105391,title:"一騎當千 Western Wolves"},
 {id:105662,title:"工作細胞 SP"},
 {id:105663,title:"偵探歌劇 少女福爾摩斯 SP 2018"},
+{id:106165,title:"就算是爸爸也想做"},
 {id:106169,title:"Persona 5 The Animation Dark Sun..."},
 {id:106433,title:"虛擬小姐在看著你"}
 ];
