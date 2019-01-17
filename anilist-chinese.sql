@@ -3395,6 +3395,7 @@ INSERT INTO `anilist_chinese` VALUES (100486,'{\"title\":{\"chinese\":\"よう�
 INSERT INTO `anilist_chinese` VALUES (100500,'{\"title\":{\"chinese\":\"妖怪旅館營業中\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (100518,'{\"title\":{\"chinese\":\"我的女友是個過度認真的處女 bitch OVA\"},\"synonyms_chinese\":[\"關於我女友是個一本正經的碧池這件事 OVA\"]}');
 INSERT INTO `anilist_chinese` VALUES (100519,'{\"title\":{\"chinese\":\"Princess Principal SP\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (100523,'{\"title\":{\"chinese\":\"情色漫畫老師 OVA\"},\"synonyms_chinese\":[\"我的妹妹是黃漫老師 OVA\",\"埃羅芒阿老師 OVA\"]}');
 INSERT INTO `anilist_chinese` VALUES (100526,'{\"title\":{\"chinese\":\"3D彼女\"},\"synonyms_chinese\":[\"三次元女友\"]}');
 INSERT INTO `anilist_chinese` VALUES (100527,'{\"title\":{\"chinese\":\"gd Men\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (100532,'{\"title\":{\"chinese\":\"藍海少女! Advance\"},\"synonyms_chinese\":[\"藍海少女~進階~\"]}');

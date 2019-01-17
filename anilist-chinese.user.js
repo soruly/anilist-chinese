@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2019.1.11
+// @version      2.2019.1.18
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -3374,6 +3374,7 @@ var database = [
 {id:100500,title:"妖怪旅館營業中"},
 {id:100518,title:"我的女友是個過度認真的處女 bitch OVA"},
 {id:100519,title:"Princess Principal SP"},
+{id:100523,title:"情色漫畫老師 OVA"},
 {id:100526,title:"3D彼女"},
 {id:100527,title:"gd Men"},
 {id:100532,title:"藍海少女! Advance"},
