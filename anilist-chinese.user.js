@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2019.1.18
+// @version      2.2019.1.20
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -3553,6 +3553,7 @@ var database = [
 {id:102927,title:"爆釣酒吧獵人"},
 {id:102928,title:"Hulaing Babies"},
 {id:102949,title:"憂鬱的物怪庵 續"},
+{id:102969,title:"學園奶爸 OVA"},
 {id:102974,title:"Gurazeni 2"},
 {id:102977,title:"黃金神威 2"},
 {id:102978,title:"宇宙戰艦提拉米蘇 II"},
