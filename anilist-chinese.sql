@@ -2575,7 +2575,7 @@ INSERT INTO `anilist_chinese` VALUES (21316,'{\"title\":{\"chinese\":\"Hai Furi\
 INSERT INTO `anilist_chinese` VALUES (21319,'{\"title\":{\"chinese\":\"蒼之彼方的四重奏\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (21320,'{\"title\":{\"chinese\":\"Anitore! EX\"},\"synonyms_chinese\":[\"動畫鍛煉！EX \",\"動畫鍛鍊！EX \"]}');
 INSERT INTO `anilist_chinese` VALUES (21321,'{\"title\":{\"chinese\":\"少年女僕\"},\"synonyms_chinese\":[]}');
-INSERT INTO `anilist_chinese` VALUES (21322,'{\"title\":{\"chinese\":\"巴哈姆特之怒-Manaria Friends-\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (21322,'{\"title\":{\"chinese\":\"巴哈姆特之怒-Manaria Friends-\"},\"synonyms_chinese\":[\"學院結金蘭\",\"瑪娜利亞學院\"]}');
 INSERT INTO `anilist_chinese` VALUES (21323,'{\"title\":{\"chinese\":\"電影 Go！Princess 光之美少女 Go！Go！！豪華三部曲！！！\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (21324,'{\"title\":{\"chinese\":\"玉響～畢業寫真～ 第三部 憧憬\"},\"synonyms_chinese\":[\"玉響～畢業寫真～ 第3部 憧\",\"幸福光暈～畢業寫真～ 第3部 憧\"]}');
 INSERT INTO `anilist_chinese` VALUES (21326,'{\"title\":{\"chinese\":\"東京喰種 Pinto\"},\"synonyms_chinese\":[\"東京食屍鬼 Pinto\"]}');
