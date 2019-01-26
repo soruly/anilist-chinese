@@ -3593,6 +3593,7 @@ INSERT INTO `anilist_chinese` VALUES (103301,'{\"title\":{\"chinese\":\"Endro~!\
 INSERT INTO `anilist_chinese` VALUES (103312,'{\"title\":{\"chinese\":\"発情スイッチ～堕とされた少女達～ THE ANIMATION\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (103572,'{\"title\":{\"chinese\":\"五等分的花嫁\"},\"synonyms_chinese\":[\"五等分的新娘\"]}');
 INSERT INTO `anilist_chinese` VALUES (103574,'{\"title\":{\"chinese\":\"魔剣の姫はエロエロです 姫騎士の卑猥な拘束っ\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (103611,'{\"title\":{\"chinese\":\"それでも妻を愛してる２\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (103735,'{\"title\":{\"chinese\":\"格林筆記 The Animation\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (103740,'{\"title\":{\"chinese\":\"劇場版 星光樂園 一起閃耀吧！閃亮亮☆星光LIVE！\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (103871,'{\"title\":{\"chinese\":\"殭屍樂園薩加\"},\"synonyms_chinese\":[\"殭屍樂園佐賀\",\"喪屍之地傳奇\",\"佐賀偶像是傳奇\"]}');
@@ -3629,6 +3630,7 @@ INSERT INTO `anilist_chinese` VALUES (105663,'{\"title\":{\"chinese\":\"偵探�
 INSERT INTO `anilist_chinese` VALUES (106165,'{\"title\":{\"chinese\":\"就算是爸爸也想做\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (106169,'{\"title\":{\"chinese\":\"Persona 5 The Animation Dark Sun...\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (106433,'{\"title\":{\"chinese\":\"虛擬小姐在看著你\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (107136,'{\"title\":{\"chinese\":\"ガキにもどって犯りなおしっ!!!\"},\"synonyms_chinese\":[]}');
 /*!40000 ALTER TABLE `anilist_chinese` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;

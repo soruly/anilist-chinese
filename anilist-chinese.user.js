@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2019.1.20
+// @version      2.2019.1.27
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -3572,6 +3572,7 @@ var database = [
 {id:103312,title:"発情スイッチ～堕とされた少女達～ THE ANIMATION"},
 {id:103572,title:"五等分的花嫁"},
 {id:103574,title:"魔剣の姫はエロエロです 姫騎士の卑猥な拘束っ"},
+{id:103611,title:"それでも妻を愛してる２"},
 {id:103735,title:"格林筆記 The Animation"},
 {id:103740,title:"劇場版 星光樂園 一起閃耀吧！閃亮亮☆星光LIVE！"},
 {id:103871,title:"殭屍樂園薩加"},
@@ -3607,7 +3608,8 @@ var database = [
 {id:105663,title:"偵探歌劇 少女福爾摩斯 SP 2018"},
 {id:106165,title:"就算是爸爸也想做"},
 {id:106169,title:"Persona 5 The Animation Dark Sun..."},
-{id:106433,title:"虛擬小姐在看著你"}
+{id:106433,title:"虛擬小姐在看著你"},
+{id:107136,title:"ガキにもどって犯りなおしっ!!!"}
 ];
 
 var updating;
