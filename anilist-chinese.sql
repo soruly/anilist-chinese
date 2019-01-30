@@ -3521,6 +3521,7 @@ INSERT INTO `anilist_chinese` VALUES (101471,'{\"title\":{\"chinese\":\"裝刀�
 INSERT INTO `anilist_chinese` VALUES (101474,'{\"title\":{\"chinese\":\"Overlord III\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (101496,'{\"title\":{\"chinese\":\"大好きな母\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (101500,'{\"title\":{\"chinese\":\"Ingress\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (101501,'{\"title\":{\"chinese\":\"戀愛與謊言 OVA\"},\"synonyms_chinese\":[\"戀愛禁止的世界 OVA\"]}');
 INSERT INTO `anilist_chinese` VALUES (101505,'{\"title\":{\"chinese\":\"只要別西卜大小姐喜歡就好\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (101506,'{\"title\":{\"chinese\":\"我家的女僕有夠煩！\"},\"synonyms_chinese\":[\"我家的女僕太煩人了！\",\"我家女僕超級煩\"]}');
 INSERT INTO `anilist_chinese` VALUES (101525,'{\"title\":{\"chinese\":\"某殭屍少女的災難\"},\"synonyms_chinese\":[\"殭屍少女的災難\",\"某重生少女的灾难\"]}');

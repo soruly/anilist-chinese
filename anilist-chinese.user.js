@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2019.1.27
+// @version      2.2019.1.31
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -3500,6 +3500,7 @@ var database = [
 {id:101474,title:"Overlord III"},
 {id:101496,title:"大好きな母"},
 {id:101500,title:"Ingress"},
+{id:101501,title:"戀愛與謊言 OVA"},
 {id:101505,title:"只要別西卜大小姐喜歡就好"},
 {id:101506,title:"我家的女僕有夠煩！"},
 {id:101525,title:"某殭屍少女的災難"},
