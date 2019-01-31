@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2019.1.31
+// @version      2.2019.2.1
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -3583,6 +3583,7 @@ var database = [
 {id:103925,title:"くノ一牡丹"},
 {id:104008,title:"Circlet Princess"},
 {id:104009,title:"臨死！！江古田醬"},
+{id:104059,title:"夢魔の街コルネリカ"},
 {id:104073,title:"那時的她。"},
 {id:104077,title:"閃電十一人 獵戶座的刻印"},
 {id:104078,title:"永不止步真好"},
@@ -3596,11 +3597,13 @@ var database = [
 {id:104214,title:"Devidol!"},
 {id:104253,title:"荒野的壽飛行隊"},
 {id:104308,title:"大人的防具店"},
+{id:104451,title:"催眠性指導"},
 {id:104530,title:"品酒要在成為夫妻後 OVA"},
 {id:104580,title:"齊木楠雄的災難 完結篇"},
 {id:104674,title:"笑容的代價"},
 {id:104712,title:"雨色可可 sideG"},
 {id:104750,title:"Dimension High School"},
+{id:105066,title:"完璧お嬢様の私が土下座でマゾ堕ちするちょろインなワケないですわ！"},
 {id:105096,title:"HERO MASK"},
 {id:105245,title:"W'z OVA"},
 {id:105387,title:"迷你刀使"},

@@ -3604,6 +3604,7 @@ INSERT INTO `anilist_chinese` VALUES (103923,'{\"title\":{\"chinese\":\"The Idol
 INSERT INTO `anilist_chinese` VALUES (103925,'{\"title\":{\"chinese\":\"くノ一牡丹\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (104008,'{\"title\":{\"chinese\":\"Circlet Princess\"},\"synonyms_chinese\":[\"環戰公主\"]}');
 INSERT INTO `anilist_chinese` VALUES (104009,'{\"title\":{\"chinese\":\"臨死！！江古田醬\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (104059,'{\"title\":{\"chinese\":\"夢魔の街コルネリカ\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (104073,'{\"title\":{\"chinese\":\"那時的她。\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (104077,'{\"title\":{\"chinese\":\"閃電十一人 獵戶座的刻印\"},\"synonyms_chinese\":[\"閃電十一人 俄里翁的刻印\"]}');
 INSERT INTO `anilist_chinese` VALUES (104078,'{\"title\":{\"chinese\":\"永不止步真好\"},\"synonyms_chinese\":[]}');
@@ -3617,11 +3618,13 @@ INSERT INTO `anilist_chinese` VALUES (104174,'{\"title\":{\"chinese\":\"Steins;G
 INSERT INTO `anilist_chinese` VALUES (104214,'{\"title\":{\"chinese\":\"Devidol!\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (104253,'{\"title\":{\"chinese\":\"荒野的壽飛行隊\"},\"synonyms_chinese\":[\"荒野的科特布奇飛行隊\",\"荒野的KOTOBUKI飛行隊\",\"荒野的KOTOBUKI機隊\"]}');
 INSERT INTO `anilist_chinese` VALUES (104308,'{\"title\":{\"chinese\":\"大人的防具店\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (104451,'{\"title\":{\"chinese\":\"催眠性指導\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (104530,'{\"title\":{\"chinese\":\"品酒要在成為夫妻後 OVA\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (104580,'{\"title\":{\"chinese\":\"齊木楠雄的災難 完結篇\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (104674,'{\"title\":{\"chinese\":\"笑容的代價\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (104712,'{\"title\":{\"chinese\":\"雨色可可 sideG\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (104750,'{\"title\":{\"chinese\":\"Dimension High School\"},\"synonyms_chinese\":[\"Dimension高中\"]}');
+INSERT INTO `anilist_chinese` VALUES (105066,'{\"title\":{\"chinese\":\"完璧お嬢様の私が土下座でマゾ堕ちするちょろインなワケないですわ！\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (105096,'{\"title\":{\"chinese\":\"HERO MASK\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (105245,'{\"title\":{\"chinese\":\"W\'z OVA\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (105387,'{\"title\":{\"chinese\":\"迷你刀使\"},\"synonyms_chinese\":[]}');
