@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2019.2.1
+// @version      2.2019.2.2
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -3452,6 +3452,7 @@ var database = [
 {id:101123,title:"Kemurikusa"},
 {id:101124,title:"妻ネトリ"},
 {id:101125,title:"梅露可物語 -無精打采的少年與瓶中少女-"},
+{id:101126,title:"劇場版 Macross Δ 激情的女武神"},
 {id:101160,title:"甜蜜懲罰～我是看守專用寵物"},
 {id:101161,title:"中間管理錄利根川"},
 {id:101165,title:"哥布林殺手"},

@@ -3473,6 +3473,7 @@ INSERT INTO `anilist_chinese` VALUES (101117,'{\"title\":{\"chinese\":\"Free! -D
 INSERT INTO `anilist_chinese` VALUES (101123,'{\"title\":{\"chinese\":\"Kemurikusa\"},\"synonyms_chinese\":[\"烟草\",\"煙草\",\"凱美瑞之草\",\"霧中末世，少女橫行！\"]}');
 INSERT INTO `anilist_chinese` VALUES (101124,'{\"title\":{\"chinese\":\"妻ネトリ\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (101125,'{\"title\":{\"chinese\":\"梅露可物語 -無精打采的少年與瓶中少女-\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (101126,'{\"title\":{\"chinese\":\"劇場版 Macross Δ 激情的女武神\"},\"synonyms_chinese\":[\"劇場版 超時空要塞 Δ 激情的女武神\"]}');
 INSERT INTO `anilist_chinese` VALUES (101160,'{\"title\":{\"chinese\":\"甜蜜懲罰～我是看守專用寵物\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (101161,'{\"title\":{\"chinese\":\"中間管理錄利根川\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (101165,'{\"title\":{\"chinese\":\"哥布林殺手\"},\"synonyms_chinese\":[]}');
