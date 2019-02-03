@@ -377,6 +377,7 @@ INSERT INTO `anilist_chinese` VALUES (710,'{\"title\":{\"chinese\":\"REC\"},\"sy
 INSERT INTO `anilist_chinese` VALUES (712,'{\"title\":{\"chinese\":\"Zoids Genesis\"},\"synonyms_chinese\":[\"機獸起源 Genesis\"]}');
 INSERT INTO `anilist_chinese` VALUES (713,'{\"title\":{\"chinese\":\"AIR 劇場版\"},\"synonyms_chinese\":[\"鳥之詩 劇場版\",\"青空下的傳說 劇場版\",\"千年之夏 劇場版\"]}');
 INSERT INTO `anilist_chinese` VALUES (721,'{\"title\":{\"chinese\":\"彩夢芭蕾\"},\"synonyms_chinese\":[\"萩萩公主\"]}');
+INSERT INTO `anilist_chinese` VALUES (738,'{\"title\":{\"chinese\":\"MAR 魔法世界\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (740,'{\"title\":{\"chinese\":\"Sailor Moon R\"},\"synonyms_chinese\":[\"美少女戰士 R\"]}');
 INSERT INTO `anilist_chinese` VALUES (743,'{\"title\":{\"chinese\":\"海潮之聲\"},\"synonyms_chinese\":[\"聽海濤聲\",\"聽到濤聲\"]}');
 INSERT INTO `anilist_chinese` VALUES (750,'{\"title\":{\"chinese\":\"備長炭\"},\"synonyms_chinese\":[]}');
@@ -3627,6 +3628,7 @@ INSERT INTO `anilist_chinese` VALUES (104712,'{\"title\":{\"chinese\":\"雨色�
 INSERT INTO `anilist_chinese` VALUES (104750,'{\"title\":{\"chinese\":\"Dimension High School\"},\"synonyms_chinese\":[\"Dimension高中\"]}');
 INSERT INTO `anilist_chinese` VALUES (105066,'{\"title\":{\"chinese\":\"完璧お嬢様の私が土下座でマゾ堕ちするちょろインなワケないですわ！\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (105096,'{\"title\":{\"chinese\":\"HERO MASK\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (105238,'{\"title\":{\"chinese\":\"我が家のリリアナさん THE ANIMATION\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (105245,'{\"title\":{\"chinese\":\"W\'z OVA\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (105387,'{\"title\":{\"chinese\":\"迷你刀使\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (105391,'{\"title\":{\"chinese\":\"一騎當千 Western Wolves\"},\"synonyms_chinese\":[]}');

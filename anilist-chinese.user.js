@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2019.2.2
+// @version      2.2019.2.4
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -356,6 +356,7 @@ var database = [
 {id:712,title:"Zoids Genesis"},
 {id:713,title:"AIR 劇場版"},
 {id:721,title:"彩夢芭蕾"},
+{id:738,title:"MAR 魔法世界"},
 {id:740,title:"Sailor Moon R"},
 {id:743,title:"海潮之聲"},
 {id:750,title:"備長炭"},
@@ -3606,6 +3607,7 @@ var database = [
 {id:104750,title:"Dimension High School"},
 {id:105066,title:"完璧お嬢様の私が土下座でマゾ堕ちするちょろインなワケないですわ！"},
 {id:105096,title:"HERO MASK"},
+{id:105238,title:"我が家のリリアナさん THE ANIMATION"},
 {id:105245,title:"W'z OVA"},
 {id:105387,title:"迷你刀使"},
 {id:105391,title:"一騎當千 Western Wolves"},
