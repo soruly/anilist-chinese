@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2019.2.4
+// @version      2.2019.2.8
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -3216,6 +3216,7 @@ var database = [
 {id:98659,title:"歡迎來到實力至上主義的教室"},
 {id:98660,title:"手垢塗れの天使 THE ANIMATION"},
 {id:98693,title:"Slow Start"},
+{id:98697,title:"Kemono Friends 12.1話"},
 {id:98702,title:"食戟之靈 貳之皿 OVA"},
 {id:98707,title:"寶石之國"},
 {id:98715,title:"美男戰國◆跨越時空的戀情"},
@@ -3233,6 +3234,7 @@ var database = [
 {id:98843,title:"神裝少女小纏 OVA"},
 {id:98847,title:"BanG Dream! OVA"},
 {id:98856,title:"武裝少女Machiavellianism OVA"},
+{id:98861,title:"全職高手"},
 {id:98866,title:"登山物語  第三季"},
 {id:98868,title:"登山物語 回憶的禮物"},
 {id:98876,title:"劇場版 吹響！上低音號 ～想要傳達的旋律～"},
@@ -3250,6 +3252,7 @@ var database = [
 {id:99131,title:"Comic Girls"},
 {id:99147,title:"進擊的巨人 3"},
 {id:99148,title:"銀之守墓人 2"},
+{id:99200,title:"全職法師"},
 {id:99255,title:"食戟之靈 餐之皿"},
 {id:99263,title:"盾之勇者成名錄"},
 {id:99268,title:"SWAMP STAMP Anime Edition"},
@@ -3354,6 +3357,7 @@ var database = [
 {id:100251,title:"奴隸區"},
 {id:100283,title:"夏目友人帳 陸 OVA"},
 {id:100288,title:"ジュヴナイルポルノグラフィ THE ANIMATION"},
+{id:100294,title:"全職法師 第二季"},
 {id:100298,title:"Megalo Box"},
 {id:100306,title:"棒球大聯盟 2nd"},
 {id:100332,title:"刻刻"},
@@ -3399,6 +3403,7 @@ var database = [
 {id:100714,title:"邪神與廚二病少女"},
 {id:100715,title:"魔法少女 我"},
 {id:100722,title:"Date A Live III"},
+{id:100723,title:"我的英雄學院THE MOVIE ～2人的英雄～"},
 {id:100727,title:"和風喫茶鹿楓堂"},
 {id:100728,title:"Fate/Grand Order MOONLIGHT/LOSTROOM"},
 {id:100729,title:"Fate/Grand Order 冰室的天地 七人最強偉人篇"},
@@ -3493,6 +3498,7 @@ var database = [
 {id:101381,title:"我讓最想被擁抱的男人給威脅了"},
 {id:101382,title:"Phantom in the Twilight"},
 {id:101384,title:"Lord of Vermillion 紅蓮之王"},
+{id:101410,title:"全職高手 SP"},
 {id:101424,title:"Puzzle & Dragons"},
 {id:101426,title:"擅長捉弄人的高木同學 OVA"},
 {id:101432,title:"Violet Evergarden Extra Episode"},
@@ -3560,6 +3566,7 @@ var database = [
 {id:102974,title:"Gurazeni 2"},
 {id:102977,title:"黃金神威 2"},
 {id:102978,title:"宇宙戰艦提拉米蘇 II"},
+{id:102997,title:"全職高手 第二季"},
 {id:103000,title:"人外先生的老婆"},
 {id:103049,title:"鋼琴之森 2"},
 {id:103054,title:"Tiny Evil"},
@@ -3594,6 +3601,7 @@ var database = [
 {id:104103,title:"軒轅劍 蒼之曜"},
 {id:104117,title:"末班電車後、膠囊旅館、給上司微熱的夜晚。"},
 {id:104139,title:"レイプ合法化っ!!!"},
+{id:104160,title:"一人之下 天師下山 番外篇"},
 {id:104170,title:"來玩遊戲吧 OVA"},
 {id:104174,title:"Steins;Gate 0 Special"},
 {id:104214,title:"Devidol!"},
@@ -3604,6 +3612,7 @@ var database = [
 {id:104580,title:"齊木楠雄的災難 完結篇"},
 {id:104674,title:"笑容的代價"},
 {id:104712,title:"雨色可可 sideG"},
+{id:104745,title:"全職法師 第三季"},
 {id:104750,title:"Dimension High School"},
 {id:105066,title:"完璧お嬢様の私が土下座でマゾ堕ちするちょろインなワケないですわ！"},
 {id:105096,title:"HERO MASK"},
@@ -3611,6 +3620,7 @@ var database = [
 {id:105245,title:"W'z OVA"},
 {id:105387,title:"迷你刀使"},
 {id:105391,title:"一騎當千 Western Wolves"},
+{id:105401,title:"一人之下 第三季"},
 {id:105662,title:"工作細胞 SP"},
 {id:105663,title:"偵探歌劇 少女福爾摩斯 SP 2018"},
 {id:106165,title:"就算是爸爸也想做"},

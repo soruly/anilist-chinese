@@ -3237,6 +3237,7 @@ INSERT INTO `anilist_chinese` VALUES (98658,'{\"title\":{\"chinese\":\"少女☆
 INSERT INTO `anilist_chinese` VALUES (98659,'{\"title\":{\"chinese\":\"歡迎來到實力至上主義的教室\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (98660,'{\"title\":{\"chinese\":\"手垢塗れの天使 THE ANIMATION\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (98693,'{\"title\":{\"chinese\":\"Slow Start\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (98697,'{\"title\":{\"chinese\":\"Kemono Friends 12.1話\"},\"synonyms_chinese\":[\"動物好友 12.1話\",\"動物朋友 12.1話\"]}');
 INSERT INTO `anilist_chinese` VALUES (98702,'{\"title\":{\"chinese\":\"食戟之靈 貳之皿 OVA\"},\"synonyms_chinese\":[\"食戟之靈 二之皿 OVA\"]}');
 INSERT INTO `anilist_chinese` VALUES (98707,'{\"title\":{\"chinese\":\"寶石之國\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (98715,'{\"title\":{\"chinese\":\"美男戰國◆跨越時空的戀情\"},\"synonyms_chinese\":[]}');
@@ -3254,6 +3255,7 @@ INSERT INTO `anilist_chinese` VALUES (98833,'{\"title\":{\"chinese\":\"競女!!!
 INSERT INTO `anilist_chinese` VALUES (98843,'{\"title\":{\"chinese\":\"神裝少女小纏 OVA\"},\"synonyms_chinese\":[\"裝神少女小纏 OVA\"]}');
 INSERT INTO `anilist_chinese` VALUES (98847,'{\"title\":{\"chinese\":\"BanG Dream! OVA\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (98856,'{\"title\":{\"chinese\":\"武裝少女Machiavellianism OVA\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (98861,'{\"title\":{\"chinese\":\"全職高手\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (98866,'{\"title\":{\"chinese\":\"登山物語  第三季\"},\"synonyms_chinese\":[\"前進吧！登山少女 第三季\",\"向山進發 第三季\",\"來去登山 第三季\"]}');
 INSERT INTO `anilist_chinese` VALUES (98868,'{\"title\":{\"chinese\":\"登山物語 回憶的禮物\"},\"synonyms_chinese\":[\"前進吧！登山少女 回憶的禮物\",\"向山進發 回憶的禮物\",\"來去登山 回憶的禮物\",\"前進吧！登山少女 回憶之禮\"]}');
 INSERT INTO `anilist_chinese` VALUES (98876,'{\"title\":{\"chinese\":\"劇場版 吹響！上低音號 ～想要傳達的旋律～\"},\"synonyms_chinese\":[\"劇場版 吹響吧！上低音號 ～想要傳達的旋律～\"]}');
@@ -3271,6 +3273,7 @@ INSERT INTO `anilist_chinese` VALUES (99055,'{\"title\":{\"chinese\":\"無責任
 INSERT INTO `anilist_chinese` VALUES (99131,'{\"title\":{\"chinese\":\"Comic Girls\"},\"synonyms_chinese\":[\"漫畫女孩\"]}');
 INSERT INTO `anilist_chinese` VALUES (99147,'{\"title\":{\"chinese\":\"進擊的巨人 3\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (99148,'{\"title\":{\"chinese\":\"銀之守墓人 2\"},\"synonyms_chinese\":[\"銀色守墓者 2\"]}');
+INSERT INTO `anilist_chinese` VALUES (99200,'{\"title\":{\"chinese\":\"全職法師\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (99255,'{\"title\":{\"chinese\":\"食戟之靈 餐之皿\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (99263,'{\"title\":{\"chinese\":\"盾之勇者成名錄\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (99268,'{\"title\":{\"chinese\":\"SWAMP STAMP Anime Edition\"},\"synonyms_chinese\":[]}');
@@ -3375,6 +3378,7 @@ INSERT INTO `anilist_chinese` VALUES (100248,'{\"title\":{\"chinese\":\"忍者�
 INSERT INTO `anilist_chinese` VALUES (100251,'{\"title\":{\"chinese\":\"奴隸區\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (100283,'{\"title\":{\"chinese\":\"夏目友人帳 陸 OVA\"},\"synonyms_chinese\":[\"妖怪連絡簿 陸 OVA\"]}');
 INSERT INTO `anilist_chinese` VALUES (100288,'{\"title\":{\"chinese\":\"ジュヴナイルポルノグラフィ THE ANIMATION\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (100294,'{\"title\":{\"chinese\":\"全職法師 第二季\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (100298,'{\"title\":{\"chinese\":\"Megalo Box\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (100306,'{\"title\":{\"chinese\":\"棒球大聯盟 2nd\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (100332,'{\"title\":{\"chinese\":\"刻刻\"},\"synonyms_chinese\":[\"刻刻-時間暫停-\"]}');
@@ -3420,6 +3424,7 @@ INSERT INTO `anilist_chinese` VALUES (100684,'{\"title\":{\"chinese\":\"網路�
 INSERT INTO `anilist_chinese` VALUES (100714,'{\"title\":{\"chinese\":\"邪神與廚二病少女\"},\"synonyms_chinese\":[\"小邪神飛踢！\"]}');
 INSERT INTO `anilist_chinese` VALUES (100715,'{\"title\":{\"chinese\":\"魔法少女 我\"},\"synonyms_chinese\":[\"老子是魔法少女\"]}');
 INSERT INTO `anilist_chinese` VALUES (100722,'{\"title\":{\"chinese\":\"Date A Live III\"},\"synonyms_chinese\":[\"約會大作戰III\"]}');
+INSERT INTO `anilist_chinese` VALUES (100723,'{\"title\":{\"chinese\":\"我的英雄學院THE MOVIE ～2人的英雄～\"},\"synonyms_chinese\":[\"我的英雄學院 ~兩個英雄~\",\"劇場版 我的英雄學院 兩個人的英雄\"]}');
 INSERT INTO `anilist_chinese` VALUES (100727,'{\"title\":{\"chinese\":\"和風喫茶鹿楓堂\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (100728,'{\"title\":{\"chinese\":\"Fate/Grand Order MOONLIGHT/LOSTROOM\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (100729,'{\"title\":{\"chinese\":\"Fate/Grand Order 冰室的天地 七人最強偉人篇\"},\"synonyms_chinese\":[]}');
@@ -3514,6 +3519,7 @@ INSERT INTO `anilist_chinese` VALUES (101380,'{\"title\":{\"chinese\":\"千銃�
 INSERT INTO `anilist_chinese` VALUES (101381,'{\"title\":{\"chinese\":\"我讓最想被擁抱的男人給威脅了\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (101382,'{\"title\":{\"chinese\":\"Phantom in the Twilight\"},\"synonyms_chinese\":[\"暮光幻影\"]}');
 INSERT INTO `anilist_chinese` VALUES (101384,'{\"title\":{\"chinese\":\"Lord of Vermillion 紅蓮之王\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (101410,'{\"title\":{\"chinese\":\"全職高手 SP\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (101424,'{\"title\":{\"chinese\":\"Puzzle & Dragons\"},\"synonyms_chinese\":[\"龍族拼圖\",\"智龍迷城\"]}');
 INSERT INTO `anilist_chinese` VALUES (101426,'{\"title\":{\"chinese\":\"擅長捉弄人的高木同學 OVA\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (101432,'{\"title\":{\"chinese\":\"Violet Evergarden Extra Episode\"},\"synonyms_chinese\":[\"紫羅蘭永恆花園 Extra Episode\",\"薇爾莉特·伊芙加登 Extra Episode\"]}');
@@ -3581,6 +3587,7 @@ INSERT INTO `anilist_chinese` VALUES (102969,'{\"title\":{\"chinese\":\"學園�
 INSERT INTO `anilist_chinese` VALUES (102974,'{\"title\":{\"chinese\":\"Gurazeni 2\"},\"synonyms_chinese\":[\"錢進球場 2\"]}');
 INSERT INTO `anilist_chinese` VALUES (102977,'{\"title\":{\"chinese\":\"黃金神威 2\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (102978,'{\"title\":{\"chinese\":\"宇宙戰艦提拉米蘇 II\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (102997,'{\"title\":{\"chinese\":\"全職高手 第二季\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (103000,'{\"title\":{\"chinese\":\"人外先生的老婆\"},\"synonyms_chinese\":[\"非人先生的新娘\"]}');
 INSERT INTO `anilist_chinese` VALUES (103049,'{\"title\":{\"chinese\":\"鋼琴之森 2\"},\"synonyms_chinese\":[\"琴之森 2\",\"琴絃森林 2\",\"森林中的鋼琴師 2\"]}');
 INSERT INTO `anilist_chinese` VALUES (103054,'{\"title\":{\"chinese\":\"Tiny Evil\"},\"synonyms_chinese\":[]}');
@@ -3615,6 +3622,7 @@ INSERT INTO `anilist_chinese` VALUES (104102,'{\"title\":{\"chinese\":\"多彩�
 INSERT INTO `anilist_chinese` VALUES (104103,'{\"title\":{\"chinese\":\"軒轅劍 蒼之曜\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (104117,'{\"title\":{\"chinese\":\"末班電車後、膠囊旅館、給上司微熱的夜晚。\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (104139,'{\"title\":{\"chinese\":\"レイプ合法化っ!!!\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (104160,'{\"title\":{\"chinese\":\"一人之下 天師下山 番外篇\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (104170,'{\"title\":{\"chinese\":\"來玩遊戲吧 OVA\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (104174,'{\"title\":{\"chinese\":\"Steins;Gate 0 Special\"},\"synonyms_chinese\":[\"命運石之門 0 Special\",\"史塔斯閘門 0 Special\",\"斯坦因之門 0 Special\",\"石頭門 0 Special\",\"黑曜石之門 0 Special\"]}');
 INSERT INTO `anilist_chinese` VALUES (104214,'{\"title\":{\"chinese\":\"Devidol!\"},\"synonyms_chinese\":[]}');
@@ -3625,6 +3633,7 @@ INSERT INTO `anilist_chinese` VALUES (104530,'{\"title\":{\"chinese\":\"品酒�
 INSERT INTO `anilist_chinese` VALUES (104580,'{\"title\":{\"chinese\":\"齊木楠雄的災難 完結篇\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (104674,'{\"title\":{\"chinese\":\"笑容的代價\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (104712,'{\"title\":{\"chinese\":\"雨色可可 sideG\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (104745,'{\"title\":{\"chinese\":\"全職法師 第三季\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (104750,'{\"title\":{\"chinese\":\"Dimension High School\"},\"synonyms_chinese\":[\"Dimension高中\"]}');
 INSERT INTO `anilist_chinese` VALUES (105066,'{\"title\":{\"chinese\":\"完璧お嬢様の私が土下座でマゾ堕ちするちょろインなワケないですわ！\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (105096,'{\"title\":{\"chinese\":\"HERO MASK\"},\"synonyms_chinese\":[]}');
@@ -3632,6 +3641,7 @@ INSERT INTO `anilist_chinese` VALUES (105238,'{\"title\":{\"chinese\":\"我が�
 INSERT INTO `anilist_chinese` VALUES (105245,'{\"title\":{\"chinese\":\"W\'z OVA\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (105387,'{\"title\":{\"chinese\":\"迷你刀使\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (105391,'{\"title\":{\"chinese\":\"一騎當千 Western Wolves\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (105401,'{\"title\":{\"chinese\":\"一人之下 第三季\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (105662,'{\"title\":{\"chinese\":\"工作細胞 SP\"},\"synonyms_chinese\":[\"工作細胞 風邪症候群\"]}');
 INSERT INTO `anilist_chinese` VALUES (105663,'{\"title\":{\"chinese\":\"偵探歌劇 少女福爾摩斯 SP 2018\"},\"synonyms_chinese\":[\"偵探歌劇 少女福爾摩斯 心靈的問候\"]}');
 INSERT INTO `anilist_chinese` VALUES (106165,'{\"title\":{\"chinese\":\"就算是爸爸也想做\"},\"synonyms_chinese\":[]}');
