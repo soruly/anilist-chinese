@@ -3488,6 +3488,7 @@ INSERT INTO `anilist_chinese` VALUES (101213,'{\"title\":{\"chinese\":\"政宗�
 INSERT INTO `anilist_chinese` VALUES (101228,'{\"title\":{\"chinese\":\"Zoid Wild\"},\"synonyms_chinese\":[\"索斯機械獸\",\"機獸創世紀\"]}');
 INSERT INTO `anilist_chinese` VALUES (101231,'{\"title\":{\"chinese\":\"詩季織織\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (101240,'{\"title\":{\"chinese\":\"dokidokiりとる大家さん\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (101249,'{\"title\":{\"chinese\":\"Penguin Highway\"},\"synonyms_chinese\":[\"企鵝公路\",\"企鵝高速公路\"]}');
 INSERT INTO `anilist_chinese` VALUES (101267,'{\"title\":{\"chinese\":\"Cinderella Girls 劇場 3期\"},\"synonyms_chinese\":[\"偶像大師 灰姑娘女孩 3期\"]}');
 INSERT INTO `anilist_chinese` VALUES (101277,'{\"title\":{\"chinese\":\"溫泉屋小女將\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (101280,'{\"title\":{\"chinese\":\"關於我轉生變成史萊姆這檔事\"},\"synonyms_chinese\":[\"關於我轉生成為史萊姆的那件事\"]}');
@@ -3647,6 +3648,7 @@ INSERT INTO `anilist_chinese` VALUES (105663,'{\"title\":{\"chinese\":\"偵探�
 INSERT INTO `anilist_chinese` VALUES (106165,'{\"title\":{\"chinese\":\"就算是爸爸也想做\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (106169,'{\"title\":{\"chinese\":\"Persona 5 The Animation Dark Sun...\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (106433,'{\"title\":{\"chinese\":\"虛擬小姐在看著你\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (106690,'{\"title\":{\"chinese\":\"DOUBLE DECKER! EXTRA\"},\"synonyms_chinese\":[\"道格&基里爾 EXTRA\"]}');
 INSERT INTO `anilist_chinese` VALUES (107136,'{\"title\":{\"chinese\":\"ガキにもどって犯りなおしっ!!!\"},\"synonyms_chinese\":[]}');
 /*!40000 ALTER TABLE `anilist_chinese` ENABLE KEYS */;
 UNLOCK TABLES;

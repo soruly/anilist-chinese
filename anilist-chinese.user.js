@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2019.2.8
+// @version      2.2019.2.11
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -3467,6 +3467,7 @@ var database = [
 {id:101228,title:"Zoid Wild"},
 {id:101231,title:"詩季織織"},
 {id:101240,title:"dokidokiりとる大家さん"},
+{id:101249,title:"Penguin Highway"},
 {id:101267,title:"Cinderella Girls 劇場 3期"},
 {id:101277,title:"溫泉屋小女將"},
 {id:101280,title:"關於我轉生變成史萊姆這檔事"},
@@ -3626,6 +3627,7 @@ var database = [
 {id:106165,title:"就算是爸爸也想做"},
 {id:106169,title:"Persona 5 The Animation Dark Sun..."},
 {id:106433,title:"虛擬小姐在看著你"},
+{id:106690,title:"DOUBLE DECKER! EXTRA"},
 {id:107136,title:"ガキにもどって犯りなおしっ!!!"}
 ];
 
