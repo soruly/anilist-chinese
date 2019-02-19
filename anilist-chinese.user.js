@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2019.2.11
+// @version      2.2019.2.20
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -3607,6 +3607,7 @@ var database = [
 {id:104174,title:"Steins;Gate 0 Special"},
 {id:104214,title:"Devidol!"},
 {id:104253,title:"荒野的壽飛行隊"},
+{id:104286,title:"劇場版 王室教師海涅"},
 {id:104308,title:"大人的防具店"},
 {id:104451,title:"催眠性指導"},
 {id:104530,title:"品酒要在成為夫妻後 OVA"},

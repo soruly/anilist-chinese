@@ -3628,6 +3628,7 @@ INSERT INTO `anilist_chinese` VALUES (104170,'{\"title\":{\"chinese\":\"來玩�
 INSERT INTO `anilist_chinese` VALUES (104174,'{\"title\":{\"chinese\":\"Steins;Gate 0 Special\"},\"synonyms_chinese\":[\"命運石之門 0 Special\",\"史塔斯閘門 0 Special\",\"斯坦因之門 0 Special\",\"石頭門 0 Special\",\"黑曜石之門 0 Special\"]}');
 INSERT INTO `anilist_chinese` VALUES (104214,'{\"title\":{\"chinese\":\"Devidol!\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (104253,'{\"title\":{\"chinese\":\"荒野的壽飛行隊\"},\"synonyms_chinese\":[\"荒野的科特布奇飛行隊\",\"荒野的KOTOBUKI飛行隊\",\"荒野的KOTOBUKI機隊\"]}');
+INSERT INTO `anilist_chinese` VALUES (104286,'{\"title\":{\"chinese\":\"劇場版 王室教師海涅\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (104308,'{\"title\":{\"chinese\":\"大人的防具店\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (104451,'{\"title\":{\"chinese\":\"催眠性指導\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (104530,'{\"title\":{\"chinese\":\"品酒要在成為夫妻後 OVA\"},\"synonyms_chinese\":[]}');
