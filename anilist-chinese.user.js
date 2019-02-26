@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2019.2.20
+// @version      2.2019.2.27
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -1784,6 +1784,7 @@ var database = [
 {id:16347,title:"監獄兔 V"},
 {id:16353,title:"戀愛研究所"},
 {id:16355,title:"斷裁分離的罪惡之剪"},
+{id:16363,title:"女王之刃 戰敗女王"},
 {id:16385,title:"Dog Days''"},
 {id:16397,title:"Photo Kano"},
 {id:16405,title:"我的妹妹是「大阪大媽」"},
@@ -1889,6 +1890,7 @@ var database = [
 {id:18179,title:"飆速宅男"},
 {id:18195,title:"Little Busters! ~Refrain~"},
 {id:18229,title:"科學小飛俠 Crowds"},
+{id:18231,title:"女王之刃 戰敗女王 SP"},
 {id:18245,title:"White Album 2"},
 {id:18247,title:"IS <Infinite Stratos> 2"},
 {id:18277,title:"Strike the Blood"},
@@ -3128,6 +3130,7 @@ var database = [
 {id:98309,title:"ボクとみさき先生"},
 {id:98310,title:"The Idolm@ster SideM"},
 {id:98314,title:"狂賭之淵"},
+{id:98319,title:"女王之刃 無限"},
 {id:98320,title:"戀愛與謊言"},
 {id:98332,title:"劇場版 偶像活動! 被盯上的魔法偶活卡"},
 {id:98338,title:"吹響！上低音號 2 SP"},
@@ -3625,8 +3628,10 @@ var database = [
 {id:105401,title:"一人之下 第三季"},
 {id:105662,title:"工作細胞 SP"},
 {id:105663,title:"偵探歌劇 少女福爾摩斯 SP 2018"},
+{id:105970,title:"神待ちサナちゃん THE ANIMATION"},
 {id:106165,title:"就算是爸爸也想做"},
 {id:106169,title:"Persona 5 The Animation Dark Sun..."},
+{id:106322,title:"故に人妻は寝取られた。"},
 {id:106433,title:"虛擬小姐在看著你"},
 {id:106690,title:"DOUBLE DECKER! EXTRA"},
 {id:107136,title:"ガキにもどって犯りなおしっ!!!"}

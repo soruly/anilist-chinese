@@ -1805,6 +1805,7 @@ INSERT INTO `anilist_chinese` VALUES (16317,'{\"title\":{\"chinese\":\"石田與
 INSERT INTO `anilist_chinese` VALUES (16347,'{\"title\":{\"chinese\":\"監獄兔 V\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (16353,'{\"title\":{\"chinese\":\"戀愛研究所\"},\"synonyms_chinese\":[\"戀愛研究室\"]}');
 INSERT INTO `anilist_chinese` VALUES (16355,'{\"title\":{\"chinese\":\"斷裁分離的罪惡之剪\"},\"synonyms_chinese\":[\"裁斷分離之罪惡剪刀\"]}');
+INSERT INTO `anilist_chinese` VALUES (16363,'{\"title\":{\"chinese\":\"女王之刃 戰敗女王\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (16385,'{\"title\":{\"chinese\":\"Dog Days\'\'\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (16397,'{\"title\":{\"chinese\":\"Photo Kano\"},\"synonyms_chinese\":[\"戀曲寫真\",\"寫真女友\"]}');
 INSERT INTO `anilist_chinese` VALUES (16405,'{\"title\":{\"chinese\":\"我的妹妹是「大阪大媽」\"},\"synonyms_chinese\":[]}');
@@ -1910,6 +1911,7 @@ INSERT INTO `anilist_chinese` VALUES (18153,'{\"title\":{\"chinese\":\"境界的
 INSERT INTO `anilist_chinese` VALUES (18179,'{\"title\":{\"chinese\":\"飆速宅男\"},\"synonyms_chinese\":[\"弱蟲腳踏板\",\"飈速宅男\"]}');
 INSERT INTO `anilist_chinese` VALUES (18195,'{\"title\":{\"chinese\":\"Little Busters! ~Refrain~\"},\"synonyms_chinese\":[\"校園剋星 Refrain\",\"小小剋星 Refrain\"]}');
 INSERT INTO `anilist_chinese` VALUES (18229,'{\"title\":{\"chinese\":\"科學小飛俠 Crowds\"},\"synonyms_chinese\":[\"旋風小飛俠\",\"神勇飛鷹俠\",\"新神勇飛鷹俠\",\"太空飛鷹俠\",\"科學忍者隊\"]}');
+INSERT INTO `anilist_chinese` VALUES (18231,'{\"title\":{\"chinese\":\"女王之刃 戰敗女王 SP\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (18245,'{\"title\":{\"chinese\":\"White Album 2\"},\"synonyms_chinese\":[\"白色相簿 2\"]}');
 INSERT INTO `anilist_chinese` VALUES (18247,'{\"title\":{\"chinese\":\"IS <Infinite Stratos> 2\"},\"synonyms_chinese\":[\"IS學園 2\"]}');
 INSERT INTO `anilist_chinese` VALUES (18277,'{\"title\":{\"chinese\":\"Strike the Blood\"},\"synonyms_chinese\":[\"噬血狂襲\"]}');
@@ -3149,6 +3151,7 @@ INSERT INTO `anilist_chinese` VALUES (98308,'{\"title\":{\"chinese\":\"もんむ
 INSERT INTO `anilist_chinese` VALUES (98309,'{\"title\":{\"chinese\":\"ボクとみさき先生\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (98310,'{\"title\":{\"chinese\":\"The Idolm@ster SideM\"},\"synonyms_chinese\":[\"偶像大師 SideM\"]}');
 INSERT INTO `anilist_chinese` VALUES (98314,'{\"title\":{\"chinese\":\"狂賭之淵\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (98319,'{\"title\":{\"chinese\":\"女王之刃 無限\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (98320,'{\"title\":{\"chinese\":\"戀愛與謊言\"},\"synonyms_chinese\":[\"戀愛禁止的世界\"]}');
 INSERT INTO `anilist_chinese` VALUES (98332,'{\"title\":{\"chinese\":\"劇場版 偶像活動! 被盯上的魔法偶活卡\"},\"synonyms_chinese\":[\"劇場版 星夢學園! 被盯上的魔法星夢學園卡\",\"劇場版 偶像學園! 被盯上的魔法偶像學園卡\"]}');
 INSERT INTO `anilist_chinese` VALUES (98338,'{\"title\":{\"chinese\":\"吹響！上低音號 2 SP\"},\"synonyms_chinese\":[\"吹響吧！悠風號 2 SP\"]}');
@@ -3646,8 +3649,10 @@ INSERT INTO `anilist_chinese` VALUES (105391,'{\"title\":{\"chinese\":\"一騎�
 INSERT INTO `anilist_chinese` VALUES (105401,'{\"title\":{\"chinese\":\"一人之下 第三季\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (105662,'{\"title\":{\"chinese\":\"工作細胞 SP\"},\"synonyms_chinese\":[\"工作細胞 風邪症候群\"]}');
 INSERT INTO `anilist_chinese` VALUES (105663,'{\"title\":{\"chinese\":\"偵探歌劇 少女福爾摩斯 SP 2018\"},\"synonyms_chinese\":[\"偵探歌劇 少女福爾摩斯 心靈的問候\"]}');
+INSERT INTO `anilist_chinese` VALUES (105970,'{\"title\":{\"chinese\":\"神待ちサナちゃん THE ANIMATION\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (106165,'{\"title\":{\"chinese\":\"就算是爸爸也想做\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (106169,'{\"title\":{\"chinese\":\"Persona 5 The Animation Dark Sun...\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (106322,'{\"title\":{\"chinese\":\"故に人妻は寝取られた。\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (106433,'{\"title\":{\"chinese\":\"虛擬小姐在看著你\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (106690,'{\"title\":{\"chinese\":\"DOUBLE DECKER! EXTRA\"},\"synonyms_chinese\":[\"道格&基里爾 EXTRA\"]}');
 INSERT INTO `anilist_chinese` VALUES (107136,'{\"title\":{\"chinese\":\"ガキにもどって犯りなおしっ!!!\"},\"synonyms_chinese\":[]}');
