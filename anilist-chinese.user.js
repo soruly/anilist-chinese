@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2019.2.27
+// @version      2.2019.2.28
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -3230,6 +3230,7 @@ var database = [
 {id:98768,title:"妻が温泉でサークル仲間の肉便器になったのですが... Anime Edition"},
 {id:98769,title:"おいでよ! 水龍敬ランド"},
 {id:98778,title:"91Days Special"},
+{id:98779,title:"劇場版 噥噥日和 Vacation"},
 {id:98790,title:"裙子下的野獸"},
 {id:98814,title:"Dimension W OVA"},
 {id:98820,title:"Just Because!"},
@@ -3422,6 +3423,7 @@ var database = [
 {id:100791,title:"結城友奈是勇者 -鷲尾須美之章-"},
 {id:100813,title:"靈契·黃泉之契"},
 {id:100814,title:"Cutie Honey Universe"},
+{id:100815,title:"續・終物語"},
 {id:100852,title:"鬼燈的冷徹 2之2"},
 {id:100855,title:"衛宮家今天的飯"},
 {id:100871,title:"豆豆貓"},

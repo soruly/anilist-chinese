@@ -3251,6 +3251,7 @@ INSERT INTO `anilist_chinese` VALUES (98767,'{\"title\":{\"chinese\":\"いちご
 INSERT INTO `anilist_chinese` VALUES (98768,'{\"title\":{\"chinese\":\"妻が温泉でサークル仲間の肉便器になったのですが... Anime Edition\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (98769,'{\"title\":{\"chinese\":\"おいでよ! 水龍敬ランド\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (98778,'{\"title\":{\"chinese\":\"91Days Special\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (98779,'{\"title\":{\"chinese\":\"劇場版 噥噥日和 Vacation\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (98790,'{\"title\":{\"chinese\":\"裙子下的野獸\"},\"synonyms_chinese\":[\"裙子裡面是野獸\"]}');
 INSERT INTO `anilist_chinese` VALUES (98814,'{\"title\":{\"chinese\":\"Dimension W OVA\"},\"synonyms_chinese\":[\"Dimension W ～維度戰記～ OVA\"]}');
 INSERT INTO `anilist_chinese` VALUES (98820,'{\"title\":{\"chinese\":\"Just Because!\"},\"synonyms_chinese\":[]}');
@@ -3443,6 +3444,7 @@ INSERT INTO `anilist_chinese` VALUES (100785,'{\"title\":{\"chinese\":\"雷頓 �
 INSERT INTO `anilist_chinese` VALUES (100791,'{\"title\":{\"chinese\":\"結城友奈是勇者 -鷲尾須美之章-\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (100813,'{\"title\":{\"chinese\":\"靈契·黃泉之契\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (100814,'{\"title\":{\"chinese\":\"Cutie Honey Universe\"},\"synonyms_chinese\":[\"甜心戰士Universe\"]}');
+INSERT INTO `anilist_chinese` VALUES (100815,'{\"title\":{\"chinese\":\"續・終物語\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (100852,'{\"title\":{\"chinese\":\"鬼燈的冷徹 2之2\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (100855,'{\"title\":{\"chinese\":\"衛宮家今天的飯\"},\"synonyms_chinese\":[\"衛宮家今天的餐桌風景\"]}');
 INSERT INTO `anilist_chinese` VALUES (100871,'{\"title\":{\"chinese\":\"豆豆貓\"},\"synonyms_chinese\":[]}');
