@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2019.2.28
+// @version      2.2019.3.2
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -3594,6 +3594,7 @@ var database = [
 {id:103871,title:"殭屍樂園薩加"},
 {id:103872,title:"歡迎光臨、千歲醬"},
 {id:103874,title:"同居人時而在腿上、時而跑到腦袋上"},
+{id:103887,title:"小小英雄－螃蟹與蛋與透明人－"},
 {id:103923,title:"The Idolm@ster SideM 迷你是原因!"},
 {id:103925,title:"くノ一牡丹"},
 {id:104008,title:"Circlet Princess"},
@@ -3628,8 +3629,10 @@ var database = [
 {id:105387,title:"迷你刀使"},
 {id:105391,title:"一騎當千 Western Wolves"},
 {id:105401,title:"一人之下 第三季"},
+{id:105655,title:"魯邦三世 Goodbye Partner"},
 {id:105662,title:"工作細胞 SP"},
 {id:105663,title:"偵探歌劇 少女福爾摩斯 SP 2018"},
+{id:105893,title:"我的英雄學院 All Might - Rising The Animation"},
 {id:105970,title:"神待ちサナちゃん THE ANIMATION"},
 {id:106165,title:"就算是爸爸也想做"},
 {id:106169,title:"Persona 5 The Animation Dark Sun..."},

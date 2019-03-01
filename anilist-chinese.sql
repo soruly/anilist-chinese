@@ -3615,6 +3615,7 @@ INSERT INTO `anilist_chinese` VALUES (103740,'{\"title\":{\"chinese\":\"劇場�
 INSERT INTO `anilist_chinese` VALUES (103871,'{\"title\":{\"chinese\":\"殭屍樂園薩加\"},\"synonyms_chinese\":[\"殭屍樂園佐賀\",\"喪屍之地傳奇\",\"佐賀偶像是傳奇\"]}');
 INSERT INTO `anilist_chinese` VALUES (103872,'{\"title\":{\"chinese\":\"歡迎光臨、千歲醬\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (103874,'{\"title\":{\"chinese\":\"同居人時而在腿上、時而跑到腦袋上\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (103887,'{\"title\":{\"chinese\":\"小小英雄－螃蟹與蛋與透明人－\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (103923,'{\"title\":{\"chinese\":\"The Idolm@ster SideM 迷你是原因!\"},\"synonyms_chinese\":[\"偶像大師 SideM 迷你是原因!\"]}');
 INSERT INTO `anilist_chinese` VALUES (103925,'{\"title\":{\"chinese\":\"くノ一牡丹\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (104008,'{\"title\":{\"chinese\":\"Circlet Princess\"},\"synonyms_chinese\":[\"環戰公主\"]}');
@@ -3649,8 +3650,10 @@ INSERT INTO `anilist_chinese` VALUES (105245,'{\"title\":{\"chinese\":\"W\'z OVA
 INSERT INTO `anilist_chinese` VALUES (105387,'{\"title\":{\"chinese\":\"迷你刀使\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (105391,'{\"title\":{\"chinese\":\"一騎當千 Western Wolves\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (105401,'{\"title\":{\"chinese\":\"一人之下 第三季\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (105655,'{\"title\":{\"chinese\":\"魯邦三世 Goodbye Partner\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (105662,'{\"title\":{\"chinese\":\"工作細胞 SP\"},\"synonyms_chinese\":[\"工作細胞 風邪症候群\"]}');
 INSERT INTO `anilist_chinese` VALUES (105663,'{\"title\":{\"chinese\":\"偵探歌劇 少女福爾摩斯 SP 2018\"},\"synonyms_chinese\":[\"偵探歌劇 少女福爾摩斯 心靈的問候\"]}');
+INSERT INTO `anilist_chinese` VALUES (105893,'{\"title\":{\"chinese\":\"我的英雄學院 All Might - Rising The Animation\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (105970,'{\"title\":{\"chinese\":\"神待ちサナちゃん THE ANIMATION\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (106165,'{\"title\":{\"chinese\":\"就算是爸爸也想做\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (106169,'{\"title\":{\"chinese\":\"Persona 5 The Animation Dark Sun...\"},\"synonyms_chinese\":[]}');
