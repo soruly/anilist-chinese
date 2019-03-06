@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2019.3.2
+// @version      2.2019.3.7
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -3611,8 +3611,10 @@ var database = [
 {id:104160,title:"一人之下 天師下山 番外篇"},
 {id:104170,title:"來玩遊戲吧 OVA"},
 {id:104174,title:"Steins;Gate 0 Special"},
+{id:104175,title:"七大罪 戒律的復活 OVA"},
 {id:104214,title:"Devidol!"},
 {id:104253,title:"荒野的壽飛行隊"},
+{id:104278,title:"邪神與廚二病少女 ONA"},
 {id:104286,title:"劇場版 王室教師海涅"},
 {id:104308,title:"大人的防具店"},
 {id:104451,title:"催眠性指導"},
