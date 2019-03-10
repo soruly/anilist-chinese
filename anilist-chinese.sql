@@ -3514,6 +3514,7 @@ INSERT INTO `anilist_chinese` VALUES (101338,'{\"title\":{\"chinese\":\"Mob Psyc
 INSERT INTO `anilist_chinese` VALUES (101340,'{\"title\":{\"chinese\":\"魔法律顧問事務所\"},\"synonyms_chinese\":[\"魔法律事務所\"]}');
 INSERT INTO `anilist_chinese` VALUES (101347,'{\"title\":{\"chinese\":\"多羅羅\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (101351,'{\"title\":{\"chinese\":\"Happy Sugar Life\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (101352,'{\"title\":{\"chinese\":\"ヴィーナスブラッド ブレイヴ\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (101359,'{\"title\":{\"chinese\":\"叛逆性百萬亞瑟王\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (101360,'{\"title\":{\"chinese\":\"夕照少女\"},\"synonyms_chinese\":[\"茜色少女\",\"AKANESASU少女\"]}');
 INSERT INTO `anilist_chinese` VALUES (101361,'{\"title\":{\"chinese\":\"天狼 Sirius the Jaeger\"},\"synonyms_chinese\":[]}');
