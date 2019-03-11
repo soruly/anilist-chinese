@@ -3653,6 +3653,7 @@ INSERT INTO `anilist_chinese` VALUES (105245,'{\"title\":{\"chinese\":\"W\'z OVA
 INSERT INTO `anilist_chinese` VALUES (105387,'{\"title\":{\"chinese\":\"迷你刀使\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (105391,'{\"title\":{\"chinese\":\"一騎當千 Western Wolves\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (105401,'{\"title\":{\"chinese\":\"一人之下 第三季\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (105562,'{\"title\":{\"chinese\":\"Rune\'s Pharmacy\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (105655,'{\"title\":{\"chinese\":\"魯邦三世 Goodbye Partner\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (105662,'{\"title\":{\"chinese\":\"工作細胞 SP\"},\"synonyms_chinese\":[\"工作細胞 風邪症候群\"]}');
 INSERT INTO `anilist_chinese` VALUES (105663,'{\"title\":{\"chinese\":\"偵探歌劇 少女福爾摩斯 SP 2018\"},\"synonyms_chinese\":[\"偵探歌劇 少女福爾摩斯 心靈的問候\"]}');
