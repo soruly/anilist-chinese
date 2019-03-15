@@ -2883,6 +2883,7 @@ INSERT INTO `anilist_chinese` VALUES (21763,'{\"title\":{\"chinese\":\"放學後
 INSERT INTO `anilist_chinese` VALUES (21764,'{\"title\":{\"chinese\":\"WWW.WORKING!!\"},\"synonyms_chinese\":[\"WWW.WORKING!!迷糊餐廳\",\"WWW.WORKING!!無聊西餐廳\"]}');
 INSERT INTO `anilist_chinese` VALUES (21766,'{\"title\":{\"chinese\":\"ZEGAPAIN ADP\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (21769,'{\"title\":{\"chinese\":\"果然我的青春戀愛喜劇搞錯了。續 OVA\"},\"synonyms_chinese\":[\"我的青春戀愛喜劇果然有問題。續 OVA\"]}');
+INSERT INTO `anilist_chinese` VALUES (21770,'{\"title\":{\"chinese\":\"劇場版PEACE MAKER 鐵 前篇 想道\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (21771,'{\"title\":{\"chinese\":\"planetarian ～星之人～\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (21772,'{\"title\":{\"chinese\":\"Lostorage incited WIXOSS\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (21773,'{\"title\":{\"chinese\":\"覆面系NOISE\"},\"synonyms_chinese\":[\"假面Noise\"]}');
@@ -3519,6 +3520,7 @@ INSERT INTO `anilist_chinese` VALUES (101359,'{\"title\":{\"chinese\":\"叛逆�
 INSERT INTO `anilist_chinese` VALUES (101360,'{\"title\":{\"chinese\":\"夕照少女\"},\"synonyms_chinese\":[\"茜色少女\",\"AKANESASU少女\"]}');
 INSERT INTO `anilist_chinese` VALUES (101361,'{\"title\":{\"chinese\":\"天狼 Sirius the Jaeger\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (101368,'{\"title\":{\"chinese\":\"Planet With\"},\"synonyms_chinese\":[\"行星與共\"]}');
+INSERT INTO `anilist_chinese` VALUES (101369,'{\"title\":{\"chinese\":\"劇場版PEACE MAKER 鐵 後篇 友命\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (101371,'{\"title\":{\"chinese\":\"隔壁的吸血鬼美眉\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (101373,'{\"title\":{\"chinese\":\"BAKUMATSU\"},\"synonyms_chinese\":[\"戀愛幕末男友\"]}');
 INSERT INTO `anilist_chinese` VALUES (101379,'{\"title\":{\"chinese\":\"Pastel Memories\"},\"synonyms_chinese\":[\"粉彩回憶\"]}');

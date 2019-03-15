@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2019.3.12
+// @version      2.2019.3.16
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -2862,6 +2862,7 @@ var database = [
 {id:21764,title:"WWW.WORKING!!"},
 {id:21766,title:"ZEGAPAIN ADP"},
 {id:21769,title:"果然我的青春戀愛喜劇搞錯了。續 OVA"},
+{id:21770,title:"劇場版PEACE MAKER 鐵 前篇 想道"},
 {id:21771,title:"planetarian ～星之人～"},
 {id:21772,title:"Lostorage incited WIXOSS"},
 {id:21773,title:"覆面系NOISE"},
@@ -3498,6 +3499,7 @@ var database = [
 {id:101360,title:"夕照少女"},
 {id:101361,title:"天狼 Sirius the Jaeger"},
 {id:101368,title:"Planet With"},
+{id:101369,title:"劇場版PEACE MAKER 鐵 後篇 友命"},
 {id:101371,title:"隔壁的吸血鬼美眉"},
 {id:101373,title:"BAKUMATSU"},
 {id:101379,title:"Pastel Memories"},
