@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2019.3.16
+// @version      2.2019.3.30
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -2245,6 +2245,7 @@ var database = [
 {id:20827,title:"百合熊風暴"},
 {id:20828,title:"直笛與背包 Mi☆"},
 {id:20829,title:"終結的熾天使"},
+{id:20831,title:"Cross Road"},
 {id:20832,title:"Overlord"},
 {id:20833,title:"庭球社 4"},
 {id:20839,title:"Triage X"},
@@ -3645,7 +3646,8 @@ var database = [
 {id:106322,title:"故に人妻は寝取られた。"},
 {id:106433,title:"虛擬小姐在看著你"},
 {id:106690,title:"DOUBLE DECKER! EXTRA"},
-{id:107136,title:"ガキにもどって犯りなおしっ!!!"}
+{id:107136,title:"ガキにもどって犯りなおしっ!!!"},
+{id:108062,title:"我喜歡的妹妹不是妹妹 OVA"}
 ];
 
 var updating;

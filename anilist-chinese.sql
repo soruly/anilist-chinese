@@ -2266,6 +2266,7 @@ INSERT INTO `anilist_chinese` VALUES (20826,'{\"title\":{\"chinese\":\"妄想學
 INSERT INTO `anilist_chinese` VALUES (20827,'{\"title\":{\"chinese\":\"百合熊風暴\"},\"synonyms_chinese\":[\"百合熊嵐\"]}');
 INSERT INTO `anilist_chinese` VALUES (20828,'{\"title\":{\"chinese\":\"直笛與背包 Mi☆\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (20829,'{\"title\":{\"chinese\":\"終結的熾天使\"},\"synonyms_chinese\":[\"終結的撒拉弗\"]}');
+INSERT INTO `anilist_chinese` VALUES (20831,'{\"title\":{\"chinese\":\"Cross Road\"},\"synonyms_chinese\":[\"十字路口\"]}');
 INSERT INTO `anilist_chinese` VALUES (20832,'{\"title\":{\"chinese\":\"Overlord\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (20833,'{\"title\":{\"chinese\":\"庭球社 4\"},\"synonyms_chinese\":[\"女高網球部 4\",\"網球少女 4\",\"網球並不可笑嘛 4\",\"女子搞笑網球 4\"]}');
 INSERT INTO `anilist_chinese` VALUES (20839,'{\"title\":{\"chinese\":\"Triage X\"},\"synonyms_chinese\":[\"絕命制裁X\"]}');
@@ -3667,6 +3668,7 @@ INSERT INTO `anilist_chinese` VALUES (106322,'{\"title\":{\"chinese\":\"故に�
 INSERT INTO `anilist_chinese` VALUES (106433,'{\"title\":{\"chinese\":\"虛擬小姐在看著你\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (106690,'{\"title\":{\"chinese\":\"DOUBLE DECKER! EXTRA\"},\"synonyms_chinese\":[\"道格&基里爾 EXTRA\"]}');
 INSERT INTO `anilist_chinese` VALUES (107136,'{\"title\":{\"chinese\":\"ガキにもどって犯りなおしっ!!!\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (108062,'{\"title\":{\"chinese\":\"我喜歡的妹妹不是妹妹 OVA\"},\"synonyms_chinese\":[\"我喜歡的是妹妹而不是妹妹 OVA\",\"我喜歡的是小說裡的你 OVA\"]}');
 /*!40000 ALTER TABLE `anilist_chinese` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
