@@ -3784,6 +3784,7 @@ INSERT INTO `anilist_chinese` VALUES (105962,'{\"title\":{\"chinese\":\"Cinderel
 INSERT INTO `anilist_chinese` VALUES (105970,'{\"title\":{\"chinese\":\"神待ちサナちゃん THE ANIMATION\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (105989,'{\"title\":{\"chinese\":\"滿腦都是○○的我沒辦法談戀愛\"},\"synonyms_chinese\":[\"淫亂的小青無法學習\",\"淫亂的青醬無法學習\"]}');
 INSERT INTO `anilist_chinese` VALUES (106051,'{\"title\":{\"chinese\":\"川柳少女\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (106149,'{\"title\":{\"chinese\":\"妻が綺麗になったワケ\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (106165,'{\"title\":{\"chinese\":\"就算是爸爸也想做\"},\"synonyms_chinese\":[\"就算是爸爸，也想那個嘛\"]}');
 INSERT INTO `anilist_chinese` VALUES (106169,'{\"title\":{\"chinese\":\"Persona 5 The Animation Dark Sun...\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (106239,'{\"title\":{\"chinese\":\"信長老師有個蘿莉老婆\"},\"synonyms_chinese\":[\"信長老師的年幼妻子\"]}');
@@ -3793,6 +3794,7 @@ INSERT INTO `anilist_chinese` VALUES (106508,'{\"title\":{\"chinese\":\"Fight Le
 INSERT INTO `anilist_chinese` VALUES (106568,'{\"title\":{\"chinese\":\"BAKUMATSU Crisis\"},\"synonyms_chinese\":[\"戀愛幕末男友 Crisis\",\"戀愛幕末男友外傳-危機\"]}');
 INSERT INTO `anilist_chinese` VALUES (106571,'{\"title\":{\"chinese\":\"火之鳥 道後温泉編\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (106578,'{\"title\":{\"chinese\":\"性活週間 THE ANIMATION\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (106579,'{\"title\":{\"chinese\":\"ビッチ学園が清純なはずがないっ！！？ The Animation\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (106690,'{\"title\":{\"chinese\":\"DOUBLE DECKER! EXTRA\"},\"synonyms_chinese\":[\"道格&基里爾 EXTRA\"]}');
 INSERT INTO `anilist_chinese` VALUES (106862,'{\"title\":{\"chinese\":\"艾梅洛閣下II世事件簿 -魔眼蒐集列車 Grace note- 守墓人與貓與魔術師\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (106918,'{\"title\":{\"chinese\":\"艾梅洛閣下II世事件簿 -魔眼蒐集列車 Grace note-\"},\"synonyms_chinese\":[]}');
@@ -3800,6 +3802,7 @@ INSERT INTO `anilist_chinese` VALUES (106967,'{\"title\":{\"chinese\":\"絲襪�
 INSERT INTO `anilist_chinese` VALUES (107012,'{\"title\":{\"chinese\":\"Birthday Wonderland\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (107075,'{\"title\":{\"chinese\":\"ヒナギクヴァージンロストクラブへようこそ♡\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (107076,'{\"title\":{\"chinese\":\"虜ノ雫 前編 ～夏の豪華客船で穢される処女たち～\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (107132,'{\"title\":{\"chinese\":\"三射面談～連鎖する恥辱・調教の学園～\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (107136,'{\"title\":{\"chinese\":\"ガキにもどって犯りなおしっ!!!\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (107313,'{\"title\":{\"chinese\":\"魯邦三世 峰不二子的謊言\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (107371,'{\"title\":{\"chinese\":\"白蛇：緣起\"},\"synonyms_chinese\":[]}');

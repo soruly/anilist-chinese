@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2019.4.2
+// @version      2.2019.4.7
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -3763,6 +3763,7 @@ var database = [
 {id:105970,title:"神待ちサナちゃん THE ANIMATION"},
 {id:105989,title:"滿腦都是○○的我沒辦法談戀愛"},
 {id:106051,title:"川柳少女"},
+{id:106149,title:"妻が綺麗になったワケ"},
 {id:106165,title:"就算是爸爸也想做"},
 {id:106169,title:"Persona 5 The Animation Dark Sun..."},
 {id:106239,title:"信長老師有個蘿莉老婆"},
@@ -3772,6 +3773,7 @@ var database = [
 {id:106568,title:"BAKUMATSU Crisis"},
 {id:106571,title:"火之鳥 道後温泉編"},
 {id:106578,title:"性活週間 THE ANIMATION"},
+{id:106579,title:"ビッチ学園が清純なはずがないっ！！？ The Animation"},
 {id:106690,title:"DOUBLE DECKER! EXTRA"},
 {id:106862,title:"艾梅洛閣下II世事件簿 -魔眼蒐集列車 Grace note- 守墓人與貓與魔術師"},
 {id:106918,title:"艾梅洛閣下II世事件簿 -魔眼蒐集列車 Grace note-"},
@@ -3779,6 +3781,7 @@ var database = [
 {id:107012,title:"Birthday Wonderland"},
 {id:107075,title:"ヒナギクヴァージンロストクラブへようこそ♡"},
 {id:107076,title:"虜ノ雫 前編 ～夏の豪華客船で穢される処女たち～"},
+{id:107132,title:"三射面談～連鎖する恥辱・調教の学園～"},
 {id:107136,title:"ガキにもどって犯りなおしっ!!!"},
 {id:107313,title:"魯邦三世 峰不二子的謊言"},
 {id:107371,title:"白蛇：緣起"},
