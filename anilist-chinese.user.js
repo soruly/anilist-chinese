@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2019.4.7
+// @version      2.2019.4.8
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -3700,6 +3700,7 @@ var database = [
 {id:103925,title:"くノ一牡丹"},
 {id:104008,title:"Circlet Princess"},
 {id:104009,title:"臨死！！江古田醬"},
+{id:104029,title:"君想ふ恋"},
 {id:104059,title:"夢魔の街コルネリカ"},
 {id:104071,title:"叛逆性百萬亞瑟王 2"},
 {id:104073,title:"那時的她。"},
