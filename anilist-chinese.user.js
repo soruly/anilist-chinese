@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2019.4.8
+// @version      2.2019.4.12
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -3789,6 +3789,7 @@ var database = [
 {id:107418,title:"Fairy Gone"},
 {id:107447,title:"星夢學園 Friends! 閃耀的寶石"},
 {id:107864,title:"為了誰的鍊金術師"},
+{id:107974,title:"洗浴屋先生！～我和那傢伙在女浴池裡！？～"},
 {id:108039,title:"Mobile Suit Gundam The Origin 前夜 赤色彗星"},
 {id:108062,title:"我喜歡的妹妹不是妹妹 OVA"},
 {id:108307,title:"PSYCHO-PASS 3"},
