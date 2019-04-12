@@ -3560,7 +3560,7 @@ INSERT INTO `anilist_chinese` VALUES (101228,'{\"title\":{\"chinese\":\"Zoid Wil
 INSERT INTO `anilist_chinese` VALUES (101231,'{\"title\":{\"chinese\":\"詩季織織\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (101240,'{\"title\":{\"chinese\":\"dokidokiりとる大家さん\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (101249,'{\"title\":{\"chinese\":\"Penguin Highway\"},\"synonyms_chinese\":[\"企鵝公路\",\"企鵝高速公路\"]}');
-INSERT INTO `anilist_chinese` VALUES (101261,'{\"title\":{\"chinese\":\"SARAZANMAI\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (101261,'{\"title\":{\"chinese\":\"SARAZANMAI\"},\"synonyms_chinese\":[\"皿三昧\"]}');
 INSERT INTO `anilist_chinese` VALUES (101267,'{\"title\":{\"chinese\":\"Cinderella Girls 劇場 3期\"},\"synonyms_chinese\":[\"偶像大師 灰姑娘女孩 3期\"]}');
 INSERT INTO `anilist_chinese` VALUES (101277,'{\"title\":{\"chinese\":\"溫泉屋小女將\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (101280,'{\"title\":{\"chinese\":\"關於我轉生變成史萊姆這檔事\"},\"synonyms_chinese\":[\"關於我轉生成為史萊姆的那件事\"]}');
@@ -3748,7 +3748,7 @@ INSERT INTO `anilist_chinese` VALUES (104286,'{\"title\":{\"chinese\":\"劇場�
 INSERT INTO `anilist_chinese` VALUES (104306,'{\"title\":{\"chinese\":\"一日外出錄班長\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (104308,'{\"title\":{\"chinese\":\"大人的防具店\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (104325,'{\"title\":{\"chinese\":\"為什麼老師會在這裡！？\"},\"synonyms_chinese\":[]}');
-INSERT INTO `anilist_chinese` VALUES (104378,'{\"title\":{\"chinese\":\"強襲魔女 501 部隊出動！\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (104378,'{\"title\":{\"chinese\":\"強襲魔女 501 部隊出動！\"},\"synonyms_chinese\":[\"強襲魔女 501部隊出發!\"]}');
 INSERT INTO `anilist_chinese` VALUES (104382,'{\"title\":{\"chinese\":\"PSYCHO-PASS Sinners of the System Case 2 - First Guardian\"},\"synonyms_chinese\":[\"心靈判官 Sinners of the System Case 2 - First Guardian\"]}');
 INSERT INTO `anilist_chinese` VALUES (104451,'{\"title\":{\"chinese\":\"催眠性指導\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (104454,'{\"title\":{\"chinese\":\"異世界四重奏\"},\"synonyms_chinese\":[]}');
