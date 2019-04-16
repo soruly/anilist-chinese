@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2019.4.12
+// @version      2.2019.4.17
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -3211,6 +3211,7 @@ var database = [
 {id:98448,title:"奇諾之旅 The Beautiful World"},
 {id:98449,title:"泥鯨之子們在沙地上歌唱"},
 {id:98451,title:"恩星與魔法平板 ~另一位午睡公主~"},
+{id:98452,title:"笑傲曇天 <外傳>前篇～訣別、豺之誓言～"},
 {id:98460,title:"DEVILMAN crybaby"},
 {id:98473,title:"Lostorage Conflated WIXOSS"},
 {id:98475,title:"海天使之光"},
@@ -3310,6 +3311,8 @@ var database = [
 {id:99131,title:"Comic Girls"},
 {id:99147,title:"進擊的巨人 3"},
 {id:99148,title:"銀之守墓人 2"},
+{id:99196,title:"笑傲曇天 <外傳>中篇～宿命、雙頭的風魔～"},
+{id:99197,title:"笑傲曇天 <外傳>後篇～櫻華、天望的架橋～"},
 {id:99200,title:"全職法師"},
 {id:99255,title:"食戟之靈 餐之皿"},
 {id:99263,title:"盾之勇者成名錄"},
@@ -3426,6 +3429,7 @@ var database = [
 {id:100332,title:"刻刻"},
 {id:100341,title:"重神機潘多拉"},
 {id:100356,title:"Mutafukaz"},
+{id:100358,title:"TIME DRIVER 我們所描繪的未來"},
 {id:100382,title:"我喜歡的妹妹不是妹妹"},
 {id:100388,title:"BANANA FISH"},
 {id:100397,title:"Cherry & Gal's↑↑"},
