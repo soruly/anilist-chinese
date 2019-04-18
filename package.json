@@ -22,7 +22,7 @@
   "dependencies": {
     "dotenv": "^7.0.0",
     "knex": "^0.16.5",
-    "mysql": "^2.16.0"
+    "mysql": "^2.17.1"
   },
   "devDependencies": {
     "eslint": "^5.16.0"
