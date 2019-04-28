@@ -3800,7 +3800,7 @@ var database = [
 {id:108625,title:"星光頻道 第二季"}
 ];
 
-var updating;
+var updating = 0;
 var url;
 var myDOMNodeInsertedAction = function () {
 
