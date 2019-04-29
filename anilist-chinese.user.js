@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2019.4.17
+// @version      2.2019.4.30
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -3791,7 +3791,9 @@ var database = [
 {id:107313,title:"魯邦三世 峰不二子的謊言"},
 {id:107371,title:"白蛇：緣起"},
 {id:107418,title:"Fairy Gone"},
+{id:107444,title:"あの団地の妻たちは… The Animation"},
 {id:107447,title:"星夢學園 Friends! 閃耀的寶石"},
+{id:107535,title:"Aikagi The Animation"},
 {id:107864,title:"為了誰的鍊金術師"},
 {id:107974,title:"洗浴屋先生！～我和那傢伙在女浴池裡！？～"},
 {id:108039,title:"Mobile Suit Gundam The Origin 前夜 赤色彗星"},
@@ -3800,7 +3802,7 @@ var database = [
 {id:108625,title:"星光頻道 第二季"}
 ];
 
-var updating = 0;
+var updating;
 var url;
 var myDOMNodeInsertedAction = function () {
 

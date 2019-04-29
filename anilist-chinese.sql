@@ -3812,7 +3812,9 @@ INSERT INTO `anilist_chinese` VALUES (107136,'{\"title\":{\"chinese\":\"ガキ�
 INSERT INTO `anilist_chinese` VALUES (107313,'{\"title\":{\"chinese\":\"魯邦三世 峰不二子的謊言\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (107371,'{\"title\":{\"chinese\":\"白蛇：緣起\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (107418,'{\"title\":{\"chinese\":\"Fairy Gone\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (107444,'{\"title\":{\"chinese\":\"あの団地の妻たちは… The Animation\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (107447,'{\"title\":{\"chinese\":\"星夢學園 Friends! 閃耀的寶石\"},\"synonyms_chinese\":[\"偶像活動 Friends! 閃耀的寶石\",\"偶像學園 Friends! 閃耀的寶石\"]}');
+INSERT INTO `anilist_chinese` VALUES (107535,'{\"title\":{\"chinese\":\"Aikagi The Animation\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (107864,'{\"title\":{\"chinese\":\"為了誰的鍊金術師\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (107974,'{\"title\":{\"chinese\":\"洗浴屋先生！～我和那傢伙在女浴池裡！？～\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (108039,'{\"title\":{\"chinese\":\"Mobile Suit Gundam The Origin 前夜 赤色彗星\"},\"synonyms_chinese\":[]}');
