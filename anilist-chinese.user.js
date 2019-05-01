@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2019.4.30
+// @version      2.2019.5.2
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -2925,6 +2925,7 @@ var database = [
 {id:21789,title:"三者三葉 OVA"},
 {id:21790,title:"JOKER GAME 黑貓約魯的冒險"},
 {id:21791,title:"文豪Stray Dogs OVA"},
+{id:21793,title:"陽炎眩亂-in a day's-"},
 {id:21795,title:"Honobono Log"},
 {id:21796,title:"甜甜起司貓 第三季"},
 {id:21797,title:"雨色可可 3"},
@@ -3335,7 +3336,7 @@ var database = [
 {id:99441,title:"オトメ＊ドメイン THE ANIMATION"},
 {id:99457,title:"道別的早晨就用約定之花點綴吧"},
 {id:99468,title:"擅長捉弄人的高木同學"},
-{id:99470,title:"灰色：Phantom Trigger"},
+{id:99470,title:"Grisaia Phantom Trigger"},
 {id:99476,title:"飆速宅男 GLORY LINE"},
 {id:99483,title:"博多豚骨拉麵"},
 {id:99507,title:"龍王的工作！"},
@@ -3430,6 +3431,7 @@ var database = [
 {id:100341,title:"重神機潘多拉"},
 {id:100356,title:"Mutafukaz"},
 {id:100358,title:"TIME DRIVER 我們所描繪的未來"},
+{id:100361,title:"Midnight Crazy Trail"},
 {id:100382,title:"我喜歡的妹妹不是妹妹"},
 {id:100388,title:"BANANA FISH"},
 {id:100397,title:"Cherry & Gal's↑↑"},
@@ -3543,6 +3545,7 @@ var database = [
 {id:101231,title:"詩季織織"},
 {id:101240,title:"dokidokiりとる大家さん"},
 {id:101249,title:"Penguin Highway"},
+{id:101250,title:"妄想學生會 OVA"},
 {id:101261,title:"SARAZANMAI"},
 {id:101267,title:"Cinderella Girls 劇場 3期"},
 {id:101277,title:"溫泉屋小女將"},
@@ -3799,6 +3802,7 @@ var database = [
 {id:108039,title:"Mobile Suit Gundam The Origin 前夜 赤色彗星"},
 {id:108062,title:"我喜歡的妹妹不是妹妹 OVA"},
 {id:108307,title:"PSYCHO-PASS 3"},
+{id:108548,title:"我家的女僕有夠煩！OVA"},
 {id:108625,title:"星光頻道 第二季"}
 ];
 
