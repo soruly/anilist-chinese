@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2019.5.2
+// @version      2.2019.5.11
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -3654,6 +3654,7 @@ var database = [
 {id:102353,title:"GODZILLA 噬星者"},
 {id:102385,title:"狐狸之聲"},
 {id:102436,title:"Strike the Blood III"},
+{id:102632,title:"幻想萬華鏡 ~The Memories Of Phantasm~"},
 {id:102649,title:"PSYCHO-PASS Sinners of the System Case 1 - 罪與罰"},
 {id:102680,title:"天使降臨到我身邊！"},
 {id:102822,title:"閃亂神樂 東京妖魔篇"},

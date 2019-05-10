@@ -3675,6 +3675,7 @@ INSERT INTO `anilist_chinese` VALUES (102352,'{\"title\":{\"chinese\":\"Super Dr
 INSERT INTO `anilist_chinese` VALUES (102353,'{\"title\":{\"chinese\":\"GODZILLA 噬星者\"},\"synonyms_chinese\":[\"哥吉拉 噬星者\"]}');
 INSERT INTO `anilist_chinese` VALUES (102385,'{\"title\":{\"chinese\":\"狐狸之聲\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (102436,'{\"title\":{\"chinese\":\"Strike the Blood III\"},\"synonyms_chinese\":[\"噬血狂襲 III\"]}');
+INSERT INTO `anilist_chinese` VALUES (102632,'{\"title\":{\"chinese\":\"幻想萬華鏡 ~The Memories Of Phantasm~\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (102649,'{\"title\":{\"chinese\":\"PSYCHO-PASS Sinners of the System Case 1 - 罪與罰\"},\"synonyms_chinese\":[\"心靈判官 Sinners of the System Case 1 - 罪與罰\"]}');
 INSERT INTO `anilist_chinese` VALUES (102680,'{\"title\":{\"chinese\":\"天使降臨到我身邊！\"},\"synonyms_chinese\":[\"天使降臨到了我身邊！\"]}');
 INSERT INTO `anilist_chinese` VALUES (102822,'{\"title\":{\"chinese\":\"閃亂神樂 東京妖魔篇\"},\"synonyms_chinese\":[]}');
