@@ -3749,6 +3749,7 @@ INSERT INTO `anilist_chinese` VALUES (104200,'{\"title\":{\"chinese\":\"Pop Team
 INSERT INTO `anilist_chinese` VALUES (104212,'{\"title\":{\"chinese\":\"南無阿彌陀佛！-蓮台 UTENA-\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (104213,'{\"title\":{\"chinese\":\"小松先生劇場版\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (104214,'{\"title\":{\"chinese\":\"Devidol!\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (104217,'{\"title\":{\"chinese\":\"阿宅的戀愛太難 OVA\"},\"synonyms_chinese\":[\"宅男腐女戀愛真難 OVA\"]}');
 INSERT INTO `anilist_chinese` VALUES (104253,'{\"title\":{\"chinese\":\"荒野的壽飛行隊\"},\"synonyms_chinese\":[\"荒野的科特布奇飛行隊\",\"荒野的KOTOBUKI飛行隊\",\"荒野的KOTOBUKI機隊\"]}');
 INSERT INTO `anilist_chinese` VALUES (104278,'{\"title\":{\"chinese\":\"邪神與廚二病少女 ONA\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (104284,'{\"title\":{\"chinese\":\"超可動女孩 1／6\"},\"synonyms_chinese\":[]}');

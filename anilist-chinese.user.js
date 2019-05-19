@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2019.5.11
+// @version      2.2019.5.20
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -3728,6 +3728,7 @@ var database = [
 {id:104212,title:"南無阿彌陀佛！-蓮台 UTENA-"},
 {id:104213,title:"小松先生劇場版"},
 {id:104214,title:"Devidol!"},
+{id:104217,title:"阿宅的戀愛太難 OVA"},
 {id:104253,title:"荒野的壽飛行隊"},
 {id:104278,title:"邪神與廚二病少女 ONA"},
 {id:104284,title:"超可動女孩 1／6"},
