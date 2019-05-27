@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2019.5.20
+// @version      2.2019.5.28
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -3793,6 +3793,7 @@ var database = [
 {id:107076,title:"虜ノ雫 前編 ～夏の豪華客船で穢される処女たち～"},
 {id:107132,title:"三射面談～連鎖する恥辱・調教の学園～"},
 {id:107136,title:"ガキにもどって犯りなおしっ!!!"},
+{id:107138,title:"天使降臨到我身邊！OVA"},
 {id:107313,title:"魯邦三世 峰不二子的謊言"},
 {id:107371,title:"白蛇：緣起"},
 {id:107418,title:"Fairy Gone"},

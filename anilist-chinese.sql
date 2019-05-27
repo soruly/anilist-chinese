@@ -3814,6 +3814,7 @@ INSERT INTO `anilist_chinese` VALUES (107075,'{\"title\":{\"chinese\":\"ヒナ�
 INSERT INTO `anilist_chinese` VALUES (107076,'{\"title\":{\"chinese\":\"虜ノ雫 前編 ～夏の豪華客船で穢される処女たち～\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (107132,'{\"title\":{\"chinese\":\"三射面談～連鎖する恥辱・調教の学園～\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (107136,'{\"title\":{\"chinese\":\"ガキにもどって犯りなおしっ!!!\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (107138,'{\"title\":{\"chinese\":\"天使降臨到我身邊！OVA\"},\"synonyms_chinese\":[\"天使降臨到了我身邊！OVA\"]}');
 INSERT INTO `anilist_chinese` VALUES (107313,'{\"title\":{\"chinese\":\"魯邦三世 峰不二子的謊言\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (107371,'{\"title\":{\"chinese\":\"白蛇：緣起\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (107418,'{\"title\":{\"chinese\":\"Fairy Gone\"},\"synonyms_chinese\":[]}');
