@@ -3821,6 +3821,7 @@ INSERT INTO `anilist_chinese` VALUES (107418,'{\"title\":{\"chinese\":\"Fairy Go
 INSERT INTO `anilist_chinese` VALUES (107444,'{\"title\":{\"chinese\":\"あの団地の妻たちは… The Animation\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (107447,'{\"title\":{\"chinese\":\"星夢學園 Friends! 閃耀的寶石\"},\"synonyms_chinese\":[\"偶像活動 Friends! 閃耀的寶石\",\"偶像學園 Friends! 閃耀的寶石\"]}');
 INSERT INTO `anilist_chinese` VALUES (107535,'{\"title\":{\"chinese\":\"Aikagi The Animation\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (107755,'{\"title\":{\"chinese\":\"美妙天堂&閃亮 美妙☆頻道 閃亮紀念演出\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (107864,'{\"title\":{\"chinese\":\"為了誰的鍊金術師\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (107974,'{\"title\":{\"chinese\":\"洗浴屋先生！～我和那傢伙在女浴池裡！？～\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (108039,'{\"title\":{\"chinese\":\"Mobile Suit Gundam The Origin 前夜 赤色彗星\"},\"synonyms_chinese\":[]}');
