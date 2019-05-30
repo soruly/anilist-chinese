@@ -3569,7 +3569,7 @@ INSERT INTO `anilist_chinese` VALUES (101249,'{\"title\":{\"chinese\":\"Penguin 
 INSERT INTO `anilist_chinese` VALUES (101250,'{\"title\":{\"chinese\":\"妄想學生會 OVA\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (101261,'{\"title\":{\"chinese\":\"SARAZANMAI\"},\"synonyms_chinese\":[\"皿三昧\"]}');
 INSERT INTO `anilist_chinese` VALUES (101267,'{\"title\":{\"chinese\":\"Cinderella Girls 劇場 3期\"},\"synonyms_chinese\":[\"偶像大師 灰姑娘女孩 3期\"]}');
-INSERT INTO `anilist_chinese` VALUES (101277,'{\"title\":{\"chinese\":\"溫泉屋小女將\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (101277,'{\"title\":{\"chinese\":\"溫泉屋小女將\"},\"synonyms_chinese\":[\"溫泉屋少掌櫃\"]}');
 INSERT INTO `anilist_chinese` VALUES (101280,'{\"title\":{\"chinese\":\"關於我轉生變成史萊姆這檔事\"},\"synonyms_chinese\":[\"關於我轉生成為史萊姆的那件事\"]}');
 INSERT INTO `anilist_chinese` VALUES (101281,'{\"title\":{\"chinese\":\"Carole & Tuesday\"},\"synonyms_chinese\":[\"卡羅爾與星期二\",\"卡蘿與特絲緹\"]}');
 INSERT INTO `anilist_chinese` VALUES (101283,'{\"title\":{\"chinese\":\"幻影死神 (2019)\"},\"synonyms_chinese\":[\"死神之謎 (2019)\",\"冷面魅影 (2019)\",\"不吉波普不笑 (2019)\",\"不笑的不吉波普 (2019)\"]}');
@@ -3615,7 +3615,7 @@ INSERT INTO `anilist_chinese` VALUES (101435,'{\"title\":{\"chinese\":\"働く�
 INSERT INTO `anilist_chinese` VALUES (101470,'{\"title\":{\"chinese\":\"學園BASARA\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (101471,'{\"title\":{\"chinese\":\"裝刀凱 2\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (101474,'{\"title\":{\"chinese\":\"Overlord III\"},\"synonyms_chinese\":[]}');
-INSERT INTO `anilist_chinese` VALUES (101478,'{\"title\":{\"chinese\":\"劇場版 溫泉屋小女將！\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (101478,'{\"title\":{\"chinese\":\"劇場版 溫泉屋小女將！\"},\"synonyms_chinese\":[\"劇場版 溫泉屋少掌櫃\"]}');
 INSERT INTO `anilist_chinese` VALUES (101496,'{\"title\":{\"chinese\":\"大好きな母\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (101500,'{\"title\":{\"chinese\":\"Ingress\"},\"synonyms_chinese\":[\"虛擬入口\"]}');
 INSERT INTO `anilist_chinese` VALUES (101501,'{\"title\":{\"chinese\":\"戀愛與謊言 OVA\"},\"synonyms_chinese\":[\"戀愛禁止的世界 OVA\"]}');
