@@ -3442,6 +3442,7 @@ INSERT INTO `anilist_chinese` VALUES (100240,'{\"title\":{\"chinese\":\"東京�
 INSERT INTO `anilist_chinese` VALUES (100245,'{\"title\":{\"chinese\":\"BEATLESS\"},\"synonyms_chinese\":[\"沒有心跳的少女\"]}');
 INSERT INTO `anilist_chinese` VALUES (100248,'{\"title\":{\"chinese\":\"忍者蝙蝠俠\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (100251,'{\"title\":{\"chinese\":\"奴隸區\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (100268,'{\"title\":{\"chinese\":\"劇場版 夏目友人帳 ～緣結空蟬～\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (100269,'{\"title\":{\"chinese\":\"Fate/kaleid liner Prisma☆Illya: Prisma☆Phantasm\"},\"synonyms_chinese\":[\"Fate/kaleid liner 魔法少女☆伊莉雅 Prisma☆Phantasm\"]}');
 INSERT INTO `anilist_chinese` VALUES (100283,'{\"title\":{\"chinese\":\"夏目友人帳 陸 OVA\"},\"synonyms_chinese\":[\"妖怪連絡簿 陸 OVA\"]}');
 INSERT INTO `anilist_chinese` VALUES (100288,'{\"title\":{\"chinese\":\"ジュヴナイルポルノグラフィ THE ANIMATION\"},\"synonyms_chinese\":[]}');

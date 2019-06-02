@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2019.6.2
+// @version      2.2019.6.3
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -3421,6 +3421,7 @@ var database = [
 {id:100245,title:"BEATLESS"},
 {id:100248,title:"忍者蝙蝠俠"},
 {id:100251,title:"奴隸區"},
+{id:100268,title:"劇場版 夏目友人帳 ～緣結空蟬～"},
 {id:100269,title:"Fate/kaleid liner Prisma☆Illya: Prisma☆Phantasm"},
 {id:100283,title:"夏目友人帳 陸 OVA"},
 {id:100288,title:"ジュヴナイルポルノグラフィ THE ANIMATION"},
