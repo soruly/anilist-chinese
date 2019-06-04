@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2019.6.3
+// @version      2.2019.6.5
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -3792,6 +3792,7 @@ var database = [
 {id:107012,title:"Birthday Wonderland"},
 {id:107075,title:"ヒナギクヴァージンロストクラブへようこそ♡"},
 {id:107076,title:"虜ノ雫 前編 ～夏の豪華客船で穢される処女たち～"},
+{id:107131,title:"メガネnoメガミ"},
 {id:107132,title:"三射面談～連鎖する恥辱・調教の学園～"},
 {id:107136,title:"ガキにもどって犯りなおしっ!!!"},
 {id:107138,title:"天使降臨到我身邊！OVA"},
@@ -3806,6 +3807,8 @@ var database = [
 {id:107974,title:"洗浴屋先生！～我和那傢伙在女浴池裡！？～"},
 {id:108039,title:"Mobile Suit Gundam The Origin 前夜 赤色彗星"},
 {id:108062,title:"我喜歡的妹妹不是妹妹 OVA"},
+{id:108113,title:"Master Piece マスターピース THE ANIMATION"},
+{id:108253,title:"姫様LOVEライフ！"},
 {id:108307,title:"PSYCHO-PASS 3"},
 {id:108548,title:"我家的女僕有夠煩！OVA"},
 {id:108625,title:"星光頻道 第二季"},

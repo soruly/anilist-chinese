@@ -3813,6 +3813,7 @@ INSERT INTO `anilist_chinese` VALUES (106967,'{\"title\":{\"chinese\":\"絲襪�
 INSERT INTO `anilist_chinese` VALUES (107012,'{\"title\":{\"chinese\":\"Birthday Wonderland\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (107075,'{\"title\":{\"chinese\":\"ヒナギクヴァージンロストクラブへようこそ♡\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (107076,'{\"title\":{\"chinese\":\"虜ノ雫 前編 ～夏の豪華客船で穢される処女たち～\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (107131,'{\"title\":{\"chinese\":\"メガネnoメガミ\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (107132,'{\"title\":{\"chinese\":\"三射面談～連鎖する恥辱・調教の学園～\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (107136,'{\"title\":{\"chinese\":\"ガキにもどって犯りなおしっ!!!\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (107138,'{\"title\":{\"chinese\":\"天使降臨到我身邊！OVA\"},\"synonyms_chinese\":[\"天使降臨到了我身邊！OVA\"]}');
@@ -3827,6 +3828,8 @@ INSERT INTO `anilist_chinese` VALUES (107864,'{\"title\":{\"chinese\":\"為了�
 INSERT INTO `anilist_chinese` VALUES (107974,'{\"title\":{\"chinese\":\"洗浴屋先生！～我和那傢伙在女浴池裡！？～\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (108039,'{\"title\":{\"chinese\":\"Mobile Suit Gundam The Origin 前夜 赤色彗星\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (108062,'{\"title\":{\"chinese\":\"我喜歡的妹妹不是妹妹 OVA\"},\"synonyms_chinese\":[\"我喜歡的是妹妹而不是妹妹 OVA\",\"我喜歡的是小說裡的你 OVA\"]}');
+INSERT INTO `anilist_chinese` VALUES (108113,'{\"title\":{\"chinese\":\"Master Piece マスターピース THE ANIMATION\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (108253,'{\"title\":{\"chinese\":\"姫様LOVEライフ！\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (108307,'{\"title\":{\"chinese\":\"PSYCHO-PASS 3\"},\"synonyms_chinese\":[\"心靈判官 3\"]}');
 INSERT INTO `anilist_chinese` VALUES (108548,'{\"title\":{\"chinese\":\"我家的女僕有夠煩！OVA\"},\"synonyms_chinese\":[\"我家的女僕太煩人了！OVA\",\"我家女僕超級煩OVA\"]}');
 INSERT INTO `anilist_chinese` VALUES (108625,'{\"title\":{\"chinese\":\"星光頻道 第二季\"},\"synonyms_chinese\":[\"閃亮 美妙☆頻道 第二季\"]}');
