@@ -3419,6 +3419,7 @@ INSERT INTO `anilist_chinese` VALUES (100004,'{\"title\":{\"chinese\":\"さき�
 INSERT INTO `anilist_chinese` VALUES (100006,'{\"title\":{\"chinese\":\"熟女志願～KINBAKU～\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (100009,'{\"title\":{\"chinese\":\"宇宙戰艦提拉米蘇\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (100010,'{\"title\":{\"chinese\":\"魔法少女網站\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (100049,'{\"title\":{\"chinese\":\"Re：從零開始的異世界生活 OVA\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (100077,'{\"title\":{\"chinese\":\"黑社會的超能力女兒\"},\"synonyms_chinese\":[\"極道超女\"]}');
 INSERT INTO `anilist_chinese` VALUES (100083,'{\"title\":{\"chinese\":\"Butlers 千年百年物語\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (100085,'{\"title\":{\"chinese\":\"昴宿七星\"},\"synonyms_chinese\":[\"七星之昴星團\",\"未聞刀劍\"]}');
@@ -3782,6 +3783,7 @@ INSERT INTO `anilist_chinese` VALUES (105387,'{\"title\":{\"chinese\":\"迷你�
 INSERT INTO `anilist_chinese` VALUES (105391,'{\"title\":{\"chinese\":\"一騎當千 Western Wolves\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (105401,'{\"title\":{\"chinese\":\"一人之下 第三季\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (105562,'{\"title\":{\"chinese\":\"Rune\'s Pharmacy\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (105606,'{\"title\":{\"chinese\":\"思春期セックス\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (105655,'{\"title\":{\"chinese\":\"魯邦三世 Goodbye Partner\"},\"synonyms_chinese\":[\"魯邦三世 再見了夥伴\"]}');
 INSERT INTO `anilist_chinese` VALUES (105662,'{\"title\":{\"chinese\":\"工作細胞 SP\"},\"synonyms_chinese\":[\"工作細胞 風邪症候群\"]}');
 INSERT INTO `anilist_chinese` VALUES (105663,'{\"title\":{\"chinese\":\"偵探歌劇 少女福爾摩斯 SP 2018\"},\"synonyms_chinese\":[\"偵探歌劇 少女福爾摩斯 心靈的問候\"]}');
@@ -3830,6 +3832,7 @@ INSERT INTO `anilist_chinese` VALUES (108039,'{\"title\":{\"chinese\":\"Mobile S
 INSERT INTO `anilist_chinese` VALUES (108062,'{\"title\":{\"chinese\":\"我喜歡的妹妹不是妹妹 OVA\"},\"synonyms_chinese\":[\"我喜歡的是妹妹而不是妹妹 OVA\",\"我喜歡的是小說裡的你 OVA\"]}');
 INSERT INTO `anilist_chinese` VALUES (108113,'{\"title\":{\"chinese\":\"Master Piece マスターピース THE ANIMATION\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (108253,'{\"title\":{\"chinese\":\"姫様LOVEライフ！\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (108263,'{\"title\":{\"chinese\":\"自宅警備員 (2019)\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (108307,'{\"title\":{\"chinese\":\"PSYCHO-PASS 3\"},\"synonyms_chinese\":[\"心靈判官 3\"]}');
 INSERT INTO `anilist_chinese` VALUES (108548,'{\"title\":{\"chinese\":\"我家的女僕有夠煩！OVA\"},\"synonyms_chinese\":[\"我家的女僕太煩人了！OVA\",\"我家女僕超級煩OVA\"]}');
 INSERT INTO `anilist_chinese` VALUES (108625,'{\"title\":{\"chinese\":\"星光頻道 第二季\"},\"synonyms_chinese\":[\"閃亮 美妙☆頻道 第二季\"]}');

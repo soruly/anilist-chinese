@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2019.6.5
+// @version      2.2019.6.19
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -3398,6 +3398,7 @@ var database = [
 {id:100006,title:"熟女志願～KINBAKU～"},
 {id:100009,title:"宇宙戰艦提拉米蘇"},
 {id:100010,title:"魔法少女網站"},
+{id:100049,title:"Re：從零開始的異世界生活 OVA"},
 {id:100077,title:"黑社會的超能力女兒"},
 {id:100083,title:"Butlers 千年百年物語"},
 {id:100085,title:"昴宿七星"},
@@ -3761,6 +3762,7 @@ var database = [
 {id:105391,title:"一騎當千 Western Wolves"},
 {id:105401,title:"一人之下 第三季"},
 {id:105562,title:"Rune's Pharmacy"},
+{id:105606,title:"思春期セックス"},
 {id:105655,title:"魯邦三世 Goodbye Partner"},
 {id:105662,title:"工作細胞 SP"},
 {id:105663,title:"偵探歌劇 少女福爾摩斯 SP 2018"},
@@ -3809,6 +3811,7 @@ var database = [
 {id:108062,title:"我喜歡的妹妹不是妹妹 OVA"},
 {id:108113,title:"Master Piece マスターピース THE ANIMATION"},
 {id:108253,title:"姫様LOVEライフ！"},
+{id:108263,title:"自宅警備員 (2019)"},
 {id:108307,title:"PSYCHO-PASS 3"},
 {id:108548,title:"我家的女僕有夠煩！OVA"},
 {id:108625,title:"星光頻道 第二季"},
