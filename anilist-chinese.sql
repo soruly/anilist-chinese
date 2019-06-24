@@ -3834,8 +3834,10 @@ INSERT INTO `anilist_chinese` VALUES (108113,'{\"title\":{\"chinese\":\"Master P
 INSERT INTO `anilist_chinese` VALUES (108253,'{\"title\":{\"chinese\":\"姫様LOVEライフ！\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (108263,'{\"title\":{\"chinese\":\"自宅警備員 (2019)\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (108307,'{\"title\":{\"chinese\":\"PSYCHO-PASS 3\"},\"synonyms_chinese\":[\"心靈判官 3\"]}');
+INSERT INTO `anilist_chinese` VALUES (108411,'{\"title\":{\"chinese\":\"桜宮姉妹のネトラレ記録\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (108548,'{\"title\":{\"chinese\":\"我家的女僕有夠煩！OVA\"},\"synonyms_chinese\":[\"我家的女僕太煩人了！OVA\",\"我家女僕超級煩OVA\"]}');
 INSERT INTO `anilist_chinese` VALUES (108625,'{\"title\":{\"chinese\":\"星光頻道 第二季\"},\"synonyms_chinese\":[\"閃亮 美妙☆頻道 第二季\"]}');
+INSERT INTO `anilist_chinese` VALUES (109085,'{\"title\":{\"chinese\":\"工作細胞 SP\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (109304,'{\"title\":{\"chinese\":\"女魔王メリッサのHな冒険記～精液を集めるエロ魔王～\"},\"synonyms_chinese\":[]}');
 /*!40000 ALTER TABLE `anilist_chinese` ENABLE KEYS */;
 UNLOCK TABLES;

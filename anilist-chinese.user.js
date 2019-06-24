@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2019.6.19
+// @version      2.2019.6.25
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -3813,8 +3813,10 @@ var database = [
 {id:108253,title:"姫様LOVEライフ！"},
 {id:108263,title:"自宅警備員 (2019)"},
 {id:108307,title:"PSYCHO-PASS 3"},
+{id:108411,title:"桜宮姉妹のネトラレ記録"},
 {id:108548,title:"我家的女僕有夠煩！OVA"},
 {id:108625,title:"星光頻道 第二季"},
+{id:109085,title:"工作細胞 SP"},
 {id:109304,title:"女魔王メリッサのHな冒険記～精液を集めるエロ魔王～"}
 ];
 
