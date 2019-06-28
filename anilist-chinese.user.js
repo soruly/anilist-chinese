@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2019.6.25
+// @version      2.2019.6.29
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -3789,6 +3789,7 @@ var database = [
 {id:106579,title:"ビッチ学園が清純なはずがないっ！！？ The Animation"},
 {id:106690,title:"DOUBLE DECKER! EXTRA"},
 {id:106862,title:"艾梅洛閣下II世事件簿 -魔眼蒐集列車 Grace note- 守墓人與貓與魔術師"},
+{id:106896,title:"Persona 5 The Animation Stars and Ours"},
 {id:106918,title:"艾梅洛閣下II世事件簿 -魔眼蒐集列車 Grace note-"},
 {id:106967,title:"絲襪視界"},
 {id:107012,title:"Birthday Wonderland"},

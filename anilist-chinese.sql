@@ -3810,6 +3810,7 @@ INSERT INTO `anilist_chinese` VALUES (106578,'{\"title\":{\"chinese\":\"性活�
 INSERT INTO `anilist_chinese` VALUES (106579,'{\"title\":{\"chinese\":\"ビッチ学園が清純なはずがないっ！！？ The Animation\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (106690,'{\"title\":{\"chinese\":\"DOUBLE DECKER! EXTRA\"},\"synonyms_chinese\":[\"道格&基里爾 EXTRA\"]}');
 INSERT INTO `anilist_chinese` VALUES (106862,'{\"title\":{\"chinese\":\"艾梅洛閣下II世事件簿 -魔眼蒐集列車 Grace note- 守墓人與貓與魔術師\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (106896,'{\"title\":{\"chinese\":\"Persona 5 The Animation Stars and Ours\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (106918,'{\"title\":{\"chinese\":\"艾梅洛閣下II世事件簿 -魔眼蒐集列車 Grace note-\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (106967,'{\"title\":{\"chinese\":\"絲襪視界\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (107012,'{\"title\":{\"chinese\":\"Birthday Wonderland\"},\"synonyms_chinese\":[]}');
