@@ -3566,7 +3566,7 @@ INSERT INTO `anilist_chinese` VALUES (101126,'{\"title\":{\"chinese\":\"劇場�
 INSERT INTO `anilist_chinese` VALUES (101160,'{\"title\":{\"chinese\":\"甜蜜懲罰～我是看守專用寵物\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (101161,'{\"title\":{\"chinese\":\"中間管理錄利根川\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (101165,'{\"title\":{\"chinese\":\"哥布林殺手\"},\"synonyms_chinese\":[]}');
-INSERT INTO `anilist_chinese` VALUES (101166,'{\"title\":{\"chinese\":\"在地下城尋求邂逅是否搞錯了什麼 ─ 獵戶座之箭 ─\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (101166,'{\"title\":{\"chinese\":\"在地下城尋求邂逅是否搞錯了什麼 ─ 獵戶座之箭 ─\"},\"synonyms_chinese\":[\"劇場版 在地下城尋求邂逅是否搞錯了什麼：俄里翁之箭\"]}');
 INSERT INTO `anilist_chinese` VALUES (101167,'{\"title\":{\"chinese\":\"在地下城尋求邂逅是否搞錯了什麼 2\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (101210,'{\"title\":{\"chinese\":\"妹ぱらだいす！3 The Animation\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (101213,'{\"title\":{\"chinese\":\"政宗君的復仇 OVA\"},\"synonyms_chinese\":[]}');
