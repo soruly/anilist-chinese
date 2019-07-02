@@ -4,9 +4,9 @@
   "description": "Tampermonkey extension to translate anilist titles to chinese",
   "main": "anilist-chinese.user.js",
   "scripts": {
-    "format": "prettier --write \"**/*.js\"",
-    "lint": "prettier --check \"**/*.js\"",
-    "test": "prettier --check \"**/*.js\""
+    "format": "prettier --write build.js template.js",
+    "lint": "prettier --check build.js template.js",
+    "test": "prettier --check build.js template.js"
   },
   "repository": {
     "type": "git",
