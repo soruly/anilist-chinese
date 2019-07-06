@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2019.7.2
+// @version      2.2019.7.7
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -2454,6 +2454,7 @@ var database = [
 {id:21116,title:"Valkyrie Drive Mermaid"},
 {id:21117,title:"肉牝R30 ~肉欲に堕ちた牝たち~ THE ANIMATION"},
 {id:21118,title:"高校星歌劇"},
+{id:21120,title:"排球少年劇場版 結束與開始"},
 {id:21121,title:"電影 Happiness Charge 光之美少女！ 人偶之國的芭蕾舞女"},
 {id:21123,title:"漂流武士"},
 {id:21126,title:"Chaos;Child"},
@@ -2548,7 +2549,7 @@ var database = [
 {id:21241,title:"潮與虎 2"},
 {id:21242,title:"初戀Monster"},
 {id:21243,title:"小森拒絕不了！"},
-{id:21244,title:"排球少年 劇場版 勝者與敗者"},
+{id:21244,title:"排球少年劇場版 勝者與敗者"},
 {id:21246,title:"溫泉幼精小箱根"},
 {id:21247,title:"新妹魔王的契約者 OVA"},
 {id:21248,title:"Persona 3 the Movie 4 Winter of Rebirth"},
@@ -3302,6 +3303,8 @@ var database = [
 {id:98868,title:"登山物語 回憶的禮物"},
 {id:98876,title:"劇場版 吹響！上低音號 ～想要傳達的旋律～"},
 {id:98878,title:"第一次的辣妹 OVA"},
+{id:98884,title:"排球少年劇場版 才能與感覺"},
+{id:98885,title:"排球少年劇場版 觀念之戰"},
 {id:98897,title:"A-Channel 吃火煱吧"},
 {id:98951,title:"我的女友是個過度認真的處女 bitch"},
 {id:98959,title:"來自貓咪的團團幸福"},
@@ -3664,9 +3667,13 @@ var database = [
 {id:102353,title:"GODZILLA 噬星者"},
 {id:102385,title:"狐狸之聲"},
 {id:102436,title:"Strike the Blood III"},
+{id:102561,title:"畫江湖之不良人"},
+{id:102562,title:"畫江湖之不良人 第二季"},
 {id:102632,title:"幻想萬華鏡 ~The Memories Of Phantasm~"},
 {id:102649,title:"PSYCHO-PASS Sinners of the System Case 1 - 罪與罰"},
 {id:102680,title:"天使降臨到我身邊！"},
+{id:102775,title:"納米核心"},
+{id:102776,title:"納米核心 第二季"},
 {id:102822,title:"閃亂神樂 東京妖魔篇"},
 {id:102835,title:"Revisions"},
 {id:102860,title:"蒼天之拳 REGENESIS 2"},
@@ -3805,6 +3812,7 @@ var database = [
 {id:106571,title:"火之鳥 道後温泉編"},
 {id:106578,title:"性活週間 THE ANIMATION"},
 {id:106579,title:"ビッチ学園が清純なはずがないっ！！？ The Animation"},
+{id:106625,title:"排球少年 4"},
 {id:106690,title:"DOUBLE DECKER! EXTRA"},
 {id:106862,title:"艾梅洛閣下II世事件簿 -魔眼蒐集列車 Grace note- 守墓人與貓與魔術師"},
 {id:106893,title:"Cop Craft"},
@@ -3822,6 +3830,7 @@ var database = [
 {id:107138,title:"天使降臨到我身邊！OVA"},
 {id:107226,title:"流汗吧！健身少女"},
 {id:107313,title:"魯邦三世 峰不二子的謊言"},
+{id:107351,title:"排球少年 特集 賭在春高上的青春"},
 {id:107371,title:"白蛇：緣起"},
 {id:107418,title:"Fairy Gone"},
 {id:107444,title:"あの団地の妻たちは… The Animation"},
