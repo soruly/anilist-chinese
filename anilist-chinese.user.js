@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2019.7.7
+// @version      2.2019.7.8
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -872,6 +872,7 @@ var database = [
 {id:3784,title:"新世紀福音戰士 新劇場版：破"},
 {id:3785,title:"新世紀福音戰士 新劇場版：Q"},
 {id:3786,title:"新世紀福音戰士 新劇場版：│▌"},
+{id:3805,title:"快盜天使雙胞胎 OVA"},
 {id:3818,title:"飛天都市計劃"},
 {id:3820,title:"Space Station No. 9"},
 {id:3821,title:"Portable Airport"},
@@ -1367,6 +1368,7 @@ var database = [
 {id:9996,title:"戰國鬼才傳"},
 {id:9999,title:"ONE PIECE 3D 追逐草帽大冒險"},
 {id:10012,title:"幻想嘉年華"},
+{id:10017,title:""},
 {id:10029,title:"紅花坂上的海"},
 {id:10030,title:"爆漫。2"},
 {id:10033,title:"美食的俘虜"},
@@ -1926,6 +1928,7 @@ var database = [
 {id:18139,title:"鄰座同學是怪咖"},
 {id:18151,title:"催眠術ZERO"},
 {id:18153,title:"境界的彼方"},
+{id:18155,title:"LINE TOWN"},
 {id:18179,title:"飆速宅男"},
 {id:18195,title:"Little Busters! ~Refrain~"},
 {id:18229,title:"科學小飛俠 Crowds"},
@@ -2555,6 +2558,7 @@ var database = [
 {id:21248,title:"Persona 3 the Movie 4 Winter of Rebirth"},
 {id:21249,title:"Concrete Revolutio 超人幻想"},
 {id:21250,title:"ClassicaLoid"},
+{id:21255,title:"吹響！上低音號 SP"},
 {id:21256,title:"Dimension W"},
 {id:21257,title:"鬼父 Refresh"},
 {id:21258,title:"赤髮白雪姬 2"},
@@ -2664,6 +2668,7 @@ var database = [
 {id:21409,title:"KING OF PRISM by PrettyRhythm"},
 {id:21410,title:"發條精靈戰記 天鏡的極北之星"},
 {id:21414,title:"青春 x 機關鎗"},
+{id:21416,title:"一拳超人 OVA"},
 {id:21417,title:"Active Raid 機動強襲室第八課"},
 {id:21419,title:"私が虜になって犯る"},
 {id:21420,title:"螺旋遡行のディストピア"},
@@ -3283,6 +3288,7 @@ var database = [
 {id:98702,title:"食戟之靈 貳之皿 OVA"},
 {id:98707,title:"寶石之國"},
 {id:98715,title:"美男戰國◆跨越時空的戀情"},
+{id:98746,title:"魔法使 光之美少女！奇跡的變身！莫夫倫天使！"},
 {id:98747,title:"刀使之巫女"},
 {id:98762,title:"中二病也要談戀愛！ -Take On Me-"},
 {id:98766,title:"炎の孕ませおっぱい★エロアプリ学園 THE ANIMATION"},
@@ -3656,6 +3662,7 @@ var database = [
 {id:101985,title:"告訴我吧魔法靈擺～莉露莉露Fairilu～"},
 {id:102004,title:"陰陽師：平安物語"},
 {id:102064,title:"八十龜醬觀察日記"},
+{id:102093,title:"黑子的籃球 Winter Cup 總集篇 ～影與光～"},
 {id:102313,title:"はさんであげる♡"},
 {id:102346,title:"K SEVEN STORIES SIDE：BLUE ～猶如天狼～"},
 {id:102347,title:"K SEVEN STORIES SIDE：GREEN ～覆寫世界～"},
