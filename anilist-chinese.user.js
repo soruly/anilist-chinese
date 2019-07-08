@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2019.7.8
+// @version      2.2019.7.9
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -3815,6 +3815,7 @@ var database = [
 {id:106322,title:"故に人妻は寝取られた。"},
 {id:106433,title:"虛擬小姐在看著你"},
 {id:106508,title:"Fight League: Gear Gadget Generators"},
+{id:106509,title:"關於我轉生變成史萊姆這檔事 OVA"},
 {id:106568,title:"BAKUMATSU Crisis"},
 {id:106571,title:"火之鳥 道後温泉編"},
 {id:106578,title:"性活週間 THE ANIMATION"},
