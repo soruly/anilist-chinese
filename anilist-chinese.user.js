@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2019.7.9
+// @version      2.2019.7.12
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -3760,6 +3760,7 @@ var database = [
 {id:104278,title:"邪神與廚二病少女 ONA"},
 {id:104284,title:"超可動女孩 1／6"},
 {id:104286,title:"劇場版 王室教師海涅"},
+{id:104291,title:"修業魔女璐璐萌 OVA"},
 {id:104306,title:"一日外出錄班長"},
 {id:104308,title:"大人的防具店"},
 {id:104325,title:"為什麼老師會在這裡！？"},

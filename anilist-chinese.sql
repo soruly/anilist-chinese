@@ -3776,11 +3776,12 @@ INSERT INTO `anilist_chinese` VALUES (104212,'{\"title\":{\"chinese\":\"南無�
 INSERT INTO `anilist_chinese` VALUES (104213,'{\"title\":{\"chinese\":\"小松先生劇場版\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (104214,'{\"title\":{\"chinese\":\"Devidol!\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (104217,'{\"title\":{\"chinese\":\"阿宅的戀愛太難 OVA\"},\"synonyms_chinese\":[\"宅男腐女戀愛真難 OVA\"]}');
-INSERT INTO `anilist_chinese` VALUES (104252,'{\"title\":{\"chinese\":\"魔王大人、RETRY！\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (104252,'{\"title\":{\"chinese\":\"魔王大人、RETRY！\"},\"synonyms_chinese\":[\"重來吧，魔王大人！\"]}');
 INSERT INTO `anilist_chinese` VALUES (104253,'{\"title\":{\"chinese\":\"荒野的壽飛行隊\"},\"synonyms_chinese\":[\"荒野的科特布奇飛行隊\",\"荒野的KOTOBUKI飛行隊\",\"荒野的KOTOBUKI機隊\"]}');
 INSERT INTO `anilist_chinese` VALUES (104278,'{\"title\":{\"chinese\":\"邪神與廚二病少女 ONA\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (104284,'{\"title\":{\"chinese\":\"超可動女孩 1／6\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (104286,'{\"title\":{\"chinese\":\"劇場版 王室教師海涅\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (104291,'{\"title\":{\"chinese\":\"修業魔女璐璐萌 OVA\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (104306,'{\"title\":{\"chinese\":\"一日外出錄班長\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (104308,'{\"title\":{\"chinese\":\"大人的防具店\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (104325,'{\"title\":{\"chinese\":\"為什麼老師會在這裡！？\"},\"synonyms_chinese\":[]}');
