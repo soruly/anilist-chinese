@@ -3887,7 +3887,9 @@ INSERT INTO `anilist_chinese` VALUES (108411,'{\"title\":{\"chinese\":\"桜宮�
 INSERT INTO `anilist_chinese` VALUES (108430,'{\"title\":{\"chinese\":\"Given\"},\"synonyms_chinese\":[\"GIVEN 被贈與的未來\"]}');
 INSERT INTO `anilist_chinese` VALUES (108548,'{\"title\":{\"chinese\":\"我家的女僕有夠煩！OVA\"},\"synonyms_chinese\":[\"我家的女僕太煩人了！OVA\",\"我家女僕超級煩OVA\"]}');
 INSERT INTO `anilist_chinese` VALUES (108625,'{\"title\":{\"chinese\":\"星光頻道 第二季\"},\"synonyms_chinese\":[\"閃亮 美妙☆頻道 第二季\"]}');
+INSERT INTO `anilist_chinese` VALUES (108742,'{\"title\":{\"chinese\":\"てにおはっ！2 ～ねぇ、もっとえっちなコトいっぱいしよ？～ THE ANIMATION\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (108758,'{\"title\":{\"chinese\":\"超次元戰記 戰機少女 涅普的暑假\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (108859,'{\"title\":{\"chinese\":\"灼炎のエリス\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (109085,'{\"title\":{\"chinese\":\"工作細胞 SP\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (109304,'{\"title\":{\"chinese\":\"女魔王メリッサのHな冒険記～精液を集めるエロ魔王～\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (109603,'{\"title\":{\"chinese\":\"闇芝居 7\"},\"synonyms_chinese\":[]}');

@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2019.7.12
+// @version      2.2019.7.15
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -3866,7 +3866,9 @@ var database = [
 {id:108430,title:"Given"},
 {id:108548,title:"我家的女僕有夠煩！OVA"},
 {id:108625,title:"星光頻道 第二季"},
+{id:108742,title:"てにおはっ！2 ～ねぇ、もっとえっちなコトいっぱいしよ？～ THE ANIMATION"},
 {id:108758,title:"超次元戰記 戰機少女 涅普的暑假"},
+{id:108859,title:"灼炎のエリス"},
 {id:109085,title:"工作細胞 SP"},
 {id:109304,title:"女魔王メリッサのHな冒険記～精液を集めるエロ魔王～"},
 {id:109603,title:"闇芝居 7"},
