@@ -3877,6 +3877,7 @@ INSERT INTO `anilist_chinese` VALUES (107961,'{\"title\":{\"chinese\":\"只要�
 INSERT INTO `anilist_chinese` VALUES (107974,'{\"title\":{\"chinese\":\"洗浴屋先生！～我和那傢伙在女浴池裡！？～\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (108039,'{\"title\":{\"chinese\":\"Mobile Suit Gundam The Origin 前夜 赤色彗星\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (108062,'{\"title\":{\"chinese\":\"我喜歡的妹妹不是妹妹 OVA\"},\"synonyms_chinese\":[\"我喜歡的是妹妹而不是妹妹 OVA\",\"我喜歡的是小說裡的你 OVA\"]}');
+INSERT INTO `anilist_chinese` VALUES (108064,'{\"title\":{\"chinese\":\"少女教育RE\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (108111,'{\"title\":{\"chinese\":\"你遭難了嗎？\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (108113,'{\"title\":{\"chinese\":\"Master Piece マスターピース THE ANIMATION\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (108147,'{\"title\":{\"chinese\":\"Granbelm\"},\"synonyms_chinese\":[]}');
@@ -3884,6 +3885,7 @@ INSERT INTO `anilist_chinese` VALUES (108253,'{\"title\":{\"chinese\":\"姫様LO
 INSERT INTO `anilist_chinese` VALUES (108263,'{\"title\":{\"chinese\":\"自宅警備員 (2019)\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (108307,'{\"title\":{\"chinese\":\"PSYCHO-PASS 3\"},\"synonyms_chinese\":[\"心靈判官 3\"]}');
 INSERT INTO `anilist_chinese` VALUES (108411,'{\"title\":{\"chinese\":\"桜宮姉妹のネトラレ記録\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (108413,'{\"title\":{\"chinese\":\"エッチなお姉ちゃんに搾られたい\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (108430,'{\"title\":{\"chinese\":\"Given\"},\"synonyms_chinese\":[\"GIVEN 被贈與的未來\"]}');
 INSERT INTO `anilist_chinese` VALUES (108548,'{\"title\":{\"chinese\":\"我家的女僕有夠煩！OVA\"},\"synonyms_chinese\":[\"我家的女僕太煩人了！OVA\",\"我家女僕超級煩OVA\"]}');
 INSERT INTO `anilist_chinese` VALUES (108625,'{\"title\":{\"chinese\":\"星光頻道 第二季\"},\"synonyms_chinese\":[\"閃亮 美妙☆頻道 第二季\"]}');

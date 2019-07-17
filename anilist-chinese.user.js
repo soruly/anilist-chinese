@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2019.7.15
+// @version      2.2019.7.18
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -3856,6 +3856,7 @@ var database = [
 {id:107974,title:"洗浴屋先生！～我和那傢伙在女浴池裡！？～"},
 {id:108039,title:"Mobile Suit Gundam The Origin 前夜 赤色彗星"},
 {id:108062,title:"我喜歡的妹妹不是妹妹 OVA"},
+{id:108064,title:"少女教育RE"},
 {id:108111,title:"你遭難了嗎？"},
 {id:108113,title:"Master Piece マスターピース THE ANIMATION"},
 {id:108147,title:"Granbelm"},
@@ -3863,6 +3864,7 @@ var database = [
 {id:108263,title:"自宅警備員 (2019)"},
 {id:108307,title:"PSYCHO-PASS 3"},
 {id:108411,title:"桜宮姉妹のネトラレ記録"},
+{id:108413,title:"エッチなお姉ちゃんに搾られたい"},
 {id:108430,title:"Given"},
 {id:108548,title:"我家的女僕有夠煩！OVA"},
 {id:108625,title:"星光頻道 第二季"},
