@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2019.7.18
+// @version      2.2019.7.28
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -3521,6 +3521,7 @@ var database = [
 {id:100922,title:"Grand Blue"},
 {id:100923,title:"催眠☆学園"},
 {id:100957,title:"魯邦三世 PART 5"},
+{id:100965,title:"Love Live! Sunshine!! The School Idol Movie Over the Rainbow"},
 {id:100966,title:"信長的忍者 ～姊川・石山篇～"},
 {id:100977,title:"工作細胞"},
 {id:100978,title:"鬼太郎 (2018)"},

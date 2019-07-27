@@ -3542,6 +3542,7 @@ INSERT INTO `anilist_chinese` VALUES (100912,'{\"title\":{\"chinese\":\"泥鯨�
 INSERT INTO `anilist_chinese` VALUES (100922,'{\"title\":{\"chinese\":\"Grand Blue\"},\"synonyms_chinese\":[\"碧藍之海\"]}');
 INSERT INTO `anilist_chinese` VALUES (100923,'{\"title\":{\"chinese\":\"催眠☆学園\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (100957,'{\"title\":{\"chinese\":\"魯邦三世 PART 5\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (100965,'{\"title\":{\"chinese\":\"Love Live! Sunshine!! The School Idol Movie Over the Rainbow\"},\"synonyms_chinese\":[\"明星學生妹 Sunshine!! The School Idol Movie Over the Rainbow\",\"學園偶像祭 Sunshine!! The School Idol Movie Over the Rainbow\"]}');
 INSERT INTO `anilist_chinese` VALUES (100966,'{\"title\":{\"chinese\":\"信長的忍者 ～姊川・石山篇～\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (100977,'{\"title\":{\"chinese\":\"工作細胞\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (100978,'{\"title\":{\"chinese\":\"鬼太郎 (2018)\"},\"synonyms_chinese\":[]}');
