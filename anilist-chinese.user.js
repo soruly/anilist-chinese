@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2019.7.28
+// @version      2.2019.8.1
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -3771,6 +3771,7 @@ var database = [
 {id:104454,title:"異世界四重奏"},
 {id:104463,title:"科學一方通行"},
 {id:104530,title:"品酒要在成為夫妻後 OVA"},
+{id:104562,title:"相對世界。明日終結？"},
 {id:104578,title:"進擊的巨人 3"},
 {id:104580,title:"齊木楠雄的災難 完結篇"},
 {id:104674,title:"笑容的代價"},
@@ -3873,6 +3874,8 @@ var database = [
 {id:108758,title:"超次元戰記 戰機少女 涅普的暑假"},
 {id:108859,title:"灼炎のエリス"},
 {id:109085,title:"工作細胞 SP"},
+{id:109299,title:"堕ちモノRPG 聖騎士ルヴィリアス"},
+{id:109300,title:"そしてわたしはおじさんに……"},
 {id:109304,title:"女魔王メリッサのHな冒険記～精液を集めるエロ魔王～"},
 {id:109603,title:"闇芝居 7"},
 {id:109621,title:"從指尖開始的熱情 青梅竹馬是消防員"}

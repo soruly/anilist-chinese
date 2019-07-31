@@ -3792,6 +3792,7 @@ INSERT INTO `anilist_chinese` VALUES (104451,'{\"title\":{\"chinese\":\"催眠�
 INSERT INTO `anilist_chinese` VALUES (104454,'{\"title\":{\"chinese\":\"異世界四重奏\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (104463,'{\"title\":{\"chinese\":\"科學一方通行\"},\"synonyms_chinese\":[\"魔法禁書目錄外傳 科學一方通行\"]}');
 INSERT INTO `anilist_chinese` VALUES (104530,'{\"title\":{\"chinese\":\"品酒要在成為夫妻後 OVA\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (104562,'{\"title\":{\"chinese\":\"相對世界。明日終結？\"},\"synonyms_chinese\":[\"就算世界明天終結\",\"即使明天世界將迎來終結\"]}');
 INSERT INTO `anilist_chinese` VALUES (104578,'{\"title\":{\"chinese\":\"進擊的巨人 3\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (104580,'{\"title\":{\"chinese\":\"齊木楠雄的災難 完結篇\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (104674,'{\"title\":{\"chinese\":\"笑容的代價\"},\"synonyms_chinese\":[]}');
@@ -3894,6 +3895,8 @@ INSERT INTO `anilist_chinese` VALUES (108742,'{\"title\":{\"chinese\":\"てに�
 INSERT INTO `anilist_chinese` VALUES (108758,'{\"title\":{\"chinese\":\"超次元戰記 戰機少女 涅普的暑假\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (108859,'{\"title\":{\"chinese\":\"灼炎のエリス\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (109085,'{\"title\":{\"chinese\":\"工作細胞 SP\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (109299,'{\"title\":{\"chinese\":\"堕ちモノRPG 聖騎士ルヴィリアス\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (109300,'{\"title\":{\"chinese\":\"そしてわたしはおじさんに……\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (109304,'{\"title\":{\"chinese\":\"女魔王メリッサのHな冒険記～精液を集めるエロ魔王～\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (109603,'{\"title\":{\"chinese\":\"闇芝居 7\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (109621,'{\"title\":{\"chinese\":\"從指尖開始的熱情 青梅竹馬是消防員\"},\"synonyms_chinese\":[]}');
