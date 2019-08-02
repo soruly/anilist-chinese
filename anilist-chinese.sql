@@ -3900,6 +3900,7 @@ INSERT INTO `anilist_chinese` VALUES (109300,'{\"title\":{\"chinese\":\"そし�
 INSERT INTO `anilist_chinese` VALUES (109304,'{\"title\":{\"chinese\":\"女魔王メリッサのHな冒険記～精液を集めるエロ魔王～\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (109603,'{\"title\":{\"chinese\":\"闇芝居 7\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (109621,'{\"title\":{\"chinese\":\"從指尖開始的熱情 青梅竹馬是消防員\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (110736,'{\"title\":{\"chinese\":\"苗床デモンズグラウンド～奈落の孕姫～\"},\"synonyms_chinese\":[]}');
 /*!40000 ALTER TABLE `anilist_chinese` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
