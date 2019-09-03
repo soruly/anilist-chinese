@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2019.8.22
+// @version      2.2019.9.4
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -3877,6 +3877,7 @@ var database = [
 {id:109299,title:"堕ちモノRPG 聖騎士ルヴィリアス"},
 {id:109300,title:"そしてわたしはおじさんに……"},
 {id:109304,title:"女魔王メリッサのHな冒険記～精液を集めるエロ魔王～"},
+{id:109382,title:"僕と先生と友達のママ"},
 {id:109603,title:"闇芝居 7"},
 {id:109621,title:"從指尖開始的熱情 青梅竹馬是消防員"},
 {id:109670,title:"K Seven Stories - The Idol K"},

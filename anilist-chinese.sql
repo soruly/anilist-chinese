@@ -3898,6 +3898,7 @@ INSERT INTO `anilist_chinese` VALUES (109085,'{\"title\":{\"chinese\":\"工作�
 INSERT INTO `anilist_chinese` VALUES (109299,'{\"title\":{\"chinese\":\"堕ちモノRPG 聖騎士ルヴィリアス\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (109300,'{\"title\":{\"chinese\":\"そしてわたしはおじさんに……\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (109304,'{\"title\":{\"chinese\":\"女魔王メリッサのHな冒険記～精液を集めるエロ魔王～\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (109382,'{\"title\":{\"chinese\":\"僕と先生と友達のママ\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (109603,'{\"title\":{\"chinese\":\"闇芝居 7\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (109621,'{\"title\":{\"chinese\":\"從指尖開始的熱情 青梅竹馬是消防員\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (109670,'{\"title\":{\"chinese\":\"K Seven Stories - The Idol K\"},\"synonyms_chinese\":[]}');
