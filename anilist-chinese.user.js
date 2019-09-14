@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2019.9.4
+// @version      2.2019.9.15
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -884,6 +884,7 @@ var database = [
 {id:3963,title:"Turn A Gundam"},
 {id:3964,title:"Turn A Gundam"},
 {id:3974,title:"鐵腕巴蒂"},
+{id:3980,title:"靡・淫導師 美傀 -淫辱の学園-"},
 {id:4015,title:"School Rumble 三學期"},
 {id:4027,title:"魔界天使ジブリール episode2"},
 {id:4028,title:"Slayers Revolution"},
@@ -3661,6 +3662,7 @@ var database = [
 {id:101972,title:"魔道袓師"},
 {id:101981,title:"天降女子!~女孩子從2樓…掉了下來！ ？"},
 {id:101985,title:"告訴我吧魔法靈擺～莉露莉露Fairilu～"},
+{id:101992,title:"吹響吧！上低音號 ~誓言的終章~"},
 {id:102004,title:"陰陽師：平安物語"},
 {id:102064,title:"八十龜醬觀察日記"},
 {id:102093,title:"黑子的籃球 Winter Cup 總集篇 ～影與光～"},
@@ -3877,6 +3879,7 @@ var database = [
 {id:109299,title:"堕ちモノRPG 聖騎士ルヴィリアス"},
 {id:109300,title:"そしてわたしはおじさんに……"},
 {id:109304,title:"女魔王メリッサのHな冒険記～精液を集めるエロ魔王～"},
+{id:109326,title:"じょしラク！"},
 {id:109382,title:"僕と先生と友達のママ"},
 {id:109603,title:"闇芝居 7"},
 {id:109621,title:"從指尖開始的熱情 青梅竹馬是消防員"},
