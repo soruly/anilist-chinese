@@ -3907,6 +3907,7 @@ INSERT INTO `anilist_chinese` VALUES (109621,'{\"title\":{\"chinese\":\"從指�
 INSERT INTO `anilist_chinese` VALUES (109670,'{\"title\":{\"chinese\":\"K Seven Stories - The Idol K\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (110736,'{\"title\":{\"chinese\":\"苗床デモンズグラウンド～奈落の孕姫～\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (110851,'{\"title\":{\"chinese\":\"Fate/Grand Order - 絕對魔獸戰線巴比倫尼亞 - Initium Iter\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (111188,'{\"title\":{\"chinese\":\"素晴らしき国家の築き方\"},\"synonyms_chinese\":[]}');
 /*!40000 ALTER TABLE `anilist_chinese` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;

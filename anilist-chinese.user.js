@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2019.9.15
+// @version      2.2019.9.17
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -3885,7 +3885,8 @@ var database = [
 {id:109621,title:"從指尖開始的熱情 青梅竹馬是消防員"},
 {id:109670,title:"K Seven Stories - The Idol K"},
 {id:110736,title:"苗床デモンズグラウンド～奈落の孕姫～"},
-{id:110851,title:"Fate/Grand Order - 絕對魔獸戰線巴比倫尼亞 - Initium Iter"}
+{id:110851,title:"Fate/Grand Order - 絕對魔獸戰線巴比倫尼亞 - Initium Iter"},
+{id:111188,title:"素晴らしき国家の築き方"}
 ];
 
 var updating;
