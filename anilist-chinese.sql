@@ -3774,6 +3774,7 @@ INSERT INTO `anilist_chinese` VALUES (104160,'{\"title\":{\"chinese\":\"一人�
 INSERT INTO `anilist_chinese` VALUES (104170,'{\"title\":{\"chinese\":\"來玩遊戲吧 OVA\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (104174,'{\"title\":{\"chinese\":\"Steins;Gate 0 Special\"},\"synonyms_chinese\":[\"命運石之門 0 Special\",\"史塔斯閘門 0 Special\",\"斯坦因之門 0 Special\",\"石頭門 0 Special\",\"黑曜石之門 0 Special\"]}');
 INSERT INTO `anilist_chinese` VALUES (104175,'{\"title\":{\"chinese\":\"七大罪 戒律的復活 OVA\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (104199,'{\"title\":{\"chinese\":\"請問您今天要來點兔子嗎？？~Sing For You~\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (104200,'{\"title\":{\"chinese\":\"Pop Team Epic 第13話\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (104212,'{\"title\":{\"chinese\":\"南無阿彌陀佛！-蓮台 UTENA-\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (104213,'{\"title\":{\"chinese\":\"小松先生劇場版\"},\"synonyms_chinese\":[]}');
@@ -3848,6 +3849,7 @@ INSERT INTO `anilist_chinese` VALUES (106578,'{\"title\":{\"chinese\":\"性活�
 INSERT INTO `anilist_chinese` VALUES (106579,'{\"title\":{\"chinese\":\"ビッチ学園が清純なはずがないっ！！？ The Animation\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (106625,'{\"title\":{\"chinese\":\"排球少年 4\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (106690,'{\"title\":{\"chinese\":\"DOUBLE DECKER! EXTRA\"},\"synonyms_chinese\":[\"道格&基里爾 EXTRA\"]}');
+INSERT INTO `anilist_chinese` VALUES (106750,'{\"title\":{\"chinese\":\"巨蟲列島\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (106862,'{\"title\":{\"chinese\":\"艾梅洛閣下II世事件簿 -魔眼蒐集列車 Grace note- 守墓人與貓與魔術師\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (106893,'{\"title\":{\"chinese\":\"Cop Craft\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (106894,'{\"title\":{\"chinese\":\"胡蝶綺～少年信長～\"},\"synonyms_chinese\":[]}');

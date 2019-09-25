@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2019.9.17
+// @version      2.2019.9.26
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -3753,6 +3753,7 @@ var database = [
 {id:104170,title:"來玩遊戲吧 OVA"},
 {id:104174,title:"Steins;Gate 0 Special"},
 {id:104175,title:"七大罪 戒律的復活 OVA"},
+{id:104199,title:"請問您今天要來點兔子嗎？？~Sing For You~"},
 {id:104200,title:"Pop Team Epic 第13話"},
 {id:104212,title:"南無阿彌陀佛！-蓮台 UTENA-"},
 {id:104213,title:"小松先生劇場版"},
@@ -3827,6 +3828,7 @@ var database = [
 {id:106579,title:"ビッチ学園が清純なはずがないっ！！？ The Animation"},
 {id:106625,title:"排球少年 4"},
 {id:106690,title:"DOUBLE DECKER! EXTRA"},
+{id:106750,title:"巨蟲列島"},
 {id:106862,title:"艾梅洛閣下II世事件簿 -魔眼蒐集列車 Grace note- 守墓人與貓與魔術師"},
 {id:106893,title:"Cop Craft"},
 {id:106894,title:"胡蝶綺～少年信長～"},
