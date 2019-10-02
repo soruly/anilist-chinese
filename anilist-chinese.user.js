@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2019.10.1
+// @version      2.2019.10.3
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -3672,6 +3672,7 @@ var database = [
 {id:101992,title:"吹響吧！上低音號 ~誓言的終章~"},
 {id:102004,title:"陰陽師：平安物語"},
 {id:102064,title:"八十龜醬觀察日記"},
+{id:102090,title:"輕鬆百合，"},
 {id:102093,title:"黑子的籃球 Winter Cup 總集篇 ～影與光～"},
 {id:102313,title:"はさんであげる♡"},
 {id:102346,title:"K SEVEN STORIES SIDE：BLUE ～猶如天狼～"},
