@@ -3886,7 +3886,7 @@ INSERT INTO `anilist_chinese` VALUES (107136,'{\"title\":{\"chinese\":\"ガキ�
 INSERT INTO `anilist_chinese` VALUES (107138,'{\"title\":{\"chinese\":\"天使降臨到我身邊！OVA\"},\"synonyms_chinese\":[\"天使降臨到了我身邊！OVA\"]}');
 INSERT INTO `anilist_chinese` VALUES (107226,'{\"title\":{\"chinese\":\"流汗吧！健身少女\"},\"synonyms_chinese\":[\"肌肉少女：啞鈴，能舉多少公斤？\"]}');
 INSERT INTO `anilist_chinese` VALUES (107313,'{\"title\":{\"chinese\":\"魯邦三世 峰不二子的謊言\"},\"synonyms_chinese\":[]}');
-INSERT INTO `anilist_chinese` VALUES (107339,'{\"title\":{\"chinese\":\"萌獸寵物店\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (107339,'{\"title\":{\"chinese\":\"萌獸寵物店\"},\"synonyms_chinese\":[\"獸道\"]}');
 INSERT INTO `anilist_chinese` VALUES (107346,'{\"title\":{\"chinese\":\"GRANBLUE FANTASY The Animation Season 2\"},\"synonyms_chinese\":[\"碧藍幻想 2\"]}');
 INSERT INTO `anilist_chinese` VALUES (107351,'{\"title\":{\"chinese\":\"排球少年 特集 賭在春高上的青春\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (107371,'{\"title\":{\"chinese\":\"白蛇：緣起\"},\"synonyms_chinese\":[]}');
@@ -3947,6 +3947,7 @@ INSERT INTO `anilist_chinese` VALUES (109562,'{\"title\":{\"chinese\":\"Fairy Go
 INSERT INTO `anilist_chinese` VALUES (109603,'{\"title\":{\"chinese\":\"闇芝居 7\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (109621,'{\"title\":{\"chinese\":\"從指尖開始的熱情 青梅竹馬是消防員\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (109670,'{\"title\":{\"chinese\":\"K Seven Stories - The Idol K\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (109819,'{\"title\":{\"chinese\":\"Mob Psycho 100 第一回靈能相談所員工旅遊 ～填滿內心的療癒之旅～\"},\"synonyms_chinese\":[\"靈能百分百 第一回靈能相談所員工旅遊 ～填滿內心的療癒之旅～\",\"路人超能100 第一回靈能相談所員工旅遊 ～填滿內心的療癒之旅～\"]}');
 INSERT INTO `anilist_chinese` VALUES (109963,'{\"title\":{\"chinese\":\"食戟之靈 神之皿\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (110088,'{\"title\":{\"chinese\":\"快把我哥帶走 3\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (110229,'{\"title\":{\"chinese\":\"我們真的學不來！ 2\"},\"synonyms_chinese\":[\"我們無法一起學習 2\"]}');

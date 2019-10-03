@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2019.10.3
+// @version      2.2019.10.4
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -3926,6 +3926,7 @@ var database = [
 {id:109603,title:"闇芝居 7"},
 {id:109621,title:"從指尖開始的熱情 青梅竹馬是消防員"},
 {id:109670,title:"K Seven Stories - The Idol K"},
+{id:109819,title:"Mob Psycho 100 第一回靈能相談所員工旅遊 ～填滿內心的療癒之旅～"},
 {id:109963,title:"食戟之靈 神之皿"},
 {id:110088,title:"快把我哥帶走 3"},
 {id:110229,title:"我們真的學不來！ 2"},
