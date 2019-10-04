@@ -3951,8 +3951,10 @@ INSERT INTO `anilist_chinese` VALUES (109819,'{\"title\":{\"chinese\":\"Mob Psyc
 INSERT INTO `anilist_chinese` VALUES (109963,'{\"title\":{\"chinese\":\"食戟之靈 神之皿\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (110088,'{\"title\":{\"chinese\":\"快把我哥帶走 3\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (110229,'{\"title\":{\"chinese\":\"我們真的學不來！ 2\"},\"synonyms_chinese\":[\"我們無法一起學習 2\"]}');
+INSERT INTO `anilist_chinese` VALUES (110521,'{\"title\":{\"chinese\":\"少女前綫 人型小劇場\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (110736,'{\"title\":{\"chinese\":\"苗床デモンズグラウンド～奈落の孕姫～\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (110788,'{\"title\":{\"chinese\":\"Zoid Wild Zero\"},\"synonyms_chinese\":[\"索斯機械獸 Zero\",\"機獸創世紀 Zero\"]}');
+INSERT INTO `anilist_chinese` VALUES (110789,'{\"title\":{\"chinese\":\"Null Peta\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (110810,'{\"title\":{\"chinese\":\"神田川JET GIRLS\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (110811,'{\"title\":{\"chinese\":\"浦島坂田船的日常\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (110851,'{\"title\":{\"chinese\":\"Fate/Grand Order - 絕對魔獸戰線巴比倫尼亞 - Initium Iter\"},\"synonyms_chinese\":[]}');

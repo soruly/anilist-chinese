@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2019.10.4
+// @version      2.2019.10.5
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -3930,8 +3930,10 @@ var database = [
 {id:109963,title:"食戟之靈 神之皿"},
 {id:110088,title:"快把我哥帶走 3"},
 {id:110229,title:"我們真的學不來！ 2"},
+{id:110521,title:"少女前綫 人型小劇場"},
 {id:110736,title:"苗床デモンズグラウンド～奈落の孕姫～"},
 {id:110788,title:"Zoid Wild Zero"},
+{id:110789,title:"Null Peta"},
 {id:110810,title:"神田川JET GIRLS"},
 {id:110811,title:"浦島坂田船的日常"},
 {id:110851,title:"Fate/Grand Order - 絕對魔獸戰線巴比倫尼亞 - Initium Iter"},
