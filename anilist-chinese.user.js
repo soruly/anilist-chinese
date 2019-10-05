@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2019.10.5
+// @version      2.2019.10.6
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -3504,6 +3504,9 @@ var database = [
 {id:100749,title:"未來的未來"},
 {id:100762,title:"立花館戀愛三角關係"},
 {id:100773,title:"食戟之靈 餐之皿 遠月列車篇"},
+{id:100780,title:"銀河英雄傳說 Die Neue These 星亂 1"},
+{id:100781,title:"銀河英雄傳說 Die Neue These 星亂 2"},
+{id:100782,title:"銀河英雄傳說 Die Neue These 星亂 3"},
 {id:100784,title:"銀魂 銀之魂篇"},
 {id:100785,title:"雷頓 懸疑偵探社 ～卡翠愛兒的解謎事件簿～"},
 {id:100791,title:"結城友奈是勇者 -鷲尾須美之章-"},
