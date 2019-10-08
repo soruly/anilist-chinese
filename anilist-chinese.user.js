@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2019.10.7
+// @version      2.2019.10.9
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -3784,6 +3784,7 @@ var database = [
 {id:104286,title:"劇場版 王室教師海涅"},
 {id:104291,title:"修業魔女璐璐萌 OVA"},
 {id:104306,title:"一日外出錄班長"},
+{id:104307,title:"High Score Girl EXTRA STAGE"},
 {id:104308,title:"大人的防具店"},
 {id:104325,title:"為什麼老師會在這裡！？"},
 {id:104378,title:"強襲魔女 501 部隊出動！"},
@@ -3828,7 +3829,7 @@ var database = [
 {id:105663,title:"偵探歌劇 少女福爾摩斯 SP 2018"},
 {id:105749,title:"鑽石王牌 Act II"},
 {id:105807,title:"7SEEDS"},
-{id:105857,title:"星光☆閃亮 光之美少女"},
+{id:105857,title:"Star ☆ Twinkle Precure"},
 {id:105893,title:"我的英雄學院 All Might - Rising The Animation"},
 {id:105914,title:"賢惠幼妻仙狐小姐"},
 {id:105928,title:"RobiHachi"},
@@ -3904,6 +3905,7 @@ var database = [
 {id:108411,title:"桜宮姉妹のネトラレ記録"},
 {id:108413,title:"エッチなお姉ちゃんに搾られたい"},
 {id:108430,title:"Given"},
+{id:108444,title:"Try Knights"},
 {id:108478,title:"No Guns Life"},
 {id:108548,title:"我家的女僕有夠煩！OVA"},
 {id:108554,title:"警視廳 特務部 特殊兇惡犯罪對策室 第七課"},
@@ -3938,6 +3940,7 @@ var database = [
 {id:110382,title:"Mini Yuri"},
 {id:110521,title:"少女前綫 人型小劇場"},
 {id:110736,title:"苗床デモンズグラウンド～奈落の孕姫～"},
+{id:110738,title:"絲襪視界 SP"},
 {id:110788,title:"Zoid Wild Zero"},
 {id:110789,title:"Null Peta"},
 {id:110810,title:"神田川JET GIRLS"},
