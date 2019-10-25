@@ -4364,6 +4364,7 @@ INSERT INTO `anilist_chinese` VALUES (108891,'{\"title\":{\"chinese\":\"一弦�
 INSERT INTO `anilist_chinese` VALUES (108928,'{\"title\":{\"chinese\":\"七大罪 眾神的逆鱗\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (109085,'{\"title\":{\"chinese\":\"工作細胞 SP\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (109089,'{\"title\":{\"chinese\":\"廚病激發 BOY\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (109153,'{\"title\":{\"chinese\":\"少女小短劇 All Starlight\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (109299,'{\"title\":{\"chinese\":\"堕ちモノRPG 聖騎士ルヴィリアス\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (109300,'{\"title\":{\"chinese\":\"そしてわたしはおじさんに……\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (109304,'{\"title\":{\"chinese\":\"女魔王メリッサのHな冒険記～精液を集めるエロ魔王～\"},\"synonyms_chinese\":[]}');
@@ -4374,6 +4375,7 @@ INSERT INTO `anilist_chinese` VALUES (109418,'{\"title\":{\"chinese\":\"Persona 
 INSERT INTO `anilist_chinese` VALUES (109492,'{\"title\":{\"chinese\":\"我們真的學不來！ OVA\"},\"synonyms_chinese\":[\"我們無法一起學習 OVA\"]}');
 INSERT INTO `anilist_chinese` VALUES (109562,'{\"title\":{\"chinese\":\"Fairy Gone 2\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (109603,'{\"title\":{\"chinese\":\"闇芝居 7\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (109616,'{\"title\":{\"chinese\":\"無限之住人-IMMORTAL-\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (109621,'{\"title\":{\"chinese\":\"從指尖開始的熱情 青梅竹馬是消防員\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (109670,'{\"title\":{\"chinese\":\"K Seven Stories - The Idol K\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (109819,'{\"title\":{\"chinese\":\"Mob Psycho 100 第一回靈能相談所員工旅遊 ～填滿內心的療癒之旅～\"},\"synonyms_chinese\":[\"靈能百分百 第一回靈能相談所員工旅遊 ～填滿內心的療癒之旅～\",\"路人超能100 第一回靈能相談所員工旅遊 ～填滿內心的療癒之旅～\"]}');

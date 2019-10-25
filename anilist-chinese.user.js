@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2019.10.15
+// @version      2.2019.10.26
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -4343,6 +4343,7 @@ var database = [
 {id:108928,title:"七大罪 眾神的逆鱗"},
 {id:109085,title:"工作細胞 SP"},
 {id:109089,title:"廚病激發 BOY"},
+{id:109153,title:"少女小短劇 All Starlight"},
 {id:109299,title:"堕ちモノRPG 聖騎士ルヴィリアス"},
 {id:109300,title:"そしてわたしはおじさんに……"},
 {id:109304,title:"女魔王メリッサのHな冒険記～精液を集めるエロ魔王～"},
@@ -4353,6 +4354,7 @@ var database = [
 {id:109492,title:"我們真的學不來！ OVA"},
 {id:109562,title:"Fairy Gone 2"},
 {id:109603,title:"闇芝居 7"},
+{id:109616,title:"無限之住人-IMMORTAL-"},
 {id:109621,title:"從指尖開始的熱情 青梅竹馬是消防員"},
 {id:109670,title:"K Seven Stories - The Idol K"},
 {id:109819,title:"Mob Psycho 100 第一回靈能相談所員工旅遊 ～填滿內心的療癒之旅～"},
