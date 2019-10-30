@@ -4385,6 +4385,7 @@ INSERT INTO `anilist_chinese` VALUES (110229,'{\"title\":{\"chinese\":\"我們�
 INSERT INTO `anilist_chinese` VALUES (110265,'{\"title\":{\"chinese\":\"Persona 5 the Animation A Magical Valentine\'s Day\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (110382,'{\"title\":{\"chinese\":\"Mini Yuri\"},\"synonyms_chinese\":[\"迷你百合\"]}');
 INSERT INTO `anilist_chinese` VALUES (110521,'{\"title\":{\"chinese\":\"少女前綫 人型小劇場\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (110730,'{\"title\":{\"chinese\":\"しごカレ～エッチな女子大生とドキ×2ラブレッスン!! THE ANIMATION\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (110736,'{\"title\":{\"chinese\":\"苗床デモンズグラウンド～奈落の孕姫～\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (110738,'{\"title\":{\"chinese\":\"絲襪視界 SP\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (110788,'{\"title\":{\"chinese\":\"Zoid Wild Zero\"},\"synonyms_chinese\":[\"索斯機械獸 Zero\",\"機獸創世紀 Zero\"]}');
