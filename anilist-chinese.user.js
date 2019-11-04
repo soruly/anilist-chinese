@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2019.10.31
+// @version      2.2019.11.5
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -4362,6 +4362,7 @@ var database = [
 {id:110088,title:"快把我哥帶走 3"},
 {id:110229,title:"我們真的學不來！ 2"},
 {id:110265,title:"Persona 5 the Animation A Magical Valentine's Day"},
+{id:110347,title:"屈辱"},
 {id:110382,title:"Mini Yuri"},
 {id:110521,title:"少女前綫 人型小劇場"},
 {id:110730,title:"しごカレ～エッチな女子大生とドキ×2ラブレッスン!! THE ANIMATION"},
