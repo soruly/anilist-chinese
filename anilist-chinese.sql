@@ -3643,6 +3643,7 @@ INSERT INTO `anilist_chinese` VALUES (98338,'{\"title\":{\"chinese\":\"吹響！
 INSERT INTO `anilist_chinese` VALUES (98344,'{\"title\":{\"chinese\":\"悠悠式 OVA\"},\"synonyms_chinese\":[\"校園大萌主 OVA\",\"幼幼式 OVA\",\"柚柚式 OVA\",\"YUYU式 OVA\"]}');
 INSERT INTO `anilist_chinese` VALUES (98349,'{\"title\":{\"chinese\":\"Love Live! Sunshine!! 2\"},\"synonyms_chinese\":[\"明星學生妹 Sunshine!! 2\",\"學園偶像祭 Sunshine!! 2\"]}');
 INSERT INTO `anilist_chinese` VALUES (98379,'{\"title\":{\"chinese\":\"地獄少女 宵伽\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (98384,'{\"title\":{\"chinese\":\"文豪Stray Dogs DEAD APPLE\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (98385,'{\"title\":{\"chinese\":\"愛在雨過天晴時\"},\"synonyms_chinese\":[\"戀如雨止\"]}');
 INSERT INTO `anilist_chinese` VALUES (98389,'{\"title\":{\"chinese\":\"Killing Bites\"},\"synonyms_chinese\":[\"牙鬥獸娘\"]}');
 INSERT INTO `anilist_chinese` VALUES (98402,'{\"title\":{\"chinese\":\"數碼暴龍大冒險tri. 第5章「共生」\"},\"synonyms_chinese\":[]}');

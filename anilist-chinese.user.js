@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2019.11.5
+// @version      2.2019.11.6
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -3622,6 +3622,7 @@ var database = [
 {id:98344,title:"悠悠式 OVA"},
 {id:98349,title:"Love Live! Sunshine!! 2"},
 {id:98379,title:"地獄少女 宵伽"},
+{id:98384,title:"文豪Stray Dogs DEAD APPLE"},
 {id:98385,title:"愛在雨過天晴時"},
 {id:98389,title:"Killing Bites"},
 {id:98402,title:"數碼暴龍大冒險tri. 第5章「共生」"},
