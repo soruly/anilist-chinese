@@ -1,8 +1,8 @@
--- MySQL dump 10.17  Distrib 10.3.17-MariaDB, for Linux (x86_64)
+-- MySQL dump 10.17  Distrib 10.3.18-MariaDB, for Linux (x86_64)
 --
 -- Host: localhost    Database: anime
 -- ------------------------------------------------------
--- Server version	10.3.17-MariaDB
+-- Server version	10.3.18-MariaDB
 
 /*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
 /*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
@@ -4384,6 +4384,7 @@ INSERT INTO `anilist_chinese` VALUES (109963,'{\"title\":{\"chinese\":\"食戟�
 INSERT INTO `anilist_chinese` VALUES (110088,'{\"title\":{\"chinese\":\"快把我哥帶走 3\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (110229,'{\"title\":{\"chinese\":\"我們真的學不來！ 2\"},\"synonyms_chinese\":[\"我們無法一起學習 2\"]}');
 INSERT INTO `anilist_chinese` VALUES (110265,'{\"title\":{\"chinese\":\"Persona 5 the Animation A Magical Valentine\'s Day\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (110336,'{\"title\":{\"chinese\":\"らぶりー♡\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (110347,'{\"title\":{\"chinese\":\"屈辱\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (110382,'{\"title\":{\"chinese\":\"Mini Yuri\"},\"synonyms_chinese\":[\"迷你百合\"]}');
 INSERT INTO `anilist_chinese` VALUES (110521,'{\"title\":{\"chinese\":\"少女前綫 人型小劇場\"},\"synonyms_chinese\":[]}');
