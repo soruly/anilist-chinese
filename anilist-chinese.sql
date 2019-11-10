@@ -4363,6 +4363,7 @@ INSERT INTO `anilist_chinese` VALUES (108759,'{\"title\":{\"chinese\":\"Sword Ar
 INSERT INTO `anilist_chinese` VALUES (108859,'{\"title\":{\"chinese\":\"灼炎のエリス\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (108891,'{\"title\":{\"chinese\":\"一弦定音！ 2\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (108928,'{\"title\":{\"chinese\":\"七大罪 眾神的逆鱗\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (108945,'{\"title\":{\"chinese\":\"一拳超人 2 OVA\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (109085,'{\"title\":{\"chinese\":\"工作細胞 SP\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (109089,'{\"title\":{\"chinese\":\"廚病激發 BOY\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (109153,'{\"title\":{\"chinese\":\"少女小短劇 All Starlight\"},\"synonyms_chinese\":[]}');

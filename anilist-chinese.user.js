@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2019.11.10
+// @version      2.2019.11.11
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -4342,6 +4342,7 @@ var database = [
 {id:108859,title:"灼炎のエリス"},
 {id:108891,title:"一弦定音！ 2"},
 {id:108928,title:"七大罪 眾神的逆鱗"},
+{id:108945,title:"一拳超人 2 OVA"},
 {id:109085,title:"工作細胞 SP"},
 {id:109089,title:"廚病激發 BOY"},
 {id:109153,title:"少女小短劇 All Starlight"},
