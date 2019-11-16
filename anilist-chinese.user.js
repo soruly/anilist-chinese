@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2019.11.11
+// @version      2.2019.11.17
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -4185,6 +4185,7 @@ var database = [
 {id:104117,title:"末班電車後、膠囊旅館、給上司微熱的夜晚。"},
 {id:104139,title:"レイプ合法化っ!!!"},
 {id:104147,title:"女子高中生"},
+{id:104157,title:"青春豬頭少年不會夢到懷夢美少女"},
 {id:104158,title:"Stand My Heroes PIECE OF TRUTH"},
 {id:104159,title:"Azur Lane"},
 {id:104160,title:"一人之下 天師下山 番外篇"},

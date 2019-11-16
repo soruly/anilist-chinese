@@ -4206,6 +4206,7 @@ INSERT INTO `anilist_chinese` VALUES (104115,'{\"title\":{\"chinese\":\"放學�
 INSERT INTO `anilist_chinese` VALUES (104117,'{\"title\":{\"chinese\":\"末班電車後、膠囊旅館、給上司微熱的夜晚。\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (104139,'{\"title\":{\"chinese\":\"レイプ合法化っ!!!\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (104147,'{\"title\":{\"chinese\":\"女子高中生\"},\"synonyms_chinese\":[\"高中女生\",\"默繪女高\",\"女搞中生\"]}');
+INSERT INTO `anilist_chinese` VALUES (104157,'{\"title\":{\"chinese\":\"青春豬頭少年不會夢到懷夢美少女\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (104158,'{\"title\":{\"chinese\":\"Stand My Heroes PIECE OF TRUTH\"},\"synonyms_chinese\":[\"募戀英雄 PIECE OF TRUTH\"]}');
 INSERT INTO `anilist_chinese` VALUES (104159,'{\"title\":{\"chinese\":\"Azur Lane\"},\"synonyms_chinese\":[\"碧藍航線\"]}');
 INSERT INTO `anilist_chinese` VALUES (104160,'{\"title\":{\"chinese\":\"一人之下 天師下山 番外篇\"},\"synonyms_chinese\":[]}');
