@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2019.11.17
+// @version      2.2019.11.27
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -4266,6 +4266,7 @@ var database = [
 {id:106165,title:"就算是爸爸也想做"},
 {id:106169,title:"Persona 5 The Animation Dark Sun..."},
 {id:106239,title:"信長老師有個蘿莉老婆"},
+{id:106240,title:"HELLO WORLD"},
 {id:106322,title:"故に人妻は寝取られた。"},
 {id:106433,title:"虛擬小姐在看著你"},
 {id:106508,title:"Fight League: Gear Gadget Generators"},
@@ -4383,6 +4384,7 @@ var database = [
 {id:111082,title:"星夢學園 on Parade!"},
 {id:111188,title:"素晴らしき国家の築き方"},
 {id:111400,title:"天華百劍 ～歡迎來到明治館！～"},
+{id:111733,title:"ANOTHER WORLD"},
 {id:112455,title:"天體運行式 OVA"}
 ];
 

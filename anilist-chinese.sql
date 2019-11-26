@@ -4287,6 +4287,7 @@ INSERT INTO `anilist_chinese` VALUES (106149,'{\"title\":{\"chinese\":\"妻が�
 INSERT INTO `anilist_chinese` VALUES (106165,'{\"title\":{\"chinese\":\"就算是爸爸也想做\"},\"synonyms_chinese\":[\"就算是爸爸，也想那個嘛\"]}');
 INSERT INTO `anilist_chinese` VALUES (106169,'{\"title\":{\"chinese\":\"Persona 5 The Animation Dark Sun...\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (106239,'{\"title\":{\"chinese\":\"信長老師有個蘿莉老婆\"},\"synonyms_chinese\":[\"信長老師的年幼妻子\",\"信長老師的幼妻\"]}');
+INSERT INTO `anilist_chinese` VALUES (106240,'{\"title\":{\"chinese\":\"HELLO WORLD\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (106322,'{\"title\":{\"chinese\":\"故に人妻は寝取られた。\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (106433,'{\"title\":{\"chinese\":\"虛擬小姐在看著你\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (106508,'{\"title\":{\"chinese\":\"Fight League: Gear Gadget Generators\"},\"synonyms_chinese\":[]}');
@@ -4404,6 +4405,7 @@ INSERT INTO `anilist_chinese` VALUES (111001,'{\"title\":{\"chinese\":\"XL上司
 INSERT INTO `anilist_chinese` VALUES (111082,'{\"title\":{\"chinese\":\"星夢學園 on Parade!\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (111188,'{\"title\":{\"chinese\":\"素晴らしき国家の築き方\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (111400,'{\"title\":{\"chinese\":\"天華百劍 ～歡迎來到明治館！～\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (111733,'{\"title\":{\"chinese\":\"ANOTHER WORLD\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (112455,'{\"title\":{\"chinese\":\"天體運行式 OVA\"},\"synonyms_chinese\":[\"天體的秩序 OVA\",\"天體的方式 OVA\",\"天體的法則 OVA\"]}');
 /*!40000 ALTER TABLE `anilist_chinese` ENABLE KEYS */;
 UNLOCK TABLES;
