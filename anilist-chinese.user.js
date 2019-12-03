@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2019.11.27
+// @version      2.2019.12.4
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -4129,6 +4129,7 @@ var database = [
 {id:102949,title:"憂鬱的物怪庵 續"},
 {id:102969,title:"學園奶爸 OVA"},
 {id:102974,title:"Gurazeni 2"},
+{id:102976,title:"為美好的世界獻上祝福！紅傳說"},
 {id:102977,title:"黃金神威 2"},
 {id:102978,title:"宇宙戰艦提拉米蘇 II"},
 {id:102997,title:"全職高手 第二季"},
@@ -4383,6 +4384,8 @@ var database = [
 {id:111001,title:"XL上司。"},
 {id:111082,title:"星夢學園 on Parade!"},
 {id:111188,title:"素晴らしき国家の築き方"},
+{id:111319,title:"アイベヤ THE ANIMATION"},
+{id:111320,title:"ラブホリック～魅惑の乙女と白濁カンケイ～ THE ANIMATION"},
 {id:111400,title:"天華百劍 ～歡迎來到明治館！～"},
 {id:111733,title:"ANOTHER WORLD"},
 {id:112455,title:"天體運行式 OVA"}

@@ -4150,6 +4150,7 @@ INSERT INTO `anilist_chinese` VALUES (102939,'{\"title\":{\"chinese\":\"深夜�
 INSERT INTO `anilist_chinese` VALUES (102949,'{\"title\":{\"chinese\":\"憂鬱的物怪庵 續\"},\"synonyms_chinese\":[\"不機嫌的妖怪庵 續\",\"不愉快的妖怪庵 續\",\"不高興的怪物庵 續\",\"不開心的怪物庵 續\",\"猶豫的物怪庵 續\"]}');
 INSERT INTO `anilist_chinese` VALUES (102969,'{\"title\":{\"chinese\":\"學園奶爸 OVA\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (102974,'{\"title\":{\"chinese\":\"Gurazeni 2\"},\"synonyms_chinese\":[\"錢進球場 2\"]}');
+INSERT INTO `anilist_chinese` VALUES (102976,'{\"title\":{\"chinese\":\"為美好的世界獻上祝福！紅傳說\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (102977,'{\"title\":{\"chinese\":\"黃金神威 2\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (102978,'{\"title\":{\"chinese\":\"宇宙戰艦提拉米蘇 II\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (102997,'{\"title\":{\"chinese\":\"全職高手 第二季\"},\"synonyms_chinese\":[]}');
@@ -4404,6 +4405,8 @@ INSERT INTO `anilist_chinese` VALUES (110881,'{\"title\":{\"chinese\":\"香蕉�
 INSERT INTO `anilist_chinese` VALUES (111001,'{\"title\":{\"chinese\":\"XL上司。\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (111082,'{\"title\":{\"chinese\":\"星夢學園 on Parade!\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (111188,'{\"title\":{\"chinese\":\"素晴らしき国家の築き方\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (111319,'{\"title\":{\"chinese\":\"アイベヤ THE ANIMATION\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (111320,'{\"title\":{\"chinese\":\"ラブホリック～魅惑の乙女と白濁カンケイ～ THE ANIMATION\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (111400,'{\"title\":{\"chinese\":\"天華百劍 ～歡迎來到明治館！～\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (111733,'{\"title\":{\"chinese\":\"ANOTHER WORLD\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (112455,'{\"title\":{\"chinese\":\"天體運行式 OVA\"},\"synonyms_chinese\":[\"天體的秩序 OVA\",\"天體的方式 OVA\",\"天體的法則 OVA\"]}');
