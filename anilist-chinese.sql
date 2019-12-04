@@ -4052,6 +4052,7 @@ INSERT INTO `anilist_chinese` VALUES (101370,'{\"title\":{\"chinese\":\"薄墨�
 INSERT INTO `anilist_chinese` VALUES (101371,'{\"title\":{\"chinese\":\"隔壁的吸血鬼美眉\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (101372,'{\"title\":{\"chinese\":\"怪獸娘（黑）\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (101373,'{\"title\":{\"chinese\":\"BAKUMATSU\"},\"synonyms_chinese\":[\"戀愛幕末男友\"]}');
+INSERT INTO `anilist_chinese` VALUES (101374,'{\"title\":{\"chinese\":\"無節操☆Bitch部\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (101379,'{\"title\":{\"chinese\":\"Pastel Memories\"},\"synonyms_chinese\":[\"粉彩回憶\"]}');
 INSERT INTO `anilist_chinese` VALUES (101380,'{\"title\":{\"chinese\":\"千銃士\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (101381,'{\"title\":{\"chinese\":\"我讓最想被擁抱的男人給威脅了\"},\"synonyms_chinese\":[]}');
@@ -4408,6 +4409,7 @@ INSERT INTO `anilist_chinese` VALUES (111188,'{\"title\":{\"chinese\":\"素晴�
 INSERT INTO `anilist_chinese` VALUES (111319,'{\"title\":{\"chinese\":\"アイベヤ THE ANIMATION\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (111320,'{\"title\":{\"chinese\":\"ラブホリック～魅惑の乙女と白濁カンケイ～ THE ANIMATION\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (111400,'{\"title\":{\"chinese\":\"天華百劍 ～歡迎來到明治館！～\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (111656,'{\"title\":{\"chinese\":\"人妻、蜜と肉\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (111733,'{\"title\":{\"chinese\":\"ANOTHER WORLD\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (112455,'{\"title\":{\"chinese\":\"天體運行式 OVA\"},\"synonyms_chinese\":[\"天體的秩序 OVA\",\"天體的方式 OVA\",\"天體的法則 OVA\"]}');
 /*!40000 ALTER TABLE `anilist_chinese` ENABLE KEYS */;

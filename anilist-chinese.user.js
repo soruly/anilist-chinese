@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2019.12.4
+// @version      2.2019.12.5
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -4031,6 +4031,7 @@ var database = [
 {id:101371,title:"隔壁的吸血鬼美眉"},
 {id:101372,title:"怪獸娘（黑）"},
 {id:101373,title:"BAKUMATSU"},
+{id:101374,title:"無節操☆Bitch部"},
 {id:101379,title:"Pastel Memories"},
 {id:101380,title:"千銃士"},
 {id:101381,title:"我讓最想被擁抱的男人給威脅了"},
@@ -4387,6 +4388,7 @@ var database = [
 {id:111319,title:"アイベヤ THE ANIMATION"},
 {id:111320,title:"ラブホリック～魅惑の乙女と白濁カンケイ～ THE ANIMATION"},
 {id:111400,title:"天華百劍 ～歡迎來到明治館！～"},
+{id:111656,title:"人妻、蜜と肉"},
 {id:111733,title:"ANOTHER WORLD"},
 {id:112455,title:"天體運行式 OVA"}
 ];
