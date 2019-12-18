@@ -1,5 +1,8 @@
 ## Anilist 中文化
-[![](https://david-dm.org/soruly/anilist-chinese/status.svg)](https://david-dm.org/soruly/anilist-chinese)
+
+[![Build Status](https://travis-ci.org/soruly/anilist-chinese.svg?branch=master)](https://travis-ci.org/soruly/anilist-chinese)
+[![Dependencies](https://david-dm.org/soruly/anilist-chinese/status.svg)](https://david-dm.org/soruly/anilist-chinese)
+[![license](https://img.shields.io/github/license/soruly/anilist-chinese.svg)](https://raw.githubusercontent.com/soruly/anilist-chinese/master/LICENSE)
 
 這個瀏覽器插件可以把[Anilist](http://anilist.co)上的動畫名稱中文化
 
