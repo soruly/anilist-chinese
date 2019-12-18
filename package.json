@@ -24,8 +24,9 @@
   "dependencies": {
     "dotenv": "^8.2.0",
     "knex": "^0.20.4",
-    "mysql": "^2.17.1",
-    "prettier": "^1.19.1"
+    "mysql": "^2.17.1"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "prettier": "^1.19.1"
+  }
 }
