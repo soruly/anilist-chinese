@@ -1512,7 +1512,7 @@ INSERT INTO `anilist_chinese` VALUES (8426,'{\"title\":{\"chinese\":\"放浪息�
 INSERT INTO `anilist_chinese` VALUES (8449,'{\"title\":{\"chinese\":\"咎狗之血\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (8456,'{\"title\":{\"chinese\":\"女王之刃 美麗的鬥士們\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (8457,'{\"title\":{\"chinese\":\"夜櫻四重奏 ～星之海～\"},\"synonyms_chinese\":[]}');
-INSERT INTO `anilist_chinese` VALUES (8460,'{\"title\":{\"chinese\":\"未來日記\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (8460,'{\"title\":{\"chinese\":\"未來日記 OVA\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (8465,'{\"title\":{\"chinese\":\"最後大魔王\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (8471,'{\"title\":{\"chinese\":\"直子のトロピックエンジェル 〜漂流〜\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (8475,'{\"title\":{\"chinese\":\"阿修羅\"},\"synonyms_chinese\":[]}');
@@ -4195,6 +4195,7 @@ INSERT INTO `anilist_chinese` VALUES (103925,'{\"title\":{\"chinese\":\"くノ�
 INSERT INTO `anilist_chinese` VALUES (104008,'{\"title\":{\"chinese\":\"Circlet Princess\"},\"synonyms_chinese\":[\"環戰公主\"]}');
 INSERT INTO `anilist_chinese` VALUES (104009,'{\"title\":{\"chinese\":\"臨死！！江古田醬\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (104029,'{\"title\":{\"chinese\":\"君想ふ恋\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (104041,'{\"title\":{\"chinese\":\"ボクと彼女（ナース）の研修日誌 THE ANIMATION\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (104052,'{\"title\":{\"chinese\":\"星合之空\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (104059,'{\"title\":{\"chinese\":\"夢魔の街コルネリカ\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (104071,'{\"title\":{\"chinese\":\"叛逆性百萬亞瑟王 2\"},\"synonyms_chinese\":[]}');
@@ -4254,7 +4255,7 @@ INSERT INTO `anilist_chinese` VALUES (104949,'{\"title\":{\"chinese\":\"SILENT C
 INSERT INTO `anilist_chinese` VALUES (104953,'{\"title\":{\"chinese\":\"みさとちゃんの夢日記\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (104989,'{\"title\":{\"chinese\":\"八月的棒球甜心\"},\"synonyms_chinese\":[\"八月的灰姑娘棒球隊\",\"八月的灰姑娘Nine\"]}');
 INSERT INTO `anilist_chinese` VALUES (104990,'{\"title\":{\"chinese\":\"PSYCHO-PASS Sinners of the System Case 3 - 在恩怨的彼方＿＿\"},\"synonyms_chinese\":[\"心靈判官 Sinners of the System Case 3 - 在恩怨的彼方＿＿\"]}');
-INSERT INTO `anilist_chinese` VALUES (105018,'{\"title\":{\"chinese\":\"若能與你共乘海浪之上\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (105018,'{\"title\":{\"chinese\":\"若能與你共乘海浪之上\"},\"synonyms_chinese\":[\"乘浪之約\"]}');
 INSERT INTO `anilist_chinese` VALUES (105066,'{\"title\":{\"chinese\":\"完璧お嬢様の私が土下座でマゾ堕ちするちょろインなワケないですわ！\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (105074,'{\"title\":{\"chinese\":\"魔術學姐\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (105081,'{\"title\":{\"chinese\":\"女高中生的虛度日常\"},\"synonyms_chinese\":[]}');
@@ -4410,7 +4411,9 @@ INSERT INTO `anilist_chinese` VALUES (111319,'{\"title\":{\"chinese\":\"アイ�
 INSERT INTO `anilist_chinese` VALUES (111320,'{\"title\":{\"chinese\":\"ラブホリック～魅惑の乙女と白濁カンケイ～ THE ANIMATION\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (111400,'{\"title\":{\"chinese\":\"天華百劍 ～歡迎來到明治館！～\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (111656,'{\"title\":{\"chinese\":\"人妻、蜜と肉\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (111729,'{\"title\":{\"chinese\":\"平凡職業造就世界最強 OVA\"},\"synonyms_chinese\":[\"平凡職業成就世界最強 OVA\"]}');
 INSERT INTO `anilist_chinese` VALUES (111733,'{\"title\":{\"chinese\":\"ANOTHER WORLD\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (112233,'{\"title\":{\"chinese\":\"ボクと彼女（女医）の診察日誌 THE ANIMATION\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (112455,'{\"title\":{\"chinese\":\"天體運行式 OVA\"},\"synonyms_chinese\":[\"天體的秩序 OVA\",\"天體的方式 OVA\",\"天體的法則 OVA\"]}');
 /*!40000 ALTER TABLE `anilist_chinese` ENABLE KEYS */;
 UNLOCK TABLES;

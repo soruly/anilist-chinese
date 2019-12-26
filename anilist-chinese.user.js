@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2019.12.5
+// @version      2.2019.12.27
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -1491,7 +1491,7 @@ var database = [
 {id:8449,title:"咎狗之血"},
 {id:8456,title:"女王之刃 美麗的鬥士們"},
 {id:8457,title:"夜櫻四重奏 ～星之海～"},
-{id:8460,title:"未來日記"},
+{id:8460,title:"未來日記 OVA"},
 {id:8465,title:"最後大魔王"},
 {id:8471,title:"直子のトロピックエンジェル 〜漂流〜"},
 {id:8475,title:"阿修羅"},
@@ -4174,6 +4174,7 @@ var database = [
 {id:104008,title:"Circlet Princess"},
 {id:104009,title:"臨死！！江古田醬"},
 {id:104029,title:"君想ふ恋"},
+{id:104041,title:"ボクと彼女（ナース）の研修日誌 THE ANIMATION"},
 {id:104052,title:"星合之空"},
 {id:104059,title:"夢魔の街コルネリカ"},
 {id:104071,title:"叛逆性百萬亞瑟王 2"},
@@ -4389,7 +4390,9 @@ var database = [
 {id:111320,title:"ラブホリック～魅惑の乙女と白濁カンケイ～ THE ANIMATION"},
 {id:111400,title:"天華百劍 ～歡迎來到明治館！～"},
 {id:111656,title:"人妻、蜜と肉"},
+{id:111729,title:"平凡職業造就世界最強 OVA"},
 {id:111733,title:"ANOTHER WORLD"},
+{id:112233,title:"ボクと彼女（女医）の診察日誌 THE ANIMATION"},
 {id:112455,title:"天體運行式 OVA"}
 ];
 
