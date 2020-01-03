@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2019.12.30
+// @version      2.2020.1.4
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -4431,6 +4431,7 @@ var database = [
 {id:112190,title:"のぞき彼女"},
 {id:112233,title:"ボクと彼女（女医）の診察日誌 THE ANIMATION"},
 {id:112293,title:"成群結伴！西頓學園"},
+{id:112356,title:"キスハグ"},
 {id:112455,title:"天體運行式 OVA"},
 {id:113397,title:"緣結熊本"},
 {id:113463,title:"Hulaing Babies☆Petit"},

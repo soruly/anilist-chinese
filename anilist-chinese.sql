@@ -4452,6 +4452,7 @@ INSERT INTO `anilist_chinese` VALUES (112153,'{\"title\":{\"chinese\":\"Pocket M
 INSERT INTO `anilist_chinese` VALUES (112190,'{\"title\":{\"chinese\":\"のぞき彼女\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (112233,'{\"title\":{\"chinese\":\"ボクと彼女（女医）の診察日誌 THE ANIMATION\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (112293,'{\"title\":{\"chinese\":\"成群結伴！西頓學園\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (112356,'{\"title\":{\"chinese\":\"キスハグ\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (112455,'{\"title\":{\"chinese\":\"天體運行式 OVA\"},\"synonyms_chinese\":[\"天體的秩序 OVA\",\"天體的方式 OVA\",\"天體的法則 OVA\"]}');
 INSERT INTO `anilist_chinese` VALUES (113397,'{\"title\":{\"chinese\":\"緣結熊本\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (113463,'{\"title\":{\"chinese\":\"Hulaing Babies☆Petit\"},\"synonyms_chinese\":[]}');
