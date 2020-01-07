@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2020.1.4
+// @version      2.2020.1.8
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -4434,6 +4434,7 @@ var database = [
 {id:112356,title:"キスハグ"},
 {id:112455,title:"天體運行式 OVA"},
 {id:113397,title:"緣結熊本"},
+{id:113417,title:"おーばーふろぉ"},
 {id:113463,title:"Hulaing Babies☆Petit"},
 {id:113469,title:"Rebirth"},
 {id:113470,title:"Show By Rock!! Mashumairesh!!"},
