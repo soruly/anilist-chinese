@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2020.1.8
+// @version      2.2020.1.13
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -1199,6 +1199,7 @@ var database = [
 {id:5079,title:"黑神"},
 {id:5080,title:"問答魔法學院"},
 {id:5081,title:"化物語"},
+{id:5084,title:"新子與千年魔法"},
 {id:5097,title:"初犬 2 The Animation"},
 {id:5107,title:"バルテュス ～ティアの輝き～"},
 {id:5112,title:"空罐少女！"},

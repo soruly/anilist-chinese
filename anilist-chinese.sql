@@ -1220,6 +1220,7 @@ INSERT INTO `anilist_chinese` VALUES (5074,'{\"title\":{\"chinese\":\"鐵腕巴�
 INSERT INTO `anilist_chinese` VALUES (5079,'{\"title\":{\"chinese\":\"黑神\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (5080,'{\"title\":{\"chinese\":\"問答魔法學院\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (5081,'{\"title\":{\"chinese\":\"化物語\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (5084,'{\"title\":{\"chinese\":\"新子與千年魔法\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (5097,'{\"title\":{\"chinese\":\"初犬 2 The Animation\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (5107,'{\"title\":{\"chinese\":\"バルテュス ～ティアの輝き～\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (5112,'{\"title\":{\"chinese\":\"空罐少女！\"},\"synonyms_chinese\":[]}');
@@ -4120,7 +4121,7 @@ INSERT INTO `anilist_chinese` VALUES (101970,'{\"title\":{\"chinese\":\"一臉�
 INSERT INTO `anilist_chinese` VALUES (101972,'{\"title\":{\"chinese\":\"魔道袓師\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (101981,'{\"title\":{\"chinese\":\"天降女子!~女孩子從2樓…掉了下來！ ？\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (101985,'{\"title\":{\"chinese\":\"告訴我吧魔法靈擺～莉露莉露Fairilu～\"},\"synonyms_chinese\":[]}');
-INSERT INTO `anilist_chinese` VALUES (101992,'{\"title\":{\"chinese\":\"吹響吧！上低音號 ~誓言的終章~\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (101992,'{\"title\":{\"chinese\":\"吹響吧！上低音號 ~誓言的終章~\"},\"synonyms_chinese\":[\"吹響吧！悠風號 ~誓言的終章~\"]}');
 INSERT INTO `anilist_chinese` VALUES (102004,'{\"title\":{\"chinese\":\"陰陽師：平安物語\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (102064,'{\"title\":{\"chinese\":\"八十龜醬觀察日記\"},\"synonyms_chinese\":[\"八十龜觀察日記\"]}');
 INSERT INTO `anilist_chinese` VALUES (102090,'{\"title\":{\"chinese\":\"輕鬆百合，\"},\"synonyms_chinese\":[\"搖曳百合，\"]}');
