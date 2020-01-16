@@ -4307,7 +4307,7 @@ INSERT INTO `anilist_chinese` VALUES (106239,'{\"title\":{\"chinese\":\"信長�
 INSERT INTO `anilist_chinese` VALUES (106240,'{\"title\":{\"chinese\":\"HELLO WORLD\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (106322,'{\"title\":{\"chinese\":\"故に人妻は寝取られた。\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (106433,'{\"title\":{\"chinese\":\"虛擬小姐在看著你\"},\"synonyms_chinese\":[]}');
-INSERT INTO `anilist_chinese` VALUES (106479,'{\"title\":{\"chinese\":\"怕痛的我，把防禦力點滿就對了\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (106479,'{\"title\":{\"chinese\":\"怕痛的我，把防禦力點滿就對了\"},\"synonyms_chinese\":[\"因為太怕痛就全點防禦力了\"]}');
 INSERT INTO `anilist_chinese` VALUES (106508,'{\"title\":{\"chinese\":\"Fight League: Gear Gadget Generators\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (106509,'{\"title\":{\"chinese\":\"關於我轉生變成史萊姆這檔事 OVA\"},\"synonyms_chinese\":[\"關於我轉生成為史萊姆的那件事 OVA\"]}');
 INSERT INTO `anilist_chinese` VALUES (106568,'{\"title\":{\"chinese\":\"BAKUMATSU Crisis\"},\"synonyms_chinese\":[\"戀愛幕末男友 Crisis\",\"戀愛幕末男友外傳-危機\"]}');
@@ -4461,6 +4461,7 @@ INSERT INTO `anilist_chinese` VALUES (113463,'{\"title\":{\"chinese\":\"Hulaing 
 INSERT INTO `anilist_chinese` VALUES (113469,'{\"title\":{\"chinese\":\"Rebirth\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (113470,'{\"title\":{\"chinese\":\"Show By Rock!! Mashumairesh!!\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (113851,'{\"title\":{\"chinese\":\"Breakers\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (113932,'{\"title\":{\"chinese\":\"破曉之翼\"},\"synonyms_chinese\":[]}');
 /*!40000 ALTER TABLE `anilist_chinese` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
