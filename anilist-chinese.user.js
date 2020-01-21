@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2020.1.17
+// @version      2.2020.1.22
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -4334,6 +4334,7 @@ var database = [
 {id:107755,title:"美妙天堂&閃亮 美妙☆頻道 閃亮紀念演出"},
 {id:107864,title:"為了誰的鍊金術師"},
 {id:107876,title:"BEM"},
+{id:107880,title:"劇場版 巨蟲列島"},
 {id:107956,title:"為了女兒，我說不定連魔王都能幹掉。"},
 {id:107961,title:"只要長得可愛，即使是變態你也喜歡嗎？"},
 {id:107974,title:"洗浴屋先生！～我和那傢伙在女浴池裡！？～"},
@@ -4439,6 +4440,7 @@ var database = [
 {id:113463,title:"Hulaing Babies☆Petit"},
 {id:113469,title:"Rebirth"},
 {id:113470,title:"Show By Rock!! Mashumairesh!!"},
+{id:113828,title:"虛構推理 Mini"},
 {id:113851,title:"Breakers"},
 {id:113932,title:"破曉之翼"}
 ];

@@ -4355,6 +4355,7 @@ INSERT INTO `anilist_chinese` VALUES (107693,'{\"title\":{\"chinese\":\"入間�
 INSERT INTO `anilist_chinese` VALUES (107755,'{\"title\":{\"chinese\":\"美妙天堂&閃亮 美妙☆頻道 閃亮紀念演出\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (107864,'{\"title\":{\"chinese\":\"為了誰的鍊金術師\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (107876,'{\"title\":{\"chinese\":\"BEM\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (107880,'{\"title\":{\"chinese\":\"劇場版 巨蟲列島\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (107956,'{\"title\":{\"chinese\":\"為了女兒，我說不定連魔王都能幹掉。\"},\"synonyms_chinese\":[\"為了女兒擊倒魔王\"]}');
 INSERT INTO `anilist_chinese` VALUES (107961,'{\"title\":{\"chinese\":\"只要長得可愛，即使是變態你也喜歡嗎？\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (107974,'{\"title\":{\"chinese\":\"洗浴屋先生！～我和那傢伙在女浴池裡！？～\"},\"synonyms_chinese\":[]}');
@@ -4460,6 +4461,7 @@ INSERT INTO `anilist_chinese` VALUES (113417,'{\"title\":{\"chinese\":\"おー�
 INSERT INTO `anilist_chinese` VALUES (113463,'{\"title\":{\"chinese\":\"Hulaing Babies☆Petit\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (113469,'{\"title\":{\"chinese\":\"Rebirth\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (113470,'{\"title\":{\"chinese\":\"Show By Rock!! Mashumairesh!!\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (113828,'{\"title\":{\"chinese\":\"虛構推理 Mini\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (113851,'{\"title\":{\"chinese\":\"Breakers\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (113932,'{\"title\":{\"chinese\":\"破曉之翼\"},\"synonyms_chinese\":[]}');
 /*!40000 ALTER TABLE `anilist_chinese` ENABLE KEYS */;
