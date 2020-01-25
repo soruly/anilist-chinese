@@ -4370,6 +4370,7 @@ INSERT INTO `anilist_chinese` VALUES (108113,'{\"title\":{\"chinese\":\"Master P
 INSERT INTO `anilist_chinese` VALUES (108147,'{\"title\":{\"chinese\":\"Granbelm\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (108253,'{\"title\":{\"chinese\":\"姫様LOVEライフ！\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (108263,'{\"title\":{\"chinese\":\"自宅警備員 (2019)\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (108267,'{\"title\":{\"chinese\":\"怪怪守護神 OVA\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (108268,'{\"title\":{\"chinese\":\"小書痴的下剋上：為了成為圖書管理員不擇手段！\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (108307,'{\"title\":{\"chinese\":\"PSYCHO-PASS 3\"},\"synonyms_chinese\":[\"心靈判官 3\"]}');
 INSERT INTO `anilist_chinese` VALUES (108358,'{\"title\":{\"chinese\":\"Phantasy Star Online 2 Episode Oracle\"},\"synonyms_chinese\":[\"夢幻之星Online 2 Episode Oracle\"]}');

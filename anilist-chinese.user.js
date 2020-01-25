@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2020.1.22
+// @version      2.2020.1.26
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -4349,6 +4349,7 @@ var database = [
 {id:108147,title:"Granbelm"},
 {id:108253,title:"姫様LOVEライフ！"},
 {id:108263,title:"自宅警備員 (2019)"},
+{id:108267,title:"怪怪守護神 OVA"},
 {id:108268,title:"小書痴的下剋上：為了成為圖書管理員不擇手段！"},
 {id:108307,title:"PSYCHO-PASS 3"},
 {id:108358,title:"Phantasy Star Online 2 Episode Oracle"},
