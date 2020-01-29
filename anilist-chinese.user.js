@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2020.1.26
+// @version      2.2020.1.30
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -4434,6 +4434,7 @@ var database = [
 {id:112190,title:"のぞき彼女"},
 {id:112233,title:"ボクと彼女（女医）の診察日誌 THE ANIMATION"},
 {id:112293,title:"成群結伴！西頓學園"},
+{id:112324,title:"Strike the Blood 消失的聖槍篇"},
 {id:112356,title:"キスハグ"},
 {id:112455,title:"天體運行式 OVA"},
 {id:113397,title:"緣結熊本"},
@@ -4443,7 +4444,10 @@ var database = [
 {id:113470,title:"Show By Rock!! Mashumairesh!!"},
 {id:113828,title:"虛構推理 Mini"},
 {id:113851,title:"Breakers"},
-{id:113932,title:"破曉之翼"}
+{id:113932,title:"破曉之翼"},
+{id:114926,title:"神田川JET GIRLS OVA"},
+{id:114947,title:"腐界に眠る王女のアバドーン THE ANIMATION"},
+{id:114949,title:"ニプルへイムの狩人"}
 ];
 
 var updating;
