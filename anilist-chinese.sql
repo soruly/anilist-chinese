@@ -4145,6 +4145,7 @@ INSERT INTO `anilist_chinese` VALUES (102680,'{\"title\":{\"chinese\":\"天使�
 INSERT INTO `anilist_chinese` VALUES (102775,'{\"title\":{\"chinese\":\"納米核心\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (102776,'{\"title\":{\"chinese\":\"納米核心 第二季\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (102822,'{\"title\":{\"chinese\":\"閃亂神樂 東京妖魔篇\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (102832,'{\"title\":{\"chinese\":\"Devils Line OVA\"},\"synonyms_chinese\":[\"惡魔戰線 OVA\"]}');
 INSERT INTO `anilist_chinese` VALUES (102835,'{\"title\":{\"chinese\":\"Revisions\"},\"synonyms_chinese\":[\"澀谷新視界\"]}');
 INSERT INTO `anilist_chinese` VALUES (102860,'{\"title\":{\"chinese\":\"蒼天之拳 REGENESIS 2\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (102875,'{\"title\":{\"chinese\":\"Himote House\"},\"synonyms_chinese\":[\"不受歡迎之家\",\"不受歡迎之屋\"]}');

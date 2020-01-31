@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2020.1.30
+// @version      2.2020.2.1
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -4124,6 +4124,7 @@ var database = [
 {id:102775,title:"納米核心"},
 {id:102776,title:"納米核心 第二季"},
 {id:102822,title:"閃亂神樂 東京妖魔篇"},
+{id:102832,title:"Devils Line OVA"},
 {id:102835,title:"Revisions"},
 {id:102860,title:"蒼天之拳 REGENESIS 2"},
 {id:102875,title:"Himote House"},
