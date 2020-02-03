@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2020.2.1
+// @version      2.2020.2.4
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -4438,6 +4438,7 @@ var database = [
 {id:112324,title:"Strike the Blood 消失的聖槍篇"},
 {id:112356,title:"キスハグ"},
 {id:112455,title:"天體運行式 OVA"},
+{id:113187,title:"Null Peta OVA"},
 {id:113397,title:"緣結熊本"},
 {id:113417,title:"おーばーふろぉ"},
 {id:113463,title:"Hulaing Babies☆Petit"},

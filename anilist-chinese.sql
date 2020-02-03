@@ -4459,6 +4459,7 @@ INSERT INTO `anilist_chinese` VALUES (112293,'{\"title\":{\"chinese\":\"成群�
 INSERT INTO `anilist_chinese` VALUES (112324,'{\"title\":{\"chinese\":\"Strike the Blood 消失的聖槍篇\"},\"synonyms_chinese\":[\"噬血狂襲 消失的聖槍篇\"]}');
 INSERT INTO `anilist_chinese` VALUES (112356,'{\"title\":{\"chinese\":\"キスハグ\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (112455,'{\"title\":{\"chinese\":\"天體運行式 OVA\"},\"synonyms_chinese\":[\"天體的秩序 OVA\",\"天體的方式 OVA\",\"天體的法則 OVA\"]}');
+INSERT INTO `anilist_chinese` VALUES (113187,'{\"title\":{\"chinese\":\"Null Peta OVA\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (113397,'{\"title\":{\"chinese\":\"緣結熊本\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (113417,'{\"title\":{\"chinese\":\"おーばーふろぉ\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (113463,'{\"title\":{\"chinese\":\"Hulaing Babies☆Petit\"},\"synonyms_chinese\":[]}');
