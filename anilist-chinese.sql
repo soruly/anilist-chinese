@@ -4370,6 +4370,7 @@ INSERT INTO `anilist_chinese` VALUES (108111,'{\"title\":{\"chinese\":\"你遭�
 INSERT INTO `anilist_chinese` VALUES (108113,'{\"title\":{\"chinese\":\"Master Piece マスターピース THE ANIMATION\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (108147,'{\"title\":{\"chinese\":\"Granbelm\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (108253,'{\"title\":{\"chinese\":\"姫様LOVEライフ！\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (108260,'{\"title\":{\"chinese\":\"Digimon Adventure Last Evolution 絆\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (108263,'{\"title\":{\"chinese\":\"自宅警備員 (2019)\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (108267,'{\"title\":{\"chinese\":\"怪怪守護神 OVA\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (108268,'{\"title\":{\"chinese\":\"小書痴的下剋上：為了成為圖書管理員不擇手段！\"},\"synonyms_chinese\":[]}');
@@ -4450,6 +4451,7 @@ INSERT INTO `anilist_chinese` VALUES (111501,'{\"title\":{\"chinese\":\"請在�
 INSERT INTO `anilist_chinese` VALUES (111656,'{\"title\":{\"chinese\":\"人妻、蜜と肉\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (111729,'{\"title\":{\"chinese\":\"平凡職業造就世界最強 OVA\"},\"synonyms_chinese\":[\"平凡職業成就世界最強 OVA\"]}');
 INSERT INTO `anilist_chinese` VALUES (111733,'{\"title\":{\"chinese\":\"ANOTHER WORLD\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (111790,'{\"title\":{\"chinese\":\"排球少年 陸 VS 空\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (111951,'{\"title\":{\"chinese\":\"寶石商人理察的謎鑑定\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (112033,'{\"title\":{\"chinese\":\"Zenonzard THE ANIMATION\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (112153,'{\"title\":{\"chinese\":\"Pocket Monsters (2019)\"},\"synonyms_chinese\":[]}');
@@ -4458,7 +4460,10 @@ INSERT INTO `anilist_chinese` VALUES (112233,'{\"title\":{\"chinese\":\"ボク�
 INSERT INTO `anilist_chinese` VALUES (112293,'{\"title\":{\"chinese\":\"成群結伴！西頓學園\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (112324,'{\"title\":{\"chinese\":\"Strike the Blood 消失的聖槍篇\"},\"synonyms_chinese\":[\"噬血狂襲 消失的聖槍篇\"]}');
 INSERT INTO `anilist_chinese` VALUES (112356,'{\"title\":{\"chinese\":\"キスハグ\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (112374,'{\"title\":{\"chinese\":\"ちーちゃん開発日記\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (112455,'{\"title\":{\"chinese\":\"天體運行式 OVA\"},\"synonyms_chinese\":[\"天體的秩序 OVA\",\"天體的方式 OVA\",\"天體的法則 OVA\"]}');
+INSERT INTO `anilist_chinese` VALUES (112908,'{\"title\":{\"chinese\":\"となりの家のアネットさん THE ANIMATION\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (112936,'{\"title\":{\"chinese\":\"○○交配\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (113187,'{\"title\":{\"chinese\":\"Null Peta OVA\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (113397,'{\"title\":{\"chinese\":\"緣結熊本\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (113417,'{\"title\":{\"chinese\":\"おーばーふろぉ\"},\"synonyms_chinese\":[]}');

@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2020.2.4
+// @version      2.2020.2.6
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -4349,6 +4349,7 @@ var database = [
 {id:108113,title:"Master Piece マスターピース THE ANIMATION"},
 {id:108147,title:"Granbelm"},
 {id:108253,title:"姫様LOVEライフ！"},
+{id:108260,title:"Digimon Adventure Last Evolution 絆"},
 {id:108263,title:"自宅警備員 (2019)"},
 {id:108267,title:"怪怪守護神 OVA"},
 {id:108268,title:"小書痴的下剋上：為了成為圖書管理員不擇手段！"},
@@ -4429,6 +4430,7 @@ var database = [
 {id:111656,title:"人妻、蜜と肉"},
 {id:111729,title:"平凡職業造就世界最強 OVA"},
 {id:111733,title:"ANOTHER WORLD"},
+{id:111790,title:"排球少年 陸 VS 空"},
 {id:111951,title:"寶石商人理察的謎鑑定"},
 {id:112033,title:"Zenonzard THE ANIMATION"},
 {id:112153,title:"Pocket Monsters (2019)"},
@@ -4437,7 +4439,10 @@ var database = [
 {id:112293,title:"成群結伴！西頓學園"},
 {id:112324,title:"Strike the Blood 消失的聖槍篇"},
 {id:112356,title:"キスハグ"},
+{id:112374,title:"ちーちゃん開発日記"},
 {id:112455,title:"天體運行式 OVA"},
+{id:112908,title:"となりの家のアネットさん THE ANIMATION"},
+{id:112936,title:"○○交配"},
 {id:113187,title:"Null Peta OVA"},
 {id:113397,title:"緣結熊本"},
 {id:113417,title:"おーばーふろぉ"},
