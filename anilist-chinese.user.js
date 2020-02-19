@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2020.2.6
+// @version      2.2020.2.20
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -4433,6 +4433,7 @@ var database = [
 {id:111790,title:"排球少年 陸 VS 空"},
 {id:111951,title:"寶石商人理察的謎鑑定"},
 {id:112033,title:"Zenonzard THE ANIMATION"},
+{id:112125,title:"在地下城尋求邂逅是否搞錯了什麼 2 OVA"},
 {id:112153,title:"Pocket Monsters (2019)"},
 {id:112190,title:"のぞき彼女"},
 {id:112233,title:"ボクと彼女（女医）の診察日誌 THE ANIMATION"},
