@@ -4456,6 +4456,7 @@ INSERT INTO `anilist_chinese` VALUES (111951,'{\"title\":{\"chinese\":\"寶石�
 INSERT INTO `anilist_chinese` VALUES (112033,'{\"title\":{\"chinese\":\"Zenonzard THE ANIMATION\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (112125,'{\"title\":{\"chinese\":\"在地下城尋求邂逅是否搞錯了什麼 2 OVA\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (112153,'{\"title\":{\"chinese\":\"Pocket Monsters (2019)\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (112177,'{\"title\":{\"chinese\":\"實況主的逃脫遊戲【直播中】OVA\"},\"synonyms_chinese\":[\"中之人基因組【實況中】OVA\"]}');
 INSERT INTO `anilist_chinese` VALUES (112190,'{\"title\":{\"chinese\":\"のぞき彼女\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (112233,'{\"title\":{\"chinese\":\"ボクと彼女（女医）の診察日誌 THE ANIMATION\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (112293,'{\"title\":{\"chinese\":\"成群結伴！西頓學園\"},\"synonyms_chinese\":[]}');
