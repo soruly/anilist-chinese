@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2020.2.28
+// @version      2.2020.2.29
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -4314,6 +4314,7 @@ var database = [
 {id:107136,title:"ガキにもどって犯りなおしっ!!!"},
 {id:107138,title:"天使降臨到我身邊！OVA"},
 {id:107201,title:"虛構推理"},
+{id:107208,title:"少女與戰車 最終章 第2話"},
 {id:107226,title:"流汗吧！健身少女"},
 {id:107313,title:"魯邦三世 峰不二子的謊言"},
 {id:107339,title:"萌獸寵物店"},

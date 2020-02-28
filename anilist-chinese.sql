@@ -4335,6 +4335,7 @@ INSERT INTO `anilist_chinese` VALUES (107132,'{\"title\":{\"chinese\":\"三射�
 INSERT INTO `anilist_chinese` VALUES (107136,'{\"title\":{\"chinese\":\"ガキにもどって犯りなおしっ!!!\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (107138,'{\"title\":{\"chinese\":\"天使降臨到我身邊！OVA\"},\"synonyms_chinese\":[\"天使降臨到了我身邊！OVA\"]}');
 INSERT INTO `anilist_chinese` VALUES (107201,'{\"title\":{\"chinese\":\"虛構推理\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (107208,'{\"title\":{\"chinese\":\"少女與戰車 最終章 第2話\"},\"synonyms_chinese\":[\"女子高生&重戰車 最終章\",\"少女&坦克 最終章 第2話\"]}');
 INSERT INTO `anilist_chinese` VALUES (107226,'{\"title\":{\"chinese\":\"流汗吧！健身少女\"},\"synonyms_chinese\":[\"肌肉少女：啞鈴，能舉多少公斤？\"]}');
 INSERT INTO `anilist_chinese` VALUES (107313,'{\"title\":{\"chinese\":\"魯邦三世 峰不二子的謊言\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (107339,'{\"title\":{\"chinese\":\"萌獸寵物店\"},\"synonyms_chinese\":[\"獸道\"]}');
