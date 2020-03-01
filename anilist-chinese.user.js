@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2020.2.29
+// @version      2.2020.3.2
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -4053,6 +4053,7 @@ var database = [
 {id:101474,title:"Overlord III"},
 {id:101478,title:"劇場版 溫泉屋小女將！"},
 {id:101496,title:"大好きな母"},
+{id:101499,title:"劇場版 High School Fleet"},
 {id:101500,title:"Ingress"},
 {id:101501,title:"戀愛與謊言 OVA"},
 {id:101505,title:"只要別西卜大小姐喜歡就好"},

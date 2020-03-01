@@ -4074,6 +4074,7 @@ INSERT INTO `anilist_chinese` VALUES (101471,'{\"title\":{\"chinese\":\"裝刀�
 INSERT INTO `anilist_chinese` VALUES (101474,'{\"title\":{\"chinese\":\"Overlord III\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (101478,'{\"title\":{\"chinese\":\"劇場版 溫泉屋小女將！\"},\"synonyms_chinese\":[\"劇場版 溫泉屋少掌櫃\"]}');
 INSERT INTO `anilist_chinese` VALUES (101496,'{\"title\":{\"chinese\":\"大好きな母\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (101499,'{\"title\":{\"chinese\":\"劇場版 High School Fleet\"},\"synonyms_chinese\":[\"劇場版 高校艦隊\",\"劇場版 青春波紋\"]}');
 INSERT INTO `anilist_chinese` VALUES (101500,'{\"title\":{\"chinese\":\"Ingress\"},\"synonyms_chinese\":[\"虛擬入口\"]}');
 INSERT INTO `anilist_chinese` VALUES (101501,'{\"title\":{\"chinese\":\"戀愛與謊言 OVA\"},\"synonyms_chinese\":[\"戀愛禁止的世界 OVA\"]}');
 INSERT INTO `anilist_chinese` VALUES (101505,'{\"title\":{\"chinese\":\"只要別西卜大小姐喜歡就好\"},\"synonyms_chinese\":[]}');
