@@ -277,6 +277,7 @@ INSERT INTO `anilist_chinese` VALUES (415,'{\"title\":{\"chinese\":\"我的鄰�
 INSERT INTO `anilist_chinese` VALUES (416,'{\"title\":{\"chinese\":\"飛天紅豬俠\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (417,'{\"title\":{\"chinese\":\"Ragnarok\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (419,'{\"title\":{\"chinese\":\"鬼眼狂刀\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (425,'{\"title\":{\"chinese\":\"私立荒磯高等學校生徒會執行部\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (427,'{\"title\":{\"chinese\":\"Kaleido Star\"},\"synonyms_chinese\":[\"星夢美少女\",\"百變之星\",\"萬花筒之星\"]}');
 INSERT INTO `anilist_chinese` VALUES (430,'{\"title\":{\"chinese\":\"劇場版 鋼之鍊金術師 森巴拉的征服者\"},\"synonyms_chinese\":[\"劇場版 鋼之鍊金術師 香巴拉的征服者\"]}');
 INSERT INTO `anilist_chinese` VALUES (431,'{\"title\":{\"chinese\":\"哈爾移動城堡\"},\"synonyms_chinese\":[]}');
@@ -4427,6 +4428,7 @@ INSERT INTO `anilist_chinese` VALUES (110229,'{\"title\":{\"chinese\":\"我們�
 INSERT INTO `anilist_chinese` VALUES (110265,'{\"title\":{\"chinese\":\"Persona 5 the Animation A Magical Valentine\'s Day\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (110270,'{\"title\":{\"chinese\":\"異種族風俗娘評鑑指南\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (110336,'{\"title\":{\"chinese\":\"らぶりー♡\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (110337,'{\"title\":{\"chinese\":\"お兄ちゃん、朝までずっとギュッてして！\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (110347,'{\"title\":{\"chinese\":\"屈辱\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (110350,'{\"title\":{\"chinese\":\"ID: INVADED\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (110382,'{\"title\":{\"chinese\":\"Mini Yuri\"},\"synonyms_chinese\":[\"迷你百合\"]}');
@@ -4469,17 +4471,20 @@ INSERT INTO `anilist_chinese` VALUES (112455,'{\"title\":{\"chinese\":\"天體�
 INSERT INTO `anilist_chinese` VALUES (112908,'{\"title\":{\"chinese\":\"となりの家のアネットさん THE ANIMATION\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (112936,'{\"title\":{\"chinese\":\"○○交配\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (113187,'{\"title\":{\"chinese\":\"Null Peta OVA\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (113220,'{\"title\":{\"chinese\":\"色情教団\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (113397,'{\"title\":{\"chinese\":\"緣結熊本\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (113417,'{\"title\":{\"chinese\":\"おーばーふろぉ\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (113463,'{\"title\":{\"chinese\":\"Hulaing Babies☆Petit\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (113469,'{\"title\":{\"chinese\":\"Rebirth\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (113470,'{\"title\":{\"chinese\":\"Show By Rock!! Mashumairesh!!\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (113621,'{\"title\":{\"chinese\":\"愛聖天使ラブメアリー ～悪性受胎～ THE ANIMATION\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (113828,'{\"title\":{\"chinese\":\"虛構推理 Mini\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (113851,'{\"title\":{\"chinese\":\"Breakers\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (113932,'{\"title\":{\"chinese\":\"破曉之翼\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (114926,'{\"title\":{\"chinese\":\"神田川JET GIRLS OVA\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (114947,'{\"title\":{\"chinese\":\"腐界に眠る王女のアバドーン THE ANIMATION\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (114949,'{\"title\":{\"chinese\":\"ニプルへイムの狩人\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (115685,'{\"title\":{\"chinese\":\"メルティス・クエスト\"},\"synonyms_chinese\":[]}');
 /*!40000 ALTER TABLE `anilist_chinese` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;

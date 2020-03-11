@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2020.3.2
+// @version      2.2020.3.12
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -256,6 +256,7 @@ var database = [
 {id:416,title:"飛天紅豬俠"},
 {id:417,title:"Ragnarok"},
 {id:419,title:"鬼眼狂刀"},
+{id:425,title:"私立荒磯高等學校生徒會執行部"},
 {id:427,title:"Kaleido Star"},
 {id:430,title:"劇場版 鋼之鍊金術師 森巴拉的征服者"},
 {id:431,title:"哈爾移動城堡"},
@@ -4406,6 +4407,7 @@ var database = [
 {id:110265,title:"Persona 5 the Animation A Magical Valentine's Day"},
 {id:110270,title:"異種族風俗娘評鑑指南"},
 {id:110336,title:"らぶりー♡"},
+{id:110337,title:"お兄ちゃん、朝までずっとギュッてして！"},
 {id:110347,title:"屈辱"},
 {id:110350,title:"ID: INVADED"},
 {id:110382,title:"Mini Yuri"},
@@ -4448,17 +4450,20 @@ var database = [
 {id:112908,title:"となりの家のアネットさん THE ANIMATION"},
 {id:112936,title:"○○交配"},
 {id:113187,title:"Null Peta OVA"},
+{id:113220,title:"色情教団"},
 {id:113397,title:"緣結熊本"},
 {id:113417,title:"おーばーふろぉ"},
 {id:113463,title:"Hulaing Babies☆Petit"},
 {id:113469,title:"Rebirth"},
 {id:113470,title:"Show By Rock!! Mashumairesh!!"},
+{id:113621,title:"愛聖天使ラブメアリー ～悪性受胎～ THE ANIMATION"},
 {id:113828,title:"虛構推理 Mini"},
 {id:113851,title:"Breakers"},
 {id:113932,title:"破曉之翼"},
 {id:114926,title:"神田川JET GIRLS OVA"},
 {id:114947,title:"腐界に眠る王女のアバドーン THE ANIMATION"},
-{id:114949,title:"ニプルへイムの狩人"}
+{id:114949,title:"ニプルへイムの狩人"},
+{id:115685,title:"メルティス・クエスト"}
 ];
 
 var updating;
