@@ -4275,6 +4275,7 @@ INSERT INTO `anilist_chinese` VALUES (105066,'{\"title\":{\"chinese\":\"完璧�
 INSERT INTO `anilist_chinese` VALUES (105074,'{\"title\":{\"chinese\":\"魔術學姐\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (105081,'{\"title\":{\"chinese\":\"女高中生的虛度日常\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (105096,'{\"title\":{\"chinese\":\"HERO MASK\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (105143,'{\"title\":{\"chinese\":\"ONE PIECE STAMPEDE\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (105156,'{\"title\":{\"chinese\":\"這個勇者明明超 TUEEE 卻過度謹慎！\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (105190,'{\"title\":{\"chinese\":\"Darwin\'s Game\"},\"synonyms_chinese\":[\"達爾文遊戲\"]}');
 INSERT INTO `anilist_chinese` VALUES (105228,'{\"title\":{\"chinese\":\"異獸魔都\"},\"synonyms_chinese\":[]}');

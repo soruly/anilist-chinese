@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2020.3.12
+// @version      2.2020.3.13
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -4254,6 +4254,7 @@ var database = [
 {id:105074,title:"魔術學姐"},
 {id:105081,title:"女高中生的虛度日常"},
 {id:105096,title:"HERO MASK"},
+{id:105143,title:"ONE PIECE STAMPEDE"},
 {id:105156,title:"這個勇者明明超 TUEEE 卻過度謹慎！"},
 {id:105190,title:"Darwin's Game"},
 {id:105228,title:"異獸魔都"},
