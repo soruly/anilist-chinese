@@ -4297,6 +4297,7 @@ INSERT INTO `anilist_chinese` VALUES (105749,'{\"title\":{\"chinese\":\"鑽石�
 INSERT INTO `anilist_chinese` VALUES (105807,'{\"title\":{\"chinese\":\"7SEEDS\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (105857,'{\"title\":{\"chinese\":\"Star ☆ Twinkle Precure\"},\"synonyms_chinese\":[\"星光☆閃亮 光之美少女\"]}');
 INSERT INTO `anilist_chinese` VALUES (105893,'{\"title\":{\"chinese\":\"我的英雄學院 All Might - Rising The Animation\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (105907,'{\"title\":{\"chinese\":\"FRAME ARMS GIRL 劇場版\"},\"synonyms_chinese\":[\"FRAME ARMS GIRL ~高高興興的幻境~\",\"機甲少女劇場版 ~高高興興的幻境~\"]}');
 INSERT INTO `anilist_chinese` VALUES (105914,'{\"title\":{\"chinese\":\"賢惠幼妻仙狐小姐\"},\"synonyms_chinese\":[\"請讓我撒嬌，仙狐大人！\"]}');
 INSERT INTO `anilist_chinese` VALUES (105928,'{\"title\":{\"chinese\":\"RobiHachi\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (105932,'{\"title\":{\"chinese\":\"騷動時節的少女們啊。\"},\"synonyms_chinese\":[\"騷亂時節的少女們\"]}');

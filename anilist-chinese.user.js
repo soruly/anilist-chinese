@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2020.3.13
+// @version      2.2020.3.16
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -4276,6 +4276,7 @@ var database = [
 {id:105807,title:"7SEEDS"},
 {id:105857,title:"Star ☆ Twinkle Precure"},
 {id:105893,title:"我的英雄學院 All Might - Rising The Animation"},
+{id:105907,title:"FRAME ARMS GIRL 劇場版"},
 {id:105914,title:"賢惠幼妻仙狐小姐"},
 {id:105928,title:"RobiHachi"},
 {id:105932,title:"騷動時節的少女們啊。"},
