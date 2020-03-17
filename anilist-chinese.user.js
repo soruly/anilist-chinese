@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2020.3.16
+// @version      2.2020.3.18
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -481,6 +481,7 @@ var database = [
 {id:1002,title:"Gunbuster 2 - Diebuster"},
 {id:1003,title:"幸運女神"},
 {id:1004,title:"她與她的貓"},
+{id:1028,title:"阿萊蒂公主"},
 {id:1029,title:"歲月的童話"},
 {id:1030,title:"百變貍貓"},
 {id:1033,title:"千年女優"},
@@ -3722,6 +3723,7 @@ var database = [
 {id:98769,title:"おいでよ! 水龍敬ランド"},
 {id:98778,title:"91Days Special"},
 {id:98779,title:"劇場版 噥噥日和 Vacation"},
+{id:98784,title:"薄暮"},
 {id:98790,title:"裙子下的野獸"},
 {id:98814,title:"Dimension W OVA"},
 {id:98820,title:"Just Because!"},
@@ -4337,6 +4339,7 @@ var database = [
 {id:107666,title:"真・中華一番！"},
 {id:107672,title:"獵獸神兵"},
 {id:107693,title:"入間同學入魔了！"},
+{id:107727,title:"二之國"},
 {id:107755,title:"美妙天堂&閃亮 美妙☆頻道 閃亮紀念演出"},
 {id:107864,title:"為了誰的鍊金術師"},
 {id:107876,title:"BEM"},
