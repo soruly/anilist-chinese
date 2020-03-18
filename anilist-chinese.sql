@@ -3791,7 +3791,7 @@ INSERT INTO `anilist_chinese` VALUES (99413,'{\"title\":{\"chinese\":\"RErideD -
 INSERT INTO `anilist_chinese` VALUES (99420,'{\"title\":{\"chinese\":\"少女終末旅行\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (99423,'{\"title\":{\"chinese\":\"DARLING in the FRANXX\"},\"synonyms_chinese\":[\"和達令上弗蘭XX\",\"比翼之吻\"]}');
 INSERT INTO `anilist_chinese` VALUES (99424,'{\"title\":{\"chinese\":\"SSSS.GRIDMAN\"},\"synonyms_chinese\":[]}');
-INSERT INTO `anilist_chinese` VALUES (99425,'{\"title\":{\"chinese\":\"PROMARE\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (99425,'{\"title\":{\"chinese\":\"PROMARE\"},\"synonyms_chinese\":[\"普羅米亞\"]}');
 INSERT INTO `anilist_chinese` VALUES (99426,'{\"title\":{\"chinese\":\"比宇宙更遙遠的地方\"},\"synonyms_chinese\":[\"比宇宙更遠的地方\"]}');
 INSERT INTO `anilist_chinese` VALUES (99441,'{\"title\":{\"chinese\":\"オトメ＊ドメイン THE ANIMATION\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (99457,'{\"title\":{\"chinese\":\"道別的早晨就用約定之花點綴吧\"},\"synonyms_chinese\":[\"朝花夕誓——於離別之朝束起約定之花\"]}');
