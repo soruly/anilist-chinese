@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2020.3.18
+// @version      2.2020.3.20
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -3893,6 +3893,7 @@ var database = [
 {id:100500,title:"妖怪旅館營業中"},
 {id:100518,title:"我的女友是個過度認真的處女 bitch OVA"},
 {id:100519,title:"Princess Principal SP"},
+{id:100522,title:"Armed Blue Gunvolt"},
 {id:100523,title:"情色漫畫老師 OVA"},
 {id:100526,title:"3D彼女"},
 {id:100527,title:"gd Men"},
@@ -3978,6 +3979,7 @@ var database = [
 {id:101085,title:"Dies irae To the ring reincarnation"},
 {id:101097,title:"星光頻道"},
 {id:101100,title:"Fate/kaleid liner Prisma☆Illya 雪下的誓言 Special"},
+{id:101102,title:"劇場版 暗殺教室 365日的時間"},
 {id:101115,title:"戰鬥陀螺 爆發 超絕篇"},
 {id:101117,title:"Free! -Dive to the Future-"},
 {id:101123,title:"Kemurikusa"},
@@ -4108,7 +4110,7 @@ var database = [
 {id:102004,title:"陰陽師：平安物語"},
 {id:102064,title:"八十龜醬觀察日記"},
 {id:102090,title:"輕鬆百合，"},
-{id:102093,title:"黑子的籃球 Winter Cup 總集篇 ～影與光～"},
+{id:102093,title:"劇場版 黑子的籃球 Winter Cup 總集篇 ～影與光～"},
 {id:102313,title:"はさんであげる♡"},
 {id:102346,title:"K SEVEN STORIES SIDE：BLUE ～猶如天狼～"},
 {id:102347,title:"K SEVEN STORIES SIDE：GREEN ～覆寫世界～"},
@@ -4122,6 +4124,7 @@ var database = [
 {id:102436,title:"Strike the Blood III"},
 {id:102561,title:"畫江湖之不良人"},
 {id:102562,title:"畫江湖之不良人 第二季"},
+{id:102573,title:"傳頌之物 圖斯庫爾皇女的華麗日常"},
 {id:102632,title:"幻想萬華鏡 ~The Memories Of Phantasm~"},
 {id:102649,title:"PSYCHO-PASS Sinners of the System Case 1 - 罪與罰"},
 {id:102680,title:"天使降臨到我身邊！"},
@@ -4130,6 +4133,8 @@ var database = [
 {id:102822,title:"閃亂神樂 東京妖魔篇"},
 {id:102832,title:"Devils Line OVA"},
 {id:102835,title:"Revisions"},
+{id:102836,title:"劇場版 黑子的籃球 Winter Cup 總集篇 ～淚之所向～"},
+{id:102839,title:"劇場版 黑子的籃球 Winter Cup 總集篇 ～門的彼端～"},
 {id:102860,title:"蒼天之拳 REGENESIS 2"},
 {id:102875,title:"Himote House"},
 {id:102882,title:"3D彼女 2"},
@@ -4388,6 +4393,7 @@ var database = [
 {id:109085,title:"工作細胞 SP"},
 {id:109089,title:"廚病激發 BOY"},
 {id:109153,title:"少女小短劇 All Starlight"},
+{id:109190,title:"紫羅蘭永恆花園 外傳 -永遠與自動手記人偶-"},
 {id:109298,title:"別對映像研出手！"},
 {id:109299,title:"堕ちモノRPG 聖騎士ルヴィリアス"},
 {id:109300,title:"そしてわたしはおじさんに……"},
