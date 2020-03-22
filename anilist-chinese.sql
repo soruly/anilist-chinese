@@ -4502,7 +4502,7 @@ INSERT INTO `anilist_chinese` VALUES (110337,'{\"title\":{\"chinese\":\"お兄�
 INSERT INTO `anilist_chinese` VALUES (110347,'{\"title\":{\"chinese\":\"屈辱\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (110349,'{\"title\":{\"chinese\":\"Great Pretender\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (110350,'{\"title\":{\"chinese\":\"ID: INVADED\"},\"synonyms_chinese\":[]}');
-INSERT INTO `anilist_chinese` VALUES (110354,'{\"title\":{\"chinese\":\"BNA\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (110354,'{\"title\":{\"chinese\":\"BNA\"},\"synonyms_chinese\":[\"動物新世代\",\"全新動物\"]}');
 INSERT INTO `anilist_chinese` VALUES (110355,'{\"title\":{\"chinese\":\"黃金神威 3\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (110382,'{\"title\":{\"chinese\":\"Mini Yuri\"},\"synonyms_chinese\":[\"迷你百合\"]}');
 INSERT INTO `anilist_chinese` VALUES (110445,'{\"title\":{\"chinese\":\"普通攻擊是全體二連擊，這樣的媽媽你喜歡嗎？ OVA\"},\"synonyms_chinese\":[\"普通攻擊是全體攻擊而且能二次攻擊的媽媽你喜歡嗎？ OVA\"]}');
