@@ -4553,6 +4553,7 @@ INSERT INTO `anilist_chinese` VALUES (112374,'{\"title\":{\"chinese\":\"ちー�
 INSERT INTO `anilist_chinese` VALUES (112444,'{\"title\":{\"chinese\":\"天晴爛漫!\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (112455,'{\"title\":{\"chinese\":\"天體運行式 OVA\"},\"synonyms_chinese\":[\"天體的秩序 OVA\",\"天體的方式 OVA\",\"天體的法則 OVA\"]}');
 INSERT INTO `anilist_chinese` VALUES (112625,'{\"title\":{\"chinese\":\"齊木楠雄的災難 Ψ始動篇\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (112748,'{\"title\":{\"chinese\":\"Healin\' Good ♥ 光之美少女\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (112803,'{\"title\":{\"chinese\":\"No Guns Life 2\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (112908,'{\"title\":{\"chinese\":\"となりの家のアネットさん THE ANIMATION\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (112936,'{\"title\":{\"chinese\":\"○○交配\"},\"synonyms_chinese\":[]}');

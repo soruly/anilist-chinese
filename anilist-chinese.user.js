@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2020.3.21
+// @version      2.2020.3.25
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -4532,6 +4532,7 @@ var database = [
 {id:112444,title:"天晴爛漫!"},
 {id:112455,title:"天體運行式 OVA"},
 {id:112625,title:"齊木楠雄的災難 Ψ始動篇"},
+{id:112748,title:"Healin' Good ♥ 光之美少女"},
 {id:112803,title:"No Guns Life 2"},
 {id:112908,title:"となりの家のアネットさん THE ANIMATION"},
 {id:112936,title:"○○交配"},
@@ -4573,10 +4574,10 @@ var database = [
 
 var updating;
 var url;
-var myDOMNodeInsertedAction = function() {
-  var translate = function() {
+var myDOMNodeInsertedAction = function () {
+  var translate = function () {
     var anilist_id = parseInt(window.location.pathname.split("/")[2]);
-    var result = database.filter(e => e.id === anilist_id)[0];
+    var result = database.filter((e) => e.id === anilist_id)[0];
     if (result) {
       var zh_title = document.createElement("div");
       zh_title.class = "data-set";
@@ -4593,10 +4594,10 @@ var myDOMNodeInsertedAction = function() {
     }
   };
 
-  var batchTranslate = function(target) {
-    document.querySelectorAll(target).forEach(function(e) {
+  var batchTranslate = function (target) {
+    document.querySelectorAll(target).forEach(function (e) {
       var anilist_id = parseInt(e.href.split("/")[4]);
-      var result = database.filter(e => e.id === anilist_id)[0];
+      var result = database.filter((e) => e.id === anilist_id)[0];
       if (result) {
         e.text = result.title;
       }
@@ -4604,7 +4605,7 @@ var myDOMNodeInsertedAction = function() {
   };
 
   clearTimeout(updating);
-  updating = setTimeout(function() {
+  updating = setTimeout(function () {
     if (window.location.pathname !== url) {
       url = window.location.pathname;
       if (window.location.pathname.indexOf("/anime/") === 0) {
