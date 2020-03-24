@@ -8,18 +8,18 @@ const knex = require("knex")({
     host: DB_HOST,
     user: DB_USER,
     password: DB_PASS,
-    database: DB_NAME
-  }
+    database: DB_NAME,
+  },
 });
 
 (async () => {
   const animeIDList = await knex("anilist_chinese").select("*");
-  const db = animeIDList.map(e => ({
+  const db = animeIDList.map((e) => ({
     id: parseInt(e.id, 10),
-    title: JSON.parse(e.json).title.chinese
+    title: JSON.parse(e.json).title.chinese,
   }));
   const db_str = db
-    .map(e =>
+    .map((e) =>
       JSON.stringify(e)
         .replace(/"id":/g, "id:")
         .replace(/"title":/g, "title:")
@@ -33,8 +33,9 @@ const knex = require("knex")({
   if (js_str !== fs.readFileSync("cache.txt", "utf8")) {
     fs.writeFileSync("cache.txt", js_str);
     const d = new Date();
-    const version_str = `2.${d.getFullYear()}.${d.getMonth() +
-      1}.${d.getDate()}`;
+    const version_str = `2.${d.getFullYear()}.${
+      d.getMonth() + 1
+    }.${d.getDate()}`;
     const js_file_str = js_str.replace(
       "// @version      2.0",
       `// @version      ${version_str}`

@@ -18,10 +18,10 @@ var database = [];
 
 var updating;
 var url;
-var myDOMNodeInsertedAction = function() {
-  var translate = function() {
+var myDOMNodeInsertedAction = function () {
+  var translate = function () {
     var anilist_id = parseInt(window.location.pathname.split("/")[2]);
-    var result = database.filter(e => e.id === anilist_id)[0];
+    var result = database.filter((e) => e.id === anilist_id)[0];
     if (result) {
       var zh_title = document.createElement("div");
       zh_title.class = "data-set";
@@ -38,10 +38,10 @@ var myDOMNodeInsertedAction = function() {
     }
   };
 
-  var batchTranslate = function(target) {
-    document.querySelectorAll(target).forEach(function(e) {
+  var batchTranslate = function (target) {
+    document.querySelectorAll(target).forEach(function (e) {
       var anilist_id = parseInt(e.href.split("/")[4]);
-      var result = database.filter(e => e.id === anilist_id)[0];
+      var result = database.filter((e) => e.id === anilist_id)[0];
       if (result) {
         e.text = result.title;
       }
@@ -49,7 +49,7 @@ var myDOMNodeInsertedAction = function() {
   };
 
   clearTimeout(updating);
-  updating = setTimeout(function() {
+  updating = setTimeout(function () {
     if (window.location.pathname !== url) {
       url = window.location.pathname;
       if (window.location.pathname.indexOf("/anime/") === 0) {
