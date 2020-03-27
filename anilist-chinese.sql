@@ -4588,6 +4588,7 @@ INSERT INTO `anilist_chinese` VALUES (114947,'{\"title\":{\"chinese\":\"腐界�
 INSERT INTO `anilist_chinese` VALUES (114949,'{\"title\":{\"chinese\":\"ニプルへイムの狩人\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (114963,'{\"title\":{\"chinese\":\"想哭的我戴上了貓的面具\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (115230,'{\"title\":{\"chinese\":\"神之塔 -Tower of God-\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (115519,'{\"title\":{\"chinese\":\"Cinderella Girls 劇場 Extra Stage\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (115685,'{\"title\":{\"chinese\":\"メルティス・クエスト\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (116053,'{\"title\":{\"chinese\":\"戰國鳥獸戲畫～乙～\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (116676,'{\"title\":{\"chinese\":\"劇場版 黃金拼圖\"},\"synonyms_chinese\":[\"劇場版 金色馬賽克\",\"劇場版 黃金嵌片\"]}');

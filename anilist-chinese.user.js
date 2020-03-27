@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2020.3.25
+// @version      2.2020.3.28
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -4567,6 +4567,7 @@ var database = [
 {id:114949,title:"ニプルへイムの狩人"},
 {id:114963,title:"想哭的我戴上了貓的面具"},
 {id:115230,title:"神之塔 -Tower of God-"},
+{id:115519,title:"Cinderella Girls 劇場 Extra Stage"},
 {id:115685,title:"メルティス・クエスト"},
 {id:116053,title:"戰國鳥獸戲畫～乙～"},
 {id:116676,title:"劇場版 黃金拼圖"}
