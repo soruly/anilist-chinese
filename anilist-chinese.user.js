@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2020.3.30
+// @version      2.2020.3.31
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -4565,7 +4565,7 @@ var database = [
 {id:113813,title:"出租女友"},
 {id:113828,title:"虛構推理 Mini"},
 {id:113851,title:"Breakers"},
-{id:113917,title:"PSYCHO-PASS 3: First Inspector"},
+{id:113917,title:"PSYCHO-PASS 3 First Inspector"},
 {id:113932,title:"破曉之翼"},
 {id:114043,title:"食戟之靈 豪之皿"},
 {id:114072,title:"遊戯王SEVENS"},

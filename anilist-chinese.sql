@@ -4586,7 +4586,7 @@ INSERT INTO `anilist_chinese` VALUES (113811,'{\"title\":{\"chinese\":\"小書�
 INSERT INTO `anilist_chinese` VALUES (113813,'{\"title\":{\"chinese\":\"出租女友\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (113828,'{\"title\":{\"chinese\":\"虛構推理 Mini\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (113851,'{\"title\":{\"chinese\":\"Breakers\"},\"synonyms_chinese\":[]}');
-INSERT INTO `anilist_chinese` VALUES (113917,'{\"title\":{\"chinese\":\"PSYCHO-PASS 3: First Inspector\"},\"synonyms_chinese\":[\"心靈判官 3 First Inspector\"]}');
+INSERT INTO `anilist_chinese` VALUES (113917,'{\"title\":{\"chinese\":\"PSYCHO-PASS 3 First Inspector\"},\"synonyms_chinese\":[\"心靈判官 3 First Inspector\"]}');
 INSERT INTO `anilist_chinese` VALUES (113932,'{\"title\":{\"chinese\":\"破曉之翼\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (114043,'{\"title\":{\"chinese\":\"食戟之靈 豪之皿\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (114072,'{\"title\":{\"chinese\":\"遊戯王SEVENS\"},\"synonyms_chinese\":[]}');
