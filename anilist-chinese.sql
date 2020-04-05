@@ -4298,7 +4298,7 @@ INSERT INTO `anilist_chinese` VALUES (104530,'{\"title\":{\"chinese\":\"品酒�
 INSERT INTO `anilist_chinese` VALUES (104562,'{\"title\":{\"chinese\":\"相對世界。明日終結？\"},\"synonyms_chinese\":[\"就算世界明天終結\",\"即使明天世界將迎來終結\"]}');
 INSERT INTO `anilist_chinese` VALUES (104578,'{\"title\":{\"chinese\":\"進擊的巨人 3\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (104580,'{\"title\":{\"chinese\":\"齊木楠雄的災難 完結篇\"},\"synonyms_chinese\":[]}');
-INSERT INTO `anilist_chinese` VALUES (104647,'{\"title\":{\"chinese\":\"轉生成女性向遊戲只有毀滅END的壞人大小姐\"},\"synonyms_chinese\":[\"轉生惡役只好拔除破滅旗標\"]}');
+INSERT INTO `anilist_chinese` VALUES (104647,'{\"title\":{\"chinese\":\"轉生成女性向遊戲只有毀滅END的壞人大小姐\"},\"synonyms_chinese\":[\"轉生惡役只好拔除破滅旗標\",\"轉生成為了只有乙女遊戲破滅Flag的邪惡大小姐\"]}');
 INSERT INTO `anilist_chinese` VALUES (104674,'{\"title\":{\"chinese\":\"笑容的代價\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (104679,'{\"title\":{\"chinese\":\"Rifle Is Beautiful\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (104712,'{\"title\":{\"chinese\":\"雨色可可 sideG\"},\"synonyms_chinese\":[]}');
