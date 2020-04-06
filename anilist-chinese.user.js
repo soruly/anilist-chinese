@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2020.4.2
+// @version      2.2020.4.7
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -4588,7 +4588,8 @@ var database = [
 {id:115685,title:"メルティス・クエスト"},
 {id:116053,title:"戰國鳥獸戲畫～乙～"},
 {id:116248,title:"女學。～聖女斯克威爾學院～"},
-{id:116676,title:"劇場版 黃金拼圖"}
+{id:116676,title:"劇場版 黃金拼圖"},
+{id:116968,title:"GRANBLUE FANTASY The Animation Season 2 SP"}
 ];
 
 var updating;

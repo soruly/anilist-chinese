@@ -4610,6 +4610,7 @@ INSERT INTO `anilist_chinese` VALUES (115685,'{\"title\":{\"chinese\":\"メル�
 INSERT INTO `anilist_chinese` VALUES (116053,'{\"title\":{\"chinese\":\"戰國鳥獸戲畫～乙～\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (116248,'{\"title\":{\"chinese\":\"女學。～聖女斯克威爾學院～\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (116676,'{\"title\":{\"chinese\":\"劇場版 黃金拼圖\"},\"synonyms_chinese\":[\"劇場版 金色馬賽克\",\"劇場版 黃金嵌片\"]}');
+INSERT INTO `anilist_chinese` VALUES (116968,'{\"title\":{\"chinese\":\"GRANBLUE FANTASY The Animation Season 2 SP\"},\"synonyms_chinese\":[\"碧藍幻想 2 SP\"]}');
 /*!40000 ALTER TABLE `anilist_chinese` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
