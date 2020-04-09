@@ -4590,6 +4590,7 @@ INSERT INTO `anilist_chinese` VALUES (113917,'{\"title\":{\"chinese\":\"PSYCHO-P
 INSERT INTO `anilist_chinese` VALUES (113932,'{\"title\":{\"chinese\":\"破曉之翼\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (114043,'{\"title\":{\"chinese\":\"食戟之靈 豪之皿\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (114072,'{\"title\":{\"chinese\":\"遊戯王SEVENS\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (114233,'{\"title\":{\"chinese\":\"Gundam Build Divers Re:RISE 2\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (114242,'{\"title\":{\"chinese\":\"淫毛\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (114243,'{\"title\":{\"chinese\":\"自宅警備員2\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (114308,'{\"title\":{\"chinese\":\"Sword Art Online Alicization War of Underworld -THE LAST SEASON-\"},\"synonyms_chinese\":[]}');
