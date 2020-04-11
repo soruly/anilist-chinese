@@ -4568,6 +4568,7 @@ INSERT INTO `anilist_chinese` VALUES (112908,'{\"title\":{\"chinese\":\"とな�
 INSERT INTO `anilist_chinese` VALUES (112936,'{\"title\":{\"chinese\":\"○○交配\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (113023,'{\"title\":{\"chinese\":\"少女☆歌劇 Revue Starlight Rondo Rondo Rondo\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (113024,'{\"title\":{\"chinese\":\"劇場版 少女☆歌劇 Revue Starlight\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (113051,'{\"title\":{\"chinese\":\"ARGONAVIS from BanG Dream!\"},\"synonyms_chinese\":[\"邦男人\",\"男人邦\"]}');
 INSERT INTO `anilist_chinese` VALUES (113108,'{\"title\":{\"chinese\":\"Kingdom 3\"},\"synonyms_chinese\":[\"王者天下 3\",\"KINGDOM戰臣 3\"]}');
 INSERT INTO `anilist_chinese` VALUES (113187,'{\"title\":{\"chinese\":\"Null Peta OVA\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (113220,'{\"title\":{\"chinese\":\"色情教団\"},\"synonyms_chinese\":[]}');
@@ -4582,6 +4583,7 @@ INSERT INTO `anilist_chinese` VALUES (113570,'{\"title\":{\"chinese\":\"社長�
 INSERT INTO `anilist_chinese` VALUES (113621,'{\"title\":{\"chinese\":\"愛聖天使ラブメアリー ～悪性受胎～ THE ANIMATION\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (113692,'{\"title\":{\"chinese\":\"劇場版 妄想學生會 2\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (113693,'{\"title\":{\"chinese\":\"小書痴的下剋上：為了成為圖書管理員不擇手段！2\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (113705,'{\"title\":{\"chinese\":\"巨乳プリンセス催眠\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (113811,'{\"title\":{\"chinese\":\"小書痴的下剋上：為了成為圖書管理員不擇手段！ OVA\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (113813,'{\"title\":{\"chinese\":\"出租女友\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (113828,'{\"title\":{\"chinese\":\"虛構推理 Mini\"},\"synonyms_chinese\":[]}');
@@ -4608,10 +4610,17 @@ INSERT INTO `anilist_chinese` VALUES (115186,'{\"title\":{\"chinese\":\"奧林�
 INSERT INTO `anilist_chinese` VALUES (115230,'{\"title\":{\"chinese\":\"神之塔 -Tower of God-\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (115519,'{\"title\":{\"chinese\":\"Cinderella Girls 劇場 Extra Stage\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (115685,'{\"title\":{\"chinese\":\"メルティス・クエスト\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (115821,'{\"title\":{\"chinese\":\"俺の指に乱れろ。〜閉店後二人きりのサロンで…〜\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (116053,'{\"title\":{\"chinese\":\"戰國鳥獸戲畫～乙～\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (116147,'{\"title\":{\"chinese\":\"One Room 3\"},\"synonyms_chinese\":[\"一間房 3\"]}');
 INSERT INTO `anilist_chinese` VALUES (116248,'{\"title\":{\"chinese\":\"女學。～聖女斯克威爾學院～\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (116605,'{\"title\":{\"chinese\":\"Date A Live IV\"},\"synonyms_chinese\":[\"約會大作戰IV\"]}');
 INSERT INTO `anilist_chinese` VALUES (116676,'{\"title\":{\"chinese\":\"劇場版 黃金拼圖\"},\"synonyms_chinese\":[\"劇場版 金色馬賽克\",\"劇場版 黃金嵌片\"]}');
+INSERT INTO `anilist_chinese` VALUES (116944,'{\"title\":{\"chinese\":\"WIXOSS (2020)\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (116968,'{\"title\":{\"chinese\":\"GRANBLUE FANTASY The Animation Season 2 SP\"},\"synonyms_chinese\":[\"碧藍幻想 2 SP\"]}');
+INSERT INTO `anilist_chinese` VALUES (117002,'{\"title\":{\"chinese\":\"魔法紀錄 魔法少女小圓外傳 2\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (117396,'{\"title\":{\"chinese\":\"虛擬小姐在看著你 OVA\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (117448,'{\"title\":{\"chinese\":\"異世界魔王與召喚少女的奴隸魔術Ω\"},\"synonyms_chinese\":[]}');
 /*!40000 ALTER TABLE `anilist_chinese` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;

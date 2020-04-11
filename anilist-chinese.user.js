@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2020.4.10
+// @version      2.2020.4.12
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -4547,6 +4547,7 @@ var database = [
 {id:112936,title:"○○交配"},
 {id:113023,title:"少女☆歌劇 Revue Starlight Rondo Rondo Rondo"},
 {id:113024,title:"劇場版 少女☆歌劇 Revue Starlight"},
+{id:113051,title:"ARGONAVIS from BanG Dream!"},
 {id:113108,title:"Kingdom 3"},
 {id:113187,title:"Null Peta OVA"},
 {id:113220,title:"色情教団"},
@@ -4561,6 +4562,7 @@ var database = [
 {id:113621,title:"愛聖天使ラブメアリー ～悪性受胎～ THE ANIMATION"},
 {id:113692,title:"劇場版 妄想學生會 2"},
 {id:113693,title:"小書痴的下剋上：為了成為圖書管理員不擇手段！2"},
+{id:113705,title:"巨乳プリンセス催眠"},
 {id:113811,title:"小書痴的下剋上：為了成為圖書管理員不擇手段！ OVA"},
 {id:113813,title:"出租女友"},
 {id:113828,title:"虛構推理 Mini"},
@@ -4587,10 +4589,17 @@ var database = [
 {id:115230,title:"神之塔 -Tower of God-"},
 {id:115519,title:"Cinderella Girls 劇場 Extra Stage"},
 {id:115685,title:"メルティス・クエスト"},
+{id:115821,title:"俺の指に乱れろ。〜閉店後二人きりのサロンで…〜"},
 {id:116053,title:"戰國鳥獸戲畫～乙～"},
+{id:116147,title:"One Room 3"},
 {id:116248,title:"女學。～聖女斯克威爾學院～"},
+{id:116605,title:"Date A Live IV"},
 {id:116676,title:"劇場版 黃金拼圖"},
-{id:116968,title:"GRANBLUE FANTASY The Animation Season 2 SP"}
+{id:116944,title:"WIXOSS (2020)"},
+{id:116968,title:"GRANBLUE FANTASY The Animation Season 2 SP"},
+{id:117002,title:"魔法紀錄 魔法少女小圓外傳 2"},
+{id:117396,title:"虛擬小姐在看著你 OVA"},
+{id:117448,title:"異世界魔王與召喚少女的奴隸魔術Ω"}
 ];
 
 var updating;
