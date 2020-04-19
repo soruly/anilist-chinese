@@ -4456,6 +4456,7 @@ INSERT INTO `anilist_chinese` VALUES (108625,'{\"title\":{\"chinese\":\"星光�
 INSERT INTO `anilist_chinese` VALUES (108626,'{\"title\":{\"chinese\":\"HUMAN LOST 人間失格\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (108628,'{\"title\":{\"chinese\":\"number24\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (108629,'{\"title\":{\"chinese\":\"啄木鳥偵探社\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (108631,'{\"title\":{\"chinese\":\"工作細胞 2\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (108632,'{\"title\":{\"chinese\":\"Re：從零開始的異世界生活 2\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (108725,'{\"title\":{\"chinese\":\"約定的夢幻島 2\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (108742,'{\"title\":{\"chinese\":\"てにおはっ！2 ～ねぇ、もっとえっちなコトいっぱいしよ？～ THE ANIMATION\"},\"synonyms_chinese\":[]}');
@@ -4621,6 +4622,7 @@ INSERT INTO `anilist_chinese` VALUES (116968,'{\"title\":{\"chinese\":\"GRANBLUE
 INSERT INTO `anilist_chinese` VALUES (117002,'{\"title\":{\"chinese\":\"魔法紀錄 魔法少女小圓外傳 2\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (117396,'{\"title\":{\"chinese\":\"虛擬小姐在看著你 OVA\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (117448,'{\"title\":{\"chinese\":\"異世界魔王與召喚少女的奴隸魔術Ω\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (117533,'{\"title\":{\"chinese\":\"工作細胞 BLACK\"},\"synonyms_chinese\":[]}');
 /*!40000 ALTER TABLE `anilist_chinese` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;

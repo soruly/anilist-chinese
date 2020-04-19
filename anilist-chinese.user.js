@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2020.4.12
+// @version      2.2020.4.20
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -4435,6 +4435,7 @@ var database = [
 {id:108626,title:"HUMAN LOST 人間失格"},
 {id:108628,title:"number24"},
 {id:108629,title:"啄木鳥偵探社"},
+{id:108631,title:"工作細胞 2"},
 {id:108632,title:"Re：從零開始的異世界生活 2"},
 {id:108725,title:"約定的夢幻島 2"},
 {id:108742,title:"てにおはっ！2 ～ねぇ、もっとえっちなコトいっぱいしよ？～ THE ANIMATION"},
@@ -4599,7 +4600,8 @@ var database = [
 {id:116968,title:"GRANBLUE FANTASY The Animation Season 2 SP"},
 {id:117002,title:"魔法紀錄 魔法少女小圓外傳 2"},
 {id:117396,title:"虛擬小姐在看著你 OVA"},
-{id:117448,title:"異世界魔王與召喚少女的奴隸魔術Ω"}
+{id:117448,title:"異世界魔王與召喚少女的奴隸魔術Ω"},
+{id:117533,title:"工作細胞 BLACK"}
 ];
 
 var updating;
