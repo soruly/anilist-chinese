@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2020.4.20
+// @version      2.2020.4.26
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -4540,6 +4540,7 @@ var database = [
 {id:112374,title:"ちーちゃん開発日記"},
 {id:112444,title:"天晴爛漫!"},
 {id:112455,title:"天體運行式 OVA"},
+{id:112534,title:"魔神英雄傳 七魂的龍神丸"},
 {id:112625,title:"齊木楠雄的災難 Ψ始動篇"},
 {id:112641,title:"輝夜姬想讓人告白? ~天才們的戀愛頭腦戰~"},
 {id:112748,title:"Healin' Good ♥ 光之美少女"},
@@ -4582,6 +4583,7 @@ var database = [
 {id:114811,title:"Digimon Adventure:"},
 {id:114862,title:"Log Horizon 圓桌崩壞"},
 {id:114888,title:"富豪刑事Balance:UNLIMITED"},
+{id:114891,title:"座敷童子榻榻米醬"},
 {id:114926,title:"神田川JET GIRLS OVA"},
 {id:114947,title:"腐界に眠る王女のアバドーン THE ANIMATION"},
 {id:114949,title:"ニプルへイムの狩人"},

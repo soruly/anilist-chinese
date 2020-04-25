@@ -4561,6 +4561,7 @@ INSERT INTO `anilist_chinese` VALUES (112356,'{\"title\":{\"chinese\":\"キス�
 INSERT INTO `anilist_chinese` VALUES (112374,'{\"title\":{\"chinese\":\"ちーちゃん開発日記\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (112444,'{\"title\":{\"chinese\":\"天晴爛漫!\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (112455,'{\"title\":{\"chinese\":\"天體運行式 OVA\"},\"synonyms_chinese\":[\"天體的秩序 OVA\",\"天體的方式 OVA\",\"天體的法則 OVA\"]}');
+INSERT INTO `anilist_chinese` VALUES (112534,'{\"title\":{\"chinese\":\"魔神英雄傳 七魂的龍神丸\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (112625,'{\"title\":{\"chinese\":\"齊木楠雄的災難 Ψ始動篇\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (112641,'{\"title\":{\"chinese\":\"輝夜姬想讓人告白? ~天才們的戀愛頭腦戰~\"},\"synonyms_chinese\":[\"輝夜大小姐想讓我告白?~天才們的戀愛頭腦戰~\"]}');
 INSERT INTO `anilist_chinese` VALUES (112748,'{\"title\":{\"chinese\":\"Healin\' Good ♥ 光之美少女\"},\"synonyms_chinese\":[]}');
@@ -4603,6 +4604,7 @@ INSERT INTO `anilist_chinese` VALUES (114717,'{\"title\":{\"chinese\":\"TOMICA �
 INSERT INTO `anilist_chinese` VALUES (114811,'{\"title\":{\"chinese\":\"Digimon Adventure:\"},\"synonyms_chinese\":[\"數碼寶貝大冒險：\"]}');
 INSERT INTO `anilist_chinese` VALUES (114862,'{\"title\":{\"chinese\":\"Log Horizon 圓桌崩壞\"},\"synonyms_chinese\":[\"記錄的地平線 圓桌崩壞\"]}');
 INSERT INTO `anilist_chinese` VALUES (114888,'{\"title\":{\"chinese\":\"富豪刑事Balance:UNLIMITED\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (114891,'{\"title\":{\"chinese\":\"座敷童子榻榻米醬\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (114926,'{\"title\":{\"chinese\":\"神田川JET GIRLS OVA\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (114947,'{\"title\":{\"chinese\":\"腐界に眠る王女のアバドーン THE ANIMATION\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (114949,'{\"title\":{\"chinese\":\"ニプルへイムの狩人\"},\"synonyms_chinese\":[]}');
