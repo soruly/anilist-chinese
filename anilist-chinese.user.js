@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2020.4.26
+// @version      2.2020.4.29
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -1440,6 +1440,7 @@ var database = [
 {id:7590,title:"迷途貓Overrun"},
 {id:7592,title:"滑頭鬼之孫"},
 {id:7593,title:"Kiss×sis"},
+{id:7601,title:"魔神英雄傳 永恆傳說"},
 {id:7627,title:"超元氣3姊妹"},
 {id:7645,title:"Heartcatch 光之美少女！"},
 {id:7647,title:"荒川爆笑團"},

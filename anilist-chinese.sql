@@ -1461,6 +1461,7 @@ INSERT INTO `anilist_chinese` VALUES (7588,'{\"title\":{\"chinese\":\"江戶盜�
 INSERT INTO `anilist_chinese` VALUES (7590,'{\"title\":{\"chinese\":\"迷途貓Overrun\"},\"synonyms_chinese\":[\"嬌蠻貓娘大橫行\"]}');
 INSERT INTO `anilist_chinese` VALUES (7592,'{\"title\":{\"chinese\":\"滑頭鬼之孫\"},\"synonyms_chinese\":[\"滑瓢之孫\",\"妖怪少爺\",\"百鬼小當家\"]}');
 INSERT INTO `anilist_chinese` VALUES (7593,'{\"title\":{\"chinese\":\"Kiss×sis\"},\"synonyms_chinese\":[\"親吻姊姊\",\"親吻姐姐\"]}');
+INSERT INTO `anilist_chinese` VALUES (7601,'{\"title\":{\"chinese\":\"魔神英雄傳 永恆傳說\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (7627,'{\"title\":{\"chinese\":\"超元氣3姊妹\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (7645,'{\"title\":{\"chinese\":\"Heartcatch 光之美少女！\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (7647,'{\"title\":{\"chinese\":\"荒川爆笑團\"},\"synonyms_chinese\":[\"荒川橋下\"]}');
@@ -4555,7 +4556,7 @@ INSERT INTO `anilist_chinese` VALUES (112300,'{\"title\":{\"chinese\":\"魔法�
 INSERT INTO `anilist_chinese` VALUES (112301,'{\"title\":{\"chinese\":\"魔王學院的不適合者\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (112302,'{\"title\":{\"chinese\":\"棒球大聯盟 2nd 第2季\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (112324,'{\"title\":{\"chinese\":\"Strike the Blood 消失的聖槍篇\"},\"synonyms_chinese\":[\"噬血狂襲 消失的聖槍篇\"]}');
-INSERT INTO `anilist_chinese` VALUES (112325,'{\"title\":{\"chinese\":\"Shadowverse\"},\"synonyms_chinese\":[\"闇影詩章\"]}');
+INSERT INTO `anilist_chinese` VALUES (112325,'{\"title\":{\"chinese\":\"Shadowverse\"},\"synonyms_chinese\":[\"闇影詩章\",\"影之詩\"]}');
 INSERT INTO `anilist_chinese` VALUES (112353,'{\"title\":{\"chinese\":\"聽我的電波吧\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (112356,'{\"title\":{\"chinese\":\"キスハグ\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (112374,'{\"title\":{\"chinese\":\"ちーちゃん開発日記\"},\"synonyms_chinese\":[]}');
