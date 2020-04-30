@@ -4069,8 +4069,8 @@ INSERT INTO `anilist_chinese` VALUES (101336,'{\"title\":{\"chinese\":\"傀儡�
 INSERT INTO `anilist_chinese` VALUES (101337,'{\"title\":{\"chinese\":\"W\'z\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (101338,'{\"title\":{\"chinese\":\"Mob Psycho 100 II\"},\"synonyms_chinese\":[\"靈能百分百 II\",\"路人超能100 II\"]}');
 INSERT INTO `anilist_chinese` VALUES (101340,'{\"title\":{\"chinese\":\"魔法律顧問事務所\"},\"synonyms_chinese\":[\"魔法律事務所\"]}');
-INSERT INTO `anilist_chinese` VALUES (101343,'{\"title\":{\"chinese\":\"Made in Abyss 啟程的黎明\"},\"synonyms_chinese\":[\"來自深淵 劇場版總集篇 前編：啟程的黎明\"]}');
-INSERT INTO `anilist_chinese` VALUES (101344,'{\"title\":{\"chinese\":\"Made in Abyss 流浪之黃昏\"},\"synonyms_chinese\":[\"來自深淵 劇場版總集篇 後編：流浪之黃昏\"]}');
+INSERT INTO `anilist_chinese` VALUES (101343,'{\"title\":{\"chinese\":\"Made in Abyss 啟程的黎明\"},\"synonyms_chinese\":[\"來自深淵 劇場版總集篇 前編：啟程的黎明\",\"來自深淵 劇場版總集篇 前編：啟程之拂曉\"]}');
+INSERT INTO `anilist_chinese` VALUES (101344,'{\"title\":{\"chinese\":\"Made in Abyss 流浪之黃昏\"},\"synonyms_chinese\":[\"來自深淵 劇場版總集篇 後編：流浪之黃昏\",\"來自深淵 劇場版總集篇 後編：漂泊之黃昏\"]}');
 INSERT INTO `anilist_chinese` VALUES (101345,'{\"title\":{\"chinese\":\"劇場版 城市獵人 新宿 PRIVATE EYES\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (101347,'{\"title\":{\"chinese\":\"多羅羅\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (101348,'{\"title\":{\"chinese\":\"Vinland Saga\"},\"synonyms_chinese\":[\"海盜戰記\",\"冰海戰記\"]}');
