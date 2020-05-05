@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2020.4.29
+// @version      2.2020.5.6
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -870,6 +870,7 @@ var database = [
 {id:2971,title:"今天開始做魔王 R"},
 {id:2977,title:"妖獣戦線アドベンチャーKID"},
 {id:2979,title:"亜紀子"},
+{id:2985,title:"魔人偵探腦嚙涅羅"},
 {id:2986,title:"Bamboo Blade"},
 {id:2993,title:"十字架與吸血姬"},
 {id:2994,title:"Death Note Rewrite"},

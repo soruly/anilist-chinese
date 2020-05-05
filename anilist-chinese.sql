@@ -891,6 +891,7 @@ INSERT INTO `anilist_chinese` VALUES (2970,'{\"title\":{\"chinese\":\"暗夜魔�
 INSERT INTO `anilist_chinese` VALUES (2971,'{\"title\":{\"chinese\":\"今天開始做魔王 R\"},\"synonyms_chinese\":[\"從今開始魔王 R\"]}');
 INSERT INTO `anilist_chinese` VALUES (2977,'{\"title\":{\"chinese\":\"妖獣戦線アドベンチャーKID\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (2979,'{\"title\":{\"chinese\":\"亜紀子\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (2985,'{\"title\":{\"chinese\":\"魔人偵探腦嚙涅羅\"},\"synonyms_chinese\":[\"魔人偵探食腦奈羅\",\"魔人偵探腦嚙尼奧洛\"]}');
 INSERT INTO `anilist_chinese` VALUES (2986,'{\"title\":{\"chinese\":\"Bamboo Blade\"},\"synonyms_chinese\":[\"竹劍少女\",\"竹刀少女\"]}');
 INSERT INTO `anilist_chinese` VALUES (2993,'{\"title\":{\"chinese\":\"十字架與吸血姬\"},\"synonyms_chinese\":[\"十字架 + 吸血姬\",\"十字架與吸血姬\",\"十字架與吸血鬼\",\"吸血鬼女友\"]}');
 INSERT INTO `anilist_chinese` VALUES (2994,'{\"title\":{\"chinese\":\"Death Note Rewrite\"},\"synonyms_chinese\":[\"死亡筆記 幻影之神\",\"死亡筆記 L的繼承者\"]}');
