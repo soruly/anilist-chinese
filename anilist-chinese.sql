@@ -3867,6 +3867,7 @@ INSERT INTO `anilist_chinese` VALUES (99894,'{\"title\":{\"chinese\":\"相親對
 INSERT INTO `anilist_chinese` VALUES (99911,'{\"title\":{\"chinese\":\"かぎろひ~勺景~ Another\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (99912,'{\"title\":{\"chinese\":\"巨乳大家族催眠\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (99916,'{\"title\":{\"chinese\":\"牽牛花與加瀨同學。\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (99937,'{\"title\":{\"chinese\":\"巴加的工作室\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (99938,'{\"title\":{\"chinese\":\"少女與戰車 最終章\"},\"synonyms_chinese\":[\"女子高生&重戰車 最終章\",\"少女&坦克 最終章\"]}');
 INSERT INTO `anilist_chinese` VALUES (99939,'{\"title\":{\"chinese\":\"Nekopara OVA\"},\"synonyms_chinese\":[\"貓娘樂園 OVA\"]}');
 INSERT INTO `anilist_chinese` VALUES (99940,'{\"title\":{\"chinese\":\"伊藤潤二 恐怖Collection\"},\"synonyms_chinese\":[\"伊藤潤二 恐怖收集\",\"伊藤潤二驚選集\"]}');
@@ -4545,6 +4546,7 @@ INSERT INTO `anilist_chinese` VALUES (111734,'{\"title\":{\"chinese\":\"Given �
 INSERT INTO `anilist_chinese` VALUES (111762,'{\"title\":{\"chinese\":\"Fruits Basket 2\"},\"synonyms_chinese\":[\"幻影天使 2\",\"魔法水果籃 2\",\"水果籃子 2\",\"生肖奇緣 2\"]}');
 INSERT INTO `anilist_chinese` VALUES (111790,'{\"title\":{\"chinese\":\"排球少年 陸 VS 空\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (111951,'{\"title\":{\"chinese\":\"寶石商人理察的謎鑑定\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (112010,'{\"title\":{\"chinese\":\"巴加的工作室 ～巴加眼中的海洋～\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (112033,'{\"title\":{\"chinese\":\"Zenonzard THE ANIMATION\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (112125,'{\"title\":{\"chinese\":\"在地下城尋求邂逅是否搞錯了什麼 2 OVA\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (112153,'{\"title\":{\"chinese\":\"Pocket Monsters (2019)\"},\"synonyms_chinese\":[]}');

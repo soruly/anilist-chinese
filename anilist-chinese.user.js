@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2020.5.6
+// @version      2.2020.5.8
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -3846,6 +3846,7 @@ var database = [
 {id:99911,title:"かぎろひ~勺景~ Another"},
 {id:99912,title:"巨乳大家族催眠"},
 {id:99916,title:"牽牛花與加瀨同學。"},
+{id:99937,title:"巴加的工作室"},
 {id:99938,title:"少女與戰車 最終章"},
 {id:99939,title:"Nekopara OVA"},
 {id:99940,title:"伊藤潤二 恐怖Collection"},
@@ -4524,6 +4525,7 @@ var database = [
 {id:111762,title:"Fruits Basket 2"},
 {id:111790,title:"排球少年 陸 VS 空"},
 {id:111951,title:"寶石商人理察的謎鑑定"},
+{id:112010,title:"巴加的工作室 ～巴加眼中的海洋～"},
 {id:112033,title:"Zenonzard THE ANIMATION"},
 {id:112125,title:"在地下城尋求邂逅是否搞錯了什麼 2 OVA"},
 {id:112153,title:"Pocket Monsters (2019)"},
