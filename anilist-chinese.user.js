@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2020.5.8
+// @version      2.2020.5.11
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -4516,6 +4516,7 @@ var database = [
 {id:111320,title:"ラブホリック～魅惑の乙女と白濁カンケイ～ THE ANIMATION"},
 {id:111323,title:"辣妹與恐龍"},
 {id:111400,title:"天華百劍 ～歡迎來到明治館！～"},
+{id:111433,title:"へんたつ"},
 {id:111500,title:"新櫻花大戰"},
 {id:111501,title:"請在伸展台上微笑"},
 {id:111656,title:"人妻、蜜と肉"},
@@ -4582,6 +4583,7 @@ var database = [
 {id:114243,title:"自宅警備員2"},
 {id:114308,title:"Sword Art Online Alicization War of Underworld -THE LAST SEASON-"},
 {id:114411,title:"文豪與鍊金術師～審判的齒輪～"},
+{id:114417,title:"へんたつ"},
 {id:114535,title:"Search Results Web results  致不滅的你"},
 {id:114717,title:"TOMICA 友情合體 Earth Granner"},
 {id:114811,title:"Digimon Adventure:"},
@@ -4592,6 +4594,7 @@ var database = [
 {id:114947,title:"腐界に眠る王女のアバドーン THE ANIMATION"},
 {id:114949,title:"ニプルへイムの狩人"},
 {id:114963,title:"想哭的我戴上了貓的面具"},
+{id:114981,title:"部屋露營△ SP"},
 {id:115186,title:"奧林匹亞之環"},
 {id:115230,title:"神之塔 -Tower of God-"},
 {id:115519,title:"Cinderella Girls 劇場 Extra Stage"},

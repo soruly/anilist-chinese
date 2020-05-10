@@ -4537,6 +4537,7 @@ INSERT INTO `anilist_chinese` VALUES (111319,'{\"title\":{\"chinese\":\"アイ�
 INSERT INTO `anilist_chinese` VALUES (111320,'{\"title\":{\"chinese\":\"ラブホリック～魅惑の乙女と白濁カンケイ～ THE ANIMATION\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (111323,'{\"title\":{\"chinese\":\"辣妹與恐龍\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (111400,'{\"title\":{\"chinese\":\"天華百劍 ～歡迎來到明治館！～\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (111433,'{\"title\":{\"chinese\":\"へんたつ\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (111500,'{\"title\":{\"chinese\":\"新櫻花大戰\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (111501,'{\"title\":{\"chinese\":\"請在伸展台上微笑\"},\"synonyms_chinese\":[\"請在T台上微笑\"]}');
 INSERT INTO `anilist_chinese` VALUES (111656,'{\"title\":{\"chinese\":\"人妻、蜜と肉\"},\"synonyms_chinese\":[]}');
@@ -4603,6 +4604,7 @@ INSERT INTO `anilist_chinese` VALUES (114242,'{\"title\":{\"chinese\":\"淫毛\"
 INSERT INTO `anilist_chinese` VALUES (114243,'{\"title\":{\"chinese\":\"自宅警備員2\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (114308,'{\"title\":{\"chinese\":\"Sword Art Online Alicization War of Underworld -THE LAST SEASON-\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (114411,'{\"title\":{\"chinese\":\"文豪與鍊金術師～審判的齒輪～\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (114417,'{\"title\":{\"chinese\":\"へんたつ\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (114535,'{\"title\":{\"chinese\":\"Search Results Web results  致不滅的你\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (114717,'{\"title\":{\"chinese\":\"TOMICA 友情合體 Earth Granner\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (114811,'{\"title\":{\"chinese\":\"Digimon Adventure:\"},\"synonyms_chinese\":[\"數碼寶貝大冒險：\"]}');
@@ -4613,6 +4615,7 @@ INSERT INTO `anilist_chinese` VALUES (114926,'{\"title\":{\"chinese\":\"神田�
 INSERT INTO `anilist_chinese` VALUES (114947,'{\"title\":{\"chinese\":\"腐界に眠る王女のアバドーン THE ANIMATION\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (114949,'{\"title\":{\"chinese\":\"ニプルへイムの狩人\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (114963,'{\"title\":{\"chinese\":\"想哭的我戴上了貓的面具\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (114981,'{\"title\":{\"chinese\":\"部屋露營△ SP\"},\"synonyms_chinese\":[\"室內露營△ SP\"]}');
 INSERT INTO `anilist_chinese` VALUES (115186,'{\"title\":{\"chinese\":\"奧林匹亞之環\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (115230,'{\"title\":{\"chinese\":\"神之塔 -Tower of God-\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (115519,'{\"title\":{\"chinese\":\"Cinderella Girls 劇場 Extra Stage\"},\"synonyms_chinese\":[]}');
