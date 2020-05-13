@@ -3628,6 +3628,7 @@ INSERT INTO `anilist_chinese` VALUES (98153,'{\"title\":{\"chinese\":\"超級彈
 INSERT INTO `anilist_chinese` VALUES (98202,'{\"title\":{\"chinese\":\"月色真美\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (98203,'{\"title\":{\"chinese\":\"與僧侶交合的色欲之夜\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (98205,'{\"title\":{\"chinese\":\"潔癖男子！青山君\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (98207,'{\"title\":{\"chinese\":\"Sakura Capsule\"},\"synonyms_chinese\":[\"櫻花樹下的時光膠囊\"]}');
 INSERT INTO `anilist_chinese` VALUES (98209,'{\"title\":{\"chinese\":\"Brave Witches OVA\"},\"synonyms_chinese\":[\"勇敢魔女 OVA\",\"無畏魔女 OVA\"]}');
 INSERT INTO `anilist_chinese` VALUES (98212,'{\"title\":{\"chinese\":\"清楚で真面目な彼女が, 最凶ヤリサーに勧誘されたら...? THE ANIMATION\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (98213,'{\"title\":{\"chinese\":\"魂インサート\"},\"synonyms_chinese\":[]}');
@@ -4445,7 +4446,7 @@ INSERT INTO `anilist_chinese` VALUES (108444,'{\"title\":{\"chinese\":\"Try Knig
 INSERT INTO `anilist_chinese` VALUES (108450,'{\"title\":{\"chinese\":\"空挺 Dragons\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (108463,'{\"title\":{\"chinese\":\"地縛少年花子君\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (108478,'{\"title\":{\"chinese\":\"No Guns Life\"},\"synonyms_chinese\":[\"非槍人生\"]}');
-INSERT INTO `anilist_chinese` VALUES (108487,'{\"title\":{\"chinese\":\"Fragtime\"},\"synonyms_chinese\":[\"時光沙漏fragtime\"]}');
+INSERT INTO `anilist_chinese` VALUES (108487,'{\"title\":{\"chinese\":\"Fragtime\"},\"synonyms_chinese\":[\"時光沙漏\",\"時光碎片\"]}');
 INSERT INTO `anilist_chinese` VALUES (108489,'{\"title\":{\"chinese\":\"果然我的青春戀愛喜劇搞錯了。完\"},\"synonyms_chinese\":[\"我的青春戀愛喜劇果然有問題。完\"]}');
 INSERT INTO `anilist_chinese` VALUES (108511,'{\"title\":{\"chinese\":\"關於我轉生變成史萊姆這檔事 2\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (108548,'{\"title\":{\"chinese\":\"我家的女僕有夠煩！OVA\"},\"synonyms_chinese\":[\"我家的女僕太煩人了！OVA\",\"我家女僕超級煩OVA\"]}');

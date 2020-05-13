@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2020.5.11
+// @version      2.2020.5.14
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -3607,6 +3607,7 @@ var database = [
 {id:98202,title:"月色真美"},
 {id:98203,title:"與僧侶交合的色欲之夜"},
 {id:98205,title:"潔癖男子！青山君"},
+{id:98207,title:"Sakura Capsule"},
 {id:98209,title:"Brave Witches OVA"},
 {id:98212,title:"清楚で真面目な彼女が, 最凶ヤリサーに勧誘されたら...? THE ANIMATION"},
 {id:98213,title:"魂インサート"},
