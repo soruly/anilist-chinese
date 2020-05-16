@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2020.5.14
+// @version      2.2020.5.17
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -3177,6 +3177,7 @@ var database = [
 {id:21520,title:"曆物語"},
 {id:21521,title:"コワレモノ璃沙 THE ANIMATION"},
 {id:21522,title:"館 ~官能奇譚~"},
+{id:21523,title:"特別授業3SLG THE ANIMATION"},
 {id:21524,title:"天然恋色アルコール"},
 {id:21526,title:"しゃぶらレンタル ~エッチなおねえさんとのエロエロレンタルお勉強~ THE ANIMATION"},
 {id:21527,title:"聖ヤリマンシスターズ パコパコ日記 THE ANIMATION"},
@@ -3188,6 +3189,7 @@ var database = [
 {id:21539,title:"おっぱい学園マーチングバンド部!"},
 {id:21540,title:"Concrete Revolutio 超人幻想 THE LAST SONG"},
 {id:21541,title:"ネトラセラレ"},
+{id:21542,title:"もう挟まずにはいられない♥ ～星にお願いしたらこんなにおっきくなっちゃった！～"},
 {id:21544,title:"旅街 Late Show"},
 {id:21546,title:"デーモンバスターズ ~えっちなえっちなデーモン退治~ THE ANIMATION"},
 {id:21547,title:"LOVELY×CATION THE ANIMATION"},
@@ -3417,6 +3419,7 @@ var database = [
 {id:21861,title:"青之驅魔師 京都不淨王篇"},
 {id:21865,title:"Twin Angel BREAK"},
 {id:21866,title:"今からアタシ......"},
+{id:21867,title:"なま LO Re: ふらちもの THE ANIMATION"},
 {id:21868,title:"円交少女 ~陸上部ゆっきーの場合~ THE ANIMATION"},
 {id:21869,title:"Misuzu イケナイコト"},
 {id:21870,title:"妻みぐい3 THE ANIMATION"},
@@ -4290,6 +4293,7 @@ var database = [
 {id:104723,title:"普通攻擊是全體二連擊，這樣的媽媽你喜歡嗎？"},
 {id:104745,title:"全職法師 第三季"},
 {id:104750,title:"Dimension High School"},
+{id:104854,title:"魔界騎士イングリッド：Re"},
 {id:104936,title:"暗黑破壞神在身邊。"},
 {id:104949,title:"SILENT CHASER 狩神"},
 {id:104953,title:"みさとちゃんの夢日記"},
@@ -4323,11 +4327,13 @@ var database = [
 {id:105807,title:"7SEEDS"},
 {id:105857,title:"Star ☆ Twinkle Precure"},
 {id:105893,title:"我的英雄學院 All Might - Rising The Animation"},
+{id:105901,title:"痴漢した女子●生とその後、むさぼり合うようなドエロ純愛"},
 {id:105907,title:"FRAME ARMS GIRL 劇場版"},
 {id:105914,title:"賢惠幼妻仙狐小姐"},
 {id:105928,title:"RobiHachi"},
 {id:105932,title:"騷動時節的少女們啊。"},
 {id:105962,title:"Cinderella Girls 劇場 CLIMAX SEASON"},
+{id:105964,title:"続・妻ネトリ 郁美と静香"},
 {id:105970,title:"神待ちサナちゃん THE ANIMATION"},
 {id:105989,title:"滿腦都是○○的我沒辦法談戀愛"},
 {id:106051,title:"川柳少女"},
@@ -4339,6 +4345,7 @@ var database = [
 {id:106240,title:"HELLO WORLD"},
 {id:106286,title:"天氣之子"},
 {id:106319,title:"八男？別鬧了！"},
+{id:106320,title:"ボクの弥生さん2"},
 {id:106322,title:"故に人妻は寝取られた。"},
 {id:106433,title:"虛擬小姐在看著你"},
 {id:106479,title:"怕痛的我，把防禦力點滿就對了"},
@@ -4549,6 +4556,7 @@ var database = [
 {id:112534,title:"魔神英雄傳 七魂的龍神丸"},
 {id:112625,title:"齊木楠雄的災難 Ψ始動篇"},
 {id:112641,title:"輝夜姬想讓人告白? ~天才們的戀愛頭腦戰~"},
+{id:112685,title:"エロコンビニ店長"},
 {id:112748,title:"Healin' Good ♥ 光之美少女"},
 {id:112803,title:"No Guns Life 2"},
 {id:112908,title:"となりの家のアネットさん THE ANIMATION"},
