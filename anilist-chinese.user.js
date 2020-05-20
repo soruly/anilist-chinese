@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2020.5.17
+// @version      2.2020.5.21
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -4231,6 +4231,7 @@ var database = [
 {id:104009,title:"臨死！！江古田醬"},
 {id:104029,title:"君想ふ恋"},
 {id:104038,title:"ヴァルキリーハザード"},
+{id:104040,title:"セフレ学園"},
 {id:104041,title:"ボクと彼女（ナース）の研修日誌 THE ANIMATION"},
 {id:104051,title:"魔法紀錄 魔法少女小圓外傳"},
 {id:104052,title:"星合之空"},
@@ -4604,9 +4605,14 @@ var database = [
 {id:114949,title:"ニプルへイムの狩人"},
 {id:114963,title:"想哭的我戴上了貓的面具"},
 {id:114981,title:"部屋露營△ SP"},
+{id:115077,title:"助っ人参上！！ THE ANIMATION"},
+{id:115114,title:"卒業○○電車"},
+{id:115115,title:"小さな蕾のその奥に……"},
 {id:115186,title:"奧林匹亞之環"},
 {id:115230,title:"神之塔 -Tower of God-"},
+{id:115405,title:"磔"},
 {id:115519,title:"Cinderella Girls 劇場 Extra Stage"},
+{id:115671,title:"てにおはっ！2 リミットオーバー ～まだまだいっぱい、エッチしよ？～ THE ANIMATION"},
 {id:115685,title:"メルティス・クエスト"},
 {id:115821,title:"俺の指に乱れろ。〜閉店後二人きりのサロンで…〜"},
 {id:116053,title:"戰國鳥獸戲畫～乙～"},
