@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2020.6.2
+// @version      2.2020.6.3
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -816,6 +816,7 @@ var database = [
 {id:2190,title:"椿色のプリジオーネ"},
 {id:2191,title:"WAVER（ウェーバー）"},
 {id:2194,title:"めじょく"},
+{id:2195,title:"閉鎖病院"},
 {id:2208,title:"flutter of birds II 天使たちの翼"},
 {id:2209,title:"V.G. Neo"},
 {id:2213,title:"Black Jack"},
@@ -853,6 +854,7 @@ var database = [
 {id:2350,title:"アイルMANIAX ~淫魔制服狩り&魔女狩りの夜に~"},
 {id:2351,title:"ピジョンブラッド"},
 {id:2352,title:"大悪司"},
+{id:2353,title:"大悪司 SP"},
 {id:2354,title:"Devilman The Birth"},
 {id:2357,title:"股人タクシー"},
 {id:2360,title:"超神伝説うろつき童子 魔胎伝"},
@@ -1499,6 +1501,7 @@ var database = [
 {id:4903,title:"今天的五年二班"},
 {id:4918,title:"×××HOLiC 春夢記"},
 {id:4938,title:"Tsubasa 春雷記"},
+{id:4946,title:"エンジェル・ブレイド SP"},
 {id:4970,title:"爆炸頭武士 復活"},
 {id:4975,title:"Chaos;Head"},
 {id:4981,title:"再造人卡辛"},
@@ -1573,6 +1576,7 @@ var database = [
 {id:5324,title:"夜勤病棟 Ｋｒａｎｋｅ"},
 {id:5341,title:"狼與香辛料 II"},
 {id:5342,title:"機巧魔神"},
+{id:5347,title:"バイブルブラック「伊万里 凌辱現場」"},
 {id:5355,title:"戰國BASARA"},
 {id:5356,title:"CANAAN"},
 {id:5365,title:"回憶積木屋"},
@@ -1741,6 +1745,7 @@ var database = [
 {id:6288,title:"Gundam 00"},
 {id:6324,title:"守護貓娘緋鞠"},
 {id:6325,title:"火影忍者劇場版：火意志的繼承者"},
+{id:6328,title:"ボンデージ・ゲーム -深窓の隷嬢達- SP"},
 {id:6336,title:"Mobile Suit Gundam Unicorn"},
 {id:6337,title:"独蛾～THE ANIMATION～"},
 {id:6347,title:"笨蛋、測驗、召喚獸"},
@@ -2170,11 +2175,13 @@ var database = [
 {id:10217,title:"快盜天使雙胞胎"},
 {id:10218,title:"烙印戰士 黃金時代篇I 霸王之卵"},
 {id:10232,title:"玉響〜hitotose〜"},
+{id:10256,title:"シオン SP"},
 {id:10257,title:"星光少女 極光之夢"},
 {id:10258,title:"蟑螂娘"},
 {id:10271,title:"賭博破戒錄 逆境無賴開司 破戒錄篇"},
 {id:10278,title:"The iDOLM@STER"},
 {id:10280,title:"宇宙海賊サラ SP"},
+{id:10286,title:"装甲騎女イリス SP"},
 {id:10294,title:"永久之久遠 第一章 泡沫之花瓣"},
 {id:10297,title:"真・戀姬†無雙〜少女大亂〜"},
 {id:10301,title:"Rio RainbowGate! OVA"},
@@ -3555,6 +3562,7 @@ var database = [
 {id:21355,title:"Re：從零開始的異世界生活"},
 {id:21356,title:"Pokemon XY & Z"},
 {id:21357,title:"境界之輪迴 2"},
+{id:21358,title:"いただきっ! セーエキ♥ SP"},
 {id:21359,title:"房東妹子青春期"},
 {id:21360,title:"逆轉裁判"},
 {id:21361,title:"GRANBLUE FANTASY The Animation"},
@@ -3678,6 +3686,7 @@ var database = [
 {id:21526,title:"しゃぶらレンタル ~エッチなおねえさんとのエロエロレンタルお勉強~ THE ANIMATION"},
 {id:21527,title:"聖ヤリマンシスターズ パコパコ日記 THE ANIMATION"},
 {id:21528,title:"血型君 4"},
+{id:21529,title:"聖娼女 ～性奴育成学園～ THE ANIMATION"},
 {id:21531,title:"サムライホルモン THE ANIMATION"},
 {id:21532,title:"恋乳ているず THE ANIMATION"},
 {id:21533,title:"恋愛不要学派 THE ANIMATION"},
