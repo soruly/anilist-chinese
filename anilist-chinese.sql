@@ -4841,6 +4841,7 @@ INSERT INTO `anilist_chinese` VALUES (104854,'{\"title\":{\"chinese\":\"魔界�
 INSERT INTO `anilist_chinese` VALUES (104936,'{\"title\":{\"chinese\":\"暗黑破壞神在身邊。\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (104949,'{\"title\":{\"chinese\":\"SILENT CHASER 狩神\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (104953,'{\"title\":{\"chinese\":\"みさとちゃんの夢日記\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (104957,'{\"title\":{\"chinese\":\"純情少女エトセトラ SP\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (104989,'{\"title\":{\"chinese\":\"八月的棒球甜心\"},\"synonyms_chinese\":[\"八月的灰姑娘棒球隊\",\"八月的灰姑娘Nine\"]}');
 INSERT INTO `anilist_chinese` VALUES (104990,'{\"title\":{\"chinese\":\"PSYCHO-PASS Sinners of the System Case 3 - 在恩怨的彼方＿＿\"},\"synonyms_chinese\":[\"心靈判官 Sinners of the System Case 3 - 在恩怨的彼方＿＿\"]}');
 INSERT INTO `anilist_chinese` VALUES (105018,'{\"title\":{\"chinese\":\"若能與你共乘海浪之上\"},\"synonyms_chinese\":[\"乘浪之約\"]}');

@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2020.6.3
+// @version      2.2020.6.4
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -4820,6 +4820,7 @@ var database = [
 {id:104936,title:"暗黑破壞神在身邊。"},
 {id:104949,title:"SILENT CHASER 狩神"},
 {id:104953,title:"みさとちゃんの夢日記"},
+{id:104957,title:"純情少女エトセトラ SP"},
 {id:104989,title:"八月的棒球甜心"},
 {id:104990,title:"PSYCHO-PASS Sinners of the System Case 3 - 在恩怨的彼方＿＿"},
 {id:105018,title:"若能與你共乘海浪之上"},
