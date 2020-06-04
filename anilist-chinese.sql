@@ -878,6 +878,7 @@ INSERT INTO `anilist_chinese` VALUES (2352,'{\"title\":{\"chinese\":\"大悪司\
 INSERT INTO `anilist_chinese` VALUES (2353,'{\"title\":{\"chinese\":\"大悪司 SP\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (2354,'{\"title\":{\"chinese\":\"Devilman The Birth\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (2357,'{\"title\":{\"chinese\":\"股人タクシー\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (2359,'{\"title\":{\"chinese\":\"超神伝説うろつき童子\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (2360,'{\"title\":{\"chinese\":\"超神伝説うろつき童子 魔胎伝\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (2367,'{\"title\":{\"chinese\":\"萌單\"},\"synonyms_chinese\":[\"萌之英語單詞\"]}');
 INSERT INTO `anilist_chinese` VALUES (2368,'{\"title\":{\"chinese\":\"猟奇の檻～第2章～\"},\"synonyms_chinese\":[]}');
@@ -1632,6 +1633,7 @@ INSERT INTO `anilist_chinese` VALUES (5541,'{\"title\":{\"chinese\":\"The Satisf
 INSERT INTO `anilist_chinese` VALUES (5542,'{\"title\":{\"chinese\":\"Telepathist AI Q315 Saiko\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (5543,'{\"title\":{\"chinese\":\"閻魔國 アンダーワールド\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (5544,'{\"title\":{\"chinese\":\"裸足の放課後\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (5545,'{\"title\":{\"chinese\":\"平成女学園 課外レッスン\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (5546,'{\"title\":{\"chinese\":\"エッチでハッピー!ピン!ピン!ピン!\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (5547,'{\"title\":{\"chinese\":\"家庭教師　美少年狩り\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (5548,'{\"title\":{\"chinese\":\"69ピンクライダース\"},\"synonyms_chinese\":[]}');

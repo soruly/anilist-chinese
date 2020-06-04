@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2020.6.4
+// @version      2.2020.6.5
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -857,6 +857,7 @@ var database = [
 {id:2353,title:"大悪司 SP"},
 {id:2354,title:"Devilman The Birth"},
 {id:2357,title:"股人タクシー"},
+{id:2359,title:"超神伝説うろつき童子"},
 {id:2360,title:"超神伝説うろつき童子 魔胎伝"},
 {id:2367,title:"萌單"},
 {id:2368,title:"猟奇の檻～第2章～"},
@@ -1611,6 +1612,7 @@ var database = [
 {id:5542,title:"Telepathist AI Q315 Saiko"},
 {id:5543,title:"閻魔國 アンダーワールド"},
 {id:5544,title:"裸足の放課後"},
+{id:5545,title:"平成女学園 課外レッスン"},
 {id:5546,title:"エッチでハッピー!ピン!ピン!ピン!"},
 {id:5547,title:"家庭教師　美少年狩り"},
 {id:5548,title:"69ピンクライダース"},
