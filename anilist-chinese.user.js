@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2020.6.5
+// @version      2.2020.6.9
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -4929,6 +4929,7 @@ var database = [
 {id:107871,title:"Princess Connect! Re:Dive"},
 {id:107876,title:"BEM"},
 {id:107880,title:"劇場版 巨蟲列島"},
+{id:107908,title:"潘多拉與小哈欠"},
 {id:107956,title:"為了女兒，我說不定連魔王都能幹掉。"},
 {id:107961,title:"只要長得可愛，即使是變態你也喜歡嗎？"},
 {id:107974,title:"洗浴屋先生！～我和那傢伙在女浴池裡！？～"},
@@ -5114,6 +5115,7 @@ var database = [
 {id:113851,title:"Breakers"},
 {id:113917,title:"PSYCHO-PASS 3 First Inspector"},
 {id:113932,title:"破曉之翼"},
+{id:113947,title:"初めてのヒトヅマ"},
 {id:114043,title:"食戟之靈 豪之皿"},
 {id:114072,title:"遊戯王SEVENS"},
 {id:114233,title:"Gundam Build Divers Re:RISE 2"},
@@ -5136,6 +5138,7 @@ var database = [
 {id:115077,title:"助っ人参上！！ THE ANIMATION"},
 {id:115114,title:"卒業○○電車"},
 {id:115115,title:"小さな蕾のその奥に……"},
+{id:115136,title:"ヤリチン家庭教師ネトリ報告"},
 {id:115186,title:"奧林匹亞之環"},
 {id:115230,title:"神之塔 -Tower of God-"},
 {id:115405,title:"磔"},
@@ -5145,7 +5148,9 @@ var database = [
 {id:115821,title:"俺の指に乱れろ。〜閉店後二人きりのサロンで…〜"},
 {id:116053,title:"戰國鳥獸戲畫～乙～"},
 {id:116147,title:"One Room 3"},
+{id:116181,title:"セクフレ幼馴染 ~処女と童貞は恥ずかしいってみんなが言うから~ THE ANIMATION"},
 {id:116248,title:"女學。～聖女斯克威爾學院～"},
+{id:116251,title:"支配の教壇"},
 {id:116605,title:"Date A Live IV"},
 {id:116676,title:"劇場版 黃金拼圖"},
 {id:116944,title:"WIXOSS (2020)"},

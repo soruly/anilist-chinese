@@ -4950,6 +4950,7 @@ INSERT INTO `anilist_chinese` VALUES (107864,'{\"title\":{\"chinese\":\"為了�
 INSERT INTO `anilist_chinese` VALUES (107871,'{\"title\":{\"chinese\":\"Princess Connect! Re:Dive\"},\"synonyms_chinese\":[\"超異域公主連結☆Re:Dive\"]}');
 INSERT INTO `anilist_chinese` VALUES (107876,'{\"title\":{\"chinese\":\"BEM\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (107880,'{\"title\":{\"chinese\":\"劇場版 巨蟲列島\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (107908,'{\"title\":{\"chinese\":\"潘多拉與小哈欠\"},\"synonyms_chinese\":[\"潘多拉和小哈欠\"]}');
 INSERT INTO `anilist_chinese` VALUES (107956,'{\"title\":{\"chinese\":\"為了女兒，我說不定連魔王都能幹掉。\"},\"synonyms_chinese\":[\"為了女兒擊倒魔王\"]}');
 INSERT INTO `anilist_chinese` VALUES (107961,'{\"title\":{\"chinese\":\"只要長得可愛，即使是變態你也喜歡嗎？\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (107974,'{\"title\":{\"chinese\":\"洗浴屋先生！～我和那傢伙在女浴池裡！？～\"},\"synonyms_chinese\":[]}');
@@ -5135,6 +5136,7 @@ INSERT INTO `anilist_chinese` VALUES (113828,'{\"title\":{\"chinese\":\"虛構�
 INSERT INTO `anilist_chinese` VALUES (113851,'{\"title\":{\"chinese\":\"Breakers\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (113917,'{\"title\":{\"chinese\":\"PSYCHO-PASS 3 First Inspector\"},\"synonyms_chinese\":[\"心靈判官 3 First Inspector\"]}');
 INSERT INTO `anilist_chinese` VALUES (113932,'{\"title\":{\"chinese\":\"破曉之翼\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (113947,'{\"title\":{\"chinese\":\"初めてのヒトヅマ\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (114043,'{\"title\":{\"chinese\":\"食戟之靈 豪之皿\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (114072,'{\"title\":{\"chinese\":\"遊戯王SEVENS\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (114233,'{\"title\":{\"chinese\":\"Gundam Build Divers Re:RISE 2\"},\"synonyms_chinese\":[]}');
@@ -5157,6 +5159,7 @@ INSERT INTO `anilist_chinese` VALUES (114981,'{\"title\":{\"chinese\":\"部屋�
 INSERT INTO `anilist_chinese` VALUES (115077,'{\"title\":{\"chinese\":\"助っ人参上！！ THE ANIMATION\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (115114,'{\"title\":{\"chinese\":\"卒業○○電車\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (115115,'{\"title\":{\"chinese\":\"小さな蕾のその奥に……\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (115136,'{\"title\":{\"chinese\":\"ヤリチン家庭教師ネトリ報告\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (115186,'{\"title\":{\"chinese\":\"奧林匹亞之環\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (115230,'{\"title\":{\"chinese\":\"神之塔 -Tower of God-\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (115405,'{\"title\":{\"chinese\":\"磔\"},\"synonyms_chinese\":[]}');
@@ -5166,7 +5169,9 @@ INSERT INTO `anilist_chinese` VALUES (115685,'{\"title\":{\"chinese\":\"メル�
 INSERT INTO `anilist_chinese` VALUES (115821,'{\"title\":{\"chinese\":\"俺の指に乱れろ。〜閉店後二人きりのサロンで…〜\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (116053,'{\"title\":{\"chinese\":\"戰國鳥獸戲畫～乙～\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (116147,'{\"title\":{\"chinese\":\"One Room 3\"},\"synonyms_chinese\":[\"一間房 3\"]}');
+INSERT INTO `anilist_chinese` VALUES (116181,'{\"title\":{\"chinese\":\"セクフレ幼馴染 ~処女と童貞は恥ずかしいってみんなが言うから~ THE ANIMATION\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (116248,'{\"title\":{\"chinese\":\"女學。～聖女斯克威爾學院～\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (116251,'{\"title\":{\"chinese\":\"支配の教壇\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (116605,'{\"title\":{\"chinese\":\"Date A Live IV\"},\"synonyms_chinese\":[\"約會大作戰IV\"]}');
 INSERT INTO `anilist_chinese` VALUES (116676,'{\"title\":{\"chinese\":\"劇場版 黃金拼圖\"},\"synonyms_chinese\":[\"劇場版 金色馬賽克\",\"劇場版 黃金嵌片\"]}');
 INSERT INTO `anilist_chinese` VALUES (116944,'{\"title\":{\"chinese\":\"WIXOSS (2020)\"},\"synonyms_chinese\":[]}');
