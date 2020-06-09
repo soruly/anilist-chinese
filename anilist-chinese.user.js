@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2020.6.9
+// @version      2.2020.6.10
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -5149,6 +5149,7 @@ var database = [
 {id:116053,title:"戰國鳥獸戲畫～乙～"},
 {id:116147,title:"One Room 3"},
 {id:116181,title:"セクフレ幼馴染 ~処女と童貞は恥ずかしいってみんなが言うから~ THE ANIMATION"},
+{id:116246,title:"ARP Backstage Pass Celebrate Good Time"},
 {id:116248,title:"女學。～聖女斯克威爾學院～"},
 {id:116251,title:"支配の教壇"},
 {id:116605,title:"Date A Live IV"},

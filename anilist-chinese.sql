@@ -5170,6 +5170,7 @@ INSERT INTO `anilist_chinese` VALUES (115821,'{\"title\":{\"chinese\":\"俺の�
 INSERT INTO `anilist_chinese` VALUES (116053,'{\"title\":{\"chinese\":\"戰國鳥獸戲畫～乙～\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (116147,'{\"title\":{\"chinese\":\"One Room 3\"},\"synonyms_chinese\":[\"一間房 3\"]}');
 INSERT INTO `anilist_chinese` VALUES (116181,'{\"title\":{\"chinese\":\"セクフレ幼馴染 ~処女と童貞は恥ずかしいってみんなが言うから~ THE ANIMATION\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (116246,'{\"title\":{\"chinese\":\"ARP Backstage Pass Celebrate Good Time\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (116248,'{\"title\":{\"chinese\":\"女學。～聖女斯克威爾學院～\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (116251,'{\"title\":{\"chinese\":\"支配の教壇\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (116605,'{\"title\":{\"chinese\":\"Date A Live IV\"},\"synonyms_chinese\":[\"約會大作戰IV\"]}');
