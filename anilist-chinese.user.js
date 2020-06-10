@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2020.6.10
+// @version      2.2020.6.11
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -1285,7 +1285,7 @@ var database = [
 {id:3922,title:"隷従学園シリーズ"},
 {id:3927,title:"Gundam 00 II"},
 {id:3939,title:"花粉少女注意報！～THE ANIMATION～"},
-{id:3940,title:"おしえてRe:メイド"},
+{id:3940,title:"おしえてRe メイド"},
 {id:3941,title:"連鎖病棟"},
 {id:3942,title:"微熱症候群"},
 {id:3944,title:"ドキドキ母娘レッスン～教えて♪Hなお勉強～"},
@@ -4843,7 +4843,7 @@ var database = [
 {id:105334,title:"Fruits Basket"},
 {id:105387,title:"迷你刀使"},
 {id:105391,title:"一騎當千 Western Wolves"},
-{id:105401,title:"一人之下 第三季"},
+{id:105401,title:"一人之下3"},
 {id:105562,title:"Rune's Pharmacy"},
 {id:105606,title:"思春期セックス"},
 {id:105655,title:"魯邦三世 Goodbye Partner"},
@@ -4964,6 +4964,7 @@ var database = [
 {id:108487,title:"Fragtime"},
 {id:108489,title:"果然我的青春戀愛喜劇搞錯了。完"},
 {id:108511,title:"關於我轉生變成史萊姆這檔事 2"},
+{id:108522,title:"刃牙 大擂台賽篇"},
 {id:108548,title:"我家的女僕有夠煩！OVA"},
 {id:108553,title:"我的英雄學院THE MOVIE HEROES RISING"},
 {id:108554,title:"警視廳 特務部 特殊兇惡犯罪對策室 第七課"},
@@ -5162,6 +5163,8 @@ var database = [
 {id:117448,title:"異世界魔王與召喚少女的奴隸魔術Ω"},
 {id:117533,title:"工作細胞 BLACK"},
 {id:118038,title:"Super Dragon Ball Heroes Big Bang Mission"},
+{id:118125,title:"邪神與廚二病少女 千歳篇"},
+{id:118630,title:"Duel Masters King"},
 {id:118743,title:"劇場版 Fate/kaleid liner Prisma☆Illya"}
 ];
 
