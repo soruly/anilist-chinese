@@ -26,20 +26,12 @@ const knex = require("knex")({
     )
     .join(",\n");
   const template = fs.readFileSync("template.js", "utf8");
-  const js_str = template.replace(
-    "var database = [];",
-    `var database = [\n${db_str}\n];`
-  );
+  const js_str = template.replace("var database = [];", `var database = [\n${db_str}\n];`);
   if (js_str !== fs.readFileSync("cache.txt", "utf8")) {
     fs.writeFileSync("cache.txt", js_str);
     const d = new Date();
-    const version_str = `2.${d.getFullYear()}.${
-      d.getMonth() + 1
-    }.${d.getDate()}`;
-    const js_file_str = js_str.replace(
-      "// @version      2.0",
-      `// @version      ${version_str}`
-    );
+    const version_str = `2.${d.getFullYear()}.${d.getMonth() + 1}.${d.getDate()}`;
+    const js_file_str = js_str.replace("// @version      2.0", `// @version      ${version_str}`);
     fs.writeFileSync("anilist-chinese.user.js", js_file_str);
     console.log(`build completed (version ${version_str})`);
   } else {

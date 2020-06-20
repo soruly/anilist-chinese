@@ -26,9 +26,7 @@ var myDOMNodeInsertedAction = function () {
       var zh_title = document.createElement("div");
       zh_title.class = "data-set";
       zh_title.innerHTML =
-        '<div class="type">Chinese</div><div class="value">' +
-        result.title +
-        "</div>";
+        '<div class="type">Chinese</div><div class="value">' + result.title + "</div>";
       if (document.querySelector("div.data")) {
         document.querySelector("div.data").appendChild(zh_title);
       }
