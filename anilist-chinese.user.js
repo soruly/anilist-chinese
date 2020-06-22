@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2020.6.21
+// @version      2.2020.6.22
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -4053,6 +4053,7 @@ var database = [
 {id:97853,title:"Mobile Suit Gundam Thunderbolt 2"},
 {id:97854,title:"対魔忍アサギ3"},
 {id:97855,title:"梵諦岡奇蹟調查官"},
+{id:97856,title:"結城友奈是勇者部所屬"},
 {id:97857,title:"One Room"},
 {id:97858,title:"結城友奈是勇者 -鷲尾須美篇-"},
 {id:97859,title:"結城友奈是勇者 -鷲尾須美篇- 2"},
@@ -4506,6 +4507,8 @@ var database = [
 {id:100966,title:"信長的忍者 ～姊川・石山篇～"},
 {id:100977,title:"工作細胞"},
 {id:100978,title:"鬼太郎 (2018)"},
+{id:100980,title:"結城友奈是勇者部所屬 2"},
+{id:100981,title:"結城友奈是勇者部所屬 3"},
 {id:100990,title:"火之丸相撲"},
 {id:101001,title:"來玩遊戲吧"},
 {id:101002,title:"踏切時間"},

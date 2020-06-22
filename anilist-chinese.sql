@@ -4074,6 +4074,7 @@ INSERT INTO `anilist_chinese` VALUES (97851,'{\"title\":{\"chinese\":\"漆黒の
 INSERT INTO `anilist_chinese` VALUES (97853,'{\"title\":{\"chinese\":\"Mobile Suit Gundam Thunderbolt 2\"},\"synonyms_chinese\":[\"機動戰士高達 雷霆戰線 2\",\"機動戰士高達 雷霆宙域 2\"]}');
 INSERT INTO `anilist_chinese` VALUES (97854,'{\"title\":{\"chinese\":\"対魔忍アサギ3\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (97855,'{\"title\":{\"chinese\":\"梵諦岡奇蹟調查官\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (97856,'{\"title\":{\"chinese\":\"結城友奈是勇者部所屬\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (97857,'{\"title\":{\"chinese\":\"One Room\"},\"synonyms_chinese\":[\"一間房\"]}');
 INSERT INTO `anilist_chinese` VALUES (97858,'{\"title\":{\"chinese\":\"結城友奈是勇者 -鷲尾須美篇-\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (97859,'{\"title\":{\"chinese\":\"結城友奈是勇者 -鷲尾須美篇- 2\"},\"synonyms_chinese\":[]}');
@@ -4527,6 +4528,8 @@ INSERT INTO `anilist_chinese` VALUES (100965,'{\"title\":{\"chinese\":\"Love Liv
 INSERT INTO `anilist_chinese` VALUES (100966,'{\"title\":{\"chinese\":\"信長的忍者 ～姊川・石山篇～\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (100977,'{\"title\":{\"chinese\":\"工作細胞\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (100978,'{\"title\":{\"chinese\":\"鬼太郎 (2018)\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (100980,'{\"title\":{\"chinese\":\"結城友奈是勇者部所屬 2\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (100981,'{\"title\":{\"chinese\":\"結城友奈是勇者部所屬 3\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (100990,'{\"title\":{\"chinese\":\"火之丸相撲\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (101001,'{\"title\":{\"chinese\":\"來玩遊戲吧\"},\"synonyms_chinese\":[\"遊戲3人娘\"]}');
 INSERT INTO `anilist_chinese` VALUES (101002,'{\"title\":{\"chinese\":\"踏切時間\"},\"synonyms_chinese\":[\"平交道時間\",\"道口時間\"]}');
