@@ -4992,7 +4992,7 @@ INSERT INTO `anilist_chinese` VALUES (108522,'{\"title\":{\"chinese\":\"刃牙 �
 INSERT INTO `anilist_chinese` VALUES (108548,'{\"title\":{\"chinese\":\"我家的女僕有夠煩！OVA\"},\"synonyms_chinese\":[\"我家的女僕太煩人了！OVA\",\"我家女僕超級煩OVA\"]}');
 INSERT INTO `anilist_chinese` VALUES (108553,'{\"title\":{\"chinese\":\"我的英雄學院THE MOVIE HEROES RISING\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (108554,'{\"title\":{\"chinese\":\"警視廳 特務部 特殊兇惡犯罪對策室 第七課\"},\"synonyms_chinese\":[]}');
-INSERT INTO `anilist_chinese` VALUES (108577,'{\"title\":{\"chinese\":\"知道天空有多藍的人啊\"},\"synonyms_chinese\":[\"知曉天空藍色的人啊\",\"知曉天空之藍的人啊\"]}');
+INSERT INTO `anilist_chinese` VALUES (108577,'{\"title\":{\"chinese\":\"知道天空有多藍的人啊\"},\"synonyms_chinese\":[\"見過湛藍天空的人啊\"]}');
 INSERT INTO `anilist_chinese` VALUES (108581,'{\"title\":{\"chinese\":\"High Score Girl II\"},\"synonyms_chinese\":[\"高分少女 II\"]}');
 INSERT INTO `anilist_chinese` VALUES (108617,'{\"title\":{\"chinese\":\"索瑪麗與森林之神\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (108623,'{\"title\":{\"chinese\":\"Goblin Slayer: Goblin\'s Crown\"},\"synonyms_chinese\":[\"哥布林殺手 Goblin\'s Crown\"]}');
