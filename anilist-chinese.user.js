@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2020.6.22
+// @version      2.2020.6.27
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -1629,6 +1629,7 @@ var database = [
 {id:5564,title:"あげまんと福ちん"},
 {id:5565,title:"スパイラル・オーヴァ"},
 {id:5566,title:"ハレンチ紅門マン遊記"},
+{id:5567,title:"車畜 ～車の中で飼ってます～"},
 {id:5568,title:"輪奸学園「やめてっ! …お母さん、見ないで!」"},
 {id:5569,title:"終ノ空"},
 {id:5570,title:"微熱姫 懺悔の章"},
@@ -5168,7 +5169,8 @@ var database = [
 {id:118038,title:"Super Dragon Ball Heroes Big Bang Mission"},
 {id:118125,title:"邪神與廚二病少女 千歳篇"},
 {id:118630,title:"Duel Masters King"},
-{id:118743,title:"劇場版 Fate/kaleid liner Prisma☆Illya"}
+{id:118743,title:"劇場版 Fate/kaleid liner Prisma☆Illya"},
+{id:119982,title:"Collector"}
 ];
 
 var updating;

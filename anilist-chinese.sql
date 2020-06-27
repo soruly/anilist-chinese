@@ -1650,6 +1650,7 @@ INSERT INTO `anilist_chinese` VALUES (5563,'{\"title\":{\"chinese\":\"超能力�
 INSERT INTO `anilist_chinese` VALUES (5564,'{\"title\":{\"chinese\":\"あげまんと福ちん\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (5565,'{\"title\":{\"chinese\":\"スパイラル・オーヴァ\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (5566,'{\"title\":{\"chinese\":\"ハレンチ紅門マン遊記\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (5567,'{\"title\":{\"chinese\":\"車畜 ～車の中で飼ってます～\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (5568,'{\"title\":{\"chinese\":\"輪奸学園「やめてっ! …お母さん、見ないで!」\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (5569,'{\"title\":{\"chinese\":\"終ノ空\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (5570,'{\"title\":{\"chinese\":\"微熱姫 懺悔の章\"},\"synonyms_chinese\":[]}');
@@ -5190,6 +5191,7 @@ INSERT INTO `anilist_chinese` VALUES (118038,'{\"title\":{\"chinese\":\"Super Dr
 INSERT INTO `anilist_chinese` VALUES (118125,'{\"title\":{\"chinese\":\"邪神與廚二病少女 千歳篇\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (118630,'{\"title\":{\"chinese\":\"Duel Masters King\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (118743,'{\"title\":{\"chinese\":\"劇場版 Fate/kaleid liner Prisma☆Illya\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (119982,'{\"title\":{\"chinese\":\"Collector\"},\"synonyms_chinese\":[]}');
 /*!40000 ALTER TABLE `anilist_chinese` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
