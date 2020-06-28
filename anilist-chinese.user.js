@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2020.6.27
+// @version      2.2020.6.28
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -4701,6 +4701,7 @@ var database = [
 {id:102875,title:"Himote House"},
 {id:102882,title:"3D彼女 2"},
 {id:102883,title:"JoJo的奇妙冒險 黃金之風"},
+{id:102891,title:"鹿王"},
 {id:102926,title:"實況主的逃脫遊戲【直播中】"},
 {id:102927,title:"爆釣酒吧獵人"},
 {id:102928,title:"Hulaing Babies"},
@@ -4821,9 +4822,11 @@ var database = [
 {id:104722,title:"Assassin's Pride"},
 {id:104723,title:"普通攻擊是全體二連擊，這樣的媽媽你喜歡嗎？"},
 {id:104745,title:"全職法師 第三季"},
+{id:104749,title:"Kud Wafter"},
 {id:104750,title:"Dimension High School"},
 {id:104854,title:"魔界騎士イングリッド：Re"},
 {id:104936,title:"暗黑破壞神在身邊。"},
+{id:104937,title:"Lapis Re：LiGHTs"},
 {id:104949,title:"SILENT CHASER 狩神"},
 {id:104953,title:"みさとちゃんの夢日記"},
 {id:104957,title:"純情少女エトセトラ SP"},
@@ -4990,6 +4993,7 @@ var database = [
 {id:108859,title:"灼炎のエリス"},
 {id:108891,title:"一弦定音！ 2"},
 {id:108928,title:"七大罪 眾神的逆鱗"},
+{id:108941,title:"馬娘四格"},
 {id:108945,title:"一拳超人 2 OVA"},
 {id:108983,title:"もう挟まずにはいられない♥ ～星にお願いしたらこんなにおっきくなっちゃった！～ Bonus"},
 {id:109019,title:"放學後堤防日誌"},
@@ -5018,6 +5022,7 @@ var database = [
 {id:109856,title:"Listeners"},
 {id:109963,title:"食戟之靈 神之皿"},
 {id:109964,title:"家有圓圓?!～我家的圓圓你知道嗎～"},
+{id:110028,title:"魔法律顧問事務所 2"},
 {id:110088,title:"快把我哥帶走 3"},
 {id:110090,title:"八十龜醬觀察日記 2"},
 {id:110130,title:"球詠"},
@@ -5031,10 +5036,13 @@ var database = [
 {id:110347,title:"屈辱"},
 {id:110349,title:"Great Pretender"},
 {id:110350,title:"ID: INVADED"},
+{id:110353,title:"DECA-DENCE"},
 {id:110354,title:"BNA"},
 {id:110355,title:"黃金神威 3"},
+{id:110371,title:"戀與製作人"},
 {id:110382,title:"Mini Yuri"},
 {id:110445,title:"普通攻擊是全體二連擊，這樣的媽媽你喜歡嗎？ OVA"},
+{id:110446,title:"GIBIATE"},
 {id:110458,title:"白貓Project ZERO CHRONICLE"},
 {id:110521,title:"少女前綫 人型小劇場"},
 {id:110547,title:"Arte"},
@@ -5069,6 +5077,7 @@ var database = [
 {id:111762,title:"Fruits Basket 2"},
 {id:111790,title:"排球少年 陸 VS 空"},
 {id:111951,title:"寶石商人理察的謎鑑定"},
+{id:111965,title:"彼得格里爾的賢者時間"},
 {id:112010,title:"巴加的工作室 ～巴加眼中的海洋～"},
 {id:112033,title:"Zenonzard THE ANIMATION"},
 {id:112125,title:"在地下城尋求邂逅是否搞錯了什麼 2 OVA"},
@@ -5085,6 +5094,7 @@ var database = [
 {id:112325,title:"Shadowverse"},
 {id:112353,title:"聽我的電波吧"},
 {id:112356,title:"キスハグ"},
+{id:112357,title:"日本沉沒 2020"},
 {id:112374,title:"ちーちゃん開発日記"},
 {id:112444,title:"天晴爛漫!"},
 {id:112455,title:"天體運行式 OVA"},
@@ -5093,7 +5103,9 @@ var database = [
 {id:112641,title:"輝夜姬想讓人告白? ~天才們的戀愛頭腦戰~"},
 {id:112685,title:"エロコンビニ店長"},
 {id:112748,title:"Healin' Good ♥ 光之美少女"},
+{id:112788,title:"海邊的異邦人"},
 {id:112803,title:"No Guns Life 2"},
+{id:112818,title:"弩級戰隊 HXEROS"},
 {id:112908,title:"となりの家のアネットさん THE ANIMATION"},
 {id:112936,title:"○○交配"},
 {id:113023,title:"少女☆歌劇 Revue Starlight Rondo Rondo Rondo"},
@@ -5102,6 +5114,7 @@ var database = [
 {id:113108,title:"Kingdom 3"},
 {id:113187,title:"Null Peta OVA"},
 {id:113220,title:"色情教団"},
+{id:113286,title:"魔物娘的醫生"},
 {id:113311,title:"隱瞞之事"},
 {id:113397,title:"緣結熊本"},
 {id:113417,title:"おーばーふろぉ"},
@@ -5123,9 +5136,12 @@ var database = [
 {id:113947,title:"初めてのヒトヅマ"},
 {id:114043,title:"食戟之靈 豪之皿"},
 {id:114072,title:"遊戯王SEVENS"},
+{id:114195,title:"喜歡本大爺的竟然就妳一個？ OVA"},
 {id:114233,title:"Gundam Build Divers Re:RISE 2"},
+{id:114236,title:"炎炎消防隊 2"},
 {id:114242,title:"淫毛"},
 {id:114243,title:"自宅警備員2"},
+{id:114249,title:"22/7: 8＋3＝？"},
 {id:114308,title:"Sword Art Online Alicization War of Underworld -THE LAST SEASON-"},
 {id:114411,title:"文豪與鍊金術師～審判的齒輪～"},
 {id:114417,title:"へんたつ"},
@@ -5141,6 +5157,7 @@ var database = [
 {id:114963,title:"想哭的我戴上了貓的面具"},
 {id:114981,title:"部屋露營△ SP"},
 {id:115077,title:"助っ人参上！！ THE ANIMATION"},
+{id:115113,title:"宇崎學妹想要玩！"},
 {id:115114,title:"卒業○○電車"},
 {id:115115,title:"小さな蕾のその奥に……"},
 {id:115136,title:"ヤリチン家庭教師ネトリ報告"},
@@ -5151,6 +5168,7 @@ var database = [
 {id:115671,title:"てにおはっ！2 リミットオーバー ～まだまだいっぱい、エッチしよ？～ THE ANIMATION"},
 {id:115685,title:"メルティス・クエスト"},
 {id:115821,title:"俺の指に乱れろ。〜閉店後二人きりのサロンで…〜"},
+{id:116006,title:"THE GOD OF HIGH SCHOOL"},
 {id:116053,title:"戰國鳥獸戲畫～乙～"},
 {id:116147,title:"One Room 3"},
 {id:116181,title:"セクフレ幼馴染 ~処女と童貞は恥ずかしいってみんなが言うから~ THE ANIMATION"},
@@ -5170,7 +5188,9 @@ var database = [
 {id:118125,title:"邪神與廚二病少女 千歳篇"},
 {id:118630,title:"Duel Masters King"},
 {id:118743,title:"劇場版 Fate/kaleid liner Prisma☆Illya"},
-{id:119982,title:"Collector"}
+{id:119113,title:"進擊的巨人〜年代記〜"},
+{id:119982,title:"Collector"},
+{id:120180,title:"忍者 Collection"}
 ];
 
 var updating;
