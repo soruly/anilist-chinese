@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2020.6.28
+// @version      2.2020.7.1
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -5141,7 +5141,7 @@ var database = [
 {id:114236,title:"炎炎消防隊 2"},
 {id:114242,title:"淫毛"},
 {id:114243,title:"自宅警備員2"},
-{id:114249,title:"22/7: 8＋3＝？"},
+{id:114249,title:"22 ⁄ 7: 8＋3＝？"},
 {id:114308,title:"Sword Art Online Alicization War of Underworld -THE LAST SEASON-"},
 {id:114411,title:"文豪與鍊金術師～審判的齒輪～"},
 {id:114417,title:"へんたつ"},
