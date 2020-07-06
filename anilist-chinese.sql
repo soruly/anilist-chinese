@@ -5182,6 +5182,7 @@ INSERT INTO `anilist_chinese` VALUES (115113,'{\"title\":{\"chinese\":\"宇崎�
 INSERT INTO `anilist_chinese` VALUES (115114,'{\"title\":{\"chinese\":\"卒業○○電車\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (115115,'{\"title\":{\"chinese\":\"小さな蕾のその奥に……\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (115136,'{\"title\":{\"chinese\":\"ヤリチン家庭教師ネトリ報告\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (115138,'{\"title\":{\"chinese\":\"義姉はヤンママ授乳中\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (115186,'{\"title\":{\"chinese\":\"奧林匹亞之環\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (115230,'{\"title\":{\"chinese\":\"神之塔 -Tower of God-\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (115405,'{\"title\":{\"chinese\":\"磔\"},\"synonyms_chinese\":[]}');
@@ -5199,6 +5200,7 @@ INSERT INTO `anilist_chinese` VALUES (116251,'{\"title\":{\"chinese\":\"支配�
 INSERT INTO `anilist_chinese` VALUES (116605,'{\"title\":{\"chinese\":\"Date A Live IV\"},\"synonyms_chinese\":[\"約會大作戰IV\"]}');
 INSERT INTO `anilist_chinese` VALUES (116676,'{\"title\":{\"chinese\":\"劇場版 黃金拼圖\"},\"synonyms_chinese\":[\"劇場版 金色馬賽克\",\"劇場版 黃金嵌片\"]}');
 INSERT INTO `anilist_chinese` VALUES (116944,'{\"title\":{\"chinese\":\"WIXOSS (2020)\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (116946,'{\"title\":{\"chinese\":\"屈辱2 The Animation\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (116968,'{\"title\":{\"chinese\":\"GRANBLUE FANTASY The Animation Season 2 SP\"},\"synonyms_chinese\":[\"碧藍幻想 2 SP\"]}');
 INSERT INTO `anilist_chinese` VALUES (117002,'{\"title\":{\"chinese\":\"魔法紀錄 魔法少女小圓外傳 2\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (117396,'{\"title\":{\"chinese\":\"虛擬小姐在看著你 OVA\"},\"synonyms_chinese\":[]}');

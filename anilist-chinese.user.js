@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2020.7.1
+// @version      2.2020.7.6
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -5161,6 +5161,7 @@ var database = [
 {id:115114,title:"卒業○○電車"},
 {id:115115,title:"小さな蕾のその奥に……"},
 {id:115136,title:"ヤリチン家庭教師ネトリ報告"},
+{id:115138,title:"義姉はヤンママ授乳中"},
 {id:115186,title:"奧林匹亞之環"},
 {id:115230,title:"神之塔 -Tower of God-"},
 {id:115405,title:"磔"},
@@ -5178,6 +5179,7 @@ var database = [
 {id:116605,title:"Date A Live IV"},
 {id:116676,title:"劇場版 黃金拼圖"},
 {id:116944,title:"WIXOSS (2020)"},
+{id:116946,title:"屈辱2 The Animation"},
 {id:116968,title:"GRANBLUE FANTASY The Animation Season 2 SP"},
 {id:117002,title:"魔法紀錄 魔法少女小圓外傳 2"},
 {id:117396,title:"虛擬小姐在看著你 OVA"},
