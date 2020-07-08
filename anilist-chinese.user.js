@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2020.7.6
+// @version      2.2020.7.8
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -5134,6 +5134,7 @@ var database = [
 {id:113917,title:"PSYCHO-PASS 3 First Inspector"},
 {id:113932,title:"破曉之翼"},
 {id:113947,title:"初めてのヒトヅマ"},
+{id:113990,title:"星光頻道 第三季"},
 {id:114043,title:"食戟之靈 豪之皿"},
 {id:114072,title:"遊戯王SEVENS"},
 {id:114195,title:"喜歡本大爺的竟然就妳一個？ OVA"},
@@ -5177,6 +5178,7 @@ var database = [
 {id:116248,title:"女學。～聖女斯克威爾學院～"},
 {id:116251,title:"支配の教壇"},
 {id:116605,title:"Date A Live IV"},
+{id:116648,title:"巨人族的新娘"},
 {id:116676,title:"劇場版 黃金拼圖"},
 {id:116944,title:"WIXOSS (2020)"},
 {id:116946,title:"屈辱2 The Animation"},
