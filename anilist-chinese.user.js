@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2020.7.8
+// @version      2.2020.7.12
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -4948,6 +4948,7 @@ var database = [
 {id:108092,title:"戀愛小行星"},
 {id:108111,title:"你遭難了嗎？"},
 {id:108113,title:"Master Piece マスターピース THE ANIMATION"},
+{id:108146,title:"異常生物見聞錄"},
 {id:108147,title:"Granbelm"},
 {id:108241,title:"Gleipnir"},
 {id:108253,title:"姫様LOVEライフ！"},
@@ -5085,6 +5086,7 @@ var database = [
 {id:112177,title:"實況主的逃脫遊戲【直播中】OVA"},
 {id:112190,title:"のぞき彼女"},
 {id:112233,title:"ボクと彼女（女医）の診察日誌 THE ANIMATION"},
+{id:112258,title:"超普通都市柏傳說R"},
 {id:112293,title:"成群結伴！西頓學園"},
 {id:112296,title:"Strike the Blood IV"},
 {id:112300,title:"魔法科高中的劣等生 來訪者篇"},
@@ -5131,6 +5133,7 @@ var database = [
 {id:113813,title:"出租女友"},
 {id:113828,title:"虛構推理 Mini"},
 {id:113851,title:"Breakers"},
+{id:113906,title:"BanG Dream! Girls Band Party! ☆ Pico ~大盛り~"},
 {id:113917,title:"PSYCHO-PASS 3 First Inspector"},
 {id:113932,title:"破曉之翼"},
 {id:113947,title:"初めてのヒトヅマ"},

@@ -4969,6 +4969,7 @@ INSERT INTO `anilist_chinese` VALUES (108064,'{\"title\":{\"chinese\":\"少女�
 INSERT INTO `anilist_chinese` VALUES (108092,'{\"title\":{\"chinese\":\"戀愛小行星\"},\"synonyms_chinese\":[\"戀愛中的小行星\"]}');
 INSERT INTO `anilist_chinese` VALUES (108111,'{\"title\":{\"chinese\":\"你遭難了嗎？\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (108113,'{\"title\":{\"chinese\":\"Master Piece マスターピース THE ANIMATION\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (108146,'{\"title\":{\"chinese\":\"異常生物見聞錄\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (108147,'{\"title\":{\"chinese\":\"Granbelm\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (108241,'{\"title\":{\"chinese\":\"Gleipnir\"},\"synonyms_chinese\":[\"格萊普尼爾\"]}');
 INSERT INTO `anilist_chinese` VALUES (108253,'{\"title\":{\"chinese\":\"姫様LOVEライフ！\"},\"synonyms_chinese\":[]}');
@@ -5106,6 +5107,7 @@ INSERT INTO `anilist_chinese` VALUES (112153,'{\"title\":{\"chinese\":\"Pocket M
 INSERT INTO `anilist_chinese` VALUES (112177,'{\"title\":{\"chinese\":\"實況主的逃脫遊戲【直播中】OVA\"},\"synonyms_chinese\":[\"中之人基因組【實況中】OVA\"]}');
 INSERT INTO `anilist_chinese` VALUES (112190,'{\"title\":{\"chinese\":\"のぞき彼女\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (112233,'{\"title\":{\"chinese\":\"ボクと彼女（女医）の診察日誌 THE ANIMATION\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (112258,'{\"title\":{\"chinese\":\"超普通都市柏傳說R\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (112293,'{\"title\":{\"chinese\":\"成群結伴！西頓學園\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (112296,'{\"title\":{\"chinese\":\"Strike the Blood IV\"},\"synonyms_chinese\":[\"噬血狂襲 IV\"]}');
 INSERT INTO `anilist_chinese` VALUES (112300,'{\"title\":{\"chinese\":\"魔法科高中的劣等生 來訪者篇\"},\"synonyms_chinese\":[\"魔法科高校的劣等生 來訪者篇\"]}');
@@ -5152,6 +5154,7 @@ INSERT INTO `anilist_chinese` VALUES (113811,'{\"title\":{\"chinese\":\"小書�
 INSERT INTO `anilist_chinese` VALUES (113813,'{\"title\":{\"chinese\":\"出租女友\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (113828,'{\"title\":{\"chinese\":\"虛構推理 Mini\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (113851,'{\"title\":{\"chinese\":\"Breakers\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (113906,'{\"title\":{\"chinese\":\"BanG Dream! Girls Band Party! ☆ Pico ~大盛り~\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (113917,'{\"title\":{\"chinese\":\"PSYCHO-PASS 3 First Inspector\"},\"synonyms_chinese\":[\"心靈判官 3 First Inspector\"]}');
 INSERT INTO `anilist_chinese` VALUES (113932,'{\"title\":{\"chinese\":\"破曉之翼\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (113947,'{\"title\":{\"chinese\":\"初めてのヒトヅマ\"},\"synonyms_chinese\":[]}');
