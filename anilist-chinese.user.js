@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2020.7.12
+// @version      2.2020.7.13
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -5186,6 +5186,7 @@ var database = [
 {id:116944,title:"WIXOSS (2020)"},
 {id:116946,title:"屈辱2 The Animation"},
 {id:116968,title:"GRANBLUE FANTASY The Animation Season 2 SP"},
+{id:116979,title:"星夢學園 on Parade! ONA"},
 {id:117002,title:"魔法紀錄 魔法少女小圓外傳 2"},
 {id:117396,title:"虛擬小姐在看著你 OVA"},
 {id:117411,title:"下級生はじめまして ティナ!"},

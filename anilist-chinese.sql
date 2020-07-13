@@ -5207,6 +5207,7 @@ INSERT INTO `anilist_chinese` VALUES (116676,'{\"title\":{\"chinese\":\"劇場�
 INSERT INTO `anilist_chinese` VALUES (116944,'{\"title\":{\"chinese\":\"WIXOSS (2020)\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (116946,'{\"title\":{\"chinese\":\"屈辱2 The Animation\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (116968,'{\"title\":{\"chinese\":\"GRANBLUE FANTASY The Animation Season 2 SP\"},\"synonyms_chinese\":[\"碧藍幻想 2 SP\"]}');
+INSERT INTO `anilist_chinese` VALUES (116979,'{\"title\":{\"chinese\":\"星夢學園 on Parade! ONA\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (117002,'{\"title\":{\"chinese\":\"魔法紀錄 魔法少女小圓外傳 2\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (117396,'{\"title\":{\"chinese\":\"虛擬小姐在看著你 OVA\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (117411,'{\"title\":{\"chinese\":\"下級生はじめまして ティナ!\"},\"synonyms_chinese\":[]}');
