@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2020.7.13
+// @version      2.2020.7.15
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -2902,6 +2902,7 @@ var database = [
 {id:19647,title:"第一神拳 第三季"},
 {id:19653,title:"熱風海陸"},
 {id:19669,title:"黑子的籃球 笨蛋是贏不了的！"},
+{id:19671,title:"FrFr!～Free! short movie～"},
 {id:19685,title:"如果折斷她的旗"},
 {id:19703,title:"京騷戲畫"},
 {id:19747,title:"抱かれたい女"},

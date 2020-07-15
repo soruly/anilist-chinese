@@ -2923,6 +2923,7 @@ INSERT INTO `anilist_chinese` VALUES (19635,'{\"title\":{\"chinese\":\"本当に
 INSERT INTO `anilist_chinese` VALUES (19647,'{\"title\":{\"chinese\":\"第一神拳 第三季\"},\"synonyms_chinese\":[\"第一神拳 Rising\"]}');
 INSERT INTO `anilist_chinese` VALUES (19653,'{\"title\":{\"chinese\":\"熱風海陸\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (19669,'{\"title\":{\"chinese\":\"黑子的籃球 笨蛋是贏不了的！\"},\"synonyms_chinese\":[\"影子籃球員 笨蛋是贏不了的！\",\"幻影籃球王 笨蛋是贏不了的！\",\"黑子的籃球 OVA 3\"]}');
+INSERT INTO `anilist_chinese` VALUES (19671,'{\"title\":{\"chinese\":\"FrFr!～Free! short movie～\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (19685,'{\"title\":{\"chinese\":\"如果折斷她的旗\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (19703,'{\"title\":{\"chinese\":\"京騷戲畫\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (19747,'{\"title\":{\"chinese\":\"抱かれたい女\"},\"synonyms_chinese\":[]}');
