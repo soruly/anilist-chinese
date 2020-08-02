@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2020.7.15
+// @version      2.2020.8.2
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -5064,6 +5064,7 @@ var database = [
 {id:111001,title:"XL上司。"},
 {id:111082,title:"星夢學園 on Parade!"},
 {id:111188,title:"素晴らしき国家の築き方"},
+{id:111305,title:"世界第一初戀 ~求婚篇~"},
 {id:111310,title:"Mewkledreamy"},
 {id:111319,title:"アイベヤ THE ANIMATION"},
 {id:111320,title:"ラブホリック～魅惑の乙女と白濁カンケイ～ THE ANIMATION"},

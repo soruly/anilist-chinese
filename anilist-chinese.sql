@@ -5085,6 +5085,7 @@ INSERT INTO `anilist_chinese` VALUES (110881,'{\"title\":{\"chinese\":\"香蕉�
 INSERT INTO `anilist_chinese` VALUES (111001,'{\"title\":{\"chinese\":\"XL上司。\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (111082,'{\"title\":{\"chinese\":\"星夢學園 on Parade!\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (111188,'{\"title\":{\"chinese\":\"素晴らしき国家の築き方\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (111305,'{\"title\":{\"chinese\":\"世界第一初戀 ~求婚篇~\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (111310,'{\"title\":{\"chinese\":\"Mewkledreamy\"},\"synonyms_chinese\":[\"夢夢貓\"]}');
 INSERT INTO `anilist_chinese` VALUES (111319,'{\"title\":{\"chinese\":\"アイベヤ THE ANIMATION\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (111320,'{\"title\":{\"chinese\":\"ラブホリック～魅惑の乙女と白濁カンケイ～ THE ANIMATION\"},\"synonyms_chinese\":[]}');
