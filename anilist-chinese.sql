@@ -968,6 +968,7 @@ INSERT INTO `anilist_chinese` VALUES (2606,'{\"title\":{\"chinese\":\"數碼暴�
 INSERT INTO `anilist_chinese` VALUES (2608,'{\"title\":{\"chinese\":\"灣岸Midnight\"},\"synonyms_chinese\":[\"灣岸競速\"]}');
 INSERT INTO `anilist_chinese` VALUES (2610,'{\"title\":{\"chinese\":\"下級生\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (2623,'{\"title\":{\"chinese\":\"義犬報恩\"},\"synonyms_chinese\":[\"龍龍與忠狗\",\"法蘭德斯之犬\"]}');
+INSERT INTO `anilist_chinese` VALUES (2646,'{\"title\":{\"chinese\":\"多啦美&哆啦A夢七小子 機器人學校七大不可思議！？\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (2681,'{\"title\":{\"chinese\":\"Space Opera アッガ・ルター\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (2685,'{\"title\":{\"chinese\":\"Tsubasa 東京默示錄\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (2695,'{\"title\":{\"chinese\":\"Gundam 0083 吉翁的殘光\"},\"synonyms_chinese\":[]}');

@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2020.8.2
+// @version      2.2020.8.8
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -947,6 +947,7 @@ var database = [
 {id:2608,title:"灣岸Midnight"},
 {id:2610,title:"下級生"},
 {id:2623,title:"義犬報恩"},
+{id:2646,title:"多啦美&哆啦A夢七小子 機器人學校七大不可思議！？"},
 {id:2681,title:"Space Opera アッガ・ルター"},
 {id:2685,title:"Tsubasa 東京默示錄"},
 {id:2695,title:"Gundam 0083 吉翁的殘光"},
