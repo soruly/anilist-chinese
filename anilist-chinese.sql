@@ -1588,6 +1588,7 @@ INSERT INTO `anilist_chinese` VALUES (5258,'{\"title\":{\"chinese\":\"第一神�
 INSERT INTO `anilist_chinese` VALUES (5259,'{\"title\":{\"chinese\":\"ランス ~砂漠のガーディアン~\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (5262,'{\"title\":{\"chinese\":\"守護甜心！！心跳\"},\"synonyms_chinese\":[\"守護蛋精靈\"]}');
 INSERT INTO `anilist_chinese` VALUES (5277,'{\"title\":{\"chinese\":\"鶺鴒女神〜Pure Engagement〜\"},\"synonyms_chinese\":[\"鸚鵡女神\",\"女神計劃\"]}');
+INSERT INTO `anilist_chinese` VALUES (5279,'{\"title\":{\"chinese\":\"鶺鴒女神 OVA\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (5281,'{\"title\":{\"chinese\":\"必殺痴漢人\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (5285,'{\"title\":{\"chinese\":\"SeeIn青 -シーンAO-\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (5300,'{\"title\":{\"chinese\":\"續 夏目友人帳\"},\"synonyms_chinese\":[\"續 妖怪連絡簿\"]}');
@@ -1725,7 +1726,7 @@ INSERT INTO `anilist_chinese` VALUES (5945,'{\"title\":{\"chinese\":\"元素獵�
 INSERT INTO `anilist_chinese` VALUES (5958,'{\"title\":{\"chinese\":\"天降之物\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (5959,'{\"title\":{\"chinese\":\"水着彼女～THE ANIMATION～\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (5973,'{\"title\":{\"chinese\":\"魔力充電娘\"},\"synonyms_chinese\":[]}');
-INSERT INTO `anilist_chinese` VALUES (5978,'{\"title\":{\"chinese\":\"神薙\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (5978,'{\"title\":{\"chinese\":\"神薙 EP14\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (5984,'{\"title\":{\"chinese\":\"天堂餐館\"},\"synonyms_chinese\":[\"餐館的人們\"]}');
 INSERT INTO `anilist_chinese` VALUES (5993,'{\"title\":{\"chinese\":\"彷徨う淫らなルナティクス\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (6007,'{\"title\":{\"chinese\":\"狼與香辛料 II 狼與琥珀色的憂鬱\"},\"synonyms_chinese\":[\"狼與辛香料 II 狼與琥珀色的憂鬱\"]}');
@@ -3252,6 +3253,7 @@ INSERT INTO `anilist_chinese` VALUES (20880,'{\"title\":{\"chinese\":\"無頭騎
 INSERT INTO `anilist_chinese` VALUES (20881,'{\"title\":{\"chinese\":\"Heavy Object\"},\"synonyms_chinese\":[\"重裝武器\"]}');
 INSERT INTO `anilist_chinese` VALUES (20884,'{\"title\":{\"chinese\":\"排球少年 列夫前來拜見！\"},\"synonyms_chinese\":[\"排球少年 OAD\"]}');
 INSERT INTO `anilist_chinese` VALUES (20892,'{\"title\":{\"chinese\":\"我的妹妹哪有這麼可愛！\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (20896,'{\"title\":{\"chinese\":\"東京闇鴉 SP\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (20900,'{\"title\":{\"chinese\":\"青春之旅 OVA\"},\"synonyms_chinese\":[\"閃爍的青春 OVA\"]}');
 INSERT INTO `anilist_chinese` VALUES (20901,'{\"title\":{\"chinese\":\"動畫心療系\"},\"synonyms_chinese\":[\"心療內科\"]}');
 INSERT INTO `anilist_chinese` VALUES (20904,'{\"title\":{\"chinese\":\"電波少女與錢仙大人 SP\"},\"synonyms_chinese\":[\"銀仙 SP\"]}');

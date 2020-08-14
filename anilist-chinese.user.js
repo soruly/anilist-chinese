@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2020.8.8
+// @version      2.2020.8.14
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -1567,6 +1567,7 @@ var database = [
 {id:5259,title:"ランス ~砂漠のガーディアン~"},
 {id:5262,title:"守護甜心！！心跳"},
 {id:5277,title:"鶺鴒女神〜Pure Engagement〜"},
+{id:5279,title:"鶺鴒女神 OVA"},
 {id:5281,title:"必殺痴漢人"},
 {id:5285,title:"SeeIn青 -シーンAO-"},
 {id:5300,title:"續 夏目友人帳"},
@@ -1704,7 +1705,7 @@ var database = [
 {id:5958,title:"天降之物"},
 {id:5959,title:"水着彼女～THE ANIMATION～"},
 {id:5973,title:"魔力充電娘"},
-{id:5978,title:"神薙"},
+{id:5978,title:"神薙 EP14"},
 {id:5984,title:"天堂餐館"},
 {id:5993,title:"彷徨う淫らなルナティクス"},
 {id:6007,title:"狼與香辛料 II 狼與琥珀色的憂鬱"},
@@ -3231,6 +3232,7 @@ var database = [
 {id:20881,title:"Heavy Object"},
 {id:20884,title:"排球少年 列夫前來拜見！"},
 {id:20892,title:"我的妹妹哪有這麼可愛！"},
+{id:20896,title:"東京闇鴉 SP"},
 {id:20900,title:"青春之旅 OVA"},
 {id:20901,title:"動畫心療系"},
 {id:20904,title:"電波少女與錢仙大人 SP"},
