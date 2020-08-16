@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2020.8.14
+// @version      2.2020.8.16
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -2671,7 +2671,7 @@ var database = [
 {id:15911,title:"悠悠式"},
 {id:15927,title:"幻想嘉年華 Special Season"},
 {id:15951,title:"聖誕之吻SS+ plus"},
-{id:15963,title:"學生會的一己之見 OVA"},
+{id:15963,title:"學生會的一己之見 Lv.2 OVA"},
 {id:15989,title:"咲-Saki- 阿知賀篇"},
 {id:16001,title:"心連·情結"},
 {id:16005,title:"絕對可憐CHILDREN THE UNLIMITED 兵部京介"},

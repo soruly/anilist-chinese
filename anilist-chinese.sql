@@ -2692,7 +2692,7 @@ INSERT INTO `anilist_chinese` VALUES (15883,'{\"title\":{\"chinese\":\"Fantasist
 INSERT INTO `anilist_chinese` VALUES (15911,'{\"title\":{\"chinese\":\"悠悠式\"},\"synonyms_chinese\":[\"校園大萌主\",\"幼幼式\",\"柚柚式\",\"YUYU式\"]}');
 INSERT INTO `anilist_chinese` VALUES (15927,'{\"title\":{\"chinese\":\"幻想嘉年華 Special Season\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (15951,'{\"title\":{\"chinese\":\"聖誕之吻SS+ plus\"},\"synonyms_chinese\":[\"甜蜜吻痕+ plus\"]}');
-INSERT INTO `anilist_chinese` VALUES (15963,'{\"title\":{\"chinese\":\"學生會的一己之見 OVA\"},\"synonyms_chinese\":[\"碧陽學園學生會議事錄 OVA\",\"學生會的祝日\"]}');
+INSERT INTO `anilist_chinese` VALUES (15963,'{\"title\":{\"chinese\":\"學生會的一己之見 Lv.2 OVA\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (15989,'{\"title\":{\"chinese\":\"咲-Saki- 阿知賀篇\"},\"synonyms_chinese\":[\"天才麻將少女 阿知賀篇\"]}');
 INSERT INTO `anilist_chinese` VALUES (16001,'{\"title\":{\"chinese\":\"心連·情結\"},\"synonyms_chinese\":[\"戀愛隨意鏈\",\"戀愛隨意連結\",\"心靈鏈環\",\"心靈接觸\",\"心與心的連結\"]}');
 INSERT INTO `anilist_chinese` VALUES (16005,'{\"title\":{\"chinese\":\"絕對可憐CHILDREN THE UNLIMITED 兵部京介\"},\"synonyms_chinese\":[\"絕對可憐少女 THE UNLIMITED 兵部京介\",\"絕對可憐小孩 THE UNLIMITED 兵部京介\",\"超能少女組 THE UNLIMITED 兵部京介\",\"楚楚可憐超能少女組 THE UNLIMITED 兵部京介\"]}');
