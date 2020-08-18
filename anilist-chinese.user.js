@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2020.8.16
+// @version      2.2020.8.18
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -5197,6 +5197,7 @@ var database = [
 {id:117411,title:"下級生はじめまして ティナ!"},
 {id:117448,title:"異世界魔王與召喚少女的奴隸魔術Ω"},
 {id:117533,title:"工作細胞 BLACK"},
+{id:117955,title:"昨日之歌 Extra"},
 {id:118038,title:"Super Dragon Ball Heroes Big Bang Mission"},
 {id:118125,title:"邪神與廚二病少女 千歳篇"},
 {id:118630,title:"Duel Masters King"},

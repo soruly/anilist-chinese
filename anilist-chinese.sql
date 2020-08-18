@@ -5218,6 +5218,7 @@ INSERT INTO `anilist_chinese` VALUES (117396,'{\"title\":{\"chinese\":\"虛擬�
 INSERT INTO `anilist_chinese` VALUES (117411,'{\"title\":{\"chinese\":\"下級生はじめまして ティナ!\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (117448,'{\"title\":{\"chinese\":\"異世界魔王與召喚少女的奴隸魔術Ω\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (117533,'{\"title\":{\"chinese\":\"工作細胞 BLACK\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (117955,'{\"title\":{\"chinese\":\"昨日之歌 Extra\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (118038,'{\"title\":{\"chinese\":\"Super Dragon Ball Heroes Big Bang Mission\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (118125,'{\"title\":{\"chinese\":\"邪神與廚二病少女 千歳篇\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (118630,'{\"title\":{\"chinese\":\"Duel Masters King\"},\"synonyms_chinese\":[]}');
