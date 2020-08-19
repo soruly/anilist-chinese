@@ -5218,10 +5218,15 @@ INSERT INTO `anilist_chinese` VALUES (117396,'{\"title\":{\"chinese\":\"虛擬�
 INSERT INTO `anilist_chinese` VALUES (117411,'{\"title\":{\"chinese\":\"下級生はじめまして ティナ!\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (117448,'{\"title\":{\"chinese\":\"異世界魔王與召喚少女的奴隸魔術Ω\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (117533,'{\"title\":{\"chinese\":\"工作細胞 BLACK\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (117761,'{\"title\":{\"chinese\":\"夏が終わるまで The Animation\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (117773,'{\"title\":{\"chinese\":\"琥珀色のハンター THE ANIMATION\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (117955,'{\"title\":{\"chinese\":\"昨日之歌 Extra\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (118038,'{\"title\":{\"chinese\":\"Super Dragon Ball Heroes Big Bang Mission\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (118125,'{\"title\":{\"chinese\":\"邪神與廚二病少女 千歳篇\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (118166,'{\"title\":{\"chinese\":\"異世界ハーレム物語\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (118167,'{\"title\":{\"chinese\":\"装煌聖姫イースフィア 〜淫虐の洗脳改造〜\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (118630,'{\"title\":{\"chinese\":\"Duel Masters King\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (118656,'{\"title\":{\"chinese\":\"村又さんの秘密\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (118743,'{\"title\":{\"chinese\":\"劇場版 Fate/kaleid liner Prisma☆Illya\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (119113,'{\"title\":{\"chinese\":\"進擊的巨人〜年代記〜\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (119982,'{\"title\":{\"chinese\":\"Collector\"},\"synonyms_chinese\":[]}');

@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2020.8.18
+// @version      2.2020.8.19
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -5197,10 +5197,15 @@ var database = [
 {id:117411,title:"下級生はじめまして ティナ!"},
 {id:117448,title:"異世界魔王與召喚少女的奴隸魔術Ω"},
 {id:117533,title:"工作細胞 BLACK"},
+{id:117761,title:"夏が終わるまで The Animation"},
+{id:117773,title:"琥珀色のハンター THE ANIMATION"},
 {id:117955,title:"昨日之歌 Extra"},
 {id:118038,title:"Super Dragon Ball Heroes Big Bang Mission"},
 {id:118125,title:"邪神與廚二病少女 千歳篇"},
+{id:118166,title:"異世界ハーレム物語"},
+{id:118167,title:"装煌聖姫イースフィア 〜淫虐の洗脳改造〜"},
 {id:118630,title:"Duel Masters King"},
+{id:118656,title:"村又さんの秘密"},
 {id:118743,title:"劇場版 Fate/kaleid liner Prisma☆Illya"},
 {id:119113,title:"進擊的巨人〜年代記〜"},
 {id:119982,title:"Collector"},
