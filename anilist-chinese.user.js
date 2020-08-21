@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2020.8.19
+// @version      2.2020.8.21
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -5209,7 +5209,8 @@ var database = [
 {id:118743,title:"劇場版 Fate/kaleid liner Prisma☆Illya"},
 {id:119113,title:"進擊的巨人〜年代記〜"},
 {id:119982,title:"Collector"},
-{id:120180,title:"忍者 Collection"}
+{id:120180,title:"忍者 Collection"},
+{id:122349,title:"我的英雄學院：活下來！殊死的生存訓練"}
 ];
 
 var updating;

@@ -5231,6 +5231,7 @@ INSERT INTO `anilist_chinese` VALUES (118743,'{\"title\":{\"chinese\":\"劇場�
 INSERT INTO `anilist_chinese` VALUES (119113,'{\"title\":{\"chinese\":\"進擊的巨人〜年代記〜\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (119982,'{\"title\":{\"chinese\":\"Collector\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (120180,'{\"title\":{\"chinese\":\"忍者 Collection\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (122349,'{\"title\":{\"chinese\":\"我的英雄學院：活下來！殊死的生存訓練\"},\"synonyms_chinese\":[]}');
 /*!40000 ALTER TABLE `anilist_chinese` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
