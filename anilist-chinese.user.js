@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2020.8.21
+// @version      2.2020.8.22
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -1345,6 +1345,7 @@ var database = [
 {id:4161,title:"個人授業"},
 {id:4164,title:"校内写生"},
 {id:4166,title:"To Heart 2 AD"},
+{id:4177,title:"亡念之扎姆德"},
 {id:4178,title:"ドリームハザード -悪魔のプログラム-"},
 {id:4181,title:"CLANNAD ～AFTER STORY～"},
 {id:4182,title:"DARKER THAN BLACK -黑之契約者- 盛開的櫻花樹下"},
@@ -3202,6 +3203,7 @@ var database = [
 {id:20827,title:"百合熊風暴"},
 {id:20828,title:"直笛與背包 Mi☆"},
 {id:20829,title:"終結的熾天使"},
+{id:20830,title:"Hi☆sCoool! Seha Girls"},
 {id:20831,title:"Cross Road"},
 {id:20832,title:"Overlord"},
 {id:20833,title:"庭球社 4"},
@@ -3668,6 +3670,7 @@ var database = [
 {id:21498,title:"劇場版 Blame!"},
 {id:21499,title:"雙星之陰陽師"},
 {id:21500,title:"數碼暴龍大冒險tri. 第2章「決意」"},
+{id:21502,title:"Sushi Police"},
 {id:21503,title:"ボーイ・ミーツ・ハーレム THE ANIMATION"},
 {id:21504,title:"光之美少女 All Stars 大家一起唱響♪奇跡的魔法！"},
 {id:21505,title:"劇場版 亞人 第2部 -衝突-"},
@@ -4303,6 +4306,7 @@ var database = [
 {id:99196,title:"笑傲曇天 <外傳>中篇～宿命、雙頭的風魔～"},
 {id:99197,title:"笑傲曇天 <外傳>後篇～櫻華、天望的架橋～"},
 {id:99200,title:"全職法師"},
+{id:99230,title:"鬆弛熊與小薰"},
 {id:99255,title:"食戟之靈 餐之皿"},
 {id:99263,title:"盾之勇者成名錄"},
 {id:99268,title:"SWAMP STAMP Anime Edition"},
@@ -4629,7 +4633,7 @@ var database = [
 {id:101547,title:"異世界超能魔術師"},
 {id:101554,title:"Mobile Suit Gundam NT"},
 {id:101555,title:"妖怪手錶 Shadow Side"},
-{id:101571,title:"衝吧烈子"},
+{id:101571,title:"衝吧烈子 ONA"},
 {id:101573,title:"終將成為妳"},
 {id:101574,title:"劇場版 白箱"},
 {id:101580,title:"深夜! 天才バカボン"},
@@ -5065,6 +5069,7 @@ var database = [
 {id:110867,title:"Africa no Salaryman"},
 {id:110881,title:"香蕉喵 不可思議的夥伴們"},
 {id:111001,title:"XL上司。"},
+{id:111048,title:"拳願阿修羅 第二季"},
 {id:111082,title:"星夢學園 on Parade!"},
 {id:111188,title:"素晴らしき国家の築き方"},
 {id:111305,title:"世界第一初戀 ~求婚篇~"},
@@ -5109,6 +5114,7 @@ var database = [
 {id:112625,title:"齊木楠雄的災難 Ψ始動篇"},
 {id:112641,title:"輝夜姬想讓人告白? ~天才們的戀愛頭腦戰~"},
 {id:112685,title:"エロコンビニ店長"},
+{id:112686,title:"7SEEDS Season 2"},
 {id:112748,title:"Healin' Good ♥ 光之美少女"},
 {id:112788,title:"海邊的異邦人"},
 {id:112803,title:"No Guns Life 2"},
