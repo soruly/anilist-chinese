@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2020.8.24
+// @version      2.2020.8.27
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -5270,6 +5270,7 @@ var database = [
 {id:114411,title:"文豪與鍊金術師～審判的齒輪～"},
 {id:114417,title:"へんたつ"},
 {id:114535,title:"Search Results Web results  致不滅的你"},
+{id:114622,title:"異獸魔都 OVA"},
 {id:114717,title:"TOMICA 友情合體 Earth Granner"},
 {id:114811,title:"Digimon Adventure:"},
 {id:114862,title:"Log Horizon 圓桌崩壞"},

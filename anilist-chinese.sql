@@ -5291,6 +5291,7 @@ INSERT INTO `anilist_chinese` VALUES (114308,'{\"title\":{\"chinese\":\"Sword Ar
 INSERT INTO `anilist_chinese` VALUES (114411,'{\"title\":{\"chinese\":\"文豪與鍊金術師～審判的齒輪～\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (114417,'{\"title\":{\"chinese\":\"へんたつ\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (114535,'{\"title\":{\"chinese\":\"Search Results Web results  致不滅的你\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (114622,'{\"title\":{\"chinese\":\"異獸魔都 OVA\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (114717,'{\"title\":{\"chinese\":\"TOMICA 友情合體 Earth Granner\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (114811,'{\"title\":{\"chinese\":\"Digimon Adventure:\"},\"synonyms_chinese\":[\"數碼寶貝大冒險：\"]}');
 INSERT INTO `anilist_chinese` VALUES (114862,'{\"title\":{\"chinese\":\"Log Horizon 圓桌崩壞\"},\"synonyms_chinese\":[\"記錄的地平線 圓桌崩壞\"]}');
