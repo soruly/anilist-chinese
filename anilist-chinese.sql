@@ -5347,7 +5347,11 @@ INSERT INTO `anilist_chinese` VALUES (118167,'{\"title\":{\"chinese\":\"装煌�
 INSERT INTO `anilist_chinese` VALUES (118630,'{\"title\":{\"chinese\":\"Duel Masters King\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (118656,'{\"title\":{\"chinese\":\"村又さんの秘密\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (118743,'{\"title\":{\"chinese\":\"劇場版 Fate/kaleid liner Prisma☆Illya\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (118860,'{\"title\":{\"chinese\":\"サキュバステードライフ THE ANIMATION\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (119113,'{\"title\":{\"chinese\":\"進擊的巨人〜年代記〜\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (119254,'{\"title\":{\"chinese\":\"彼女がヤツに抱かれたヒ\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (119484,'{\"title\":{\"chinese\":\"色欲INFINITE\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (119491,'{\"title\":{\"chinese\":\"王女&女騎士Wド下品露出～恥辱の見世物奴隷～\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (119982,'{\"title\":{\"chinese\":\"Collector\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (120180,'{\"title\":{\"chinese\":\"忍者 Collection\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (122349,'{\"title\":{\"chinese\":\"我的英雄學院：活下來！殊死的生存訓練\"},\"synonyms_chinese\":[]}');

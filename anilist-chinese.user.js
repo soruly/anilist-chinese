@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2020.8.27
+// @version      2.2020.9.7
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -5326,7 +5326,11 @@ var database = [
 {id:118630,title:"Duel Masters King"},
 {id:118656,title:"村又さんの秘密"},
 {id:118743,title:"劇場版 Fate/kaleid liner Prisma☆Illya"},
+{id:118860,title:"サキュバステードライフ THE ANIMATION"},
 {id:119113,title:"進擊的巨人〜年代記〜"},
+{id:119254,title:"彼女がヤツに抱かれたヒ"},
+{id:119484,title:"色欲INFINITE"},
+{id:119491,title:"王女&女騎士Wド下品露出～恥辱の見世物奴隷～"},
 {id:119982,title:"Collector"},
 {id:120180,title:"忍者 Collection"},
 {id:122349,title:"我的英雄學院：活下來！殊死的生存訓練"}
