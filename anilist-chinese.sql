@@ -5354,6 +5354,7 @@ INSERT INTO `anilist_chinese` VALUES (119484,'{\"title\":{\"chinese\":\"色欲IN
 INSERT INTO `anilist_chinese` VALUES (119491,'{\"title\":{\"chinese\":\"王女&女騎士Wド下品露出～恥辱の見世物奴隷～\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (119982,'{\"title\":{\"chinese\":\"Collector\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (120180,'{\"title\":{\"chinese\":\"忍者 Collection\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (121797,'{\"title\":{\"chinese\":\"大神同學想要被吃掉\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (122349,'{\"title\":{\"chinese\":\"我的英雄學院：活下來！殊死的生存訓練\"},\"synonyms_chinese\":[]}');
 /*!40000 ALTER TABLE `anilist_chinese` ENABLE KEYS */;
 UNLOCK TABLES;

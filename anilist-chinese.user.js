@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2020.9.7
+// @version      2.2020.9.10
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -5333,6 +5333,7 @@ var database = [
 {id:119491,title:"王女&女騎士Wド下品露出～恥辱の見世物奴隷～"},
 {id:119982,title:"Collector"},
 {id:120180,title:"忍者 Collection"},
+{id:121797,title:"大神同學想要被吃掉"},
 {id:122349,title:"我的英雄學院：活下來！殊死的生存訓練"}
 ];
 
