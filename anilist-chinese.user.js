@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2020.9.10
+// @version      2.2020.9.13
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -3259,6 +3259,7 @@ var database = [
 {id:20860,title:"対魔忍ユキカゼ"},
 {id:20861,title:"鑽石王牌"},
 {id:20862,title:"Fate/kaleid liner Prisma☆Illya 2wei! OVA"},
+{id:20863,title:"生存遊戲部 OVA"},
 {id:20866,title:"極黑的布倫希爾德 SP"},
 {id:20868,title:"少年 Hollywood -HOLLY STAGE FOR 50-"},
 {id:20871,title:"精靈使的劍舞"},

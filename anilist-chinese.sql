@@ -3280,6 +3280,7 @@ INSERT INTO `anilist_chinese` VALUES (20854,'{\"title\":{\"chinese\":\"Baby Step
 INSERT INTO `anilist_chinese` VALUES (20860,'{\"title\":{\"chinese\":\"対魔忍ユキカゼ\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (20861,'{\"title\":{\"chinese\":\"鑽石王牌\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (20862,'{\"title\":{\"chinese\":\"Fate/kaleid liner Prisma☆Illya 2wei! OVA\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (20863,'{\"title\":{\"chinese\":\"生存遊戲部 OVA\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (20866,'{\"title\":{\"chinese\":\"極黑的布倫希爾德 SP\"},\"synonyms_chinese\":[\"極黑的布倫希爾特 SP\"]}');
 INSERT INTO `anilist_chinese` VALUES (20868,'{\"title\":{\"chinese\":\"少年 Hollywood -HOLLY STAGE FOR 50-\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (20871,'{\"title\":{\"chinese\":\"精靈使的劍舞\"},\"synonyms_chinese\":[]}');
