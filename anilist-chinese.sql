@@ -3130,7 +3130,7 @@ INSERT INTO `anilist_chinese` VALUES (20651,'{\"title\":{\"chinese\":\"旋風管
 INSERT INTO `anilist_chinese` VALUES (20652,'{\"title\":{\"chinese\":\"無頭騎士異聞錄x2 承\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (20654,'{\"title\":{\"chinese\":\"Hello!! 黃金拼圖\"},\"synonyms_chinese\":[\"你好!! 金色馬賽克\",\"哈囉!! 黃金嵌片\"]}');
 INSERT INTO `anilist_chinese` VALUES (20656,'{\"title\":{\"chinese\":\"電波少女與錢仙大人\"},\"synonyms_chinese\":[\"銀仙\"]}');
-INSERT INTO `anilist_chinese` VALUES (20657,'{\"title\":{\"chinese\":\"不起眼女主角培育法\"},\"synonyms_chinese\":[\"不起眼女主育成法\",\"路人女主的養成方法\"]}');
+INSERT INTO `anilist_chinese` VALUES (20657,'{\"title\":{\"chinese\":\"不起眼女主角培育法\"},\"synonyms_chinese\":[\"路人女主的養成方法\"]}');
 INSERT INTO `anilist_chinese` VALUES (20658,'{\"title\":{\"chinese\":\"高達G之復國\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (20659,'{\"title\":{\"chinese\":\"在盛夏等待 OVA\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (20661,'{\"title\":{\"chinese\":\"東京殘響\"},\"synonyms_chinese\":[\"恐怖殘響\"]}');
@@ -3513,7 +3513,7 @@ INSERT INTO `anilist_chinese` VALUES (21176,'{\"title\":{\"chinese\":\"ヴィク
 INSERT INTO `anilist_chinese` VALUES (21177,'{\"title\":{\"chinese\":\"SUPER LOVERS\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (21178,'{\"title\":{\"chinese\":\"Code Geass 亡國的阿基德 第5章 致親愛的人與物\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (21179,'{\"title\":{\"chinese\":\"枕男子\"},\"synonyms_chinese\":[]}');
-INSERT INTO `anilist_chinese` VALUES (21180,'{\"title\":{\"chinese\":\"不起眼女主角培育法 ♭\"},\"synonyms_chinese\":[\"不起眼女主育成法 ♭\",\"路人女主的養成方法 ♭\"]}');
+INSERT INTO `anilist_chinese` VALUES (21180,'{\"title\":{\"chinese\":\"不起眼女主角培育法 ♭\"},\"synonyms_chinese\":[\"路人女主的養成方法 ♭\"]}');
 INSERT INTO `anilist_chinese` VALUES (21182,'{\"title\":{\"chinese\":\"Hacka Doll\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (21184,'{\"title\":{\"chinese\":\"巴哈姆特之怒 VIRGIN SOUL\"},\"synonyms_chinese\":[\"神擊之巴哈姆特 VIRGIN SOUL\"]}');
 INSERT INTO `anilist_chinese` VALUES (21186,'{\"title\":{\"chinese\":\"元氣少女緣結神◎ OAD\"},\"synonyms_chinese\":[\"元氣少女結緣神◎ OAD\",\"見習元氣女神◎ OAD\"]}');
@@ -4581,7 +4581,7 @@ INSERT INTO `anilist_chinese` VALUES (100665,'{\"title\":{\"chinese\":\"Back Str
 INSERT INTO `anilist_chinese` VALUES (100667,'{\"title\":{\"chinese\":\"フリフレ2\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (100668,'{\"title\":{\"chinese\":\"平凡職業造就世界最強\"},\"synonyms_chinese\":[\"平凡職業成就世界最強\"]}');
 INSERT INTO `anilist_chinese` VALUES (100673,'{\"title\":{\"chinese\":\"Hisone與Masotan\"},\"synonyms_chinese\":[\"飛龍女孩\",\"小小龍機師\",\"檜曾根與瑪索丹\"]}');
-INSERT INTO `anilist_chinese` VALUES (100675,'{\"title\":{\"chinese\":\"不起眼女主角培育法 Fine\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (100675,'{\"title\":{\"chinese\":\"不起眼女主角培育法 Fine\"},\"synonyms_chinese\":[\"路人女主的養成方法 Fine\"]}');
 INSERT INTO `anilist_chinese` VALUES (100684,'{\"title\":{\"chinese\":\"網路勝利組 OVA\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (100714,'{\"title\":{\"chinese\":\"邪神與廚二病少女\"},\"synonyms_chinese\":[\"小邪神飛踢！\"]}');
 INSERT INTO `anilist_chinese` VALUES (100715,'{\"title\":{\"chinese\":\"魔法少女 我\"},\"synonyms_chinese\":[\"老子是魔法少女\"]}');
