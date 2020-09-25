@@ -5394,6 +5394,7 @@ INSERT INTO `anilist_chinese` VALUES (122349,'{\"title\":{\"chinese\":\"我的�
 INSERT INTO `anilist_chinese` VALUES (122807,'{\"title\":{\"chinese\":\"體操武士\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (123803,'{\"title\":{\"chinese\":\"無能力者娜娜\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (124115,'{\"title\":{\"chinese\":\"少女與戰車 最終章 第3話\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (124223,'{\"title\":{\"chinese\":\"賽馬娘Pretty Derby Season 2\"},\"synonyms_chinese\":[]}');
 /*!40000 ALTER TABLE `anilist_chinese` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
