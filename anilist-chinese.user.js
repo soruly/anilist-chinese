@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2020.9.25
+// @version      2.2020.10.3
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -5333,6 +5333,7 @@ var database = [
 {id:116566,title:"全員惡玉"},
 {id:116605,title:"Date A Live IV"},
 {id:116648,title:"巨人族的新娘"},
+{id:116673,title:"BURN THE WITCH"},
 {id:116676,title:"劇場版 黃金拼圖"},
 {id:116944,title:"WIXOSS (2020)"},
 {id:116946,title:"屈辱2 The Animation"},
@@ -5362,10 +5363,12 @@ var database = [
 {id:118860,title:"サキュバステードライフ THE ANIMATION"},
 {id:119113,title:"進擊的巨人〜年代記〜"},
 {id:119254,title:"彼女がヤツに抱かれたヒ"},
+{id:119258,title:"劇場版BEM～BECOME HUMAN～"},
 {id:119484,title:"色欲INFINITE"},
 {id:119491,title:"王女&女騎士Wド下品露出～恥辱の見世物奴隷～"},
 {id:119982,title:"Collector"},
 {id:120180,title:"忍者 Collection"},
+{id:120506,title:"浮気と本気 THE ANIMATION"},
 {id:120851,title:"小松先生 3"},
 {id:121797,title:"大神同學想要被吃掉"},
 {id:121799,title:"水豚君"},

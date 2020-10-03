@@ -5354,6 +5354,7 @@ INSERT INTO `anilist_chinese` VALUES (116415,'{\"title\":{\"chinese\":\"爆丸 �
 INSERT INTO `anilist_chinese` VALUES (116566,'{\"title\":{\"chinese\":\"全員惡玉\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (116605,'{\"title\":{\"chinese\":\"Date A Live IV\"},\"synonyms_chinese\":[\"約會大作戰IV\"]}');
 INSERT INTO `anilist_chinese` VALUES (116648,'{\"title\":{\"chinese\":\"巨人族的新娘\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (116673,'{\"title\":{\"chinese\":\"BURN THE WITCH\"},\"synonyms_chinese\":[\"龍與魔女\"]}');
 INSERT INTO `anilist_chinese` VALUES (116676,'{\"title\":{\"chinese\":\"劇場版 黃金拼圖\"},\"synonyms_chinese\":[\"劇場版 金色馬賽克\",\"劇場版 黃金嵌片\"]}');
 INSERT INTO `anilist_chinese` VALUES (116944,'{\"title\":{\"chinese\":\"WIXOSS (2020)\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (116946,'{\"title\":{\"chinese\":\"屈辱2 The Animation\"},\"synonyms_chinese\":[]}');
@@ -5383,10 +5384,12 @@ INSERT INTO `anilist_chinese` VALUES (118743,'{\"title\":{\"chinese\":\"劇場�
 INSERT INTO `anilist_chinese` VALUES (118860,'{\"title\":{\"chinese\":\"サキュバステードライフ THE ANIMATION\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (119113,'{\"title\":{\"chinese\":\"進擊的巨人〜年代記〜\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (119254,'{\"title\":{\"chinese\":\"彼女がヤツに抱かれたヒ\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (119258,'{\"title\":{\"chinese\":\"劇場版BEM～BECOME HUMAN～\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (119484,'{\"title\":{\"chinese\":\"色欲INFINITE\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (119491,'{\"title\":{\"chinese\":\"王女&女騎士Wド下品露出～恥辱の見世物奴隷～\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (119982,'{\"title\":{\"chinese\":\"Collector\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (120180,'{\"title\":{\"chinese\":\"忍者 Collection\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (120506,'{\"title\":{\"chinese\":\"浮気と本気 THE ANIMATION\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (120851,'{\"title\":{\"chinese\":\"小松先生 3\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (121797,'{\"title\":{\"chinese\":\"大神同學想要被吃掉\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (121799,'{\"title\":{\"chinese\":\"水豚君\"},\"synonyms_chinese\":[]}');
