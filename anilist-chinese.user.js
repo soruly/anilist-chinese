@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2020.10.3
+// @version      2.2020.10.5
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -3917,6 +3917,7 @@ var database = [
 {id:21726,title:"衝吧烈子"},
 {id:21728,title:"BROTHERHOOD FINAL FANTASY XV"},
 {id:21729,title:"KINGSGLAIVE FINAL FANTASY XV"},
+{id:21730,title:"宇宙戰艦大和號2202 愛的戰士們"},
 {id:21731,title:"Hand Shakers"},
 {id:21732,title:"planetarian ～星之夢～"},
 {id:21733,title:"昭和元祿落語心中 助六再現篇"},
@@ -5335,6 +5336,7 @@ var database = [
 {id:116648,title:"巨人族的新娘"},
 {id:116673,title:"BURN THE WITCH"},
 {id:116676,title:"劇場版 黃金拼圖"},
+{id:116700,title:"養貓養狗每天很開心"},
 {id:116944,title:"WIXOSS (2020)"},
 {id:116946,title:"屈辱2 The Animation"},
 {id:116968,title:"GRANBLUE FANTASY The Animation Season 2 SP"},
@@ -5376,7 +5378,8 @@ var database = [
 {id:122807,title:"體操武士"},
 {id:123803,title:"無能力者娜娜"},
 {id:124115,title:"少女與戰車 最終章 第3話"},
-{id:124223,title:"賽馬娘Pretty Derby Season 2"}
+{id:124223,title:"賽馬娘Pretty Derby Season 2"},
+{id:124641,title:"邪神與廚二病少女 3"}
 ];
 
 var updating;

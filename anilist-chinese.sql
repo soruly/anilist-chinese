@@ -3938,6 +3938,7 @@ INSERT INTO `anilist_chinese` VALUES (21721,'{\"title\":{\"chinese\":\"小飛翔
 INSERT INTO `anilist_chinese` VALUES (21726,'{\"title\":{\"chinese\":\"衝吧烈子\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (21728,'{\"title\":{\"chinese\":\"BROTHERHOOD FINAL FANTASY XV\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (21729,'{\"title\":{\"chinese\":\"KINGSGLAIVE FINAL FANTASY XV\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (21730,'{\"title\":{\"chinese\":\"宇宙戰艦大和號2202 愛的戰士們\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (21731,'{\"title\":{\"chinese\":\"Hand Shakers\"},\"synonyms_chinese\":[\"握手者\"]}');
 INSERT INTO `anilist_chinese` VALUES (21732,'{\"title\":{\"chinese\":\"planetarian ～星之夢～\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (21733,'{\"title\":{\"chinese\":\"昭和元祿落語心中 助六再現篇\"},\"synonyms_chinese\":[]}');
@@ -5356,6 +5357,7 @@ INSERT INTO `anilist_chinese` VALUES (116605,'{\"title\":{\"chinese\":\"Date A L
 INSERT INTO `anilist_chinese` VALUES (116648,'{\"title\":{\"chinese\":\"巨人族的新娘\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (116673,'{\"title\":{\"chinese\":\"BURN THE WITCH\"},\"synonyms_chinese\":[\"龍與魔女\"]}');
 INSERT INTO `anilist_chinese` VALUES (116676,'{\"title\":{\"chinese\":\"劇場版 黃金拼圖\"},\"synonyms_chinese\":[\"劇場版 金色馬賽克\",\"劇場版 黃金嵌片\"]}');
+INSERT INTO `anilist_chinese` VALUES (116700,'{\"title\":{\"chinese\":\"養貓養狗每天很開心\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (116944,'{\"title\":{\"chinese\":\"WIXOSS (2020)\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (116946,'{\"title\":{\"chinese\":\"屈辱2 The Animation\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (116968,'{\"title\":{\"chinese\":\"GRANBLUE FANTASY The Animation Season 2 SP\"},\"synonyms_chinese\":[\"碧藍幻想 2 SP\"]}');
@@ -5398,6 +5400,7 @@ INSERT INTO `anilist_chinese` VALUES (122807,'{\"title\":{\"chinese\":\"體操�
 INSERT INTO `anilist_chinese` VALUES (123803,'{\"title\":{\"chinese\":\"無能力者娜娜\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (124115,'{\"title\":{\"chinese\":\"少女與戰車 最終章 第3話\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (124223,'{\"title\":{\"chinese\":\"賽馬娘Pretty Derby Season 2\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (124641,'{\"title\":{\"chinese\":\"邪神與廚二病少女 3\"},\"synonyms_chinese\":[]}');
 /*!40000 ALTER TABLE `anilist_chinese` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
