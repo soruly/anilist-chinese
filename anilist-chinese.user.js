@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2020.10.5
+// @version      2.2020.10.8
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -5278,6 +5278,7 @@ var database = [
 {id:114030,title:"刀使之巫女 刻印一閃的燈火"},
 {id:114043,title:"食戟之靈 豪之皿"},
 {id:114072,title:"遊戯王SEVENS"},
+{id:114099,title:"勇者鬥惡龍 達爾大冒險"},
 {id:114124,title:"憂國的莫里亞蒂"},
 {id:114195,title:"喜歡本大爺的竟然就妳一個？ OVA"},
 {id:114233,title:"Gundam Build Divers Re:RISE 2"},

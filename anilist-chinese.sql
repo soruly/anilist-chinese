@@ -5299,6 +5299,7 @@ INSERT INTO `anilist_chinese` VALUES (113990,'{\"title\":{\"chinese\":\"星光�
 INSERT INTO `anilist_chinese` VALUES (114030,'{\"title\":{\"chinese\":\"刀使之巫女 刻印一閃的燈火\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (114043,'{\"title\":{\"chinese\":\"食戟之靈 豪之皿\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (114072,'{\"title\":{\"chinese\":\"遊戯王SEVENS\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (114099,'{\"title\":{\"chinese\":\"勇者鬥惡龍 達爾大冒險\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (114124,'{\"title\":{\"chinese\":\"憂國的莫里亞蒂\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (114195,'{\"title\":{\"chinese\":\"喜歡本大爺的竟然就妳一個？ OVA\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (114233,'{\"title\":{\"chinese\":\"Gundam Build Divers Re:RISE 2\"},\"synonyms_chinese\":[]}');
