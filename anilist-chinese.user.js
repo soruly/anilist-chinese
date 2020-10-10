@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2020.10.9
+// @version      2.2020.10.10
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -5343,6 +5343,7 @@ var database = [
 {id:116968,title:"GRANBLUE FANTASY The Animation Season 2 SP"},
 {id:116979,title:"星夢學園 on Parade! ONA"},
 {id:117002,title:"魔法紀錄 魔法少女小圓外傳 2"},
+{id:117086,title:"ぐらぶるっ！"},
 {id:117343,title:"無能力者娜娜"},
 {id:117396,title:"虛擬小姐在看著你 OVA"},
 {id:117411,title:"下級生はじめまして ティナ!"},
