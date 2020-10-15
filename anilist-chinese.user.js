@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2020.10.10
+// @version      2.2020.10.15
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -5377,6 +5377,7 @@ var database = [
 {id:121645,title:"Eternity 深夜的濡戀頻道"},
 {id:121797,title:"大神同學想要被吃掉"},
 {id:121799,title:"水豚君"},
+{id:122137,title:"試着用土下座來拜託她們吧"},
 {id:122349,title:"我的英雄學院：活下來！殊死的生存訓練"},
 {id:122807,title:"體操武士"},
 {id:123803,title:"無能力者娜娜"},

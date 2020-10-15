@@ -5398,6 +5398,7 @@ INSERT INTO `anilist_chinese` VALUES (120851,'{\"title\":{\"chinese\":\"小松�
 INSERT INTO `anilist_chinese` VALUES (121645,'{\"title\":{\"chinese\":\"Eternity 深夜的濡戀頻道\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (121797,'{\"title\":{\"chinese\":\"大神同學想要被吃掉\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (121799,'{\"title\":{\"chinese\":\"水豚君\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (122137,'{\"title\":{\"chinese\":\"試着用土下座來拜託她們吧\"},\"synonyms_chinese\":[\"土下座跪求給看\"]}');
 INSERT INTO `anilist_chinese` VALUES (122349,'{\"title\":{\"chinese\":\"我的英雄學院：活下來！殊死的生存訓練\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (122807,'{\"title\":{\"chinese\":\"體操武士\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (123803,'{\"title\":{\"chinese\":\"無能力者娜娜\"},\"synonyms_chinese\":[]}');
