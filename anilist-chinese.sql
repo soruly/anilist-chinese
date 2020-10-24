@@ -5312,7 +5312,7 @@ INSERT INTO `anilist_chinese` VALUES (114308,'{\"title\":{\"chinese\":\"Sword Ar
 INSERT INTO `anilist_chinese` VALUES (114340,'{\"title\":{\"chinese\":\"熊熊勇闖異世界\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (114411,'{\"title\":{\"chinese\":\"文豪與鍊金術師～審判的齒輪～\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (114417,'{\"title\":{\"chinese\":\"へんたつ\"},\"synonyms_chinese\":[]}');
-INSERT INTO `anilist_chinese` VALUES (114446,'{\"title\":{\"chinese\":\"寒蟬鳴泣之時 (2020)\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (114446,'{\"title\":{\"chinese\":\"寒蟬鳴泣之時 業\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (114535,'{\"title\":{\"chinese\":\"Search Results Web results  致不滅的你\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (114622,'{\"title\":{\"chinese\":\"異獸魔都 OVA\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (114717,'{\"title\":{\"chinese\":\"TOMICA 友情合體 Earth Granner\"},\"synonyms_chinese\":[]}');

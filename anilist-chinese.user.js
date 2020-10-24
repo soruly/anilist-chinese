@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2020.10.15
+// @version      2.2020.10.24
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -5291,7 +5291,7 @@ var database = [
 {id:114340,title:"熊熊勇闖異世界"},
 {id:114411,title:"文豪與鍊金術師～審判的齒輪～"},
 {id:114417,title:"へんたつ"},
-{id:114446,title:"寒蟬鳴泣之時 (2020)"},
+{id:114446,title:"寒蟬鳴泣之時 業"},
 {id:114535,title:"Search Results Web results  致不滅的你"},
 {id:114622,title:"異獸魔都 OVA"},
 {id:114717,title:"TOMICA 友情合體 Earth Granner"},
