@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2020.10.24
+// @version      2.2020.11.2
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -5380,6 +5380,7 @@ var database = [
 {id:122137,title:"試着用土下座來拜託她們吧"},
 {id:122349,title:"我的英雄學院：活下來！殊死的生存訓練"},
 {id:122807,title:"體操武士"},
+{id:123081,title:"成年人不懂如何戀愛！"},
 {id:123803,title:"無能力者娜娜"},
 {id:124115,title:"少女與戰車 最終章 第3話"},
 {id:124223,title:"賽馬娘Pretty Derby Season 2"},
