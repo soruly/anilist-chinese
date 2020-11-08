@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2020.11.2
+// @version      2.2020.11.8
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -5310,11 +5310,12 @@ var database = [
 {id:115115,title:"小さな蕾のその奥に……"},
 {id:115136,title:"ヤリチン家庭教師ネトリ報告"},
 {id:115138,title:"義姉はヤンママ授乳中"},
-{id:115142,title:"四月一日家的"},
+{id:115142,title:"四月一日三姐妹之家庭故事"},
 {id:115186,title:"奧林匹亞之環"},
 {id:115230,title:"神之塔 -Tower of God-"},
 {id:115405,title:"磔"},
 {id:115519,title:"Cinderella Girls 劇場 Extra Stage"},
+{id:115654,title:"四月一日三姐妹之家庭故事 第二季"},
 {id:115656,title:"Cardfight!! Vanguard 外傳 if"},
 {id:115671,title:"てにおはっ！2 リミットオーバー ～まだまだいっぱい、エッチしよ？～ THE ANIMATION"},
 {id:115685,title:"メルティス・クエスト"},

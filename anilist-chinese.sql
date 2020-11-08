@@ -5331,11 +5331,12 @@ INSERT INTO `anilist_chinese` VALUES (115114,'{\"title\":{\"chinese\":\"卒業�
 INSERT INTO `anilist_chinese` VALUES (115115,'{\"title\":{\"chinese\":\"小さな蕾のその奥に……\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (115136,'{\"title\":{\"chinese\":\"ヤリチン家庭教師ネトリ報告\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (115138,'{\"title\":{\"chinese\":\"義姉はヤンママ授乳中\"},\"synonyms_chinese\":[]}');
-INSERT INTO `anilist_chinese` VALUES (115142,'{\"title\":{\"chinese\":\"四月一日家的\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (115142,'{\"title\":{\"chinese\":\"四月一日三姐妹之家庭故事\"},\"synonyms_chinese\":[\"四月一日家的\"]}');
 INSERT INTO `anilist_chinese` VALUES (115186,'{\"title\":{\"chinese\":\"奧林匹亞之環\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (115230,'{\"title\":{\"chinese\":\"神之塔 -Tower of God-\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (115405,'{\"title\":{\"chinese\":\"磔\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (115519,'{\"title\":{\"chinese\":\"Cinderella Girls 劇場 Extra Stage\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (115654,'{\"title\":{\"chinese\":\"四月一日三姐妹之家庭故事 第二季\"},\"synonyms_chinese\":[\"與四月一日家\"]}');
 INSERT INTO `anilist_chinese` VALUES (115656,'{\"title\":{\"chinese\":\"Cardfight!! Vanguard 外傳 if\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (115671,'{\"title\":{\"chinese\":\"てにおはっ！2 リミットオーバー ～まだまだいっぱい、エッチしよ？～ THE ANIMATION\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (115685,'{\"title\":{\"chinese\":\"メルティス・クエスト\"},\"synonyms_chinese\":[]}');
