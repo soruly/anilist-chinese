@@ -5353,6 +5353,7 @@ INSERT INTO `anilist_chinese` VALUES (116246,'{\"title\":{\"chinese\":\"ARP Back
 INSERT INTO `anilist_chinese` VALUES (116248,'{\"title\":{\"chinese\":\"女學。～聖女斯克威爾學院～\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (116251,'{\"title\":{\"chinese\":\"支配の教壇\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (116267,'{\"title\":{\"chinese\":\"總之就是很可愛\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (116400,'{\"title\":{\"chinese\":\"優等生 綾香のウラオモテ\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (116415,'{\"title\":{\"chinese\":\"爆丸 裝甲聯盟\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (116566,'{\"title\":{\"chinese\":\"全員惡玉\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (116605,'{\"title\":{\"chinese\":\"Date A Live IV\"},\"synonyms_chinese\":[\"約會大作戰IV\"]}');
@@ -5390,6 +5391,7 @@ INSERT INTO `anilist_chinese` VALUES (118860,'{\"title\":{\"chinese\":\"サキ�
 INSERT INTO `anilist_chinese` VALUES (119113,'{\"title\":{\"chinese\":\"進擊的巨人〜年代記〜\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (119254,'{\"title\":{\"chinese\":\"彼女がヤツに抱かれたヒ\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (119258,'{\"title\":{\"chinese\":\"劇場版BEM～BECOME HUMAN～\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (119350,'{\"title\":{\"chinese\":\"悪の女幹部フルムーンナイトR\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (119484,'{\"title\":{\"chinese\":\"色欲INFINITE\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (119491,'{\"title\":{\"chinese\":\"王女&女騎士Wド下品露出～恥辱の見世物奴隷～\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (119982,'{\"title\":{\"chinese\":\"Collector\"},\"synonyms_chinese\":[]}');
@@ -5400,12 +5402,16 @@ INSERT INTO `anilist_chinese` VALUES (121645,'{\"title\":{\"chinese\":\"Eternity
 INSERT INTO `anilist_chinese` VALUES (121797,'{\"title\":{\"chinese\":\"大神同學想要被吃掉\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (121799,'{\"title\":{\"chinese\":\"水豚君\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (122137,'{\"title\":{\"chinese\":\"試着用土下座來拜託她們吧\"},\"synonyms_chinese\":[\"土下座跪求給看\"]}');
+INSERT INTO `anilist_chinese` VALUES (122199,'{\"title\":{\"chinese\":\"母ちゃんの友達にシコってるところ見られた。 THE ANIMATION\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (122201,'{\"title\":{\"chinese\":\"図書室ノ彼女~清楚ナ君ガ堕チルマデ~ THE ANIMATION\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (122349,'{\"title\":{\"chinese\":\"我的英雄學院：活下來！殊死的生存訓練\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (122442,'{\"title\":{\"chinese\":\"Knight of Erin -Erin and Nighthawk-\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (122807,'{\"title\":{\"chinese\":\"體操武士\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (123081,'{\"title\":{\"chinese\":\"成年人不懂如何戀愛！\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (123803,'{\"title\":{\"chinese\":\"無能力者娜娜\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (124115,'{\"title\":{\"chinese\":\"少女與戰車 最終章 第3話\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (124223,'{\"title\":{\"chinese\":\"賽馬娘Pretty Derby Season 2\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (124600,'{\"title\":{\"chinese\":\"対魔忍アサギ～捕らわれの肉人形～\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (124641,'{\"title\":{\"chinese\":\"邪神與廚二病少女 3\"},\"synonyms_chinese\":[]}');
 /*!40000 ALTER TABLE `anilist_chinese` ENABLE KEYS */;
 UNLOCK TABLES;

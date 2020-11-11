@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2020.11.8
+// @version      2.2020.11.11
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -5332,6 +5332,7 @@ var database = [
 {id:116248,title:"女學。～聖女斯克威爾學院～"},
 {id:116251,title:"支配の教壇"},
 {id:116267,title:"總之就是很可愛"},
+{id:116400,title:"優等生 綾香のウラオモテ"},
 {id:116415,title:"爆丸 裝甲聯盟"},
 {id:116566,title:"全員惡玉"},
 {id:116605,title:"Date A Live IV"},
@@ -5369,6 +5370,7 @@ var database = [
 {id:119113,title:"進擊的巨人〜年代記〜"},
 {id:119254,title:"彼女がヤツに抱かれたヒ"},
 {id:119258,title:"劇場版BEM～BECOME HUMAN～"},
+{id:119350,title:"悪の女幹部フルムーンナイトR"},
 {id:119484,title:"色欲INFINITE"},
 {id:119491,title:"王女&女騎士Wド下品露出～恥辱の見世物奴隷～"},
 {id:119982,title:"Collector"},
@@ -5379,12 +5381,16 @@ var database = [
 {id:121797,title:"大神同學想要被吃掉"},
 {id:121799,title:"水豚君"},
 {id:122137,title:"試着用土下座來拜託她們吧"},
+{id:122199,title:"母ちゃんの友達にシコってるところ見られた。 THE ANIMATION"},
+{id:122201,title:"図書室ノ彼女~清楚ナ君ガ堕チルマデ~ THE ANIMATION"},
 {id:122349,title:"我的英雄學院：活下來！殊死的生存訓練"},
+{id:122442,title:"Knight of Erin -Erin and Nighthawk-"},
 {id:122807,title:"體操武士"},
 {id:123081,title:"成年人不懂如何戀愛！"},
 {id:123803,title:"無能力者娜娜"},
 {id:124115,title:"少女與戰車 最終章 第3話"},
 {id:124223,title:"賽馬娘Pretty Derby Season 2"},
+{id:124600,title:"対魔忍アサギ～捕らわれの肉人形～"},
 {id:124641,title:"邪神與廚二病少女 3"}
 ];
 
