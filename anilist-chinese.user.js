@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2020.11.11
+// @version      2.2020.11.13
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -5391,7 +5391,8 @@ var database = [
 {id:124115,title:"少女與戰車 最終章 第3話"},
 {id:124223,title:"賽馬娘Pretty Derby Season 2"},
 {id:124600,title:"対魔忍アサギ～捕らわれの肉人形～"},
-{id:124641,title:"邪神與廚二病少女 3"}
+{id:124641,title:"邪神與廚二病少女 3"},
+{id:125425,title:"トロみつ娘の秘湯サービス ～とろッとろちゅるちゅるご奉仕させてください～"}
 ];
 
 var updating;

@@ -5413,6 +5413,7 @@ INSERT INTO `anilist_chinese` VALUES (124115,'{\"title\":{\"chinese\":\"少女�
 INSERT INTO `anilist_chinese` VALUES (124223,'{\"title\":{\"chinese\":\"賽馬娘Pretty Derby Season 2\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (124600,'{\"title\":{\"chinese\":\"対魔忍アサギ～捕らわれの肉人形～\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (124641,'{\"title\":{\"chinese\":\"邪神與廚二病少女 3\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (125425,'{\"title\":{\"chinese\":\"トロみつ娘の秘湯サービス ～とろッとろちゅるちゅるご奉仕させてください～\"},\"synonyms_chinese\":[]}');
 /*!40000 ALTER TABLE `anilist_chinese` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
