@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2020.11.13
+// @version      2.2020.11.18
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -5019,6 +5019,7 @@ var database = [
 {id:107136,title:"ガキにもどって犯りなおしっ!!!"},
 {id:107138,title:"天使降臨到我身邊！OVA"},
 {id:107201,title:"虛構推理"},
+{id:107202,title:"Free!-Road to the World-夢"},
 {id:107208,title:"少女與戰車 最終章 第2話"},
 {id:107226,title:"流汗吧！健身少女"},
 {id:107294,title:"邪神與廚二病少女 DASH"},
@@ -5387,6 +5388,7 @@ var database = [
 {id:122442,title:"Knight of Erin -Erin and Nighthawk-"},
 {id:122807,title:"體操武士"},
 {id:123081,title:"成年人不懂如何戀愛！"},
+{id:123769,title:"弩級戰隊 HXEROS OVA"},
 {id:123803,title:"無能力者娜娜"},
 {id:124115,title:"少女與戰車 最終章 第3話"},
 {id:124223,title:"賽馬娘Pretty Derby Season 2"},

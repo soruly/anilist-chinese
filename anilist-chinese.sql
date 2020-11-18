@@ -5040,6 +5040,7 @@ INSERT INTO `anilist_chinese` VALUES (107132,'{\"title\":{\"chinese\":\"三射�
 INSERT INTO `anilist_chinese` VALUES (107136,'{\"title\":{\"chinese\":\"ガキにもどって犯りなおしっ!!!\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (107138,'{\"title\":{\"chinese\":\"天使降臨到我身邊！OVA\"},\"synonyms_chinese\":[\"天使降臨到了我身邊！OVA\"]}');
 INSERT INTO `anilist_chinese` VALUES (107201,'{\"title\":{\"chinese\":\"虛構推理\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (107202,'{\"title\":{\"chinese\":\"Free!-Road to the World-夢\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (107208,'{\"title\":{\"chinese\":\"少女與戰車 最終章 第2話\"},\"synonyms_chinese\":[\"女子高生&重戰車 最終章\",\"少女&坦克 最終章 第2話\"]}');
 INSERT INTO `anilist_chinese` VALUES (107226,'{\"title\":{\"chinese\":\"流汗吧！健身少女\"},\"synonyms_chinese\":[\"肌肉少女：啞鈴，能舉多少公斤？\"]}');
 INSERT INTO `anilist_chinese` VALUES (107294,'{\"title\":{\"chinese\":\"邪神與廚二病少女 DASH\"},\"synonyms_chinese\":[\"小邪神飛踢！ DASH\"]}');
@@ -5408,6 +5409,7 @@ INSERT INTO `anilist_chinese` VALUES (122349,'{\"title\":{\"chinese\":\"我的�
 INSERT INTO `anilist_chinese` VALUES (122442,'{\"title\":{\"chinese\":\"Knight of Erin -Erin and Nighthawk-\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (122807,'{\"title\":{\"chinese\":\"體操武士\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (123081,'{\"title\":{\"chinese\":\"成年人不懂如何戀愛！\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (123769,'{\"title\":{\"chinese\":\"弩級戰隊 HXEROS OVA\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (123803,'{\"title\":{\"chinese\":\"無能力者娜娜\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (124115,'{\"title\":{\"chinese\":\"少女與戰車 最終章 第3話\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (124223,'{\"title\":{\"chinese\":\"賽馬娘Pretty Derby Season 2\"},\"synonyms_chinese\":[]}');
