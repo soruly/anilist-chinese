@@ -1,8 +1,8 @@
--- MariaDB dump 10.18  Distrib 10.4.16-MariaDB, for Linux (x86_64)
+-- MariaDB dump 10.18  Distrib 10.4.17-MariaDB, for Linux (x86_64)
 --
 -- Host: localhost    Database: anime
 -- ------------------------------------------------------
--- Server version	10.4.16-MariaDB
+-- Server version	10.4.17-MariaDB
 
 /*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
 /*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
