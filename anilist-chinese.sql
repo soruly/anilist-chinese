@@ -5409,8 +5409,11 @@ INSERT INTO `anilist_chinese` VALUES (122349,'{\"title\":{\"chinese\":\"我的�
 INSERT INTO `anilist_chinese` VALUES (122442,'{\"title\":{\"chinese\":\"Knight of Erin -Erin and Nighthawk-\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (122807,'{\"title\":{\"chinese\":\"體操武士\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (123081,'{\"title\":{\"chinese\":\"成年人不懂如何戀愛！\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (123360,'{\"title\":{\"chinese\":\"おね→ショタ←おね THE ANIMATION\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (123383,'{\"title\":{\"chinese\":\"White Blue ～堕ちる白衣の天使～\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (123769,'{\"title\":{\"chinese\":\"弩級戰隊 HXEROS OVA\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (123803,'{\"title\":{\"chinese\":\"無能力者娜娜\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (123845,'{\"title\":{\"chinese\":\"シコやかなるときもハメるときも\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (124115,'{\"title\":{\"chinese\":\"少女與戰車 最終章 第3話\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (124223,'{\"title\":{\"chinese\":\"賽馬娘Pretty Derby Season 2\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (124600,'{\"title\":{\"chinese\":\"対魔忍アサギ～捕らわれの肉人形～\"},\"synonyms_chinese\":[]}');

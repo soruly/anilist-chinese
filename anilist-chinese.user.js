@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2020.11.18
+// @version      2.2020.12.9
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -5388,8 +5388,11 @@ var database = [
 {id:122442,title:"Knight of Erin -Erin and Nighthawk-"},
 {id:122807,title:"體操武士"},
 {id:123081,title:"成年人不懂如何戀愛！"},
+{id:123360,title:"おね→ショタ←おね THE ANIMATION"},
+{id:123383,title:"White Blue ～堕ちる白衣の天使～"},
 {id:123769,title:"弩級戰隊 HXEROS OVA"},
 {id:123803,title:"無能力者娜娜"},
+{id:123845,title:"シコやかなるときもハメるときも"},
 {id:124115,title:"少女與戰車 最終章 第3話"},
 {id:124223,title:"賽馬娘Pretty Derby Season 2"},
 {id:124600,title:"対魔忍アサギ～捕らわれの肉人形～"},
