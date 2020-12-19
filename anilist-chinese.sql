@@ -5399,6 +5399,7 @@ INSERT INTO `anilist_chinese` VALUES (119982,'{\"title\":{\"chinese\":\"Collecto
 INSERT INTO `anilist_chinese` VALUES (120180,'{\"title\":{\"chinese\":\"忍者 Collection\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (120506,'{\"title\":{\"chinese\":\"浮気と本気 THE ANIMATION\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (120851,'{\"title\":{\"chinese\":\"小松先生 3\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (120892,'{\"title\":{\"chinese\":\"Grisaia Phantom Trigger - The Animation Stargazer\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (121645,'{\"title\":{\"chinese\":\"Eternity 深夜的濡戀頻道\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (121797,'{\"title\":{\"chinese\":\"大神同學想要被吃掉\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (121799,'{\"title\":{\"chinese\":\"水豚君\"},\"synonyms_chinese\":[]}');

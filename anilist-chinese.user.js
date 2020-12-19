@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2020.12.9
+// @version      2.2020.12.19
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -5378,6 +5378,7 @@ var database = [
 {id:120180,title:"忍者 Collection"},
 {id:120506,title:"浮気と本気 THE ANIMATION"},
 {id:120851,title:"小松先生 3"},
+{id:120892,title:"Grisaia Phantom Trigger - The Animation Stargazer"},
 {id:121645,title:"Eternity 深夜的濡戀頻道"},
 {id:121797,title:"大神同學想要被吃掉"},
 {id:121799,title:"水豚君"},
