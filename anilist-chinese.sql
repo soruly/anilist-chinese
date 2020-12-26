@@ -743,6 +743,7 @@ INSERT INTO `anilist_chinese` VALUES (1727,'{\"title\":{\"chinese\":\"神曲奏�
 INSERT INTO `anilist_chinese` VALUES (1728,'{\"title\":{\"chinese\":\"辣妹掌門人\"},\"synonyms_chinese\":[\"辣妹當家\",\"超gals 壽蘭\"]}');
 INSERT INTO `anilist_chinese` VALUES (1729,'{\"title\":{\"chinese\":\"瑪莉亞的凝望 第3季\"},\"synonyms_chinese\":[\"聖母在上 第3季\",\"聖母瑪莉亞注視着 第3季\"]}');
 INSERT INTO `anilist_chinese` VALUES (1732,'{\"title\":{\"chinese\":\"\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (1734,'{\"title\":{\"chinese\":\"海岸物語\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (1735,'{\"title\":{\"chinese\":\"火影忍者疾風傳\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (1738,'{\"title\":{\"chinese\":\"無敵看板娘\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (1762,'{\"title\":{\"chinese\":\"亞爾斯蘭戰記 OVA\"},\"synonyms_chinese\":[\"阿爾斯蘭戰記 OVA\"]}');

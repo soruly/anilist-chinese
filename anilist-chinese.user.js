@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2020.12.22
+// @version      2.2020.12.26
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -722,6 +722,7 @@ var database = [
 {id:1728,title:"辣妹掌門人"},
 {id:1729,title:"瑪莉亞的凝望 第3季"},
 {id:1732,title:""},
+{id:1734,title:"海岸物語"},
 {id:1735,title:"火影忍者疾風傳"},
 {id:1738,title:"無敵看板娘"},
 {id:1762,title:"亞爾斯蘭戰記 OVA"},
