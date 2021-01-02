@@ -5389,6 +5389,7 @@ INSERT INTO `anilist_chinese` VALUES (113311,'{\"title\":{\"chinese\":\"隱瞞�
 INSERT INTO `anilist_chinese` VALUES (113348,'{\"title\":{\"chinese\":\"戰姬絕唱SYMPHOGEAR XV SP\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (113397,'{\"title\":{\"chinese\":\"緣結熊本\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (113415,'{\"title\":{\"chinese\":\"咒術迴戰\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (113416,'{\"title\":{\"chinese\":\"順其自然的日子\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (113417,'{\"title\":{\"chinese\":\"おーばーふろぉ\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (113425,'{\"title\":{\"chinese\":\"回復術士的重啟人生\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (113463,'{\"title\":{\"chinese\":\"Hulaing Babies☆Petit\"},\"synonyms_chinese\":[]}');

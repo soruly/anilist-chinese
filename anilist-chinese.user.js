@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2020.12.28
+// @version      2.2021.1.2
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -5368,6 +5368,7 @@ var database = [
 {id:113348,title:"戰姬絕唱SYMPHOGEAR XV SP"},
 {id:113397,title:"緣結熊本"},
 {id:113415,title:"咒術迴戰"},
+{id:113416,title:"順其自然的日子"},
 {id:113417,title:"おーばーふろぉ"},
 {id:113425,title:"回復術士的重啟人生"},
 {id:113463,title:"Hulaing Babies☆Petit"},
