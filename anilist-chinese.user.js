@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2021.1.2
+// @version      2.2021.1.3
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -5467,6 +5467,7 @@ var database = [
 {id:116648,title:"巨人族的新娘"},
 {id:116673,title:"BURN THE WITCH"},
 {id:116676,title:"劇場版 黃金拼圖"},
+{id:116697,title:"はじめてのおるすばん"},
 {id:116700,title:"養貓養狗每天很開心"},
 {id:116752,title:"七大罪 憤怒的審判"},
 {id:116944,title:"WIXOSS DIVA (A) LIVE"},
@@ -5545,6 +5546,7 @@ var database = [
 {id:124600,title:"対魔忍アサギ～捕らわれの肉人形～"},
 {id:124641,title:"邪神與廚二病少女 3"},
 {id:124845,title:"WONDER EGG PRIORITY"},
+{id:125183,title:"実娘（あの子）の代わりに好きなだけ"},
 {id:125425,title:"トロみつ娘の秘湯サービス ～とろッとろちゅるちゅるご奉仕させてください～"},
 {id:125428,title:"天空侵犯"},
 {id:126678,title:"闇芝居 8"},

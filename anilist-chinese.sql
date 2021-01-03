@@ -5488,6 +5488,7 @@ INSERT INTO `anilist_chinese` VALUES (116605,'{\"title\":{\"chinese\":\"Date A L
 INSERT INTO `anilist_chinese` VALUES (116648,'{\"title\":{\"chinese\":\"巨人族的新娘\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (116673,'{\"title\":{\"chinese\":\"BURN THE WITCH\"},\"synonyms_chinese\":[\"龍與魔女\"]}');
 INSERT INTO `anilist_chinese` VALUES (116676,'{\"title\":{\"chinese\":\"劇場版 黃金拼圖\"},\"synonyms_chinese\":[\"劇場版 金色馬賽克\",\"劇場版 黃金嵌片\"]}');
+INSERT INTO `anilist_chinese` VALUES (116697,'{\"title\":{\"chinese\":\"はじめてのおるすばん\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (116700,'{\"title\":{\"chinese\":\"養貓養狗每天很開心\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (116752,'{\"title\":{\"chinese\":\"七大罪 憤怒的審判\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (116944,'{\"title\":{\"chinese\":\"WIXOSS DIVA (A) LIVE\"},\"synonyms_chinese\":[]}');
@@ -5566,6 +5567,7 @@ INSERT INTO `anilist_chinese` VALUES (124555,'{\"title\":{\"chinese\":\"Idolls!\
 INSERT INTO `anilist_chinese` VALUES (124600,'{\"title\":{\"chinese\":\"対魔忍アサギ～捕らわれの肉人形～\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (124641,'{\"title\":{\"chinese\":\"邪神與廚二病少女 3\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (124845,'{\"title\":{\"chinese\":\"WONDER EGG PRIORITY\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (125183,'{\"title\":{\"chinese\":\"実娘（あの子）の代わりに好きなだけ\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (125425,'{\"title\":{\"chinese\":\"トロみつ娘の秘湯サービス ～とろッとろちゅるちゅるご奉仕させてください～\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (125428,'{\"title\":{\"chinese\":\"天空侵犯\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (126678,'{\"title\":{\"chinese\":\"闇芝居 8\"},\"synonyms_chinese\":[]}');
