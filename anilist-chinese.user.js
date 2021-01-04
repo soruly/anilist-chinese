@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2021.1.3
+// @version      2.2021.1.4
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -5545,6 +5545,7 @@ var database = [
 {id:124555,title:"Idolls!"},
 {id:124600,title:"対魔忍アサギ～捕らわれの肉人形～"},
 {id:124641,title:"邪神與廚二病少女 3"},
+{id:124756,title:"黃金神威 2 OVA"},
 {id:124845,title:"WONDER EGG PRIORITY"},
 {id:125183,title:"実娘（あの子）の代わりに好きなだけ"},
 {id:125425,title:"トロみつ娘の秘湯サービス ～とろッとろちゅるちゅるご奉仕させてください～"},
