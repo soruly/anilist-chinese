@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2021.1.4
+// @version      2.2021.1.7
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -5431,6 +5431,7 @@ var database = [
 {id:114949,title:"ニプルへイムの狩人"},
 {id:114963,title:"想哭的我戴上了貓的面具"},
 {id:114981,title:"部屋露營△ SP"},
+{id:115069,title:"D4DJ First Mix"},
 {id:115077,title:"助っ人参上！！ THE ANIMATION"},
 {id:115113,title:"宇崎學妹想要玩！"},
 {id:115114,title:"卒業○○電車"},

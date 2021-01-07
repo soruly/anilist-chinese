@@ -5452,6 +5452,7 @@ INSERT INTO `anilist_chinese` VALUES (114947,'{\"title\":{\"chinese\":\"腐界�
 INSERT INTO `anilist_chinese` VALUES (114949,'{\"title\":{\"chinese\":\"ニプルへイムの狩人\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (114963,'{\"title\":{\"chinese\":\"想哭的我戴上了貓的面具\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (114981,'{\"title\":{\"chinese\":\"部屋露營△ SP\"},\"synonyms_chinese\":[\"室內露營△ SP\"]}');
+INSERT INTO `anilist_chinese` VALUES (115069,'{\"title\":{\"chinese\":\"D4DJ First Mix\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (115077,'{\"title\":{\"chinese\":\"助っ人参上！！ THE ANIMATION\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (115113,'{\"title\":{\"chinese\":\"宇崎學妹想要玩！\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (115114,'{\"title\":{\"chinese\":\"卒業○○電車\"},\"synonyms_chinese\":[]}');
