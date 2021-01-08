@@ -5572,6 +5572,7 @@ INSERT INTO `anilist_chinese` VALUES (124845,'{\"title\":{\"chinese\":\"WONDER E
 INSERT INTO `anilist_chinese` VALUES (125183,'{\"title\":{\"chinese\":\"実娘（あの子）の代わりに好きなだけ\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (125425,'{\"title\":{\"chinese\":\"トロみつ娘の秘湯サービス ～とろッとろちゅるちゅるご奉仕させてください～\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (125428,'{\"title\":{\"chinese\":\"天空侵犯\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (126242,'{\"title\":{\"chinese\":\"地味變!!～改變土妹子的純潔異性交往～\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (126678,'{\"title\":{\"chinese\":\"闇芝居 8\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (127536,'{\"title\":{\"chinese\":\"幼女社長\"},\"synonyms_chinese\":[]}');
 /*!40000 ALTER TABLE `anilist_chinese` ENABLE KEYS */;
