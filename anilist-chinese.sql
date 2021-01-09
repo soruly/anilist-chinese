@@ -5552,6 +5552,7 @@ INSERT INTO `anilist_chinese` VALUES (122807,'{\"title\":{\"chinese\":\"體操�
 INSERT INTO `anilist_chinese` VALUES (123081,'{\"title\":{\"chinese\":\"成年人不懂如何戀愛！\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (123360,'{\"title\":{\"chinese\":\"おね→ショタ←おね THE ANIMATION\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (123383,'{\"title\":{\"chinese\":\"White Blue ～堕ちる白衣の天使～\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (123474,'{\"title\":{\"chinese\":\"埃及神明們的日常\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (123769,'{\"title\":{\"chinese\":\"弩級戰隊 HXEROS OVA\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (123779,'{\"title\":{\"chinese\":\"怪病醫拉姆尼\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (123785,'{\"title\":{\"chinese\":\"Praeter 之傷\"},\"synonyms_chinese\":[]}');

@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2021.1.8
+// @version      2.2021.1.9
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -5531,6 +5531,7 @@ var database = [
 {id:123081,title:"成年人不懂如何戀愛！"},
 {id:123360,title:"おね→ショタ←おね THE ANIMATION"},
 {id:123383,title:"White Blue ～堕ちる白衣の天使～"},
+{id:123474,title:"埃及神明們的日常"},
 {id:123769,title:"弩級戰隊 HXEROS OVA"},
 {id:123779,title:"怪病醫拉姆尼"},
 {id:123785,title:"Praeter 之傷"},
