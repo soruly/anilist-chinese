@@ -5570,6 +5570,8 @@ INSERT INTO `anilist_chinese` VALUES (124600,'{\"title\":{\"chinese\":\"対魔�
 INSERT INTO `anilist_chinese` VALUES (124641,'{\"title\":{\"chinese\":\"邪神與廚二病少女 3\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (124756,'{\"title\":{\"chinese\":\"黃金神威 2 OVA\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (124845,'{\"title\":{\"chinese\":\"WONDER EGG PRIORITY\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (125067,'{\"title\":{\"chinese\":\"紫陽花の散ル頃に\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (125068,'{\"title\":{\"chinese\":\"向日葵ハ夜ニ咲ク\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (125183,'{\"title\":{\"chinese\":\"実娘（あの子）の代わりに好きなだけ\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (125425,'{\"title\":{\"chinese\":\"トロみつ娘の秘湯サービス ～とろッとろちゅるちゅるご奉仕させてください～\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (125428,'{\"title\":{\"chinese\":\"天空侵犯\"},\"synonyms_chinese\":[]}');
