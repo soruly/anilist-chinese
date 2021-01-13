@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2021.1.10
+// @version      2.2021.1.13
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -5030,6 +5030,7 @@ var database = [
 {id:104749,title:"Kud Wafter"},
 {id:104750,title:"Dimension High School"},
 {id:104854,title:"魔界騎士イングリッド：Re"},
+{id:104867,title:"COCOLORS"},
 {id:104936,title:"暗黑破壞神在身邊。"},
 {id:104937,title:"Lapis Re：LiGHTs"},
 {id:104949,title:"SILENT CHASER 狩神"},
@@ -5120,6 +5121,7 @@ var database = [
 {id:107202,title:"Free!-Road to the World-夢"},
 {id:107208,title:"少女與戰車 最終章 第2話"},
 {id:107226,title:"流汗吧！健身少女"},
+{id:107252,title:"劇場版 歌之王子殿下 真愛王國"},
 {id:107294,title:"邪神與廚二病少女 DASH"},
 {id:107298,title:"One Room: Second Season -extra-"},
 {id:107313,title:"魯邦三世 峰不二子的謊言"},
@@ -5312,6 +5314,7 @@ var database = [
 {id:111734,title:"Given 劇場版"},
 {id:111762,title:"Fruits Basket 2"},
 {id:111790,title:"排球少年 陸 VS 空"},
+{id:111931,title:"鬼燈的冷徹 2 OVA"},
 {id:111951,title:"寶石商人理察的謎鑑定"},
 {id:111965,title:"彼得格里爾的賢者時間"},
 {id:112010,title:"巴加的工作室 ～巴加眼中的海洋～"},

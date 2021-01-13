@@ -5051,6 +5051,7 @@ INSERT INTO `anilist_chinese` VALUES (104745,'{\"title\":{\"chinese\":\"全職�
 INSERT INTO `anilist_chinese` VALUES (104749,'{\"title\":{\"chinese\":\"Kud Wafter\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (104750,'{\"title\":{\"chinese\":\"Dimension High School\"},\"synonyms_chinese\":[\"Dimension高中\"]}');
 INSERT INTO `anilist_chinese` VALUES (104854,'{\"title\":{\"chinese\":\"魔界騎士イングリッド：Re\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (104867,'{\"title\":{\"chinese\":\"COCOLORS\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (104936,'{\"title\":{\"chinese\":\"暗黑破壞神在身邊。\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (104937,'{\"title\":{\"chinese\":\"Lapis Re：LiGHTs\"},\"synonyms_chinese\":[\"寶石幻想 光芒重現 ～這個世界的偶像會魔法～\"]}');
 INSERT INTO `anilist_chinese` VALUES (104949,'{\"title\":{\"chinese\":\"SILENT CHASER 狩神\"},\"synonyms_chinese\":[]}');
@@ -5141,6 +5142,7 @@ INSERT INTO `anilist_chinese` VALUES (107201,'{\"title\":{\"chinese\":\"虛構�
 INSERT INTO `anilist_chinese` VALUES (107202,'{\"title\":{\"chinese\":\"Free!-Road to the World-夢\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (107208,'{\"title\":{\"chinese\":\"少女與戰車 最終章 第2話\"},\"synonyms_chinese\":[\"女子高生&重戰車 最終章\",\"少女&坦克 最終章 第2話\"]}');
 INSERT INTO `anilist_chinese` VALUES (107226,'{\"title\":{\"chinese\":\"流汗吧！健身少女\"},\"synonyms_chinese\":[\"肌肉少女：啞鈴，能舉多少公斤？\"]}');
+INSERT INTO `anilist_chinese` VALUES (107252,'{\"title\":{\"chinese\":\"劇場版 歌之王子殿下 真愛王國\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (107294,'{\"title\":{\"chinese\":\"邪神與廚二病少女 DASH\"},\"synonyms_chinese\":[\"小邪神飛踢！ DASH\"]}');
 INSERT INTO `anilist_chinese` VALUES (107298,'{\"title\":{\"chinese\":\"One Room: Second Season -extra-\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (107313,'{\"title\":{\"chinese\":\"魯邦三世 峰不二子的謊言\"},\"synonyms_chinese\":[]}');
@@ -5333,6 +5335,7 @@ INSERT INTO `anilist_chinese` VALUES (111733,'{\"title\":{\"chinese\":\"ANOTHER 
 INSERT INTO `anilist_chinese` VALUES (111734,'{\"title\":{\"chinese\":\"Given 劇場版\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (111762,'{\"title\":{\"chinese\":\"Fruits Basket 2\"},\"synonyms_chinese\":[\"幻影天使 2\",\"魔法水果籃 2\",\"水果籃子 2\",\"生肖奇緣 2\"]}');
 INSERT INTO `anilist_chinese` VALUES (111790,'{\"title\":{\"chinese\":\"排球少年 陸 VS 空\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (111931,'{\"title\":{\"chinese\":\"鬼燈的冷徹 2 OVA\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (111951,'{\"title\":{\"chinese\":\"寶石商人理察的謎鑑定\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (111965,'{\"title\":{\"chinese\":\"彼得格里爾的賢者時間\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (112010,'{\"title\":{\"chinese\":\"巴加的工作室 ～巴加眼中的海洋～\"},\"synonyms_chinese\":[]}');
