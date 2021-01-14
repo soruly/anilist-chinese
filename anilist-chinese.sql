@@ -4915,7 +4915,7 @@ INSERT INTO `anilist_chinese` VALUES (102835,'{\"title\":{\"chinese\":\"Revision
 INSERT INTO `anilist_chinese` VALUES (102836,'{\"title\":{\"chinese\":\"劇場版 黑子的籃球 Winter Cup 總集篇 ～淚之所向～\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (102839,'{\"title\":{\"chinese\":\"劇場版 黑子的籃球 Winter Cup 總集篇 ～門的彼端～\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (102860,'{\"title\":{\"chinese\":\"蒼天之拳 REGENESIS 2\"},\"synonyms_chinese\":[]}');
-INSERT INTO `anilist_chinese` VALUES (102875,'{\"title\":{\"chinese\":\"Himote House\"},\"synonyms_chinese\":[\"不受歡迎之家\",\"不受歡迎之屋\"]}');
+INSERT INTO `anilist_chinese` VALUES (102875,'{\"title\":{\"chinese\":\"Himote House\"},\"synonyms_chinese\":[\"不受歡迎之家\"]}');
 INSERT INTO `anilist_chinese` VALUES (102882,'{\"title\":{\"chinese\":\"3D彼女 2\"},\"synonyms_chinese\":[\"三次元女友 2\"]}');
 INSERT INTO `anilist_chinese` VALUES (102883,'{\"title\":{\"chinese\":\"JoJo的奇妙冒險 黃金之風\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (102891,'{\"title\":{\"chinese\":\"鹿王\"},\"synonyms_chinese\":[]}');
@@ -5315,6 +5315,7 @@ INSERT INTO `anilist_chinese` VALUES (111001,'{\"title\":{\"chinese\":\"XL上司
 INSERT INTO `anilist_chinese` VALUES (111048,'{\"title\":{\"chinese\":\"拳願阿修羅 第二季\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (111082,'{\"title\":{\"chinese\":\"星夢學園 on Parade!\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (111129,'{\"title\":{\"chinese\":\"迷你刀使 SP\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (111137,'{\"title\":{\"chinese\":\"WAVE!! Surfing Yappe!!\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (111144,'{\"title\":{\"chinese\":\"Cardfight!! Vanguard 新右衛門篇\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (111145,'{\"title\":{\"chinese\":\"A3! SEASON AUTUMN & WINTER\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (111188,'{\"title\":{\"chinese\":\"素晴らしき国家の築き方\"},\"synonyms_chinese\":[]}');
@@ -5530,6 +5531,7 @@ INSERT INTO `anilist_chinese` VALUES (119113,'{\"title\":{\"chinese\":\"進擊�
 INSERT INTO `anilist_chinese` VALUES (119123,'{\"title\":{\"chinese\":\"裝甲娘戰機\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (119254,'{\"title\":{\"chinese\":\"彼女がヤツに抱かれたヒ\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (119258,'{\"title\":{\"chinese\":\"劇場版BEM～BECOME HUMAN～\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (119321,'{\"title\":{\"chinese\":\"安雅與魔女\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (119350,'{\"title\":{\"chinese\":\"悪の女幹部フルムーンナイトR\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (119484,'{\"title\":{\"chinese\":\"色欲INFINITE\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (119491,'{\"title\":{\"chinese\":\"王女&女騎士Wド下品露出～恥辱の見世物奴隷～\"},\"synonyms_chinese\":[]}');

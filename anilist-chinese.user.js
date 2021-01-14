@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2021.1.13
+// @version      2.2021.1.14
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -5294,6 +5294,7 @@ var database = [
 {id:111048,title:"拳願阿修羅 第二季"},
 {id:111082,title:"星夢學園 on Parade!"},
 {id:111129,title:"迷你刀使 SP"},
+{id:111137,title:"WAVE!! Surfing Yappe!!"},
 {id:111144,title:"Cardfight!! Vanguard 新右衛門篇"},
 {id:111145,title:"A3! SEASON AUTUMN & WINTER"},
 {id:111188,title:"素晴らしき国家の築き方"},
@@ -5509,6 +5510,7 @@ var database = [
 {id:119123,title:"裝甲娘戰機"},
 {id:119254,title:"彼女がヤツに抱かれたヒ"},
 {id:119258,title:"劇場版BEM～BECOME HUMAN～"},
+{id:119321,title:"安雅與魔女"},
 {id:119350,title:"悪の女幹部フルムーンナイトR"},
 {id:119484,title:"色欲INFINITE"},
 {id:119491,title:"王女&女騎士Wド下品露出～恥辱の見世物奴隷～"},
