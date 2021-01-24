@@ -5583,6 +5583,7 @@ INSERT INTO `anilist_chinese` VALUES (125428,'{\"title\":{\"chinese\":\"天空�
 INSERT INTO `anilist_chinese` VALUES (126242,'{\"title\":{\"chinese\":\"地味變!!～改變土妹子的純潔異性交往～\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (126678,'{\"title\":{\"chinese\":\"闇芝居 8\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (127536,'{\"title\":{\"chinese\":\"幼女社長\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (127690,'{\"title\":{\"chinese\":\"天竺鼠車車\"},\"synonyms_chinese\":[]}');
 /*!40000 ALTER TABLE `anilist_chinese` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;

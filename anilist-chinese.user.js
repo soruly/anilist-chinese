@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2021.1.14
+// @version      2.2021.1.24
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -5561,7 +5561,8 @@ var database = [
 {id:125428,title:"天空侵犯"},
 {id:126242,title:"地味變!!～改變土妹子的純潔異性交往～"},
 {id:126678,title:"闇芝居 8"},
-{id:127536,title:"幼女社長"}
+{id:127536,title:"幼女社長"},
+{id:127690,title:"天竺鼠車車"}
 ];
 
 var updating;
