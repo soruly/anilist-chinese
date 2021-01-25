@@ -1,8 +1,10 @@
-require("dotenv").config();
-const fs = require("fs");
+import fs from "fs";
+import Knex from "knex";
+import dotenv from "dotenv";
+dotenv.config();
 const { DB_NAME, DB_USER, DB_PASS, DB_HOST } = process.env;
 
-const knex = require("knex")({
+const knex = Knex({
   client: "mysql",
   connection: {
     host: DB_HOST,
