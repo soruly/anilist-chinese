@@ -22,8 +22,8 @@ const db = animeIDList.map((e) => ({
 const db_str = db
   .map((e) =>
     JSON.stringify(e)
-    .replace(/"id":/g, "id:")
-    .replace(/"title":/g, "title:")
+      .replace(/"id":/g, "id:")
+      .replace(/"title":/g, "title:")
   )
   .join(",\n");
 const template = fs.readFileSync("template.js", "utf8");
