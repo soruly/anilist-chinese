@@ -1,7 +1,7 @@
+import "dotenv/config.js";
 import fs from "fs";
 import Knex from "knex";
-import dotenv from "dotenv";
-dotenv.config();
+
 const { DB_NAME, DB_USER, DB_PASS, DB_HOST } = process.env;
 
 const knex = Knex({
