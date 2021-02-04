@@ -5405,6 +5405,7 @@ INSERT INTO `anilist_chinese` VALUES (113570,'{\"title\":{\"chinese\":\"社長�
 INSERT INTO `anilist_chinese` VALUES (113585,'{\"title\":{\"chinese\":\"Skate-Leading☆Stars\"},\"synonyms_chinese\":[\"花樣滑冰 Stars\"]}');
 INSERT INTO `anilist_chinese` VALUES (113621,'{\"title\":{\"chinese\":\"愛聖天使ラブメアリー ～悪性受胎～ THE ANIMATION\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (113652,'{\"title\":{\"chinese\":\"催眠麥克風\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (113669,'{\"title\":{\"chinese\":\"電影多啦A夢：大雄之新恐龍\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (113692,'{\"title\":{\"chinese\":\"劇場版 妄想學生會 2\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (113693,'{\"title\":{\"chinese\":\"小書痴的下剋上：為了成為圖書管理員不擇手段！2\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (113705,'{\"title\":{\"chinese\":\"巨乳プリンセス催眠\"},\"synonyms_chinese\":[]}');
@@ -5583,6 +5584,7 @@ INSERT INTO `anilist_chinese` VALUES (125425,'{\"title\":{\"chinese\":\"トロ�
 INSERT INTO `anilist_chinese` VALUES (125428,'{\"title\":{\"chinese\":\"天空侵犯\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (126242,'{\"title\":{\"chinese\":\"地味變!!～改變土妹子的純潔異性交往～\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (126678,'{\"title\":{\"chinese\":\"闇芝居 8\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (127149,'{\"title\":{\"chinese\":\"Fate ⁄ Grand Carnival\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (127536,'{\"title\":{\"chinese\":\"幼女社長\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (127690,'{\"title\":{\"chinese\":\"天竺鼠車車\"},\"synonyms_chinese\":[]}');
 /*!40000 ALTER TABLE `anilist_chinese` ENABLE KEYS */;

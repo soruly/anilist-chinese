@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2021.1.26
+// @version      2.2021.2.4
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -5384,6 +5384,7 @@ var database = [
 {id:113585,title:"Skate-Leading☆Stars"},
 {id:113621,title:"愛聖天使ラブメアリー ～悪性受胎～ THE ANIMATION"},
 {id:113652,title:"催眠麥克風"},
+{id:113669,title:"電影多啦A夢：大雄之新恐龍"},
 {id:113692,title:"劇場版 妄想學生會 2"},
 {id:113693,title:"小書痴的下剋上：為了成為圖書管理員不擇手段！2"},
 {id:113705,title:"巨乳プリンセス催眠"},
@@ -5562,6 +5563,7 @@ var database = [
 {id:125428,title:"天空侵犯"},
 {id:126242,title:"地味變!!～改變土妹子的純潔異性交往～"},
 {id:126678,title:"闇芝居 8"},
+{id:127149,title:"Fate ⁄ Grand Carnival"},
 {id:127536,title:"幼女社長"},
 {id:127690,title:"天竺鼠車車"}
 ];
