@@ -4040,6 +4040,7 @@ INSERT INTO `anilist_chinese` VALUES (21760,'{\"title\":{\"chinese\":\"怪獸娘
 INSERT INTO `anilist_chinese` VALUES (21762,'{\"title\":{\"chinese\":\"魔将の贄3\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (21763,'{\"title\":{\"chinese\":\"放學後Initiation\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (21764,'{\"title\":{\"chinese\":\"WWW.WORKING!!\"},\"synonyms_chinese\":[\"WWW.WORKING!!迷糊餐廳\",\"WWW.WORKING!!無聊西餐廳\"]}');
+INSERT INTO `anilist_chinese` VALUES (21765,'{\"title\":{\"chinese\":\"終結的熾天使 名古屋決戰篇 SP\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (21766,'{\"title\":{\"chinese\":\"ZEGAPAIN ADP\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (21769,'{\"title\":{\"chinese\":\"果然我的青春戀愛喜劇搞錯了。續 OVA\"},\"synonyms_chinese\":[\"我的青春戀愛喜劇果然有問題。續 OVA\"]}');
 INSERT INTO `anilist_chinese` VALUES (21770,'{\"title\":{\"chinese\":\"劇場版PEACE MAKER 鐵 前篇 想道\"},\"synonyms_chinese\":[]}');
@@ -5564,6 +5565,7 @@ INSERT INTO `anilist_chinese` VALUES (124223,'{\"title\":{\"chinese\":\"賽馬�
 INSERT INTO `anilist_chinese` VALUES (124394,'{\"title\":{\"chinese\":\"八十龜醬觀察日記 3\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (124555,'{\"title\":{\"chinese\":\"Idolls!\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (124600,'{\"title\":{\"chinese\":\"対魔忍アサギ～捕らわれの肉人形～\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (124612,'{\"title\":{\"chinese\":\"試着用土下座來拜託她們吧 異世界篇\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (124641,'{\"title\":{\"chinese\":\"邪神與廚二病少女 3\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (124756,'{\"title\":{\"chinese\":\"黃金神威 2 OVA\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (124845,'{\"title\":{\"chinese\":\"WONDER EGG PRIORITY\"},\"synonyms_chinese\":[]}');

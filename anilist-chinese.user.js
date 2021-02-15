@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2021.2.11
+// @version      2.2021.2.15
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -4019,6 +4019,7 @@ var database = [
 {id:21762,title:"魔将の贄3"},
 {id:21763,title:"放學後Initiation"},
 {id:21764,title:"WWW.WORKING!!"},
+{id:21765,title:"終結的熾天使 名古屋決戰篇 SP"},
 {id:21766,title:"ZEGAPAIN ADP"},
 {id:21769,title:"果然我的青春戀愛喜劇搞錯了。續 OVA"},
 {id:21770,title:"劇場版PEACE MAKER 鐵 前篇 想道"},
@@ -5543,6 +5544,7 @@ var database = [
 {id:124394,title:"八十龜醬觀察日記 3"},
 {id:124555,title:"Idolls!"},
 {id:124600,title:"対魔忍アサギ～捕らわれの肉人形～"},
+{id:124612,title:"試着用土下座來拜託她們吧 異世界篇"},
 {id:124641,title:"邪神與廚二病少女 3"},
 {id:124756,title:"黃金神威 2 OVA"},
 {id:124845,title:"WONDER EGG PRIORITY"},
