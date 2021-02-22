@@ -5325,7 +5325,7 @@ INSERT INTO `anilist_chinese` VALUES (111501,'{\"title\":{\"chinese\":\"請在�
 INSERT INTO `anilist_chinese` VALUES (111656,'{\"title\":{\"chinese\":\"人妻、蜜と肉\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (111729,'{\"title\":{\"chinese\":\"平凡職業造就世界最強 OVA\"},\"synonyms_chinese\":[\"平凡職業成就世界最強 OVA\"]}');
 INSERT INTO `anilist_chinese` VALUES (111733,'{\"title\":{\"chinese\":\"ANOTHER WORLD\"},\"synonyms_chinese\":[]}');
-INSERT INTO `anilist_chinese` VALUES (111734,'{\"title\":{\"chinese\":\"Given 劇場版\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (111734,'{\"title\":{\"chinese\":\"劇場版 Given\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (111762,'{\"title\":{\"chinese\":\"Fruits Basket 2\"},\"synonyms_chinese\":[\"幻影天使 2\",\"魔法水果籃 2\",\"水果籃子 2\",\"生肖奇緣 2\"]}');
 INSERT INTO `anilist_chinese` VALUES (111790,'{\"title\":{\"chinese\":\"排球少年 陸 VS 空\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (111931,'{\"title\":{\"chinese\":\"鬼燈的冷徹 2 OVA\"},\"synonyms_chinese\":[]}');

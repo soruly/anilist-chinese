@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2021.2.15
+// @version      2.2021.2.22
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -5304,7 +5304,7 @@ var database = [
 {id:111656,title:"人妻、蜜と肉"},
 {id:111729,title:"平凡職業造就世界最強 OVA"},
 {id:111733,title:"ANOTHER WORLD"},
-{id:111734,title:"Given 劇場版"},
+{id:111734,title:"劇場版 Given"},
 {id:111762,title:"Fruits Basket 2"},
 {id:111790,title:"排球少年 陸 VS 空"},
 {id:111931,title:"鬼燈的冷徹 2 OVA"},
