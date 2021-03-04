@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2021.2.22
+// @version      2.2021.3.4
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -5349,6 +5349,7 @@ var database = [
 {id:112803,title:"No Guns Life 2"},
 {id:112818,title:"弩級戰隊 HXEROS"},
 {id:112908,title:"となりの家のアネットさん THE ANIMATION"},
+{id:112930,title:"劇場版 愛情可以分割嗎？"},
 {id:112936,title:"○○交配"},
 {id:113023,title:"少女☆歌劇 Revue Starlight Rondo Rondo Rondo"},
 {id:113024,title:"劇場版 少女☆歌劇 Revue Starlight"},
@@ -5374,6 +5375,7 @@ var database = [
 {id:113538,title:"排球少年 TO THE TOP 2"},
 {id:113570,title:"社長，戰鬥的時間到了！"},
 {id:113585,title:"Skate-Leading☆Stars"},
+{id:113595,title:"planetarian ～雪圏球～"},
 {id:113621,title:"愛聖天使ラブメアリー ～悪性受胎～ THE ANIMATION"},
 {id:113652,title:"催眠麥克風"},
 {id:113669,title:"電影多啦A夢：大雄之新恐龍"},

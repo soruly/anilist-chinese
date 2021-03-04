@@ -5370,6 +5370,7 @@ INSERT INTO `anilist_chinese` VALUES (112788,'{\"title\":{\"chinese\":\"海邊�
 INSERT INTO `anilist_chinese` VALUES (112803,'{\"title\":{\"chinese\":\"No Guns Life 2\"},\"synonyms_chinese\":[\"非槍人生 2\"]}');
 INSERT INTO `anilist_chinese` VALUES (112818,'{\"title\":{\"chinese\":\"弩級戰隊 HXEROS\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (112908,'{\"title\":{\"chinese\":\"となりの家のアネットさん THE ANIMATION\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (112930,'{\"title\":{\"chinese\":\"劇場版 愛情可以分割嗎？\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (112936,'{\"title\":{\"chinese\":\"○○交配\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (113023,'{\"title\":{\"chinese\":\"少女☆歌劇 Revue Starlight Rondo Rondo Rondo\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (113024,'{\"title\":{\"chinese\":\"劇場版 少女☆歌劇 Revue Starlight\"},\"synonyms_chinese\":[]}');
@@ -5395,6 +5396,7 @@ INSERT INTO `anilist_chinese` VALUES (113476,'{\"title\":{\"chinese\":\"Show By 
 INSERT INTO `anilist_chinese` VALUES (113538,'{\"title\":{\"chinese\":\"排球少年 TO THE TOP 2\"},\"synonyms_chinese\":[\"排球少年 5\"]}');
 INSERT INTO `anilist_chinese` VALUES (113570,'{\"title\":{\"chinese\":\"社長，戰鬥的時間到了！\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (113585,'{\"title\":{\"chinese\":\"Skate-Leading☆Stars\"},\"synonyms_chinese\":[\"花樣滑冰 Stars\"]}');
+INSERT INTO `anilist_chinese` VALUES (113595,'{\"title\":{\"chinese\":\"planetarian ～雪圏球～\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (113621,'{\"title\":{\"chinese\":\"愛聖天使ラブメアリー ～悪性受胎～ THE ANIMATION\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (113652,'{\"title\":{\"chinese\":\"催眠麥克風\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (113669,'{\"title\":{\"chinese\":\"電影多啦A夢：大雄之新恐龍\"},\"synonyms_chinese\":[]}');
