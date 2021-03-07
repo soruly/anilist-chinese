@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2021.3.4
+// @version      2.2021.3.7
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -1502,7 +1502,7 @@ var database = [
 {id:4732,title:"Grope ～闇の中の小鳥達～"},
 {id:4744,title:"夕陽染紅的坡道"},
 {id:4752,title:"吸血鬼騎士 Guilty"},
-{id:4760,title:"我的狐仙女友"},
+{id:4760,title:"我的狐仙女友 SP"},
 {id:4763,title:"妻しぼり"},
 {id:4772,title:"ARIA The ORIGINATION"},
 {id:4774,title:"人形使い"},
@@ -1963,6 +1963,7 @@ var database = [
 {id:7793,title:"拳王創世紀 影道篇"},
 {id:7817,title:"B型H系"},
 {id:7864,title:"ＳＦロリータファンタジー「ＯＭＥ－１」"},
+{id:7875,title:"我的狐仙女友 OVA SP"},
 {id:7908,title:"Love²ポリス"},
 {id:7914,title:"究極のシェフは美味しんぼパパ"},
 {id:7969,title:"RIN×SEN～白濁女教師と野郎ども～"},
@@ -5461,6 +5462,7 @@ var database = [
 {id:116251,title:"支配の教壇"},
 {id:116267,title:"總之就是很可愛"},
 {id:116287,title:"裏世界遠足"},
+{id:116384,title:"Sol Levante"},
 {id:116400,title:"優等生 綾香のウラオモテ"},
 {id:116415,title:"爆丸 裝甲聯盟"},
 {id:116566,title:"全員惡玉"},
