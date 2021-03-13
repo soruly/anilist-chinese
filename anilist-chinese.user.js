@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2021.3.8
+// @version      2.2021.3.13
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -5346,6 +5346,7 @@ var database = [
 {id:112479,title:"Assault Lily: BOUQUET"},
 {id:112534,title:"魔神英雄傳 七魂的龍神丸"},
 {id:112609,title:"魔女之旅"},
+{id:112612,title:"光之美少女 Miracle Leap 與大家不可思議的一天"},
 {id:112625,title:"齊木楠雄的災難 Ψ始動篇"},
 {id:112641,title:"輝夜姬想讓人告白? ~天才們的戀愛頭腦戰~"},
 {id:112649,title:"好比是最終迷宮前的少年到新手村生活一般的故事"},
@@ -5485,6 +5486,7 @@ var database = [
 {id:116968,title:"GRANBLUE FANTASY The Animation Season 2 SP"},
 {id:116979,title:"星夢學園 on Parade! ONA"},
 {id:117002,title:"魔法紀錄 魔法少女小圓外傳 2"},
+{id:117067,title:"舞伎家的料理人"},
 {id:117085,title:"魔術士歐菲 流浪之旅 基姆拉克篇"},
 {id:117086,title:"ぐらぶるっ！"},
 {id:117193,title:"我的英雄學院 5"},
@@ -5573,9 +5575,11 @@ var database = [
 {id:125516,title:"君が好き。THE ANIMATION"},
 {id:126242,title:"地味變!!～改變土妹子的純潔異性交往～"},
 {id:126678,title:"闇芝居 8"},
+{id:126905,title:"Tropical-Rouge！光之美少女"},
 {id:127149,title:"Fate ⁄ Grand Carnival"},
 {id:127536,title:"幼女社長"},
-{id:127690,title:"天竺鼠車車"}
+{id:127690,title:"天竺鼠車車"},
+{id:128563,title:"D4DJ Petit Mix"}
 ];
 
 var updating;

@@ -5367,6 +5367,7 @@ INSERT INTO `anilist_chinese` VALUES (112472,'{\"title\":{\"chinese\":\"在世�
 INSERT INTO `anilist_chinese` VALUES (112479,'{\"title\":{\"chinese\":\"Assault Lily: BOUQUET\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (112534,'{\"title\":{\"chinese\":\"魔神英雄傳 七魂的龍神丸\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (112609,'{\"title\":{\"chinese\":\"魔女之旅\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (112612,'{\"title\":{\"chinese\":\"光之美少女 Miracle Leap 與大家不可思議的一天\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (112625,'{\"title\":{\"chinese\":\"齊木楠雄的災難 Ψ始動篇\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (112641,'{\"title\":{\"chinese\":\"輝夜姬想讓人告白? ~天才們的戀愛頭腦戰~\"},\"synonyms_chinese\":[\"輝夜大小姐想讓我告白?~天才們的戀愛頭腦戰~\"]}');
 INSERT INTO `anilist_chinese` VALUES (112649,'{\"title\":{\"chinese\":\"好比是最終迷宮前的少年到新手村生活一般的故事\"},\"synonyms_chinese\":[\"比方說，這是個出身魔王關附近的少年在新手村生活的故事\"]}');
@@ -5506,6 +5507,7 @@ INSERT INTO `anilist_chinese` VALUES (116946,'{\"title\":{\"chinese\":\"屈辱2 
 INSERT INTO `anilist_chinese` VALUES (116968,'{\"title\":{\"chinese\":\"GRANBLUE FANTASY The Animation Season 2 SP\"},\"synonyms_chinese\":[\"碧藍幻想 2 SP\"]}');
 INSERT INTO `anilist_chinese` VALUES (116979,'{\"title\":{\"chinese\":\"星夢學園 on Parade! ONA\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (117002,'{\"title\":{\"chinese\":\"魔法紀錄 魔法少女小圓外傳 2\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (117067,'{\"title\":{\"chinese\":\"舞伎家的料理人\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (117085,'{\"title\":{\"chinese\":\"魔術士歐菲 流浪之旅 基姆拉克篇\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (117086,'{\"title\":{\"chinese\":\"ぐらぶるっ！\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (117193,'{\"title\":{\"chinese\":\"我的英雄學院 5\"},\"synonyms_chinese\":[]}');
@@ -5594,9 +5596,11 @@ INSERT INTO `anilist_chinese` VALUES (125515,'{\"title\":{\"chinese\":\"背徳�
 INSERT INTO `anilist_chinese` VALUES (125516,'{\"title\":{\"chinese\":\"君が好き。THE ANIMATION\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (126242,'{\"title\":{\"chinese\":\"地味變!!～改變土妹子的純潔異性交往～\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (126678,'{\"title\":{\"chinese\":\"闇芝居 8\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (126905,'{\"title\":{\"chinese\":\"Tropical-Rouge！光之美少女\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (127149,'{\"title\":{\"chinese\":\"Fate ⁄ Grand Carnival\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (127536,'{\"title\":{\"chinese\":\"幼女社長\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (127690,'{\"title\":{\"chinese\":\"天竺鼠車車\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (128563,'{\"title\":{\"chinese\":\"D4DJ Petit Mix\"},\"synonyms_chinese\":[]}');
 /*!40000 ALTER TABLE `anilist_chinese` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
