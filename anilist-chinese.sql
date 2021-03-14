@@ -630,7 +630,7 @@ INSERT INTO `anilist_chinese` VALUES (1391,'{\"title\":{\"chinese\":\"高智能�
 INSERT INTO `anilist_chinese` VALUES (1392,'{\"title\":{\"chinese\":\"高智能方程式 Double One\"},\"synonyms_chinese\":[\"閃電霹靂車 Double One\"]}');
 INSERT INTO `anilist_chinese` VALUES (1393,'{\"title\":{\"chinese\":\"高智能方程式 ZERO\"},\"synonyms_chinese\":[\"閃電霹靂車 ZERO\",\"高智能方程式 零的領域\"]}');
 INSERT INTO `anilist_chinese` VALUES (1394,'{\"title\":{\"chinese\":\"高智能方程式 SAGA\"},\"synonyms_chinese\":[\"閃電霹靂車 SAGA\",\"高智能方程式 傳奇\"]}');
-INSERT INTO `anilist_chinese` VALUES (1395,'{\"title\":{\"chinese\":\"高智能方程式 SIN\"},\"synonyms_chinese\":[\"閃電霹靂車 SIN\",\"高智能方程式 罪惡\"]}');
+INSERT INTO `anilist_chinese` VALUES (1395,'{\"title\":{\"chinese\":\"高智能方程式 SIN\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (1401,'{\"title\":{\"chinese\":\"新バイブルブラック\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (1402,'{\"title\":{\"chinese\":\"プリンセスメモリー\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (1403,'{\"title\":{\"chinese\":\"妻みぐい\"},\"synonyms_chinese\":[]}');
