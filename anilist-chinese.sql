@@ -1,8 +1,8 @@
--- MariaDB dump 10.18  Distrib 10.4.17-MariaDB, for Linux (x86_64)
+-- MariaDB dump 10.19  Distrib 10.4.18-MariaDB, for Linux (x86_64)
 --
 -- Host: localhost    Database: anime
 -- ------------------------------------------------------
--- Server version	10.4.17-MariaDB
+-- Server version	10.4.18-MariaDB
 
 /*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
 /*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
@@ -5592,6 +5592,7 @@ INSERT INTO `anilist_chinese` VALUES (125068,'{\"title\":{\"chinese\":\"向日�
 INSERT INTO `anilist_chinese` VALUES (125183,'{\"title\":{\"chinese\":\"実娘（あの子）の代わりに好きなだけ\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (125425,'{\"title\":{\"chinese\":\"トロみつ娘の秘湯サービス ～とろッとろちゅるちゅるご奉仕させてください～\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (125428,'{\"title\":{\"chinese\":\"天空侵犯\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (125449,'{\"title\":{\"chinese\":\"Pacific Rim: The Black\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (125515,'{\"title\":{\"chinese\":\"背徳の境界\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (125516,'{\"title\":{\"chinese\":\"君が好き。THE ANIMATION\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (126242,'{\"title\":{\"chinese\":\"地味變!!～改變土妹子的純潔異性交往～\"},\"synonyms_chinese\":[]}');

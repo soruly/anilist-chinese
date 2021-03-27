@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2021.3.13
+// @version      2.2021.3.27
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -5571,6 +5571,7 @@ var database = [
 {id:125183,title:"実娘（あの子）の代わりに好きなだけ"},
 {id:125425,title:"トロみつ娘の秘湯サービス ～とろッとろちゅるちゅるご奉仕させてください～"},
 {id:125428,title:"天空侵犯"},
+{id:125449,title:"Pacific Rim: The Black"},
 {id:125515,title:"背徳の境界"},
 {id:125516,title:"君が好き。THE ANIMATION"},
 {id:126242,title:"地味變!!～改變土妹子的純潔異性交往～"},
