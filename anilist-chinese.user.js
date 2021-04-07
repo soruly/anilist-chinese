@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2021.3.30
+// @version      2.2021.4.7
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -5638,8 +5638,10 @@ var database = [
 {id:129801,title:"變身成黑辣妹之後就和死黨上床了"},
 {id:129814,title:"BLUE REFLECTION RAY"},
 {id:130402,title:"Wave!! Surfing Yappe!! (TV)"},
+{id:130442,title:"壽司大相撲"},
 {id:130513,title:"嬰兒本部長"},
-{id:130514,title:"iii icecrin"}
+{id:130514,title:"iii icecrin"},
+{id:130515,title:"恐龍日和"}
 ];
 
 var updating;
