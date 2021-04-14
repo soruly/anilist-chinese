@@ -5513,7 +5513,7 @@ INSERT INTO `anilist_chinese` VALUES (116400,'{\"title\":{\"chinese\":\"優等�
 INSERT INTO `anilist_chinese` VALUES (116415,'{\"title\":{\"chinese\":\"爆丸 裝甲聯盟\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (116566,'{\"title\":{\"chinese\":\"全員惡玉\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (116588,'{\"title\":{\"chinese\":\"戰鬥員派遣中！\"},\"synonyms_chinese\":[]}');
-INSERT INTO `anilist_chinese` VALUES (116589,'{\"title\":{\"chinese\":\"86 -Eighty Six-\"},\"synonyms_chinese\":[\"86－不存在的戰區－\"]}');
+INSERT INTO `anilist_chinese` VALUES (116589,'{\"title\":{\"chinese\":\"86 -Eighty Six-\"},\"synonyms_chinese\":[\"86 不存在的戰區\"]}');
 INSERT INTO `anilist_chinese` VALUES (116605,'{\"title\":{\"chinese\":\"Date A Live IV\"},\"synonyms_chinese\":[\"約會大作戰IV\"]}');
 INSERT INTO `anilist_chinese` VALUES (116648,'{\"title\":{\"chinese\":\"巨人族的新娘\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (116673,'{\"title\":{\"chinese\":\"BURN THE WITCH\"},\"synonyms_chinese\":[\"龍與魔女\"]}');
