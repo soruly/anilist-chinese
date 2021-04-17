@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2021.4.7
+// @version      2.2021.4.17
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -5319,6 +5319,7 @@ var database = [
 {id:111734,title:"劇場版 Given"},
 {id:111762,title:"Fruits Basket 2"},
 {id:111790,title:"排球少年 陸 VS 空"},
+{id:111852,title:"Date A Bullet Dead or Bullet"},
 {id:111931,title:"鬼燈的冷徹 2 OVA"},
 {id:111951,title:"寶石商人理察的謎鑑定"},
 {id:111965,title:"彼得格里爾的賢者時間"},
@@ -5563,6 +5564,7 @@ var database = [
 {id:120851,title:"小松先生 3"},
 {id:120859,title:"灼熱卡巴迪"},
 {id:120892,title:"Grisaia Phantom Trigger - The Animation Stargazer"},
+{id:121034,title:"Date A Bullet Nightmare or Queen"},
 {id:121645,title:"Eternity 深夜的濡戀頻道"},
 {id:121681,title:"世界魔女出動！"},
 {id:121797,title:"大神同學想要被吃掉"},

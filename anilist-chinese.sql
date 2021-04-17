@@ -5340,6 +5340,7 @@ INSERT INTO `anilist_chinese` VALUES (111733,'{\"title\":{\"chinese\":\"ANOTHER 
 INSERT INTO `anilist_chinese` VALUES (111734,'{\"title\":{\"chinese\":\"劇場版 Given\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (111762,'{\"title\":{\"chinese\":\"Fruits Basket 2\"},\"synonyms_chinese\":[\"魔法水果籃 第二季\"]}');
 INSERT INTO `anilist_chinese` VALUES (111790,'{\"title\":{\"chinese\":\"排球少年 陸 VS 空\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (111852,'{\"title\":{\"chinese\":\"Date A Bullet Dead or Bullet\"},\"synonyms_chinese\":[\"約會大作戰 赤黑新章：虛或實\"]}');
 INSERT INTO `anilist_chinese` VALUES (111931,'{\"title\":{\"chinese\":\"鬼燈的冷徹 2 OVA\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (111951,'{\"title\":{\"chinese\":\"寶石商人理察的謎鑑定\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (111965,'{\"title\":{\"chinese\":\"彼得格里爾的賢者時間\"},\"synonyms_chinese\":[]}');
@@ -5584,6 +5585,7 @@ INSERT INTO `anilist_chinese` VALUES (120697,'{\"title\":{\"chinese\":\"不要�
 INSERT INTO `anilist_chinese` VALUES (120851,'{\"title\":{\"chinese\":\"小松先生 3\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (120859,'{\"title\":{\"chinese\":\"灼熱卡巴迪\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (120892,'{\"title\":{\"chinese\":\"Grisaia Phantom Trigger - The Animation Stargazer\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (121034,'{\"title\":{\"chinese\":\"Date A Bullet Nightmare or Queen\"},\"synonyms_chinese\":[\"約會大作戰 赤黑新章：紅與白\"]}');
 INSERT INTO `anilist_chinese` VALUES (121645,'{\"title\":{\"chinese\":\"Eternity 深夜的濡戀頻道\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (121681,'{\"title\":{\"chinese\":\"世界魔女出動！\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (121797,'{\"title\":{\"chinese\":\"大神同學想要被吃掉\"},\"synonyms_chinese\":[]}');
