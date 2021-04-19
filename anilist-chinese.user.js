@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2021.4.17
+// @version      2.2021.4.19
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -5457,6 +5457,7 @@ var database = [
 {id:114981,title:"部屋露營△ SP"},
 {id:115069,title:"D4DJ First Mix"},
 {id:115077,title:"助っ人参上！！ THE ANIMATION"},
+{id:115082,title:"荒野的壽飛行隊 完全版"},
 {id:115107,title:"Digimon Adventure: 20th Memorial Story"},
 {id:115113,title:"宇崎學妹想要玩！"},
 {id:115114,title:"卒業○○電車"},
@@ -5487,6 +5488,7 @@ var database = [
 {id:116251,title:"支配の教壇"},
 {id:116267,title:"總之就是很可愛"},
 {id:116287,title:"裏世界遠足"},
+{id:116330,title:"荒野的壽飛行隊 外傳 天空的春風飛行隊"},
 {id:116338,title:"入間同學入魔了！ 2"},
 {id:116384,title:"Sol Levante"},
 {id:116400,title:"優等生 綾香のウラオモテ"},

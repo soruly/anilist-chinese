@@ -5478,6 +5478,7 @@ INSERT INTO `anilist_chinese` VALUES (114963,'{\"title\":{\"chinese\":\"想哭�
 INSERT INTO `anilist_chinese` VALUES (114981,'{\"title\":{\"chinese\":\"部屋露營△ SP\"},\"synonyms_chinese\":[\"室內露營△ SP\"]}');
 INSERT INTO `anilist_chinese` VALUES (115069,'{\"title\":{\"chinese\":\"D4DJ First Mix\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (115077,'{\"title\":{\"chinese\":\"助っ人参上！！ THE ANIMATION\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (115082,'{\"title\":{\"chinese\":\"荒野的壽飛行隊 完全版\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (115107,'{\"title\":{\"chinese\":\"Digimon Adventure: 20th Memorial Story\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (115113,'{\"title\":{\"chinese\":\"宇崎學妹想要玩！\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (115114,'{\"title\":{\"chinese\":\"卒業○○電車\"},\"synonyms_chinese\":[]}');
@@ -5508,6 +5509,7 @@ INSERT INTO `anilist_chinese` VALUES (116248,'{\"title\":{\"chinese\":\"女學�
 INSERT INTO `anilist_chinese` VALUES (116251,'{\"title\":{\"chinese\":\"支配の教壇\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (116267,'{\"title\":{\"chinese\":\"總之就是很可愛\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (116287,'{\"title\":{\"chinese\":\"裏世界遠足\"},\"synonyms_chinese\":[\"裏世界野餐\",\"裏世界郊遊\"]}');
+INSERT INTO `anilist_chinese` VALUES (116330,'{\"title\":{\"chinese\":\"荒野的壽飛行隊 外傳 天空的春風飛行隊\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (116338,'{\"title\":{\"chinese\":\"入間同學入魔了！ 2\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (116384,'{\"title\":{\"chinese\":\"Sol Levante\"},\"synonyms_chinese\":[\"旭日\"]}');
 INSERT INTO `anilist_chinese` VALUES (116400,'{\"title\":{\"chinese\":\"優等生 綾香のウラオモテ\"},\"synonyms_chinese\":[]}');
