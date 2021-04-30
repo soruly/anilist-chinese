@@ -6,9 +6,10 @@
   "type": "module",
   "scripts": {
     "prettier": "prettier",
-    "format": "prettier --write build.js template.js",
-    "lint": "prettier --check build.js template.js",
-    "test": "prettier --check build.js template.js"
+    "build": "node build.js",
+    "format": "prettier --write \"**/*.js\"",
+    "lint": "prettier --check \"**/*.js\"",
+    "test": "prettier --check \"**/*.js\""
   },
   "repository": {
     "type": "git",
