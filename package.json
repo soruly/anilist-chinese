@@ -6,7 +6,6 @@
   "type": "module",
   "scripts": {
     "prettier": "prettier",
-    "build": "node build.js",
     "format": "prettier --write \"**/*.js\"",
     "lint": "prettier --check \"**/*.js\"",
     "test": "prettier --check \"**/*.js\""
