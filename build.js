@@ -17,6 +17,19 @@ const knex = Knex({
 const chineseDB = await knex("anilist_chinese").select("*");
 knex.destroy();
 
+fs.writeFileSync(
+  "anilist-chinese.json",
+  JSON.stringify(
+    chineseDB.map(({ id, json }) => ({
+      id,
+      title: JSON.parse(json).title.chinese,
+      synonyms: JSON.parse(json).synonyms_chinese,
+    })),
+    null,
+    2
+  )
+);
+
 const jsCode = fs.readFileSync("anilist-chinese.user.template.js", "utf8").replace(
   "var database = [];",
   `var database = [\n${chineseDB
