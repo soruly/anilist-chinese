@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2021.4.19
+// @version      2.2021.4.30
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -5224,6 +5224,7 @@ var database = [
 {id:109020,title:"昨日之歌"},
 {id:109085,title:"工作細胞 SP"},
 {id:109089,title:"廚病激發 BOY"},
+{id:109125,title:"交錯的想念"},
 {id:109153,title:"少女小短劇 All Starlight"},
 {id:109171,title:"鳴鳥不飛 The clouds gather"},
 {id:109190,title:"紫羅蘭永恆花園 外傳 -永遠與自動手記人偶-"},
@@ -5328,6 +5329,7 @@ var database = [
 {id:112033,title:"Zenonzard THE ANIMATION"},
 {id:112124,title:"在地下城尋求邂逅是否搞錯了什麼 III"},
 {id:112125,title:"在地下城尋求邂逅是否搞錯了什麼 2 OVA"},
+{id:112151,title:"鬼滅之刃 無限列車編"},
 {id:112153,title:"Pocket Monsters (2019)"},
 {id:112177,title:"實況主的逃脫遊戲【直播中】OVA"},
 {id:112190,title:"のぞき彼女"},
@@ -5540,6 +5542,7 @@ var database = [
 {id:118656,title:"村又さんの秘密"},
 {id:118743,title:"劇場版 Fate/kaleid liner Prisma☆Illya"},
 {id:118860,title:"サキュバステードライフ THE ANIMATION"},
+{id:118936,title:"全露的金太狼"},
 {id:119113,title:"進擊的巨人〜年代記〜"},
 {id:119123,title:"裝甲娘戰機"},
 {id:119254,title:"彼女がヤツに抱かれたヒ"},
@@ -5641,6 +5644,7 @@ var database = [
 {id:129664,title:"擾亂 THE PRINCESS OF SNOW AND BLOOD"},
 {id:129801,title:"變身成黑辣妹之後就和死黨上床了"},
 {id:129814,title:"BLUE REFLECTION RAY"},
+{id:129874,title:"鬼滅之刃 遊郭編"},
 {id:130402,title:"Wave!! Surfing Yappe!! (TV)"},
 {id:130442,title:"壽司大相撲"},
 {id:130513,title:"嬰兒本部長"},
