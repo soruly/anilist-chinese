@@ -14,28 +14,54 @@ const knex = Knex({
   },
 });
 
-const animeIDList = await knex("anilist_chinese").select("*");
-const db = animeIDList.map((e) => ({
-  id: parseInt(e.id, 10),
-  title: JSON.parse(e.json).title.chinese,
-}));
-const db_str = db
-  .map((e) =>
-    JSON.stringify(e)
-      .replace(/"id":/g, "id:")
-      .replace(/"title":/g, "title:")
-  )
-  .join(",\n");
-const template = fs.readFileSync("anilist-chinese.user.template.js", "utf8");
-const js_str = template.replace("var database = [];", `var database = [\n${db_str}\n];`);
-if (js_str !== fs.readFileSync("anilist-chinese.user.cache.js", "utf8")) {
-  fs.writeFileSync("anilist-chinese.user.cache.js", js_str);
-  const d = new Date();
-  const version_str = `2.${d.getFullYear()}.${d.getMonth() + 1}.${d.getDate()}`;
-  const js_file_str = js_str.replace("// @version      2.0", `// @version      ${version_str}`);
-  fs.writeFileSync("anilist-chinese.user.js", js_file_str);
-  console.log(`build completed (version ${version_str})`);
-} else {
-  console.log("build is the same, js file not updated.");
-}
+const chineseDB = await knex("anilist_chinese").select("*");
 knex.destroy();
+
+const jsCode = fs.readFileSync("anilist-chinese.user.template.js", "utf8").replace(
+  "var database = [];",
+  `var database = [\n${chineseDB
+    .map(({ id, json }) => ({
+      id,
+      title: JSON.parse(json).title.chinese,
+    }))
+    .map((e) =>
+      JSON.stringify(e)
+        .replace(/"id":/g, "id:")
+        .replace(/"title":/g, "title:")
+    )
+    .join(",\n")}\n];`
+);
+if (jsCode !== fs.readFileSync("anilist-chinese.user.cache.js", "utf8")) {
+  fs.writeFileSync("anilist-chinese.user.cache.js", jsCode);
+  const d = new Date();
+  fs.writeFileSync(
+    "anilist-chinese.user.js",
+    jsCode.replace(
+      "// @version      2.0",
+      `// @version      ${`2.${d.getFullYear()}.${d.getMonth() + 1}.${d.getDate()}`}`
+    )
+  );
+} else {
+  console.log("build is the same, user.js file not updated.");
+}
+
+fs.writeFileSync(
+  "cf-worker.js",
+  fs.readFileSync("cf-worker.template.js", "utf8").replace(
+    "const db = new Map([]);",
+    `const db = new Map([\n${chineseDB
+      .map(
+        ({ id, json }) =>
+          `[${[
+            id,
+            JSON.stringify({
+              title: JSON.parse(json).title.chinese,
+              synonyms: JSON.parse(json).synonyms_chinese,
+            })
+              .replace(/"title":/g, "title:")
+              .replace(/"synonyms":/g, "synonyms:"),
+          ]}]`
+      )
+      .join(",\n")}\n]);`
+  )
+);

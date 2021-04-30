@@ -2,7 +2,7 @@
   "name": "anilist-chinese",
   "version": "1.2.0",
   "description": "Tampermonkey extension to translate anilist titles to chinese",
-  "main": "build.js",
+  "main": "cf-worker.js",
   "type": "module",
   "scripts": {
     "prettier": "prettier",

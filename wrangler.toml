@@ -1,0 +1,3 @@
+name = "anilist-chinese"
+type = "javascript"
+route = "anilist.trace.moe/*"
