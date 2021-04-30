@@ -25,7 +25,7 @@ The API format is exactly the same as the official [Anilist APIv2](https://githu
 Whenever the API response contains "title" or "synonyms", it would inject chinese titles if a matching entries is found. Note that your request must contain "id" for searching.
 
 ```javascript
-await fetch("/", {
+await fetch("https://anilist.trace.moe", {
   method: "POST",
   body: JSON.stringify({
     query: `{
@@ -67,7 +67,7 @@ API 的格式跟官方的 [Anilist APIv2](https://github.com/AniList/ApiV2-Graph
 只要你的 API 回應裡含有 "title" 或 "synonmys" ，它就會把找到的中文的標題加插入去。注意，你的 API 回應裡必需要有 "id"
 
 ```javascript
-await fetch("/", {
+await fetch("https://anilist.trace.moe", {
   method: "POST",
   body: JSON.stringify({
     query: `{
