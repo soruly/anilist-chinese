@@ -26,10 +26,10 @@ const db_str = db
       .replace(/"title":/g, "title:")
   )
   .join(",\n");
-const template = fs.readFileSync("template.js", "utf8");
+const template = fs.readFileSync("anilist-chinese.user.template.js", "utf8");
 const js_str = template.replace("var database = [];", `var database = [\n${db_str}\n];`);
-if (js_str !== fs.readFileSync("cache.txt", "utf8")) {
-  fs.writeFileSync("cache.txt", js_str);
+if (js_str !== fs.readFileSync("anilist-chinese.user.cache.js", "utf8")) {
+  fs.writeFileSync("anilist-chinese.user.cache.js", js_str);
   const d = new Date();
   const version_str = `2.${d.getFullYear()}.${d.getMonth() + 1}.${d.getDate()}`;
   const js_file_str = js_str.replace("// @version      2.0", `// @version      ${version_str}`);
