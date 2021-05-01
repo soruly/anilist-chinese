@@ -5649,6 +5649,18 @@ async function handleRequest(req) {
       json.data.Media.synonyms = json.data.Media.synonyms.concat(chinese.synonyms);
     }
   }
+  if (json.data?.Page?.media) {
+    json.data.Page.media = json.data.Page.media.map((e) => {
+      const chinese = db.get(e.id);
+      if (chinese && e.title) {
+        e.title.chinese = chinese.title;
+      }
+      if (chinese && e.synonyms) {
+        e.synonyms = e.synonyms.concat(chinese.synonyms);
+      }
+      return e;
+    });
+  }
   return new Response(JSON.stringify(json), response);
 }
 
