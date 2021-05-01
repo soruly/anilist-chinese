@@ -20,12 +20,12 @@ This script is also updated daily, so the translation data would also be updated
 
 It also has an API proxy (served by Cloudflare Workers) that injects chinese-translated titles.
 
-The API format is exactly the same as the official [Anilist APIv2](https://github.com/AniList/ApiV2-GraphQL-Docs), just use the GraphQL endpoint to https://anilist.trace.moe
+The API format is exactly the same as the official [Anilist APIv2](https://github.com/AniList/ApiV2-GraphQL-Docs), just use the GraphQL endpoint to https://trace.moe/anilist/
 
 Whenever the API response contains "title" or "synonyms", it would inject chinese titles if a matching entries is found. Note that your request must contain "id" for searching.
 
 ```javascript
-await fetch("https://anilist.trace.moe", {
+await fetch("https://trace.moe/anilist/", {
   method: "POST",
   body: JSON.stringify({
     query: `{
@@ -62,12 +62,12 @@ await fetch("https://anilist.trace.moe", {
 
 除此之外，還有由 Cloudflare Workers 提供的 API 代理為你插入中文標題的資料
 
-API 的格式跟官方的 [Anilist APIv2](https://github.com/AniList/ApiV2-GraphQL-Docs) 完全一樣，只需要把 API URL 改用 https://anilist.trace.moe 就可
+API 的格式跟官方的 [Anilist APIv2](https://github.com/AniList/ApiV2-GraphQL-Docs) 完全一樣，只需要把 API URL 改用 https://trace.moe/anilist/ 就可
 
 只要你的 API 回應裡含有 "title" 或 "synonmys" ，它就會把找到的中文的標題加插入去。注意，你的 API 回應裡必需要有 "id"
 
 ```javascript
-await fetch("https://anilist.trace.moe", {
+await fetch("https://trace.moe/anilist/", {
   method: "POST",
   body: JSON.stringify({
     query: `{
