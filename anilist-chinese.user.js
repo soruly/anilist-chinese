@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2021.4.30
+// @version      2.2021.5.5
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -5632,6 +5632,7 @@ var database = [
 {id:126791,title:"如果究極進化的完全潛行 RPG 比現實還更像垃圾遊戲的話"},
 {id:126905,title:"Tropical-Rouge！光之美少女"},
 {id:127149,title:"Fate ⁄ Grand Carnival"},
+{id:127368,title:"在地下城尋求邂逅是否搞錯了什麼 III OVA"},
 {id:127399,title:"終末的女武神"},
 {id:127536,title:"幼女社長"},
 {id:127690,title:"天竺鼠車車"},
@@ -5640,6 +5641,7 @@ var database = [
 {id:128547,title:"ODD TAXI"},
 {id:128563,title:"D4DJ Petit Mix"},
 {id:128827,title:"Cardfight!! Vanguard overDress 2"},
+{id:129196,title:"在地下城尋求邂逅是否搞錯了什麼 IV"},
 {id:129386,title:"Seven Knights Revolution -英雄的繼承者-"},
 {id:129664,title:"擾亂 THE PRINCESS OF SNOW AND BLOOD"},
 {id:129801,title:"變身成黑辣妹之後就和死黨上床了"},

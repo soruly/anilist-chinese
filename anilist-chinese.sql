@@ -5653,6 +5653,7 @@ INSERT INTO `anilist_chinese` VALUES (126678,'{\"title\":{\"chinese\":\"闇芝�
 INSERT INTO `anilist_chinese` VALUES (126791,'{\"title\":{\"chinese\":\"如果究極進化的完全潛行 RPG 比現實還更像垃圾遊戲的話\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (126905,'{\"title\":{\"chinese\":\"Tropical-Rouge！光之美少女\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (127149,'{\"title\":{\"chinese\":\"Fate ⁄ Grand Carnival\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (127368,'{\"title\":{\"chinese\":\"在地下城尋求邂逅是否搞錯了什麼 III OVA\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (127399,'{\"title\":{\"chinese\":\"終末的女武神\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (127536,'{\"title\":{\"chinese\":\"幼女社長\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (127690,'{\"title\":{\"chinese\":\"天竺鼠車車\"},\"synonyms_chinese\":[]}');
@@ -5661,6 +5662,7 @@ INSERT INTO `anilist_chinese` VALUES (128546,'{\"title\":{\"chinese\":\"Vivy -Fl
 INSERT INTO `anilist_chinese` VALUES (128547,'{\"title\":{\"chinese\":\"ODD TAXI\"},\"synonyms_chinese\":[\"奇巧計程車\"]}');
 INSERT INTO `anilist_chinese` VALUES (128563,'{\"title\":{\"chinese\":\"D4DJ Petit Mix\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (128827,'{\"title\":{\"chinese\":\"Cardfight!! Vanguard overDress 2\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (129196,'{\"title\":{\"chinese\":\"在地下城尋求邂逅是否搞錯了什麼 IV\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (129386,'{\"title\":{\"chinese\":\"Seven Knights Revolution -英雄的繼承者-\"},\"synonyms_chinese\":[\"七騎士 革命 -英雄的繼承者-\"]}');
 INSERT INTO `anilist_chinese` VALUES (129664,'{\"title\":{\"chinese\":\"擾亂 THE PRINCESS OF SNOW AND BLOOD\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (129801,'{\"title\":{\"chinese\":\"變身成黑辣妹之後就和死黨上床了\"},\"synonyms_chinese\":[]}');
