@@ -5653,6 +5653,7 @@ INSERT INTO `anilist_chinese` VALUES (126678,'{\"title\":{\"chinese\":\"闇芝�
 INSERT INTO `anilist_chinese` VALUES (126791,'{\"title\":{\"chinese\":\"如果究極進化的完全潛行 RPG 比現實還更像垃圾遊戲的話\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (126905,'{\"title\":{\"chinese\":\"Tropical-Rouge！光之美少女\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (127149,'{\"title\":{\"chinese\":\"Fate ⁄ Grand Carnival\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (127363,'{\"title\":{\"chinese\":\"弱角友崎同學 OVA\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (127368,'{\"title\":{\"chinese\":\"在地下城尋求邂逅是否搞錯了什麼 III OVA\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (127399,'{\"title\":{\"chinese\":\"終末的女武神\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (127536,'{\"title\":{\"chinese\":\"幼女社長\"},\"synonyms_chinese\":[]}');

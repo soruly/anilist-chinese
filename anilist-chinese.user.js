@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2021.5.5
+// @version      2.2021.5.21
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -5632,6 +5632,7 @@ var database = [
 {id:126791,title:"如果究極進化的完全潛行 RPG 比現實還更像垃圾遊戲的話"},
 {id:126905,title:"Tropical-Rouge！光之美少女"},
 {id:127149,title:"Fate ⁄ Grand Carnival"},
+{id:127363,title:"弱角友崎同學 OVA"},
 {id:127368,title:"在地下城尋求邂逅是否搞錯了什麼 III OVA"},
 {id:127399,title:"終末的女武神"},
 {id:127536,title:"幼女社長"},
