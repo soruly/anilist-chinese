@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2021.5.21
+// @version      2.2021.5.25
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -5618,6 +5618,7 @@ var database = [
 {id:125068,title:"向日葵ハ夜ニ咲ク"},
 {id:125183,title:"実娘（あの子）の代わりに好きなだけ"},
 {id:125351,title:"意呆利 World Stars"},
+{id:125368,title:"輝夜姬想讓人告白~天才們的戀愛頭腦戰~ OVA"},
 {id:125425,title:"トロみつ娘の秘湯サービス ～とろッとろちゅるちゅるご奉仕させてください～"},
 {id:125426,title:"極道主夫"},
 {id:125427,title:"Yasuke"},

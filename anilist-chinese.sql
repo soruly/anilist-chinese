@@ -5639,6 +5639,7 @@ INSERT INTO `anilist_chinese` VALUES (125067,'{\"title\":{\"chinese\":\"紫陽�
 INSERT INTO `anilist_chinese` VALUES (125068,'{\"title\":{\"chinese\":\"向日葵ハ夜ニ咲ク\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (125183,'{\"title\":{\"chinese\":\"実娘（あの子）の代わりに好きなだけ\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (125351,'{\"title\":{\"chinese\":\"意呆利 World Stars\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (125368,'{\"title\":{\"chinese\":\"輝夜姬想讓人告白~天才們的戀愛頭腦戰~ OVA\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (125425,'{\"title\":{\"chinese\":\"トロみつ娘の秘湯サービス ～とろッとろちゅるちゅるご奉仕させてください～\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (125426,'{\"title\":{\"chinese\":\"極道主夫\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (125427,'{\"title\":{\"chinese\":\"Yasuke\"},\"synonyms_chinese\":[]}');
