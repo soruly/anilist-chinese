@@ -1,8 +1,8 @@
--- MariaDB dump 10.19  Distrib 10.5.9-MariaDB, for Linux (x86_64)
+-- MariaDB dump 10.19  Distrib 10.5.10-MariaDB, for Linux (x86_64)
 --
 -- Host: localhost    Database: anime
 -- ------------------------------------------------------
--- Server version	10.5.9-MariaDB
+-- Server version	10.5.10-MariaDB
 
 /*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
 /*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
@@ -5606,6 +5606,7 @@ INSERT INTO `anilist_chinese` VALUES (122349,'{\"title\":{\"chinese\":\"我的�
 INSERT INTO `anilist_chinese` VALUES (122442,'{\"title\":{\"chinese\":\"Knight of Erin -Erin and Nighthawk-\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (122807,'{\"title\":{\"chinese\":\"體操武士\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (122922,'{\"title\":{\"chinese\":\"Drifters: Special Edition\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (122954,'{\"title\":{\"chinese\":\"イジラレ ～復讐催○～\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (123081,'{\"title\":{\"chinese\":\"成年人不懂如何戀愛！\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (123360,'{\"title\":{\"chinese\":\"おね→ショタ←おね THE ANIMATION\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (123383,'{\"title\":{\"chinese\":\"White Blue ～堕ちる白衣の天使～\"},\"synonyms_chinese\":[]}');
@@ -5650,9 +5651,13 @@ INSERT INTO `anilist_chinese` VALUES (125516,'{\"title\":{\"chinese\":\"君が�
 INSERT INTO `anilist_chinese` VALUES (125839,'{\"title\":{\"chinese\":\"Bakuten!!\"},\"synonyms_chinese\":[\"爆轉少年!!\"]}');
 INSERT INTO `anilist_chinese` VALUES (125867,'{\"title\":{\"chinese\":\"CESTVS -The Roman Fighter-\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (126242,'{\"title\":{\"chinese\":\"地味變!!～改變土妹子的純潔異性交往～\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (126531,'{\"title\":{\"chinese\":\"陸上部女子は俺の生オナホ!!! The Animation\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (126571,'{\"title\":{\"chinese\":\"リアルエロゲシチュエーション！2 THE ANIMATION\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (126678,'{\"title\":{\"chinese\":\"闇芝居 8\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (126791,'{\"title\":{\"chinese\":\"如果究極進化的完全潛行 RPG 比現實還更像垃圾遊戲的話\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (126820,'{\"title\":{\"chinese\":\"トイレの花子さんVS屈強退魔師\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (126905,'{\"title\":{\"chinese\":\"Tropical-Rouge！光之美少女\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (127126,'{\"title\":{\"chinese\":\"J〇フーゾク学園祭\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (127149,'{\"title\":{\"chinese\":\"Fate ⁄ Grand Carnival\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (127363,'{\"title\":{\"chinese\":\"弱角友崎同學 OVA\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (127368,'{\"title\":{\"chinese\":\"在地下城尋求邂逅是否搞錯了什麼 III OVA\"},\"synonyms_chinese\":[]}');
@@ -5660,13 +5665,17 @@ INSERT INTO `anilist_chinese` VALUES (127399,'{\"title\":{\"chinese\":\"終末�
 INSERT INTO `anilist_chinese` VALUES (127536,'{\"title\":{\"chinese\":\"幼女社長\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (127690,'{\"title\":{\"chinese\":\"天竺鼠車車\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (128399,'{\"title\":{\"chinese\":\"Fairy 蘭丸\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (128516,'{\"title\":{\"chinese\":\"遠い君に、僕は届かない\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (128546,'{\"title\":{\"chinese\":\"Vivy -Fluorite Eye’s Song-\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (128547,'{\"title\":{\"chinese\":\"ODD TAXI\"},\"synonyms_chinese\":[\"奇巧計程車\"]}');
 INSERT INTO `anilist_chinese` VALUES (128563,'{\"title\":{\"chinese\":\"D4DJ Petit Mix\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (128623,'{\"title\":{\"chinese\":\"搾精病棟 THE ANIMATION\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (128827,'{\"title\":{\"chinese\":\"Cardfight!! Vanguard overDress 2\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (129115,'{\"title\":{\"chinese\":\"指導姦 Day after THE ANIMATION\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (129196,'{\"title\":{\"chinese\":\"在地下城尋求邂逅是否搞錯了什麼 IV\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (129386,'{\"title\":{\"chinese\":\"Seven Knights Revolution -英雄的繼承者-\"},\"synonyms_chinese\":[\"七騎士 革命 -英雄的繼承者-\"]}');
 INSERT INTO `anilist_chinese` VALUES (129664,'{\"title\":{\"chinese\":\"擾亂 THE PRINCESS OF SNOW AND BLOOD\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (129750,'{\"title\":{\"chinese\":\"ビッチな淫姉さまぁ\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (129801,'{\"title\":{\"chinese\":\"變身成黑辣妹之後就和死黨上床了\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (129814,'{\"title\":{\"chinese\":\"BLUE REFLECTION RAY\"},\"synonyms_chinese\":[\"BLUE REFLECTION 澪\"]}');
 INSERT INTO `anilist_chinese` VALUES (129874,'{\"title\":{\"chinese\":\"鬼滅之刃 遊郭編\"},\"synonyms_chinese\":[]}');
@@ -5675,6 +5684,7 @@ INSERT INTO `anilist_chinese` VALUES (130442,'{\"title\":{\"chinese\":\"壽司�
 INSERT INTO `anilist_chinese` VALUES (130513,'{\"title\":{\"chinese\":\"嬰兒本部長\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (130514,'{\"title\":{\"chinese\":\"iii icecrin\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (130515,'{\"title\":{\"chinese\":\"恐龍日和\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (130921,'{\"title\":{\"chinese\":\"S家に嫁いだM嬢の日常\"},\"synonyms_chinese\":[]}');
 /*!40000 ALTER TABLE `anilist_chinese` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
