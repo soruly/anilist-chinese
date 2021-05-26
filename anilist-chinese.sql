@@ -5264,6 +5264,7 @@ INSERT INTO `anilist_chinese` VALUES (109403,'{\"title\":{\"chinese\":\"噥噥�
 INSERT INTO `anilist_chinese` VALUES (109418,'{\"title\":{\"chinese\":\"Persona 5 the Animation Proof of Justice\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (109492,'{\"title\":{\"chinese\":\"我們真的學不來！ OVA\"},\"synonyms_chinese\":[\"我們無法一起學習 OVA\"]}');
 INSERT INTO `anilist_chinese` VALUES (109562,'{\"title\":{\"chinese\":\"Fairy Gone 2\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (109586,'{\"title\":{\"chinese\":\"虫籠のカガステル\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (109603,'{\"title\":{\"chinese\":\"闇芝居 7\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (109616,'{\"title\":{\"chinese\":\"無限之住人-IMMORTAL-\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (109621,'{\"title\":{\"chinese\":\"從指尖開始的熱情 青梅竹馬是消防員\"},\"synonyms_chinese\":[]}');

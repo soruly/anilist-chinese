@@ -5227,6 +5227,7 @@ const db = new Map([
 [109418,{title:"Persona 5 the Animation Proof of Justice",synonyms:[]}],
 [109492,{title:"我們真的學不來！ OVA",synonyms:["我們無法一起學習 OVA"]}],
 [109562,{title:"Fairy Gone 2",synonyms:[]}],
+[109586,{title:"虫籠のカガステル",synonyms:[]}],
 [109603,{title:"闇芝居 7",synonyms:[]}],
 [109616,{title:"無限之住人-IMMORTAL-",synonyms:[]}],
 [109621,{title:"從指尖開始的熱情 青梅竹馬是消防員",synonyms:[]}],

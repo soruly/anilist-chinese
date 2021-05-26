@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2021.5.25
+// @version      2.2021.5.26
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -5243,6 +5243,7 @@ var database = [
 {id:109418,title:"Persona 5 the Animation Proof of Justice"},
 {id:109492,title:"我們真的學不來！ OVA"},
 {id:109562,title:"Fairy Gone 2"},
+{id:109586,title:"虫籠のカガステル"},
 {id:109603,title:"闇芝居 7"},
 {id:109616,title:"無限之住人-IMMORTAL-"},
 {id:109621,title:"從指尖開始的熱情 青梅竹馬是消防員"},
