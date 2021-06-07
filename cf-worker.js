@@ -5585,6 +5585,7 @@ const db = new Map([
 [124080,{title:"堀與宮村",synonyms:[]}],
 [124115,{title:"少女與戰車 最終章 第3話",synonyms:[]}],
 [124131,{title:"演劇偶像",synonyms:[]}],
+[124132,{title:"夏目友人帳 喚石與可疑訪客",synonyms:[]}],
 [124136,{title:"大人的防具店 II",synonyms:[]}],
 [124153,{title:"SK8 the Infinity",synonyms:[]}],
 [124194,{title:"Fruits Basket The Final",synonyms:["魔法水果籃 最終季"]}],

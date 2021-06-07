@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2021.5.26
+// @version      2.2021.6.7
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -5601,6 +5601,7 @@ var database = [
 {id:124080,title:"堀與宮村"},
 {id:124115,title:"少女與戰車 最終章 第3話"},
 {id:124131,title:"演劇偶像"},
+{id:124132,title:"夏目友人帳 喚石與可疑訪客"},
 {id:124136,title:"大人的防具店 II"},
 {id:124153,title:"SK8 the Infinity"},
 {id:124194,title:"Fruits Basket The Final"},

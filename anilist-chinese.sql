@@ -5622,6 +5622,7 @@ INSERT INTO `anilist_chinese` VALUES (123845,'{\"title\":{\"chinese\":\"シコ�
 INSERT INTO `anilist_chinese` VALUES (124080,'{\"title\":{\"chinese\":\"堀與宮村\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (124115,'{\"title\":{\"chinese\":\"少女與戰車 最終章 第3話\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (124131,'{\"title\":{\"chinese\":\"演劇偶像\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (124132,'{\"title\":{\"chinese\":\"夏目友人帳 喚石與可疑訪客\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (124136,'{\"title\":{\"chinese\":\"大人的防具店 II\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (124153,'{\"title\":{\"chinese\":\"SK8 the Infinity\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (124194,'{\"title\":{\"chinese\":\"Fruits Basket The Final\"},\"synonyms_chinese\":[\"魔法水果籃 最終季\"]}');
