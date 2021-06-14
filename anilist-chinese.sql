@@ -4957,6 +4957,7 @@ INSERT INTO `anilist_chinese` VALUES (103223,'{\"title\":{\"chinese\":\"文豪St
 INSERT INTO `anilist_chinese` VALUES (103237,'{\"title\":{\"chinese\":\"賽馬娘Pretty Derby OVA\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (103256,'{\"title\":{\"chinese\":\"Nekopara OVA Extra\"},\"synonyms_chinese\":[\"貓娘樂園 OVA Extra\"]}');
 INSERT INTO `anilist_chinese` VALUES (103275,'{\"title\":{\"chinese\":\"Fate/Grand Order - 絕對魔獸戰線巴比倫尼亞 -\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (103276,'{\"title\":{\"chinese\":\"Fate Grand Order - 神聖圓桌領域卡美洛 前編 Wandering; Agateram\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (103301,'{\"title\":{\"chinese\":\"Endro~!\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (103302,'{\"title\":{\"chinese\":\"一弦定音！\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (103312,'{\"title\":{\"chinese\":\"発情スイッチ～堕とされた少女達～ THE ANIMATION\"},\"synonyms_chinese\":[]}');
@@ -5687,6 +5688,7 @@ INSERT INTO `anilist_chinese` VALUES (130513,'{\"title\":{\"chinese\":\"嬰兒�
 INSERT INTO `anilist_chinese` VALUES (130514,'{\"title\":{\"chinese\":\"iii icecrin\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (130515,'{\"title\":{\"chinese\":\"恐龍日和\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (130921,'{\"title\":{\"chinese\":\"S家に嫁いだM嬢の日常\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (132055,'{\"title\":{\"chinese\":\"劇場版 歌之王子殿下 真愛 KINGDOM\"},\"synonyms_chinese\":[]}');
 /*!40000 ALTER TABLE `anilist_chinese` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;

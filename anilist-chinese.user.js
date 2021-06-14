@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2021.6.7
+// @version      2.2021.6.14
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -4936,6 +4936,7 @@ var database = [
 {id:103237,title:"賽馬娘Pretty Derby OVA"},
 {id:103256,title:"Nekopara OVA Extra"},
 {id:103275,title:"Fate/Grand Order - 絕對魔獸戰線巴比倫尼亞 -"},
+{id:103276,title:"Fate Grand Order - 神聖圓桌領域卡美洛 前編 Wandering; Agateram"},
 {id:103301,title:"Endro~!"},
 {id:103302,title:"一弦定音！"},
 {id:103312,title:"発情スイッチ～堕とされた少女達～ THE ANIMATION"},
@@ -5665,7 +5666,8 @@ var database = [
 {id:130513,title:"嬰兒本部長"},
 {id:130514,title:"iii icecrin"},
 {id:130515,title:"恐龍日和"},
-{id:130921,title:"S家に嫁いだM嬢の日常"}
+{id:130921,title:"S家に嫁いだM嬢の日常"},
+{id:132055,title:"劇場版 歌之王子殿下 真愛 KINGDOM"}
 ];
 
 var updating;

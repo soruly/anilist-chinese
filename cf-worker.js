@@ -4920,6 +4920,7 @@ const db = new Map([
 [103237,{title:"賽馬娘Pretty Derby OVA",synonyms:[]}],
 [103256,{title:"Nekopara OVA Extra",synonyms:["貓娘樂園 OVA Extra"]}],
 [103275,{title:"Fate/Grand Order - 絕對魔獸戰線巴比倫尼亞 -",synonyms:[]}],
+[103276,{title:"Fate Grand Order - 神聖圓桌領域卡美洛 前編 Wandering; Agateram",synonyms:[]}],
 [103301,{title:"Endro~!",synonyms:[]}],
 [103302,{title:"一弦定音！",synonyms:[]}],
 [103312,{title:"発情スイッチ～堕とされた少女達～ THE ANIMATION",synonyms:[]}],
@@ -5649,7 +5650,8 @@ const db = new Map([
 [130513,{title:"嬰兒本部長",synonyms:[]}],
 [130514,{title:"iii icecrin",synonyms:[]}],
 [130515,{title:"恐龍日和",synonyms:[]}],
-[130921,{title:"S家に嫁いだM嬢の日常",synonyms:[]}]
+[130921,{title:"S家に嫁いだM嬢の日常",synonyms:[]}],
+[132055,{title:"劇場版 歌之王子殿下 真愛 KINGDOM",synonyms:[]}]
 ]);
 
 async function handleRequest(req) {
