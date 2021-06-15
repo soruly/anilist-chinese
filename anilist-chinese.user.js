@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2021.6.14
+// @version      2.2021.6.15
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -4507,6 +4507,7 @@ var database = [
 {id:99531,title:"Devils Line"},
 {id:99539,title:"七大罪 戒律的復活"},
 {id:99540,title:"劇場版 七大罪 天空的囚人"},
+{id:99547,title:"Mobile Suit Gundam Thunderbolt: Bandit Flower"},
 {id:99555,title:"妹ビッチに搾られたい"},
 {id:99556,title:"キメ恋!"},
 {id:99557,title:"Thunderbolt Fantasy 東離劍遊紀 2"},

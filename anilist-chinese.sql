@@ -4528,6 +4528,7 @@ INSERT INTO `anilist_chinese` VALUES (99518,'{\"title\":{\"chinese\":\"Implicity
 INSERT INTO `anilist_chinese` VALUES (99531,'{\"title\":{\"chinese\":\"Devils Line\"},\"synonyms_chinese\":[\"惡魔戰線\"]}');
 INSERT INTO `anilist_chinese` VALUES (99539,'{\"title\":{\"chinese\":\"七大罪 戒律的復活\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (99540,'{\"title\":{\"chinese\":\"劇場版 七大罪 天空的囚人\"},\"synonyms_chinese\":[\"劇場版 七大罪 空中囚徒\"]}');
+INSERT INTO `anilist_chinese` VALUES (99547,'{\"title\":{\"chinese\":\"Mobile Suit Gundam Thunderbolt: Bandit Flower\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (99555,'{\"title\":{\"chinese\":\"妹ビッチに搾られたい\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (99556,'{\"title\":{\"chinese\":\"キメ恋!\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (99557,'{\"title\":{\"chinese\":\"Thunderbolt Fantasy 東離劍遊紀 2\"},\"synonyms_chinese\":[]}');

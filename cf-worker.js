@@ -4491,6 +4491,7 @@ const db = new Map([
 [99531,{title:"Devils Line",synonyms:["惡魔戰線"]}],
 [99539,{title:"七大罪 戒律的復活",synonyms:[]}],
 [99540,{title:"劇場版 七大罪 天空的囚人",synonyms:["劇場版 七大罪 空中囚徒"]}],
+[99547,{title:"Mobile Suit Gundam Thunderbolt: Bandit Flower",synonyms:[]}],
 [99555,{title:"妹ビッチに搾られたい",synonyms:[]}],
 [99556,{title:"キメ恋!",synonyms:[]}],
 [99557,{title:"Thunderbolt Fantasy 東離劍遊紀 2",synonyms:[]}],
