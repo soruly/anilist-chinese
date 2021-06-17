@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2021.6.15
+// @version      2.2021.6.17
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -2964,6 +2964,7 @@ var database = [
 {id:19193,title:"攻殼機動隊 ARISE 第三話 Ghost Tears"},
 {id:19195,title:"攻殼機動隊 ARISE 第四話 Ghost Stands Alone"},
 {id:19199,title:"東京ESP"},
+{id:19211,title:"翠星上的加爾岡緹亞 OVA"},
 {id:19221,title:"我的腦內戀礙選項"},
 {id:19251,title:"歌之王子殿下 真愛2000% SP"},
 {id:19257,title:"眼鏡部！"},
@@ -5204,6 +5205,7 @@ var database = [
 {id:108626,title:"HUMAN LOST 人間失格"},
 {id:108628,title:"number24"},
 {id:108629,title:"啄木鳥偵探社"},
+{id:108630,title:"尋找小魔女DoReMi"},
 {id:108631,title:"工作細胞!!"},
 {id:108632,title:"Re：從零開始的異世界生活 2"},
 {id:108713,title:"滿溢的水果塔"},
@@ -5484,6 +5486,7 @@ var database = [
 {id:116005,title:"NOBLESSE"},
 {id:116006,title:"THE GOD OF HIGH SCHOOL"},
 {id:116053,title:"戰國鳥獸戲畫～乙～"},
+{id:116069,title:"東京七姐妹 我們化作青空"},
 {id:116147,title:"One Room Third Season"},
 {id:116173,title:"戰翼的希格德莉法"},
 {id:116181,title:"セクフレ幼馴染 ~処女と童貞は恥ずかしいってみんなが言うから~ THE ANIMATION"},
@@ -5609,6 +5612,7 @@ var database = [
 {id:124194,title:"Fruits Basket The Final"},
 {id:124223,title:"賽馬娘Pretty Derby Season 2"},
 {id:124394,title:"八十龜醬觀察日記 3"},
+{id:124472,title:"Himote House OVA"},
 {id:124555,title:"Idolls!"},
 {id:124600,title:"対魔忍アサギ～捕らわれの肉人形～"},
 {id:124612,title:"試着用土下座來拜託她們吧 異世界篇"},
@@ -5662,11 +5666,14 @@ var database = [
 {id:129801,title:"變身成黑辣妹之後就和死黨上床了"},
 {id:129814,title:"BLUE REFLECTION RAY"},
 {id:129874,title:"鬼滅之刃 遊郭編"},
+{id:130058,title:"ウチの弟マジでデカイんだけど見にこない？"},
 {id:130402,title:"Wave!! Surfing Yappe!! (TV)"},
 {id:130442,title:"壽司大相撲"},
 {id:130513,title:"嬰兒本部長"},
 {id:130514,title:"iii icecrin"},
 {id:130515,title:"恐龍日和"},
+{id:130653,title:"百鬼屋探偵事務所 ～百鬼屋 光の妖怪事件簿～"},
+{id:130654,title:"家属～母と姉妹の嬌声～"},
 {id:130921,title:"S家に嫁いだM嬢の日常"},
 {id:132055,title:"劇場版 歌之王子殿下 真愛 KINGDOM"}
 ];
