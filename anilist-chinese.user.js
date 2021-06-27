@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2021.6.17
+// @version      2.2021.6.27
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -5675,6 +5675,7 @@ var database = [
 {id:130653,title:"百鬼屋探偵事務所 ～百鬼屋 光の妖怪事件簿～"},
 {id:130654,title:"家属～母と姉妹の嬌声～"},
 {id:130921,title:"S家に嫁いだM嬢の日常"},
+{id:131150,title:"SCARLET NEXUS"},
 {id:132055,title:"劇場版 歌之王子殿下 真愛 KINGDOM"}
 ];
 

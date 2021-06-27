@@ -5696,6 +5696,7 @@ INSERT INTO `anilist_chinese` VALUES (130515,'{\"title\":{\"chinese\":\"恐龍�
 INSERT INTO `anilist_chinese` VALUES (130653,'{\"title\":{\"chinese\":\"百鬼屋探偵事務所 ～百鬼屋 光の妖怪事件簿～\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (130654,'{\"title\":{\"chinese\":\"家属～母と姉妹の嬌声～\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (130921,'{\"title\":{\"chinese\":\"S家に嫁いだM嬢の日常\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (131150,'{\"title\":{\"chinese\":\"SCARLET NEXUS\"},\"synonyms_chinese\":[\"緋紅結繫\"]}');
 INSERT INTO `anilist_chinese` VALUES (132055,'{\"title\":{\"chinese\":\"劇場版 歌之王子殿下 真愛 KINGDOM\"},\"synonyms_chinese\":[]}');
 /*!40000 ALTER TABLE `anilist_chinese` ENABLE KEYS */;
 UNLOCK TABLES;

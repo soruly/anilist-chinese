@@ -5659,6 +5659,7 @@ const db = new Map([
 [130653,{title:"百鬼屋探偵事務所 ～百鬼屋 光の妖怪事件簿～",synonyms:[]}],
 [130654,{title:"家属～母と姉妹の嬌声～",synonyms:[]}],
 [130921,{title:"S家に嫁いだM嬢の日常",synonyms:[]}],
+[131150,{title:"SCARLET NEXUS",synonyms:["緋紅結繫"]}],
 [132055,{title:"劇場版 歌之王子殿下 真愛 KINGDOM",synonyms:[]}]
 ]);
 
