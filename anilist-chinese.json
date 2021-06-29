@@ -18467,6 +18467,11 @@
     "synonyms": []
   },
   {
+    "id": 20679,
+    "title": "魔法科高中的劣等生 簡單易懂的魔法科！",
+    "synonyms": []
+  },
+  {
     "id": 20680,
     "title": "Macross Δ",
     "synonyms": [
@@ -28761,6 +28766,11 @@
     "synonyms": []
   },
   {
+    "id": 103277,
+    "title": "Fate／Grand Order - 神聖圓桌領域卡美洛 Paladin; Agateram -",
+    "synonyms": []
+  },
+  {
     "id": 103301,
     "title": "Endro~!",
     "synonyms": []
@@ -29819,6 +29829,11 @@
     "synonyms": []
   },
   {
+    "id": 107203,
+    "title": "劇場版 Free!–the Final Stroke– 前編",
+    "synonyms": []
+  },
+  {
     "id": 107208,
     "title": "少女與戰車 最終章 第2話",
     "synonyms": [
@@ -29957,6 +29972,11 @@
   {
     "id": 107693,
     "title": "入間同學入魔了！",
+    "synonyms": []
+  },
+  {
+    "id": 107717,
+    "title": "小林家的女僕龍 S",
     "synonyms": []
   },
   {
@@ -30205,7 +30225,9 @@
   {
     "id": 108511,
     "title": "關於我轉生變成史萊姆這檔事 2",
-    "synonyms": []
+    "synonyms": [
+      "關於我轉生成為史萊姆的那件事 2"
+    ]
   },
   {
     "id": 108522,
@@ -30306,6 +30328,11 @@
   {
     "id": 108734,
     "title": "毛球剛次郎",
+    "synonyms": []
+  },
+  {
+    "id": 108735,
+    "title": "BanG Dream! FILM LIVE",
     "synonyms": []
   },
   {
@@ -31182,6 +31209,11 @@
     "synonyms": []
   },
   {
+    "id": 112802,
+    "title": "陰晴不定的體操哥哥",
+    "synonyms": []
+  },
+  {
     "id": 112803,
     "title": "No Guns Life 2",
     "synonyms": [
@@ -31475,6 +31507,11 @@
     "synonyms": []
   },
   {
+    "id": 114065,
+    "title": "我們的重製人生",
+    "synonyms": []
+  },
+  {
     "id": 114072,
     "title": "遊戯王SEVENS",
     "synonyms": []
@@ -31550,6 +31587,11 @@
     "synonyms": [
       "蒼之騎士團"
     ]
+  },
+  {
+    "id": 114302,
+    "title": "開掛藥師的異世界悠閒生活",
+    "synonyms": []
   },
   {
     "id": 114304,
@@ -31655,6 +31697,11 @@
   {
     "id": 114963,
     "title": "想哭的我戴上了貓的面具",
+    "synonyms": []
+  },
+  {
+    "id": 114979,
+    "title": "Love Live! Superstar!!",
     "synonyms": []
   },
   {
@@ -31897,6 +31944,11 @@
     ]
   },
   {
+    "id": 116610,
+    "title": "BanG Dream! FILM LIVE 2nd Stage",
+    "synonyms": []
+  },
+  {
     "id": 116648,
     "title": "巨人族的新娘",
     "synonyms": []
@@ -31910,10 +31962,10 @@
   },
   {
     "id": 116676,
-    "title": "劇場版 黃金拼圖",
+    "title": "黃金拼圖 Thank you!!",
     "synonyms": [
-      "劇場版 金色馬賽克",
-      "劇場版 黃金嵌片"
+      "金色馬賽克 Thank you!!",
+      "黃金嵌片 Thank you!!"
     ]
   },
   {
@@ -31937,8 +31989,20 @@
     "synonyms": []
   },
   {
+    "id": 116742,
+    "title": "關於我轉生變成史萊姆這檔事 2",
+    "synonyms": [
+      "關於我轉生成為史萊姆的那件事 2"
+    ]
+  },
+  {
     "id": 116752,
     "title": "七大罪 憤怒的審判",
+    "synonyms": []
+  },
+  {
+    "id": 116756,
+    "title": "Fate／Grand Order - 終局特異點 冠位時間神殿所羅門 -",
     "synonyms": []
   },
   {
@@ -31965,7 +32029,7 @@
   },
   {
     "id": 117002,
-    "title": "魔法紀錄 魔法少女小圓外傳 2",
+    "title": "魔法紀錄 魔法少女小圓外傳 第二季",
     "synonyms": []
   },
   {
@@ -32019,6 +32083,11 @@
     "synonyms": []
   },
   {
+    "id": 117612,
+    "title": "現實主義勇者的王國重建記",
+    "synonyms": []
+  },
+  {
     "id": 117696,
     "title": "天地創造設計部",
     "synonyms": []
@@ -32061,6 +32130,16 @@
   {
     "id": 117955,
     "title": "昨日之歌 Extra",
+    "synonyms": []
+  },
+  {
+    "id": 117989,
+    "title": "女神宿舍的管理員。",
+    "synonyms": []
+  },
+  {
+    "id": 118116,
+    "title": "BanG Dream! Girls Band Party!",
     "synonyms": []
   },
   {
@@ -32110,7 +32189,7 @@
   },
   {
     "id": 118743,
-    "title": "劇場版 Fate/kaleid liner Prisma☆Illya",
+    "title": "Fate/kaleid liner Prisma☆Illya Licht 無名少女",
     "synonyms": []
   },
   {
@@ -32223,6 +32302,14 @@
     "synonyms": []
   },
   {
+    "id": 120209,
+    "title": "轉生成女性向遊戲只有毀滅END的壞人大小姐 X",
+    "synonyms": [
+      "轉生惡役只好拔除破滅旗標 X",
+      "轉生成為了只有乙女遊戲破滅Flag的邪惡大小姐 X"
+    ]
+  },
+  {
     "id": 120376,
     "title": "美麗新世界",
     "synonyms": []
@@ -32235,6 +32322,11 @@
   {
     "id": 120534,
     "title": "大運動會 ReSTART!",
+    "synonyms": []
+  },
+  {
+    "id": 120608,
+    "title": "暗黑企業的迷宮",
     "synonyms": []
   },
   {
@@ -32325,6 +32417,18 @@
     "id": 122349,
     "title": "我的英雄學院：活下來！殊死的生存訓練",
     "synonyms": []
+  },
+  {
+    "id": 122434,
+    "title": "平穩世代的韋駄天們",
+    "synonyms": []
+  },
+  {
+    "id": 122441,
+    "title": "Peach Boy Riverside",
+    "synonyms": [
+      "桃子男孩渡海而來"
+    ]
   },
   {
     "id": 122442,
@@ -32444,6 +32548,11 @@
     "synonyms": []
   },
   {
+    "id": 124337,
+    "title": "魔法使的新娘 學院篇",
+    "synonyms": []
+  },
+  {
     "id": 124394,
     "title": "八十龜醬觀察日記 3",
     "synonyms": []
@@ -32454,6 +32563,11 @@
     "synonyms": [
       "不受歡迎之家 OVA"
     ]
+  },
+  {
+    "id": 124494,
+    "title": "Biohazard: Infinite Darkness",
+    "synonyms": []
   },
   {
     "id": 124555,
@@ -32523,6 +32637,11 @@
     "synonyms": []
   },
   {
+    "id": 125206,
+    "title": "月光下的異世界之旅",
+    "synonyms": []
+  },
+  {
     "id": 125351,
     "title": "意呆利 World Stars",
     "synonyms": []
@@ -32553,6 +32672,11 @@
     "synonyms": []
   },
   {
+    "id": 125446,
+    "title": "歌劇少女!!",
+    "synonyms": []
+  },
+  {
     "id": 125449,
     "title": "Pacific Rim: The Black",
     "synonyms": []
@@ -32568,6 +32692,16 @@
     "synonyms": []
   },
   {
+    "id": 125640,
+    "title": "蓋特機器人 ARC",
+    "synonyms": []
+  },
+  {
+    "id": 125838,
+    "title": "海岬的迷途之家",
+    "synonyms": []
+  },
+  {
     "id": 125839,
     "title": "Bakuten!!",
     "synonyms": [
@@ -32575,8 +32709,33 @@
     ]
   },
   {
+    "id": 125841,
+    "title": "扶桑花之舞",
+    "synonyms": []
+  },
+  {
     "id": 125867,
     "title": "CESTVS -The Roman Fighter-",
+    "synonyms": []
+  },
+  {
+    "id": 125868,
+    "title": "NIGHT HEAD 2041",
+    "synonyms": []
+  },
+  {
+    "id": 125909,
+    "title": "TSUKIPRO THE ANIMATION 2",
+    "synonyms": []
+  },
+  {
+    "id": 126047,
+    "title": "急戰 5 秒殊死鬥",
+    "synonyms": []
+  },
+  {
+    "id": 126192,
+    "title": "女朋友 and 女朋友",
     "synonyms": []
   },
   {
@@ -32590,8 +32749,18 @@
     "synonyms": []
   },
   {
+    "id": 126546,
+    "title": "精靈幻想記",
+    "synonyms": []
+  },
+  {
     "id": 126571,
     "title": "リアルエロゲシチュエーション！2 THE ANIMATION",
+    "synonyms": []
+  },
+  {
+    "id": 126659,
+    "title": "我的英雄學院：World Heroes' Mission",
     "synonyms": []
   },
   {
@@ -32625,13 +32794,33 @@
     "synonyms": []
   },
   {
+    "id": 127227,
+    "title": "劇場編集版 隱瞞之事 -秘密是什麼-",
+    "synonyms": []
+  },
+  {
+    "id": 127271,
+    "title": "龍與雀斑公主",
+    "synonyms": []
+  },
+  {
     "id": 127363,
     "title": "弱角友崎同學 OVA",
     "synonyms": []
   },
   {
+    "id": 127366,
+    "title": "我立於百萬生命之上 2",
+    "synonyms": []
+  },
+  {
     "id": 127368,
     "title": "在地下城尋求邂逅是否搞錯了什麼 III OVA",
+    "synonyms": []
+  },
+  {
+    "id": 127371,
+    "title": "總之就是很可愛 OVA",
     "synonyms": []
   },
   {
@@ -32645,8 +32834,18 @@
     "synonyms": []
   },
   {
+    "id": 127688,
+    "title": "魔法科高中的優等生",
+    "synonyms": []
+  },
+  {
     "id": 127690,
     "title": "天竺鼠車車",
+    "synonyms": []
+  },
+  {
+    "id": 127721,
+    "title": "IDOLiSH7 Third BEAT!",
     "synonyms": []
   },
   {
@@ -32657,6 +32856,11 @@
   {
     "id": 128516,
     "title": "遠い君に、僕は届かない",
+    "synonyms": []
+  },
+  {
+    "id": 128545,
+    "title": "白沙的 Aquatope",
     "synonyms": []
   },
   {
@@ -32682,6 +32886,21 @@
     "synonyms": []
   },
   {
+    "id": 128703,
+    "title": "Assault Lily: FRUITS",
+    "synonyms": []
+  },
+  {
+    "id": 128712,
+    "title": "偵探已經，死了。",
+    "synonyms": []
+  },
+  {
+    "id": 128740,
+    "title": "劇場版 七大罪 被光詛咒的人們",
+    "synonyms": []
+  },
+  {
     "id": 128827,
     "title": "Cardfight!! Vanguard overDress 2",
     "synonyms": []
@@ -32694,6 +32913,11 @@
   {
     "id": 129196,
     "title": "在地下城尋求邂逅是否搞錯了什麼 IV",
+    "synonyms": []
+  },
+  {
+    "id": 129277,
+    "title": "死神少爺與黑女僕",
     "synonyms": []
   },
   {
@@ -32736,6 +32960,26 @@
     "synonyms": []
   },
   {
+    "id": 130073,
+    "title": "ネトカノ",
+    "synonyms": []
+  },
+  {
+    "id": 130074,
+    "title": "ネトシス",
+    "synonyms": []
+  },
+  {
+    "id": 130389,
+    "title": "魔法科高中的劣等生 追憶篇",
+    "synonyms": []
+  },
+  {
+    "id": 130392,
+    "title": "叫我對大哥",
+    "synonyms": []
+  },
+  {
     "id": 130402,
     "title": "Wave!! Surfing Yappe!! (TV)",
     "synonyms": []
@@ -32761,6 +33005,11 @@
     "synonyms": []
   },
   {
+    "id": 130549,
+    "title": "RE-MAIN",
+    "synonyms": []
+  },
+  {
     "id": 130653,
     "title": "百鬼屋探偵事務所 ～百鬼屋 光の妖怪事件簿～",
     "synonyms": []
@@ -32771,9 +33020,33 @@
     "synonyms": []
   },
   {
+    "id": 130713,
+    "title": "魔法使的新娘 OVA",
+    "synonyms": []
+  },
+  {
     "id": 130921,
     "title": "S家に嫁いだM嬢の日常",
     "synonyms": []
+  },
+  {
+    "id": 130997,
+    "title": "D_CIDE TRAUMEREI",
+    "synonyms": []
+  },
+  {
+    "id": 131149,
+    "title": "寒蟬鳴泣之時 卒",
+    "synonyms": [
+      "暮蟬悲鳴時 卒",
+      "暮蟬鳴泣時 卒",
+      "暮蟬悲鳴之時 卒",
+      "秋蟬鳴泣之時 卒",
+      "蟬鳴時分 卒",
+      "蟬鳴之時 卒",
+      "蜩鳴之時 卒",
+      "寒蟬鳴泣時 卒"
+    ]
   },
   {
     "id": 131150,
@@ -32783,8 +33056,50 @@
     ]
   },
   {
+    "id": 131646,
+    "title": "瓦尼塔斯的手札",
+    "synonyms": []
+  },
+  {
     "id": 132055,
     "title": "劇場版 歌之王子殿下 真愛 KINGDOM",
+    "synonyms": []
+  },
+  {
+    "id": 132096,
+    "title": "小林家的女僕龍 - 迷你龍",
+    "synonyms": []
+  },
+  {
+    "id": 132126,
+    "title": "Sonny Boy",
+    "synonyms": [
+      "漂流少年"
+    ]
+  },
+  {
+    "id": 132456,
+    "title": "賈希大人不氣餒！",
+    "synonyms": []
+  },
+  {
+    "id": 132679,
+    "title": "IDOLLAND 星光樂園",
+    "synonyms": []
+  },
+  {
+    "id": 135108,
+    "title": "闇芝居 9",
+    "synonyms": []
+  },
+  {
+    "id": 135866,
+    "title": "幼女戰記 砂漠的義麵大作戰",
+    "synonyms": []
+  },
+  {
+    "id": 136080,
+    "title": "魔法紀錄 魔法少女小圓外傳 Final SEASON",
     "synonyms": []
   }
 ]
