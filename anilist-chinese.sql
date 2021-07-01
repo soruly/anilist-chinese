@@ -5744,6 +5744,7 @@ INSERT INTO `anilist_chinese` VALUES (130549,'{\"title\":{\"chinese\":\"RE-MAIN\
 INSERT INTO `anilist_chinese` VALUES (130653,'{\"title\":{\"chinese\":\"百鬼屋探偵事務所 ～百鬼屋 光の妖怪事件簿～\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (130654,'{\"title\":{\"chinese\":\"家属～母と姉妹の嬌声～\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (130713,'{\"title\":{\"chinese\":\"魔法使的新娘 OVA\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (130777,'{\"title\":{\"chinese\":\"Mewkledreamy Mix!\"},\"synonyms_chinese\":[\"夢夢貓 Mix!\"]}');
 INSERT INTO `anilist_chinese` VALUES (130921,'{\"title\":{\"chinese\":\"S家に嫁いだM嬢の日常\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (130997,'{\"title\":{\"chinese\":\"D_CIDE TRAUMEREI\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (131149,'{\"title\":{\"chinese\":\"寒蟬鳴泣之時 卒\"},\"synonyms_chinese\":[\"暮蟬悲鳴時 卒\",\"暮蟬鳴泣時 卒\",\"暮蟬悲鳴之時 卒\",\"秋蟬鳴泣之時 卒\",\"蟬鳴時分 卒\",\"蟬鳴之時 卒\",\"蜩鳴之時 卒\",\"寒蟬鳴泣時 卒\"]}');

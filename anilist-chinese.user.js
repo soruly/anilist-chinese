@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2021.6.29
+// @version      2.2021.7.1
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -5723,6 +5723,7 @@ var database = [
 {id:130653,title:"百鬼屋探偵事務所 ～百鬼屋 光の妖怪事件簿～"},
 {id:130654,title:"家属～母と姉妹の嬌声～"},
 {id:130713,title:"魔法使的新娘 OVA"},
+{id:130777,title:"Mewkledreamy Mix!"},
 {id:130921,title:"S家に嫁いだM嬢の日常"},
 {id:130997,title:"D_CIDE TRAUMEREI"},
 {id:131149,title:"寒蟬鳴泣之時 卒"},
