@@ -5412,6 +5412,7 @@ INSERT INTO `anilist_chinese` VALUES (113187,'{\"title\":{\"chinese\":\"Null Pet
 INSERT INTO `anilist_chinese` VALUES (113220,'{\"title\":{\"chinese\":\"色情教団\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (113231,'{\"title\":{\"chinese\":\"2.43 清陰高中男子排球社\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (113242,'{\"title\":{\"chinese\":\"Duel Masters!!\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (113260,'{\"title\":{\"chinese\":\"天官賜福\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (113286,'{\"title\":{\"chinese\":\"魔物娘的醫生\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (113311,'{\"title\":{\"chinese\":\"隱瞞之事\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (113348,'{\"title\":{\"chinese\":\"戰姬絕唱SYMPHOGEAR XV SP\"},\"synonyms_chinese\":[]}');
@@ -5689,6 +5690,7 @@ INSERT INTO `anilist_chinese` VALUES (125909,'{\"title\":{\"chinese\":\"TSUKIPRO
 INSERT INTO `anilist_chinese` VALUES (126047,'{\"title\":{\"chinese\":\"急戰 5 秒殊死鬥\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (126192,'{\"title\":{\"chinese\":\"女朋友 and 女朋友\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (126242,'{\"title\":{\"chinese\":\"地味變!!～改變土妹子的純潔異性交往～\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (126356,'{\"title\":{\"chinese\":\"天官賜福 特別篇\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (126531,'{\"title\":{\"chinese\":\"陸上部女子は俺の生オナホ!!! The Animation\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (126546,'{\"title\":{\"chinese\":\"精靈幻想記\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (126571,'{\"title\":{\"chinese\":\"リアルエロゲシチュエーション！2 THE ANIMATION\"},\"synonyms_chinese\":[]}');
@@ -5710,6 +5712,7 @@ INSERT INTO `anilist_chinese` VALUES (127536,'{\"title\":{\"chinese\":\"幼女�
 INSERT INTO `anilist_chinese` VALUES (127688,'{\"title\":{\"chinese\":\"魔法科高中的優等生\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (127690,'{\"title\":{\"chinese\":\"天竺鼠車車\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (127721,'{\"title\":{\"chinese\":\"IDOLiSH7 Third BEAT!\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (127976,'{\"title\":{\"chinese\":\"天官賜福 第二季\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (128399,'{\"title\":{\"chinese\":\"Fairy 蘭丸\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (128516,'{\"title\":{\"chinese\":\"遠い君に、僕は届かない\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (128545,'{\"title\":{\"chinese\":\"白沙的 Aquatope\"},\"synonyms_chinese\":[]}');
@@ -5758,6 +5761,7 @@ INSERT INTO `anilist_chinese` VALUES (132679,'{\"title\":{\"chinese\":\"IDOLLAND
 INSERT INTO `anilist_chinese` VALUES (135108,'{\"title\":{\"chinese\":\"闇芝居 9\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (135866,'{\"title\":{\"chinese\":\"幼女戰記 砂漠的義麵大作戰\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (136080,'{\"title\":{\"chinese\":\"魔法紀錄 魔法少女小圓外傳 Final SEASON\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (136263,'{\"title\":{\"chinese\":\"異世界超能魔術師 OVA\"},\"synonyms_chinese\":[]}');
 /*!40000 ALTER TABLE `anilist_chinese` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;

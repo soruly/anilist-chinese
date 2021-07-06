@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2021.7.1
+// @version      2.2021.7.6
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -5391,6 +5391,7 @@ var database = [
 {id:113220,title:"色情教団"},
 {id:113231,title:"2.43 清陰高中男子排球社"},
 {id:113242,title:"Duel Masters!!"},
+{id:113260,title:"天官賜福"},
 {id:113286,title:"魔物娘的醫生"},
 {id:113311,title:"隱瞞之事"},
 {id:113348,title:"戰姬絕唱SYMPHOGEAR XV SP"},
@@ -5668,6 +5669,7 @@ var database = [
 {id:126047,title:"急戰 5 秒殊死鬥"},
 {id:126192,title:"女朋友 and 女朋友"},
 {id:126242,title:"地味變!!～改變土妹子的純潔異性交往～"},
+{id:126356,title:"天官賜福 特別篇"},
 {id:126531,title:"陸上部女子は俺の生オナホ!!! The Animation"},
 {id:126546,title:"精靈幻想記"},
 {id:126571,title:"リアルエロゲシチュエーション！2 THE ANIMATION"},
@@ -5689,6 +5691,7 @@ var database = [
 {id:127688,title:"魔法科高中的優等生"},
 {id:127690,title:"天竺鼠車車"},
 {id:127721,title:"IDOLiSH7 Third BEAT!"},
+{id:127976,title:"天官賜福 第二季"},
 {id:128399,title:"Fairy 蘭丸"},
 {id:128516,title:"遠い君に、僕は届かない"},
 {id:128545,title:"白沙的 Aquatope"},
@@ -5736,7 +5739,8 @@ var database = [
 {id:132679,title:"IDOLLAND 星光樂園"},
 {id:135108,title:"闇芝居 9"},
 {id:135866,title:"幼女戰記 砂漠的義麵大作戰"},
-{id:136080,title:"魔法紀錄 魔法少女小圓外傳 Final SEASON"}
+{id:136080,title:"魔法紀錄 魔法少女小圓外傳 Final SEASON"},
+{id:136263,title:"異世界超能魔術師 OVA"}
 ];
 
 var updating;
