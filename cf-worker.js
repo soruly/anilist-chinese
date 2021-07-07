@@ -5716,6 +5716,7 @@ const db = new Map([
 [131149,{title:"寒蟬鳴泣之時 卒",synonyms:["暮蟬悲鳴時 卒","暮蟬鳴泣時 卒","暮蟬悲鳴之時 卒","秋蟬鳴泣之時 卒","蟬鳴時分 卒","蟬鳴之時 卒","蜩鳴之時 卒","寒蟬鳴泣時 卒"]}],
 [131150,{title:"SCARLET NEXUS",synonyms:["緋紅結繫"]}],
 [131646,{title:"瓦尼塔斯的手札",synonyms:[]}],
+[131826,{title:"エロゲで全ては解決できる！ THE ANIMATION",synonyms:[]}],
 [132055,{title:"劇場版 歌之王子殿下 真愛 KINGDOM",synonyms:[]}],
 [132096,{title:"小林家的女僕龍 - 迷你龍",synonyms:[]}],
 [132126,{title:"Sonny Boy",synonyms:["漂流少年"]}],

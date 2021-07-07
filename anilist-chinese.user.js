@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2021.7.6
+// @version      2.2021.7.7
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -5732,6 +5732,7 @@ var database = [
 {id:131149,title:"寒蟬鳴泣之時 卒"},
 {id:131150,title:"SCARLET NEXUS"},
 {id:131646,title:"瓦尼塔斯的手札"},
+{id:131826,title:"エロゲで全ては解決できる！ THE ANIMATION"},
 {id:132055,title:"劇場版 歌之王子殿下 真愛 KINGDOM"},
 {id:132096,title:"小林家的女僕龍 - 迷你龍"},
 {id:132126,title:"Sonny Boy"},

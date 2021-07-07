@@ -5753,6 +5753,7 @@ INSERT INTO `anilist_chinese` VALUES (130997,'{\"title\":{\"chinese\":\"D_CIDE T
 INSERT INTO `anilist_chinese` VALUES (131149,'{\"title\":{\"chinese\":\"寒蟬鳴泣之時 卒\"},\"synonyms_chinese\":[\"暮蟬悲鳴時 卒\",\"暮蟬鳴泣時 卒\",\"暮蟬悲鳴之時 卒\",\"秋蟬鳴泣之時 卒\",\"蟬鳴時分 卒\",\"蟬鳴之時 卒\",\"蜩鳴之時 卒\",\"寒蟬鳴泣時 卒\"]}');
 INSERT INTO `anilist_chinese` VALUES (131150,'{\"title\":{\"chinese\":\"SCARLET NEXUS\"},\"synonyms_chinese\":[\"緋紅結繫\"]}');
 INSERT INTO `anilist_chinese` VALUES (131646,'{\"title\":{\"chinese\":\"瓦尼塔斯的手札\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (131826,'{\"title\":{\"chinese\":\"エロゲで全ては解決できる！ THE ANIMATION\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (132055,'{\"title\":{\"chinese\":\"劇場版 歌之王子殿下 真愛 KINGDOM\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (132096,'{\"title\":{\"chinese\":\"小林家的女僕龍 - 迷你龍\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (132126,'{\"title\":{\"chinese\":\"Sonny Boy\"},\"synonyms_chinese\":[\"漂流少年\"]}');
