@@ -5687,6 +5687,7 @@ const db = new Map([
 [128712,{title:"偵探已經，死了。",synonyms:[]}],
 [128740,{title:"劇場版 七大罪 被光詛咒的人們",synonyms:[]}],
 [128827,{title:"Cardfight!! Vanguard overDress 2",synonyms:[]}],
+[128947,{title:"從指尖開始的熱情2 戀人是消防員",synonyms:[]}],
 [129115,{title:"指導姦 Day after THE ANIMATION",synonyms:[]}],
 [129196,{title:"在地下城尋求邂逅是否搞錯了什麼 IV",synonyms:[]}],
 [129277,{title:"死神少爺與黑女僕",synonyms:[]}],

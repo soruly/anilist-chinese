@@ -5724,6 +5724,7 @@ INSERT INTO `anilist_chinese` VALUES (128703,'{\"title\":{\"chinese\":\"Assault 
 INSERT INTO `anilist_chinese` VALUES (128712,'{\"title\":{\"chinese\":\"偵探已經，死了。\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (128740,'{\"title\":{\"chinese\":\"劇場版 七大罪 被光詛咒的人們\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (128827,'{\"title\":{\"chinese\":\"Cardfight!! Vanguard overDress 2\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (128947,'{\"title\":{\"chinese\":\"從指尖開始的熱情2 戀人是消防員\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (129115,'{\"title\":{\"chinese\":\"指導姦 Day after THE ANIMATION\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (129196,'{\"title\":{\"chinese\":\"在地下城尋求邂逅是否搞錯了什麼 IV\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (129277,'{\"title\":{\"chinese\":\"死神少爺與黑女僕\"},\"synonyms_chinese\":[]}');

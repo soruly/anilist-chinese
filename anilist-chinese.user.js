@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2021.7.7
+// @version      2.2021.7.10
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -5703,6 +5703,7 @@ var database = [
 {id:128712,title:"偵探已經，死了。"},
 {id:128740,title:"劇場版 七大罪 被光詛咒的人們"},
 {id:128827,title:"Cardfight!! Vanguard overDress 2"},
+{id:128947,title:"從指尖開始的熱情2 戀人是消防員"},
 {id:129115,title:"指導姦 Day after THE ANIMATION"},
 {id:129196,title:"在地下城尋求邂逅是否搞錯了什麼 IV"},
 {id:129277,title:"死神少爺與黑女僕"},
