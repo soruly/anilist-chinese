@@ -1,8 +1,8 @@
--- MariaDB dump 10.19  Distrib 10.5.10-MariaDB, for Linux (x86_64)
+-- MariaDB dump 10.19  Distrib 10.5.11-MariaDB, for Linux (x86_64)
 --
 -- Host: localhost    Database: anime
 -- ------------------------------------------------------
--- Server version	10.5.10-MariaDB
+-- Server version	10.5.11-MariaDB
 
 /*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
 /*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
@@ -5715,7 +5715,7 @@ INSERT INTO `anilist_chinese` VALUES (127721,'{\"title\":{\"chinese\":\"IDOLiSH7
 INSERT INTO `anilist_chinese` VALUES (127976,'{\"title\":{\"chinese\":\"天官賜福 第二季\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (128399,'{\"title\":{\"chinese\":\"Fairy 蘭丸\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (128516,'{\"title\":{\"chinese\":\"遠い君に、僕は届かない\"},\"synonyms_chinese\":[]}');
-INSERT INTO `anilist_chinese` VALUES (128545,'{\"title\":{\"chinese\":\"白沙的 Aquatope\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (128545,'{\"title\":{\"chinese\":\"白沙的 Aquatope\"},\"synonyms_chinese\":[\"白沙的水族館\",\"白砂上的碧水生境\",\"白砂上的水上樂園\"]}');
 INSERT INTO `anilist_chinese` VALUES (128546,'{\"title\":{\"chinese\":\"Vivy -Fluorite Eye’s Song-\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (128547,'{\"title\":{\"chinese\":\"ODD TAXI\"},\"synonyms_chinese\":[\"奇巧計程車\"]}');
 INSERT INTO `anilist_chinese` VALUES (128563,'{\"title\":{\"chinese\":\"D4DJ Petit Mix\"},\"synonyms_chinese\":[]}');

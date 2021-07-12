@@ -5678,7 +5678,7 @@ const db = new Map([
 [127976,{title:"天官賜福 第二季",synonyms:[]}],
 [128399,{title:"Fairy 蘭丸",synonyms:[]}],
 [128516,{title:"遠い君に、僕は届かない",synonyms:[]}],
-[128545,{title:"白沙的 Aquatope",synonyms:[]}],
+[128545,{title:"白沙的 Aquatope",synonyms:["白沙的水族館","白砂上的碧水生境","白砂上的水上樂園"]}],
 [128546,{title:"Vivy -Fluorite Eye’s Song-",synonyms:[]}],
 [128547,{title:"ODD TAXI",synonyms:["奇巧計程車"]}],
 [128563,{title:"D4DJ Petit Mix",synonyms:[]}],
