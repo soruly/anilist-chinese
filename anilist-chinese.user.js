@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2021.7.10
+// @version      2.2021.8.1
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -4746,6 +4746,7 @@ var database = [
 {id:101210,title:"妹ぱらだいす！3 The Animation"},
 {id:101213,title:"政宗君的復仇 OVA"},
 {id:101215,title:"花牌情緣 3"},
+{id:101216,title:"干支魂 貓客萬來"},
 {id:101227,title:"我不是說了能力要平均值嗎？"},
 {id:101228,title:"Zoid Wild"},
 {id:101231,title:"詩季織織"},

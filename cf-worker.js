@@ -4730,6 +4730,7 @@ const db = new Map([
 [101210,{title:"妹ぱらだいす！3 The Animation",synonyms:[]}],
 [101213,{title:"政宗君的復仇 OVA",synonyms:[]}],
 [101215,{title:"花牌情緣 3",synonyms:["歌牌情緣 3"]}],
+[101216,{title:"干支魂 貓客萬來",synonyms:[]}],
 [101227,{title:"我不是說了能力要平均值嗎？",synonyms:[]}],
 [101228,{title:"Zoid Wild",synonyms:["索斯機械獸","機獸創世紀"]}],
 [101231,{title:"詩季織織",synonyms:[]}],

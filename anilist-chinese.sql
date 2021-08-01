@@ -4767,6 +4767,7 @@ INSERT INTO `anilist_chinese` VALUES (101206,'{\"title\":{\"chinese\":\"搖曳�
 INSERT INTO `anilist_chinese` VALUES (101210,'{\"title\":{\"chinese\":\"妹ぱらだいす！3 The Animation\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (101213,'{\"title\":{\"chinese\":\"政宗君的復仇 OVA\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (101215,'{\"title\":{\"chinese\":\"花牌情緣 3\"},\"synonyms_chinese\":[\"歌牌情緣 3\"]}');
+INSERT INTO `anilist_chinese` VALUES (101216,'{\"title\":{\"chinese\":\"干支魂 貓客萬來\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (101227,'{\"title\":{\"chinese\":\"我不是說了能力要平均值嗎？\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (101228,'{\"title\":{\"chinese\":\"Zoid Wild\"},\"synonyms_chinese\":[\"索斯機械獸\",\"機獸創世紀\"]}');
 INSERT INTO `anilist_chinese` VALUES (101231,'{\"title\":{\"chinese\":\"詩季織織\"},\"synonyms_chinese\":[]}');
