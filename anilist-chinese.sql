@@ -2283,7 +2283,7 @@ INSERT INTO `anilist_chinese` VALUES (10325,'{\"title\":{\"chinese\":\"吸尻鬼
 INSERT INTO `anilist_chinese` VALUES (10327,'{\"title\":{\"chinese\":\"コスプレ露出研究会\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (10330,'{\"title\":{\"chinese\":\"爆丸4\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (10336,'{\"title\":{\"chinese\":\"最後流放-銀翼的飛夢-\"},\"synonyms_chinese\":[\"最後流亡-銀翼的飛夢-\",\"最後流亡-銀翼少女法姆-\",\"最終流放-銀翼之法姆-\"]}');
-INSERT INTO `anilist_chinese` VALUES (10338,'{\"title\":{\"chinese\":\"真的有呀！靈＿媒先生\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (10338,'{\"title\":{\"chinese\":\"真的有呀！靈媒先生\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (10346,'{\"title\":{\"chinese\":\"拳王創世紀 世界大會篇\"},\"synonyms_chinese\":[\"熱拳本色 世界大會篇\",\"鈴聲響起 世界大會篇\",\"龍鳳拳王 世界大會篇\"]}');
 INSERT INTO `anilist_chinese` VALUES (10348,'{\"title\":{\"chinese\":\"Fireball Charming\"},\"synonyms_chinese\":[\"火球·魅力之章\"]}');
 INSERT INTO `anilist_chinese` VALUES (10350,'{\"title\":{\"chinese\":\"薄櫻鬼 雪華錄\"},\"synonyms_chinese\":[]}');
@@ -5748,6 +5748,7 @@ INSERT INTO `anilist_chinese` VALUES (130515,'{\"title\":{\"chinese\":\"恐龍�
 INSERT INTO `anilist_chinese` VALUES (130549,'{\"title\":{\"chinese\":\"RE-MAIN\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (130653,'{\"title\":{\"chinese\":\"百鬼屋探偵事務所 ～百鬼屋 光の妖怪事件簿～\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (130654,'{\"title\":{\"chinese\":\"家属～母と姉妹の嬌声～\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (130692,'{\"title\":{\"chinese\":\"まこちゃん開発日記\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (130713,'{\"title\":{\"chinese\":\"魔法使的新娘 OVA\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (130777,'{\"title\":{\"chinese\":\"Mewkledreamy Mix!\"},\"synonyms_chinese\":[\"夢夢貓 Mix!\"]}');
 INSERT INTO `anilist_chinese` VALUES (130921,'{\"title\":{\"chinese\":\"S家に嫁いだM嬢の日常\"},\"synonyms_chinese\":[]}');

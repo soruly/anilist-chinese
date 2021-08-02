@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2021.8.1
+// @version      2.2021.8.2
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -2262,7 +2262,7 @@ var database = [
 {id:10327,title:"コスプレ露出研究会"},
 {id:10330,title:"爆丸4"},
 {id:10336,title:"最後流放-銀翼的飛夢-"},
-{id:10338,title:"真的有呀！靈＿媒先生"},
+{id:10338,title:"真的有呀！靈媒先生"},
 {id:10346,title:"拳王創世紀 世界大會篇"},
 {id:10348,title:"Fireball Charming"},
 {id:10350,title:"薄櫻鬼 雪華錄"},
@@ -5727,6 +5727,7 @@ var database = [
 {id:130549,title:"RE-MAIN"},
 {id:130653,title:"百鬼屋探偵事務所 ～百鬼屋 光の妖怪事件簿～"},
 {id:130654,title:"家属～母と姉妹の嬌声～"},
+{id:130692,title:"まこちゃん開発日記"},
 {id:130713,title:"魔法使的新娘 OVA"},
 {id:130777,title:"Mewkledreamy Mix!"},
 {id:130921,title:"S家に嫁いだM嬢の日常"},
