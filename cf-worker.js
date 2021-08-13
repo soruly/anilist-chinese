@@ -5725,6 +5725,8 @@ const db = new Map([
 [132126,{title:"Sonny Boy",synonyms:["漂流少年"]}],
 [132456,{title:"賈希大人不氣餒！",synonyms:[]}],
 [132679,{title:"IDOLLAND 星光樂園",synonyms:[]}],
+[133483,{title:"アネットさんとリリアナさん THE ANIMATION",synonyms:[]}],
+[134116,{title:"サキュバスアプリ ～学園催眠～",synonyms:[]}],
 [135108,{title:"闇芝居 9",synonyms:[]}],
 [135866,{title:"幼女戰記 砂漠的義麵大作戰",synonyms:[]}],
 [136080,{title:"魔法紀錄 魔法少女小圓外傳 Final SEASON",synonyms:[]}],
