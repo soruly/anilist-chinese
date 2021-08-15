@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2021.8.13
+// @version      2.2021.8.15
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -5440,6 +5440,7 @@ var database = [
 {id:114087,title:"World Trigger 2"},
 {id:114099,title:"勇者鬥惡龍 達爾大冒險"},
 {id:114124,title:"憂國的莫里亞蒂"},
+{id:114129,title:"銀魂 THE FINAL"},
 {id:114194,title:"BEASTARS 2nd Season"},
 {id:114195,title:"喜歡本大爺的竟然就妳一個？ OVA"},
 {id:114232,title:"刮掉鬍子的我與撿到的女高中生"},
@@ -5677,6 +5678,7 @@ var database = [
 {id:126659,title:"我的英雄學院：World Heroes' Mission"},
 {id:126678,title:"闇芝居 8"},
 {id:126791,title:"如果究極進化的完全潛行 RPG 比現實還更像垃圾遊戲的話"},
+{id:126819,title:"銀魂 THE SEMI-FINAL"},
 {id:126820,title:"トイレの花子さんVS屈強退魔師"},
 {id:126905,title:"Tropical-Rouge！光之美少女"},
 {id:127126,title:"J〇フーゾク学園祭"},

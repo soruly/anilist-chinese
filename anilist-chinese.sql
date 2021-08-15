@@ -5461,6 +5461,7 @@ INSERT INTO `anilist_chinese` VALUES (114085,'{\"title\":{\"chinese\":\"怪物�
 INSERT INTO `anilist_chinese` VALUES (114087,'{\"title\":{\"chinese\":\"World Trigger 2\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (114099,'{\"title\":{\"chinese\":\"勇者鬥惡龍 達爾大冒險\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (114124,'{\"title\":{\"chinese\":\"憂國的莫里亞蒂\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (114129,'{\"title\":{\"chinese\":\"銀魂 THE FINAL\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (114194,'{\"title\":{\"chinese\":\"BEASTARS 2nd Season\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (114195,'{\"title\":{\"chinese\":\"喜歡本大爺的竟然就妳一個？ OVA\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (114232,'{\"title\":{\"chinese\":\"刮掉鬍子的我與撿到的女高中生\"},\"synonyms_chinese\":[]}');
@@ -5698,6 +5699,7 @@ INSERT INTO `anilist_chinese` VALUES (126571,'{\"title\":{\"chinese\":\"リア�
 INSERT INTO `anilist_chinese` VALUES (126659,'{\"title\":{\"chinese\":\"我的英雄學院：World Heroes\' Mission\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (126678,'{\"title\":{\"chinese\":\"闇芝居 8\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (126791,'{\"title\":{\"chinese\":\"如果究極進化的完全潛行 RPG 比現實還更像垃圾遊戲的話\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (126819,'{\"title\":{\"chinese\":\"銀魂 THE SEMI-FINAL\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (126820,'{\"title\":{\"chinese\":\"トイレの花子さんVS屈強退魔師\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (126905,'{\"title\":{\"chinese\":\"Tropical-Rouge！光之美少女\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (127126,'{\"title\":{\"chinese\":\"J〇フーゾク学園祭\"},\"synonyms_chinese\":[]}');
