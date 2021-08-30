@@ -5725,6 +5725,7 @@ const db = new Map([
 [132055,{title:"劇場版 歌之王子殿下 真愛 KINGDOM",synonyms:[]}],
 [132096,{title:"小林家的女僕龍 - 迷你龍",synonyms:[]}],
 [132126,{title:"Sonny Boy",synonyms:["漂流少年"]}],
+[132203,{title:"今泉ん家はどうやらギャルの溜まり場になってるらしい",synonyms:[]}],
 [132456,{title:"賈希大人不氣餒！",synonyms:[]}],
 [132679,{title:"IDOLLAND 星光樂園",synonyms:[]}],
 [133483,{title:"アネットさんとリリアナさん THE ANIMATION",synonyms:[]}],

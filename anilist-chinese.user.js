@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2021.8.15
+// @version      2.2021.8.30
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -5741,6 +5741,7 @@ var database = [
 {id:132055,title:"劇場版 歌之王子殿下 真愛 KINGDOM"},
 {id:132096,title:"小林家的女僕龍 - 迷你龍"},
 {id:132126,title:"Sonny Boy"},
+{id:132203,title:"今泉ん家はどうやらギャルの溜まり場になってるらしい"},
 {id:132456,title:"賈希大人不氣餒！"},
 {id:132679,title:"IDOLLAND 星光樂園"},
 {id:133483,title:"アネットさんとリリアナさん THE ANIMATION"},

@@ -5762,6 +5762,7 @@ INSERT INTO `anilist_chinese` VALUES (131826,'{\"title\":{\"chinese\":\"エロ�
 INSERT INTO `anilist_chinese` VALUES (132055,'{\"title\":{\"chinese\":\"劇場版 歌之王子殿下 真愛 KINGDOM\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (132096,'{\"title\":{\"chinese\":\"小林家的女僕龍 - 迷你龍\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (132126,'{\"title\":{\"chinese\":\"Sonny Boy\"},\"synonyms_chinese\":[\"漂流少年\"]}');
+INSERT INTO `anilist_chinese` VALUES (132203,'{\"title\":{\"chinese\":\"今泉ん家はどうやらギャルの溜まり場になってるらしい\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (132456,'{\"title\":{\"chinese\":\"賈希大人不氣餒！\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (132679,'{\"title\":{\"chinese\":\"IDOLLAND 星光樂園\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (133483,'{\"title\":{\"chinese\":\"アネットさんとリリアナさん THE ANIMATION\"},\"synonyms_chinese\":[]}');
