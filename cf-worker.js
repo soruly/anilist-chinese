@@ -5396,6 +5396,7 @@ const db = new Map([
 [113570,{title:"社長，戰鬥的時間到了！",synonyms:[]}],
 [113585,{title:"Skate-Leading☆Stars",synonyms:["花樣滑冰 Stars"]}],
 [113595,{title:"planetarian ～雪圏球～",synonyms:[]}],
+[113596,{title:"喬瑟與虎與魚群",synonyms:["喬西的虎與魚"]}],
 [113621,{title:"愛聖天使ラブメアリー ～悪性受胎～ THE ANIMATION",synonyms:[]}],
 [113652,{title:"催眠麥克風",synonyms:[]}],
 [113669,{title:"電影多啦A夢：大雄之新恐龍",synonyms:[]}],

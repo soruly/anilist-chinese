@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2021.8.30
+// @version      2.2021.9.3
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -5412,6 +5412,7 @@ var database = [
 {id:113570,title:"社長，戰鬥的時間到了！"},
 {id:113585,title:"Skate-Leading☆Stars"},
 {id:113595,title:"planetarian ～雪圏球～"},
+{id:113596,title:"喬瑟與虎與魚群"},
 {id:113621,title:"愛聖天使ラブメアリー ～悪性受胎～ THE ANIMATION"},
 {id:113652,title:"催眠麥克風"},
 {id:113669,title:"電影多啦A夢：大雄之新恐龍"},

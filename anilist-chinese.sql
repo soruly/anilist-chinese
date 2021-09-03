@@ -5433,6 +5433,7 @@ INSERT INTO `anilist_chinese` VALUES (113538,'{\"title\":{\"chinese\":\"排球�
 INSERT INTO `anilist_chinese` VALUES (113570,'{\"title\":{\"chinese\":\"社長，戰鬥的時間到了！\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (113585,'{\"title\":{\"chinese\":\"Skate-Leading☆Stars\"},\"synonyms_chinese\":[\"花樣滑冰 Stars\"]}');
 INSERT INTO `anilist_chinese` VALUES (113595,'{\"title\":{\"chinese\":\"planetarian ～雪圏球～\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (113596,'{\"title\":{\"chinese\":\"喬瑟與虎與魚群\"},\"synonyms_chinese\":[\"喬西的虎與魚\"]}');
 INSERT INTO `anilist_chinese` VALUES (113621,'{\"title\":{\"chinese\":\"愛聖天使ラブメアリー ～悪性受胎～ THE ANIMATION\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (113652,'{\"title\":{\"chinese\":\"催眠麥克風\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (113669,'{\"title\":{\"chinese\":\"電影多啦A夢：大雄之新恐龍\"},\"synonyms_chinese\":[]}');
