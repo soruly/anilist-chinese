@@ -1882,6 +1882,7 @@ const db = new Map([
 [7088,{title:"最後大魔王",synonyms:[]}],
 [7103,{title:"奇蹟列車~歡迎來到大江戶線~",synonyms:[]}],
 [7110,{title:"少年メイドクーロ君 ~天使の歌~",synonyms:[]}],
+[7112,{title:"銀河鐵道之夜",synonyms:[]}],
 [7135,{title:"劇場版 魔法老師！ ANIME FINAL",synonyms:[]}],
 [7148,{title:"大小姐×執事！",synonyms:["管家後宮學園"]}],
 [7154,{title:"SMノススメ",synonyms:[]}],

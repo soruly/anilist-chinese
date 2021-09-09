@@ -1919,6 +1919,7 @@ INSERT INTO `anilist_chinese` VALUES (7082,'{\"title\":{\"chinese\":\"守護甜�
 INSERT INTO `anilist_chinese` VALUES (7088,'{\"title\":{\"chinese\":\"最後大魔王\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (7103,'{\"title\":{\"chinese\":\"奇蹟列車~歡迎來到大江戶線~\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (7110,'{\"title\":{\"chinese\":\"少年メイドクーロ君 ~天使の歌~\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (7112,'{\"title\":{\"chinese\":\"銀河鐵道之夜\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (7135,'{\"title\":{\"chinese\":\"劇場版 魔法老師！ ANIME FINAL\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (7148,'{\"title\":{\"chinese\":\"大小姐×執事！\"},\"synonyms_chinese\":[\"管家後宮學園\"]}');
 INSERT INTO `anilist_chinese` VALUES (7154,'{\"title\":{\"chinese\":\"SMノススメ\"},\"synonyms_chinese\":[]}');

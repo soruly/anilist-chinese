@@ -1898,6 +1898,7 @@ var database = [
 {id:7088,title:"最後大魔王"},
 {id:7103,title:"奇蹟列車~歡迎來到大江戶線~"},
 {id:7110,title:"少年メイドクーロ君 ~天使の歌~"},
+{id:7112,title:"銀河鐵道之夜"},
 {id:7135,title:"劇場版 魔法老師！ ANIME FINAL"},
 {id:7148,title:"大小姐×執事！"},
 {id:7154,title:"SMノススメ"},
