@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2021.9.3
+// @version      2.2021.9.9
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -5747,6 +5747,7 @@ var database = [
 {id:132679,title:"IDOLLAND 星光樂園"},
 {id:133483,title:"アネットさんとリリアナさん THE ANIMATION"},
 {id:134116,title:"サキュバスアプリ ～学園催眠～"},
+{id:134413,title:"Yuru Camp△ SEASON 2 SP"},
 {id:135108,title:"闇芝居 9"},
 {id:135866,title:"幼女戰記 砂漠的義麵大作戰"},
 {id:136080,title:"魔法紀錄 魔法少女小圓外傳 Final SEASON"},

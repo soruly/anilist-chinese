@@ -5768,6 +5768,7 @@ INSERT INTO `anilist_chinese` VALUES (132456,'{\"title\":{\"chinese\":\"賈希�
 INSERT INTO `anilist_chinese` VALUES (132679,'{\"title\":{\"chinese\":\"IDOLLAND 星光樂園\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (133483,'{\"title\":{\"chinese\":\"アネットさんとリリアナさん THE ANIMATION\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (134116,'{\"title\":{\"chinese\":\"サキュバスアプリ ～学園催眠～\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (134413,'{\"title\":{\"chinese\":\"Yuru Camp△ SEASON 2 SP\"},\"synonyms_chinese\":[\"搖曳露營△ 第二季 SP\"]}');
 INSERT INTO `anilist_chinese` VALUES (135108,'{\"title\":{\"chinese\":\"闇芝居 9\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (135866,'{\"title\":{\"chinese\":\"幼女戰記 砂漠的義麵大作戰\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (136080,'{\"title\":{\"chinese\":\"魔法紀錄 魔法少女小圓外傳 Final SEASON\"},\"synonyms_chinese\":[]}');
