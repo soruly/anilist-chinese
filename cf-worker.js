@@ -5529,6 +5529,7 @@ const db = new Map([
 [117448,{title:"異世界魔王與召喚少女的奴隸魔術Ω",synonyms:[]}],
 [117496,{title:"昨日之歌 Extra",synonyms:[]}],
 [117533,{title:"工作細胞 BLACK",synonyms:[]}],
+[117556,{title:"ARIA The CREPUSCOLO",synonyms:[]}],
 [117612,{title:"現實主義勇者的王國重建記",synonyms:[]}],
 [117696,{title:"天地創造設計部",synonyms:[]}],
 [117755,{title:"光之戰記 -ZUERST-",synonyms:[]}],

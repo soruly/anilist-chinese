@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2021.9.10
+// @version      2.2021.9.12
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -5545,6 +5545,7 @@ var database = [
 {id:117448,title:"異世界魔王與召喚少女的奴隸魔術Ω"},
 {id:117496,title:"昨日之歌 Extra"},
 {id:117533,title:"工作細胞 BLACK"},
+{id:117556,title:"ARIA The CREPUSCOLO"},
 {id:117612,title:"現實主義勇者的王國重建記"},
 {id:117696,title:"天地創造設計部"},
 {id:117755,title:"光之戰記 -ZUERST-"},

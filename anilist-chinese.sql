@@ -5566,6 +5566,7 @@ INSERT INTO `anilist_chinese` VALUES (117411,'{\"title\":{\"chinese\":\"下級�
 INSERT INTO `anilist_chinese` VALUES (117448,'{\"title\":{\"chinese\":\"異世界魔王與召喚少女的奴隸魔術Ω\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (117496,'{\"title\":{\"chinese\":\"昨日之歌 Extra\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (117533,'{\"title\":{\"chinese\":\"工作細胞 BLACK\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (117556,'{\"title\":{\"chinese\":\"ARIA The CREPUSCOLO\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (117612,'{\"title\":{\"chinese\":\"現實主義勇者的王國重建記\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (117696,'{\"title\":{\"chinese\":\"天地創造設計部\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (117755,'{\"title\":{\"chinese\":\"光之戰記 -ZUERST-\"},\"synonyms_chinese\":[]}');
