@@ -5189,7 +5189,7 @@ INSERT INTO `anilist_chinese` VALUES (107447,'{\"title\":{\"chinese\":\"星夢�
 INSERT INTO `anilist_chinese` VALUES (107490,'{\"title\":{\"chinese\":\"街角魔族\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (107506,'{\"title\":{\"chinese\":\"弦音－風舞高中弓道部－ OVA\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (107535,'{\"title\":{\"chinese\":\"Aikagi The Animation\"},\"synonyms_chinese\":[]}');
-INSERT INTO `anilist_chinese` VALUES (107625,'{\"title\":{\"chinese\":\"像蘇打般湧上的話語\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (107625,'{\"title\":{\"chinese\":\"像蘇打般湧上的話語\"},\"synonyms_chinese\":[\"言語如蘇打般湧現\",\"言語如汽水般湧現\"]}');
 INSERT INTO `anilist_chinese` VALUES (107651,'{\"title\":{\"chinese\":\"A3! SEASON SPRING ＆ SUMMER\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (107660,'{\"title\":{\"chinese\":\"BEASTARS\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (107663,'{\"title\":{\"chinese\":\"彼方的阿斯特拉\"},\"synonyms_chinese\":[]}');
@@ -5782,6 +5782,7 @@ INSERT INTO `anilist_chinese` VALUES (130997,'{\"title\":{\"chinese\":\"D_CIDE T
 INSERT INTO `anilist_chinese` VALUES (131149,'{\"title\":{\"chinese\":\"寒蟬鳴泣之時 卒\"},\"synonyms_chinese\":[\"暮蟬悲鳴時 卒\",\"暮蟬鳴泣時 卒\",\"暮蟬悲鳴之時 卒\",\"秋蟬鳴泣之時 卒\",\"蟬鳴時分 卒\",\"蟬鳴之時 卒\",\"蜩鳴之時 卒\",\"寒蟬鳴泣時 卒\"]}');
 INSERT INTO `anilist_chinese` VALUES (131150,'{\"title\":{\"chinese\":\"SCARLET NEXUS\"},\"synonyms_chinese\":[\"緋紅結繫\"]}');
 INSERT INTO `anilist_chinese` VALUES (131646,'{\"title\":{\"chinese\":\"瓦尼塔斯的手札\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (131773,'{\"title\":{\"chinese\":\"WONDER EGG PRIORITY SP\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (131826,'{\"title\":{\"chinese\":\"エロゲで全ては解決できる！ THE ANIMATION\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (132055,'{\"title\":{\"chinese\":\"劇場版 歌之王子殿下 真愛 KINGDOM\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (132096,'{\"title\":{\"chinese\":\"小林家的女僕龍 - 迷你龍\"},\"synonyms_chinese\":[]}');
