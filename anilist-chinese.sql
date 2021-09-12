@@ -1922,7 +1922,7 @@ INSERT INTO `anilist_chinese` VALUES (7082,'{\"title\":{\"chinese\":\"守護甜�
 INSERT INTO `anilist_chinese` VALUES (7088,'{\"title\":{\"chinese\":\"最後大魔王\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (7103,'{\"title\":{\"chinese\":\"奇蹟列車~歡迎來到大江戶線~\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (7110,'{\"title\":{\"chinese\":\"少年メイドクーロ君 ~天使の歌~\"},\"synonyms_chinese\":[]}');
-INSERT INTO `anilist_chinese` VALUES (7112,'{\"title\":{\"chinese\":\"銀河鐵道之夜\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (7112,'{\"title\":{\"chinese\":\"銀河鐵道之夜 (2007)\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (7135,'{\"title\":{\"chinese\":\"劇場版 魔法老師！ ANIME FINAL\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (7148,'{\"title\":{\"chinese\":\"大小姐×執事！\"},\"synonyms_chinese\":[\"管家後宮學園\"]}');
 INSERT INTO `anilist_chinese` VALUES (7154,'{\"title\":{\"chinese\":\"SMノススメ\"},\"synonyms_chinese\":[]}');
@@ -4326,6 +4326,7 @@ INSERT INTO `anilist_chinese` VALUES (98045,'{\"title\":{\"chinese\":\"超・少
 INSERT INTO `anilist_chinese` VALUES (98056,'{\"title\":{\"chinese\":\"蒼穹之戰神 THE BEYOND\"},\"synonyms_chinese\":[\"蒼穹的法夫納 THE BEYOND\",\"蒼穹的法夫那 THE BEYOND\",\"蒼穹的法芙娜 THE BEYOND\",\"蒼穹的FAFNER THE BEYOND\",\"蒼穹之巨龍 THE BEYOND\"]}');
 INSERT INTO `anilist_chinese` VALUES (98058,'{\"title\":{\"chinese\":\"自宅警備員\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (98059,'{\"title\":{\"chinese\":\"KiraKira☆光之美少女 A La Mode\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (98060,'{\"title\":{\"chinese\":\"月曜日のたわわ\"},\"synonyms_chinese\":[\"週一的豐饒\",\"週一的碩果\",\"週一桃夭夭\",\"搖搖的週一\",\"星期一的福利\",\"星期一的大咪咪\",\"星期一的豐滿\",\"軟綿綿的星期一\",\"搖曳的星期一\"]}');
 INSERT INTO `anilist_chinese` VALUES (98069,'{\"title\":{\"chinese\":\"怪物彈珠 2\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (98073,'{\"title\":{\"chinese\":\"LOST SONG\"},\"synonyms_chinese\":[\"失落的歌謠\",\"失落之歌\"]}');
 INSERT INTO `anilist_chinese` VALUES (98077,'{\"title\":{\"chinese\":\"DRIVE HEAD 機動救急警察\"},\"synonyms_chinese\":[\"多美卡超級救援DRIVE HEAD機動救急警察\"]}');
