@@ -1532,6 +1532,7 @@ INSERT INTO `anilist_chinese` VALUES (4772,'{\"title\":{\"chinese\":\"ARIA The O
 INSERT INTO `anilist_chinese` VALUES (4774,'{\"title\":{\"chinese\":\"人形使い\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (4775,'{\"title\":{\"chinese\":\"ルナティックナイト\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (4789,'{\"title\":{\"chinese\":\"ef - a tale of melodies\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (4792,'{\"title\":{\"chinese\":\"比卡超的探險隊\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (4799,'{\"title\":{\"chinese\":\"胸キュン!はぁとふるCafe\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (4802,'{\"title\":{\"chinese\":\"河原崎家の一族 THE ANIMATION\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (4803,'{\"title\":{\"chinese\":\"河原崎家の一族2\"},\"synonyms_chinese\":[]}');
@@ -5574,6 +5575,7 @@ INSERT INTO `anilist_chinese` VALUES (116752,'{\"title\":{\"chinese\":\"七大�
 INSERT INTO `anilist_chinese` VALUES (116756,'{\"title\":{\"chinese\":\"Fate／Grand Order - 終局特異點 冠位時間神殿所羅門 -\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (116944,'{\"title\":{\"chinese\":\"WIXOSS DIVA (A) LIVE\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (116946,'{\"title\":{\"chinese\":\"屈辱2 The Animation\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (116962,'{\"title\":{\"chinese\":\"怪物彈珠 電影版 路西法絕望的黎明\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (116968,'{\"title\":{\"chinese\":\"GRANBLUE FANTASY The Animation Season 2 SP\"},\"synonyms_chinese\":[\"碧藍幻想 2 SP\"]}');
 INSERT INTO `anilist_chinese` VALUES (116979,'{\"title\":{\"chinese\":\"星夢學園 on Parade! ONA\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (117002,'{\"title\":{\"chinese\":\"魔法紀錄 魔法少女小圓外傳 第二季\"},\"synonyms_chinese\":[]}');
@@ -5664,6 +5666,7 @@ INSERT INTO `anilist_chinese` VALUES (123360,'{\"title\":{\"chinese\":\"おね�
 INSERT INTO `anilist_chinese` VALUES (123383,'{\"title\":{\"chinese\":\"White Blue ～堕ちる白衣の天使～\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (123474,'{\"title\":{\"chinese\":\"埃及神明們的日常\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (123494,'{\"title\":{\"chinese\":\"再見了，我的克拉默\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (123645,'{\"title\":{\"chinese\":\"再見了，我的克拉默 First Touch\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (123769,'{\"title\":{\"chinese\":\"弩級戰隊 HXEROS OVA\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (123779,'{\"title\":{\"chinese\":\"怪病醫拉姆尼\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (123785,'{\"title\":{\"chinese\":\"Praeter 之傷\"},\"synonyms_chinese\":[]}');
