@@ -2058,6 +2058,7 @@ const db = new Map([
 [9091,{title:"戦乙女スヴィア 特典映像",synonyms:[]}],
 [9107,{title:"寵物小精靈BW",synonyms:["寵物小精靈：超級願望","神奇寶貝超級願望","神奇寶貝BW","神奇寶貝Best wishes"]}],
 [9117,{title:"聖誕之吻SS OVA",synonyms:["甜蜜吻痕 OVA"]}],
+[9120,{title:"惡魔奶爸 撿到大魔王的嬰兒!?",synonyms:["惡魔奶爸 OAD","魔B爸B OAD","魔王奶爸 OAD","魔王的父親 OAD"]}],
 [9127,{title:"絕對可憐CHILDREN OVA",synonyms:["絕對可憐少女 OVA","絕對可憐小孩 OVA","超能少女組 OVA","楚楚可憐超能少女組 OVA"]}],
 [9130,{title:"聖鬥士星矢 The Lost Canvas 冥王神話 2",synonyms:[]}],
 [9135,{title:"劇場版 鋼之鍊金術師 嘆息之丘的聖星",synonyms:[]}],
@@ -2279,6 +2280,7 @@ const db = new Map([
 [10464,{title:"學生會的一己之見 Lv.2",synonyms:["碧陽學園學生會議事錄 Lv.2","學生會的一存 Lv.2"]}],
 [10465,{title:"魔乳秘劍帖",synonyms:[]}],
 [10470,{title:"God Eater Prologue",synonyms:[]}],
+[10479,{title:"惡魔奶爸 快跑！貝爾坊刑警！！",synonyms:["魔B爸B SP","魔王奶爸 SP","魔王的父親 SP"]}],
 [10488,{title:"ショッキングピンク",synonyms:[]}],
 [10490,{title:"BLOOD-C",synonyms:[]}],
 [10491,{title:"寒蟬鳴泣之時 煌",synonyms:["暮蟬悲鳴時 煌","暮蟬鳴泣時 煌","暮蟬悲鳴之時 煌","秋蟬鳴泣之時 煌","蟬鳴時分 煌","蟬鳴之時 煌","蜩鳴之時 煌","寒蟬鳴泣時 煌"]}],
@@ -2533,6 +2535,7 @@ const db = new Map([
 [12997,{title:"プリーズ・レ○プ・ミー!",synonyms:[]}],
 [13019,{title:"アネキの口内解禁日",synonyms:[]}],
 [13057,{title:"ピスはめ！",synonyms:[]}],
+[13067,{title:"惡魔奶爸 貝爾突然新撰組",synonyms:["魔B爸B SP","魔王奶爸 SP","魔王的父親 SP"]}],
 [13115,{title:"薄櫻鬼 黎明錄",synonyms:[]}],
 [13119,{title:"薄櫻鬼 第二章 士魂蒼穹",synonyms:[]}],
 [13125,{title:"來自新世界",synonyms:["自新世界"]}],
@@ -2588,6 +2591,7 @@ const db = new Map([
 [13807,{title:"Corpse Party: Missing Footage",synonyms:[]}],
 [13851,{title:"To LOVE-Ru Darkness OVA",synonyms:["出包王女 OVA","茶煲情緣To LOVEる OVA","戀愛大麻煩 OVA"]}],
 [13855,{title:"女王之刃 叛亂 SP",synonyms:[]}],
+[13859,{title:"加速世界 SP",synonyms:[]}],
 [13863,{title:"Arve Rezzle",synonyms:["動畫未來2013"]}],
 [13917,{title:"STAR☆jewel なつみオブリビオン",synonyms:[]}],
 [13937,{title:"最終痴漢電車NEXT",synonyms:[]}],
@@ -2761,7 +2765,9 @@ const db = new Map([
 [16199,{title:"少女與戰車",synonyms:["女子高生&重戰車","少女&坦克"]}],
 [16201,{title:"惡之華",synonyms:[]}],
 [16241,{title:"召喚惡魔Z",synonyms:["惡魔阿薩謝爾在召喚你Z"]}],
+[16273,{title:"一起一起這裏那裏 OVA",synonyms:[]}],
 [16317,{title:"石田與朝倉",synonyms:["石田和朝倉"]}],
+[16319,{title:"麻子Get You!!",synonyms:["千歲Get You!! OVA"]}],
 [16347,{title:"監獄兔 V",synonyms:[]}],
 [16353,{title:"戀愛研究所",synonyms:["戀愛研究室"]}],
 [16355,{title:"斷裁分離的罪惡之剪",synonyms:["裁斷分離之罪惡剪刀"]}],
@@ -2781,6 +2787,7 @@ const db = new Map([
 [16518,{title:"革神語",synonyms:["革神語 ~ 天啟劍神 ~"]}],
 [16524,{title:"翠星上的加爾岡緹亞",synonyms:["翠星上的加爾岡蒂亞","翠星上的加爾剛蒂亞"]}],
 [16528,{title:"HAL",synonyms:[]}],
+[16532,{title:"惡魔奶爸 貝爾坊偵探推理",synonyms:["魔B爸B SP","魔王奶爸 SP","魔王的父親 SP"]}],
 [16592,{title:"彈丸論破",synonyms:["槍彈辯駁 希望學園與絕望高中生","彈丸論破 希望學園與絕望高中生"]}],
 [16638,{title:"フォルト!!S(サービス)~新たなる恋敵(ライバル)~",synonyms:[]}],
 [16642,{title:"姉恋",synonyms:[]}],
@@ -3306,6 +3313,7 @@ const db = new Map([
 [20852,{title:"鬼父 Rebuild",synonyms:[]}],
 [20853,{title:"ALDNOAH.ZERO",synonyms:["ALDNOAH ZERO"]}],
 [20854,{title:"Baby Steps 2",synonyms:["網球優等生 第二季"]}],
+[20856,{title:"屬性同好會 OAD",synonyms:[]}],
 [20860,{title:"対魔忍ユキカゼ",synonyms:[]}],
 [20861,{title:"鑽石王牌",synonyms:[]}],
 [20862,{title:"Fate/kaleid liner Prisma☆Illya 2wei! OVA",synonyms:[]}],
@@ -5739,7 +5747,8 @@ const db = new Map([
 [135108,{title:"闇芝居 9",synonyms:[]}],
 [135866,{title:"幼女戰記 砂漠的義麵大作戰",synonyms:[]}],
 [136080,{title:"魔法紀錄 魔法少女小圓外傳 Final SEASON",synonyms:[]}],
-[136263,{title:"異世界超能魔術師 OVA",synonyms:[]}]
+[136263,{title:"異世界超能魔術師 OVA",synonyms:[]}],
+[138103,{title:"流汗吧！健身少女 SP",synonyms:["肌肉少女：啞鈴，能舉多少公斤？ SP"]}]
 ]);
 
 async function handleRequest(req) {

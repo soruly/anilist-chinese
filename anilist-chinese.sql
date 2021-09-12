@@ -2095,6 +2095,7 @@ INSERT INTO `anilist_chinese` VALUES (9074,'{\"title\":{\"chinese\":\"荒川爆�
 INSERT INTO `anilist_chinese` VALUES (9091,'{\"title\":{\"chinese\":\"戦乙女スヴィア 特典映像\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (9107,'{\"title\":{\"chinese\":\"寵物小精靈BW\"},\"synonyms_chinese\":[\"寵物小精靈：超級願望\",\"神奇寶貝超級願望\",\"神奇寶貝BW\",\"神奇寶貝Best wishes\"]}');
 INSERT INTO `anilist_chinese` VALUES (9117,'{\"title\":{\"chinese\":\"聖誕之吻SS OVA\"},\"synonyms_chinese\":[\"甜蜜吻痕 OVA\"]}');
+INSERT INTO `anilist_chinese` VALUES (9120,'{\"title\":{\"chinese\":\"惡魔奶爸 撿到大魔王的嬰兒!?\"},\"synonyms_chinese\":[\"惡魔奶爸 OAD\",\"魔B爸B OAD\",\"魔王奶爸 OAD\",\"魔王的父親 OAD\"]}');
 INSERT INTO `anilist_chinese` VALUES (9127,'{\"title\":{\"chinese\":\"絕對可憐CHILDREN OVA\"},\"synonyms_chinese\":[\"絕對可憐少女 OVA\",\"絕對可憐小孩 OVA\",\"超能少女組 OVA\",\"楚楚可憐超能少女組 OVA\"]}');
 INSERT INTO `anilist_chinese` VALUES (9130,'{\"title\":{\"chinese\":\"聖鬥士星矢 The Lost Canvas 冥王神話 2\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (9135,'{\"title\":{\"chinese\":\"劇場版 鋼之鍊金術師 嘆息之丘的聖星\"},\"synonyms_chinese\":[]}');
@@ -2316,6 +2317,7 @@ INSERT INTO `anilist_chinese` VALUES (10460,'{\"title\":{\"chinese\":\"少年同
 INSERT INTO `anilist_chinese` VALUES (10464,'{\"title\":{\"chinese\":\"學生會的一己之見 Lv.2\"},\"synonyms_chinese\":[\"碧陽學園學生會議事錄 Lv.2\",\"學生會的一存 Lv.2\"]}');
 INSERT INTO `anilist_chinese` VALUES (10465,'{\"title\":{\"chinese\":\"魔乳秘劍帖\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (10470,'{\"title\":{\"chinese\":\"God Eater Prologue\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (10479,'{\"title\":{\"chinese\":\"惡魔奶爸 快跑！貝爾坊刑警！！\"},\"synonyms_chinese\":[\"魔B爸B SP\",\"魔王奶爸 SP\",\"魔王的父親 SP\"]}');
 INSERT INTO `anilist_chinese` VALUES (10488,'{\"title\":{\"chinese\":\"ショッキングピンク\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (10490,'{\"title\":{\"chinese\":\"BLOOD-C\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (10491,'{\"title\":{\"chinese\":\"寒蟬鳴泣之時 煌\"},\"synonyms_chinese\":[\"暮蟬悲鳴時 煌\",\"暮蟬鳴泣時 煌\",\"暮蟬悲鳴之時 煌\",\"秋蟬鳴泣之時 煌\",\"蟬鳴時分 煌\",\"蟬鳴之時 煌\",\"蜩鳴之時 煌\",\"寒蟬鳴泣時 煌\"]}');
@@ -2570,6 +2572,7 @@ INSERT INTO `anilist_chinese` VALUES (12995,'{\"title\":{\"chinese\":\"Dark Blue
 INSERT INTO `anilist_chinese` VALUES (12997,'{\"title\":{\"chinese\":\"プリーズ・レ○プ・ミー!\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (13019,'{\"title\":{\"chinese\":\"アネキの口内解禁日\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (13057,'{\"title\":{\"chinese\":\"ピスはめ！\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (13067,'{\"title\":{\"chinese\":\"惡魔奶爸 貝爾突然新撰組\"},\"synonyms_chinese\":[\"魔B爸B SP\",\"魔王奶爸 SP\",\"魔王的父親 SP\"]}');
 INSERT INTO `anilist_chinese` VALUES (13115,'{\"title\":{\"chinese\":\"薄櫻鬼 黎明錄\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (13119,'{\"title\":{\"chinese\":\"薄櫻鬼 第二章 士魂蒼穹\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (13125,'{\"title\":{\"chinese\":\"來自新世界\"},\"synonyms_chinese\":[\"自新世界\"]}');
@@ -2625,6 +2628,7 @@ INSERT INTO `anilist_chinese` VALUES (13785,'{\"title\":{\"chinese\":\"雨芳恋
 INSERT INTO `anilist_chinese` VALUES (13807,'{\"title\":{\"chinese\":\"Corpse Party: Missing Footage\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (13851,'{\"title\":{\"chinese\":\"To LOVE-Ru Darkness OVA\"},\"synonyms_chinese\":[\"出包王女 OVA\",\"茶煲情緣To LOVEる OVA\",\"戀愛大麻煩 OVA\"]}');
 INSERT INTO `anilist_chinese` VALUES (13855,'{\"title\":{\"chinese\":\"女王之刃 叛亂 SP\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (13859,'{\"title\":{\"chinese\":\"加速世界 SP\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (13863,'{\"title\":{\"chinese\":\"Arve Rezzle\"},\"synonyms_chinese\":[\"動畫未來2013\"]}');
 INSERT INTO `anilist_chinese` VALUES (13917,'{\"title\":{\"chinese\":\"STAR☆jewel なつみオブリビオン\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (13937,'{\"title\":{\"chinese\":\"最終痴漢電車NEXT\"},\"synonyms_chinese\":[]}');
@@ -2798,7 +2802,9 @@ INSERT INTO `anilist_chinese` VALUES (16189,'{\"title\":{\"chinese\":\"未亡人
 INSERT INTO `anilist_chinese` VALUES (16199,'{\"title\":{\"chinese\":\"少女與戰車\"},\"synonyms_chinese\":[\"女子高生&重戰車\",\"少女&坦克\"]}');
 INSERT INTO `anilist_chinese` VALUES (16201,'{\"title\":{\"chinese\":\"惡之華\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (16241,'{\"title\":{\"chinese\":\"召喚惡魔Z\"},\"synonyms_chinese\":[\"惡魔阿薩謝爾在召喚你Z\"]}');
+INSERT INTO `anilist_chinese` VALUES (16273,'{\"title\":{\"chinese\":\"一起一起這裏那裏 OVA\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (16317,'{\"title\":{\"chinese\":\"石田與朝倉\"},\"synonyms_chinese\":[\"石田和朝倉\"]}');
+INSERT INTO `anilist_chinese` VALUES (16319,'{\"title\":{\"chinese\":\"麻子Get You!!\"},\"synonyms_chinese\":[\"千歲Get You!! OVA\"]}');
 INSERT INTO `anilist_chinese` VALUES (16347,'{\"title\":{\"chinese\":\"監獄兔 V\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (16353,'{\"title\":{\"chinese\":\"戀愛研究所\"},\"synonyms_chinese\":[\"戀愛研究室\"]}');
 INSERT INTO `anilist_chinese` VALUES (16355,'{\"title\":{\"chinese\":\"斷裁分離的罪惡之剪\"},\"synonyms_chinese\":[\"裁斷分離之罪惡剪刀\"]}');
@@ -2818,6 +2824,7 @@ INSERT INTO `anilist_chinese` VALUES (16512,'{\"title\":{\"chinese\":\"惡魔倖
 INSERT INTO `anilist_chinese` VALUES (16518,'{\"title\":{\"chinese\":\"革神語\"},\"synonyms_chinese\":[\"革神語 ~ 天啟劍神 ~\"]}');
 INSERT INTO `anilist_chinese` VALUES (16524,'{\"title\":{\"chinese\":\"翠星上的加爾岡緹亞\"},\"synonyms_chinese\":[\"翠星上的加爾岡蒂亞\",\"翠星上的加爾剛蒂亞\"]}');
 INSERT INTO `anilist_chinese` VALUES (16528,'{\"title\":{\"chinese\":\"HAL\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (16532,'{\"title\":{\"chinese\":\"惡魔奶爸 貝爾坊偵探推理\"},\"synonyms_chinese\":[\"魔B爸B SP\",\"魔王奶爸 SP\",\"魔王的父親 SP\"]}');
 INSERT INTO `anilist_chinese` VALUES (16592,'{\"title\":{\"chinese\":\"彈丸論破\"},\"synonyms_chinese\":[\"槍彈辯駁 希望學園與絕望高中生\",\"彈丸論破 希望學園與絕望高中生\"]}');
 INSERT INTO `anilist_chinese` VALUES (16638,'{\"title\":{\"chinese\":\"フォルト!!S(サービス)~新たなる恋敵(ライバル)~\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (16642,'{\"title\":{\"chinese\":\"姉恋\"},\"synonyms_chinese\":[]}');
@@ -3343,6 +3350,7 @@ INSERT INTO `anilist_chinese` VALUES (20851,'{\"title\":{\"chinese\":\"普通女
 INSERT INTO `anilist_chinese` VALUES (20852,'{\"title\":{\"chinese\":\"鬼父 Rebuild\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (20853,'{\"title\":{\"chinese\":\"ALDNOAH.ZERO\"},\"synonyms_chinese\":[\"ALDNOAH ZERO\"]}');
 INSERT INTO `anilist_chinese` VALUES (20854,'{\"title\":{\"chinese\":\"Baby Steps 2\"},\"synonyms_chinese\":[\"網球優等生 第二季\"]}');
+INSERT INTO `anilist_chinese` VALUES (20856,'{\"title\":{\"chinese\":\"屬性同好會 OAD\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (20860,'{\"title\":{\"chinese\":\"対魔忍ユキカゼ\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (20861,'{\"title\":{\"chinese\":\"鑽石王牌\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (20862,'{\"title\":{\"chinese\":\"Fate/kaleid liner Prisma☆Illya 2wei! OVA\"},\"synonyms_chinese\":[]}');
@@ -5777,6 +5785,7 @@ INSERT INTO `anilist_chinese` VALUES (135108,'{\"title\":{\"chinese\":\"闇芝�
 INSERT INTO `anilist_chinese` VALUES (135866,'{\"title\":{\"chinese\":\"幼女戰記 砂漠的義麵大作戰\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (136080,'{\"title\":{\"chinese\":\"魔法紀錄 魔法少女小圓外傳 Final SEASON\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (136263,'{\"title\":{\"chinese\":\"異世界超能魔術師 OVA\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (138103,'{\"title\":{\"chinese\":\"流汗吧！健身少女 SP\"},\"synonyms_chinese\":[\"肌肉少女：啞鈴，能舉多少公斤？ SP\"]}');
 /*!40000 ALTER TABLE `anilist_chinese` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;

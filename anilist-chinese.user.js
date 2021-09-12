@@ -2074,6 +2074,7 @@ var database = [
 {id:9091,title:"戦乙女スヴィア 特典映像"},
 {id:9107,title:"寵物小精靈BW"},
 {id:9117,title:"聖誕之吻SS OVA"},
+{id:9120,title:"惡魔奶爸 撿到大魔王的嬰兒!?"},
 {id:9127,title:"絕對可憐CHILDREN OVA"},
 {id:9130,title:"聖鬥士星矢 The Lost Canvas 冥王神話 2"},
 {id:9135,title:"劇場版 鋼之鍊金術師 嘆息之丘的聖星"},
@@ -2295,6 +2296,7 @@ var database = [
 {id:10464,title:"學生會的一己之見 Lv.2"},
 {id:10465,title:"魔乳秘劍帖"},
 {id:10470,title:"God Eater Prologue"},
+{id:10479,title:"惡魔奶爸 快跑！貝爾坊刑警！！"},
 {id:10488,title:"ショッキングピンク"},
 {id:10490,title:"BLOOD-C"},
 {id:10491,title:"寒蟬鳴泣之時 煌"},
@@ -2549,6 +2551,7 @@ var database = [
 {id:12997,title:"プリーズ・レ○プ・ミー!"},
 {id:13019,title:"アネキの口内解禁日"},
 {id:13057,title:"ピスはめ！"},
+{id:13067,title:"惡魔奶爸 貝爾突然新撰組"},
 {id:13115,title:"薄櫻鬼 黎明錄"},
 {id:13119,title:"薄櫻鬼 第二章 士魂蒼穹"},
 {id:13125,title:"來自新世界"},
@@ -2604,6 +2607,7 @@ var database = [
 {id:13807,title:"Corpse Party: Missing Footage"},
 {id:13851,title:"To LOVE-Ru Darkness OVA"},
 {id:13855,title:"女王之刃 叛亂 SP"},
+{id:13859,title:"加速世界 SP"},
 {id:13863,title:"Arve Rezzle"},
 {id:13917,title:"STAR☆jewel なつみオブリビオン"},
 {id:13937,title:"最終痴漢電車NEXT"},
@@ -2777,7 +2781,9 @@ var database = [
 {id:16199,title:"少女與戰車"},
 {id:16201,title:"惡之華"},
 {id:16241,title:"召喚惡魔Z"},
+{id:16273,title:"一起一起這裏那裏 OVA"},
 {id:16317,title:"石田與朝倉"},
+{id:16319,title:"麻子Get You!!"},
 {id:16347,title:"監獄兔 V"},
 {id:16353,title:"戀愛研究所"},
 {id:16355,title:"斷裁分離的罪惡之剪"},
@@ -2797,6 +2803,7 @@ var database = [
 {id:16518,title:"革神語"},
 {id:16524,title:"翠星上的加爾岡緹亞"},
 {id:16528,title:"HAL"},
+{id:16532,title:"惡魔奶爸 貝爾坊偵探推理"},
 {id:16592,title:"彈丸論破"},
 {id:16638,title:"フォルト!!S(サービス)~新たなる恋敵(ライバル)~"},
 {id:16642,title:"姉恋"},
@@ -3322,6 +3329,7 @@ var database = [
 {id:20852,title:"鬼父 Rebuild"},
 {id:20853,title:"ALDNOAH.ZERO"},
 {id:20854,title:"Baby Steps 2"},
+{id:20856,title:"屬性同好會 OAD"},
 {id:20860,title:"対魔忍ユキカゼ"},
 {id:20861,title:"鑽石王牌"},
 {id:20862,title:"Fate/kaleid liner Prisma☆Illya 2wei! OVA"},
@@ -5755,7 +5763,8 @@ var database = [
 {id:135108,title:"闇芝居 9"},
 {id:135866,title:"幼女戰記 砂漠的義麵大作戰"},
 {id:136080,title:"魔法紀錄 魔法少女小圓外傳 Final SEASON"},
-{id:136263,title:"異世界超能魔術師 OVA"}
+{id:136263,title:"異世界超能魔術師 OVA"},
+{id:138103,title:"流汗吧！健身少女 SP"}
 ];
 
 var updating;
