@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2021.9.12
+// @version      2.2021.9.13
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -645,6 +645,8 @@ var database = [
 {id:1482,title:"驅魔少年"},
 {id:1498,title:"Black Blood Brothers"},
 {id:1499,title:"Mama Mia! 飛龍乱"},
+{id:1502,title:"魔法少女砂沙美"},
+{id:1503,title:"魔法少女砂沙美 SP"},
 {id:1510,title:"妹でいこう!"},
 {id:1511,title:"学園 恥辱の図式"},
 {id:1512,title:"コートの中の天使達"},
@@ -769,6 +771,7 @@ var database = [
 {id:1915,title:"魔法少女奈葉 StrikerS"},
 {id:1916,title:"Gundam MS IGLOO 默示錄0079"},
 {id:1917,title:"Gundam MS IGLOO 1年戰爭秘錄"},
+{id:1918,title:"魔法少女砂沙美 OVA"},
 {id:1929,title:"光之美少女 Max Heart"},
 {id:1930,title:"電影 光之美少女 Max Heart"},
 {id:1931,title:"電影 光之美少女 Max Heart 2 雪空的朋友"},

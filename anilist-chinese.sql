@@ -666,6 +666,8 @@ INSERT INTO `anilist_chinese` VALUES (1479,'{\"title\":{\"chinese\":\"城市獵�
 INSERT INTO `anilist_chinese` VALUES (1482,'{\"title\":{\"chinese\":\"驅魔少年\"},\"synonyms_chinese\":[\"D·格雷少年\"]}');
 INSERT INTO `anilist_chinese` VALUES (1498,'{\"title\":{\"chinese\":\"Black Blood Brothers\"},\"synonyms_chinese\":[\"黑血兄弟\"]}');
 INSERT INTO `anilist_chinese` VALUES (1499,'{\"title\":{\"chinese\":\"Mama Mia! 飛龍乱\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (1502,'{\"title\":{\"chinese\":\"魔法少女砂沙美\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (1503,'{\"title\":{\"chinese\":\"魔法少女砂沙美 SP\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (1510,'{\"title\":{\"chinese\":\"妹でいこう!\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (1511,'{\"title\":{\"chinese\":\"学園 恥辱の図式\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (1512,'{\"title\":{\"chinese\":\"コートの中の天使達\"},\"synonyms_chinese\":[]}');
@@ -790,6 +792,7 @@ INSERT INTO `anilist_chinese` VALUES (1914,'{\"title\":{\"chinese\":\"彩雲國�
 INSERT INTO `anilist_chinese` VALUES (1915,'{\"title\":{\"chinese\":\"魔法少女奈葉 StrikerS\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (1916,'{\"title\":{\"chinese\":\"Gundam MS IGLOO 默示錄0079\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (1917,'{\"title\":{\"chinese\":\"Gundam MS IGLOO 1年戰爭秘錄\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (1918,'{\"title\":{\"chinese\":\"魔法少女砂沙美 OVA\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (1929,'{\"title\":{\"chinese\":\"光之美少女 Max Heart\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (1930,'{\"title\":{\"chinese\":\"電影 光之美少女 Max Heart\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (1931,'{\"title\":{\"chinese\":\"電影 光之美少女 Max Heart 2 雪空的朋友\"},\"synonyms_chinese\":[]}');
