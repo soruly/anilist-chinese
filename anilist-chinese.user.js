@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2021.9.13
+// @version      2.2021.9.21
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -5631,6 +5631,7 @@ var database = [
 {id:121799,title:"水豚君"},
 {id:121962,title:"Cardfight!! Vanguard overDress"},
 {id:122041,title:"科學超電磁砲T SP"},
+{id:122052,title:"海盗公主"},
 {id:122137,title:"試着用土下座來拜託她們吧"},
 {id:122148,title:"燒窯的話也要馬克杯"},
 {id:122199,title:"母ちゃんの友達にシコってるところ見られた。 THE ANIMATION"},
@@ -5736,6 +5737,7 @@ var database = [
 {id:128712,title:"偵探已經，死了。"},
 {id:128740,title:"劇場版 七大罪 被光詛咒的人們"},
 {id:128827,title:"Cardfight!! Vanguard overDress 2"},
+{id:128872,title:"星夢學園 Planet!"},
 {id:128947,title:"從指尖開始的熱情2 戀人是消防員"},
 {id:129115,title:"指導姦 Day after THE ANIMATION"},
 {id:129196,title:"在地下城尋求邂逅是否搞錯了什麼 IV"},
@@ -5784,7 +5786,11 @@ var database = [
 {id:135866,title:"幼女戰記 砂漠的義麵大作戰"},
 {id:136080,title:"魔法紀錄 魔法少女小圓外傳 Final SEASON"},
 {id:136263,title:"異世界超能魔術師 OVA"},
-{id:138103,title:"流汗吧！健身少女 SP"}
+{id:137877,title:"加油吧同期醬"},
+{id:138103,title:"流汗吧！健身少女 SP"},
+{id:138699,title:"Pokemon Evolutions"},
+{id:138714,title:"平家物語"},
+{id:139449,title:"月曜日のたわわ 2"}
 ];
 
 var updating;

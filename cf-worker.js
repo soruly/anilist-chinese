@@ -5615,6 +5615,7 @@ const db = new Map([
 [121799,{title:"水豚君",synonyms:[]}],
 [121962,{title:"Cardfight!! Vanguard overDress",synonyms:[]}],
 [122041,{title:"科學超電磁砲T SP",synonyms:[]}],
+[122052,{title:"海盗公主",synonyms:["Fena: Pirate Princess"]}],
 [122137,{title:"試着用土下座來拜託她們吧",synonyms:["土下座跪求給看"]}],
 [122148,{title:"燒窯的話也要馬克杯",synonyms:[]}],
 [122199,{title:"母ちゃんの友達にシコってるところ見られた。 THE ANIMATION",synonyms:[]}],
@@ -5720,6 +5721,7 @@ const db = new Map([
 [128712,{title:"偵探已經，死了。",synonyms:[]}],
 [128740,{title:"劇場版 七大罪 被光詛咒的人們",synonyms:[]}],
 [128827,{title:"Cardfight!! Vanguard overDress 2",synonyms:[]}],
+[128872,{title:"星夢學園 Planet!",synonyms:["偶像活動 Planet!","偶像學園 Planet!"]}],
 [128947,{title:"從指尖開始的熱情2 戀人是消防員",synonyms:[]}],
 [129115,{title:"指導姦 Day after THE ANIMATION",synonyms:[]}],
 [129196,{title:"在地下城尋求邂逅是否搞錯了什麼 IV",synonyms:[]}],
@@ -5768,7 +5770,11 @@ const db = new Map([
 [135866,{title:"幼女戰記 砂漠的義麵大作戰",synonyms:[]}],
 [136080,{title:"魔法紀錄 魔法少女小圓外傳 Final SEASON",synonyms:[]}],
 [136263,{title:"異世界超能魔術師 OVA",synonyms:[]}],
-[138103,{title:"流汗吧！健身少女 SP",synonyms:["肌肉少女：啞鈴，能舉多少公斤？ SP"]}]
+[137877,{title:"加油吧同期醬",synonyms:[]}],
+[138103,{title:"流汗吧！健身少女 SP",synonyms:["肌肉少女：啞鈴，能舉多少公斤？ SP"]}],
+[138699,{title:"Pokemon Evolutions",synonyms:["寵物小精靈 進化"]}],
+[138714,{title:"平家物語",synonyms:[]}],
+[139449,{title:"月曜日のたわわ 2",synonyms:["週一的豐饒 2","週一的碩果 2","週一桃夭夭 2","搖搖的週一 2","星期一的福利 2","星期一的大咪咪 2","星期一的豐滿 2","軟綿綿的星期一 2","搖曳的星期一 2"]}]
 ]);
 
 async function handleRequest(req) {
