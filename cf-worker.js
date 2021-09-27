@@ -5708,6 +5708,7 @@ const db = new Map([
 [127536,{title:"幼女社長",synonyms:[]}],
 [127688,{title:"魔法科高中的優等生",synonyms:[]}],
 [127690,{title:"天竺鼠車車",synonyms:[]}],
+[127720,{title:"無職轉生～到了異世界就拿出真本事～2",synonyms:[]}],
 [127721,{title:"IDOLiSH7 Third BEAT!",synonyms:[]}],
 [127976,{title:"天官賜福 第二季",synonyms:[]}],
 [128399,{title:"Fairy 蘭丸",synonyms:[]}],

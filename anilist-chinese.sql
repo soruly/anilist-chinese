@@ -5745,6 +5745,7 @@ INSERT INTO `anilist_chinese` VALUES (127399,'{\"title\":{\"chinese\":\"終末�
 INSERT INTO `anilist_chinese` VALUES (127536,'{\"title\":{\"chinese\":\"幼女社長\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (127688,'{\"title\":{\"chinese\":\"魔法科高中的優等生\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (127690,'{\"title\":{\"chinese\":\"天竺鼠車車\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (127720,'{\"title\":{\"chinese\":\"無職轉生～到了異世界就拿出真本事～2\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (127721,'{\"title\":{\"chinese\":\"IDOLiSH7 Third BEAT!\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (127976,'{\"title\":{\"chinese\":\"天官賜福 第二季\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (128399,'{\"title\":{\"chinese\":\"Fairy 蘭丸\"},\"synonyms_chinese\":[]}');

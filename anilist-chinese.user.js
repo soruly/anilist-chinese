@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2021.9.21
+// @version      2.2021.9.27
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -5724,6 +5724,7 @@ var database = [
 {id:127536,title:"幼女社長"},
 {id:127688,title:"魔法科高中的優等生"},
 {id:127690,title:"天竺鼠車車"},
+{id:127720,title:"無職轉生～到了異世界就拿出真本事～2"},
 {id:127721,title:"IDOLiSH7 Third BEAT!"},
 {id:127976,title:"天官賜福 第二季"},
 {id:128399,title:"Fairy 蘭丸"},
