@@ -4890,7 +4890,7 @@ INSERT INTO `anilist_chinese` VALUES (101580,'{\"title\":{\"chinese\":\"深夜! 
 INSERT INTO `anilist_chinese` VALUES (101581,'{\"title\":{\"chinese\":\"搖曳莊的幽奈小姐 OVA\"},\"synonyms_chinese\":[\"湯搖莊的幽奈同學 OVA\"]}');
 INSERT INTO `anilist_chinese` VALUES (101593,'{\"title\":{\"chinese\":\"新妻こよみ THE ANIMATION\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (101594,'{\"title\":{\"chinese\":\"Cardfight!! Vanguard (2018)\"},\"synonyms_chinese\":[]}');
-INSERT INTO `anilist_chinese` VALUES (101595,'{\"title\":{\"chinese\":\"Princess Principal: Crown Handler\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (101595,'{\"title\":{\"chinese\":\"Princess Principal: Crown Handler 第1章\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (101597,'{\"title\":{\"chinese\":\"拾又之國\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (101608,'{\"title\":{\"chinese\":\"Lilitales\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (101609,'{\"title\":{\"chinese\":\"CONCEPTION\"},\"synonyms_chinese\":[\"CONCEPTION 產子救世錄\"]}');
@@ -5819,6 +5819,7 @@ INSERT INTO `anilist_chinese` VALUES (129386,'{\"title\":{\"chinese\":\"Seven Kn
 INSERT INTO `anilist_chinese` VALUES (129549,'{\"title\":{\"chinese\":\"Macross Frontier: 時之迷宮\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (129664,'{\"title\":{\"chinese\":\"擾亂 THE PRINCESS OF SNOW AND BLOOD\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (129750,'{\"title\":{\"chinese\":\"ビッチな淫姉さまぁ\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (129759,'{\"title\":{\"chinese\":\"Princess Principal: Crown Handler 第2章\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (129801,'{\"title\":{\"chinese\":\"變身成黑辣妹之後就和死黨上床了\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (129814,'{\"title\":{\"chinese\":\"BLUE REFLECTION RAY\"},\"synonyms_chinese\":[\"BLUE REFLECTION 澪\"]}');
 INSERT INTO `anilist_chinese` VALUES (129874,'{\"title\":{\"chinese\":\"鬼滅之刃 遊郭編\"},\"synonyms_chinese\":[]}');
@@ -5901,6 +5902,7 @@ INSERT INTO `anilist_chinese` VALUES (136829,'{\"title\":{\"chinese\":\"轉生�
 INSERT INTO `anilist_chinese` VALUES (136947,'{\"title\":{\"chinese\":\"Deep Insanity: THE LOST CHILD\"},\"synonyms_chinese\":[\"狂熱深淵 迷失的孩子\"]}');
 INSERT INTO `anilist_chinese` VALUES (137227,'{\"title\":{\"chinese\":\"Deji Meets Girl\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (137309,'{\"title\":{\"chinese\":\"Digimon Ghost Game\"},\"synonyms_chinese\":[\"數碼寶貝 幽靈遊戲\"]}');
+INSERT INTO `anilist_chinese` VALUES (137612,'{\"title\":{\"chinese\":\"Princess Principal: Crown Handler 第3章\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (137877,'{\"title\":{\"chinese\":\"加油吧同期醬\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (138063,'{\"title\":{\"chinese\":\"ShowTime！唱歌的大姐姐也想做\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (138103,'{\"title\":{\"chinese\":\"流汗吧！健身少女 SP\"},\"synonyms_chinese\":[\"肌肉少女：啞鈴，能舉多少公斤？ SP\"]}');

@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2021.9.27
+// @version      2.2021.10.2
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -4869,7 +4869,7 @@ var database = [
 {id:101581,title:"搖曳莊的幽奈小姐 OVA"},
 {id:101593,title:"新妻こよみ THE ANIMATION"},
 {id:101594,title:"Cardfight!! Vanguard (2018)"},
-{id:101595,title:"Princess Principal: Crown Handler"},
+{id:101595,title:"Princess Principal: Crown Handler 第1章"},
 {id:101597,title:"拾又之國"},
 {id:101608,title:"Lilitales"},
 {id:101609,title:"CONCEPTION"},
@@ -5798,6 +5798,7 @@ var database = [
 {id:129549,title:"Macross Frontier: 時之迷宮"},
 {id:129664,title:"擾亂 THE PRINCESS OF SNOW AND BLOOD"},
 {id:129750,title:"ビッチな淫姉さまぁ"},
+{id:129759,title:"Princess Principal: Crown Handler 第2章"},
 {id:129801,title:"變身成黑辣妹之後就和死黨上床了"},
 {id:129814,title:"BLUE REFLECTION RAY"},
 {id:129874,title:"鬼滅之刃 遊郭編"},
@@ -5880,6 +5881,7 @@ var database = [
 {id:136947,title:"Deep Insanity: THE LOST CHILD"},
 {id:137227,title:"Deji Meets Girl"},
 {id:137309,title:"Digimon Ghost Game"},
+{id:137612,title:"Princess Principal: Crown Handler 第3章"},
 {id:137877,title:"加油吧同期醬"},
 {id:138063,title:"ShowTime！唱歌的大姐姐也想做"},
 {id:138103,title:"流汗吧！健身少女 SP"},
