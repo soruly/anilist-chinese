@@ -5643,7 +5643,7 @@ INSERT INTO `anilist_chinese` VALUES (118167,'{\"title\":{\"chinese\":\"装煌�
 INSERT INTO `anilist_chinese` VALUES (118375,'{\"title\":{\"chinese\":\"只有我能進入的隱藏迷宮\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (118376,'{\"title\":{\"chinese\":\"王之逆襲：意志的繼承者\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (118390,'{\"title\":{\"chinese\":\"神在月的孩子\"},\"synonyms_chinese\":[]}');
-INSERT INTO `anilist_chinese` VALUES (118399,'{\"title\":{\"chinese\":\"半妖的夜叉姬\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (118399,'{\"title\":{\"chinese\":\"半妖的夜叉姬\"},\"synonyms_chinese\":[\"戰國御伽草子\"]}');
 INSERT INTO `anilist_chinese` VALUES (118419,'{\"title\":{\"chinese\":\"成為神的那一天\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (118465,'{\"title\":{\"chinese\":\"終末的後宮\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (118630,'{\"title\":{\"chinese\":\"Duel Masters King\"},\"synonyms_chinese\":[]}');
@@ -5842,7 +5842,7 @@ INSERT INTO `anilist_chinese` VALUES (130558,'{\"title\":{\"chinese\":\"ARIA The
 INSERT INTO `anilist_chinese` VALUES (130653,'{\"title\":{\"chinese\":\"百鬼屋探偵事務所 ～百鬼屋 光の妖怪事件簿～\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (130654,'{\"title\":{\"chinese\":\"家属～母と姉妹の嬌声～\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (130692,'{\"title\":{\"chinese\":\"まこちゃん開発日記\"},\"synonyms_chinese\":[]}');
-INSERT INTO `anilist_chinese` VALUES (130713,'{\"title\":{\"chinese\":\"魔法使的新娘 OVA\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (130713,'{\"title\":{\"chinese\":\"魔法使的新娘 西方少年與青嵐騎士\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (130741,'{\"title\":{\"chinese\":\"Otoppe\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (130777,'{\"title\":{\"chinese\":\"Mewkledreamy Mix!\"},\"synonyms_chinese\":[\"夢夢貓 Mix!\"]}');
 INSERT INTO `anilist_chinese` VALUES (130921,'{\"title\":{\"chinese\":\"S家に嫁いだM嬢の日常\"},\"synonyms_chinese\":[]}');
@@ -5853,7 +5853,7 @@ INSERT INTO `anilist_chinese` VALUES (131019,'{\"title\":{\"chinese\":\"月與�
 INSERT INTO `anilist_chinese` VALUES (131083,'{\"title\":{\"chinese\":\"陰陽眼見子\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (131149,'{\"title\":{\"chinese\":\"寒蟬鳴泣之時 卒\"},\"synonyms_chinese\":[\"暮蟬悲鳴時 卒\",\"暮蟬鳴泣時 卒\",\"暮蟬悲鳴之時 卒\",\"秋蟬鳴泣之時 卒\",\"蟬鳴時分 卒\",\"蟬鳴之時 卒\",\"蜩鳴之時 卒\",\"寒蟬鳴泣時 卒\"]}');
 INSERT INTO `anilist_chinese` VALUES (131150,'{\"title\":{\"chinese\":\"SCARLET NEXUS\"},\"synonyms_chinese\":[\"緋紅結繫\"]}');
-INSERT INTO `anilist_chinese` VALUES (131264,'{\"title\":{\"chinese\":\"半妖的夜叉姬 第二季\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (131264,'{\"title\":{\"chinese\":\"半妖的夜叉姬 第二季\"},\"synonyms_chinese\":[\"戰國御伽草子 第二季\"]}');
 INSERT INTO `anilist_chinese` VALUES (131565,'{\"title\":{\"chinese\":\"takt op.Destiny\"},\"synonyms_chinese\":[\"宿命迴響：命運節拍\"]}');
 INSERT INTO `anilist_chinese` VALUES (131573,'{\"title\":{\"chinese\":\"咒術迴戰 0\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (131584,'{\"title\":{\"chinese\":\"Visual Prison\"},\"synonyms_chinese\":[\"視覺監獄\"]}');
