@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2021.10.3
+// @version      2.2021.10.7
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -5630,6 +5630,7 @@ var database = [
 {id:118743,title:"Fate/kaleid liner Prisma☆Illya Licht 無名少女"},
 {id:118860,title:"サキュバステードライフ THE ANIMATION"},
 {id:118936,title:"全露的金太狼"},
+{id:119042,title:"結城友奈是勇者 哧溜"},
 {id:119113,title:"進擊的巨人〜年代記〜"},
 {id:119123,title:"裝甲娘戰機"},
 {id:119254,title:"彼女がヤツに抱かれたヒ"},

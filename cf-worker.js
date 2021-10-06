@@ -5614,6 +5614,7 @@ const db = new Map([
 [118743,{title:"Fate/kaleid liner Prisma☆Illya Licht 無名少女",synonyms:[]}],
 [118860,{title:"サキュバステードライフ THE ANIMATION",synonyms:[]}],
 [118936,{title:"全露的金太狼",synonyms:[]}],
+[119042,{title:"結城友奈是勇者 哧溜",synonyms:["結城友奈是勇者 啾噜"]}],
 [119113,{title:"進擊的巨人〜年代記〜",synonyms:[]}],
 [119123,{title:"裝甲娘戰機",synonyms:[]}],
 [119254,{title:"彼女がヤツに抱かれたヒ",synonyms:[]}],

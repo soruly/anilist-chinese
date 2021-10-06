@@ -5651,6 +5651,7 @@ INSERT INTO `anilist_chinese` VALUES (118656,'{\"title\":{\"chinese\":\"村又�
 INSERT INTO `anilist_chinese` VALUES (118743,'{\"title\":{\"chinese\":\"Fate/kaleid liner Prisma☆Illya Licht 無名少女\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (118860,'{\"title\":{\"chinese\":\"サキュバステードライフ THE ANIMATION\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (118936,'{\"title\":{\"chinese\":\"全露的金太狼\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (119042,'{\"title\":{\"chinese\":\"結城友奈是勇者 哧溜\"},\"synonyms_chinese\":[\"結城友奈是勇者 啾噜\"]}');
 INSERT INTO `anilist_chinese` VALUES (119113,'{\"title\":{\"chinese\":\"進擊的巨人〜年代記〜\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (119123,'{\"title\":{\"chinese\":\"裝甲娘戰機\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (119254,'{\"title\":{\"chinese\":\"彼女がヤツに抱かれたヒ\"},\"synonyms_chinese\":[]}');
