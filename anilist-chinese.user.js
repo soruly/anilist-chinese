@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2021.10.7
+// @version      2.2021.10.10
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -5884,6 +5884,7 @@ var database = [
 {id:137309,title:"Digimon Ghost Game"},
 {id:137612,title:"Princess Principal: Crown Handler 第3章"},
 {id:137877,title:"加油吧同期醬"},
+{id:138060,title:"Star Wars: Visions"},
 {id:138063,title:"ShowTime！唱歌的大姐姐也想做"},
 {id:138103,title:"流汗吧！健身少女 SP"},
 {id:138383,title:"你與健身拳擊"},

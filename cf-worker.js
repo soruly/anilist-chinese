@@ -5868,6 +5868,7 @@ const db = new Map([
 [137309,{title:"Digimon Ghost Game",synonyms:["數碼寶貝 幽靈遊戲"]}],
 [137612,{title:"Princess Principal: Crown Handler 第3章",synonyms:[]}],
 [137877,{title:"加油吧同期醬",synonyms:[]}],
+[138060,{title:"Star Wars: Visions",synonyms:[]}],
 [138063,{title:"ShowTime！唱歌的大姐姐也想做",synonyms:[]}],
 [138103,{title:"流汗吧！健身少女 SP",synonyms:["肌肉少女：啞鈴，能舉多少公斤？ SP"]}],
 [138383,{title:"你與健身拳擊",synonyms:[]}],

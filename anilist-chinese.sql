@@ -5905,6 +5905,7 @@ INSERT INTO `anilist_chinese` VALUES (137227,'{\"title\":{\"chinese\":\"Deji Mee
 INSERT INTO `anilist_chinese` VALUES (137309,'{\"title\":{\"chinese\":\"Digimon Ghost Game\"},\"synonyms_chinese\":[\"數碼寶貝 幽靈遊戲\"]}');
 INSERT INTO `anilist_chinese` VALUES (137612,'{\"title\":{\"chinese\":\"Princess Principal: Crown Handler 第3章\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (137877,'{\"title\":{\"chinese\":\"加油吧同期醬\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (138060,'{\"title\":{\"chinese\":\"Star Wars: Visions\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (138063,'{\"title\":{\"chinese\":\"ShowTime！唱歌的大姐姐也想做\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (138103,'{\"title\":{\"chinese\":\"流汗吧！健身少女 SP\"},\"synonyms_chinese\":[\"肌肉少女：啞鈴，能舉多少公斤？ SP\"]}');
 INSERT INTO `anilist_chinese` VALUES (138383,'{\"title\":{\"chinese\":\"你與健身拳擊\"},\"synonyms_chinese\":[]}');
