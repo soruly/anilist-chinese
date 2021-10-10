@@ -5885,6 +5885,7 @@ INSERT INTO `anilist_chinese` VALUES (133483,'{\"title\":{\"chinese\":\"アネ�
 INSERT INTO `anilist_chinese` VALUES (133510,'{\"title\":{\"chinese\":\"群馬寶寶\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (133965,'{\"title\":{\"chinese\":\"古見同學是溝通魯蛇。\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (134116,'{\"title\":{\"chinese\":\"サキュバスアプリ ～学園催眠～\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (134288,'{\"title\":{\"chinese\":\"邪娠娼館―淫乱巨乳母娘生贄儀式―\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (134413,'{\"title\":{\"chinese\":\"Yuru Camp△ SEASON 2 SP\"},\"synonyms_chinese\":[\"搖曳露營△ 第二季 SP\"]}');
 INSERT INTO `anilist_chinese` VALUES (134623,'{\"title\":{\"chinese\":\"魯邦三世 PART 6\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (134710,'{\"title\":{\"chinese\":\"Given 內側的存在\"},\"synonyms_chinese\":[]}');
