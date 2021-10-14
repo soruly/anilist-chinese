@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2021.10.10
+// @version      2.2021.10.14
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -5878,7 +5878,9 @@ var database = [
 {id:135939,title:"燒窯的話也要馬克杯 第二季"},
 {id:136080,title:"魔法紀錄 魔法少女小圓外傳 Final SEASON"},
 {id:136119,title:"星光魔法"},
+{id:136190,title:"とろかせおるがずむ THE ANIMATION"},
 {id:136263,title:"異世界超能魔術師 OVA"},
+{id:136270,title:"そしてわたしはセンセイに……"},
 {id:136829,title:"轉生成女性向遊戲只有毀滅END的壞人大小姐 OVA"},
 {id:136947,title:"Deep Insanity: THE LOST CHILD"},
 {id:137227,title:"Deji Meets Girl"},
@@ -5892,6 +5894,7 @@ var database = [
 {id:138699,title:"Pokemon Evolutions"},
 {id:138714,title:"平家物語"},
 {id:138899,title:"攻殼機動隊 SAC_2045 可能持續的戰爭"},
+{id:139304,title:"この会社…なにかおかしい!"},
 {id:139359,title:"劇場版 轉生成女性向遊戲只有毀滅END的壞人大小姐"},
 {id:139386,title:"薄櫻鬼 OVA (2021)"},
 {id:139449,title:"月曜日のたわわ 2"}

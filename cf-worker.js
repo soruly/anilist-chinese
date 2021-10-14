@@ -5862,7 +5862,9 @@ const db = new Map([
 [135939,{title:"燒窯的話也要馬克杯 第二季",synonyms:[]}],
 [136080,{title:"魔法紀錄 魔法少女小圓外傳 Final SEASON",synonyms:[]}],
 [136119,{title:"星光魔法",synonyms:[]}],
+[136190,{title:"とろかせおるがずむ THE ANIMATION",synonyms:[]}],
 [136263,{title:"異世界超能魔術師 OVA",synonyms:[]}],
+[136270,{title:"そしてわたしはセンセイに……",synonyms:[]}],
 [136829,{title:"轉生成女性向遊戲只有毀滅END的壞人大小姐 OVA",synonyms:[]}],
 [136947,{title:"Deep Insanity: THE LOST CHILD",synonyms:["狂熱深淵 迷失的孩子"]}],
 [137227,{title:"Deji Meets Girl",synonyms:[]}],
@@ -5876,6 +5878,7 @@ const db = new Map([
 [138699,{title:"Pokemon Evolutions",synonyms:["寵物小精靈 進化"]}],
 [138714,{title:"平家物語",synonyms:[]}],
 [138899,{title:"攻殼機動隊 SAC_2045 可能持續的戰爭",synonyms:[]}],
+[139304,{title:"この会社…なにかおかしい!",synonyms:[]}],
 [139359,{title:"劇場版 轉生成女性向遊戲只有毀滅END的壞人大小姐",synonyms:[]}],
 [139386,{title:"薄櫻鬼 OVA (2021)",synonyms:[]}],
 [139449,{title:"月曜日のたわわ 2",synonyms:["週一的豐饒 2","週一的碩果 2","週一桃夭夭 2","搖搖的週一 2","星期一的福利 2","星期一的大咪咪 2","星期一的豐滿 2","軟綿綿的星期一 2","搖曳的星期一 2"]}]
