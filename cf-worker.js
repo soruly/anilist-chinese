@@ -2949,6 +2949,7 @@ const db = new Map([
 [18693,{title:"てにおはっ！ ～女の子だってホントはえっちだよ？～",synonyms:[]}],
 [18695,{title:"虜ノ契",synonyms:[]}],
 [18713,{title:"潛行吧！奈亞子 OVA",synonyms:[]}],
+[18745,{title:"花牌情緣 2 OVA",synonyms:[]}],
 [18753,{title:"果然我的青春戀愛喜劇搞錯了。 OVA",synonyms:["我的青春戀愛喜劇果然有問題。 OVA"]}],
 [18767,{title:"BLAZBLUE Alter Memory",synonyms:["蒼翼默示錄Alter Memory"]}],
 [18771,{title:"義風堂堂！！兼續和慶次",synonyms:["義風堂堂 直江兼續"]}],

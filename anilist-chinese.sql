@@ -2986,6 +2986,7 @@ INSERT INTO `anilist_chinese` VALUES (18691,'{\"title\":{\"chinese\":\"女子高
 INSERT INTO `anilist_chinese` VALUES (18693,'{\"title\":{\"chinese\":\"てにおはっ！ ～女の子だってホントはえっちだよ？～\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (18695,'{\"title\":{\"chinese\":\"虜ノ契\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (18713,'{\"title\":{\"chinese\":\"潛行吧！奈亞子 OVA\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (18745,'{\"title\":{\"chinese\":\"花牌情緣 2 OVA\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (18753,'{\"title\":{\"chinese\":\"果然我的青春戀愛喜劇搞錯了。 OVA\"},\"synonyms_chinese\":[\"我的青春戀愛喜劇果然有問題。 OVA\"]}');
 INSERT INTO `anilist_chinese` VALUES (18767,'{\"title\":{\"chinese\":\"BLAZBLUE Alter Memory\"},\"synonyms_chinese\":[\"蒼翼默示錄Alter Memory\"]}');
 INSERT INTO `anilist_chinese` VALUES (18771,'{\"title\":{\"chinese\":\"義風堂堂！！兼續和慶次\"},\"synonyms_chinese\":[\"義風堂堂 直江兼續\"]}');

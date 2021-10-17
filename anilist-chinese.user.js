@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2021.10.17
+// @version      2.2021.10.18
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -2965,6 +2965,7 @@ var database = [
 {id:18693,title:"てにおはっ！ ～女の子だってホントはえっちだよ？～"},
 {id:18695,title:"虜ノ契"},
 {id:18713,title:"潛行吧！奈亞子 OVA"},
+{id:18745,title:"花牌情緣 2 OVA"},
 {id:18753,title:"果然我的青春戀愛喜劇搞錯了。 OVA"},
 {id:18767,title:"BLAZBLUE Alter Memory"},
 {id:18771,title:"義風堂堂！！兼續和慶次"},
