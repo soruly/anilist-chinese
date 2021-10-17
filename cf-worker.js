@@ -4978,6 +4978,8 @@ const db = new Map([
 [103631,{title:"劇場版 Trinity Seven -天空圖書館與真紅魔王-",synonyms:["劇場版 魔道書7使者 -天空圖書館與真紅魔王-","劇場版 七人魔法使 -天空圖書館與真紅魔王-"]}],
 [103632,{title:"轉生成蜘蛛又怎樣！",synonyms:[]}],
 [103638,{title:"歌舞伎町夏洛克",synonyms:[]}],
+[103712,{title:"美少女戰士 Sailor Moon Eternal 2",synonyms:[]}],
+[103713,{title:"美少女戰士 Sailor Moon Eternal 1",synonyms:[]}],
 [103717,{title:"七美德 SP",synonyms:[]}],
 [103735,{title:"格林筆記 The Animation",synonyms:[]}],
 [103740,{title:"劇場版 星光樂園 一起閃耀吧！閃亮亮☆星光LIVE！",synonyms:[]}],

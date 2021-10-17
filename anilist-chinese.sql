@@ -5015,6 +5015,8 @@ INSERT INTO `anilist_chinese` VALUES (103611,'{\"title\":{\"chinese\":\"それ�
 INSERT INTO `anilist_chinese` VALUES (103631,'{\"title\":{\"chinese\":\"劇場版 Trinity Seven -天空圖書館與真紅魔王-\"},\"synonyms_chinese\":[\"劇場版 魔道書7使者 -天空圖書館與真紅魔王-\",\"劇場版 七人魔法使 -天空圖書館與真紅魔王-\"]}');
 INSERT INTO `anilist_chinese` VALUES (103632,'{\"title\":{\"chinese\":\"轉生成蜘蛛又怎樣！\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (103638,'{\"title\":{\"chinese\":\"歌舞伎町夏洛克\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (103712,'{\"title\":{\"chinese\":\"美少女戰士 Sailor Moon Eternal 2\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (103713,'{\"title\":{\"chinese\":\"美少女戰士 Sailor Moon Eternal 1\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (103717,'{\"title\":{\"chinese\":\"七美德 SP\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (103735,'{\"title\":{\"chinese\":\"格林筆記 The Animation\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (103740,'{\"title\":{\"chinese\":\"劇場版 星光樂園 一起閃耀吧！閃亮亮☆星光LIVE！\"},\"synonyms_chinese\":[]}');

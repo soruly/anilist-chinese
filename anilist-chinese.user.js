@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2021.10.14
+// @version      2.2021.10.17
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -4994,6 +4994,8 @@ var database = [
 {id:103631,title:"劇場版 Trinity Seven -天空圖書館與真紅魔王-"},
 {id:103632,title:"轉生成蜘蛛又怎樣！"},
 {id:103638,title:"歌舞伎町夏洛克"},
+{id:103712,title:"美少女戰士 Sailor Moon Eternal 2"},
+{id:103713,title:"美少女戰士 Sailor Moon Eternal 1"},
 {id:103717,title:"七美德 SP"},
 {id:103735,title:"格林筆記 The Animation"},
 {id:103740,title:"劇場版 星光樂園 一起閃耀吧！閃亮亮☆星光LIVE！"},
