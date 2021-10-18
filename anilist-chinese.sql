@@ -5344,6 +5344,7 @@ INSERT INTO `anilist_chinese` VALUES (110229,'{\"title\":{\"chinese\":\"我們�
 INSERT INTO `anilist_chinese` VALUES (110265,'{\"title\":{\"chinese\":\"Persona 5 the Animation A Magical Valentine\'s Day\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (110270,'{\"title\":{\"chinese\":\"異種族風俗娘評鑑指南\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (110277,'{\"title\":{\"chinese\":\"進擊的巨人 The Final Season\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (110287,'{\"title\":{\"chinese\":\"女武神的餐桌\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (110336,'{\"title\":{\"chinese\":\"らぶりー♡\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (110337,'{\"title\":{\"chinese\":\"お兄ちゃん、朝までずっとギュッてして！\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (110347,'{\"title\":{\"chinese\":\"屈辱\"},\"synonyms_chinese\":[]}');
@@ -5666,6 +5667,7 @@ INSERT INTO `anilist_chinese` VALUES (119491,'{\"title\":{\"chinese\":\"王女&�
 INSERT INTO `anilist_chinese` VALUES (119661,'{\"title\":{\"chinese\":\"Re：從零開始的異世界生活 2\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (119675,'{\"title\":{\"chinese\":\"SHAMAN KING (2021)\"},\"synonyms_chinese\":[\"通靈童子 新作\"]}');
 INSERT INTO `anilist_chinese` VALUES (119683,'{\"title\":{\"chinese\":\"EDENS ZERO\"},\"synonyms_chinese\":[\"伊甸星原\"]}');
+INSERT INTO `anilist_chinese` VALUES (119696,'{\"title\":{\"chinese\":\"女武神的餐桌 II\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (119806,'{\"title\":{\"chinese\":\"Thunderbolt Fantasy 東離劍遊紀 3\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (119810,'{\"title\":{\"chinese\":\"解放区 ~痴漢ハーレム\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (119941,'{\"title\":{\"chinese\":\"流浪神差 ARAGOTO OVA\"},\"synonyms_chinese\":[]}');

@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2021.10.18
+// @version      2.2021.10.19
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -5323,6 +5323,7 @@ var database = [
 {id:110265,title:"Persona 5 the Animation A Magical Valentine's Day"},
 {id:110270,title:"異種族風俗娘評鑑指南"},
 {id:110277,title:"進擊的巨人 The Final Season"},
+{id:110287,title:"女武神的餐桌"},
 {id:110336,title:"らぶりー♡"},
 {id:110337,title:"お兄ちゃん、朝までずっとギュッてして！"},
 {id:110347,title:"屈辱"},
@@ -5645,6 +5646,7 @@ var database = [
 {id:119661,title:"Re：從零開始的異世界生活 2"},
 {id:119675,title:"SHAMAN KING (2021)"},
 {id:119683,title:"EDENS ZERO"},
+{id:119696,title:"女武神的餐桌 II"},
 {id:119806,title:"Thunderbolt Fantasy 東離劍遊紀 3"},
 {id:119810,title:"解放区 ~痴漢ハーレム"},
 {id:119941,title:"流浪神差 ARAGOTO OVA"},
