@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2021.10.19
+// @version      2.2021.11.2
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -5881,6 +5881,7 @@ var database = [
 {id:135864,title:"熱帶口紅！光之美少女 劇場版 雪之公主與奇蹟的戒指！"},
 {id:135866,title:"幼女戰記 砂漠的義麵大作戰"},
 {id:135939,title:"燒窯的話也要馬克杯 第二季"},
+{id:136049,title:"千鶴ちゃん開発日記"},
 {id:136080,title:"魔法紀錄 魔法少女小圓外傳 Final SEASON"},
 {id:136119,title:"星光魔法"},
 {id:136190,title:"とろかせおるがずむ THE ANIMATION"},
@@ -5891,6 +5892,7 @@ var database = [
 {id:137227,title:"Deji Meets Girl"},
 {id:137309,title:"Digimon Ghost Game"},
 {id:137612,title:"Princess Principal: Crown Handler 第3章"},
+{id:137799,title:"続・王女&女騎士Wド下品露出～恥辱の見世物奴隷～"},
 {id:137877,title:"加油吧同期醬"},
 {id:138060,title:"Star Wars: Visions"},
 {id:138063,title:"ShowTime！唱歌的大姐姐也想做"},

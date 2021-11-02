@@ -5902,6 +5902,7 @@ INSERT INTO `anilist_chinese` VALUES (135645,'{\"title\":{\"chinese\":\"Gundam B
 INSERT INTO `anilist_chinese` VALUES (135864,'{\"title\":{\"chinese\":\"熱帶口紅！光之美少女 劇場版 雪之公主與奇蹟的戒指！\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (135866,'{\"title\":{\"chinese\":\"幼女戰記 砂漠的義麵大作戰\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (135939,'{\"title\":{\"chinese\":\"燒窯的話也要馬克杯 第二季\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (136049,'{\"title\":{\"chinese\":\"千鶴ちゃん開発日記\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (136080,'{\"title\":{\"chinese\":\"魔法紀錄 魔法少女小圓外傳 Final SEASON\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (136119,'{\"title\":{\"chinese\":\"星光魔法\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (136190,'{\"title\":{\"chinese\":\"とろかせおるがずむ THE ANIMATION\"},\"synonyms_chinese\":[]}');
@@ -5912,6 +5913,7 @@ INSERT INTO `anilist_chinese` VALUES (136947,'{\"title\":{\"chinese\":\"Deep Ins
 INSERT INTO `anilist_chinese` VALUES (137227,'{\"title\":{\"chinese\":\"Deji Meets Girl\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (137309,'{\"title\":{\"chinese\":\"Digimon Ghost Game\"},\"synonyms_chinese\":[\"數碼寶貝 幽靈遊戲\"]}');
 INSERT INTO `anilist_chinese` VALUES (137612,'{\"title\":{\"chinese\":\"Princess Principal: Crown Handler 第3章\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (137799,'{\"title\":{\"chinese\":\"続・王女&女騎士Wド下品露出～恥辱の見世物奴隷～\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (137877,'{\"title\":{\"chinese\":\"加油吧同期醬\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (138060,'{\"title\":{\"chinese\":\"Star Wars: Visions\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (138063,'{\"title\":{\"chinese\":\"ShowTime！唱歌的大姐姐也想做\"},\"synonyms_chinese\":[]}');
