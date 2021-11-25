@@ -5911,6 +5911,7 @@ INSERT INTO `anilist_chinese` VALUES (136270,'{\"title\":{\"chinese\":\"そし�
 INSERT INTO `anilist_chinese` VALUES (136829,'{\"title\":{\"chinese\":\"轉生成女性向遊戲只有毀滅END的壞人大小姐 OVA\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (136947,'{\"title\":{\"chinese\":\"Deep Insanity: THE LOST CHILD\"},\"synonyms_chinese\":[\"狂熱深淵 迷失的孩子\"]}');
 INSERT INTO `anilist_chinese` VALUES (137227,'{\"title\":{\"chinese\":\"Deji Meets Girl\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (137264,'{\"title\":{\"chinese\":\"オナホ教室 ～女子全員妊娠計画～ THE ANIMATION\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (137309,'{\"title\":{\"chinese\":\"Digimon Ghost Game\"},\"synonyms_chinese\":[\"數碼寶貝 幽靈遊戲\"]}');
 INSERT INTO `anilist_chinese` VALUES (137612,'{\"title\":{\"chinese\":\"Princess Principal: Crown Handler 第3章\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (137799,'{\"title\":{\"chinese\":\"続・王女&女騎士Wド下品露出～恥辱の見世物奴隷～\"},\"synonyms_chinese\":[]}');

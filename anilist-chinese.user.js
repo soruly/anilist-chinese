@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2021.11.2
+// @version      2.2021.11.25
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -5890,6 +5890,7 @@ var database = [
 {id:136829,title:"轉生成女性向遊戲只有毀滅END的壞人大小姐 OVA"},
 {id:136947,title:"Deep Insanity: THE LOST CHILD"},
 {id:137227,title:"Deji Meets Girl"},
+{id:137264,title:"オナホ教室 ～女子全員妊娠計画～ THE ANIMATION"},
 {id:137309,title:"Digimon Ghost Game"},
 {id:137612,title:"Princess Principal: Crown Handler 第3章"},
 {id:137799,title:"続・王女&女騎士Wド下品露出～恥辱の見世物奴隷～"},
