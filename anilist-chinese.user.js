@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2021.11.25
+// @version      2.2021.11.30
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -5905,7 +5905,8 @@ var database = [
 {id:139304,title:"この会社…なにかおかしい!"},
 {id:139359,title:"劇場版 轉生成女性向遊戲只有毀滅END的壞人大小姐"},
 {id:139386,title:"薄櫻鬼 OVA (2021)"},
-{id:139449,title:"月曜日のたわわ 2"}
+{id:139449,title:"月曜日のたわわ 2"},
+{id:140788,title:"対魔忍不知火～淫欲の奴隷娼婦～"}
 ];
 
 var updating;
