@@ -387,6 +387,7 @@ var database = [
 {id:689,title:"詩∽片 - 初冬之雙夏"},
 {id:692,title:"同窗會"},
 {id:694,title:"Canvas 2 七彩的素描"},
+{id:704,title:"Kanon 風花"},
 {id:706,title:"Comic Party Revolution"},
 {id:709,title:"星球流浪記"},
 {id:710,title:"REC"},

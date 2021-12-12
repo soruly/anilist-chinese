@@ -371,6 +371,7 @@ const db = new Map([
 [689,{title:"詩∽片 - 初冬之雙夏",synonyms:[]}],
 [692,{title:"同窗會",synonyms:[]}],
 [694,{title:"Canvas 2 七彩的素描",synonyms:["Canvas 2 彩虹色的圖畫"]}],
+[704,{title:"Kanon 風花",synonyms:[]}],
 [706,{title:"Comic Party Revolution",synonyms:["漫畫派對 Revolution","漫畫同人會 Revolution"]}],
 [709,{title:"星球流浪記",synonyms:[]}],
 [710,{title:"REC",synonyms:["甜蜜聲優","Rec愛上配音員"]}],

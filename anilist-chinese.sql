@@ -408,6 +408,7 @@ INSERT INTO `anilist_chinese` VALUES (688,'{\"title\":{\"chinese\":\"詩∽片\"
 INSERT INTO `anilist_chinese` VALUES (689,'{\"title\":{\"chinese\":\"詩∽片 - 初冬之雙夏\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (692,'{\"title\":{\"chinese\":\"同窗會\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (694,'{\"title\":{\"chinese\":\"Canvas 2 七彩的素描\"},\"synonyms_chinese\":[\"Canvas 2 彩虹色的圖畫\"]}');
+INSERT INTO `anilist_chinese` VALUES (704,'{\"title\":{\"chinese\":\"Kanon 風花\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (706,'{\"title\":{\"chinese\":\"Comic Party Revolution\"},\"synonyms_chinese\":[\"漫畫派對 Revolution\",\"漫畫同人會 Revolution\"]}');
 INSERT INTO `anilist_chinese` VALUES (709,'{\"title\":{\"chinese\":\"星球流浪記\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (710,'{\"title\":{\"chinese\":\"REC\"},\"synonyms_chinese\":[\"甜蜜聲優\",\"Rec愛上配音員\"]}');
