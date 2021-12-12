@@ -5922,6 +5922,7 @@ INSERT INTO `anilist_chinese` VALUES (138060,'{\"title\":{\"chinese\":\"Star War
 INSERT INTO `anilist_chinese` VALUES (138063,'{\"title\":{\"chinese\":\"ShowTime！唱歌的大姐姐也想做\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (138103,'{\"title\":{\"chinese\":\"流汗吧！健身少女 SP\"},\"synonyms_chinese\":[\"肌肉少女：啞鈴，能舉多少公斤？ SP\"]}');
 INSERT INTO `anilist_chinese` VALUES (138383,'{\"title\":{\"chinese\":\"你與健身拳擊\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (138411,'{\"title\":{\"chinese\":\"ママホリック～魅惑のママと甘々カンケイ～ THE ANIMATION\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (138658,'{\"title\":{\"chinese\":\"コスプレチェンジ～ピュア系女子大生の危険な性癖～\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (138699,'{\"title\":{\"chinese\":\"Pokemon Evolutions\"},\"synonyms_chinese\":[\"寵物小精靈 進化\"]}');
 INSERT INTO `anilist_chinese` VALUES (138714,'{\"title\":{\"chinese\":\"平家物語\"},\"synonyms_chinese\":[]}');
