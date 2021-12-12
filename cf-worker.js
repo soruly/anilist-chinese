@@ -5883,6 +5883,7 @@ const db = new Map([
 [138063,{title:"ShowTime！唱歌的大姐姐也想做",synonyms:[]}],
 [138103,{title:"流汗吧！健身少女 SP",synonyms:["肌肉少女：啞鈴，能舉多少公斤？ SP"]}],
 [138383,{title:"你與健身拳擊",synonyms:[]}],
+[138658,{title:"コスプレチェンジ～ピュア系女子大生の危険な性癖～",synonyms:[]}],
 [138699,{title:"Pokemon Evolutions",synonyms:["寵物小精靈 進化"]}],
 [138714,{title:"平家物語",synonyms:[]}],
 [138899,{title:"攻殼機動隊 SAC_2045 可能持續的戰爭",synonyms:[]}],

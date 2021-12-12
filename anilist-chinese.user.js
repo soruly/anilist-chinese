@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2021.11.30
+// @version      2.2021.12.12
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -5899,6 +5899,7 @@ var database = [
 {id:138063,title:"ShowTime！唱歌的大姐姐也想做"},
 {id:138103,title:"流汗吧！健身少女 SP"},
 {id:138383,title:"你與健身拳擊"},
+{id:138658,title:"コスプレチェンジ～ピュア系女子大生の危険な性癖～"},
 {id:138699,title:"Pokemon Evolutions"},
 {id:138714,title:"平家物語"},
 {id:138899,title:"攻殼機動隊 SAC_2045 可能持續的戰爭"},
