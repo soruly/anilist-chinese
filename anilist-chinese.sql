@@ -592,6 +592,8 @@ INSERT INTO `anilist_chinese` VALUES (1230,'{\"title\":{\"chinese\":\"Innocent V
 INSERT INTO `anilist_chinese` VALUES (1239,'{\"title\":{\"chinese\":\"Sailor Moon SuperS\"},\"synonyms_chinese\":[\"美少女戰士 SuperS\"]}');
 INSERT INTO `anilist_chinese` VALUES (1247,'{\"title\":{\"chinese\":\"Project BLUE 地球SOS\"},\"synonyms_chinese\":[\"藍色計劃 地球SOS\"]}');
 INSERT INTO `anilist_chinese` VALUES (1250,'{\"title\":{\"chinese\":\"武器種族傳說\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (1251,'{\"title\":{\"chinese\":\"冒險少女娜汀亞\"},\"synonyms_chinese\":[\"冒險少女\",\"海底兩萬哩\",\"冒險少女蘭麗亞\",\"藍寶石之謎\",\"海底兩萬里\",\"不可思議的海之娜蒂亞\",\"藍寶石的秘密\"]}');
+INSERT INTO `anilist_chinese` VALUES (1252,'{\"title\":{\"chinese\":\"冒險少女娜汀亞 劇場版\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (1255,'{\"title\":{\"chinese\":\"聖鬥士星矢 真紅少年傳說\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (1256,'{\"title\":{\"chinese\":\"聖鬥士星矢 邪神艾莉絲\"},\"synonyms_chinese\":[\"聖鬥士星矢 伊莉絲的再生\"]}');
 INSERT INTO `anilist_chinese` VALUES (1258,'{\"title\":{\"chinese\":\"聖鬥士星矢 大神熾熱的戰鬥\"},\"synonyms_chinese\":[\"聖鬥士星矢 眾神的激戰\"]}');
@@ -5828,7 +5830,7 @@ INSERT INTO `anilist_chinese` VALUES (129750,'{\"title\":{\"chinese\":\"ビッ�
 INSERT INTO `anilist_chinese` VALUES (129759,'{\"title\":{\"chinese\":\"Princess Principal: Crown Handler 第2章\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (129801,'{\"title\":{\"chinese\":\"變身成黑辣妹之後就和死黨上床了\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (129814,'{\"title\":{\"chinese\":\"BLUE REFLECTION RAY\"},\"synonyms_chinese\":[\"BLUE REFLECTION 澪\"]}');
-INSERT INTO `anilist_chinese` VALUES (129874,'{\"title\":{\"chinese\":\"鬼滅之刃 遊郭編\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (129874,'{\"title\":{\"chinese\":\"鬼滅之刃 無限列車編 (TV)\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (129898,'{\"title\":{\"chinese\":\"世界頂尖的暗殺者轉生為異世界貴族\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (129973,'{\"title\":{\"chinese\":\"獻身給魔王伊伏洛基亞吧\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (130033,'{\"title\":{\"chinese\":\"蒼穹之戰神 THE BEYOND Part 4\"},\"synonyms_chinese\":[]}');
@@ -5929,6 +5931,7 @@ INSERT INTO `anilist_chinese` VALUES (139359,'{\"title\":{\"chinese\":\"劇場�
 INSERT INTO `anilist_chinese` VALUES (139386,'{\"title\":{\"chinese\":\"薄櫻鬼 OVA (2021)\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (139449,'{\"title\":{\"chinese\":\"月曜日のたわわ 2\"},\"synonyms_chinese\":[\"週一的豐饒 2\",\"週一的碩果 2\",\"週一桃夭夭 2\",\"搖搖的週一 2\",\"星期一的福利 2\",\"星期一的大咪咪 2\",\"星期一的豐滿 2\",\"軟綿綿的星期一 2\",\"搖曳的星期一 2\"]}');
 INSERT INTO `anilist_chinese` VALUES (140788,'{\"title\":{\"chinese\":\"対魔忍不知火～淫欲の奴隷娼婦～\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (142329,'{\"title\":{\"chinese\":\"鬼滅之刃 遊郭編\"},\"synonyms_chinese\":[]}');
 /*!40000 ALTER TABLE `anilist_chinese` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;

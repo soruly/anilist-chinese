@@ -555,6 +555,8 @@ const db = new Map([
 [1239,{title:"Sailor Moon SuperS",synonyms:["美少女戰士 SuperS"]}],
 [1247,{title:"Project BLUE 地球SOS",synonyms:["藍色計劃 地球SOS"]}],
 [1250,{title:"武器種族傳說",synonyms:[]}],
+[1251,{title:"冒險少女娜汀亞",synonyms:["冒險少女","海底兩萬哩","冒險少女蘭麗亞","藍寶石之謎","海底兩萬里","不可思議的海之娜蒂亞","藍寶石的秘密"]}],
+[1252,{title:"冒險少女娜汀亞 劇場版",synonyms:[]}],
 [1255,{title:"聖鬥士星矢 真紅少年傳說",synonyms:[]}],
 [1256,{title:"聖鬥士星矢 邪神艾莉絲",synonyms:["聖鬥士星矢 伊莉絲的再生"]}],
 [1258,{title:"聖鬥士星矢 大神熾熱的戰鬥",synonyms:["聖鬥士星矢 眾神的激戰"]}],
@@ -5791,7 +5793,7 @@ const db = new Map([
 [129759,{title:"Princess Principal: Crown Handler 第2章",synonyms:[]}],
 [129801,{title:"變身成黑辣妹之後就和死黨上床了",synonyms:[]}],
 [129814,{title:"BLUE REFLECTION RAY",synonyms:["BLUE REFLECTION 澪"]}],
-[129874,{title:"鬼滅之刃 遊郭編",synonyms:[]}],
+[129874,{title:"鬼滅之刃 無限列車編 (TV)",synonyms:[]}],
 [129898,{title:"世界頂尖的暗殺者轉生為異世界貴族",synonyms:[]}],
 [129973,{title:"獻身給魔王伊伏洛基亞吧",synonyms:[]}],
 [130033,{title:"蒼穹之戰神 THE BEYOND Part 4",synonyms:[]}],
@@ -5891,7 +5893,8 @@ const db = new Map([
 [139359,{title:"劇場版 轉生成女性向遊戲只有毀滅END的壞人大小姐",synonyms:[]}],
 [139386,{title:"薄櫻鬼 OVA (2021)",synonyms:[]}],
 [139449,{title:"月曜日のたわわ 2",synonyms:["週一的豐饒 2","週一的碩果 2","週一桃夭夭 2","搖搖的週一 2","星期一的福利 2","星期一的大咪咪 2","星期一的豐滿 2","軟綿綿的星期一 2","搖曳的星期一 2"]}],
-[140788,{title:"対魔忍不知火～淫欲の奴隷娼婦～",synonyms:[]}]
+[140788,{title:"対魔忍不知火～淫欲の奴隷娼婦～",synonyms:[]}],
+[142329,{title:"鬼滅之刃 遊郭編",synonyms:[]}]
 ]);
 
 async function handleRequest(req) {

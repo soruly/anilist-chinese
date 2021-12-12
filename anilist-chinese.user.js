@@ -571,6 +571,8 @@ var database = [
 {id:1239,title:"Sailor Moon SuperS"},
 {id:1247,title:"Project BLUE 地球SOS"},
 {id:1250,title:"武器種族傳說"},
+{id:1251,title:"冒險少女娜汀亞"},
+{id:1252,title:"冒險少女娜汀亞 劇場版"},
 {id:1255,title:"聖鬥士星矢 真紅少年傳說"},
 {id:1256,title:"聖鬥士星矢 邪神艾莉絲"},
 {id:1258,title:"聖鬥士星矢 大神熾熱的戰鬥"},
@@ -5807,7 +5809,7 @@ var database = [
 {id:129759,title:"Princess Principal: Crown Handler 第2章"},
 {id:129801,title:"變身成黑辣妹之後就和死黨上床了"},
 {id:129814,title:"BLUE REFLECTION RAY"},
-{id:129874,title:"鬼滅之刃 遊郭編"},
+{id:129874,title:"鬼滅之刃 無限列車編 (TV)"},
 {id:129898,title:"世界頂尖的暗殺者轉生為異世界貴族"},
 {id:129973,title:"獻身給魔王伊伏洛基亞吧"},
 {id:130033,title:"蒼穹之戰神 THE BEYOND Part 4"},
@@ -5907,7 +5909,8 @@ var database = [
 {id:139359,title:"劇場版 轉生成女性向遊戲只有毀滅END的壞人大小姐"},
 {id:139386,title:"薄櫻鬼 OVA (2021)"},
 {id:139449,title:"月曜日のたわわ 2"},
-{id:140788,title:"対魔忍不知火～淫欲の奴隷娼婦～"}
+{id:140788,title:"対魔忍不知火～淫欲の奴隷娼婦～"},
+{id:142329,title:"鬼滅之刃 遊郭編"}
 ];
 
 var updating;
