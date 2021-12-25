@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2021.12.12
+// @version      2.2021.12.25
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -5859,6 +5859,7 @@ var database = [
 {id:132203,title:"今泉ん家はどうやらギャルの溜まり場になってるらしい"},
 {id:132209,title:"黒獣(クロイヌ)II THE ANIMATION"},
 {id:132300,title:"劇場版 Otoppe: Papa Don't Cry"},
+{id:132420,title:"少女與戰車 最終章 第4話"},
 {id:132456,title:"賈希大人不氣餒！"},
 {id:132473,title:"世界盡頭的聖騎士"},
 {id:132525,title:"Build Divide: Code Black"},

@@ -5880,6 +5880,7 @@ INSERT INTO `anilist_chinese` VALUES (132193,'{\"title\":{\"chinese\":\"極道�
 INSERT INTO `anilist_chinese` VALUES (132203,'{\"title\":{\"chinese\":\"今泉ん家はどうやらギャルの溜まり場になってるらしい\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (132209,'{\"title\":{\"chinese\":\"黒獣(クロイヌ)II THE ANIMATION\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (132300,'{\"title\":{\"chinese\":\"劇場版 Otoppe: Papa Don\'t Cry\"},\"synonyms_chinese\":[\"劇場版 OTOPPE 爸爸別哭\"]}');
+INSERT INTO `anilist_chinese` VALUES (132420,'{\"title\":{\"chinese\":\"少女與戰車 最終章 第4話\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (132456,'{\"title\":{\"chinese\":\"賈希大人不氣餒！\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (132473,'{\"title\":{\"chinese\":\"世界盡頭的聖騎士\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (132525,'{\"title\":{\"chinese\":\"Build Divide: Code Black\"},\"synonyms_chinese\":[]}');

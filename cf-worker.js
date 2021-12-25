@@ -5843,6 +5843,7 @@ const db = new Map([
 [132203,{title:"今泉ん家はどうやらギャルの溜まり場になってるらしい",synonyms:[]}],
 [132209,{title:"黒獣(クロイヌ)II THE ANIMATION",synonyms:[]}],
 [132300,{title:"劇場版 Otoppe: Papa Don't Cry",synonyms:["劇場版 OTOPPE 爸爸別哭"]}],
+[132420,{title:"少女與戰車 最終章 第4話",synonyms:[]}],
 [132456,{title:"賈希大人不氣餒！",synonyms:[]}],
 [132473,{title:"世界盡頭的聖騎士",synonyms:[]}],
 [132525,{title:"Build Divide: Code Black",synonyms:[]}],
