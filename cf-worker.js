@@ -5653,6 +5653,7 @@ const db = new Map([
 [120859,{title:"灼熱卡巴迪",synonyms:[]}],
 [120892,{title:"Grisaia Phantom Trigger - The Animation Stargazer",synonyms:[]}],
 [121034,{title:"Date A Bullet Nightmare or Queen",synonyms:["約會大作戰 赤黑新章：紅與白"]}],
+[121532,{title:"コンビニ少女Z",synonyms:[]}],
 [121645,{title:"Eternity 深夜的濡戀頻道",synonyms:[]}],
 [121681,{title:"世界魔女出動！",synonyms:[]}],
 [121797,{title:"大神同學想要被吃掉",synonyms:[]}],
@@ -5859,6 +5860,7 @@ const db = new Map([
 [134116,{title:"サキュバスアプリ ～学園催眠～",synonyms:[]}],
 [134288,{title:"邪娠娼館―淫乱巨乳母娘生贄儀式―",synonyms:[]}],
 [134413,{title:"Yuru Camp△ SEASON 2 SP",synonyms:["搖曳露營△ 第二季 SP"]}],
+[134469,{title:"思春期のお勉強",synonyms:[]}],
 [134623,{title:"魯邦三世 PART 6",synonyms:[]}],
 [134710,{title:"Given 內側的存在",synonyms:[]}],
 [134946,{title:"うさみみボウケンタン～セクハラしながら世界を救え～",synonyms:[]}],
@@ -5886,6 +5888,7 @@ const db = new Map([
 [138060,{title:"Star Wars: Visions",synonyms:[]}],
 [138063,{title:"ShowTime！唱歌的大姐姐也想做",synonyms:[]}],
 [138103,{title:"流汗吧！健身少女 SP",synonyms:["肌肉少女：啞鈴，能舉多少公斤？ SP"]}],
+[138360,{title:"アネハメ 俺の初恋が実姉なわけがない",synonyms:[]}],
 [138383,{title:"你與健身拳擊",synonyms:[]}],
 [138411,{title:"ママホリック～魅惑のママと甘々カンケイ～ THE ANIMATION",synonyms:[]}],
 [138658,{title:"コスプレチェンジ～ピュア系女子大生の危険な性癖～",synonyms:[]}],
@@ -5896,6 +5899,8 @@ const db = new Map([
 [139359,{title:"劇場版 轉生成女性向遊戲只有毀滅END的壞人大小姐",synonyms:[]}],
 [139386,{title:"薄櫻鬼 OVA (2021)",synonyms:[]}],
 [139449,{title:"月曜日のたわわ 2",synonyms:["週一的豐饒 2","週一的碩果 2","週一桃夭夭 2","搖搖的週一 2","星期一的福利 2","星期一的大咪咪 2","星期一的豐滿 2","軟綿綿的星期一 2","搖曳的星期一 2"]}],
+[139637,{title:"がーるずらっしゅ THE ANIMATION",synonyms:[]}],
+[139883,{title:"パパ喝ッ！",synonyms:[]}],
 [140788,{title:"対魔忍不知火～淫欲の奴隷娼婦～",synonyms:[]}],
 [142329,{title:"鬼滅之刃 遊郭編",synonyms:[]}]
 ]);
