@@ -474,6 +474,16 @@
     "synonyms": []
   },
   {
+    "id": 130,
+    "title": "最遊記 RELOAD",
+    "synonyms": []
+  },
+  {
+    "id": 131,
+    "title": "最遊記 RELOAD GUNLOCK",
+    "synonyms": []
+  },
+  {
     "id": 132,
     "title": "閃靈二人組",
     "synonyms": []
@@ -4865,6 +4875,11 @@
   {
     "id": 2140,
     "title": "兄嫁",
+    "synonyms": []
+  },
+  {
+    "id": 2143,
+    "title": "最遊記 RELOAD Burial",
     "synonyms": []
   },
   {
@@ -24328,7 +24343,7 @@
   },
   {
     "id": 87498,
-    "title": "最遊記RELOAD BLAST",
+    "title": "最遊記 RELOAD BLAST",
     "synonyms": []
   },
   {
@@ -28467,6 +28482,11 @@
     "synonyms": []
   },
   {
+    "id": 101705,
+    "title": "地球外少年少女",
+    "synonyms": []
+  },
+  {
     "id": 101743,
     "title": "闇芝居 6",
     "synonyms": [
@@ -28824,7 +28844,7 @@
   },
   {
     "id": 102891,
-    "title": "鹿王",
+    "title": "鹿王 尤娜與約束之旅",
     "synonyms": []
   },
   {
@@ -31403,6 +31423,11 @@
     "synonyms": []
   },
   {
+    "id": 112323,
+    "title": "平凡職業造就世界最強 第二",
+    "synonyms": []
+  },
+  {
     "id": 112324,
     "title": "Strike the Blood 消失的聖槍篇",
     "synonyms": [
@@ -31537,6 +31562,11 @@
   {
     "id": 112716,
     "title": "Muv-Luv Alternative",
+    "synonyms": []
+  },
+  {
+    "id": 112719,
+    "title": "Futsal Boys!!!!!",
     "synonyms": []
   },
   {
@@ -32516,6 +32546,11 @@
     "synonyms": []
   },
   {
+    "id": 117765,
+    "title": "BanG Dream! Poppin' Dream!",
+    "synonyms": []
+  },
+  {
     "id": 117773,
     "title": "琥珀色のハンター THE ANIMATION",
     "synonyms": []
@@ -32623,6 +32658,11 @@
     "synonyms": [
       "結城友奈是勇者 啾噜"
     ]
+  },
+  {
+    "id": 119056,
+    "title": "自稱賢者弟子的賢者",
+    "synonyms": []
   },
   {
     "id": 119113,
@@ -32890,6 +32930,13 @@
     "synonyms": []
   },
   {
+    "id": 122808,
+    "title": "Princess Connect! Re:Dive Season 2",
+    "synonyms": [
+      "超異域公主連結☆Re:Dive 第二季"
+    ]
+  },
+  {
     "id": 122922,
     "title": "Drifters: Special Edition",
     "synonyms": []
@@ -32962,6 +33009,16 @@
   {
     "id": 123899,
     "title": "讓我聽見愛的歌聲",
+    "synonyms": []
+  },
+  {
+    "id": 124032,
+    "title": "銀河英雄傳說 Die Neue These 激突 1",
+    "synonyms": []
+  },
+  {
+    "id": 124060,
+    "title": "薔薇王的葬列",
     "synonyms": []
   },
   {
@@ -33166,6 +33223,11 @@
     "synonyms": []
   },
   {
+    "id": 125682,
+    "title": "CUE!",
+    "synonyms": []
+  },
+  {
     "id": 125838,
     "title": "海岬的迷途之家",
     "synonyms": []
@@ -33223,6 +33285,11 @@
     "synonyms": []
   },
   {
+    "id": 126288,
+    "title": "佐佐木與宮野",
+    "synonyms": []
+  },
+  {
     "id": 126356,
     "title": "天官賜福 特別篇",
     "synonyms": []
@@ -33258,6 +33325,11 @@
     "synonyms": []
   },
   {
+    "id": 126783,
+    "title": "電影多啦A夢：大雄的宇宙小戰爭 2021",
+    "synonyms": []
+  },
+  {
     "id": 126790,
     "title": "SELECTION PROJECT",
     "synonyms": []
@@ -33290,6 +33362,11 @@
   {
     "id": 126905,
     "title": "Tropical-Rouge！光之美少女",
+    "synonyms": []
+  },
+  {
+    "id": 127050,
+    "title": "相愛相殺",
     "synonyms": []
   },
   {
@@ -33360,6 +33437,11 @@
     "synonyms": []
   },
   {
+    "id": 127549,
+    "title": "Slow Loop",
+    "synonyms": []
+  },
+  {
     "id": 127619,
     "title": "衝吧烈子 第4期",
     "synonyms": []
@@ -33390,8 +33472,20 @@
     "synonyms": []
   },
   {
+    "id": 128034,
+    "title": "ORIENT",
+    "synonyms": [
+      "ORIENT 東方少年"
+    ]
+  },
+  {
     "id": 128399,
     "title": "Fairy 蘭丸",
+    "synonyms": []
+  },
+  {
+    "id": 128400,
+    "title": "最遊記 RELOAD ZEROIN",
     "synonyms": []
   },
   {
@@ -33458,6 +33552,11 @@
     "synonyms": []
   },
   {
+    "id": 128828,
+    "title": "少女前綫",
+    "synonyms": []
+  },
+  {
     "id": 128872,
     "title": "星夢學園 Planet!",
     "synonyms": [
@@ -33478,6 +33577,16 @@
   {
     "id": 129115,
     "title": "指導姦 Day after THE ANIMATION",
+    "synonyms": []
+  },
+  {
+    "id": 129190,
+    "title": "天才王子的赤字國家重生術",
+    "synonyms": []
+  },
+  {
+    "id": 129191,
+    "title": "失格紋的最強賢者",
     "synonyms": []
   },
   {
@@ -33570,6 +33679,11 @@
     "synonyms": []
   },
   {
+    "id": 130166,
+    "title": "里亞德錄大地",
+    "synonyms": []
+  },
+  {
     "id": 130389,
     "title": "魔法科高中的劣等生 追憶篇",
     "synonyms": []
@@ -33612,6 +33726,11 @@
   {
     "id": 130558,
     "title": "ARIA The BENEDIZIONE",
+    "synonyms": []
+  },
+  {
+    "id": 130591,
+    "title": "食鏽末世錄",
     "synonyms": []
   },
   {
@@ -33705,6 +33824,11 @@
     ]
   },
   {
+    "id": 131548,
+    "title": "明日同學的水手服",
+    "synonyms": []
+  },
+  {
     "id": 131565,
     "title": "takt op.Destiny",
     "synonyms": [
@@ -33731,6 +33855,11 @@
   {
     "id": 131646,
     "title": "瓦尼塔斯的手札",
+    "synonyms": []
+  },
+  {
+    "id": 131681,
+    "title": "進擊的巨人 The Final Season Part 2",
     "synonyms": []
   },
   {
@@ -33798,6 +33927,11 @@
     "synonyms": [
       "劇場版 OTOPPE 爸爸別哭"
     ]
+  },
+  {
+    "id": 132405,
+    "title": "戀上換裝娃娃",
+    "synonyms": []
   },
   {
     "id": 132420,
@@ -33869,6 +34003,16 @@
   {
     "id": 134116,
     "title": "サキュバスアプリ ～学園催眠～",
+    "synonyms": []
+  },
+  {
+    "id": 134226,
+    "title": "悠悠旅途",
+    "synonyms": []
+  },
+  {
+    "id": 134252,
+    "title": "與成為異世界美少女的大叔一起",
     "synonyms": []
   },
   {
@@ -33961,6 +34105,13 @@
     "synonyms": []
   },
   {
+    "id": 136192,
+    "title": "Fruits Basket: prelude",
+    "synonyms": [
+      "魔法水果籃 -prelude-"
+    ]
+  },
+  {
     "id": 136263,
     "title": "異世界超能魔術師 OVA",
     "synonyms": []
@@ -33968,6 +34119,16 @@
   {
     "id": 136270,
     "title": "そしてわたしはセンセイに……",
+    "synonyms": []
+  },
+  {
+    "id": 136344,
+    "title": "艾梅洛閣下II世事件簿 -魔眼蒐集列車 Grace note- 特別編",
+    "synonyms": []
+  },
+  {
+    "id": 136428,
+    "title": "怪人開發部的黑井津小姐",
     "synonyms": []
   },
   {
@@ -33998,6 +34159,16 @@
     "synonyms": [
       "數碼寶貝 幽靈遊戲"
     ]
+  },
+  {
+    "id": 137312,
+    "title": "秘密內幕-女警的反擊",
+    "synonyms": []
+  },
+  {
+    "id": 137378,
+    "title": "永遠的 831",
+    "synonyms": []
   },
   {
     "id": 137612,
@@ -34037,6 +34208,13 @@
     "synonyms": []
   },
   {
+    "id": 138379,
+    "title": "Blue Thermal",
+    "synonyms": [
+      "藍色熱氣－青凪大學體育會航空社－"
+    ]
+  },
+  {
     "id": 138383,
     "title": "你與健身拳擊",
     "synonyms": []
@@ -34044,6 +34222,11 @@
   {
     "id": 138411,
     "title": "ママホリック～魅惑のママと甘々カンケイ～ THE ANIMATION",
+    "synonyms": []
+  },
+  {
+    "id": 138424,
+    "title": "擅長捉弄人的高木同學 3",
     "synonyms": []
   },
   {
@@ -34099,8 +34282,18 @@
     ]
   },
   {
+    "id": 139588,
+    "title": "",
+    "synonyms": []
+  },
+  {
     "id": 139637,
     "title": "がーるずらっしゅ THE ANIMATION",
+    "synonyms": []
+  },
+  {
+    "id": 139804,
+    "title": "TRIBE NINE",
     "synonyms": []
   },
   {
@@ -34109,8 +34302,37 @@
     "synonyms": []
   },
   {
+    "id": 140502,
+    "title": "Ryman's Club",
+    "synonyms": [
+      "里曼俱樂部"
+    ]
+  },
+  {
+    "id": 140643,
+    "title": "東京 24 區",
+    "synonyms": []
+  },
+  {
     "id": 140788,
     "title": "対魔忍不知火～淫欲の奴隷娼婦～",
+    "synonyms": []
+  },
+  {
+    "id": 141063,
+    "title": "沒辦法開播！",
+    "synonyms": []
+  },
+  {
+    "id": 141907,
+    "title": "Ensemble Stars! -Road to Show!!-",
+    "synonyms": [
+      "偶像夢幻祭 -Road to Show!!-"
+    ]
+  },
+  {
+    "id": 142274,
+    "title": "Ninjala 泡泡糖忍戰",
     "synonyms": []
   },
   {
