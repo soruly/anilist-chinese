@@ -4509,6 +4509,7 @@ INSERT INTO `anilist_chinese` VALUES (98766,'{\"title\":{\"chinese\":\"炎の孕
 INSERT INTO `anilist_chinese` VALUES (98767,'{\"title\":{\"chinese\":\"いちごショコラふれーばー\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (98768,'{\"title\":{\"chinese\":\"妻が温泉でサークル仲間の肉便器になったのですが... Anime Edition\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (98769,'{\"title\":{\"chinese\":\"おいでよ! 水龍敬ランド\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (98776,'{\"title\":{\"chinese\":\"煙囪城的普貝爾\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (98778,'{\"title\":{\"chinese\":\"91Days Special\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (98779,'{\"title\":{\"chinese\":\"劇場版 噥噥日和 Vacation\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (98784,'{\"title\":{\"chinese\":\"薄暮\"},\"synonyms_chinese\":[]}');

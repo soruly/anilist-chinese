@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2021.12.28
+// @version      2.2021.12.31
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -4488,6 +4488,7 @@ var database = [
 {id:98767,title:"いちごショコラふれーばー"},
 {id:98768,title:"妻が温泉でサークル仲間の肉便器になったのですが... Anime Edition"},
 {id:98769,title:"おいでよ! 水龍敬ランド"},
+{id:98776,title:"煙囪城的普貝爾"},
 {id:98778,title:"91Days Special"},
 {id:98779,title:"劇場版 噥噥日和 Vacation"},
 {id:98784,title:"薄暮"},

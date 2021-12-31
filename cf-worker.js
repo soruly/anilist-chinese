@@ -4472,6 +4472,7 @@ const db = new Map([
 [98767,{title:"いちごショコラふれーばー",synonyms:[]}],
 [98768,{title:"妻が温泉でサークル仲間の肉便器になったのですが... Anime Edition",synonyms:[]}],
 [98769,{title:"おいでよ! 水龍敬ランド",synonyms:[]}],
+[98776,{title:"煙囪城的普貝爾",synonyms:[]}],
 [98778,{title:"91Days Special",synonyms:[]}],
 [98779,{title:"劇場版 噥噥日和 Vacation",synonyms:[]}],
 [98784,{title:"薄暮",synonyms:[]}],
