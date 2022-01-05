@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2021.12.31
+// @version      2.2022.1.5
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -5961,6 +5961,7 @@ var database = [
 {id:139883,title:"パパ喝ッ！"},
 {id:140502,title:"Ryman's Club"},
 {id:140643,title:"東京 24 區"},
+{id:140700,title:"空色Utility"},
 {id:140788,title:"対魔忍不知火～淫欲の奴隷娼婦～"},
 {id:141063,title:"沒辦法開播！"},
 {id:141907,title:"Ensemble Stars! -Road to Show!!-"},

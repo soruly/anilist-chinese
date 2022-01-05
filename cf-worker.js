@@ -5945,6 +5945,7 @@ const db = new Map([
 [139883,{title:"パパ喝ッ！",synonyms:[]}],
 [140502,{title:"Ryman's Club",synonyms:["里曼俱樂部"]}],
 [140643,{title:"東京 24 區",synonyms:[]}],
+[140700,{title:"空色Utility",synonyms:["天空色的多功能杆"]}],
 [140788,{title:"対魔忍不知火～淫欲の奴隷娼婦～",synonyms:[]}],
 [141063,{title:"沒辦法開播！",synonyms:[]}],
 [141907,{title:"Ensemble Stars! -Road to Show!!-",synonyms:["偶像夢幻祭 -Road to Show!!-"]}],
