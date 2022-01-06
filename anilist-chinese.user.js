@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2022.1.5
+// @version      2.2022.1.6
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -5927,6 +5927,7 @@ var database = [
 {id:136270,title:"そしてわたしはセンセイに……"},
 {id:136344,title:"艾梅洛閣下II世事件簿 -魔眼蒐集列車 Grace note- 特別編"},
 {id:136428,title:"怪人開發部的黑井津小姐"},
+{id:136512,title:"叫我對大哥 (ONA)"},
 {id:136829,title:"轉生成女性向遊戲只有毀滅END的壞人大小姐 OVA"},
 {id:136947,title:"Deep Insanity: THE LOST CHILD"},
 {id:137227,title:"Deji Meets Girl"},
@@ -5963,6 +5964,7 @@ var database = [
 {id:140643,title:"東京 24 區"},
 {id:140700,title:"空色Utility"},
 {id:140788,title:"対魔忍不知火～淫欲の奴隷娼婦～"},
+{id:140950,title:"Irodori Midori"},
 {id:141063,title:"沒辦法開播！"},
 {id:141907,title:"Ensemble Stars! -Road to Show!!-"},
 {id:142216,title:"女學。II～Lucky Stars～"},
