@@ -5972,7 +5972,8 @@ var database = [
 {id:141907,title:"Ensemble Stars! -Road to Show!!-"},
 {id:142216,title:"女學。II～Lucky Stars～"},
 {id:142274,title:"Ninjala 泡泡糖忍戰"},
-{id:142329,title:"鬼滅之刃 遊郭編"}
+{id:142329,title:"鬼滅之刃 遊郭編"},
+{id:142826,title:"闇芝居 10"}
 ];
 
 var updating;
