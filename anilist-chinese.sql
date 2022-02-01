@@ -5974,6 +5974,7 @@ INSERT INTO `anilist_chinese` VALUES (138714,'{\"title\":{\"chinese\":\"平家�
 INSERT INTO `anilist_chinese` VALUES (138899,'{\"title\":{\"chinese\":\"攻殼機動隊 SAC_2045 可能持續的戰爭\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (139304,'{\"title\":{\"chinese\":\"この会社…なにかおかしい!\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (139359,'{\"title\":{\"chinese\":\"劇場版 轉生成女性向遊戲只有毀滅END的壞人大小姐\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (139375,'{\"title\":{\"chinese\":\"やみつきフェロモン THE ANIMATION\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (139386,'{\"title\":{\"chinese\":\"薄櫻鬼 OVA (2021)\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (139449,'{\"title\":{\"chinese\":\"月曜日のたわわ 2\"},\"synonyms_chinese\":[\"週一的豐饒 2\",\"週一的碩果 2\",\"週一桃夭夭 2\",\"搖搖的週一 2\",\"星期一的福利 2\",\"星期一的大咪咪 2\",\"星期一的豐滿 2\",\"軟綿綿的星期一 2\",\"搖曳的星期一 2\"]}');
 INSERT INTO `anilist_chinese` VALUES (139588,'{\"title\":{\"chinese\":\"\"},\"synonyms_chinese\":[]}');
@@ -5981,10 +5982,12 @@ INSERT INTO `anilist_chinese` VALUES (139637,'{\"title\":{\"chinese\":\"がー�
 INSERT INTO `anilist_chinese` VALUES (139648,'{\"title\":{\"chinese\":\"現實主義勇者的王國重建記 第二部\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (139804,'{\"title\":{\"chinese\":\"TRIBE NINE\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (139883,'{\"title\":{\"chinese\":\"パパ喝ッ！\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (140430,'{\"title\":{\"chinese\":\"巨乳エルフ母娘催眠\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (140502,'{\"title\":{\"chinese\":\"Ryman\'s Club\"},\"synonyms_chinese\":[\"里曼俱樂部\"]}');
 INSERT INTO `anilist_chinese` VALUES (140643,'{\"title\":{\"chinese\":\"東京 24 區\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (140700,'{\"title\":{\"chinese\":\"空色Utility\"},\"synonyms_chinese\":[\"天空色的多功能杆\"]}');
 INSERT INTO `anilist_chinese` VALUES (140788,'{\"title\":{\"chinese\":\"対魔忍不知火～淫欲の奴隷娼婦～\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (140883,'{\"title\":{\"chinese\":\"エロ医師\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (140950,'{\"title\":{\"chinese\":\"Irodori Midori\"},\"synonyms_chinese\":[\"彩綠\"]}');
 INSERT INTO `anilist_chinese` VALUES (141063,'{\"title\":{\"chinese\":\"沒辦法開播！\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (141907,'{\"title\":{\"chinese\":\"Ensemble Stars! -Road to Show!!-\"},\"synonyms_chinese\":[\"偶像夢幻祭 -Road to Show!!-\"]}');

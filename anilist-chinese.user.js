@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2022.1.27
+// @version      2.2022.2.1
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -5953,6 +5953,7 @@ var database = [
 {id:138899,title:"攻殼機動隊 SAC_2045 可能持續的戰爭"},
 {id:139304,title:"この会社…なにかおかしい!"},
 {id:139359,title:"劇場版 轉生成女性向遊戲只有毀滅END的壞人大小姐"},
+{id:139375,title:"やみつきフェロモン THE ANIMATION"},
 {id:139386,title:"薄櫻鬼 OVA (2021)"},
 {id:139449,title:"月曜日のたわわ 2"},
 {id:139588,title:""},
@@ -5960,10 +5961,12 @@ var database = [
 {id:139648,title:"現實主義勇者的王國重建記 第二部"},
 {id:139804,title:"TRIBE NINE"},
 {id:139883,title:"パパ喝ッ！"},
+{id:140430,title:"巨乳エルフ母娘催眠"},
 {id:140502,title:"Ryman's Club"},
 {id:140643,title:"東京 24 區"},
 {id:140700,title:"空色Utility"},
 {id:140788,title:"対魔忍不知火～淫欲の奴隷娼婦～"},
+{id:140883,title:"エロ医師"},
 {id:140950,title:"Irodori Midori"},
 {id:141063,title:"沒辦法開播！"},
 {id:141907,title:"Ensemble Stars! -Road to Show!!-"},
