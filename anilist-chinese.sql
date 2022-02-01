@@ -5991,7 +5991,6 @@ INSERT INTO `anilist_chinese` VALUES (141907,'{\"title\":{\"chinese\":\"Ensemble
 INSERT INTO `anilist_chinese` VALUES (142216,'{\"title\":{\"chinese\":\"女學。II～Lucky Stars～\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (142274,'{\"title\":{\"chinese\":\"Ninjala 泡泡糖忍戰\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (142329,'{\"title\":{\"chinese\":\"鬼滅之刃 遊郭編\"},\"synonyms_chinese\":[]}');
-INSERT INTO `anilist_chinese` VALUES (142826,'{\"title\":{\"chinese\":\"闇芝居 10\"},\"synonyms_chinese\":[]}');
 /*!40000 ALTER TABLE `anilist_chinese` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
