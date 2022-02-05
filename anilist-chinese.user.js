@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2022.2.1
+// @version      2.2022.2.5
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -5962,6 +5962,7 @@ var database = [
 {id:139804,title:"TRIBE NINE"},
 {id:139883,title:"パパ喝ッ！"},
 {id:140430,title:"巨乳エルフ母娘催眠"},
+{id:140431,title:"茜ハ摘マレ染メラレル"},
 {id:140502,title:"Ryman's Club"},
 {id:140643,title:"東京 24 區"},
 {id:140700,title:"空色Utility"},

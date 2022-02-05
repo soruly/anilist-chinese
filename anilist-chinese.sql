@@ -5983,6 +5983,7 @@ INSERT INTO `anilist_chinese` VALUES (139648,'{\"title\":{\"chinese\":\"現實�
 INSERT INTO `anilist_chinese` VALUES (139804,'{\"title\":{\"chinese\":\"TRIBE NINE\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (139883,'{\"title\":{\"chinese\":\"パパ喝ッ！\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (140430,'{\"title\":{\"chinese\":\"巨乳エルフ母娘催眠\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (140431,'{\"title\":{\"chinese\":\"茜ハ摘マレ染メラレル\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (140502,'{\"title\":{\"chinese\":\"Ryman\'s Club\"},\"synonyms_chinese\":[\"里曼俱樂部\"]}');
 INSERT INTO `anilist_chinese` VALUES (140643,'{\"title\":{\"chinese\":\"東京 24 區\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (140700,'{\"title\":{\"chinese\":\"空色Utility\"},\"synonyms_chinese\":[\"天空色的多功能杆\"]}');
