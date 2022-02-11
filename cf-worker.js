@@ -5945,6 +5945,7 @@ const db = new Map([
 [139648,{title:"現實主義勇者的王國重建記 第二部",synonyms:[]}],
 [139804,{title:"TRIBE NINE",synonyms:[]}],
 [139883,{title:"パパ喝ッ！",synonyms:[]}],
+[140320,{title:"ひみつのきち",synonyms:[]}],
 [140430,{title:"巨乳エルフ母娘催眠",synonyms:[]}],
 [140431,{title:"茜ハ摘マレ染メラレル",synonyms:[]}],
 [140502,{title:"Ryman's Club",synonyms:["里曼俱樂部"]}],

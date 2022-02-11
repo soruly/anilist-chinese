@@ -5982,6 +5982,7 @@ INSERT INTO `anilist_chinese` VALUES (139637,'{\"title\":{\"chinese\":\"がー�
 INSERT INTO `anilist_chinese` VALUES (139648,'{\"title\":{\"chinese\":\"現實主義勇者的王國重建記 第二部\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (139804,'{\"title\":{\"chinese\":\"TRIBE NINE\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (139883,'{\"title\":{\"chinese\":\"パパ喝ッ！\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (140320,'{\"title\":{\"chinese\":\"ひみつのきち\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (140430,'{\"title\":{\"chinese\":\"巨乳エルフ母娘催眠\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (140431,'{\"title\":{\"chinese\":\"茜ハ摘マレ染メラレル\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (140502,'{\"title\":{\"chinese\":\"Ryman\'s Club\"},\"synonyms_chinese\":[\"里曼俱樂部\"]}');
