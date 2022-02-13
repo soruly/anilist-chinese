@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2022.2.11
+// @version      2.2022.2.13
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -5972,6 +5972,7 @@ var database = [
 {id:140950,title:"Irodori Midori"},
 {id:141063,title:"沒辦法開播！"},
 {id:141907,title:"Ensemble Stars! -Road to Show!!-"},
+{id:142080,title:"Delicious Party♡Precure"},
 {id:142216,title:"女學。II～Lucky Stars～"},
 {id:142274,title:"Ninjala 泡泡糖忍戰"},
 {id:142329,title:"鬼滅之刃 遊郭編"},

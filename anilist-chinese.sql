@@ -5993,6 +5993,7 @@ INSERT INTO `anilist_chinese` VALUES (140883,'{\"title\":{\"chinese\":\"エロ�
 INSERT INTO `anilist_chinese` VALUES (140950,'{\"title\":{\"chinese\":\"Irodori Midori\"},\"synonyms_chinese\":[\"彩綠\"]}');
 INSERT INTO `anilist_chinese` VALUES (141063,'{\"title\":{\"chinese\":\"沒辦法開播！\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (141907,'{\"title\":{\"chinese\":\"Ensemble Stars! -Road to Show!!-\"},\"synonyms_chinese\":[\"偶像夢幻祭 -Road to Show!!-\"]}');
+INSERT INTO `anilist_chinese` VALUES (142080,'{\"title\":{\"chinese\":\"Delicious Party♡Precure\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (142216,'{\"title\":{\"chinese\":\"女學。II～Lucky Stars～\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (142274,'{\"title\":{\"chinese\":\"Ninjala 泡泡糖忍戰\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (142329,'{\"title\":{\"chinese\":\"鬼滅之刃 遊郭編\"},\"synonyms_chinese\":[]}');

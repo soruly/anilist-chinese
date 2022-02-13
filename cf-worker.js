@@ -5956,6 +5956,7 @@ const db = new Map([
 [140950,{title:"Irodori Midori",synonyms:["彩綠"]}],
 [141063,{title:"沒辦法開播！",synonyms:[]}],
 [141907,{title:"Ensemble Stars! -Road to Show!!-",synonyms:["偶像夢幻祭 -Road to Show!!-"]}],
+[142080,{title:"Delicious Party♡Precure",synonyms:[]}],
 [142216,{title:"女學。II～Lucky Stars～",synonyms:[]}],
 [142274,{title:"Ninjala 泡泡糖忍戰",synonyms:[]}],
 [142329,{title:"鬼滅之刃 遊郭編",synonyms:[]}],
