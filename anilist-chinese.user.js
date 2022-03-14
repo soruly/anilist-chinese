@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2022.2.18
+// @version      2.2022.3.14
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -5950,6 +5950,7 @@ var database = [
 {id:138658,title:"コスプレチェンジ～ピュア系女子大生の危険な性癖～"},
 {id:138699,title:"Pokemon Evolutions"},
 {id:138714,title:"平家物語"},
+{id:138833,title:"Abandon‐100ヌキしないと出られない不思議な教室‐"},
 {id:138899,title:"攻殼機動隊 SAC_2045 可能持續的戰爭"},
 {id:139304,title:"この会社…なにかおかしい!"},
 {id:139359,title:"劇場版 轉生成女性向遊戲只有毀滅END的壞人大小姐"},
@@ -5974,7 +5975,10 @@ var database = [
 {id:141063,title:"沒辦法開播！"},
 {id:141907,title:"Ensemble Stars! -Road to Show!!-"},
 {id:142080,title:"Delicious Party♡Precure"},
+{id:142116,title:"Garden ～高嶺家の二輪花～ The Animation"},
+{id:142117,title:"キミはやさしく寝取られる The Animation"},
 {id:142216,title:"女學。II～Lucky Stars～"},
+{id:142229,title:"エロリーマン"},
 {id:142274,title:"Ninjala 泡泡糖忍戰"},
 {id:142329,title:"鬼滅之刃 遊郭編"},
 {id:142826,title:"闇芝居 10"}

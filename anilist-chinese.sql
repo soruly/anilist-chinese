@@ -5971,6 +5971,7 @@ INSERT INTO `anilist_chinese` VALUES (138424,'{\"title\":{\"chinese\":\"擅長�
 INSERT INTO `anilist_chinese` VALUES (138658,'{\"title\":{\"chinese\":\"コスプレチェンジ～ピュア系女子大生の危険な性癖～\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (138699,'{\"title\":{\"chinese\":\"Pokemon Evolutions\"},\"synonyms_chinese\":[\"寵物小精靈 進化\"]}');
 INSERT INTO `anilist_chinese` VALUES (138714,'{\"title\":{\"chinese\":\"平家物語\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (138833,'{\"title\":{\"chinese\":\"Abandon‐100ヌキしないと出られない不思議な教室‐\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (138899,'{\"title\":{\"chinese\":\"攻殼機動隊 SAC_2045 可能持續的戰爭\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (139304,'{\"title\":{\"chinese\":\"この会社…なにかおかしい!\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (139359,'{\"title\":{\"chinese\":\"劇場版 轉生成女性向遊戲只有毀滅END的壞人大小姐\"},\"synonyms_chinese\":[]}');
@@ -5995,7 +5996,10 @@ INSERT INTO `anilist_chinese` VALUES (140950,'{\"title\":{\"chinese\":\"Irodori 
 INSERT INTO `anilist_chinese` VALUES (141063,'{\"title\":{\"chinese\":\"沒辦法開播！\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (141907,'{\"title\":{\"chinese\":\"Ensemble Stars! -Road to Show!!-\"},\"synonyms_chinese\":[\"偶像夢幻祭 -Road to Show!!-\"]}');
 INSERT INTO `anilist_chinese` VALUES (142080,'{\"title\":{\"chinese\":\"Delicious Party♡Precure\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (142116,'{\"title\":{\"chinese\":\"Garden ～高嶺家の二輪花～ The Animation\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (142117,'{\"title\":{\"chinese\":\"キミはやさしく寝取られる The Animation\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (142216,'{\"title\":{\"chinese\":\"女學。II～Lucky Stars～\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (142229,'{\"title\":{\"chinese\":\"エロリーマン\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (142274,'{\"title\":{\"chinese\":\"Ninjala 泡泡糖忍戰\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (142329,'{\"title\":{\"chinese\":\"鬼滅之刃 遊郭編\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (142826,'{\"title\":{\"chinese\":\"闇芝居 10\"},\"synonyms_chinese\":[]}');

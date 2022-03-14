@@ -5934,6 +5934,7 @@ const db = new Map([
 [138658,{title:"コスプレチェンジ～ピュア系女子大生の危険な性癖～",synonyms:[]}],
 [138699,{title:"Pokemon Evolutions",synonyms:["寵物小精靈 進化"]}],
 [138714,{title:"平家物語",synonyms:[]}],
+[138833,{title:"Abandon‐100ヌキしないと出られない不思議な教室‐",synonyms:[]}],
 [138899,{title:"攻殼機動隊 SAC_2045 可能持續的戰爭",synonyms:[]}],
 [139304,{title:"この会社…なにかおかしい!",synonyms:[]}],
 [139359,{title:"劇場版 轉生成女性向遊戲只有毀滅END的壞人大小姐",synonyms:[]}],
@@ -5958,7 +5959,10 @@ const db = new Map([
 [141063,{title:"沒辦法開播！",synonyms:[]}],
 [141907,{title:"Ensemble Stars! -Road to Show!!-",synonyms:["偶像夢幻祭 -Road to Show!!-"]}],
 [142080,{title:"Delicious Party♡Precure",synonyms:[]}],
+[142116,{title:"Garden ～高嶺家の二輪花～ The Animation",synonyms:[]}],
+[142117,{title:"キミはやさしく寝取られる The Animation",synonyms:[]}],
 [142216,{title:"女學。II～Lucky Stars～",synonyms:[]}],
+[142229,{title:"エロリーマン",synonyms:[]}],
 [142274,{title:"Ninjala 泡泡糖忍戰",synonyms:[]}],
 [142329,{title:"鬼滅之刃 遊郭編",synonyms:[]}],
 [142826,{title:"闇芝居 10",synonyms:[]}]
