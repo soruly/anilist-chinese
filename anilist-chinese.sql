@@ -5948,6 +5948,7 @@ INSERT INTO `anilist_chinese` VALUES (136263,'{\"title\":{\"chinese\":\"異世�
 INSERT INTO `anilist_chinese` VALUES (136270,'{\"title\":{\"chinese\":\"そしてわたしはセンセイに……\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (136344,'{\"title\":{\"chinese\":\"艾梅洛閣下II世事件簿 -魔眼蒐集列車 Grace note- 特別編\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (136428,'{\"title\":{\"chinese\":\"怪人開發部的黑井津小姐\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (136436,'{\"title\":{\"chinese\":\"小林家的女僕龍 S SP\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (136512,'{\"title\":{\"chinese\":\"叫我對大哥 (ONA)\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (136829,'{\"title\":{\"chinese\":\"轉生成女性向遊戲只有毀滅END的壞人大小姐 OVA\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (136947,'{\"title\":{\"chinese\":\"Deep Insanity: THE LOST CHILD\"},\"synonyms_chinese\":[\"狂熱深淵 迷失的孩子\"]}');
@@ -5959,6 +5960,7 @@ INSERT INTO `anilist_chinese` VALUES (137312,'{\"title\":{\"chinese\":\"秘密�
 INSERT INTO `anilist_chinese` VALUES (137378,'{\"title\":{\"chinese\":\"永遠的 831\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (137612,'{\"title\":{\"chinese\":\"Princess Principal: Crown Handler 第3章\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (137799,'{\"title\":{\"chinese\":\"続・王女&女騎士Wド下品露出～恥辱の見世物奴隷～\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (137804,'{\"title\":{\"chinese\":\"小林家的女僕龍 - 迷你龍EX\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (137877,'{\"title\":{\"chinese\":\"加油吧同期醬\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (138060,'{\"title\":{\"chinese\":\"Star Wars: Visions\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (138063,'{\"title\":{\"chinese\":\"ShowTime！唱歌的大姐姐也想做\"},\"synonyms_chinese\":[]}');
@@ -5994,6 +5996,7 @@ INSERT INTO `anilist_chinese` VALUES (140788,'{\"title\":{\"chinese\":\"対魔�
 INSERT INTO `anilist_chinese` VALUES (140883,'{\"title\":{\"chinese\":\"エロ医師\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (140950,'{\"title\":{\"chinese\":\"Irodori Midori\"},\"synonyms_chinese\":[\"彩綠\"]}');
 INSERT INTO `anilist_chinese` VALUES (141063,'{\"title\":{\"chinese\":\"沒辦法開播！\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (141534,'{\"title\":{\"chinese\":\"無職轉生～到了異世界就拿出真本事～2 OVA\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (141907,'{\"title\":{\"chinese\":\"Ensemble Stars! -Road to Show!!-\"},\"synonyms_chinese\":[\"偶像夢幻祭 -Road to Show!!-\"]}');
 INSERT INTO `anilist_chinese` VALUES (142080,'{\"title\":{\"chinese\":\"Delicious Party♡Precure\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (142116,'{\"title\":{\"chinese\":\"Garden ～高嶺家の二輪花～ The Animation\"},\"synonyms_chinese\":[]}');

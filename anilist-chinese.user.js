@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2022.3.14
+// @version      2.2022.3.21
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -5927,6 +5927,7 @@ var database = [
 {id:136270,title:"そしてわたしはセンセイに……"},
 {id:136344,title:"艾梅洛閣下II世事件簿 -魔眼蒐集列車 Grace note- 特別編"},
 {id:136428,title:"怪人開發部的黑井津小姐"},
+{id:136436,title:"小林家的女僕龍 S SP"},
 {id:136512,title:"叫我對大哥 (ONA)"},
 {id:136829,title:"轉生成女性向遊戲只有毀滅END的壞人大小姐 OVA"},
 {id:136947,title:"Deep Insanity: THE LOST CHILD"},
@@ -5938,6 +5939,7 @@ var database = [
 {id:137378,title:"永遠的 831"},
 {id:137612,title:"Princess Principal: Crown Handler 第3章"},
 {id:137799,title:"続・王女&女騎士Wド下品露出～恥辱の見世物奴隷～"},
+{id:137804,title:"小林家的女僕龍 - 迷你龍EX"},
 {id:137877,title:"加油吧同期醬"},
 {id:138060,title:"Star Wars: Visions"},
 {id:138063,title:"ShowTime！唱歌的大姐姐也想做"},
@@ -5973,6 +5975,7 @@ var database = [
 {id:140883,title:"エロ医師"},
 {id:140950,title:"Irodori Midori"},
 {id:141063,title:"沒辦法開播！"},
+{id:141534,title:"無職轉生～到了異世界就拿出真本事～2 OVA"},
 {id:141907,title:"Ensemble Stars! -Road to Show!!-"},
 {id:142080,title:"Delicious Party♡Precure"},
 {id:142116,title:"Garden ～高嶺家の二輪花～ The Animation"},
