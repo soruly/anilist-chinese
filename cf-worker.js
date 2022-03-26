@@ -5822,7 +5822,7 @@ const db = new Map([
 [129898,{title:"世界頂尖的暗殺者轉生為異世界貴族",synonyms:[]}],
 [129973,{title:"獻身給魔王伊伏洛基亞吧",synonyms:[]}],
 [130033,{title:"蒼穹之戰神 THE BEYOND Part 4",synonyms:[]}],
-[130050,{title:"Summer Ghost",synonyms:[]}],
+[130050,{title:"Summer Ghost",synonyms:["夏日幽靈"]}],
 [130058,{title:"ウチの弟マジでデカイんだけど見にこない？",synonyms:[]}],
 [130073,{title:"ネトカノ",synonyms:[]}],
 [130074,{title:"ネトシス",synonyms:[]}],

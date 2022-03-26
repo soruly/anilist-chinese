@@ -5859,7 +5859,7 @@ INSERT INTO `anilist_chinese` VALUES (129874,'{\"title\":{\"chinese\":\"鬼滅�
 INSERT INTO `anilist_chinese` VALUES (129898,'{\"title\":{\"chinese\":\"世界頂尖的暗殺者轉生為異世界貴族\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (129973,'{\"title\":{\"chinese\":\"獻身給魔王伊伏洛基亞吧\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (130033,'{\"title\":{\"chinese\":\"蒼穹之戰神 THE BEYOND Part 4\"},\"synonyms_chinese\":[]}');
-INSERT INTO `anilist_chinese` VALUES (130050,'{\"title\":{\"chinese\":\"Summer Ghost\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (130050,'{\"title\":{\"chinese\":\"Summer Ghost\"},\"synonyms_chinese\":[\"夏日幽靈\"]}');
 INSERT INTO `anilist_chinese` VALUES (130058,'{\"title\":{\"chinese\":\"ウチの弟マジでデカイんだけど見にこない？\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (130073,'{\"title\":{\"chinese\":\"ネトカノ\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (130074,'{\"title\":{\"chinese\":\"ネトシス\"},\"synonyms_chinese\":[]}');
