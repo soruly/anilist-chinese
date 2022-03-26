@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2022.3.21
+// @version      2.2022.3.26
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -1842,6 +1842,7 @@ var database = [
 {id:6527,title:"電影 FRESH光之美少女! 玩具王國有很多秘密？！"},
 {id:6531,title:"きみはぐ"},
 {id:6547,title:"Angel Beats!"},
+{id:6554,title:"川之光"},
 {id:6558,title:"超昂閃忍ハルカ"},
 {id:6572,title:"灼眼的夏娜 S"},
 {id:6573,title:"DARKER THAN BLACK -流星之雙子-"},
@@ -5394,6 +5395,7 @@ var database = [
 {id:111852,title:"Date A Bullet Dead or Bullet"},
 {id:111905,title:"角落小夥伴電影版：魔法繪本裡的新朋友"},
 {id:111931,title:"鬼燈的冷徹 2 OVA"},
+{id:111944,title:"音樂"},
 {id:111951,title:"寶石商人理察的謎鑑定"},
 {id:111965,title:"彼得格里爾的賢者時間"},
 {id:112010,title:"巴加的工作室 ～巴加眼中的海洋～"},
@@ -5573,6 +5575,7 @@ var database = [
 {id:116147,title:"One Room Third Season"},
 {id:116173,title:"戰翼的希格德莉法"},
 {id:116181,title:"セクフレ幼馴染 ~処女と童貞は恥ずかしいってみんなが言うから~ THE ANIMATION"},
+{id:116226,title:"你在他方"},
 {id:116242,title:"我立於百萬生命之上"},
 {id:116246,title:"ARP Backstage Pass Celebrate Good Time"},
 {id:116248,title:"女學。～聖女斯克威爾學院～"},
@@ -5931,6 +5934,7 @@ var database = [
 {id:136512,title:"叫我對大哥 (ONA)"},
 {id:136829,title:"轉生成女性向遊戲只有毀滅END的壞人大小姐 OVA"},
 {id:136947,title:"Deep Insanity: THE LOST CHILD"},
+{id:137075,title:"VOY@GER"},
 {id:137227,title:"Deji Meets Girl"},
 {id:137247,title:"幻想三國誌 天元靈心記"},
 {id:137264,title:"オナホ教室 ～女子全員妊娠計画～ THE ANIMATION"},
