@@ -5766,6 +5766,7 @@ INSERT INTO `anilist_chinese` VALUES (124858,'{\"title\":{\"chinese\":\"憂國�
 INSERT INTO `anilist_chinese` VALUES (125038,'{\"title\":{\"chinese\":\"SHADOWS HOUSE\"},\"synonyms_chinese\":[\"SHADOWS HOUSE-影宅-\"]}');
 INSERT INTO `anilist_chinese` VALUES (125067,'{\"title\":{\"chinese\":\"紫陽花の散ル頃に\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (125068,'{\"title\":{\"chinese\":\"向日葵ハ夜ニ咲ク\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (125124,'{\"title\":{\"chinese\":\"理科生墜入情網，故嘗試證明。第二季\"},\"synonyms_chinese\":[\"理科生墜入情網，故嘗試證明之 第二季\"]}');
 INSERT INTO `anilist_chinese` VALUES (125183,'{\"title\":{\"chinese\":\"実娘（あの子）の代わりに好きなだけ\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (125206,'{\"title\":{\"chinese\":\"月光下的異世界之旅\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (125351,'{\"title\":{\"chinese\":\"意呆利 World Stars\"},\"synonyms_chinese\":[]}');
@@ -6001,6 +6002,7 @@ INSERT INTO `anilist_chinese` VALUES (140883,'{\"title\":{\"chinese\":\"エロ�
 INSERT INTO `anilist_chinese` VALUES (140950,'{\"title\":{\"chinese\":\"Irodori Midori\"},\"synonyms_chinese\":[\"彩綠\"]}');
 INSERT INTO `anilist_chinese` VALUES (141063,'{\"title\":{\"chinese\":\"沒辦法開播！\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (141534,'{\"title\":{\"chinese\":\"無職轉生～到了異世界就拿出真本事～2 OVA\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (141774,'{\"title\":{\"chinese\":\"派對咖孔明\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (141907,'{\"title\":{\"chinese\":\"Ensemble Stars! -Road to Show!!-\"},\"synonyms_chinese\":[\"偶像夢幻祭 -Road to Show!!-\"]}');
 INSERT INTO `anilist_chinese` VALUES (142080,'{\"title\":{\"chinese\":\"Delicious Party♡Precure\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (142116,'{\"title\":{\"chinese\":\"Garden ～高嶺家の二輪花～ The Animation\"},\"synonyms_chinese\":[]}');

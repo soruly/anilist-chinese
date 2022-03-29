@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2022.3.26
+// @version      2.2022.3.29
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -5745,6 +5745,7 @@ var database = [
 {id:125038,title:"SHADOWS HOUSE"},
 {id:125067,title:"紫陽花の散ル頃に"},
 {id:125068,title:"向日葵ハ夜ニ咲ク"},
+{id:125124,title:"理科生墜入情網，故嘗試證明。第二季"},
 {id:125183,title:"実娘（あの子）の代わりに好きなだけ"},
 {id:125206,title:"月光下的異世界之旅"},
 {id:125351,title:"意呆利 World Stars"},
@@ -5980,6 +5981,7 @@ var database = [
 {id:140950,title:"Irodori Midori"},
 {id:141063,title:"沒辦法開播！"},
 {id:141534,title:"無職轉生～到了異世界就拿出真本事～2 OVA"},
+{id:141774,title:"派對咖孔明"},
 {id:141907,title:"Ensemble Stars! -Road to Show!!-"},
 {id:142080,title:"Delicious Party♡Precure"},
 {id:142116,title:"Garden ～高嶺家の二輪花～ The Animation"},
