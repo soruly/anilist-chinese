@@ -5756,7 +5756,7 @@ INSERT INTO `anilist_chinese` VALUES (123785,'{\"title\":{\"chinese\":\"Praeter 
 INSERT INTO `anilist_chinese` VALUES (123802,'{\"title\":{\"chinese\":\"聖女魔力無所不能\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (123803,'{\"title\":{\"chinese\":\"無能力者娜娜\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (123845,'{\"title\":{\"chinese\":\"シコやかなるときもハメるときも\"},\"synonyms_chinese\":[]}');
-INSERT INTO `anilist_chinese` VALUES (123899,'{\"title\":{\"chinese\":\"讓我聽見愛的歌聲\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (123899,'{\"title\":{\"chinese\":\"讓我聽見愛的歌聲\"},\"synonyms_chinese\":[\"讓我聆聽愛的歌聲\"]}');
 INSERT INTO `anilist_chinese` VALUES (124032,'{\"title\":{\"chinese\":\"銀河英雄傳說 Die Neue These 激突 1\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (124060,'{\"title\":{\"chinese\":\"薔薇王的葬列\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (124080,'{\"title\":{\"chinese\":\"堀與宮村\"},\"synonyms_chinese\":[]}');
@@ -6082,7 +6082,7 @@ INSERT INTO `anilist_chinese` VALUES (142329,'{\"title\":{\"chinese\":\"鬼滅�
 INSERT INTO `anilist_chinese` VALUES (142455,'{\"title\":{\"chinese\":\"Bubble\"},\"synonyms_chinese\":[\"泡泡\"]}');
 INSERT INTO `anilist_chinese` VALUES (142549,'{\"title\":{\"chinese\":\"蠟筆小新 怪奇忍者珍風傳\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (142826,'{\"title\":{\"chinese\":\"闇芝居 10\"},\"synonyms_chinese\":[]}');
-INSERT INTO `anilist_chinese` VALUES (142842,'{\"title\":{\"chinese\":\"遊戯王Go Rush!!\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (142842,'{\"title\":{\"chinese\":\"遊戯王 Go Rush!!\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (142984,'{\"title\":{\"chinese\":\"古見同學是溝通魯蛇。2期\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (143080,'{\"title\":{\"chinese\":\"ODD TAXI: In the Woods\"},\"synonyms_chinese\":[\"奇巧計程車 In The Woods\"]}');
 INSERT INTO `anilist_chinese` VALUES (143150,'{\"title\":{\"chinese\":\"Key, etc. Season 2\"},\"synonyms_chinese\":[\"鍵等 第二季\"]}');

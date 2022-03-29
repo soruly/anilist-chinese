@@ -6061,7 +6061,7 @@ var database = [
 {id:142455,title:"Bubble"},
 {id:142549,title:"蠟筆小新 怪奇忍者珍風傳"},
 {id:142826,title:"闇芝居 10"},
-{id:142842,title:"遊戯王Go Rush!!"},
+{id:142842,title:"遊戯王 Go Rush!!"},
 {id:142984,title:"古見同學是溝通魯蛇。2期"},
 {id:143080,title:"ODD TAXI: In the Woods"},
 {id:143150,title:"Key, etc. Season 2"},
