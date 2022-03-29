@@ -1744,6 +1744,16 @@
     "synonyms": []
   },
   {
+    "id": 481,
+    "title": "遊戯王 Duel Monsters",
+    "synonyms": []
+  },
+  {
+    "id": 482,
+    "title": "遊戯王 Duel Monsters GX",
+    "synonyms": []
+  },
+  {
     "id": 483,
     "title": "Kurau Phantom Memory",
     "synonyms": []
@@ -1900,6 +1910,11 @@
   {
     "id": 546,
     "title": "風 心之呼吸",
+    "synonyms": []
+  },
+  {
+    "id": 550,
+    "title": "遊戯王",
     "synonyms": []
   },
   {
@@ -7658,6 +7673,11 @@
     "synonyms": []
   },
   {
+    "id": 3972,
+    "title": "遊戯王 5D's",
+    "synonyms": []
+  },
+  {
     "id": 3974,
     "title": "鐵腕巴蒂",
     "synonyms": [
@@ -12655,6 +12675,11 @@
     "synonyms": []
   },
   {
+    "id": 10015,
+    "title": "遊戯王 ZEXAL",
+    "synonyms": []
+  },
+  {
     "id": 10017,
     "title": "",
     "synonyms": []
@@ -15696,6 +15721,11 @@
       "影子籃球員NG集",
       "幻影籃球王NG集"
     ]
+  },
+  {
+    "id": 15489,
+    "title": "遊戯王 ZEXAL II",
+    "synonyms": []
   },
   {
     "id": 15535,
@@ -26936,6 +26966,11 @@
     "synonyms": []
   },
   {
+    "id": 100130,
+    "title": "劇場版 活擊 刀劍亂舞",
+    "synonyms": []
+  },
+  {
     "id": 100133,
     "title": "One Room 2",
     "synonyms": [
@@ -29159,6 +29194,11 @@
     "synonyms": []
   },
   {
+    "id": 103809,
+    "title": "刀劍亂舞 -花丸- ～幕間回憶錄～",
+    "synonyms": []
+  },
+  {
     "id": 103870,
     "title": "KING OF PRISM -Shiny Seven Stars-",
     "synonyms": []
@@ -30478,6 +30518,18 @@
     "synonyms": []
   },
   {
+    "id": 108353,
+    "title": "SPRIGGAN",
+    "synonyms": []
+  },
+  {
+    "id": 108357,
+    "title": "Vampire in the Garden",
+    "synonyms": [
+      "花園裡的吸血鬼"
+    ]
+  },
+  {
     "id": 108358,
     "title": "Phantasy Star Online 2 Episode Oracle",
     "synonyms": [
@@ -30907,6 +30959,16 @@
     "synonyms": []
   },
   {
+    "id": 109911,
+    "title": "ULTRAMAN Season 2",
+    "synonyms": []
+  },
+  {
+    "id": 109928,
+    "title": "犬王",
+    "synonyms": []
+  },
+  {
     "id": 109929,
     "title": "博多明太！PIRIKARAKO醬",
     "synonyms": []
@@ -31234,6 +31296,11 @@
   {
     "id": 111320,
     "title": "ラブホリック～魅惑の乙女と白濁カンケイ～ THE ANIMATION",
+    "synonyms": []
+  },
+  {
+    "id": 111321,
+    "title": "盾之勇者成名錄 第二季",
     "synonyms": []
   },
   {
@@ -32479,6 +32546,11 @@
     "synonyms": []
   },
   {
+    "id": 117074,
+    "title": "異世界四重奏 Another World",
+    "synonyms": []
+  },
+  {
     "id": 117085,
     "title": "魔術士歐菲 流浪之旅 基姆拉克篇",
     "synonyms": []
@@ -32492,6 +32564,13 @@
     "id": 117193,
     "title": "我的英雄學院 5",
     "synonyms": []
+  },
+  {
+    "id": 117197,
+    "title": "TIGER & BUNNY 2",
+    "synonyms": [
+      "基友英雄傳 2"
+    ]
   },
   {
     "id": 117343,
@@ -32857,6 +32936,11 @@
     ]
   },
   {
+    "id": 121176,
+    "title": "小書痴的下剋上：為了成為圖書管理員不擇手段！3",
+    "synonyms": []
+  },
+  {
     "id": 121532,
     "title": "コンビニ少女Z",
     "synonyms": []
@@ -32975,8 +33059,18 @@
     "synonyms": []
   },
   {
+    "id": 123074,
+    "title": "遊戯王 Duel Monsters ALEX",
+    "synonyms": []
+  },
+  {
     "id": 123081,
     "title": "成年人不懂如何戀愛！",
+    "synonyms": []
+  },
+  {
+    "id": 123330,
+    "title": "街角魔族 2丁目",
     "synonyms": []
   },
   {
@@ -33003,6 +33097,13 @@
     "id": 123645,
     "title": "再見了，我的克拉默 First Touch",
     "synonyms": []
+  },
+  {
+    "id": 123752,
+    "title": "Shenmue the Animation",
+    "synonyms": [
+      "莎木"
+    ]
   },
   {
     "id": 123769,
@@ -33208,6 +33309,11 @@
     "synonyms": []
   },
   {
+    "id": 125367,
+    "title": "輝夜姬想讓人告白~天才們的戀愛頭腦戰~第三季",
+    "synonyms": []
+  },
+  {
     "id": 125368,
     "title": "輝夜姬想讓人告白~天才們的戀愛頭腦戰~ OVA",
     "synonyms": []
@@ -33235,6 +33341,11 @@
   {
     "id": 125446,
     "title": "歌劇少女!!",
+    "synonyms": []
+  },
+  {
+    "id": 125447,
+    "title": "新羅馬浴場",
     "synonyms": []
   },
   {
@@ -33502,6 +33613,11 @@
     "synonyms": []
   },
   {
+    "id": 127911,
+    "title": "式守同學不只可愛而已",
+    "synonyms": []
+  },
+  {
     "id": 127976,
     "title": "天官賜福 第二季",
     "synonyms": []
@@ -33625,9 +33741,21 @@
     "synonyms": []
   },
   {
+    "id": 129193,
+    "title": "處刑少女的生存之道",
+    "synonyms": []
+  },
+  {
     "id": 129196,
     "title": "在地下城尋求邂逅是否搞錯了什麼 IV",
     "synonyms": []
+  },
+  {
+    "id": 129201,
+    "title": "Summer Time Render",
+    "synonyms": [
+      "夏日時光"
+    ]
   },
   {
     "id": 129277,
@@ -33721,6 +33849,16 @@
     "synonyms": []
   },
   {
+    "id": 130305,
+    "title": "特〈刀劍亂舞-花丸-〉～雪月華～",
+    "synonyms": []
+  },
+  {
+    "id": 130319,
+    "title": "RPG 不動產",
+    "synonyms": []
+  },
+  {
     "id": 130389,
     "title": "魔法科高中的劣等生 追憶篇",
     "synonyms": []
@@ -33761,8 +33899,18 @@
     "synonyms": []
   },
   {
+    "id": 130550,
+    "title": "外之國的少女",
+    "synonyms": []
+  },
+  {
     "id": 130558,
     "title": "ARIA The BENEDIZIONE",
+    "synonyms": []
+  },
+  {
+    "id": 130586,
+    "title": "史上最強大魔王轉生為村民 A",
     "synonyms": []
   },
   {
@@ -33861,6 +34009,11 @@
     ]
   },
   {
+    "id": 131520,
+    "title": "劇場版 五等分的花嫁",
+    "synonyms": []
+  },
+  {
     "id": 131548,
     "title": "明日同學的水手服",
     "synonyms": []
@@ -33920,6 +34073,16 @@
     "synonyms": []
   },
   {
+    "id": 132010,
+    "title": "談戀愛要在征服世界後",
+    "synonyms": []
+  },
+  {
+    "id": 132052,
+    "title": "杜鵑婚約",
+    "synonyms": []
+  },
+  {
     "id": 132055,
     "title": "劇場版 歌之王子殿下 真愛 KINGDOM",
     "synonyms": []
@@ -33944,6 +34107,11 @@
     ]
   },
   {
+    "id": 132171,
+    "title": "舞動不止",
+    "synonyms": []
+  },
+  {
     "id": 132193,
     "title": "極道主夫 Part 2",
     "synonyms": []
@@ -33959,11 +34127,21 @@
     "synonyms": []
   },
   {
+    "id": 132232,
+    "title": "RE:cycle of the PENGUINDRUM 前篇",
+    "synonyms": []
+  },
+  {
     "id": 132300,
     "title": "劇場版 Otoppe: Papa Don't Cry",
     "synonyms": [
       "劇場版 OTOPPE 爸爸別哭"
     ]
+  },
+  {
+    "id": 132351,
+    "title": "這個補師有夠麻煩",
+    "synonyms": []
   },
   {
     "id": 132405,
@@ -33986,8 +34164,18 @@
     "synonyms": []
   },
   {
+    "id": 132474,
+    "title": "骸骨騎士大人異世界冒險中",
+    "synonyms": []
+  },
+  {
     "id": 132525,
     "title": "Build Divide: Code Black",
+    "synonyms": []
+  },
+  {
+    "id": 132526,
+    "title": "Build Divide: Code White",
     "synonyms": []
   },
   {
@@ -33996,6 +34184,11 @@
     "synonyms": [
       "鍵等"
     ]
+  },
+  {
+    "id": 132532,
+    "title": "相合之物",
+    "synonyms": []
   },
   {
     "id": 132545,
@@ -34018,8 +34211,23 @@
     "synonyms": []
   },
   {
+    "id": 133124,
+    "title": "劇場版 Free!–the Final Stroke– 後編",
+    "synonyms": []
+  },
+  {
+    "id": 133175,
+    "title": "魔法使黎明期",
+    "synonyms": []
+  },
+  {
     "id": 133411,
     "title": "180 秒能讓你的耳朵幸福嗎？",
+    "synonyms": []
+  },
+  {
+    "id": 133412,
+    "title": "Healer Girl",
     "synonyms": []
   },
   {
@@ -34030,6 +34238,11 @@
   {
     "id": 133510,
     "title": "群馬寶寶",
+    "synonyms": []
+  },
+  {
+    "id": 133891,
+    "title": "Love Live！虹咲學園 學園偶像同好會 2",
     "synonyms": []
   },
   {
@@ -34080,6 +34293,11 @@
     "synonyms": []
   },
   {
+    "id": 134732,
+    "title": "青之蘆葦",
+    "synonyms": []
+  },
+  {
     "id": 134946,
     "title": "うさみみボウケンタン～セクハラしながら世界を救え～",
     "synonyms": []
@@ -34097,6 +34315,16 @@
   {
     "id": 135171,
     "title": "BanG Dream! Garupa☆Pico Fever!",
+    "synonyms": []
+  },
+  {
+    "id": 135255,
+    "title": "Princess Principal: Crown Handler 第1章 OVA",
+    "synonyms": []
+  },
+  {
+    "id": 135384,
+    "title": "社畜想被幼女幽靈療癒。",
     "synonyms": []
   },
   {
@@ -34154,6 +34382,13 @@
     ]
   },
   {
+    "id": 136226,
+    "title": "Strike the Blood FINAL",
+    "synonyms": [
+      "噬血狂襲 V"
+    ]
+  },
+  {
     "id": 136263,
     "title": "異世界超能魔術師 OVA",
     "synonyms": []
@@ -34161,6 +34396,11 @@
   {
     "id": 136270,
     "title": "そしてわたしはセンセイに……",
+    "synonyms": []
+  },
+  {
+    "id": 136303,
+    "title": "真・一騎當千",
     "synonyms": []
   },
   {
@@ -34216,6 +34456,11 @@
     "synonyms": []
   },
   {
+    "id": 137281,
+    "title": "不會拿捏距離的阿波連同學",
+    "synonyms": []
+  },
+  {
     "id": 137309,
     "title": "Digimon Ghost Game",
     "synonyms": [
@@ -34228,6 +34473,11 @@
     "synonyms": []
   },
   {
+    "id": 137337,
+    "title": "噥噥日和 Nonstop OVA",
+    "synonyms": []
+  },
+  {
     "id": 137378,
     "title": "永遠的 831",
     "synonyms": []
@@ -34235,6 +34485,11 @@
   {
     "id": 137612,
     "title": "Princess Principal: Crown Handler 第3章",
+    "synonyms": []
+  },
+  {
+    "id": 137633,
+    "title": "Love All Play",
     "synonyms": []
   },
   {
@@ -34297,6 +34552,21 @@
     "synonyms": []
   },
   {
+    "id": 138425,
+    "title": "劇場版 擅長捉弄人的高木同學",
+    "synonyms": []
+  },
+  {
+    "id": 138452,
+    "title": "群青的 Fanfare",
+    "synonyms": []
+  },
+  {
+    "id": 138459,
+    "title": "成為女主角！~被討厭的女主角和秘密的工作~",
+    "synonyms": []
+  },
+  {
     "id": 138658,
     "title": "コスプレチェンジ～ピュア系女子大生の危険な性癖～",
     "synonyms": []
@@ -34307,6 +34577,11 @@
     "synonyms": [
       "寵物小精靈 進化"
     ]
+  },
+  {
+    "id": 138700,
+    "title": "憂國的莫里亞蒂 OVA",
+    "synonyms": []
   },
   {
     "id": 138714,
@@ -34321,6 +34596,16 @@
   {
     "id": 138899,
     "title": "攻殼機動隊 SAC_2045 可能持續的戰爭",
+    "synonyms": []
+  },
+  {
+    "id": 139273,
+    "title": "機動戰士Gundam 庫克羅斯・德安之島",
+    "synonyms": []
+  },
+  {
+    "id": 139303,
+    "title": "Black★★Rock Shooter: DAWN FALL",
     "synonyms": []
   },
   {
@@ -34359,8 +34644,18 @@
     ]
   },
   {
+    "id": 139498,
+    "title": "劇場版 關於我轉生變成史萊姆這檔事",
+    "synonyms": []
+  },
+  {
     "id": 139588,
     "title": "",
+    "synonyms": []
+  },
+  {
+    "id": 139589,
+    "title": "小太郎一個人生活",
     "synonyms": []
   },
   {
@@ -34384,6 +34679,19 @@
     "synonyms": []
   },
   {
+    "id": 140002,
+    "title": "名偵探柯南 零的日常",
+    "synonyms": []
+  },
+  {
+    "id": 140085,
+    "title": "Shadowverse F (Flame)",
+    "synonyms": [
+      "闇影詩章F",
+      "影之詩F"
+    ]
+  },
+  {
     "id": 140320,
     "title": "ひみつのきち",
     "synonyms": []
@@ -34394,6 +34702,13 @@
     "synonyms": []
   },
   {
+    "id": 140350,
+    "title": "Kingdom 4",
+    "synonyms": [
+      "王者天下 4"
+    ]
+  },
+  {
     "id": 140430,
     "title": "巨乳エルフ母娘催眠",
     "synonyms": []
@@ -34401,6 +34716,11 @@
   {
     "id": 140431,
     "title": "茜ハ摘マレ染メラレル",
+    "synonyms": []
+  },
+  {
+    "id": 140457,
+    "title": "辭職不做勇者了～下個職場是魔王城～",
     "synonyms": []
   },
   {
@@ -34428,6 +34748,11 @@
     "synonyms": []
   },
   {
+    "id": 140830,
+    "title": "BIRDIE WING: Golf Girls' Story",
+    "synonyms": []
+  },
+  {
     "id": 140883,
     "title": "エロ医師",
     "synonyms": []
@@ -34440,8 +34765,25 @@
     ]
   },
   {
+    "id": 140960,
+    "title": "SPY×FAMILY",
+    "synonyms": [
+      "SPY×FAMILY 間諜家家酒"
+    ]
+  },
+  {
+    "id": 141014,
+    "title": "朋友遊戲",
+    "synonyms": []
+  },
+  {
     "id": 141063,
     "title": "沒辦法開播！",
+    "synonyms": []
+  },
+  {
+    "id": 141350,
+    "title": "女忍者椿的心事",
     "synonyms": []
   },
   {
@@ -34460,6 +34802,16 @@
     "synonyms": [
       "偶像夢幻祭 -Road to Show!!-"
     ]
+  },
+  {
+    "id": 142016,
+    "title": "八十龜醬觀察日記 4",
+    "synonyms": []
+  },
+  {
+    "id": 142074,
+    "title": "女性向遊戲世界對路人角色很不友好",
+    "synonyms": []
   },
   {
     "id": 142080,
@@ -34482,6 +34834,11 @@
     "synonyms": []
   },
   {
+    "id": 142219,
+    "title": "名偵探柯南：萬聖節的新娘",
+    "synonyms": []
+  },
+  {
     "id": 142229,
     "title": "エロリーマン",
     "synonyms": []
@@ -34497,8 +34854,89 @@
     "synonyms": []
   },
   {
+    "id": 142455,
+    "title": "Bubble",
+    "synonyms": [
+      "泡泡"
+    ]
+  },
+  {
+    "id": 142549,
+    "title": "蠟筆小新 怪奇忍者珍風傳",
+    "synonyms": []
+  },
+  {
     "id": 142826,
     "title": "闇芝居 10",
+    "synonyms": []
+  },
+  {
+    "id": 142842,
+    "title": "遊戯王Go Rush!!",
+    "synonyms": []
+  },
+  {
+    "id": 142984,
+    "title": "古見同學是溝通魯蛇。2期",
+    "synonyms": []
+  },
+  {
+    "id": 143080,
+    "title": "ODD TAXI: In the Woods",
+    "synonyms": [
+      "奇巧計程車 In The Woods"
+    ]
+  },
+  {
+    "id": 143150,
+    "title": "Key, etc. Season 2",
+    "synonyms": [
+      "鍵等 第二季"
+    ]
+  },
+  {
+    "id": 143202,
+    "title": "Princess Principal: Crown Handler 第2章 OVA",
+    "synonyms": []
+  },
+  {
+    "id": 143203,
+    "title": "境界戰機 第二部",
+    "synonyms": []
+  },
+  {
+    "id": 143289,
+    "title": "ESTAB LIFE: Great Escape",
+    "synonyms": []
+  },
+  {
+    "id": 143455,
+    "title": "雀魂 PONG☆",
+    "synonyms": []
+  },
+  {
+    "id": 143846,
+    "title": "平凡職業造就世界最強 第二季 SP",
+    "synonyms": []
+  },
+  {
+    "id": 144676,
+    "title": "Onipan!",
+    "synonyms": []
+  },
+  {
+    "id": 144677,
+    "title": "BASTARD!! －暗黑破壞神－",
+    "synonyms": []
+  },
+  {
+    "id": 144853,
+    "title": "Insect Land",
+    "synonyms": []
+  },
+  {
+    "id": 145560,
+    "title": "平凡職業造就世界最強 Prologue",
     "synonyms": []
   }
 ]
