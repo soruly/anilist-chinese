@@ -4750,9 +4750,7 @@ INSERT INTO `anilist_chinese` VALUES (100748,'{\"title\":{\"chinese\":\"裏・�
 INSERT INTO `anilist_chinese` VALUES (100749,'{\"title\":{\"chinese\":\"未來的未來\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (100762,'{\"title\":{\"chinese\":\"立花館戀愛三角關係\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (100773,'{\"title\":{\"chinese\":\"食戟之靈 餐之皿 遠月列車篇\"},\"synonyms_chinese\":[]}');
-INSERT INTO `anilist_chinese` VALUES (100780,'{\"title\":{\"chinese\":\"銀河英雄傳說 Die Neue These 星亂 1\"},\"synonyms_chinese\":[]}');
-INSERT INTO `anilist_chinese` VALUES (100781,'{\"title\":{\"chinese\":\"銀河英雄傳說 Die Neue These 星亂 2\"},\"synonyms_chinese\":[]}');
-INSERT INTO `anilist_chinese` VALUES (100782,'{\"title\":{\"chinese\":\"銀河英雄傳說 Die Neue These 星亂 3\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (100780,'{\"title\":{\"chinese\":\"銀河英雄傳說 Die Neue These 星亂\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (100784,'{\"title\":{\"chinese\":\"銀魂 銀之魂篇\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (100785,'{\"title\":{\"chinese\":\"雷頓 懸疑偵探社 ～卡翠愛兒的解謎事件簿～\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (100791,'{\"title\":{\"chinese\":\"結城友奈是勇者 -鷲尾須美之章-\"},\"synonyms_chinese\":[]}');
@@ -5757,7 +5755,7 @@ INSERT INTO `anilist_chinese` VALUES (123802,'{\"title\":{\"chinese\":\"聖女�
 INSERT INTO `anilist_chinese` VALUES (123803,'{\"title\":{\"chinese\":\"無能力者娜娜\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (123845,'{\"title\":{\"chinese\":\"シコやかなるときもハメるときも\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (123899,'{\"title\":{\"chinese\":\"讓我聽見愛的歌聲\"},\"synonyms_chinese\":[\"讓我聆聽愛的歌聲\"]}');
-INSERT INTO `anilist_chinese` VALUES (124032,'{\"title\":{\"chinese\":\"銀河英雄傳說 Die Neue These 激突 1\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (124032,'{\"title\":{\"chinese\":\"銀河英雄傳說 Die Neue These 激突\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (124060,'{\"title\":{\"chinese\":\"薔薇王的葬列\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (124080,'{\"title\":{\"chinese\":\"堀與宮村\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (124115,'{\"title\":{\"chinese\":\"少女與戰車 最終章 第3話\"},\"synonyms_chinese\":[]}');

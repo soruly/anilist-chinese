@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2022.3.29
+// @version      2.2022.3.30
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -4729,9 +4729,7 @@ var database = [
 {id:100749,title:"未來的未來"},
 {id:100762,title:"立花館戀愛三角關係"},
 {id:100773,title:"食戟之靈 餐之皿 遠月列車篇"},
-{id:100780,title:"銀河英雄傳說 Die Neue These 星亂 1"},
-{id:100781,title:"銀河英雄傳說 Die Neue These 星亂 2"},
-{id:100782,title:"銀河英雄傳說 Die Neue These 星亂 3"},
+{id:100780,title:"銀河英雄傳說 Die Neue These 星亂"},
 {id:100784,title:"銀魂 銀之魂篇"},
 {id:100785,title:"雷頓 懸疑偵探社 ～卡翠愛兒的解謎事件簿～"},
 {id:100791,title:"結城友奈是勇者 -鷲尾須美之章-"},
@@ -5736,7 +5734,7 @@ var database = [
 {id:123803,title:"無能力者娜娜"},
 {id:123845,title:"シコやかなるときもハメるときも"},
 {id:123899,title:"讓我聽見愛的歌聲"},
-{id:124032,title:"銀河英雄傳說 Die Neue These 激突 1"},
+{id:124032,title:"銀河英雄傳說 Die Neue These 激突"},
 {id:124060,title:"薔薇王的葬列"},
 {id:124080,title:"堀與宮村"},
 {id:124115,title:"少女與戰車 最終章 第3話"},
