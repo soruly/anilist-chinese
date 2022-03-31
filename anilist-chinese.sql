@@ -5981,6 +5981,7 @@ INSERT INTO `anilist_chinese` VALUES (135171,'{\"title\":{\"chinese\":\"BanG Dre
 INSERT INTO `anilist_chinese` VALUES (135255,'{\"title\":{\"chinese\":\"Princess Principal: Crown Handler 第1章 OVA\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (135384,'{\"title\":{\"chinese\":\"社畜想被幼女幽靈療癒。\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (135432,'{\"title\":{\"chinese\":\"Bright: Samurai Soul\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (135513,'{\"title\":{\"chinese\":\"楓と鈴 THE ANIMATION\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (135645,'{\"title\":{\"chinese\":\"Gundam Breaker Battlogue\"},\"synonyms_chinese\":[\"鋼彈創壞者 對戰風雲錄\"]}');
 INSERT INTO `anilist_chinese` VALUES (135864,'{\"title\":{\"chinese\":\"熱帶口紅！光之美少女 劇場版 雪之公主與奇蹟的戒指！\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (135866,'{\"title\":{\"chinese\":\"幼女戰記 砂漠的義麵大作戰\"},\"synonyms_chinese\":[]}');
@@ -6082,10 +6083,12 @@ INSERT INTO `anilist_chinese` VALUES (142549,'{\"title\":{\"chinese\":\"蠟筆�
 INSERT INTO `anilist_chinese` VALUES (142826,'{\"title\":{\"chinese\":\"闇芝居 10\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (142842,'{\"title\":{\"chinese\":\"遊戯王 Go Rush!!\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (142984,'{\"title\":{\"chinese\":\"古見同學是溝通魯蛇。2期\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (143065,'{\"title\":{\"chinese\":\"闇憑村/めるてぃーりみっと The Animation\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (143080,'{\"title\":{\"chinese\":\"ODD TAXI: In the Woods\"},\"synonyms_chinese\":[\"奇巧計程車 In The Woods\"]}');
 INSERT INTO `anilist_chinese` VALUES (143150,'{\"title\":{\"chinese\":\"Key, etc. Season 2\"},\"synonyms_chinese\":[\"鍵等 第二季\"]}');
 INSERT INTO `anilist_chinese` VALUES (143202,'{\"title\":{\"chinese\":\"Princess Principal: Crown Handler 第2章 OVA\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (143203,'{\"title\":{\"chinese\":\"境界戰機 第二部\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (143286,'{\"title\":{\"chinese\":\"淫行教師の催眠セイ活指導録\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (143289,'{\"title\":{\"chinese\":\"ESTAB LIFE: Great Escape\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (143455,'{\"title\":{\"chinese\":\"雀魂 PONG☆\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (143846,'{\"title\":{\"chinese\":\"平凡職業造就世界最強 第二季 SP\"},\"synonyms_chinese\":[]}');

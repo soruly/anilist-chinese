@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2022.3.30
+// @version      2.2022.3.31
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -5960,6 +5960,7 @@ var database = [
 {id:135255,title:"Princess Principal: Crown Handler 第1章 OVA"},
 {id:135384,title:"社畜想被幼女幽靈療癒。"},
 {id:135432,title:"Bright: Samurai Soul"},
+{id:135513,title:"楓と鈴 THE ANIMATION"},
 {id:135645,title:"Gundam Breaker Battlogue"},
 {id:135864,title:"熱帶口紅！光之美少女 劇場版 雪之公主與奇蹟的戒指！"},
 {id:135866,title:"幼女戰記 砂漠的義麵大作戰"},
@@ -6061,10 +6062,12 @@ var database = [
 {id:142826,title:"闇芝居 10"},
 {id:142842,title:"遊戯王 Go Rush!!"},
 {id:142984,title:"古見同學是溝通魯蛇。2期"},
+{id:143065,title:"闇憑村/めるてぃーりみっと The Animation"},
 {id:143080,title:"ODD TAXI: In the Woods"},
 {id:143150,title:"Key, etc. Season 2"},
 {id:143202,title:"Princess Principal: Crown Handler 第2章 OVA"},
 {id:143203,title:"境界戰機 第二部"},
+{id:143286,title:"淫行教師の催眠セイ活指導録"},
 {id:143289,title:"ESTAB LIFE: Great Escape"},
 {id:143455,title:"雀魂 PONG☆"},
 {id:143846,title:"平凡職業造就世界最強 第二季 SP"},
