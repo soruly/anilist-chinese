@@ -5983,6 +5983,7 @@ INSERT INTO `anilist_chinese` VALUES (135384,'{\"title\":{\"chinese\":\"社畜�
 INSERT INTO `anilist_chinese` VALUES (135432,'{\"title\":{\"chinese\":\"Bright: Samurai Soul\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (135513,'{\"title\":{\"chinese\":\"楓と鈴 THE ANIMATION\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (135645,'{\"title\":{\"chinese\":\"Gundam Breaker Battlogue\"},\"synonyms_chinese\":[\"鋼彈創壞者 對戰風雲錄\"]}');
+INSERT INTO `anilist_chinese` VALUES (135848,'{\"title\":{\"chinese\":\"王子的本命是反派大小姐\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (135864,'{\"title\":{\"chinese\":\"熱帶口紅！光之美少女 劇場版 雪之公主與奇蹟的戒指！\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (135866,'{\"title\":{\"chinese\":\"幼女戰記 砂漠的義麵大作戰\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (135939,'{\"title\":{\"chinese\":\"燒窯的話也要馬克杯 第二季\"},\"synonyms_chinese\":[]}');
@@ -6024,7 +6025,7 @@ INSERT INTO `anilist_chinese` VALUES (138383,'{\"title\":{\"chinese\":\"你與�
 INSERT INTO `anilist_chinese` VALUES (138411,'{\"title\":{\"chinese\":\"ママホリック～魅惑のママと甘々カンケイ～ THE ANIMATION\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (138424,'{\"title\":{\"chinese\":\"擅長捉弄人的高木同學 3\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (138425,'{\"title\":{\"chinese\":\"劇場版 擅長捉弄人的高木同學\"},\"synonyms_chinese\":[]}');
-INSERT INTO `anilist_chinese` VALUES (138452,'{\"title\":{\"chinese\":\"群青的 Fanfare\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (138452,'{\"title\":{\"chinese\":\"群青的開幕曲\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (138459,'{\"title\":{\"chinese\":\"成為女主角！~被討厭的女主角和秘密的工作~\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (138658,'{\"title\":{\"chinese\":\"コスプレチェンジ～ピュア系女子大生の危険な性癖～\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (138699,'{\"title\":{\"chinese\":\"Pokemon Evolutions\"},\"synonyms_chinese\":[\"寵物小精靈 進化\"]}');

@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2022.3.31
+// @version      2.2022.4.3
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -5962,6 +5962,7 @@ var database = [
 {id:135432,title:"Bright: Samurai Soul"},
 {id:135513,title:"楓と鈴 THE ANIMATION"},
 {id:135645,title:"Gundam Breaker Battlogue"},
+{id:135848,title:"王子的本命是反派大小姐"},
 {id:135864,title:"熱帶口紅！光之美少女 劇場版 雪之公主與奇蹟的戒指！"},
 {id:135866,title:"幼女戰記 砂漠的義麵大作戰"},
 {id:135939,title:"燒窯的話也要馬克杯 第二季"},
@@ -6003,7 +6004,7 @@ var database = [
 {id:138411,title:"ママホリック～魅惑のママと甘々カンケイ～ THE ANIMATION"},
 {id:138424,title:"擅長捉弄人的高木同學 3"},
 {id:138425,title:"劇場版 擅長捉弄人的高木同學"},
-{id:138452,title:"群青的 Fanfare"},
+{id:138452,title:"群青的開幕曲"},
 {id:138459,title:"成為女主角！~被討厭的女主角和秘密的工作~"},
 {id:138658,title:"コスプレチェンジ～ピュア系女子大生の危険な性癖～"},
 {id:138699,title:"Pokemon Evolutions"},
