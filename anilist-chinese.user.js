@@ -6033,7 +6033,7 @@ var database = [
 {id:140350,title:"Kingdom 4"},
 {id:140430,title:"巨乳エルフ母娘催眠"},
 {id:140431,title:"茜ハ摘マレ染メラレル"},
-{id:140457,title:"辭職不做勇者了～下個職場是魔王城～"},
+{id:140457,title:"勇者辭職不幹了"},
 {id:140502,title:"Ryman's Club"},
 {id:140643,title:"東京 24 區"},
 {id:140700,title:"空色Utility"},

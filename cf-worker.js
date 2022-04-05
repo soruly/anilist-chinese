@@ -6017,7 +6017,7 @@ const db = new Map([
 [140350,{title:"Kingdom 4",synonyms:["王者天下 4"]}],
 [140430,{title:"巨乳エルフ母娘催眠",synonyms:[]}],
 [140431,{title:"茜ハ摘マレ染メラレル",synonyms:[]}],
-[140457,{title:"辭職不做勇者了～下個職場是魔王城～",synonyms:[]}],
+[140457,{title:"勇者辭職不幹了",synonyms:[]}],
 [140502,{title:"Ryman's Club",synonyms:["里曼俱樂部"]}],
 [140643,{title:"東京 24 區",synonyms:[]}],
 [140700,{title:"空色Utility",synonyms:["天空色的多功能杆"]}],
