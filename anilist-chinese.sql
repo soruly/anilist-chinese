@@ -6065,6 +6065,7 @@ INSERT INTO `anilist_chinese` VALUES (140950,'{\"title\":{\"chinese\":\"Irodori 
 INSERT INTO `anilist_chinese` VALUES (140960,'{\"title\":{\"chinese\":\"SPY×FAMILY\"},\"synonyms_chinese\":[\"SPY×FAMILY 間諜家家酒\"]}');
 INSERT INTO `anilist_chinese` VALUES (141014,'{\"title\":{\"chinese\":\"朋友遊戲\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (141063,'{\"title\":{\"chinese\":\"沒辦法開播！\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (141136,'{\"title\":{\"chinese\":\"3秒後，野獸。 ～坐在聯誼會角落的他是個肉食系\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (141350,'{\"title\":{\"chinese\":\"女忍者椿的心事\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (141534,'{\"title\":{\"chinese\":\"無職轉生～到了異世界就拿出真本事～2 OVA\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (141774,'{\"title\":{\"chinese\":\"派對咖孔明\"},\"synonyms_chinese\":[]}');

@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2022.4.3
+// @version      2.2022.4.5
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -6044,6 +6044,7 @@ var database = [
 {id:140960,title:"SPY×FAMILY"},
 {id:141014,title:"朋友遊戲"},
 {id:141063,title:"沒辦法開播！"},
+{id:141136,title:"3秒後，野獸。 ～坐在聯誼會角落的他是個肉食系"},
 {id:141350,title:"女忍者椿的心事"},
 {id:141534,title:"無職轉生～到了異世界就拿出真本事～2 OVA"},
 {id:141774,title:"派對咖孔明"},
