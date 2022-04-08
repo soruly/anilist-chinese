@@ -6033,6 +6033,7 @@ INSERT INTO `anilist_chinese` VALUES (138700,'{\"title\":{\"chinese\":\"憂國�
 INSERT INTO `anilist_chinese` VALUES (138714,'{\"title\":{\"chinese\":\"平家物語\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (138833,'{\"title\":{\"chinese\":\"Abandon‐100ヌキしないと出られない不思議な教室‐\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (138899,'{\"title\":{\"chinese\":\"攻殼機動隊 SAC_2045 可能持續的戰爭\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (138912,'{\"title\":{\"chinese\":\"川尻小玉的懶散生活\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (139273,'{\"title\":{\"chinese\":\"機動戰士Gundam 庫克羅斯・德安之島\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (139303,'{\"title\":{\"chinese\":\"Black★★Rock Shooter: DAWN FALL\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (139304,'{\"title\":{\"chinese\":\"この会社…なにかおかしい!\"},\"synonyms_chinese\":[]}');

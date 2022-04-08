@@ -5996,6 +5996,7 @@ const db = new Map([
 [138714,{title:"平家物語",synonyms:[]}],
 [138833,{title:"Abandon‐100ヌキしないと出られない不思議な教室‐",synonyms:[]}],
 [138899,{title:"攻殼機動隊 SAC_2045 可能持續的戰爭",synonyms:[]}],
+[138912,{title:"川尻小玉的懶散生活",synonyms:[]}],
 [139273,{title:"機動戰士Gundam 庫克羅斯・德安之島",synonyms:[]}],
 [139303,{title:"Black★★Rock Shooter: DAWN FALL",synonyms:[]}],
 [139304,{title:"この会社…なにかおかしい!",synonyms:[]}],

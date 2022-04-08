@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2022.4.5
+// @version      2.2022.4.8
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -6012,6 +6012,7 @@ var database = [
 {id:138714,title:"平家物語"},
 {id:138833,title:"Abandon‐100ヌキしないと出られない不思議な教室‐"},
 {id:138899,title:"攻殼機動隊 SAC_2045 可能持續的戰爭"},
+{id:138912,title:"川尻小玉的懶散生活"},
 {id:139273,title:"機動戰士Gundam 庫克羅斯・德安之島"},
 {id:139303,title:"Black★★Rock Shooter: DAWN FALL"},
 {id:139304,title:"この会社…なにかおかしい!"},
