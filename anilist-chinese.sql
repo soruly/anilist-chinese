@@ -6064,6 +6064,7 @@ INSERT INTO `anilist_chinese` VALUES (141014,'{\"title\":{\"chinese\":\"朋友�
 INSERT INTO `anilist_chinese` VALUES (141063,'{\"title\":{\"chinese\":\"沒辦法開播！\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (141136,'{\"title\":{\"chinese\":\"3秒後，野獸。 ～坐在聯誼會角落的他是個肉食系\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (141350,'{\"title\":{\"chinese\":\"女忍者椿的心事\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (141368,'{\"title\":{\"chinese\":\"オタクに優しいギャルとか、巨乳の幼なじみとか。\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (141534,'{\"title\":{\"chinese\":\"無職轉生～到了異世界就拿出真本事～2 OVA\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (141774,'{\"title\":{\"chinese\":\"派對咖孔明\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (141907,'{\"title\":{\"chinese\":\"Ensemble Stars! -Road to Show!!-\"},\"synonyms_chinese\":[\"偶像夢幻祭 -Road to Show!!-\"]}');

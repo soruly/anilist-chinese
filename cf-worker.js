@@ -6027,6 +6027,7 @@ const db = new Map([
 [141063,{title:"沒辦法開播！",synonyms:[]}],
 [141136,{title:"3秒後，野獸。 ～坐在聯誼會角落的他是個肉食系",synonyms:[]}],
 [141350,{title:"女忍者椿的心事",synonyms:[]}],
+[141368,{title:"オタクに優しいギャルとか、巨乳の幼なじみとか。",synonyms:[]}],
 [141534,{title:"無職轉生～到了異世界就拿出真本事～2 OVA",synonyms:[]}],
 [141774,{title:"派對咖孔明",synonyms:[]}],
 [141907,{title:"Ensemble Stars! -Road to Show!!-",synonyms:["偶像夢幻祭 -Road to Show!!-"]}],
