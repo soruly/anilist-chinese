@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2022.4.8
+// @version      2.2022.4.20
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -2621,7 +2621,6 @@ var database = [
 {id:13595,title:"好きで好きで、すきで THE ANIMATION"},
 {id:13599,title:"Robotics;Notes"},
 {id:13601,title:"PSYCHO-PASS"},
-{id:13639,title:"火要鎮"},
 {id:13643,title:"義妹×2 いもうとツインズ"},
 {id:13655,title:"Little Busters!"},
 {id:13659,title:"我的妹妹哪有這麼可愛。"},
@@ -2704,7 +2703,6 @@ var database = [
 {id:14833,title:"魔王勇者"},
 {id:14835,title:"The iDOLM@STER Shiny Festa"},
 {id:14837,title:"七龍珠Z 神與神"},
-{id:14853,title:"九十九"},
 {id:14913,title:"Battle Spirits: Sword Eyes"},
 {id:14921,title:"RDG 瀕危物種少女"},
 {id:14941,title:"AKB0048 Next Stage"},
@@ -2902,8 +2900,7 @@ var database = [
 {id:17641,title:"Date A Live OVA"},
 {id:17651,title:"穿透幻影的太陽"},
 {id:17653,title:"黑魔女學園 2"},
-{id:17677,title:"永別了武器"},
-{id:17679,title:"Gambo"},
+{id:17677,title:"SHORT PEACE"},
 {id:17681,title:"絕對防衛利維坦"},
 {id:17699,title:"劇場版 美食的俘虜 美食神的秘寶"},
 {id:17705,title:"DD北斗神拳"},
@@ -3023,7 +3020,6 @@ var database = [
 {id:19489,title:"小魔女學院：魔法遊行"},
 {id:19523,title:"風輪奸山"},
 {id:19569,title:"純情少女エトセトラ"},
-{id:19573,title:"SHORT PEACE"},
 {id:19575,title:"小林可愛到爆！！"},
 {id:19603,title:"Fate/stay night: Unlimited Blade Works"},
 {id:19613,title:"頭文字D Final Stage"},

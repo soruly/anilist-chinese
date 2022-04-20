@@ -2642,7 +2642,6 @@ INSERT INTO `anilist_chinese` VALUES (13587,'{\"title\":{\"chinese\":\"Persona 4
 INSERT INTO `anilist_chinese` VALUES (13595,'{\"title\":{\"chinese\":\"好きで好きで、すきで THE ANIMATION\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (13599,'{\"title\":{\"chinese\":\"Robotics;Notes\"},\"synonyms_chinese\":[\"機器人筆記\",\"鐵甲夢工場\",\"機械學報告\"]}');
 INSERT INTO `anilist_chinese` VALUES (13601,'{\"title\":{\"chinese\":\"PSYCHO-PASS\"},\"synonyms_chinese\":[\"心靈判官\"]}');
-INSERT INTO `anilist_chinese` VALUES (13639,'{\"title\":{\"chinese\":\"火要鎮\"},\"synonyms_chinese\":[\"鬼．火．熊．武\"]}');
 INSERT INTO `anilist_chinese` VALUES (13643,'{\"title\":{\"chinese\":\"義妹×2 いもうとツインズ\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (13655,'{\"title\":{\"chinese\":\"Little Busters!\"},\"synonyms_chinese\":[\"校園剋星\",\"小小剋星\"]}');
 INSERT INTO `anilist_chinese` VALUES (13659,'{\"title\":{\"chinese\":\"我的妹妹哪有這麼可愛。\"},\"synonyms_chinese\":[]}');
@@ -2725,7 +2724,6 @@ INSERT INTO `anilist_chinese` VALUES (14829,'{\"title\":{\"chinese\":\"Fate/kale
 INSERT INTO `anilist_chinese` VALUES (14833,'{\"title\":{\"chinese\":\"魔王勇者\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (14835,'{\"title\":{\"chinese\":\"The iDOLM@STER Shiny Festa\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (14837,'{\"title\":{\"chinese\":\"七龍珠Z 神與神\"},\"synonyms_chinese\":[]}');
-INSERT INTO `anilist_chinese` VALUES (14853,'{\"title\":{\"chinese\":\"九十九\"},\"synonyms_chinese\":[\"鬼．火．熊．武\"]}');
 INSERT INTO `anilist_chinese` VALUES (14913,'{\"title\":{\"chinese\":\"Battle Spirits: Sword Eyes\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (14921,'{\"title\":{\"chinese\":\"RDG 瀕危物種少女\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (14941,'{\"title\":{\"chinese\":\"AKB0048 Next Stage\"},\"synonyms_chinese\":[]}');
@@ -2923,8 +2921,7 @@ INSERT INTO `anilist_chinese` VALUES (17637,'{\"title\":{\"chinese\":\"宮河家
 INSERT INTO `anilist_chinese` VALUES (17641,'{\"title\":{\"chinese\":\"Date A Live OVA\"},\"synonyms_chinese\":[\"約會大作戰 OVA\"]}');
 INSERT INTO `anilist_chinese` VALUES (17651,'{\"title\":{\"chinese\":\"穿透幻影的太陽\"},\"synonyms_chinese\":[\"穿越幻境的太陽\",\"幻境之光\"]}');
 INSERT INTO `anilist_chinese` VALUES (17653,'{\"title\":{\"chinese\":\"黑魔女學園 2\"},\"synonyms_chinese\":[]}');
-INSERT INTO `anilist_chinese` VALUES (17677,'{\"title\":{\"chinese\":\"永別了武器\"},\"synonyms_chinese\":[\"鬼．火．熊．武\"]}');
-INSERT INTO `anilist_chinese` VALUES (17679,'{\"title\":{\"chinese\":\"Gambo\"},\"synonyms_chinese\":[\"鬼．火．熊．武\"]}');
+INSERT INTO `anilist_chinese` VALUES (17677,'{\"title\":{\"chinese\":\"SHORT PEACE\"},\"synonyms_chinese\":[\"鬼．火．熊．武\"]}');
 INSERT INTO `anilist_chinese` VALUES (17681,'{\"title\":{\"chinese\":\"絕對防衛利維坦\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (17699,'{\"title\":{\"chinese\":\"劇場版 美食的俘虜 美食神的秘寶\"},\"synonyms_chinese\":[\"為食獵人\",\"美食獵人TORIKO\"]}');
 INSERT INTO `anilist_chinese` VALUES (17705,'{\"title\":{\"chinese\":\"DD北斗神拳\"},\"synonyms_chinese\":[\"DD北斗之拳\"]}');
@@ -3044,7 +3041,6 @@ INSERT INTO `anilist_chinese` VALUES (19469,'{\"title\":{\"chinese\":\"齊木楠
 INSERT INTO `anilist_chinese` VALUES (19489,'{\"title\":{\"chinese\":\"小魔女學院：魔法遊行\"},\"synonyms_chinese\":[\"小魔女學園：魔法遊行\"]}');
 INSERT INTO `anilist_chinese` VALUES (19523,'{\"title\":{\"chinese\":\"風輪奸山\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (19569,'{\"title\":{\"chinese\":\"純情少女エトセトラ\"},\"synonyms_chinese\":[]}');
-INSERT INTO `anilist_chinese` VALUES (19573,'{\"title\":{\"chinese\":\"SHORT PEACE\"},\"synonyms_chinese\":[\"鬼．火．熊．武\"]}');
 INSERT INTO `anilist_chinese` VALUES (19575,'{\"title\":{\"chinese\":\"小林可愛到爆！！\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (19603,'{\"title\":{\"chinese\":\"Fate/stay night: Unlimited Blade Works\"},\"synonyms_chinese\":[\"命運守護夜\",\"命運之夜\",\"聖杯戰爭\",\"Fate/stay night 命運／停駐之夜\",\"命運Fate\"]}');
 INSERT INTO `anilist_chinese` VALUES (19613,'{\"title\":{\"chinese\":\"頭文字D Final Stage\"},\"synonyms_chinese\":[\"頭文字D 第六季\"]}');
