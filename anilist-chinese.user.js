@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2022.4.20
+// @version      2.2022.4.27
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
