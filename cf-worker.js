@@ -5912,7 +5912,7 @@ const db = new Map([
 [132526,{title:"Build Divide: Code White",synonyms:[]}],
 [132528,{title:"Key, etc.",synonyms:["鍵等"]}],
 [132532,{title:"相合之物",synonyms:[]}],
-[132545,{title:"劇場版 我讓最想被擁抱的男人給威脅了",synonyms:[]}],
+[132545,{title:"劇場版 我讓最想被擁抱的男人給威脅了 ～西班牙篇～",synonyms:[]}],
 [132679,{title:"IDOLLAND 星光樂園",synonyms:[]}],
 [132806,{title:"異世界食堂 2",synonyms:[]}],
 [132893,{title:"Battle Spirits: Mirage",synonyms:[]}],

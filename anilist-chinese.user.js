@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2022.4.27
+// @version      2.2022.4.29
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -5928,7 +5928,7 @@ var database = [
 {id:132526,title:"Build Divide: Code White"},
 {id:132528,title:"Key, etc."},
 {id:132532,title:"相合之物"},
-{id:132545,title:"劇場版 我讓最想被擁抱的男人給威脅了"},
+{id:132545,title:"劇場版 我讓最想被擁抱的男人給威脅了 ～西班牙篇～"},
 {id:132679,title:"IDOLLAND 星光樂園"},
 {id:132806,title:"異世界食堂 2"},
 {id:132893,title:"Battle Spirits: Mirage"},

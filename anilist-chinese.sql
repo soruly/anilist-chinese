@@ -5949,7 +5949,7 @@ INSERT INTO `anilist_chinese` VALUES (132525,'{\"title\":{\"chinese\":\"Build Di
 INSERT INTO `anilist_chinese` VALUES (132526,'{\"title\":{\"chinese\":\"Build Divide: Code White\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (132528,'{\"title\":{\"chinese\":\"Key, etc.\"},\"synonyms_chinese\":[\"鍵等\"]}');
 INSERT INTO `anilist_chinese` VALUES (132532,'{\"title\":{\"chinese\":\"相合之物\"},\"synonyms_chinese\":[]}');
-INSERT INTO `anilist_chinese` VALUES (132545,'{\"title\":{\"chinese\":\"劇場版 我讓最想被擁抱的男人給威脅了\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (132545,'{\"title\":{\"chinese\":\"劇場版 我讓最想被擁抱的男人給威脅了 ～西班牙篇～\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (132679,'{\"title\":{\"chinese\":\"IDOLLAND 星光樂園\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (132806,'{\"title\":{\"chinese\":\"異世界食堂 2\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (132893,'{\"title\":{\"chinese\":\"Battle Spirits: Mirage\"},\"synonyms_chinese\":[]}');
