@@ -6096,7 +6096,10 @@ INSERT INTO `anilist_chinese` VALUES (143846,'{\"title\":{\"chinese\":\"平凡�
 INSERT INTO `anilist_chinese` VALUES (144676,'{\"title\":{\"chinese\":\"Onipan!\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (144677,'{\"title\":{\"chinese\":\"BASTARD!! －暗黑破壞神－\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (144853,'{\"title\":{\"chinese\":\"Insect Land\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (144996,'{\"title\":{\"chinese\":\"ハーレム・カルト side HAREM\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (145016,'{\"title\":{\"chinese\":\"異世界ヤリサー\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (145560,'{\"title\":{\"chinese\":\"平凡職業造就世界最強 Prologue\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (146282,'{\"title\":{\"chinese\":\"巨乳女戦士・土下座催眠\"},\"synonyms_chinese\":[]}');
 /*!40000 ALTER TABLE `anilist_chinese` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;

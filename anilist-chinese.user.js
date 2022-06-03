@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2022.5.20
+// @version      2.2022.6.3
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -6075,7 +6075,10 @@ var database = [
 {id:144676,title:"Onipan!"},
 {id:144677,title:"BASTARD!! －暗黑破壞神－"},
 {id:144853,title:"Insect Land"},
-{id:145560,title:"平凡職業造就世界最強 Prologue"}
+{id:144996,title:"ハーレム・カルト side HAREM"},
+{id:145016,title:"異世界ヤリサー"},
+{id:145560,title:"平凡職業造就世界最強 Prologue"},
+{id:146282,title:"巨乳女戦士・土下座催眠"}
 ];
 
 var updating;

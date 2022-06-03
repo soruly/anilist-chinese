@@ -6059,7 +6059,10 @@ const db = new Map([
 [144676,{title:"Onipan!",synonyms:[]}],
 [144677,{title:"BASTARD!! －暗黑破壞神－",synonyms:[]}],
 [144853,{title:"Insect Land",synonyms:[]}],
-[145560,{title:"平凡職業造就世界最強 Prologue",synonyms:[]}]
+[144996,{title:"ハーレム・カルト side HAREM",synonyms:[]}],
+[145016,{title:"異世界ヤリサー",synonyms:[]}],
+[145560,{title:"平凡職業造就世界最強 Prologue",synonyms:[]}],
+[146282,{title:"巨乳女戦士・土下座催眠",synonyms:[]}]
 ]);
 
 async function handleRequest(req) {
