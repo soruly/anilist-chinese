@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2022.6.3
+// @version      2.2022.6.26
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -6078,7 +6078,12 @@ var database = [
 {id:144996,title:"ハーレム・カルト side HAREM"},
 {id:145016,title:"異世界ヤリサー"},
 {id:145560,title:"平凡職業造就世界最強 Prologue"},
-{id:146282,title:"巨乳女戦士・土下座催眠"}
+{id:146282,title:"巨乳女戦士・土下座催眠"},
+{id:146741,title:"パンデミック"},
+{id:146742,title:"処女はお姉さまに恋してる 三つのきら星 The Animation"},
+{id:146837,title:"ツグナヒ"},
+{id:146951,title:"＃今までで一番良かったセックス The Animation"},
+{id:147287,title:"J〇限界交尾～合意挿入でバチバチ肉穴化～"}
 ];
 
 var updating;

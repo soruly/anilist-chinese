@@ -6062,7 +6062,12 @@ const db = new Map([
 [144996,{title:"ハーレム・カルト side HAREM",synonyms:[]}],
 [145016,{title:"異世界ヤリサー",synonyms:[]}],
 [145560,{title:"平凡職業造就世界最強 Prologue",synonyms:[]}],
-[146282,{title:"巨乳女戦士・土下座催眠",synonyms:[]}]
+[146282,{title:"巨乳女戦士・土下座催眠",synonyms:[]}],
+[146741,{title:"パンデミック",synonyms:[]}],
+[146742,{title:"処女はお姉さまに恋してる 三つのきら星 The Animation",synonyms:[]}],
+[146837,{title:"ツグナヒ",synonyms:[]}],
+[146951,{title:"＃今までで一番良かったセックス The Animation",synonyms:[]}],
+[147287,{title:"J〇限界交尾～合意挿入でバチバチ肉穴化～",synonyms:[]}]
 ]);
 
 async function handleRequest(req) {

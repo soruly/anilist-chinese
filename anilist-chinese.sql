@@ -6100,6 +6100,11 @@ INSERT INTO `anilist_chinese` VALUES (144996,'{\"title\":{\"chinese\":\"ハー�
 INSERT INTO `anilist_chinese` VALUES (145016,'{\"title\":{\"chinese\":\"異世界ヤリサー\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (145560,'{\"title\":{\"chinese\":\"平凡職業造就世界最強 Prologue\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (146282,'{\"title\":{\"chinese\":\"巨乳女戦士・土下座催眠\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (146741,'{\"title\":{\"chinese\":\"パンデミック\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (146742,'{\"title\":{\"chinese\":\"処女はお姉さまに恋してる 三つのきら星 The Animation\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (146837,'{\"title\":{\"chinese\":\"ツグナヒ\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (146951,'{\"title\":{\"chinese\":\"＃今までで一番良かったセックス The Animation\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (147287,'{\"title\":{\"chinese\":\"J〇限界交尾～合意挿入でバチバチ肉穴化～\"},\"synonyms_chinese\":[]}');
 /*!40000 ALTER TABLE `anilist_chinese` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
