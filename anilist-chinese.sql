@@ -5708,7 +5708,7 @@ INSERT INTO `anilist_chinese` VALUES (120150,'{\"title\":{\"chinese\":\"文豪St
 INSERT INTO `anilist_chinese` VALUES (120180,'{\"title\":{\"chinese\":\"忍者 Collection\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (120209,'{\"title\":{\"chinese\":\"轉生成女性向遊戲只有毀滅END的壞人大小姐 X\"},\"synonyms_chinese\":[\"轉生惡役只好拔除破滅旗標 X\",\"轉生成為了只有乙女遊戲破滅Flag的邪惡大小姐 X\"]}');
 INSERT INTO `anilist_chinese` VALUES (120376,'{\"title\":{\"chinese\":\"美麗新世界\"},\"synonyms_chinese\":[]}');
-INSERT INTO `anilist_chinese` VALUES (120377,'{\"title\":{\"chinese\":\"Cyberpunk: Edgerunners\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (120377,'{\"title\":{\"chinese\":\"Cyberpunk Edgerunners\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (120506,'{\"title\":{\"chinese\":\"浮気と本気 THE ANIMATION\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (120534,'{\"title\":{\"chinese\":\"大運動會 ReSTART!\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (120608,'{\"title\":{\"chinese\":\"暗黑企業的迷宮\"},\"synonyms_chinese\":[]}');
@@ -6059,6 +6059,8 @@ INSERT INTO `anilist_chinese` VALUES (139093,'{\"title\":{\"chinese\":\"SHADOWS 
 INSERT INTO `anilist_chinese` VALUES (139273,'{\"title\":{\"chinese\":\"機動戰士Gundam 庫克羅斯・德安之島\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (139303,'{\"title\":{\"chinese\":\"Black★★Rock Shooter: DAWN FALL\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (139304,'{\"title\":{\"chinese\":\"この会社…なにかおかしい!\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (139310,'{\"title\":{\"chinese\":\"致我深愛的每個妳\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (139311,'{\"title\":{\"chinese\":\"致深愛妳的那個我\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (139359,'{\"title\":{\"chinese\":\"劇場版 轉生成女性向遊戲只有毀滅END的壞人大小姐\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (139375,'{\"title\":{\"chinese\":\"やみつきフェロモン THE ANIMATION\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (139386,'{\"title\":{\"chinese\":\"薄櫻鬼 OVA (2021)\"},\"synonyms_chinese\":[]}');
