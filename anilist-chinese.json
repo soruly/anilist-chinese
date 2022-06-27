@@ -28989,6 +28989,13 @@
     ]
   },
   {
+    "id": 103118,
+    "title": "聯盟空軍航空魔法音樂隊 Luminous Witches",
+    "synonyms": [
+      "聯盟空軍航空魔法音樂隊 光輝魔女"
+    ]
+  },
+  {
     "id": 103119,
     "title": "第 501 統合戰鬥航空團 強襲魔女 ROAD to BERLIN",
     "synonyms": []
@@ -29514,6 +29521,11 @@
     "synonyms": [
       "搖曳露營△ 第二季"
     ]
+  },
+  {
+    "id": 104460,
+    "title": "劇場版 搖曳露營",
+    "synonyms": []
   },
   {
     "id": 104461,
@@ -31578,6 +31590,13 @@
     "synonyms": []
   },
   {
+    "id": 112640,
+    "title": "傳頌之物 二人的白皇",
+    "synonyms": [
+      "受讚頌者 二人的白皇"
+    ]
+  },
+  {
     "id": 112641,
     "title": "輝夜姬想讓人告白? ~天才們的戀愛頭腦戰~",
     "synonyms": [
@@ -32098,6 +32117,13 @@
     "synonyms": []
   },
   {
+    "id": 114745,
+    "title": "Made in Abyss 烈日的黃金鄉",
+    "synonyms": [
+      "來自深淵 烈日的黃金鄉"
+    ]
+  },
+  {
     "id": 114811,
     "title": "Digimon Adventure:",
     "synonyms": [
@@ -32528,6 +32554,11 @@
     "synonyms": []
   },
   {
+    "id": 117196,
+    "title": "東京喵喵 NEW ～♡",
+    "synonyms": []
+  },
+  {
     "id": 117197,
     "title": "TIGER & BUNNY 2",
     "synonyms": [
@@ -32848,6 +32879,11 @@
   {
     "id": 120376,
     "title": "美麗新世界",
+    "synonyms": []
+  },
+  {
+    "id": 120377,
+    "title": "Cyberpunk: Edgerunners",
     "synonyms": []
   },
   {
@@ -33177,6 +33213,11 @@
     "synonyms": []
   },
   {
+    "id": 124410,
+    "title": "出租女友 2",
+    "synonyms": []
+  },
+  {
     "id": 124472,
     "title": "Himote House OVA",
     "synonyms": [
@@ -33205,7 +33246,7 @@
   },
   {
     "id": 124641,
-    "title": "邪神與廚二病少女 3",
+    "title": "邪神與廚二病少女 X",
     "synonyms": []
   },
   {
@@ -33265,6 +33306,11 @@
   {
     "id": 125206,
     "title": "月光下的異世界之旅",
+    "synonyms": []
+  },
+  {
+    "id": 125261,
+    "title": "劇場版 弦音－風舞高中弓道部－射－",
     "synonyms": []
   },
   {
@@ -33465,6 +33511,11 @@
     "synonyms": []
   },
   {
+    "id": 126843,
+    "title": "殘念的生物事典",
+    "synonyms": []
+  },
+  {
     "id": 126897,
     "title": "三角窗外是黑夜",
     "synonyms": []
@@ -33477,6 +33528,11 @@
   {
     "id": 127050,
     "title": "相愛相殺",
+    "synonyms": []
+  },
+  {
+    "id": 127090,
+    "title": "異世界迷宮裡的後宮生活",
     "synonyms": []
   },
   {
@@ -33601,6 +33657,11 @@
     ]
   },
   {
+    "id": 128223,
+    "title": "即使如此依舊步步進逼",
+    "synonyms": []
+  },
+  {
     "id": 128399,
     "title": "Fairy 蘭丸",
     "synonyms": []
@@ -33664,6 +33725,16 @@
     "synonyms": []
   },
   {
+    "id": 128738,
+    "title": "殘念的生物事典 (2019)",
+    "synonyms": []
+  },
+  {
+    "id": 128739,
+    "title": "殘念的生物事典 (Special)",
+    "synonyms": []
+  },
+  {
     "id": 128740,
     "title": "劇場版 七大罪 被光詛咒的人們",
     "synonyms": []
@@ -33709,6 +33780,11 @@
   {
     "id": 129191,
     "title": "失格紋的最強賢者",
+    "synonyms": []
+  },
+  {
+    "id": 129192,
+    "title": "轉生賢者的異世界生活～取得第二職業，成為世界最強～",
     "synonyms": []
   },
   {
@@ -33845,6 +33921,11 @@
     "synonyms": []
   },
   {
+    "id": 130439,
+    "title": "殘念的生物事典 (2021)",
+    "synonyms": []
+  },
+  {
     "id": 130442,
     "title": "壽司大相撲",
     "synonyms": []
@@ -33887,6 +33968,11 @@
   {
     "id": 130591,
     "title": "食鏽末世錄",
+    "synonyms": []
+  },
+  {
+    "id": 130592,
+    "title": "打工吧！魔王大人！！",
     "synonyms": []
   },
   {
@@ -34039,6 +34125,11 @@
     "synonyms": []
   },
   {
+    "id": 131912,
+    "title": "風都偵探",
+    "synonyms": []
+  },
+  {
     "id": 131942,
     "title": "JoJo的奇妙冒險 石之海",
     "synonyms": []
@@ -34172,6 +34263,11 @@
     "synonyms": []
   },
   {
+    "id": 132804,
+    "title": "劇場版 殘念的生物事典",
+    "synonyms": []
+  },
+  {
     "id": 132806,
     "title": "異世界食堂 2",
     "synonyms": []
@@ -34209,6 +34305,11 @@
   {
     "id": 133510,
     "title": "群馬寶寶",
+    "synonyms": []
+  },
+  {
+    "id": 133844,
+    "title": "Overlord  IV",
     "synonyms": []
   },
   {
@@ -34316,6 +34417,11 @@
     ]
   },
   {
+    "id": 135806,
+    "title": "異世界歸來的舅舅",
+    "synonyms": []
+  },
+  {
     "id": 135848,
     "title": "王子的本命是反派大小姐",
     "synonyms": []
@@ -34405,8 +34511,18 @@
     "synonyms": []
   },
   {
+    "id": 136707,
+    "title": "異世界藥局",
+    "synonyms": []
+  },
+  {
     "id": 136829,
     "title": "轉生成女性向遊戲只有毀滅END的壞人大小姐 OVA",
+    "synonyms": []
+  },
+  {
+    "id": 136934,
+    "title": "繼母的拖油瓶是我的前女友",
     "synonyms": []
   },
   {
@@ -34466,6 +34582,11 @@
   {
     "id": 137612,
     "title": "Princess Principal: Crown Handler 第3章",
+    "synonyms": []
+  },
+  {
+    "id": 137621,
+    "title": "花火醬總是遲到",
     "synonyms": []
   },
   {
@@ -34575,6 +34696,11 @@
     "synonyms": []
   },
   {
+    "id": 138882,
+    "title": "組長女兒與保姆",
+    "synonyms": []
+  },
+  {
     "id": 138899,
     "title": "攻殼機動隊 SAC_2045 可能持續的戰爭",
     "synonyms": []
@@ -34583,6 +34709,13 @@
     "id": 138912,
     "title": "川尻小玉的懶散生活",
     "synonyms": []
+  },
+  {
+    "id": 139093,
+    "title": "SHADOWS HOUSE 2nd Season",
+    "synonyms": [
+      "SHADOWS HOUSE-影宅- 2nd Season"
+    ]
   },
   {
     "id": 139273,
@@ -34650,6 +34783,11 @@
     "synonyms": []
   },
   {
+    "id": 139643,
+    "title": "漂流家園",
+    "synonyms": []
+  },
+  {
     "id": 139648,
     "title": "現實主義勇者的王國重建記 第二部",
     "synonyms": []
@@ -34676,6 +34814,11 @@
       "闇影詩章F",
       "影之詩F"
     ]
+  },
+  {
+    "id": 140187,
+    "title": "新網球王子 U-17 WORLD CUP",
+    "synonyms": []
   },
   {
     "id": 140320,
@@ -34717,6 +34860,11 @@
     ]
   },
   {
+    "id": 140642,
+    "title": "Love Live! Superstar!! 2",
+    "synonyms": []
+  },
+  {
     "id": 140643,
     "title": "東京 24 區",
     "synonyms": []
@@ -34727,6 +34875,11 @@
     "synonyms": [
       "天空色的多功能杆"
     ]
+  },
+  {
+    "id": 140753,
+    "title": "SHINE POST",
+    "synonyms": []
   },
   {
     "id": 140788,
@@ -34763,6 +34916,11 @@
     "synonyms": []
   },
   {
+    "id": 141062,
+    "title": "TECHNOROID: OVERMIND",
+    "synonyms": []
+  },
+  {
     "id": 141063,
     "title": "沒辦法開播！",
     "synonyms": []
@@ -34778,8 +34936,18 @@
     "synonyms": []
   },
   {
+    "id": 141351,
+    "title": "狂賭之淵 雙",
+    "synonyms": []
+  },
+  {
     "id": 141368,
     "title": "オタクに優しいギャルとか、巨乳の幼なじみとか。",
+    "synonyms": []
+  },
+  {
+    "id": 141391,
+    "title": "徹夜之歌",
     "synonyms": []
   },
   {
@@ -34791,6 +34959,13 @@
     "id": 141774,
     "title": "派對咖孔明",
     "synonyms": []
+  },
+  {
+    "id": 141775,
+    "title": "Shoot! -Goal to the Future-",
+    "synonyms": [
+      "足球風雲！Goal to the Future"
+    ]
   },
   {
     "id": 141907,
@@ -34812,6 +34987,11 @@
   {
     "id": 142080,
     "title": "Delicious Party♡Precure",
+    "synonyms": []
+  },
+  {
+    "id": 142095,
+    "title": "神渣☆偶像",
     "synonyms": []
   },
   {
@@ -34862,6 +35042,11 @@
     "synonyms": []
   },
   {
+    "id": 142769,
+    "title": "通往夏天的隧道，再見的出口",
+    "synonyms": []
+  },
+  {
     "id": 142826,
     "title": "闇芝居 10",
     "synonyms": []
@@ -34889,6 +35074,11 @@
     ]
   },
   {
+    "id": 143082,
+    "title": "佐佐木與宮野 OVA",
+    "synonyms": []
+  },
+  {
     "id": 143150,
     "title": "Key, etc. Season 2",
     "synonyms": [
@@ -34906,6 +35096,13 @@
     "synonyms": []
   },
   {
+    "id": 143270,
+    "title": "Lycoris Recoil",
+    "synonyms": [
+      "莉可麗絲 Recoil"
+    ]
+  },
+  {
     "id": 143286,
     "title": "淫行教師の催眠セイ活指導録",
     "synonyms": []
@@ -34916,6 +35113,11 @@
     "synonyms": []
   },
   {
+    "id": 143417,
+    "title": "頂點!!!!!!!!!!!!!!!",
+    "synonyms": []
+  },
+  {
     "id": 143455,
     "title": "雀魂 PONG☆",
     "synonyms": []
@@ -34923,6 +35125,16 @@
   {
     "id": 143846,
     "title": "平凡職業造就世界最強 第二季 SP",
+    "synonyms": []
+  },
+  {
+    "id": 144323,
+    "title": "惑星公主蜥蜴騎士",
+    "synonyms": []
+  },
+  {
+    "id": 144509,
+    "title": "Prima Doll",
     "synonyms": []
   },
   {
@@ -34941,8 +35153,18 @@
     "synonyms": []
   },
   {
+    "id": 144858,
+    "title": "CHIMIMO",
+    "synonyms": []
+  },
+  {
     "id": 144996,
     "title": "ハーレム・カルト side HAREM",
+    "synonyms": []
+  },
+  {
+    "id": 145001,
+    "title": "Extreme Hearts",
     "synonyms": []
   },
   {
@@ -34951,13 +35173,62 @@
     "synonyms": []
   },
   {
+    "id": 145260,
+    "title": "黑之召喚士",
+    "synonyms": []
+  },
+  {
+    "id": 145468,
+    "title": "YUREI DECO",
+    "synonyms": []
+  },
+  {
+    "id": 145545,
+    "title": "歡迎來到實力至上主義的教室 第二季",
+    "synonyms": []
+  },
+  {
     "id": 145560,
     "title": "平凡職業造就世界最強 Prologue",
     "synonyms": []
   },
   {
+    "id": 146210,
+    "title": "金裝的維爾梅 瀕臨留級的魔法師聯手最強災厄勇闖魔法世界",
+    "synonyms": []
+  },
+  {
     "id": 146282,
     "title": "巨乳女戦士・土下座催眠",
+    "synonyms": []
+  },
+  {
+    "id": 146501,
+    "title": "BanG Dream! Morfonication",
+    "synonyms": []
+  },
+  {
+    "id": 146625,
+    "title": "Engage Kiss",
+    "synonyms": [
+      "契約之吻"
+    ]
+  },
+  {
+    "id": 146637,
+    "title": "ORIENT 淡路島激鬥篇",
+    "synonyms": [
+      "ORIENT 東方少年 淡路島激鬥篇"
+    ]
+  },
+  {
+    "id": 146650,
+    "title": "暴怒！",
+    "synonyms": []
+  },
+  {
+    "id": 146668,
+    "title": "RWBY 冰雪帝國",
     "synonyms": []
   },
   {
@@ -34976,6 +35247,11 @@
     "synonyms": []
   },
   {
+    "id": 146921,
+    "title": "平凡職業造就世界最強 第二季 OVA",
+    "synonyms": []
+  },
+  {
     "id": 146951,
     "title": "＃今までで一番良かったセックス The Animation",
     "synonyms": []
@@ -34983,6 +35259,41 @@
   {
     "id": 147287,
     "title": "J〇限界交尾～合意挿入でバチバチ肉穴化～",
+    "synonyms": []
+  },
+  {
+    "id": 148042,
+    "title": "今晚有貓伴身邊",
+    "synonyms": []
+  },
+  {
+    "id": 148492,
+    "title": "KJ File",
+    "synonyms": []
+  },
+  {
+    "id": 148970,
+    "title": "銀河英雄傳說 Die Neue These 策謀",
+    "synonyms": []
+  },
+  {
+    "id": 149326,
+    "title": "新來的女傭有點怪",
+    "synonyms": []
+  },
+  {
+    "id": 149874,
+    "title": "盛開的阿斯諾特莉亞",
+    "synonyms": []
+  },
+  {
+    "id": 150909,
+    "title": "5億年按鈕",
+    "synonyms": []
+  },
+  {
+    "id": 151128,
+    "title": "iii icecrin 2",
     "synonyms": []
   }
 ]
