@@ -4479,7 +4479,7 @@ INSERT INTO `anilist_chinese` VALUES (98573,'{\"title\":{\"chinese\":\"相對世
 INSERT INTO `anilist_chinese` VALUES (98574,'{\"title\":{\"chinese\":\"一人之下 The Outcast 2\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (98575,'{\"title\":{\"chinese\":\"To Be Heroine\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (98576,'{\"title\":{\"chinese\":\"Chaos;Child: Silent Sky\"},\"synonyms_chinese\":[]}');
-INSERT INTO `anilist_chinese` VALUES (98577,'{\"title\":{\"chinese\":\"むさしの!\"},\"synonyms_chinese\":[\"浦和的小調 2\"]}');
+INSERT INTO `anilist_chinese` VALUES (98577,'{\"title\":{\"chinese\":\"浦和的小調 2\"},\"synonyms_chinese\":[\"浦和的小調 2\"]}');
 INSERT INTO `anilist_chinese` VALUES (98579,'{\"title\":{\"chinese\":\"變形少女\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (98580,'{\"title\":{\"chinese\":\"小林家的女僕龍\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (98586,'{\"title\":{\"chinese\":\"貓貓日本史 2\"},\"synonyms_chinese\":[]}');
@@ -6018,6 +6018,7 @@ INSERT INTO `anilist_chinese` VALUES (136428,'{\"title\":{\"chinese\":\"怪人�
 INSERT INTO `anilist_chinese` VALUES (136436,'{\"title\":{\"chinese\":\"小林家的女僕龍 S SP\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (136512,'{\"title\":{\"chinese\":\"叫我對大哥 (ONA)\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (136707,'{\"title\":{\"chinese\":\"異世界藥局\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (136796,'{\"title\":{\"chinese\":\"森林裡的熊先生，冬眠中。\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (136829,'{\"title\":{\"chinese\":\"轉生成女性向遊戲只有毀滅END的壞人大小姐 OVA\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (136934,'{\"title\":{\"chinese\":\"繼母的拖油瓶是我的前女友\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (136947,'{\"title\":{\"chinese\":\"Deep Insanity: THE LOST CHILD\"},\"synonyms_chinese\":[\"狂熱深淵 迷失的孩子\"]}');
@@ -6143,7 +6144,7 @@ INSERT INTO `anilist_chinese` VALUES (144996,'{\"title\":{\"chinese\":\"ハー�
 INSERT INTO `anilist_chinese` VALUES (145001,'{\"title\":{\"chinese\":\"Extreme Hearts\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (145016,'{\"title\":{\"chinese\":\"異世界ヤリサー\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (145260,'{\"title\":{\"chinese\":\"黑之召喚士\"},\"synonyms_chinese\":[]}');
-INSERT INTO `anilist_chinese` VALUES (145468,'{\"title\":{\"chinese\":\"YUREI DECO\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (145468,'{\"title\":{\"chinese\":\"YUREI DECO\"},\"synonyms_chinese\":[\"幽零幻鏡\"]}');
 INSERT INTO `anilist_chinese` VALUES (145545,'{\"title\":{\"chinese\":\"歡迎來到實力至上主義的教室 第二季\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (145560,'{\"title\":{\"chinese\":\"平凡職業造就世界最強 Prologue\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (146210,'{\"title\":{\"chinese\":\"金裝的維爾梅 瀕臨留級的魔法師聯手最強災厄勇闖魔法世界\"},\"synonyms_chinese\":[]}');

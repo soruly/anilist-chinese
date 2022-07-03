@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2022.6.27
+// @version      2.2022.7.3
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -4458,7 +4458,7 @@ var database = [
 {id:98574,title:"一人之下 The Outcast 2"},
 {id:98575,title:"To Be Heroine"},
 {id:98576,title:"Chaos;Child: Silent Sky"},
-{id:98577,title:"むさしの!"},
+{id:98577,title:"浦和的小調 2"},
 {id:98579,title:"變形少女"},
 {id:98580,title:"小林家的女僕龍"},
 {id:98586,title:"貓貓日本史 2"},
@@ -5997,6 +5997,7 @@ var database = [
 {id:136436,title:"小林家的女僕龍 S SP"},
 {id:136512,title:"叫我對大哥 (ONA)"},
 {id:136707,title:"異世界藥局"},
+{id:136796,title:"森林裡的熊先生，冬眠中。"},
 {id:136829,title:"轉生成女性向遊戲只有毀滅END的壞人大小姐 OVA"},
 {id:136934,title:"繼母的拖油瓶是我的前女友"},
 {id:136947,title:"Deep Insanity: THE LOST CHILD"},
