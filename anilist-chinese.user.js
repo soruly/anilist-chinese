@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2022.7.3
+// @version      2.2022.7.4
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -4907,7 +4907,6 @@ var database = [
 {id:101902,title:"エルフの教え子と先生"},
 {id:101903,title:"強風吹拂"},
 {id:101908,title:"HUG！光之美少女♡初代光之美少女 群星回憶"},
-{id:101909,title:"No Game No Life Zero SP"},
 {id:101921,title:"輝夜姬想讓人告白~天才們的戀愛頭腦戰~"},
 {id:101922,title:"鬼滅之刃"},
 {id:101924,title:"食戟之靈 餐之皿 OVA"},

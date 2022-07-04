@@ -4928,7 +4928,6 @@ INSERT INTO `anilist_chinese` VALUES (101875,'{\"title\":{\"chinese\":\"Code:Rea
 INSERT INTO `anilist_chinese` VALUES (101902,'{\"title\":{\"chinese\":\"エルフの教え子と先生\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (101903,'{\"title\":{\"chinese\":\"強風吹拂\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (101908,'{\"title\":{\"chinese\":\"HUG！光之美少女♡初代光之美少女 群星回憶\"},\"synonyms_chinese\":[]}');
-INSERT INTO `anilist_chinese` VALUES (101909,'{\"title\":{\"chinese\":\"No Game No Life Zero SP\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (101921,'{\"title\":{\"chinese\":\"輝夜姬想讓人告白~天才們的戀愛頭腦戰~\"},\"synonyms_chinese\":[\"輝夜大小姐想讓我告白~天才們的戀愛頭腦戰~\"]}');
 INSERT INTO `anilist_chinese` VALUES (101922,'{\"title\":{\"chinese\":\"鬼滅之刃\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (101924,'{\"title\":{\"chinese\":\"食戟之靈 餐之皿 OVA\"},\"synonyms_chinese\":[]}');

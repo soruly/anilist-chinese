@@ -4891,7 +4891,6 @@ const db = new Map([
 [101902,{title:"エルフの教え子と先生",synonyms:[]}],
 [101903,{title:"強風吹拂",synonyms:[]}],
 [101908,{title:"HUG！光之美少女♡初代光之美少女 群星回憶",synonyms:[]}],
-[101909,{title:"No Game No Life Zero SP",synonyms:[]}],
 [101921,{title:"輝夜姬想讓人告白~天才們的戀愛頭腦戰~",synonyms:["輝夜大小姐想讓我告白~天才們的戀愛頭腦戰~"]}],
 [101922,{title:"鬼滅之刃",synonyms:[]}],
 [101924,{title:"食戟之靈 餐之皿 OVA",synonyms:[]}],
