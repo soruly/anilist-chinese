@@ -6127,14 +6127,14 @@ INSERT INTO `anilist_chinese` VALUES (143082,'{\"title\":{\"chinese\":\"佐佐�
 INSERT INTO `anilist_chinese` VALUES (143150,'{\"title\":{\"chinese\":\"Key, etc. Season 2\"},\"synonyms_chinese\":[\"鍵等 第二季\"]}');
 INSERT INTO `anilist_chinese` VALUES (143202,'{\"title\":{\"chinese\":\"Princess Principal: Crown Handler 第2章 OVA\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (143203,'{\"title\":{\"chinese\":\"境界戰機 第二部\"},\"synonyms_chinese\":[]}');
-INSERT INTO `anilist_chinese` VALUES (143270,'{\"title\":{\"chinese\":\"Lycoris Recoil\"},\"synonyms_chinese\":[\"莉可麗絲 Recoil\"]}');
+INSERT INTO `anilist_chinese` VALUES (143270,'{\"title\":{\"chinese\":\"Lycoris Recoil\"},\"synonyms_chinese\":[\"莉可麗絲 Recoil\",\"彼岸花的後坐力\"]}');
 INSERT INTO `anilist_chinese` VALUES (143286,'{\"title\":{\"chinese\":\"淫行教師の催眠セイ活指導録\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (143289,'{\"title\":{\"chinese\":\"ESTAB LIFE: Great Escape\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (143417,'{\"title\":{\"chinese\":\"頂點!!!!!!!!!!!!!!!\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (143455,'{\"title\":{\"chinese\":\"雀魂 PONG☆\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (143846,'{\"title\":{\"chinese\":\"平凡職業造就世界最強 第二季 SP\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (144323,'{\"title\":{\"chinese\":\"惑星公主蜥蜴騎士\"},\"synonyms_chinese\":[]}');
-INSERT INTO `anilist_chinese` VALUES (144509,'{\"title\":{\"chinese\":\"Prima Doll\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (144509,'{\"title\":{\"chinese\":\"Prima Doll\"},\"synonyms_chinese\":[\"天籟人偶\"]}');
 INSERT INTO `anilist_chinese` VALUES (144676,'{\"title\":{\"chinese\":\"Onipan!\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (144677,'{\"title\":{\"chinese\":\"BASTARD!! －暗黑破壞神－\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (144853,'{\"title\":{\"chinese\":\"Insect Land\"},\"synonyms_chinese\":[]}');
