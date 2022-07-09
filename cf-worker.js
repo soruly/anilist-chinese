@@ -6114,7 +6114,7 @@ const db = new Map([
 [146501,{title:"BanG Dream! Morfonication",synonyms:[]}],
 [146625,{title:"Engage Kiss",synonyms:["契約之吻"]}],
 [146637,{title:"ORIENT 淡路島激鬥篇",synonyms:["ORIENT 東方少年 淡路島激鬥篇"]}],
-[146650,{title:"暴怒！",synonyms:[]}],
+[146650,{title:"暴怒！",synonyms:["幕末替身傳說"]}],
 [146668,{title:"RWBY 冰雪帝國",synonyms:[]}],
 [146741,{title:"パンデミック",synonyms:[]}],
 [146742,{title:"処女はお姉さまに恋してる 三つのきら星 The Animation",synonyms:[]}],

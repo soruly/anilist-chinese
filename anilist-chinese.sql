@@ -6151,7 +6151,7 @@ INSERT INTO `anilist_chinese` VALUES (146282,'{\"title\":{\"chinese\":\"巨乳�
 INSERT INTO `anilist_chinese` VALUES (146501,'{\"title\":{\"chinese\":\"BanG Dream! Morfonication\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (146625,'{\"title\":{\"chinese\":\"Engage Kiss\"},\"synonyms_chinese\":[\"契約之吻\"]}');
 INSERT INTO `anilist_chinese` VALUES (146637,'{\"title\":{\"chinese\":\"ORIENT 淡路島激鬥篇\"},\"synonyms_chinese\":[\"ORIENT 東方少年 淡路島激鬥篇\"]}');
-INSERT INTO `anilist_chinese` VALUES (146650,'{\"title\":{\"chinese\":\"暴怒！\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (146650,'{\"title\":{\"chinese\":\"暴怒！\"},\"synonyms_chinese\":[\"幕末替身傳說\"]}');
 INSERT INTO `anilist_chinese` VALUES (146668,'{\"title\":{\"chinese\":\"RWBY 冰雪帝國\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (146741,'{\"title\":{\"chinese\":\"パンデミック\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (146742,'{\"title\":{\"chinese\":\"処女はお姉さまに恋してる 三つのきら星 The Animation\"},\"synonyms_chinese\":[]}');
