@@ -6122,6 +6122,8 @@ const db = new Map([
 [146921,{title:"平凡職業造就世界最強 第二季 OVA",synonyms:[]}],
 [146951,{title:"＃今までで一番良かったセックス The Animation",synonyms:[]}],
 [147287,{title:"J〇限界交尾～合意挿入でバチバチ肉穴化～",synonyms:[]}],
+[147430,{title:"夏休み明けの彼女は…",synonyms:[]}],
+[147578,{title:"聖華女学院公認竿おじさん",synonyms:[]}],
 [148042,{title:"今晚有貓伴身邊",synonyms:[]}],
 [148492,{title:"KJ File",synonyms:[]}],
 [148970,{title:"銀河英雄傳說 Die Neue These 策謀",synonyms:[]}],

@@ -6159,6 +6159,8 @@ INSERT INTO `anilist_chinese` VALUES (146837,'{\"title\":{\"chinese\":\"ツグ�
 INSERT INTO `anilist_chinese` VALUES (146921,'{\"title\":{\"chinese\":\"平凡職業造就世界最強 第二季 OVA\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (146951,'{\"title\":{\"chinese\":\"＃今までで一番良かったセックス The Animation\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (147287,'{\"title\":{\"chinese\":\"J〇限界交尾～合意挿入でバチバチ肉穴化～\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (147430,'{\"title\":{\"chinese\":\"夏休み明けの彼女は…\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (147578,'{\"title\":{\"chinese\":\"聖華女学院公認竿おじさん\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (148042,'{\"title\":{\"chinese\":\"今晚有貓伴身邊\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (148492,'{\"title\":{\"chinese\":\"KJ File\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (148970,'{\"title\":{\"chinese\":\"銀河英雄傳說 Die Neue These 策謀\"},\"synonyms_chinese\":[]}');

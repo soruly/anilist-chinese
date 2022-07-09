@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2022.7.4
+// @version      2.2022.7.9
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -6138,6 +6138,8 @@ var database = [
 {id:146921,title:"平凡職業造就世界最強 第二季 OVA"},
 {id:146951,title:"＃今までで一番良かったセックス The Animation"},
 {id:147287,title:"J〇限界交尾～合意挿入でバチバチ肉穴化～"},
+{id:147430,title:"夏休み明けの彼女は…"},
+{id:147578,title:"聖華女学院公認竿おじさん"},
 {id:148042,title:"今晚有貓伴身邊"},
 {id:148492,title:"KJ File"},
 {id:148970,title:"銀河英雄傳說 Die Neue These 策謀"},
