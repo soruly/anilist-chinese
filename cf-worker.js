@@ -6128,7 +6128,7 @@ const db = new Map([
 [148492,{title:"KJ File",synonyms:[]}],
 [148970,{title:"銀河英雄傳說 Die Neue These 策謀",synonyms:[]}],
 [149326,{title:"新來的女傭有點怪",synonyms:[]}],
-[149874,{title:"盛開的阿斯諾特莉亞",synonyms:[]}],
+[149874,{title:"盛開的阿斯諾特莉亞",synonyms:["綻放的阿爾斯諾特利亞"]}],
 [150909,{title:"5億年按鈕",synonyms:[]}],
 [151128,{title:"iii icecrin 2",synonyms:[]}]
 ]);
