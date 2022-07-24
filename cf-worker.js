@@ -5227,7 +5227,7 @@ const db = new Map([
 [108307,{title:"PSYCHO-PASS 3",synonyms:["心靈判官 3"]}],
 [108309,{title:"魔将の贄3 待典映像",synonyms:[]}],
 [108331,{title:"ヌーディストビーチに修学旅行で!! THE ANIMATION",synonyms:[]}],
-[108353,{title:"SPRIGGAN",synonyms:[]}],
+[108353,{title:"SPRIGGAN",synonyms:["保衛者","轟天高校生","遺跡守護者"]}],
 [108357,{title:"Vampire in the Garden",synonyms:["花園裡的吸血鬼"]}],
 [108358,{title:"Phantasy Star Online 2 Episode Oracle",synonyms:["夢幻之星Online 2 Episode Oracle"]}],
 [108388,{title:"超人高中生們即便在異世界也能從容生存！",synonyms:[]}],

@@ -5264,7 +5264,7 @@ INSERT INTO `anilist_chinese` VALUES (108268,'{\"title\":{\"chinese\":\"小書�
 INSERT INTO `anilist_chinese` VALUES (108307,'{\"title\":{\"chinese\":\"PSYCHO-PASS 3\"},\"synonyms_chinese\":[\"心靈判官 3\"]}');
 INSERT INTO `anilist_chinese` VALUES (108309,'{\"title\":{\"chinese\":\"魔将の贄3 待典映像\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (108331,'{\"title\":{\"chinese\":\"ヌーディストビーチに修学旅行で!! THE ANIMATION\"},\"synonyms_chinese\":[]}');
-INSERT INTO `anilist_chinese` VALUES (108353,'{\"title\":{\"chinese\":\"SPRIGGAN\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (108353,'{\"title\":{\"chinese\":\"SPRIGGAN\"},\"synonyms_chinese\":[\"保衛者\",\"轟天高校生\",\"遺跡守護者\"]}');
 INSERT INTO `anilist_chinese` VALUES (108357,'{\"title\":{\"chinese\":\"Vampire in the Garden\"},\"synonyms_chinese\":[\"花園裡的吸血鬼\"]}');
 INSERT INTO `anilist_chinese` VALUES (108358,'{\"title\":{\"chinese\":\"Phantasy Star Online 2 Episode Oracle\"},\"synonyms_chinese\":[\"夢幻之星Online 2 Episode Oracle\"]}');
 INSERT INTO `anilist_chinese` VALUES (108388,'{\"title\":{\"chinese\":\"超人高中生們即便在異世界也能從容生存！\"},\"synonyms_chinese\":[]}');
