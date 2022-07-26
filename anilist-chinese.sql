@@ -6120,6 +6120,7 @@ INSERT INTO `anilist_chinese` VALUES (142549,'{\"title\":{\"chinese\":\"蠟筆�
 INSERT INTO `anilist_chinese` VALUES (142769,'{\"title\":{\"chinese\":\"通往夏天的隧道，再見的出口\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (142826,'{\"title\":{\"chinese\":\"闇芝居 10\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (142842,'{\"title\":{\"chinese\":\"遊戯王 Go Rush!!\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (142876,'{\"title\":{\"chinese\":\"Dr. STONE 龍水\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (142984,'{\"title\":{\"chinese\":\"古見同學是溝通魯蛇。2期\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (143065,'{\"title\":{\"chinese\":\"闇憑村/めるてぃーりみっと The Animation\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (143080,'{\"title\":{\"chinese\":\"ODD TAXI: In the Woods\"},\"synonyms_chinese\":[\"奇巧計程車 In The Woods\"]}');

@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2022.7.9
+// @version      2.2022.7.26
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -6099,6 +6099,7 @@ var database = [
 {id:142769,title:"通往夏天的隧道，再見的出口"},
 {id:142826,title:"闇芝居 10"},
 {id:142842,title:"遊戯王 Go Rush!!"},
+{id:142876,title:"Dr. STONE 龍水"},
 {id:142984,title:"古見同學是溝通魯蛇。2期"},
 {id:143065,title:"闇憑村/めるてぃーりみっと The Animation"},
 {id:143080,title:"ODD TAXI: In the Woods"},

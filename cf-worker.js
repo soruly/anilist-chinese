@@ -6083,6 +6083,7 @@ const db = new Map([
 [142769,{title:"通往夏天的隧道，再見的出口",synonyms:[]}],
 [142826,{title:"闇芝居 10",synonyms:[]}],
 [142842,{title:"遊戯王 Go Rush!!",synonyms:[]}],
+[142876,{title:"Dr. STONE 龍水",synonyms:[]}],
 [142984,{title:"古見同學是溝通魯蛇。2期",synonyms:[]}],
 [143065,{title:"闇憑村/めるてぃーりみっと The Animation",synonyms:[]}],
 [143080,{title:"ODD TAXI: In the Woods",synonyms:["奇巧計程車 In The Woods"]}],
