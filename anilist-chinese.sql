@@ -6071,6 +6071,7 @@ INSERT INTO `anilist_chinese` VALUES (139589,'{\"title\":{\"chinese\":\"小太�
 INSERT INTO `anilist_chinese` VALUES (139637,'{\"title\":{\"chinese\":\"がーるずらっしゅ THE ANIMATION\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (139643,'{\"title\":{\"chinese\":\"漂流家園\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (139648,'{\"title\":{\"chinese\":\"現實主義勇者的王國重建記 第二部\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (139675,'{\"title\":{\"chinese\":\"ぷちセカ\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (139804,'{\"title\":{\"chinese\":\"TRIBE NINE\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (139883,'{\"title\":{\"chinese\":\"パパ喝ッ！\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (140002,'{\"title\":{\"chinese\":\"名偵探柯南 零的日常\"},\"synonyms_chinese\":[]}');

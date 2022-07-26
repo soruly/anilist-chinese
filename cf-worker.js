@@ -6034,6 +6034,7 @@ const db = new Map([
 [139637,{title:"がーるずらっしゅ THE ANIMATION",synonyms:[]}],
 [139643,{title:"漂流家園",synonyms:[]}],
 [139648,{title:"現實主義勇者的王國重建記 第二部",synonyms:[]}],
+[139675,{title:"ぷちセカ",synonyms:[]}],
 [139804,{title:"TRIBE NINE",synonyms:[]}],
 [139883,{title:"パパ喝ッ！",synonyms:[]}],
 [140002,{title:"名偵探柯南 零的日常",synonyms:[]}],

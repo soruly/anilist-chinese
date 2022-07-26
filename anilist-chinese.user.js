@@ -6050,6 +6050,7 @@ var database = [
 {id:139637,title:"がーるずらっしゅ THE ANIMATION"},
 {id:139643,title:"漂流家園"},
 {id:139648,title:"現實主義勇者的王國重建記 第二部"},
+{id:139675,title:"ぷちセカ"},
 {id:139804,title:"TRIBE NINE"},
 {id:139883,title:"パパ喝ッ！"},
 {id:140002,title:"名偵探柯南 零的日常"},
