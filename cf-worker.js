@@ -5906,6 +5906,7 @@ const db = new Map([
 [131826,{title:"エロゲで全ては解決できる！ THE ANIMATION",synonyms:[]}],
 [131878,{title:"逆轉世界的電池少女",synonyms:[]}],
 [131912,{title:"風都偵探",synonyms:[]}],
+[131930,{title:"武士彌助",synonyms:[]}],
 [131942,{title:"JoJo的奇妙冒險 石之海",synonyms:[]}],
 [132010,{title:"談戀愛要在征服世界後",synonyms:[]}],
 [132052,{title:"杜鵑婚約",synonyms:[]}],

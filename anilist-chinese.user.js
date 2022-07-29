@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2022.7.26
+// @version      2.2022.7.29
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -5922,6 +5922,7 @@ var database = [
 {id:131826,title:"エロゲで全ては解決できる！ THE ANIMATION"},
 {id:131878,title:"逆轉世界的電池少女"},
 {id:131912,title:"風都偵探"},
+{id:131930,title:"武士彌助"},
 {id:131942,title:"JoJo的奇妙冒險 石之海"},
 {id:132010,title:"談戀愛要在征服世界後"},
 {id:132052,title:"杜鵑婚約"},

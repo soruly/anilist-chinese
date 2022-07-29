@@ -5943,6 +5943,7 @@ INSERT INTO `anilist_chinese` VALUES (131773,'{\"title\":{\"chinese\":\"WONDER E
 INSERT INTO `anilist_chinese` VALUES (131826,'{\"title\":{\"chinese\":\"エロゲで全ては解決できる！ THE ANIMATION\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (131878,'{\"title\":{\"chinese\":\"逆轉世界的電池少女\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (131912,'{\"title\":{\"chinese\":\"風都偵探\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (131930,'{\"title\":{\"chinese\":\"武士彌助\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (131942,'{\"title\":{\"chinese\":\"JoJo的奇妙冒險 石之海\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (132010,'{\"title\":{\"chinese\":\"談戀愛要在征服世界後\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (132052,'{\"title\":{\"chinese\":\"杜鵑婚約\"},\"synonyms_chinese\":[]}');
