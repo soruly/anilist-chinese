@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2022.7.29
+// @version      2.2022.8.2
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -6116,6 +6116,7 @@ var database = [
 {id:143455,title:"雀魂 PONG☆"},
 {id:143846,title:"平凡職業造就世界最強 第二季 SP"},
 {id:144323,title:"惑星公主蜥蜴騎士"},
+{id:144506,title:"同級生リメイク The Animation"},
 {id:144509,title:"Prima Doll"},
 {id:144676,title:"Onipan!"},
 {id:144677,title:"BASTARD!! －暗黑破壞神－"},
@@ -6144,8 +6145,12 @@ var database = [
 {id:147430,title:"夏休み明けの彼女は…"},
 {id:147578,title:"聖華女学院公認竿おじさん"},
 {id:148042,title:"今晚有貓伴身邊"},
+{id:148112,title:"SLEEPLESS ~A Midsummer Night's Dream~ The Animation"},
+{id:148147,title:"ハヂ+ ～羞チ心～"},
+{id:148148,title:"SUMMER ～田舎の性活～"},
 {id:148492,title:"KJ File"},
 {id:148970,title:"銀河英雄傳說 Die Neue These 策謀"},
+{id:149073,title:"我的英雄學院：像在地獄一樣笑吧！"},
 {id:149326,title:"新來的女傭有點怪"},
 {id:149874,title:"盛開的阿斯諾特莉亞"},
 {id:150909,title:"5億年按鈕"},

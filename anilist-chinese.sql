@@ -6137,6 +6137,7 @@ INSERT INTO `anilist_chinese` VALUES (143417,'{\"title\":{\"chinese\":\"頂點!!
 INSERT INTO `anilist_chinese` VALUES (143455,'{\"title\":{\"chinese\":\"雀魂 PONG☆\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (143846,'{\"title\":{\"chinese\":\"平凡職業造就世界最強 第二季 SP\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (144323,'{\"title\":{\"chinese\":\"惑星公主蜥蜴騎士\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (144506,'{\"title\":{\"chinese\":\"同級生リメイク The Animation\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (144509,'{\"title\":{\"chinese\":\"Prima Doll\"},\"synonyms_chinese\":[\"天籟人偶\"]}');
 INSERT INTO `anilist_chinese` VALUES (144676,'{\"title\":{\"chinese\":\"Onipan!\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (144677,'{\"title\":{\"chinese\":\"BASTARD!! －暗黑破壞神－\"},\"synonyms_chinese\":[]}');
@@ -6165,8 +6166,12 @@ INSERT INTO `anilist_chinese` VALUES (147287,'{\"title\":{\"chinese\":\"J〇限�
 INSERT INTO `anilist_chinese` VALUES (147430,'{\"title\":{\"chinese\":\"夏休み明けの彼女は…\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (147578,'{\"title\":{\"chinese\":\"聖華女学院公認竿おじさん\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (148042,'{\"title\":{\"chinese\":\"今晚有貓伴身邊\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (148112,'{\"title\":{\"chinese\":\"SLEEPLESS ~A Midsummer Night\'s Dream~ The Animation\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (148147,'{\"title\":{\"chinese\":\"ハヂ+ ～羞チ心～\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (148148,'{\"title\":{\"chinese\":\"SUMMER ～田舎の性活～\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (148492,'{\"title\":{\"chinese\":\"KJ File\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (148970,'{\"title\":{\"chinese\":\"銀河英雄傳說 Die Neue These 策謀\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (149073,'{\"title\":{\"chinese\":\"我的英雄學院：像在地獄一樣笑吧！\"},\"synonyms_chinese\":[\"我的英雄學院：HLB 英雄棒球聯盟\"]}');
 INSERT INTO `anilist_chinese` VALUES (149326,'{\"title\":{\"chinese\":\"新來的女傭有點怪\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (149874,'{\"title\":{\"chinese\":\"盛開的阿斯諾特莉亞\"},\"synonyms_chinese\":[\"綻放的阿爾斯諾特利亞\"]}');
 INSERT INTO `anilist_chinese` VALUES (150909,'{\"title\":{\"chinese\":\"5億年按鈕\"},\"synonyms_chinese\":[]}');
