@@ -6175,6 +6175,7 @@ INSERT INTO `anilist_chinese` VALUES (149073,'{\"title\":{\"chinese\":\"我的�
 INSERT INTO `anilist_chinese` VALUES (149326,'{\"title\":{\"chinese\":\"新來的女傭有點怪\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (149874,'{\"title\":{\"chinese\":\"盛開的阿斯諾特莉亞\"},\"synonyms_chinese\":[\"綻放的阿爾斯諾特利亞\"]}');
 INSERT INTO `anilist_chinese` VALUES (150909,'{\"title\":{\"chinese\":\"5億年按鈕\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (151126,'{\"title\":{\"chinese\":\"勇者辭職不幹了 OVA\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (151128,'{\"title\":{\"chinese\":\"iii icecrin 2\"},\"synonyms_chinese\":[]}');
 /*!40000 ALTER TABLE `anilist_chinese` ENABLE KEYS */;
 UNLOCK TABLES;

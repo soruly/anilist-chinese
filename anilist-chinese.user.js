@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2022.8.2
+// @version      2.2022.8.5
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -6154,6 +6154,7 @@ var database = [
 {id:149326,title:"新來的女傭有點怪"},
 {id:149874,title:"盛開的阿斯諾特莉亞"},
 {id:150909,title:"5億年按鈕"},
+{id:151126,title:"勇者辭職不幹了 OVA"},
 {id:151128,title:"iii icecrin 2"}
 ];
 
