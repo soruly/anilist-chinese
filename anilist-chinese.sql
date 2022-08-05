@@ -5263,6 +5263,7 @@ INSERT INTO `anilist_chinese` VALUES (108263,'{\"title\":{\"chinese\":\"自宅�
 INSERT INTO `anilist_chinese` VALUES (108266,'{\"title\":{\"chinese\":\"繼怪怪守護神\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (108267,'{\"title\":{\"chinese\":\"怪怪守護神 OVA\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (108268,'{\"title\":{\"chinese\":\"小書痴的下剋上：為了成為圖書管理員不擇手段！\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (108301,'{\"title\":{\"chinese\":\"そばへ\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (108307,'{\"title\":{\"chinese\":\"PSYCHO-PASS 3\"},\"synonyms_chinese\":[\"心靈判官 3\"]}');
 INSERT INTO `anilist_chinese` VALUES (108309,'{\"title\":{\"chinese\":\"魔将の贄3 待典映像\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (108331,'{\"title\":{\"chinese\":\"ヌーディストビーチに修学旅行で!! THE ANIMATION\"},\"synonyms_chinese\":[]}');
@@ -5430,11 +5431,13 @@ INSERT INTO `anilist_chinese` VALUES (111905,'{\"title\":{\"chinese\":\"角落�
 INSERT INTO `anilist_chinese` VALUES (111931,'{\"title\":{\"chinese\":\"鬼燈的冷徹 2 OVA\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (111944,'{\"title\":{\"chinese\":\"音樂\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (111951,'{\"title\":{\"chinese\":\"寶石商人理察的謎鑑定\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (111964,'{\"title\":{\"chinese\":\"OBSOLETE\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (111965,'{\"title\":{\"chinese\":\"彼得格里爾的賢者時間\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (112010,'{\"title\":{\"chinese\":\"巴加的工作室 ～巴加眼中的海洋～\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (112019,'{\"title\":{\"chinese\":\"宇宙戰艦大和號2205 新的啟程\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (112031,'{\"title\":{\"chinese\":\"科學一方通行 SP\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (112033,'{\"title\":{\"chinese\":\"Zenonzard THE ANIMATION\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (112034,'{\"title\":{\"chinese\":\"Zenonzard: THE ANIMATION - Episode 0\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (112124,'{\"title\":{\"chinese\":\"在地下城尋求邂逅是否搞錯了什麼 III\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (112125,'{\"title\":{\"chinese\":\"在地下城尋求邂逅是否搞錯了什麼 2 OVA\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (112151,'{\"title\":{\"chinese\":\"鬼滅之刃 無限列車編\"},\"synonyms_chinese\":[]}');
