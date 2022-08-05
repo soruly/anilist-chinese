@@ -5265,6 +5265,7 @@ INSERT INTO `anilist_chinese` VALUES (108307,'{\"title\":{\"chinese\":\"PSYCHO-P
 INSERT INTO `anilist_chinese` VALUES (108309,'{\"title\":{\"chinese\":\"魔将の贄3 待典映像\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (108331,'{\"title\":{\"chinese\":\"ヌーディストビーチに修学旅行で!! THE ANIMATION\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (108353,'{\"title\":{\"chinese\":\"SPRIGGAN\"},\"synonyms_chinese\":[\"保衛者\",\"轟天高校生\",\"遺跡守護者\"]}');
+INSERT INTO `anilist_chinese` VALUES (108354,'{\"title\":{\"chinese\":\"外之國的少女\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (108357,'{\"title\":{\"chinese\":\"Vampire in the Garden\"},\"synonyms_chinese\":[\"花園裡的吸血鬼\"]}');
 INSERT INTO `anilist_chinese` VALUES (108358,'{\"title\":{\"chinese\":\"Phantasy Star Online 2 Episode Oracle\"},\"synonyms_chinese\":[\"夢幻之星Online 2 Episode Oracle\"]}');
 INSERT INTO `anilist_chinese` VALUES (108388,'{\"title\":{\"chinese\":\"超人高中生們即便在異世界也能從容生存！\"},\"synonyms_chinese\":[]}');
@@ -5911,7 +5912,7 @@ INSERT INTO `anilist_chinese` VALUES (130513,'{\"title\":{\"chinese\":\"嬰兒�
 INSERT INTO `anilist_chinese` VALUES (130514,'{\"title\":{\"chinese\":\"iii icecrin\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (130515,'{\"title\":{\"chinese\":\"恐龍日和\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (130549,'{\"title\":{\"chinese\":\"RE-MAIN\"},\"synonyms_chinese\":[]}');
-INSERT INTO `anilist_chinese` VALUES (130550,'{\"title\":{\"chinese\":\"外之國的少女\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (130550,'{\"title\":{\"chinese\":\"外之國的少女 (2022)\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (130558,'{\"title\":{\"chinese\":\"ARIA The BENEDIZIONE\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (130586,'{\"title\":{\"chinese\":\"史上最強大魔王轉生為村民 A\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (130591,'{\"title\":{\"chinese\":\"食鏽末世錄\"},\"synonyms_chinese\":[]}');
@@ -6149,6 +6150,7 @@ INSERT INTO `anilist_chinese` VALUES (145001,'{\"title\":{\"chinese\":\"Extreme 
 INSERT INTO `anilist_chinese` VALUES (145016,'{\"title\":{\"chinese\":\"異世界ヤリサー\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (145260,'{\"title\":{\"chinese\":\"黑之召喚士\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (145468,'{\"title\":{\"chinese\":\"YUREI DECO\"},\"synonyms_chinese\":[\"幽零幻鏡\"]}');
+INSERT INTO `anilist_chinese` VALUES (145478,'{\"title\":{\"chinese\":\"hololiveERROR\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (145545,'{\"title\":{\"chinese\":\"歡迎來到實力至上主義的教室 第二季\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (145560,'{\"title\":{\"chinese\":\"平凡職業造就世界最強 Prologue\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (146210,'{\"title\":{\"chinese\":\"金裝的維爾梅 瀕臨留級的魔法師聯手最強災厄勇闖魔法世界\"},\"synonyms_chinese\":[]}');
@@ -6175,6 +6177,8 @@ INSERT INTO `anilist_chinese` VALUES (148970,'{\"title\":{\"chinese\":\"銀河�
 INSERT INTO `anilist_chinese` VALUES (149073,'{\"title\":{\"chinese\":\"我的英雄學院：像在地獄一樣笑吧！\"},\"synonyms_chinese\":[\"我的英雄學院：HLB 英雄棒球聯盟\"]}');
 INSERT INTO `anilist_chinese` VALUES (149326,'{\"title\":{\"chinese\":\"新來的女傭有點怪\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (149874,'{\"title\":{\"chinese\":\"盛開的阿斯諾特莉亞\"},\"synonyms_chinese\":[\"綻放的阿爾斯諾特利亞\"]}');
+INSERT INTO `anilist_chinese` VALUES (150575,'{\"title\":{\"chinese\":\"世界末日與柴犬同行\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (150697,'{\"title\":{\"chinese\":\"Obey Me! Season 2\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (150909,'{\"title\":{\"chinese\":\"5億年按鈕\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (151126,'{\"title\":{\"chinese\":\"勇者辭職不幹了 OVA\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (151128,'{\"title\":{\"chinese\":\"iii icecrin 2\"},\"synonyms_chinese\":[]}');
