@@ -28741,6 +28741,11 @@
     ]
   },
   {
+    "id": 102498,
+    "title": "B: The Beginning: Succession",
+    "synonyms": []
+  },
+  {
     "id": 102561,
     "title": "畫江湖之不良人",
     "synonyms": []
@@ -30954,7 +30959,11 @@
   {
     "id": 109946,
     "title": "Super Crooks",
-    "synonyms": []
+    "synonyms": [
+      "神級大盜",
+      "超級小偷",
+      "超級騙子"
+    ]
   },
   {
     "id": 109963,
@@ -34129,6 +34138,11 @@
     "synonyms": []
   },
   {
+    "id": 131880,
+    "title": "Obey Me!",
+    "synonyms": []
+  },
+  {
     "id": 131912,
     "title": "風都偵探",
     "synonyms": []
@@ -34804,6 +34818,11 @@
   {
     "id": 139589,
     "title": "小太郎一個人生活",
+    "synonyms": []
+  },
+  {
+    "id": 139592,
+    "title": "TALES OF LUMINARIA: The Fateful Crossroad",
     "synonyms": []
   },
   {

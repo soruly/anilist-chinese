@@ -4957,6 +4957,7 @@ INSERT INTO `anilist_chinese` VALUES (102352,'{\"title\":{\"chinese\":\"Super Dr
 INSERT INTO `anilist_chinese` VALUES (102353,'{\"title\":{\"chinese\":\"GODZILLA 噬星者\"},\"synonyms_chinese\":[\"哥吉拉 噬星者\"]}');
 INSERT INTO `anilist_chinese` VALUES (102385,'{\"title\":{\"chinese\":\"狐狸之聲\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (102436,'{\"title\":{\"chinese\":\"Strike the Blood III\"},\"synonyms_chinese\":[\"噬血狂襲 III\"]}');
+INSERT INTO `anilist_chinese` VALUES (102498,'{\"title\":{\"chinese\":\"B: The Beginning: Succession\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (102561,'{\"title\":{\"chinese\":\"畫江湖之不良人\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (102562,'{\"title\":{\"chinese\":\"畫江湖之不良人 第二季\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (102573,'{\"title\":{\"chinese\":\"傳頌之物 圖斯庫爾皇女的華麗日常\"},\"synonyms_chinese\":[\"受讚頌者 圖斯庫爾皇女的華麗日常\"]}');
@@ -5348,7 +5349,7 @@ INSERT INTO `anilist_chinese` VALUES (109856,'{\"title\":{\"chinese\":\"Listener
 INSERT INTO `anilist_chinese` VALUES (109911,'{\"title\":{\"chinese\":\"ULTRAMAN Season 2\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (109928,'{\"title\":{\"chinese\":\"犬王\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (109929,'{\"title\":{\"chinese\":\"博多明太！PIRIKARAKO醬\"},\"synonyms_chinese\":[]}');
-INSERT INTO `anilist_chinese` VALUES (109946,'{\"title\":{\"chinese\":\"Super Crooks\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (109946,'{\"title\":{\"chinese\":\"Super Crooks\"},\"synonyms_chinese\":[\"神級大盜\",\"超級小偷\",\"超級騙子\"]}');
 INSERT INTO `anilist_chinese` VALUES (109963,'{\"title\":{\"chinese\":\"食戟之靈 神之皿\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (109964,'{\"title\":{\"chinese\":\"家有圓圓?!～我家的圓圓你知道嗎～\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (110028,'{\"title\":{\"chinese\":\"魔法律顧問事務所 2\"},\"synonyms_chinese\":[]}');
@@ -5943,6 +5944,7 @@ INSERT INTO `anilist_chinese` VALUES (131681,'{\"title\":{\"chinese\":\"進擊�
 INSERT INTO `anilist_chinese` VALUES (131773,'{\"title\":{\"chinese\":\"WONDER EGG PRIORITY SP\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (131826,'{\"title\":{\"chinese\":\"エロゲで全ては解決できる！ THE ANIMATION\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (131878,'{\"title\":{\"chinese\":\"逆轉世界的電池少女\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (131880,'{\"title\":{\"chinese\":\"Obey Me!\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (131912,'{\"title\":{\"chinese\":\"風都偵探\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (131930,'{\"title\":{\"chinese\":\"武士彌助\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (131942,'{\"title\":{\"chinese\":\"JoJo的奇妙冒險 石之海\"},\"synonyms_chinese\":[]}');
@@ -6071,6 +6073,7 @@ INSERT INTO `anilist_chinese` VALUES (139449,'{\"title\":{\"chinese\":\"月曜�
 INSERT INTO `anilist_chinese` VALUES (139498,'{\"title\":{\"chinese\":\"劇場版 關於我轉生變成史萊姆這檔事\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (139588,'{\"title\":{\"chinese\":\"\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (139589,'{\"title\":{\"chinese\":\"小太郎一個人生活\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (139592,'{\"title\":{\"chinese\":\"TALES OF LUMINARIA: The Fateful Crossroad\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (139637,'{\"title\":{\"chinese\":\"がーるずらっしゅ THE ANIMATION\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (139643,'{\"title\":{\"chinese\":\"漂流家園\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (139648,'{\"title\":{\"chinese\":\"現實主義勇者的王國重建記 第二部\"},\"synonyms_chinese\":[]}');
