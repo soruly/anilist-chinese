@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2022.8.5
+// @version      2.2022.8.6
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -5268,6 +5268,7 @@ var database = [
 {id:108554,title:"警視廳 特務部 特殊兇惡犯罪對策室 第七課"},
 {id:108577,title:"知道天空有多藍的人啊"},
 {id:108581,title:"High Score Girl II"},
+{id:108598,title:"Levius"},
 {id:108617,title:"索瑪麗與森林之神"},
 {id:108623,title:"Goblin Slayer: Goblin's Crown"},
 {id:108625,title:"星光頻道 第二季"},
@@ -5383,6 +5384,7 @@ var database = [
 {id:111082,title:"星夢學園 on Parade!"},
 {id:111121,title:"Battle Spirits: Saga Brave"},
 {id:111129,title:"迷你刀使 SP"},
+{id:111131,title:"Cannon Busters"},
 {id:111137,title:"WAVE!! Surfing Yappe!!"},
 {id:111144,title:"Cardfight!! Vanguard 新右衛門篇"},
 {id:111145,title:"A3! SEASON AUTUMN & WINTER"},
@@ -5408,6 +5410,7 @@ var database = [
 {id:111852,title:"Date A Bullet Dead or Bullet"},
 {id:111905,title:"角落小夥伴電影版：魔法繪本裡的新朋友"},
 {id:111931,title:"鬼燈的冷徹 2 OVA"},
+{id:111932,title:"SOUND & FURY"},
 {id:111944,title:"音樂"},
 {id:111951,title:"寶石商人理察的謎鑑定"},
 {id:111964,title:"OBSOLETE"},
@@ -5421,7 +5424,7 @@ var database = [
 {id:112125,title:"在地下城尋求邂逅是否搞錯了什麼 2 OVA"},
 {id:112151,title:"鬼滅之刃 無限列車編"},
 {id:112153,title:"Pocket Monsters (2019)"},
-{id:112166,title:"廚病激發 BOY"},
+{id:112166,title:"廚病激發 BOY OVA"},
 {id:112177,title:"實況主的逃脫遊戲【直播中】OVA"},
 {id:112190,title:"のぞき彼女"},
 {id:112233,title:"ボクと彼女（女医）の診察日誌 THE ANIMATION"},
@@ -5444,6 +5447,7 @@ var database = [
 {id:112376,title:"龍先生、想要買個家。"},
 {id:112443,title:"弱角友崎同學"},
 {id:112444,title:"天晴爛漫!"},
+{id:112454,title:"あの日の心をとらえて"},
 {id:112455,title:"天體運行式 OVA"},
 {id:112472,title:"在世界盡頭詠唱戀曲的少女YU-NO OVA"},
 {id:112479,title:"Assault Lily: BOUQUET"},
