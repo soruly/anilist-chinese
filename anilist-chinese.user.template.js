@@ -64,7 +64,9 @@ var myDOMNodeInsertedAction = function () {
         translate();
       }
     }
-    if (window.location.pathname.indexOf("/animelist") >= 0) {
+    if (window.location.pathname.indexOf("/anime/") >= 0) {
+      batchTranslate(".recommendation-card > a");
+    } else if (window.location.pathname.indexOf("/animelist") >= 0) {
       batchTranslate(".title a");
     } else if (window.location.pathname.indexOf("/user") >= 0) {
       batchTranslate("a.title");
