@@ -25,15 +25,15 @@ var myDOMNodeInsertedAction = function () {
     if (result) {
       var v = document.querySelector(".data-set").getAttributeNames()[0];
       var zh_title = document.createElement("div");
-      zh_title.setAttribute(v,"");
+      zh_title.setAttribute(v, "");
       zh_title.classList.add("data-set");
       var type = document.createElement("div");
       type.classList.add("type");
-      type.setAttribute(v,"");
+      type.setAttribute(v, "");
       type.innerText = "Chinese";
       var value = document.createElement("div");
       value.classList.add("value");
-      value.setAttribute(v,"");
+      value.setAttribute(v, "");
       value.innerText = result.title;
       zh_title.appendChild(type);
       zh_title.appendChild(value);
