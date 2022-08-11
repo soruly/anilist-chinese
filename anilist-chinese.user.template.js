@@ -23,10 +23,20 @@ var myDOMNodeInsertedAction = function () {
     var anilist_id = parseInt(window.location.pathname.split("/")[2]);
     var result = database.filter((e) => e.id === anilist_id)[0];
     if (result) {
+      var v = document.querySelector(".data-set").getAttributeNames()[0];
       var zh_title = document.createElement("div");
-      zh_title.class = "data-set";
-      zh_title.innerHTML =
-        '<div class="type">Chinese</div><div class="value">' + result.title + "</div>";
+      zh_title.setAttribute(v,"");
+      zh_title.classList.add("data-set");
+      var type = document.createElement("div");
+      type.classList.add("type");
+      type.setAttribute(v,"");
+      type.innerText = "Chinese";
+      var value = document.createElement("div");
+      value.classList.add("value");
+      value.setAttribute(v,"");
+      value.innerText = result.title;
+      zh_title.appendChild(type);
+      zh_title.appendChild(value);
       if (document.querySelector("div.data")) {
         document.querySelector("div.data").appendChild(zh_title);
       }
