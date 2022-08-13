@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2022.8.11
+// @version      2.2022.8.13
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -6012,6 +6012,7 @@ var database = [
 {id:136344,title:"艾梅洛閣下II世事件簿 -魔眼蒐集列車 Grace note- 特別編"},
 {id:136428,title:"怪人開發部的黑井津小姐"},
 {id:136436,title:"小林家的女僕龍 S SP"},
+{id:136459,title:"僕は小さな淫魔のしもべ"},
 {id:136512,title:"叫我對大哥 (ONA)"},
 {id:136707,title:"異世界藥局"},
 {id:136796,title:"森林裡的熊先生，冬眠中。"},

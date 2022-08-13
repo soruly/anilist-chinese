@@ -5996,6 +5996,7 @@ const db = new Map([
 [136344,{title:"艾梅洛閣下II世事件簿 -魔眼蒐集列車 Grace note- 特別編",synonyms:[]}],
 [136428,{title:"怪人開發部的黑井津小姐",synonyms:[]}],
 [136436,{title:"小林家的女僕龍 S SP",synonyms:[]}],
+[136459,{title:"僕は小さな淫魔のしもべ",synonyms:[]}],
 [136512,{title:"叫我對大哥 (ONA)",synonyms:[]}],
 [136707,{title:"異世界藥局",synonyms:[]}],
 [136796,{title:"森林裡的熊先生，冬眠中。",synonyms:[]}],

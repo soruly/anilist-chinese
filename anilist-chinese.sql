@@ -6033,6 +6033,7 @@ INSERT INTO `anilist_chinese` VALUES (136303,'{\"title\":{\"chinese\":\"真・�
 INSERT INTO `anilist_chinese` VALUES (136344,'{\"title\":{\"chinese\":\"艾梅洛閣下II世事件簿 -魔眼蒐集列車 Grace note- 特別編\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (136428,'{\"title\":{\"chinese\":\"怪人開發部的黑井津小姐\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (136436,'{\"title\":{\"chinese\":\"小林家的女僕龍 S SP\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (136459,'{\"title\":{\"chinese\":\"僕は小さな淫魔のしもべ\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (136512,'{\"title\":{\"chinese\":\"叫我對大哥 (ONA)\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (136707,'{\"title\":{\"chinese\":\"異世界藥局\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (136796,'{\"title\":{\"chinese\":\"森林裡的熊先生，冬眠中。\"},\"synonyms_chinese\":[]}');
