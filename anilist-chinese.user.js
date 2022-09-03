@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2022.8.13
+// @version      2.2022.9.3
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -6165,6 +6165,7 @@ var database = [
 {id:147287,title:"J〇限界交尾～合意挿入でバチバチ肉穴化～"},
 {id:147430,title:"夏休み明けの彼女は…"},
 {id:147578,title:"聖華女学院公認竿おじさん"},
+{id:147929,title:"鬼作 令和版"},
 {id:148042,title:"今晚有貓伴身邊"},
 {id:148112,title:"SLEEPLESS ~A Midsummer Night's Dream~ The Animation"},
 {id:148147,title:"ハヂ+ ～羞チ心～"},
@@ -6174,9 +6175,11 @@ var database = [
 {id:149073,title:"我的英雄學院：像在地獄一樣笑吧！"},
 {id:149326,title:"新來的女傭有點怪"},
 {id:149874,title:"盛開的阿斯諾特莉亞"},
+{id:150157,title:"きつね娘のエッチなお宿"},
 {id:150575,title:"世界末日與柴犬同行"},
 {id:150697,title:"Obey Me! Season 2"},
 {id:150909,title:"5億年按鈕"},
+{id:151072,title:"委員長は催眠アプリを信じてる。"},
 {id:151126,title:"勇者辭職不幹了 OVA"},
 {id:151128,title:"iii icecrin 2"}
 ];

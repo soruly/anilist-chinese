@@ -6186,6 +6186,7 @@ INSERT INTO `anilist_chinese` VALUES (146951,'{\"title\":{\"chinese\":\"＃今�
 INSERT INTO `anilist_chinese` VALUES (147287,'{\"title\":{\"chinese\":\"J〇限界交尾～合意挿入でバチバチ肉穴化～\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (147430,'{\"title\":{\"chinese\":\"夏休み明けの彼女は…\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (147578,'{\"title\":{\"chinese\":\"聖華女学院公認竿おじさん\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (147929,'{\"title\":{\"chinese\":\"鬼作 令和版\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (148042,'{\"title\":{\"chinese\":\"今晚有貓伴身邊\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (148112,'{\"title\":{\"chinese\":\"SLEEPLESS ~A Midsummer Night\'s Dream~ The Animation\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (148147,'{\"title\":{\"chinese\":\"ハヂ+ ～羞チ心～\"},\"synonyms_chinese\":[]}');
@@ -6195,9 +6196,11 @@ INSERT INTO `anilist_chinese` VALUES (148970,'{\"title\":{\"chinese\":\"銀河�
 INSERT INTO `anilist_chinese` VALUES (149073,'{\"title\":{\"chinese\":\"我的英雄學院：像在地獄一樣笑吧！\"},\"synonyms_chinese\":[\"我的英雄學院：HLB 英雄棒球聯盟\"]}');
 INSERT INTO `anilist_chinese` VALUES (149326,'{\"title\":{\"chinese\":\"新來的女傭有點怪\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (149874,'{\"title\":{\"chinese\":\"盛開的阿斯諾特莉亞\"},\"synonyms_chinese\":[\"綻放的阿爾斯諾特利亞\"]}');
+INSERT INTO `anilist_chinese` VALUES (150157,'{\"title\":{\"chinese\":\"きつね娘のエッチなお宿\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (150575,'{\"title\":{\"chinese\":\"世界末日與柴犬同行\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (150697,'{\"title\":{\"chinese\":\"Obey Me! Season 2\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (150909,'{\"title\":{\"chinese\":\"5億年按鈕\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (151072,'{\"title\":{\"chinese\":\"委員長は催眠アプリを信じてる。\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (151126,'{\"title\":{\"chinese\":\"勇者辭職不幹了 OVA\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (151128,'{\"title\":{\"chinese\":\"iii icecrin 2\"},\"synonyms_chinese\":[]}');
 /*!40000 ALTER TABLE `anilist_chinese` ENABLE KEYS */;

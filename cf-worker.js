@@ -6149,6 +6149,7 @@ const db = new Map([
 [147287,{title:"J〇限界交尾～合意挿入でバチバチ肉穴化～",synonyms:[]}],
 [147430,{title:"夏休み明けの彼女は…",synonyms:[]}],
 [147578,{title:"聖華女学院公認竿おじさん",synonyms:[]}],
+[147929,{title:"鬼作 令和版",synonyms:[]}],
 [148042,{title:"今晚有貓伴身邊",synonyms:[]}],
 [148112,{title:"SLEEPLESS ~A Midsummer Night's Dream~ The Animation",synonyms:[]}],
 [148147,{title:"ハヂ+ ～羞チ心～",synonyms:[]}],
@@ -6158,9 +6159,11 @@ const db = new Map([
 [149073,{title:"我的英雄學院：像在地獄一樣笑吧！",synonyms:["我的英雄學院：HLB 英雄棒球聯盟"]}],
 [149326,{title:"新來的女傭有點怪",synonyms:[]}],
 [149874,{title:"盛開的阿斯諾特莉亞",synonyms:["綻放的阿爾斯諾特利亞"]}],
+[150157,{title:"きつね娘のエッチなお宿",synonyms:[]}],
 [150575,{title:"世界末日與柴犬同行",synonyms:[]}],
 [150697,{title:"Obey Me! Season 2",synonyms:[]}],
 [150909,{title:"5億年按鈕",synonyms:[]}],
+[151072,{title:"委員長は催眠アプリを信じてる。",synonyms:[]}],
 [151126,{title:"勇者辭職不幹了 OVA",synonyms:[]}],
 [151128,{title:"iii icecrin 2",synonyms:[]}]
 ]);
