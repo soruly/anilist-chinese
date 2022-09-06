@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2022.9.3
+// @version      2.2022.9.6
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -5408,7 +5408,7 @@ var database = [
 {id:111762,title:"Fruits Basket 2"},
 {id:111790,title:"排球少年 陸 VS 空"},
 {id:111852,title:"Date A Bullet Dead or Bullet"},
-{id:111905,title:"角落小夥伴電影版：魔法繪本裡的新朋友"},
+{id:111905,title:"劇場版 角落小夥伴 魔法繪本裡的新朋友"},
 {id:111931,title:"鬼燈的冷徹 2 OVA"},
 {id:111932,title:"SOUND & FURY"},
 {id:111944,title:"音樂"},
@@ -5802,7 +5802,7 @@ var database = [
 {id:125867,title:"CESTVS -The Roman Fighter-"},
 {id:125868,title:"NIGHT HEAD 2041"},
 {id:125909,title:"TSUKIPRO THE ANIMATION 2"},
-{id:125931,title:"角落小夥伴電影版：藍色月夜的魔法之子"},
+{id:125931,title:"劇場版 角落小夥伴 藍色月夜的魔法之子"},
 {id:126047,title:"急戰 5 秒殊死鬥"},
 {id:126192,title:"女朋友 and 女朋友"},
 {id:126213,title:"因為不是真正的夥伴而被逐出勇者隊伍，流落到邊境展開慢活人生"},

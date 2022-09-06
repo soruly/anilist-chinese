@@ -5429,7 +5429,7 @@ INSERT INTO `anilist_chinese` VALUES (111734,'{\"title\":{\"chinese\":\"劇場�
 INSERT INTO `anilist_chinese` VALUES (111762,'{\"title\":{\"chinese\":\"Fruits Basket 2\"},\"synonyms_chinese\":[\"魔法水果籃 第二季\"]}');
 INSERT INTO `anilist_chinese` VALUES (111790,'{\"title\":{\"chinese\":\"排球少年 陸 VS 空\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (111852,'{\"title\":{\"chinese\":\"Date A Bullet Dead or Bullet\"},\"synonyms_chinese\":[\"約會大作戰 赤黑新章：虛或實\"]}');
-INSERT INTO `anilist_chinese` VALUES (111905,'{\"title\":{\"chinese\":\"角落小夥伴電影版：魔法繪本裡的新朋友\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (111905,'{\"title\":{\"chinese\":\"劇場版 角落小夥伴 魔法繪本裡的新朋友\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (111931,'{\"title\":{\"chinese\":\"鬼燈的冷徹 2 OVA\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (111932,'{\"title\":{\"chinese\":\"SOUND & FURY\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (111944,'{\"title\":{\"chinese\":\"音樂\"},\"synonyms_chinese\":[]}');
@@ -5823,7 +5823,7 @@ INSERT INTO `anilist_chinese` VALUES (125841,'{\"title\":{\"chinese\":\"扶桑�
 INSERT INTO `anilist_chinese` VALUES (125867,'{\"title\":{\"chinese\":\"CESTVS -The Roman Fighter-\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (125868,'{\"title\":{\"chinese\":\"NIGHT HEAD 2041\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (125909,'{\"title\":{\"chinese\":\"TSUKIPRO THE ANIMATION 2\"},\"synonyms_chinese\":[]}');
-INSERT INTO `anilist_chinese` VALUES (125931,'{\"title\":{\"chinese\":\"角落小夥伴電影版：藍色月夜的魔法之子\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (125931,'{\"title\":{\"chinese\":\"劇場版 角落小夥伴 藍色月夜的魔法之子\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (126047,'{\"title\":{\"chinese\":\"急戰 5 秒殊死鬥\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (126192,'{\"title\":{\"chinese\":\"女朋友 and 女朋友\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (126213,'{\"title\":{\"chinese\":\"因為不是真正的夥伴而被逐出勇者隊伍，流落到邊境展開慢活人生\"},\"synonyms_chinese\":[]}');
