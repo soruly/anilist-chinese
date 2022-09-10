@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2022.9.6
+// @version      2.2022.9.10
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -6152,6 +6152,7 @@ var database = [
 {id:145560,title:"平凡職業造就世界最強 Prologue"},
 {id:146210,title:"金裝的維爾梅 瀕臨留級的魔法師聯手最強災厄勇闖魔法世界"},
 {id:146282,title:"巨乳女戦士・土下座催眠"},
+{id:146321,title:"D4DJ Double Mix"},
 {id:146501,title:"BanG Dream! Morfonication"},
 {id:146625,title:"Engage Kiss"},
 {id:146637,title:"ORIENT 淡路島激鬥篇"},

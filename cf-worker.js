@@ -6136,6 +6136,7 @@ const db = new Map([
 [145560,{title:"平凡職業造就世界最強 Prologue",synonyms:[]}],
 [146210,{title:"金裝的維爾梅 瀕臨留級的魔法師聯手最強災厄勇闖魔法世界",synonyms:[]}],
 [146282,{title:"巨乳女戦士・土下座催眠",synonyms:[]}],
+[146321,{title:"D4DJ Double Mix",synonyms:[]}],
 [146501,{title:"BanG Dream! Morfonication",synonyms:[]}],
 [146625,{title:"Engage Kiss",synonyms:["契約之吻"]}],
 [146637,{title:"ORIENT 淡路島激鬥篇",synonyms:["ORIENT 東方少年 淡路島激鬥篇"]}],

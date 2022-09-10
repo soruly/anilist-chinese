@@ -6173,6 +6173,7 @@ INSERT INTO `anilist_chinese` VALUES (145545,'{\"title\":{\"chinese\":\"歡迎�
 INSERT INTO `anilist_chinese` VALUES (145560,'{\"title\":{\"chinese\":\"平凡職業造就世界最強 Prologue\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (146210,'{\"title\":{\"chinese\":\"金裝的維爾梅 瀕臨留級的魔法師聯手最強災厄勇闖魔法世界\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (146282,'{\"title\":{\"chinese\":\"巨乳女戦士・土下座催眠\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (146321,'{\"title\":{\"chinese\":\"D4DJ Double Mix\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (146501,'{\"title\":{\"chinese\":\"BanG Dream! Morfonication\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (146625,'{\"title\":{\"chinese\":\"Engage Kiss\"},\"synonyms_chinese\":[\"契約之吻\"]}');
 INSERT INTO `anilist_chinese` VALUES (146637,'{\"title\":{\"chinese\":\"ORIENT 淡路島激鬥篇\"},\"synonyms_chinese\":[\"ORIENT 東方少年 淡路島激鬥篇\"]}');
