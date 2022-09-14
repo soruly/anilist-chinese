@@ -5923,7 +5923,7 @@ INSERT INTO `anilist_chinese` VALUES (130402,'{\"title\":{\"chinese\":\"Wave!! S
 INSERT INTO `anilist_chinese` VALUES (130439,'{\"title\":{\"chinese\":\"殘念的生物事典 (2021)\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (130442,'{\"title\":{\"chinese\":\"壽司大相撲\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (130513,'{\"title\":{\"chinese\":\"嬰兒本部長\"},\"synonyms_chinese\":[]}');
-INSERT INTO `anilist_chinese` VALUES (130514,'{\"title\":{\"chinese\":\"iii icecrin\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (130514,'{\"title\":{\"chinese\":\"iii icecrin\"},\"synonyms_chinese\":[\"雪雪雪 雪糕君\",\"冰冰冰 冰淇淋君\"]}');
 INSERT INTO `anilist_chinese` VALUES (130515,'{\"title\":{\"chinese\":\"恐龍日和\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (130549,'{\"title\":{\"chinese\":\"RE-MAIN\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (130550,'{\"title\":{\"chinese\":\"外之國的少女 (2022)\"},\"synonyms_chinese\":[]}');
@@ -6203,7 +6203,7 @@ INSERT INTO `anilist_chinese` VALUES (150697,'{\"title\":{\"chinese\":\"Obey Me!
 INSERT INTO `anilist_chinese` VALUES (150909,'{\"title\":{\"chinese\":\"5億年按鈕\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (151072,'{\"title\":{\"chinese\":\"委員長は催眠アプリを信じてる。\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (151126,'{\"title\":{\"chinese\":\"勇者辭職不幹了 OVA\"},\"synonyms_chinese\":[]}');
-INSERT INTO `anilist_chinese` VALUES (151128,'{\"title\":{\"chinese\":\"iii icecrin 2\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (151128,'{\"title\":{\"chinese\":\"iii icecrin 2\"},\"synonyms_chinese\":[\"雪雪雪 雪糕君 2\",\"冰冰冰 冰淇淋君 2\"]}');
 /*!40000 ALTER TABLE `anilist_chinese` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;

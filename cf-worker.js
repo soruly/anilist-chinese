@@ -5886,7 +5886,7 @@ const db = new Map([
 [130439,{title:"殘念的生物事典 (2021)",synonyms:[]}],
 [130442,{title:"壽司大相撲",synonyms:[]}],
 [130513,{title:"嬰兒本部長",synonyms:[]}],
-[130514,{title:"iii icecrin",synonyms:[]}],
+[130514,{title:"iii icecrin",synonyms:["雪雪雪 雪糕君","冰冰冰 冰淇淋君"]}],
 [130515,{title:"恐龍日和",synonyms:[]}],
 [130549,{title:"RE-MAIN",synonyms:[]}],
 [130550,{title:"外之國的少女 (2022)",synonyms:[]}],
@@ -6166,7 +6166,7 @@ const db = new Map([
 [150909,{title:"5億年按鈕",synonyms:[]}],
 [151072,{title:"委員長は催眠アプリを信じてる。",synonyms:[]}],
 [151126,{title:"勇者辭職不幹了 OVA",synonyms:[]}],
-[151128,{title:"iii icecrin 2",synonyms:[]}]
+[151128,{title:"iii icecrin 2",synonyms:["雪雪雪 雪糕君 2","冰冰冰 冰淇淋君 2"]}]
 ]);
 
 async function handleRequest(req) {
