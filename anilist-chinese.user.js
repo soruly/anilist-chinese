@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2022.9.10
+// @version      2.2022.9.25
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -6027,12 +6027,14 @@ var database = [
 {id:137309,title:"Digimon Ghost Game"},
 {id:137312,title:"秘密內幕-女警的反擊"},
 {id:137337,title:"噥噥日和 Nonstop OVA"},
+{id:137341,title:"我家師傅沒有尾巴"},
 {id:137378,title:"永遠的 831"},
 {id:137612,title:"Princess Principal: Crown Handler 第3章"},
 {id:137621,title:"花火醬總是遲到"},
 {id:137633,title:"Love All Play"},
 {id:137799,title:"続・王女&女騎士Wド下品露出～恥辱の見世物奴隷～"},
 {id:137804,title:"小林家的女僕龍 - 迷你龍EX"},
+{id:137819,title:"四疊半時光機藍調"},
 {id:137877,title:"加油吧同期醬"},
 {id:138060,title:"Star Wars: Visions"},
 {id:138063,title:"ShowTime！唱歌的大姐姐也想做"},
@@ -6056,6 +6058,7 @@ var database = [
 {id:138912,title:"川尻小玉的懶散生活"},
 {id:139093,title:"SHADOWS HOUSE 2nd Season"},
 {id:139273,title:"機動戰士Gundam 庫克羅斯・德安之島"},
+{id:139274,title:"機動戰士Gundam 水星的魔女"},
 {id:139303,title:"Black★★Rock Shooter: DAWN FALL"},
 {id:139304,title:"この会社…なにかおかしい!"},
 {id:139310,title:"致我深愛的每個妳"},
@@ -6065,6 +6068,7 @@ var database = [
 {id:139386,title:"薄櫻鬼 OVA (2021)"},
 {id:139449,title:"月曜日のたわわ 2"},
 {id:139498,title:"劇場版 關於我轉生變成史萊姆這檔事"},
+{id:139587,title:"轉生就是劍"},
 {id:139588,title:""},
 {id:139589,title:"小太郎一個人生活"},
 {id:139592,title:"TALES OF LUMINARIA: The Fateful Crossroad"},
@@ -6073,6 +6077,7 @@ var database = [
 {id:139648,title:"現實主義勇者的王國重建記 第二部"},
 {id:139675,title:"ぷちセカ"},
 {id:139804,title:"TRIBE NINE"},
+{id:139820,title:"作為反派千金就來試著養個最終大魔王"},
 {id:139883,title:"パパ喝ッ！"},
 {id:140002,title:"名偵探柯南 零的日常"},
 {id:140085,title:"Shadowverse F (Flame)"},
@@ -6162,6 +6167,7 @@ var database = [
 {id:146742,title:"処女はお姉さまに恋してる 三つのきら星 The Animation"},
 {id:146837,title:"ツグナヒ"},
 {id:146921,title:"平凡職業造就世界最強 第二季 OVA"},
+{id:146922,title:"機動戰士Gundam 水星的魔女 序幕"},
 {id:146951,title:"＃今までで一番良かったセックス The Animation"},
 {id:147287,title:"J〇限界交尾～合意挿入でバチバチ肉穴化～"},
 {id:147430,title:"夏休み明けの彼女は…"},
@@ -6182,7 +6188,8 @@ var database = [
 {id:150909,title:"5億年按鈕"},
 {id:151072,title:"委員長は催眠アプリを信じてる。"},
 {id:151126,title:"勇者辭職不幹了 OVA"},
-{id:151128,title:"iii icecrin 2"}
+{id:151128,title:"iii icecrin 2"},
+{id:153906,title:"鐵拳：血"}
 ];
 
 var updating;

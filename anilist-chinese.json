@@ -34096,7 +34096,9 @@
   {
     "id": 130962,
     "title": "Chickip Dancers",
-    "synonyms": []
+    "synonyms": [
+      "跳跳小雞"
+    ]
   },
   {
     "id": 130997,
@@ -34681,6 +34683,11 @@
     "synonyms": []
   },
   {
+    "id": 137341,
+    "title": "我家師傅沒有尾巴",
+    "synonyms": []
+  },
+  {
     "id": 137378,
     "title": "永遠的 831",
     "synonyms": []
@@ -34708,6 +34715,11 @@
   {
     "id": 137804,
     "title": "小林家的女僕龍 - 迷你龍EX",
+    "synonyms": []
+  },
+  {
+    "id": 137819,
+    "title": "四疊半時光機藍調",
     "synonyms": []
   },
   {
@@ -34834,6 +34846,11 @@
     "synonyms": []
   },
   {
+    "id": 139274,
+    "title": "機動戰士Gundam 水星的魔女",
+    "synonyms": []
+  },
+  {
     "id": 139303,
     "title": "Black★★Rock Shooter: DAWN FALL",
     "synonyms": []
@@ -34889,6 +34906,11 @@
     "synonyms": []
   },
   {
+    "id": 139587,
+    "title": "轉生就是劍",
+    "synonyms": []
+  },
+  {
     "id": 139588,
     "title": "",
     "synonyms": []
@@ -34926,6 +34948,11 @@
   {
     "id": 139804,
     "title": "TRIBE NINE",
+    "synonyms": []
+  },
+  {
+    "id": 139820,
+    "title": "作為反派千金就來試著養個最終大魔王",
     "synonyms": []
   },
   {
@@ -35410,6 +35437,11 @@
     "synonyms": []
   },
   {
+    "id": 146922,
+    "title": "機動戰士Gundam 水星的魔女 序幕",
+    "synonyms": []
+  },
+  {
     "id": 146951,
     "title": "＃今までで一番良かったセックス The Animation",
     "synonyms": []
@@ -35520,5 +35552,10 @@
       "雪雪雪 雪糕君 2",
       "冰冰冰 冰淇淋君 2"
     ]
+  },
+  {
+    "id": 153906,
+    "title": "鐵拳：血",
+    "synonyms": []
   }
 ]
