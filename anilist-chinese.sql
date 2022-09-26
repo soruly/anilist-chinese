@@ -6117,7 +6117,7 @@ INSERT INTO `anilist_chinese` VALUES (139589,'{\"title\":{\"chinese\":\"小太�
 INSERT INTO `anilist_chinese` VALUES (139592,'{\"title\":{\"chinese\":\"TALES OF LUMINARIA: The Fateful Crossroad\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (139630,'{\"title\":{\"chinese\":\"我的英雄學院 6\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (139637,'{\"title\":{\"chinese\":\"がーるずらっしゅ THE ANIMATION\"},\"synonyms_chinese\":[]}');
-INSERT INTO `anilist_chinese` VALUES (139643,'{\"title\":{\"chinese\":\"漂流家園\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (139643,'{\"title\":{\"chinese\":\"漂流家園\"},\"synonyms_chinese\":[\"宣告風雨的漂流團地\"]}');
 INSERT INTO `anilist_chinese` VALUES (139648,'{\"title\":{\"chinese\":\"現實主義勇者的王國重建記 第二部\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (139675,'{\"title\":{\"chinese\":\"ぷちセカ\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (139804,'{\"title\":{\"chinese\":\"TRIBE NINE\"},\"synonyms_chinese\":[]}');
@@ -6257,6 +6257,7 @@ INSERT INTO `anilist_chinese` VALUES (149874,'{\"title\":{\"chinese\":\"盛開�
 INSERT INTO `anilist_chinese` VALUES (150157,'{\"title\":{\"chinese\":\"きつね娘のエッチなお宿\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (150188,'{\"title\":{\"chinese\":\"天竺鼠車車 DRIVING SCHOOL\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (150575,'{\"title\":{\"chinese\":\"世界末日與柴犬同行\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (150695,'{\"title\":{\"chinese\":\"被勇者隊伍開除的馭獸使、邂逅了最強種的貓耳少女\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (150697,'{\"title\":{\"chinese\":\"Obey Me! Season 2\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (150909,'{\"title\":{\"chinese\":\"5億年按鈕\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (151072,'{\"title\":{\"chinese\":\"委員長は催眠アプリを信じてる。\"},\"synonyms_chinese\":[]}');
@@ -6264,6 +6265,7 @@ INSERT INTO `anilist_chinese` VALUES (151126,'{\"title\":{\"chinese\":\"勇者�
 INSERT INTO `anilist_chinese` VALUES (151128,'{\"title\":{\"chinese\":\"iii icecrin 2\"},\"synonyms_chinese\":[\"雪雪雪 雪糕君 2\",\"冰冰冰 冰淇淋君 2\"]}');
 INSERT INTO `anilist_chinese` VALUES (151379,'{\"title\":{\"chinese\":\"秋葉原冥途戰爭\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (151632,'{\"title\":{\"chinese\":\"異世界迷宮裡的後宮生活 OVA\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (151803,'{\"title\":{\"chinese\":\"TIGER & BUNNY 2 Part 2\"},\"synonyms_chinese\":[\"基友英雄傳 2\"]}');
 INSERT INTO `anilist_chinese` VALUES (152207,'{\"title\":{\"chinese\":\"被夾在百合之間。我在某個早上變成人頭麥克風的人生\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (153906,'{\"title\":{\"chinese\":\"鐵拳：血統\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (153930,'{\"title\":{\"chinese\":\"Romantic Killer\"},\"synonyms_chinese\":[\"浪漫殺手\"]}');

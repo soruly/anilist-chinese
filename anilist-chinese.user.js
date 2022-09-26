@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2022.9.25
+// @version      2.2022.9.26
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -6236,6 +6236,7 @@ var database = [
 {id:150157,title:"きつね娘のエッチなお宿"},
 {id:150188,title:"天竺鼠車車 DRIVING SCHOOL"},
 {id:150575,title:"世界末日與柴犬同行"},
+{id:150695,title:"被勇者隊伍開除的馭獸使、邂逅了最強種的貓耳少女"},
 {id:150697,title:"Obey Me! Season 2"},
 {id:150909,title:"5億年按鈕"},
 {id:151072,title:"委員長は催眠アプリを信じてる。"},
@@ -6243,6 +6244,7 @@ var database = [
 {id:151128,title:"iii icecrin 2"},
 {id:151379,title:"秋葉原冥途戰爭"},
 {id:151632,title:"異世界迷宮裡的後宮生活 OVA"},
+{id:151803,title:"TIGER & BUNNY 2 Part 2"},
 {id:152207,title:"被夾在百合之間。我在某個早上變成人頭麥克風的人生"},
 {id:153906,title:"鐵拳：血統"},
 {id:153930,title:"Romantic Killer"},
