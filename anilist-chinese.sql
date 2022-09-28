@@ -5907,7 +5907,7 @@ INSERT INTO `anilist_chinese` VALUES (129191,'{\"title\":{\"chinese\":\"失格�
 INSERT INTO `anilist_chinese` VALUES (129192,'{\"title\":{\"chinese\":\"轉生賢者的異世界生活～取得第二職業，成為世界最強～\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (129193,'{\"title\":{\"chinese\":\"處刑少女的生存之道\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (129196,'{\"title\":{\"chinese\":\"在地下城尋求邂逅是否搞錯了什麼 IV\"},\"synonyms_chinese\":[]}');
-INSERT INTO `anilist_chinese` VALUES (129201,'{\"title\":{\"chinese\":\"Summer Time Render\"},\"synonyms_chinese\":[\"夏日時光\"]}');
+INSERT INTO `anilist_chinese` VALUES (129201,'{\"title\":{\"chinese\":\"Summer Time Render\"},\"synonyms_chinese\":[\"夏日時光\",\"夏日重現\"]}');
 INSERT INTO `anilist_chinese` VALUES (129277,'{\"title\":{\"chinese\":\"死神少爺與黑女僕\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (129386,'{\"title\":{\"chinese\":\"Seven Knights Revolution -英雄的繼承者-\"},\"synonyms_chinese\":[\"七騎士 革命 -英雄的繼承者-\"]}');
 INSERT INTO `anilist_chinese` VALUES (129549,'{\"title\":{\"chinese\":\"Macross Frontier: 時之迷宮\"},\"synonyms_chinese\":[]}');

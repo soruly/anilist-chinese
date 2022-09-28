@@ -5870,7 +5870,7 @@ const db = new Map([
 [129192,{title:"轉生賢者的異世界生活～取得第二職業，成為世界最強～",synonyms:[]}],
 [129193,{title:"處刑少女的生存之道",synonyms:[]}],
 [129196,{title:"在地下城尋求邂逅是否搞錯了什麼 IV",synonyms:[]}],
-[129201,{title:"Summer Time Render",synonyms:["夏日時光"]}],
+[129201,{title:"Summer Time Render",synonyms:["夏日時光","夏日重現"]}],
 [129277,{title:"死神少爺與黑女僕",synonyms:[]}],
 [129386,{title:"Seven Knights Revolution -英雄的繼承者-",synonyms:["七騎士 革命 -英雄的繼承者-"]}],
 [129549,{title:"Macross Frontier: 時之迷宮",synonyms:[]}],
