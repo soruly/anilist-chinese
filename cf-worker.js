@@ -6181,7 +6181,7 @@ const db = new Map([
 [145560,{title:"平凡職業造就世界最強 Prologue",synonyms:[]}],
 [145604,{title:"忍之一刻",synonyms:[]}],
 [145739,{title:"鏡之孤城",synonyms:[]}],
-[145815,{title:"被勇者隊伍開除的馭獸使、邂逅了最強種的貓耳少女",synonyms:[]}],
+[145815,{title:"點滿農民相關技能後，不知為何就變強了。",synonyms:[]}],
 [146210,{title:"金裝的維爾梅 瀕臨留級的魔法師聯手最強災厄勇闖魔法世界",synonyms:[]}],
 [146233,{title:"不道德公會",synonyms:[]}],
 [146282,{title:"巨乳女戦士・土下座催眠",synonyms:[]}],
@@ -6232,7 +6232,8 @@ const db = new Map([
 [152207,{title:"被夾在百合之間。我在某個早上變成人頭麥克風的人生",synonyms:[]}],
 [153906,{title:"鐵拳：血統",synonyms:[]}],
 [153930,{title:"Romantic Killer",synonyms:["浪漫殺手"]}],
-[154672,{title:"家裡蹲的日常 狗狗小町與貓咪多比",synonyms:[]}]
+[154672,{title:"家裡蹲的日常 狗狗小町與貓咪多比",synonyms:[]}],
+[155011,{title:"烙印戰士 黃金時代篇 MEMORIAL EDITION",synonyms:[]}]
 ]);
 
 async function handleRequest(req) {

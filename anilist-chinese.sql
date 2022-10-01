@@ -6218,7 +6218,7 @@ INSERT INTO `anilist_chinese` VALUES (145545,'{\"title\":{\"chinese\":\"歡迎�
 INSERT INTO `anilist_chinese` VALUES (145560,'{\"title\":{\"chinese\":\"平凡職業造就世界最強 Prologue\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (145604,'{\"title\":{\"chinese\":\"忍之一刻\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (145739,'{\"title\":{\"chinese\":\"鏡之孤城\"},\"synonyms_chinese\":[]}');
-INSERT INTO `anilist_chinese` VALUES (145815,'{\"title\":{\"chinese\":\"被勇者隊伍開除的馭獸使、邂逅了最強種的貓耳少女\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (145815,'{\"title\":{\"chinese\":\"點滿農民相關技能後，不知為何就變強了。\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (146210,'{\"title\":{\"chinese\":\"金裝的維爾梅 瀕臨留級的魔法師聯手最強災厄勇闖魔法世界\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (146233,'{\"title\":{\"chinese\":\"不道德公會\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (146282,'{\"title\":{\"chinese\":\"巨乳女戦士・土下座催眠\"},\"synonyms_chinese\":[]}');
@@ -6270,6 +6270,7 @@ INSERT INTO `anilist_chinese` VALUES (152207,'{\"title\":{\"chinese\":\"被夾�
 INSERT INTO `anilist_chinese` VALUES (153906,'{\"title\":{\"chinese\":\"鐵拳：血統\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (153930,'{\"title\":{\"chinese\":\"Romantic Killer\"},\"synonyms_chinese\":[\"浪漫殺手\"]}');
 INSERT INTO `anilist_chinese` VALUES (154672,'{\"title\":{\"chinese\":\"家裡蹲的日常 狗狗小町與貓咪多比\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (155011,'{\"title\":{\"chinese\":\"烙印戰士 黃金時代篇 MEMORIAL EDITION\"},\"synonyms_chinese\":[]}');
 /*!40000 ALTER TABLE `anilist_chinese` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;

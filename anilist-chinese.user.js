@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2022.9.26
+// @version      2.2022.10.1
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -6197,7 +6197,7 @@ var database = [
 {id:145560,title:"平凡職業造就世界最強 Prologue"},
 {id:145604,title:"忍之一刻"},
 {id:145739,title:"鏡之孤城"},
-{id:145815,title:"被勇者隊伍開除的馭獸使、邂逅了最強種的貓耳少女"},
+{id:145815,title:"點滿農民相關技能後，不知為何就變強了。"},
 {id:146210,title:"金裝的維爾梅 瀕臨留級的魔法師聯手最強災厄勇闖魔法世界"},
 {id:146233,title:"不道德公會"},
 {id:146282,title:"巨乳女戦士・土下座催眠"},
@@ -6248,7 +6248,8 @@ var database = [
 {id:152207,title:"被夾在百合之間。我在某個早上變成人頭麥克風的人生"},
 {id:153906,title:"鐵拳：血統"},
 {id:153930,title:"Romantic Killer"},
-{id:154672,title:"家裡蹲的日常 狗狗小町與貓咪多比"}
+{id:154672,title:"家裡蹲的日常 狗狗小町與貓咪多比"},
+{id:155011,title:"烙印戰士 黃金時代篇 MEMORIAL EDITION"}
 ];
 
 var updating;
