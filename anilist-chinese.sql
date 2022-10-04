@@ -5509,6 +5509,7 @@ INSERT INTO `anilist_chinese` VALUES (113242,'{\"title\":{\"chinese\":\"Duel Mas
 INSERT INTO `anilist_chinese` VALUES (113260,'{\"title\":{\"chinese\":\"天官賜福\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (113286,'{\"title\":{\"chinese\":\"魔物娘的醫生\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (113311,'{\"title\":{\"chinese\":\"隱瞞之事\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (113345,'{\"title\":{\"chinese\":\"DEEMO 櫻花之音 你奏響的音樂，如今依舊迴盪\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (113348,'{\"title\":{\"chinese\":\"戰姬絕唱SYMPHOGEAR XV SP\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (113359,'{\"title\":{\"chinese\":\"NOMAD Megalo Box 2\"},\"synonyms_chinese\":[\"機甲拳擊 第二季\"]}');
 INSERT INTO `anilist_chinese` VALUES (113397,'{\"title\":{\"chinese\":\"緣結熊本\"},\"synonyms_chinese\":[]}');
@@ -6264,6 +6265,7 @@ INSERT INTO `anilist_chinese` VALUES (151072,'{\"title\":{\"chinese\":\"委員�
 INSERT INTO `anilist_chinese` VALUES (151126,'{\"title\":{\"chinese\":\"勇者辭職不幹了 OVA\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (151128,'{\"title\":{\"chinese\":\"iii icecrin 2\"},\"synonyms_chinese\":[\"雪雪雪 雪糕君 2\",\"冰冰冰 冰淇淋君 2\"]}');
 INSERT INTO `anilist_chinese` VALUES (151379,'{\"title\":{\"chinese\":\"秋葉原冥途戰爭\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (151414,'{\"title\":{\"chinese\":\"懲らしめ2～狂育的デパガ指導～\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (151632,'{\"title\":{\"chinese\":\"異世界迷宮裡的後宮生活 OVA\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (151803,'{\"title\":{\"chinese\":\"TIGER & BUNNY 2 Part 2\"},\"synonyms_chinese\":[\"基友英雄傳 2\"]}');
 INSERT INTO `anilist_chinese` VALUES (152207,'{\"title\":{\"chinese\":\"被夾在百合之間。我在某個早上變成人頭麥克風的人生\"},\"synonyms_chinese\":[]}');

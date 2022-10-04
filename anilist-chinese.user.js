@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2022.10.1
+// @version      2.2022.10.4
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -5488,6 +5488,7 @@ var database = [
 {id:113260,title:"天官賜福"},
 {id:113286,title:"魔物娘的醫生"},
 {id:113311,title:"隱瞞之事"},
+{id:113345,title:"DEEMO 櫻花之音 你奏響的音樂，如今依舊迴盪"},
 {id:113348,title:"戰姬絕唱SYMPHOGEAR XV SP"},
 {id:113359,title:"NOMAD Megalo Box 2"},
 {id:113397,title:"緣結熊本"},
@@ -6243,6 +6244,7 @@ var database = [
 {id:151126,title:"勇者辭職不幹了 OVA"},
 {id:151128,title:"iii icecrin 2"},
 {id:151379,title:"秋葉原冥途戰爭"},
+{id:151414,title:"懲らしめ2～狂育的デパガ指導～"},
 {id:151632,title:"異世界迷宮裡的後宮生活 OVA"},
 {id:151803,title:"TIGER & BUNNY 2 Part 2"},
 {id:152207,title:"被夾在百合之間。我在某個早上變成人頭麥克風的人生"},
