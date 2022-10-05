@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2022.10.4
+// @version      2.2022.10.5
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -130,6 +130,9 @@ var database = [
 {id:187,title:"頭文字D Third Stage"},
 {id:188,title:"御先祖賛江"},
 {id:189,title:"純情房東俏房客"},
+{id:190,title:"純情房東俏房客 Again"},
+{id:191,title:"純情房東俏房客 聖誕特別篇"},
+{id:192,title:"純情房東俏房客 春季特別篇"},
 {id:193,title:"愛的魔法"},
 {id:195,title:"拜託了老師"},
 {id:196,title:"拜託了雙子星"},

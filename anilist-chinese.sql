@@ -151,6 +151,9 @@ INSERT INTO `anilist_chinese` VALUES (186,'{\"title\":{\"chinese\":\"頭文字D 
 INSERT INTO `anilist_chinese` VALUES (187,'{\"title\":{\"chinese\":\"頭文字D Third Stage\"},\"synonyms_chinese\":[\"頭文字D 第三季\"]}');
 INSERT INTO `anilist_chinese` VALUES (188,'{\"title\":{\"chinese\":\"御先祖賛江\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (189,'{\"title\":{\"chinese\":\"純情房東俏房客\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (190,'{\"title\":{\"chinese\":\"純情房東俏房客 Again\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (191,'{\"title\":{\"chinese\":\"純情房東俏房客 聖誕特別篇\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (192,'{\"title\":{\"chinese\":\"純情房東俏房客 春季特別篇\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (193,'{\"title\":{\"chinese\":\"愛的魔法\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (195,'{\"title\":{\"chinese\":\"拜託了老師\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (196,'{\"title\":{\"chinese\":\"拜託了雙子星\"},\"synonyms_chinese\":[]}');
