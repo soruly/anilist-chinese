@@ -6237,6 +6237,7 @@ const db = new Map([
 [152207,{title:"被夾在百合之間。我在某個早上變成人頭麥克風的人生",synonyms:[]}],
 [153906,{title:"鐵拳：血統",synonyms:[]}],
 [153930,{title:"Romantic Killer",synonyms:["浪漫殺手"]}],
+[154545,{title:"人類毛病大學",synonyms:[]}],
 [154672,{title:"家裡蹲的日常 狗狗小町與貓咪多比",synonyms:[]}],
 [155011,{title:"烙印戰士 黃金時代篇 MEMORIAL EDITION",synonyms:[]}]
 ]);
