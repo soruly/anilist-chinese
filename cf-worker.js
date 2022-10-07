@@ -5797,6 +5797,7 @@ const db = new Map([
 [125867,{title:"CESTVS -The Roman Fighter-",synonyms:[]}],
 [125868,{title:"NIGHT HEAD 2041",synonyms:[]}],
 [125909,{title:"TSUKIPRO THE ANIMATION 2",synonyms:[]}],
+[125910,{title:"VAZZROCK THE ANIMATION",synonyms:[]}],
 [125931,{title:"劇場版 角落小夥伴 藍色月夜的魔法之子",synonyms:[]}],
 [126047,{title:"急戰 5 秒殊死鬥",synonyms:[]}],
 [126192,{title:"女朋友 and 女朋友",synonyms:[]}],

@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2022.10.6
+// @version      2.2022.10.7
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -5813,6 +5813,7 @@ var database = [
 {id:125867,title:"CESTVS -The Roman Fighter-"},
 {id:125868,title:"NIGHT HEAD 2041"},
 {id:125909,title:"TSUKIPRO THE ANIMATION 2"},
+{id:125910,title:"VAZZROCK THE ANIMATION"},
 {id:125931,title:"劇場版 角落小夥伴 藍色月夜的魔法之子"},
 {id:126047,title:"急戰 5 秒殊死鬥"},
 {id:126192,title:"女朋友 and 女朋友"},

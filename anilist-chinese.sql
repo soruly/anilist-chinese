@@ -5834,6 +5834,7 @@ INSERT INTO `anilist_chinese` VALUES (125841,'{\"title\":{\"chinese\":\"扶桑�
 INSERT INTO `anilist_chinese` VALUES (125867,'{\"title\":{\"chinese\":\"CESTVS -The Roman Fighter-\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (125868,'{\"title\":{\"chinese\":\"NIGHT HEAD 2041\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (125909,'{\"title\":{\"chinese\":\"TSUKIPRO THE ANIMATION 2\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (125910,'{\"title\":{\"chinese\":\"VAZZROCK THE ANIMATION\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (125931,'{\"title\":{\"chinese\":\"劇場版 角落小夥伴 藍色月夜的魔法之子\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (126047,'{\"title\":{\"chinese\":\"急戰 5 秒殊死鬥\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (126192,'{\"title\":{\"chinese\":\"女朋友 and 女朋友\"},\"synonyms_chinese\":[]}');
