@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2022.10.7
+// @version      2.2022.10.8
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -6013,6 +6013,7 @@ var database = [
 {id:135384,title:"社畜想被幼女幽靈療癒。"},
 {id:135432,title:"Bright: Samurai Soul"},
 {id:135513,title:"楓と鈴 THE ANIMATION"},
+{id:135515,title:"令和的DI GI Charat"},
 {id:135645,title:"Gundam Breaker Battlogue"},
 {id:135660,title:"exception"},
 {id:135806,title:"異世界歸來的舅舅"},

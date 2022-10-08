@@ -6034,6 +6034,7 @@ INSERT INTO `anilist_chinese` VALUES (135255,'{\"title\":{\"chinese\":\"Princess
 INSERT INTO `anilist_chinese` VALUES (135384,'{\"title\":{\"chinese\":\"社畜想被幼女幽靈療癒。\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (135432,'{\"title\":{\"chinese\":\"Bright: Samurai Soul\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (135513,'{\"title\":{\"chinese\":\"楓と鈴 THE ANIMATION\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (135515,'{\"title\":{\"chinese\":\"令和的DI GI Charat\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (135645,'{\"title\":{\"chinese\":\"Gundam Breaker Battlogue\"},\"synonyms_chinese\":[\"鋼彈創壞者 對戰風雲錄\"]}');
 INSERT INTO `anilist_chinese` VALUES (135660,'{\"title\":{\"chinese\":\"exception\"},\"synonyms_chinese\":[\"例外\"]}');
 INSERT INTO `anilist_chinese` VALUES (135806,'{\"title\":{\"chinese\":\"異世界歸來的舅舅\"},\"synonyms_chinese\":[]}');

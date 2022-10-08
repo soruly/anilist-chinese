@@ -5997,6 +5997,7 @@ const db = new Map([
 [135384,{title:"社畜想被幼女幽靈療癒。",synonyms:[]}],
 [135432,{title:"Bright: Samurai Soul",synonyms:[]}],
 [135513,{title:"楓と鈴 THE ANIMATION",synonyms:[]}],
+[135515,{title:"令和的DI GI Charat",synonyms:[]}],
 [135645,{title:"Gundam Breaker Battlogue",synonyms:["鋼彈創壞者 對戰風雲錄"]}],
 [135660,{title:"exception",synonyms:["例外"]}],
 [135806,{title:"異世界歸來的舅舅",synonyms:[]}],
