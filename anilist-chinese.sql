@@ -5964,7 +5964,7 @@ INSERT INTO `anilist_chinese` VALUES (131149,'{\"title\":{\"chinese\":\"寒蟬�
 INSERT INTO `anilist_chinese` VALUES (131150,'{\"title\":{\"chinese\":\"SCARLET NEXUS\"},\"synonyms_chinese\":[\"緋紅結繫\"]}');
 INSERT INTO `anilist_chinese` VALUES (131182,'{\"title\":{\"chinese\":\"登山物語 Next Summit\"},\"synonyms_chinese\":[\"前進吧！登山少女 Next Summit\",\"向山進發 Next Summit\",\"來去登山 Next Summit\"]}');
 INSERT INTO `anilist_chinese` VALUES (131264,'{\"title\":{\"chinese\":\"半妖的夜叉姬 第二季\"},\"synonyms_chinese\":[\"戰國御伽草子 第二季\"]}');
-INSERT INTO `anilist_chinese` VALUES (131516,'{\"title\":{\"chinese\":\"Do It Yourself!!\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (131516,'{\"title\":{\"chinese\":\"Do It Yourself!!\"},\"synonyms_chinese\":[\"手工少女\"]}');
 INSERT INTO `anilist_chinese` VALUES (131520,'{\"title\":{\"chinese\":\"劇場版 五等分的花嫁\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (131548,'{\"title\":{\"chinese\":\"明日同學的水手服\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (131565,'{\"title\":{\"chinese\":\"takt op.Destiny\"},\"synonyms_chinese\":[\"宿命迴響：命運節拍\"]}');
@@ -6274,6 +6274,7 @@ INSERT INTO `anilist_chinese` VALUES (151414,'{\"title\":{\"chinese\":\"懲ら�
 INSERT INTO `anilist_chinese` VALUES (151632,'{\"title\":{\"chinese\":\"異世界迷宮裡的後宮生活 OVA\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (151803,'{\"title\":{\"chinese\":\"TIGER & BUNNY 2 Part 2\"},\"synonyms_chinese\":[\"基友英雄傳 2\"]}');
 INSERT INTO `anilist_chinese` VALUES (152207,'{\"title\":{\"chinese\":\"被夾在百合之間。我在某個早上變成人頭麥克風的人生\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (153567,'{\"title\":{\"chinese\":\"後宮路營\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (153906,'{\"title\":{\"chinese\":\"鐵拳：血統\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (153930,'{\"title\":{\"chinese\":\"Romantic Killer\"},\"synonyms_chinese\":[\"浪漫殺手\"]}');
 INSERT INTO `anilist_chinese` VALUES (154545,'{\"title\":{\"chinese\":\"人類毛病大學\"},\"synonyms_chinese\":[]}');
