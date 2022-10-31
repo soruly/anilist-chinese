@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2022.10.16
+// @version      2.2022.10.31
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -6196,6 +6196,7 @@ var database = [
 {id:144996,title:"ハーレム・カルト side HAREM"},
 {id:145001,title:"Extreme Hearts"},
 {id:145016,title:"異世界ヤリサー"},
+{id:145069,title:"雷光神姫アイギスマギア―PANDRA saga 3rd ignition― The Animation"},
 {id:145260,title:"黑之召喚士"},
 {id:145468,title:"YUREI DECO"},
 {id:145478,title:"hololiveERROR"},
@@ -6245,6 +6246,7 @@ var database = [
 {id:150695,title:"被勇者隊伍開除的馭獸使、邂逅了最強種的貓耳少女"},
 {id:150697,title:"Obey Me! Season 2"},
 {id:150909,title:"5億年按鈕"},
+{id:151018,title:"妻ネトリ3～快楽に堕ちた淫汁教師たち～"},
 {id:151072,title:"委員長は催眠アプリを信じてる。"},
 {id:151126,title:"勇者辭職不幹了 OVA"},
 {id:151128,title:"iii icecrin 2"},
@@ -6256,6 +6258,7 @@ var database = [
 {id:151803,title:"TIGER & BUNNY 2 Part 2"},
 {id:152207,title:"被夾在百合之間。我在某個早上變成人頭麥克風的人生"},
 {id:152292,title:"僕にセフレが出来た理由"},
+{id:152881,title:"エロリーマン2"},
 {id:153567,title:"後宮路營"},
 {id:153906,title:"鐵拳：血統"},
 {id:153930,title:"Romantic Killer"},
