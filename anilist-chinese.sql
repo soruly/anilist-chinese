@@ -5612,6 +5612,7 @@ INSERT INTO `anilist_chinese` VALUES (115186,'{\"title\":{\"chinese\":\"奧林�
 INSERT INTO `anilist_chinese` VALUES (115230,'{\"title\":{\"chinese\":\"神之塔 -Tower of God-\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (115405,'{\"title\":{\"chinese\":\"磔\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (115519,'{\"title\":{\"chinese\":\"Cinderella Girls 劇場 Extra Stage\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (115567,'{\"title\":{\"chinese\":\"鳴鳥不飛 Don\'t stay gold\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (115651,'{\"title\":{\"chinese\":\"魔術士歐菲 流浪之旅 天人的遺產\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (115654,'{\"title\":{\"chinese\":\"四月一日三姐妹之家庭故事 第二季\"},\"synonyms_chinese\":[\"與四月一日家\"]}');
 INSERT INTO `anilist_chinese` VALUES (115656,'{\"title\":{\"chinese\":\"Cardfight!! Vanguard 外傳 if\"},\"synonyms_chinese\":[]}');

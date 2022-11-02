@@ -5575,6 +5575,7 @@ const db = new Map([
 [115230,{title:"神之塔 -Tower of God-",synonyms:[]}],
 [115405,{title:"磔",synonyms:[]}],
 [115519,{title:"Cinderella Girls 劇場 Extra Stage",synonyms:[]}],
+[115567,{title:"鳴鳥不飛 Don't stay gold",synonyms:[]}],
 [115651,{title:"魔術士歐菲 流浪之旅 天人的遺產",synonyms:[]}],
 [115654,{title:"四月一日三姐妹之家庭故事 第二季",synonyms:["與四月一日家"]}],
 [115656,{title:"Cardfight!! Vanguard 外傳 if",synonyms:[]}],
