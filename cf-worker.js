@@ -6243,6 +6243,7 @@ const db = new Map([
 [151803,{title:"TIGER & BUNNY 2 Part 2",synonyms:["基友英雄傳 2"]}],
 [152207,{title:"被夾在百合之間。我在某個早上變成人頭麥克風的人生",synonyms:[]}],
 [152292,{title:"僕にセフレが出来た理由",synonyms:[]}],
+[152636,{title:"Blue Archive 1.5週年紀念動畫",synonyms:[]}],
 [152881,{title:"エロリーマン2",synonyms:[]}],
 [153346,{title:"サキュバス喚んだら義母が来た！？",synonyms:[]}],
 [153567,{title:"後宮路營",synonyms:[]}],
