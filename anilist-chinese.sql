@@ -6289,6 +6289,7 @@ INSERT INTO `anilist_chinese` VALUES (153930,'{\"title\":{\"chinese\":\"Romantic
 INSERT INTO `anilist_chinese` VALUES (154545,'{\"title\":{\"chinese\":\"人類毛病大學\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (154672,'{\"title\":{\"chinese\":\"家裡蹲的日常 狗狗小町與貓咪多比\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (155011,'{\"title\":{\"chinese\":\"烙印戰士 黃金時代篇 MEMORIAL EDITION\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (157653,'{\"title\":{\"chinese\":\"Blue Archive Animation: beautiful day dreamer\"},\"synonyms_chinese\":[]}');
 /*!40000 ALTER TABLE `anilist_chinese` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;

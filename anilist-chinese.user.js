@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2022.11.24
+// @version      2.2022.11.25
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -6267,7 +6267,8 @@ var database = [
 {id:153930,title:"Romantic Killer"},
 {id:154545,title:"人類毛病大學"},
 {id:154672,title:"家裡蹲的日常 狗狗小町與貓咪多比"},
-{id:155011,title:"烙印戰士 黃金時代篇 MEMORIAL EDITION"}
+{id:155011,title:"烙印戰士 黃金時代篇 MEMORIAL EDITION"},
+{id:157653,title:"Blue Archive Animation: beautiful day dreamer"}
 ];
 
 var updating;

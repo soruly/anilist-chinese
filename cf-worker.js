@@ -6251,7 +6251,8 @@ const db = new Map([
 [153930,{title:"Romantic Killer",synonyms:["浪漫殺手"]}],
 [154545,{title:"人類毛病大學",synonyms:[]}],
 [154672,{title:"家裡蹲的日常 狗狗小町與貓咪多比",synonyms:[]}],
-[155011,{title:"烙印戰士 黃金時代篇 MEMORIAL EDITION",synonyms:[]}]
+[155011,{title:"烙印戰士 黃金時代篇 MEMORIAL EDITION",synonyms:[]}],
+[157653,{title:"Blue Archive Animation: beautiful day dreamer",synonyms:[]}]
 ]);
 
 async function handleRequest(req) {
