@@ -1,8 +1,8 @@
--- MariaDB dump 10.19  Distrib 10.5.16-MariaDB, for Linux (x86_64)
+-- MariaDB dump 10.19  Distrib 10.5.18-MariaDB, for Linux (x86_64)
 --
 -- Host: localhost    Database: anime
 -- ------------------------------------------------------
--- Server version	10.5.16-MariaDB
+-- Server version	10.5.18-MariaDB
 
 /*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
 /*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
@@ -24,7 +24,7 @@ DROP TABLE IF EXISTS `anilist_chinese`;
 /*!40101 SET character_set_client = utf8 */;
 CREATE TABLE `anilist_chinese` (
   `id` int(10) unsigned NOT NULL,
-  `json` longtext COLLATE utf8mb4_unicode_ci DEFAULT NULL,
+  `json` longtext DEFAULT NULL,
   PRIMARY KEY (`id`),
   CONSTRAINT `CONSTRAINT_1` CHECK (json_valid(`json`))
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
