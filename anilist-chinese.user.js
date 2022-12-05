@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2022.11.25
+// @version      2.2022.12.5
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -6265,6 +6265,7 @@ var database = [
 {id:153567,title:"後宮路營"},
 {id:153906,title:"鐵拳：血統"},
 {id:153930,title:"Romantic Killer"},
+{id:154076,title:"メスダチ The Animation"},
 {id:154545,title:"人類毛病大學"},
 {id:154672,title:"家裡蹲的日常 狗狗小町與貓咪多比"},
 {id:155011,title:"烙印戰士 黃金時代篇 MEMORIAL EDITION"},

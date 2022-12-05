@@ -6249,6 +6249,7 @@ const db = new Map([
 [153567,{title:"後宮路營",synonyms:[]}],
 [153906,{title:"鐵拳：血統",synonyms:[]}],
 [153930,{title:"Romantic Killer",synonyms:["浪漫殺手"]}],
+[154076,{title:"メスダチ The Animation",synonyms:[]}],
 [154545,{title:"人類毛病大學",synonyms:[]}],
 [154672,{title:"家裡蹲的日常 狗狗小町與貓咪多比",synonyms:[]}],
 [155011,{title:"烙印戰士 黃金時代篇 MEMORIAL EDITION",synonyms:[]}],
