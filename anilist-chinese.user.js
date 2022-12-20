@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2022.12.13
+// @version      2.2022.12.20
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -6154,6 +6154,7 @@ var database = [
 {id:142095,title:"神渣☆偶像"},
 {id:142116,title:"Garden ～高嶺家の二輪花～ The Animation"},
 {id:142117,title:"キミはやさしく寝取られる The Animation"},
+{id:142136,title:"ShowTime！唱歌的大姐姐也想做 2"},
 {id:142216,title:"女學。II～Lucky Stars～"},
 {id:142219,title:"名偵探柯南：萬聖節的新娘"},
 {id:142229,title:"エロリーマン"},

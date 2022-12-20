@@ -6138,6 +6138,7 @@ const db = new Map([
 [142095,{title:"神渣☆偶像",synonyms:[]}],
 [142116,{title:"Garden ～高嶺家の二輪花～ The Animation",synonyms:[]}],
 [142117,{title:"キミはやさしく寝取られる The Animation",synonyms:[]}],
+[142136,{title:"ShowTime！唱歌的大姐姐也想做 2",synonyms:[]}],
 [142216,{title:"女學。II～Lucky Stars～",synonyms:[]}],
 [142219,{title:"名偵探柯南：萬聖節的新娘",synonyms:[]}],
 [142229,{title:"エロリーマン",synonyms:[]}],

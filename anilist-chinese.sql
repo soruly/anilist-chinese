@@ -6175,6 +6175,7 @@ INSERT INTO `anilist_chinese` VALUES (142080,'{\"title\":{\"chinese\":\"Deliciou
 INSERT INTO `anilist_chinese` VALUES (142095,'{\"title\":{\"chinese\":\"神渣☆偶像\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (142116,'{\"title\":{\"chinese\":\"Garden ～高嶺家の二輪花～ The Animation\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (142117,'{\"title\":{\"chinese\":\"キミはやさしく寝取られる The Animation\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (142136,'{\"title\":{\"chinese\":\"ShowTime！唱歌的大姐姐也想做 2\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (142216,'{\"title\":{\"chinese\":\"女學。II～Lucky Stars～\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (142219,'{\"title\":{\"chinese\":\"名偵探柯南：萬聖節的新娘\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (142229,'{\"title\":{\"chinese\":\"エロリーマン\"},\"synonyms_chinese\":[]}');
