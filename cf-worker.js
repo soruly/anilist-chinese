@@ -6226,6 +6226,7 @@ const db = new Map([
 [149073,{title:"我的英雄學院：像在地獄一樣笑吧！",synonyms:["我的英雄學院：HLB 英雄棒球聯盟"]}],
 [149326,{title:"新來的女傭有點怪",synonyms:[]}],
 [149874,{title:"盛開的阿斯諾特莉亞",synonyms:["綻放的阿爾斯諾特利亞"]}],
+[150117,{title:"我與機器子",synonyms:[]}],
 [150157,{title:"きつね娘のエッチなお宿",synonyms:[]}],
 [150188,{title:"天竺鼠車車 DRIVING SCHOOL",synonyms:[]}],
 [150575,{title:"世界末日與柴犬同行",synonyms:[]}],

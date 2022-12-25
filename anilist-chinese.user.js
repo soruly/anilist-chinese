@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2022.12.20
+// @version      2.2022.12.25
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -6242,6 +6242,7 @@ var database = [
 {id:149073,title:"我的英雄學院：像在地獄一樣笑吧！"},
 {id:149326,title:"新來的女傭有點怪"},
 {id:149874,title:"盛開的阿斯諾特莉亞"},
+{id:150117,title:"我與機器子"},
 {id:150157,title:"きつね娘のエッチなお宿"},
 {id:150188,title:"天竺鼠車車 DRIVING SCHOOL"},
 {id:150575,title:"世界末日與柴犬同行"},
