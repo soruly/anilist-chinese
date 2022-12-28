@@ -6254,7 +6254,10 @@ const db = new Map([
 [154076,{title:"メスダチ The Animation",synonyms:[]}],
 [154545,{title:"人類毛病大學",synonyms:[]}],
 [154672,{title:"家裡蹲的日常 狗狗小町與貓咪多比",synonyms:[]}],
+[154887,{title:"異世界来たのでスケベスキルで全力謳歌しようと思う THE ANIMATION",synonyms:[]}],
 [155011,{title:"烙印戰士 黃金時代篇 MEMORIAL EDITION",synonyms:[]}],
+[155169,{title:"露出系魔法女子大生クリスティア",synonyms:[]}],
+[155170,{title:"ママ喝っ",synonyms:[]}],
 [157653,{title:"Blue Archive Animation: beautiful day dreamer",synonyms:[]}]
 ]);
 

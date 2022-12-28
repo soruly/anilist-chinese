@@ -6291,7 +6291,10 @@ INSERT INTO `anilist_chinese` VALUES (153930,'{\"title\":{\"chinese\":\"Romantic
 INSERT INTO `anilist_chinese` VALUES (154076,'{\"title\":{\"chinese\":\"メスダチ The Animation\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (154545,'{\"title\":{\"chinese\":\"人類毛病大學\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (154672,'{\"title\":{\"chinese\":\"家裡蹲的日常 狗狗小町與貓咪多比\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (154887,'{\"title\":{\"chinese\":\"異世界来たのでスケベスキルで全力謳歌しようと思う THE ANIMATION\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (155011,'{\"title\":{\"chinese\":\"烙印戰士 黃金時代篇 MEMORIAL EDITION\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (155169,'{\"title\":{\"chinese\":\"露出系魔法女子大生クリスティア\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (155170,'{\"title\":{\"chinese\":\"ママ喝っ\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (157653,'{\"title\":{\"chinese\":\"Blue Archive Animation: beautiful day dreamer\"},\"synonyms_chinese\":[]}');
 /*!40000 ALTER TABLE `anilist_chinese` ENABLE KEYS */;
 UNLOCK TABLES;

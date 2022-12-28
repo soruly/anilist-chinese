@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2022.12.25
+// @version      2.2022.12.28
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -6270,7 +6270,10 @@ var database = [
 {id:154076,title:"メスダチ The Animation"},
 {id:154545,title:"人類毛病大學"},
 {id:154672,title:"家裡蹲的日常 狗狗小町與貓咪多比"},
+{id:154887,title:"異世界来たのでスケベスキルで全力謳歌しようと思う THE ANIMATION"},
 {id:155011,title:"烙印戰士 黃金時代篇 MEMORIAL EDITION"},
+{id:155169,title:"露出系魔法女子大生クリスティア"},
+{id:155170,title:"ママ喝っ"},
 {id:157653,title:"Blue Archive Animation: beautiful day dreamer"}
 ];
 
