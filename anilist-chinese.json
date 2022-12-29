@@ -32617,6 +32617,11 @@
     "synonyms": []
   },
   {
+    "id": 116867,
+    "title": "怕痛的我，把防禦力點滿就對了 第二季",
+    "synonyms": []
+  },
+  {
     "id": 116944,
     "title": "WIXOSS DIVA (A) LIVE",
     "synonyms": []
@@ -33546,6 +33551,11 @@
     "synonyms": []
   },
   {
+    "id": 125869,
+    "title": "狩火之王",
+    "synonyms": []
+  },
+  {
     "id": 125909,
     "title": "TSUKIPRO THE ANIMATION 2",
     "synonyms": []
@@ -33606,6 +33616,11 @@
     "synonyms": [
       "天使降臨到我身邊！珍貴的朋友"
     ]
+  },
+  {
+    "id": 126529,
+    "title": "虛構推理 第二季",
+    "synonyms": []
   },
   {
     "id": 126531,
@@ -34144,6 +34159,13 @@
     "synonyms": []
   },
   {
+    "id": 130588,
+    "title": "魔王學院的不適合者 第二季",
+    "synonyms": [
+      "魔王學院的不適任者～史上最強的魔王始祖，轉生就讀子孫們的學校～ 第二季"
+    ]
+  },
+  {
     "id": 130591,
     "title": "食鏽末世錄",
     "synonyms": []
@@ -34167,6 +34189,13 @@
     "id": 130692,
     "title": "まこちゃん開発日記",
     "synonyms": []
+  },
+  {
+    "id": 130696,
+    "title": "The Legend of Heroes 閃之軌跡 Northern War",
+    "synonyms": [
+      "英雄傳說 閃之軌跡：北方戰役"
+    ]
   },
   {
     "id": 130713,
@@ -34586,6 +34615,11 @@
     "synonyms": []
   },
   {
+    "id": 135102,
+    "title": "眾神眷顧的男人 2",
+    "synonyms": []
+  },
+  {
     "id": 135108,
     "title": "闇芝居 9",
     "synonyms": []
@@ -34608,6 +34642,11 @@
   {
     "id": 135384,
     "title": "社畜想被幼女幽靈療癒。",
+    "synonyms": []
+  },
+  {
+    "id": 135429,
+    "title": "MAKE MY DAY",
     "synonyms": []
   },
   {
@@ -34638,6 +34677,11 @@
     "synonyms": [
       "例外"
     ]
+  },
+  {
+    "id": 135778,
+    "title": "HIGH CARD",
+    "synonyms": []
   },
   {
     "id": 135806,
@@ -34731,6 +34775,18 @@
   {
     "id": 136428,
     "title": "怪人開發部的黑井津小姐",
+    "synonyms": []
+  },
+  {
+    "id": 136430,
+    "title": "Vinland Saga Season 2",
+    "synonyms": [
+      "海盜戰記 第二季"
+    ]
+  },
+  {
+    "id": 136435,
+    "title": "再得一勝！",
     "synonyms": []
   },
   {
@@ -34872,6 +34928,16 @@
   {
     "id": 137877,
     "title": "加油吧同期醬",
+    "synonyms": []
+  },
+  {
+    "id": 137909,
+    "title": "不相信人類的冒險者們好像要去拯救世界",
+    "synonyms": []
+  },
+  {
+    "id": 138056,
+    "title": "終末的女武神 II",
     "synonyms": []
   },
   {
@@ -35125,6 +35191,13 @@
     "synonyms": []
   },
   {
+    "id": 139821,
+    "title": "Sugar Apple Fairy Tale",
+    "synonyms": [
+      "銀砂糖師與黑妖精～sugar apple fairy tale～"
+    ]
+  },
+  {
     "id": 139883,
     "title": "パパ喝ッ！",
     "synonyms": []
@@ -35193,11 +35266,21 @@
     "synonyms": []
   },
   {
+    "id": 140499,
+    "title": "BLUE GIANT",
+    "synonyms": []
+  },
+  {
     "id": 140502,
     "title": "Ryman's Club",
     "synonyms": [
       "里曼俱樂部"
     ]
+  },
+  {
+    "id": 140596,
+    "title": "不要欺負我，長瀞同學 第二季",
+    "synonyms": []
   },
   {
     "id": 140642,
@@ -35268,7 +35351,9 @@
   {
     "id": 141062,
     "title": "TECHNOROID: OVERMIND",
-    "synonyms": []
+    "synonyms": [
+      "TechnoRoid 超越意志"
+    ]
   },
   {
     "id": 141063,
@@ -35283,6 +35368,11 @@
   {
     "id": 141212,
     "title": "總之就是很可愛 ～制服～",
+    "synonyms": []
+  },
+  {
+    "id": 141249,
+    "title": "文豪Stray Dogs 4",
     "synonyms": []
   },
   {
@@ -35326,6 +35416,16 @@
     "synonyms": [
       "足球風雲！Goal to the Future"
     ]
+  },
+  {
+    "id": 141785,
+    "title": "物之古物奇譚",
+    "synonyms": []
+  },
+  {
+    "id": 141879,
+    "title": "莫名成為邪龍的五千歲草食龍",
+    "synonyms": []
   },
   {
     "id": 141902,
@@ -35380,6 +35480,11 @@
     "synonyms": []
   },
   {
+    "id": 142193,
+    "title": "英雄王，為了窮盡武道而轉生～而後成為世界最強見習騎士♀～",
+    "synonyms": []
+  },
+  {
     "id": 142216,
     "title": "女學。II～Lucky Stars～",
     "synonyms": []
@@ -35427,6 +35532,11 @@
     "synonyms": []
   },
   {
+    "id": 142684,
+    "title": "GRIDMAN UNIVERSE",
+    "synonyms": []
+  },
+  {
     "id": 142701,
     "title": "後宮之烏",
     "synonyms": []
@@ -35459,8 +35569,23 @@
     "synonyms": []
   },
   {
+    "id": 142849,
+    "title": "妖幻三重奏",
+    "synonyms": []
+  },
+  {
+    "id": 142853,
+    "title": "東京復仇者 聖夜決戰篇",
+    "synonyms": []
+  },
+  {
     "id": 142876,
     "title": "Dr. STONE 龍水",
+    "synonyms": []
+  },
+  {
+    "id": 142914,
+    "title": "吸血鬼馬上死 2",
     "synonyms": []
   },
   {
@@ -35471,6 +35596,11 @@
   {
     "id": 142985,
     "title": "Muv-Luv Alternative 2",
+    "synonyms": []
+  },
+  {
+    "id": 143064,
+    "title": "傲嬌反派千金莉潔洛特與實況主遠藤同學及解說員小林同學",
     "synonyms": []
   },
   {
@@ -35536,6 +35666,11 @@
     "synonyms": []
   },
   {
+    "id": 143338,
+    "title": "關於我在無意間被隔壁的天使變成廢柴這件事",
+    "synonyms": []
+  },
+  {
     "id": 143417,
     "title": "頂點!!!!!!!!!!!!!!!",
     "synonyms": []
@@ -35548,6 +35683,16 @@
   {
     "id": 143846,
     "title": "平凡職業造就世界最強 第二季 SP",
+    "synonyms": []
+  },
+  {
+    "id": 144092,
+    "title": "萬事屋齋藤先生轉生異世界",
+    "synonyms": []
+  },
+  {
+    "id": 144144,
+    "title": "大雪海的凱那",
     "synonyms": []
   },
   {
@@ -35570,6 +35715,11 @@
   {
     "id": 144533,
     "title": "書蟲公主",
+    "synonyms": []
+  },
+  {
+    "id": 144553,
+    "title": "最強陰陽師的異世界轉生記",
     "synonyms": []
   },
   {
@@ -35645,6 +35795,13 @@
     "synonyms": []
   },
   {
+    "id": 145665,
+    "title": "NieR:Automata Ver1.1a",
+    "synonyms": [
+      "尼爾：自動人形 Ver1.1a"
+    ]
+  },
+  {
     "id": 145739,
     "title": "鏡之孤城",
     "synonyms": []
@@ -35672,6 +35829,16 @@
   {
     "id": 146321,
     "title": "D4DJ Double Mix",
+    "synonyms": []
+  },
+  {
+    "id": 146323,
+    "title": "間諜教室",
+    "synonyms": []
+  },
+  {
+    "id": 146346,
+    "title": "無意間變成狗，被喜歡的女生撿回家。",
     "synonyms": []
   },
   {
@@ -35741,8 +35908,18 @@
     "synonyms": []
   },
   {
+    "id": 146743,
+    "title": "佐佐木與宮野ー畢業編ー",
+    "synonyms": []
+  },
+  {
     "id": 146837,
     "title": "ツグナヒ",
+    "synonyms": []
+  },
+  {
+    "id": 146850,
+    "title": "異世界悠閒農家",
     "synonyms": []
   },
   {
@@ -35761,8 +35938,18 @@
     "synonyms": []
   },
   {
+    "id": 146954,
+    "title": "真・進化果實～不知不覺踏上勝利的人生～",
+    "synonyms": []
+  },
+  {
     "id": 146962,
     "title": "4 個人各自有著自己的秘密",
+    "synonyms": []
+  },
+  {
+    "id": 147216,
+    "title": "D4DJ All Mix",
     "synonyms": []
   },
   {
@@ -35778,6 +35965,11 @@
   {
     "id": 147578,
     "title": "聖華女学院公認竿おじさん",
+    "synonyms": []
+  },
+  {
+    "id": 147864,
+    "title": "不當哥哥了！",
     "synonyms": []
   },
   {
@@ -35801,6 +35993,11 @@
     "synonyms": []
   },
   {
+    "id": 148116,
+    "title": "冰劍的魔術師將要統一世界",
+    "synonyms": []
+  },
+  {
     "id": 148147,
     "title": "ハヂ+ ～羞チ心～",
     "synonyms": []
@@ -35813,6 +36010,11 @@
   {
     "id": 148492,
     "title": "KJ File",
+    "synonyms": []
+  },
+  {
+    "id": 148969,
+    "title": "久保同學不放過我",
     "synonyms": []
   },
   {
@@ -35860,6 +36062,11 @@
     "synonyms": []
   },
   {
+    "id": 150653,
+    "title": "伊藤潤二狂熱：日本恐怖故事",
+    "synonyms": []
+  },
+  {
     "id": 150695,
     "title": "被勇者隊伍開除的馭獸使、邂逅了最強種的貓耳少女",
     "synonyms": []
@@ -35880,6 +36087,13 @@
     "synonyms": []
   },
   {
+    "id": 151040,
+    "title": "Trigun Stampede",
+    "synonyms": [
+      "槍神 STAMPEDE"
+    ]
+  },
+  {
     "id": 151072,
     "title": "委員長は催眠アプリを信じてる。",
     "synonyms": []
@@ -35898,8 +36112,23 @@
     ]
   },
   {
+    "id": 151252,
+    "title": "冰屬性男子與無表情女子",
+    "synonyms": []
+  },
+  {
+    "id": 151300,
+    "title": "金之國水之國",
+    "synonyms": []
+  },
+  {
     "id": 151379,
     "title": "秋葉原冥途戰爭",
+    "synonyms": []
+  },
+  {
+    "id": 151384,
+    "title": "輝夜姬想讓人告白－永不結束的初吻－",
     "synonyms": []
   },
   {
@@ -35923,11 +36152,26 @@
     "synonyms": []
   },
   {
+    "id": 151659,
+    "title": "聖鬥士星矢：Knights of the Zodiac Battle for Sanctuary",
+    "synonyms": []
+  },
+  {
+    "id": 151679,
+    "title": "淪落者之夜",
+    "synonyms": []
+  },
+  {
     "id": 151803,
     "title": "TIGER & BUNNY 2 Part 2",
     "synonyms": [
       "基友英雄傳 2"
     ]
+  },
+  {
+    "id": 151806,
+    "title": "小智是女孩啦！",
+    "synonyms": []
   },
   {
     "id": 152207,
@@ -35940,8 +36184,18 @@
     "synonyms": []
   },
   {
+    "id": 152523,
+    "title": "被解雇的暗黑士兵慢活的第二人生",
+    "synonyms": []
+  },
+  {
     "id": 152636,
     "title": "Blue Archive 1.5週年紀念動畫",
+    "synonyms": []
+  },
+  {
+    "id": 152765,
+    "title": "為了養老金去異界存八萬金",
     "synonyms": []
   },
   {
@@ -35957,6 +36211,16 @@
   {
     "id": 153567,
     "title": "後宮路營",
+    "synonyms": []
+  },
+  {
+    "id": 153629,
+    "title": "轉生公主與天才千金的魔法革命",
+    "synonyms": []
+  },
+  {
+    "id": 153841,
+    "title": "弦音－風舞高中弓道部－射－",
     "synonyms": []
   },
   {
@@ -35987,13 +36251,42 @@
     "synonyms": []
   },
   {
+    "id": 154785,
+    "title": "Love Live！虹咲學園 學園偶像同好會 短篇動畫",
+    "synonyms": []
+  },
+  {
     "id": 154887,
     "title": "異世界来たのでスケベスキルで全力謳歌しようと思う THE ANIMATION",
     "synonyms": []
   },
   {
+    "id": 154924,
+    "title": "魯邦三世 VS 貓眼",
+    "synonyms": []
+  },
+  {
+    "id": 154969,
+    "title": "UniteUp!",
+    "synonyms": [
+      "UniteUp! 眾星齊聚"
+    ]
+  },
+  {
     "id": 155011,
     "title": "烙印戰士 黃金時代篇 MEMORIAL EDITION",
+    "synonyms": []
+  },
+  {
+    "id": 155068,
+    "title": "魔術士歐菲 流浪之旅 第三季",
+    "synonyms": [
+      "魔法少年 第三季"
+    ]
+  },
+  {
+    "id": 155089,
+    "title": "阿爾斯的巨獸",
     "synonyms": []
   },
   {
@@ -36007,8 +36300,33 @@
     "synonyms": []
   },
   {
+    "id": 155202,
+    "title": "REVENGER",
+    "synonyms": []
+  },
+  {
+    "id": 155907,
+    "title": "Buddy Daddies",
+    "synonyms": []
+  },
+  {
+    "id": 155997,
+    "title": "FLAGLIA",
+    "synonyms": []
+  },
+  {
+    "id": 156067,
+    "title": "擁有超常技能的異世界流浪美食家",
+    "synonyms": []
+  },
+  {
     "id": 157653,
     "title": "Blue Archive Animation: beautiful day dreamer",
+    "synonyms": []
+  },
+  {
+    "id": 158997,
+    "title": "名偵探柯南 灰原哀物語～黑鐵的神祕列車～",
     "synonyms": []
   }
 ]
