@@ -5889,6 +5889,7 @@ INSERT INTO `anilist_chinese` VALUES (127911,'{\"title\":{\"chinese\":\"式守�
 INSERT INTO `anilist_chinese` VALUES (127958,'{\"title\":{\"chinese\":\"漁港的肉子\"},\"synonyms_chinese\":[\"魚河岸小店\"]}');
 INSERT INTO `anilist_chinese` VALUES (127976,'{\"title\":{\"chinese\":\"天官賜福 第二季\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (128034,'{\"title\":{\"chinese\":\"ORIENT\"},\"synonyms_chinese\":[\"ORIENT 東方少年\"]}');
+INSERT INTO `anilist_chinese` VALUES (128077,'{\"title\":{\"chinese\":\"真夜中の誘戯 -ノーラver.-\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (128207,'{\"title\":{\"chinese\":\"THE FIRST SLAM DUNK\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (128223,'{\"title\":{\"chinese\":\"即使如此依舊步步進逼\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (128399,'{\"title\":{\"chinese\":\"Fairy 蘭丸\"},\"synonyms_chinese\":[]}');

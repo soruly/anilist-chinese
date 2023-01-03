@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2022.12.29
+// @version      2.2023.1.3
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -5868,6 +5868,7 @@ var database = [
 {id:127958,title:"漁港的肉子"},
 {id:127976,title:"天官賜福 第二季"},
 {id:128034,title:"ORIENT"},
+{id:128077,title:"真夜中の誘戯 -ノーラver.-"},
 {id:128207,title:"THE FIRST SLAM DUNK"},
 {id:128223,title:"即使如此依舊步步進逼"},
 {id:128399,title:"Fairy 蘭丸"},

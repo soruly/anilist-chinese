@@ -5852,6 +5852,7 @@ const db = new Map([
 [127958,{title:"漁港的肉子",synonyms:["魚河岸小店"]}],
 [127976,{title:"天官賜福 第二季",synonyms:[]}],
 [128034,{title:"ORIENT",synonyms:["ORIENT 東方少年"]}],
+[128077,{title:"真夜中の誘戯 -ノーラver.-",synonyms:[]}],
 [128207,{title:"THE FIRST SLAM DUNK",synonyms:[]}],
 [128223,{title:"即使如此依舊步步進逼",synonyms:[]}],
 [128399,{title:"Fairy 蘭丸",synonyms:[]}],
