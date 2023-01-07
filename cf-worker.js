@@ -5985,6 +5985,7 @@ const db = new Map([
 [133510,{title:"群馬寶寶",synonyms:[]}],
 [133844,{title:"Overlord  IV",synonyms:[]}],
 [133891,{title:"Love Live！虹咲學園 學園偶像同好會 2",synonyms:[]}],
+[133898,{title:"Dragon Ball Super: Super Hero",synonyms:[]}],
 [133965,{title:"古見同學是溝通魯蛇。",synonyms:[]}],
 [134116,{title:"サキュバスアプリ ～学園催眠～",synonyms:[]}],
 [134120,{title:"Artiswitch",synonyms:[]}],

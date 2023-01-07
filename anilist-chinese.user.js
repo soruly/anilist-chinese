@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2023.1.3
+// @version      2.2023.1.7
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -6001,6 +6001,7 @@ var database = [
 {id:133510,title:"群馬寶寶"},
 {id:133844,title:"Overlord  IV"},
 {id:133891,title:"Love Live！虹咲學園 學園偶像同好會 2"},
+{id:133898,title:"Dragon Ball Super: Super Hero"},
 {id:133965,title:"古見同學是溝通魯蛇。"},
 {id:134116,title:"サキュバスアプリ ～学園催眠～"},
 {id:134120,title:"Artiswitch"},

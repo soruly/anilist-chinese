@@ -6022,6 +6022,7 @@ INSERT INTO `anilist_chinese` VALUES (133483,'{\"title\":{\"chinese\":\"アネ�
 INSERT INTO `anilist_chinese` VALUES (133510,'{\"title\":{\"chinese\":\"群馬寶寶\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (133844,'{\"title\":{\"chinese\":\"Overlord  IV\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (133891,'{\"title\":{\"chinese\":\"Love Live！虹咲學園 學園偶像同好會 2\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (133898,'{\"title\":{\"chinese\":\"Dragon Ball Super: Super Hero\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (133965,'{\"title\":{\"chinese\":\"古見同學是溝通魯蛇。\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (134116,'{\"title\":{\"chinese\":\"サキュバスアプリ ～学園催眠～\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (134120,'{\"title\":{\"chinese\":\"Artiswitch\"},\"synonyms_chinese\":[]}');
