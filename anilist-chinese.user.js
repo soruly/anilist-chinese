@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2023.1.7
+// @version      2.2023.1.8
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -6332,6 +6332,7 @@ var database = [
 {id:155169,title:"露出系魔法女子大生クリスティア"},
 {id:155170,title:"ママ喝っ"},
 {id:155202,title:"REVENGER"},
+{id:155211,title:"在地下城尋求邂逅是否搞錯了什麼 IV"},
 {id:155907,title:"Buddy Daddies"},
 {id:155997,title:"FLAGLIA"},
 {id:156067,title:"擁有超常技能的異世界流浪美食家"},

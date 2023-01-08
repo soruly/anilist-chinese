@@ -6353,6 +6353,7 @@ INSERT INTO `anilist_chinese` VALUES (155089,'{\"title\":{\"chinese\":\"阿爾�
 INSERT INTO `anilist_chinese` VALUES (155169,'{\"title\":{\"chinese\":\"露出系魔法女子大生クリスティア\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (155170,'{\"title\":{\"chinese\":\"ママ喝っ\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (155202,'{\"title\":{\"chinese\":\"REVENGER\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (155211,'{\"title\":{\"chinese\":\"在地下城尋求邂逅是否搞錯了什麼 IV\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (155907,'{\"title\":{\"chinese\":\"Buddy Daddies\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (155997,'{\"title\":{\"chinese\":\"FLAGLIA\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (156067,'{\"title\":{\"chinese\":\"擁有超常技能的異世界流浪美食家\"},\"synonyms_chinese\":[]}');
