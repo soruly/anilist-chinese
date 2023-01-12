@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2023.1.8
+// @version      2.2023.1.12
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -6060,6 +6060,7 @@ var database = [
 {id:137247,title:"幻想三國誌 天元靈心記"},
 {id:137264,title:"オナホ教室 ～女子全員妊娠計画～ THE ANIMATION"},
 {id:137281,title:"不會拿捏距離的阿波連同學"},
+{id:137308,title:"埃及神明們的日常 2"},
 {id:137309,title:"Digimon Ghost Game"},
 {id:137312,title:"秘密內幕-女警的反擊"},
 {id:137337,title:"噥噥日和 Nonstop OVA"},

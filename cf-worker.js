@@ -6044,6 +6044,7 @@ const db = new Map([
 [137247,{title:"幻想三國誌 天元靈心記",synonyms:[]}],
 [137264,{title:"オナホ教室 ～女子全員妊娠計画～ THE ANIMATION",synonyms:[]}],
 [137281,{title:"不會拿捏距離的阿波連同學",synonyms:[]}],
+[137308,{title:"埃及神明們的日常 2",synonyms:[]}],
 [137309,{title:"Digimon Ghost Game",synonyms:["數碼寶貝 幽靈遊戲"]}],
 [137312,{title:"秘密內幕-女警的反擊",synonyms:[]}],
 [137337,{title:"噥噥日和 Nonstop OVA",synonyms:[]}],

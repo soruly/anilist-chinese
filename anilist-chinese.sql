@@ -6081,6 +6081,7 @@ INSERT INTO `anilist_chinese` VALUES (137227,'{\"title\":{\"chinese\":\"Deji Mee
 INSERT INTO `anilist_chinese` VALUES (137247,'{\"title\":{\"chinese\":\"幻想三國誌 天元靈心記\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (137264,'{\"title\":{\"chinese\":\"オナホ教室 ～女子全員妊娠計画～ THE ANIMATION\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (137281,'{\"title\":{\"chinese\":\"不會拿捏距離的阿波連同學\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (137308,'{\"title\":{\"chinese\":\"埃及神明們的日常 2\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (137309,'{\"title\":{\"chinese\":\"Digimon Ghost Game\"},\"synonyms_chinese\":[\"數碼寶貝 幽靈遊戲\"]}');
 INSERT INTO `anilist_chinese` VALUES (137312,'{\"title\":{\"chinese\":\"秘密內幕-女警的反擊\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (137337,'{\"title\":{\"chinese\":\"噥噥日和 Nonstop OVA\"},\"synonyms_chinese\":[]}');
