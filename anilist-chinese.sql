@@ -4633,7 +4633,7 @@ INSERT INTO `anilist_chinese` VALUES (99818,'{\"title\":{\"chinese\":\"一求乳
 INSERT INTO `anilist_chinese` VALUES (99819,'{\"title\":{\"chinese\":\"龍堂寺士門の淫謀\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (99888,'{\"title\":{\"chinese\":\"怪獸娘～超人力霸王怪獸擬人化計劃～ 2期\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (99894,'{\"title\":{\"chinese\":\"相親對象是我教的強勢問題兒\"},\"synonyms_chinese\":[\"相親對象是強硬的問題學生\",\"相親對象是自己的學生，強勢的問題兒童。\"]}');
-INSERT INTO `anilist_chinese` VALUES (99900,'{\"title\":{\"chinese\":\"最喜歡電影的彭波小姐\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (99900,'{\"title\":{\"chinese\":\"最喜歡電影的彭波小姐\"},\"synonyms_chinese\":[\"熱愛電影的龐波小姐\"]}');
 INSERT INTO `anilist_chinese` VALUES (99911,'{\"title\":{\"chinese\":\"かぎろひ~勺景~ Another\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (99912,'{\"title\":{\"chinese\":\"巨乳大家族催眠\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (99916,'{\"title\":{\"chinese\":\"牽牛花與加瀨同學。\"},\"synonyms_chinese\":[]}');
