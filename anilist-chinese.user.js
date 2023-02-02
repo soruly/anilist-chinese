@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2023.1.12
+// @version      2.2023.2.2
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -6336,7 +6336,10 @@ var database = [
 {id:155211,title:"在地下城尋求邂逅是否搞錯了什麼 IV"},
 {id:155907,title:"Buddy Daddies"},
 {id:155997,title:"FLAGLIA"},
+{id:156017,title:"スリーピース THE ANIMATION"},
 {id:156067,title:"擁有超常技能的異世界流浪美食家"},
+{id:156161,title:"おとぎばなしの鬼ごっこ"},
+{id:156162,title:"ヤリ上がり"},
 {id:157653,title:"Blue Archive Animation: beautiful day dreamer"},
 {id:158997,title:"名偵探柯南 灰原哀物語～黑鐵的神祕列車～"}
 ];
