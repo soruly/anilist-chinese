@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2023.2.2
+// @version      2.2023.2.11
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -6311,6 +6311,7 @@ var database = [
 {id:152207,title:"被夾在百合之間。我在某個早上變成人頭麥克風的人生"},
 {id:152292,title:"僕にセフレが出来た理由"},
 {id:152523,title:"被解雇的暗黑士兵慢活的第二人生"},
+{id:152556,title:"いもうとはGALかわいい"},
 {id:152636,title:"Blue Archive 1.5週年紀念動畫"},
 {id:152765,title:"為了養老金去異界存八萬金"},
 {id:152881,title:"エロリーマン2"},
