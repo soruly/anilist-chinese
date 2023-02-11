@@ -5910,6 +5910,7 @@ INSERT INTO `anilist_chinese` VALUES (128827,'{\"title\":{\"chinese\":\"Cardfigh
 INSERT INTO `anilist_chinese` VALUES (128828,'{\"title\":{\"chinese\":\"少女前綫\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (128872,'{\"title\":{\"chinese\":\"星夢學園 Planet!\"},\"synonyms_chinese\":[\"偶像活動 Planet!\",\"偶像學園 Planet!\"]}');
 INSERT INTO `anilist_chinese` VALUES (128947,'{\"title\":{\"chinese\":\"從指尖開始的熱情2 戀人是消防員\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (129046,'{\"title\":{\"chinese\":\"6 LOVERS\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (129068,'{\"title\":{\"chinese\":\"進化果實～不知不覺踏上勝利的人生～\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (129115,'{\"title\":{\"chinese\":\"指導姦 Day after THE ANIMATION\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (129190,'{\"title\":{\"chinese\":\"天才王子的赤字國家重生術\"},\"synonyms_chinese\":[]}');

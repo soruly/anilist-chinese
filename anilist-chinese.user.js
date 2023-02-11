@@ -5889,6 +5889,7 @@ var database = [
 {id:128828,title:"少女前綫"},
 {id:128872,title:"星夢學園 Planet!"},
 {id:128947,title:"從指尖開始的熱情2 戀人是消防員"},
+{id:129046,title:"6 LOVERS"},
 {id:129068,title:"進化果實～不知不覺踏上勝利的人生～"},
 {id:129115,title:"指導姦 Day after THE ANIMATION"},
 {id:129190,title:"天才王子的赤字國家重生術"},

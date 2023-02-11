@@ -5873,6 +5873,7 @@ const db = new Map([
 [128828,{title:"少女前綫",synonyms:[]}],
 [128872,{title:"星夢學園 Planet!",synonyms:["偶像活動 Planet!","偶像學園 Planet!"]}],
 [128947,{title:"從指尖開始的熱情2 戀人是消防員",synonyms:[]}],
+[129046,{title:"6 LOVERS",synonyms:[]}],
 [129068,{title:"進化果實～不知不覺踏上勝利的人生～",synonyms:[]}],
 [129115,{title:"指導姦 Day after THE ANIMATION",synonyms:[]}],
 [129190,{title:"天才王子的赤字國家重生術",synonyms:[]}],
