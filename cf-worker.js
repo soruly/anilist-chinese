@@ -6301,6 +6301,7 @@ const db = new Map([
 [152765,{title:"為了養老金去異界存八萬金",synonyms:[]}],
 [152881,{title:"エロリーマン2",synonyms:[]}],
 [153346,{title:"サキュバス喚んだら義母が来た！？",synonyms:[]}],
+[153553,{title:"アオハルスナッチ",synonyms:[]}],
 [153567,{title:"後宮路營",synonyms:[]}],
 [153629,{title:"轉生公主與天才千金的魔法革命",synonyms:[]}],
 [153841,{title:"弦音－風舞高中弓道部－射－",synonyms:[]}],

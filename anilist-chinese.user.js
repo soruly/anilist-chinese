@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2023.2.11
+// @version      2.2023.2.24
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -6317,6 +6317,7 @@ var database = [
 {id:152765,title:"為了養老金去異界存八萬金"},
 {id:152881,title:"エロリーマン2"},
 {id:153346,title:"サキュバス喚んだら義母が来た！？"},
+{id:153553,title:"アオハルスナッチ"},
 {id:153567,title:"後宮路營"},
 {id:153629,title:"轉生公主與天才千金的魔法革命"},
 {id:153841,title:"弦音－風舞高中弓道部－射－"},

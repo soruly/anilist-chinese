@@ -6338,6 +6338,7 @@ INSERT INTO `anilist_chinese` VALUES (152636,'{\"title\":{\"chinese\":\"Blue Arc
 INSERT INTO `anilist_chinese` VALUES (152765,'{\"title\":{\"chinese\":\"為了養老金去異界存八萬金\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (152881,'{\"title\":{\"chinese\":\"エロリーマン2\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (153346,'{\"title\":{\"chinese\":\"サキュバス喚んだら義母が来た！？\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (153553,'{\"title\":{\"chinese\":\"アオハルスナッチ\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (153567,'{\"title\":{\"chinese\":\"後宮路營\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (153629,'{\"title\":{\"chinese\":\"轉生公主與天才千金的魔法革命\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (153841,'{\"title\":{\"chinese\":\"弦音－風舞高中弓道部－射－\"},\"synonyms_chinese\":[]}');
