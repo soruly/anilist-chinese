@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2023.2.24
+// @version      2.2023.2.25
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -5794,7 +5794,7 @@ var database = [
 {id:125124,title:"理科生墜入情網，故嘗試證明。第二季"},
 {id:125183,title:"実娘（あの子）の代わりに好きなだけ"},
 {id:125206,title:"月光下的異世界之旅"},
-{id:125261,title:"劇場版 弦音－風舞高中弓道部－射－"},
+{id:125261,title:"劇場版 弦音－起始的一箭－"},
 {id:125351,title:"意呆利 World Stars"},
 {id:125367,title:"輝夜姬想讓人告白~天才們的戀愛頭腦戰~第三季"},
 {id:125368,title:"輝夜姬想讓人告白~天才們的戀愛頭腦戰~ OVA"},
@@ -6225,6 +6225,7 @@ var database = [
 {id:144553,title:"最強陰陽師的異世界轉生記"},
 {id:144676,title:"Onipan!"},
 {id:144677,title:"BASTARD!! －暗黑破壞神－"},
+{id:144687,title:"Delicious Party♡Precure 尋夢的兒童午餐"},
 {id:144853,title:"Insect Land"},
 {id:144858,title:"CHIMIMO"},
 {id:144996,title:"ハーレム・カルト side HAREM"},
@@ -6278,6 +6279,7 @@ var database = [
 {id:148116,title:"冰劍的魔術師將要統一世界"},
 {id:148147,title:"ハヂ+ ～羞チ心～"},
 {id:148148,title:"SUMMER ～田舎の性活～"},
+{id:148179,title:"RE:cycle of the PENGUINDRUM 後編 我愛你"},
 {id:148492,title:"KJ File"},
 {id:148969,title:"久保同學不放過我"},
 {id:148970,title:"銀河英雄傳說 Die Neue These 策謀"},
@@ -6320,7 +6322,7 @@ var database = [
 {id:153553,title:"アオハルスナッチ"},
 {id:153567,title:"後宮路營"},
 {id:153629,title:"轉生公主與天才千金的魔法革命"},
-{id:153841,title:"弦音－風舞高中弓道部－射－"},
+{id:153841,title:"弦音－聯繫的一箭－"},
 {id:153906,title:"鐵拳：血統"},
 {id:153930,title:"Romantic Killer"},
 {id:154076,title:"メスダチ The Animation"},
@@ -6339,6 +6341,7 @@ var database = [
 {id:155211,title:"在地下城尋求邂逅是否搞錯了什麼 IV"},
 {id:155907,title:"Buddy Daddies"},
 {id:155997,title:"FLAGLIA"},
+{id:156001,title:"我想成為影之強者！小劇場"},
 {id:156017,title:"スリーピース THE ANIMATION"},
 {id:156067,title:"擁有超常技能的異世界流浪美食家"},
 {id:156161,title:"おとぎばなしの鬼ごっこ"},

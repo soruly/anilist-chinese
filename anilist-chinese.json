@@ -33452,7 +33452,7 @@
   },
   {
     "id": 125261,
-    "title": "劇場版 弦音－風舞高中弓道部－射－",
+    "title": "劇場版 弦音－起始的一箭－",
     "synonyms": []
   },
   {
@@ -35755,6 +35755,11 @@
     "synonyms": []
   },
   {
+    "id": 144687,
+    "title": "Delicious Party♡Precure 尋夢的兒童午餐",
+    "synonyms": []
+  },
+  {
     "id": 144853,
     "title": "Insect Land",
     "synonyms": []
@@ -36030,6 +36035,11 @@
     "synonyms": []
   },
   {
+    "id": 148179,
+    "title": "RE:cycle of the PENGUINDRUM 後編 我愛你",
+    "synonyms": []
+  },
+  {
     "id": 148492,
     "title": "KJ File",
     "synonyms": []
@@ -36252,8 +36262,10 @@
   },
   {
     "id": 153841,
-    "title": "弦音－風舞高中弓道部－射－",
-    "synonyms": []
+    "title": "弦音－聯繫的一箭－",
+    "synonyms": [
+      "弦音－連結的一射－"
+    ]
   },
   {
     "id": 153906,
@@ -36349,6 +36361,11 @@
   {
     "id": 155997,
     "title": "FLAGLIA",
+    "synonyms": []
+  },
+  {
+    "id": 156001,
+    "title": "我想成為影之強者！小劇場",
     "synonyms": []
   },
   {

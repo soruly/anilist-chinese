@@ -5815,7 +5815,7 @@ INSERT INTO `anilist_chinese` VALUES (125068,'{\"title\":{\"chinese\":\"向日�
 INSERT INTO `anilist_chinese` VALUES (125124,'{\"title\":{\"chinese\":\"理科生墜入情網，故嘗試證明。第二季\"},\"synonyms_chinese\":[\"理科生墜入情網，故嘗試證明之 第二季\"]}');
 INSERT INTO `anilist_chinese` VALUES (125183,'{\"title\":{\"chinese\":\"実娘（あの子）の代わりに好きなだけ\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (125206,'{\"title\":{\"chinese\":\"月光下的異世界之旅\"},\"synonyms_chinese\":[]}');
-INSERT INTO `anilist_chinese` VALUES (125261,'{\"title\":{\"chinese\":\"劇場版 弦音－風舞高中弓道部－射－\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (125261,'{\"title\":{\"chinese\":\"劇場版 弦音－起始的一箭－\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (125351,'{\"title\":{\"chinese\":\"意呆利 World Stars\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (125367,'{\"title\":{\"chinese\":\"輝夜姬想讓人告白~天才們的戀愛頭腦戰~第三季\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (125368,'{\"title\":{\"chinese\":\"輝夜姬想讓人告白~天才們的戀愛頭腦戰~ OVA\"},\"synonyms_chinese\":[]}');
@@ -6246,6 +6246,7 @@ INSERT INTO `anilist_chinese` VALUES (144533,'{\"title\":{\"chinese\":\"書蟲�
 INSERT INTO `anilist_chinese` VALUES (144553,'{\"title\":{\"chinese\":\"最強陰陽師的異世界轉生記\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (144676,'{\"title\":{\"chinese\":\"Onipan!\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (144677,'{\"title\":{\"chinese\":\"BASTARD!! －暗黑破壞神－\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (144687,'{\"title\":{\"chinese\":\"Delicious Party♡Precure 尋夢的兒童午餐\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (144853,'{\"title\":{\"chinese\":\"Insect Land\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (144858,'{\"title\":{\"chinese\":\"CHIMIMO\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (144996,'{\"title\":{\"chinese\":\"ハーレム・カルト side HAREM\"},\"synonyms_chinese\":[]}');
@@ -6299,6 +6300,7 @@ INSERT INTO `anilist_chinese` VALUES (148112,'{\"title\":{\"chinese\":\"SLEEPLES
 INSERT INTO `anilist_chinese` VALUES (148116,'{\"title\":{\"chinese\":\"冰劍的魔術師將要統一世界\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (148147,'{\"title\":{\"chinese\":\"ハヂ+ ～羞チ心～\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (148148,'{\"title\":{\"chinese\":\"SUMMER ～田舎の性活～\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (148179,'{\"title\":{\"chinese\":\"RE:cycle of the PENGUINDRUM 後編 我愛你\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (148492,'{\"title\":{\"chinese\":\"KJ File\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (148969,'{\"title\":{\"chinese\":\"久保同學不放過我\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (148970,'{\"title\":{\"chinese\":\"銀河英雄傳說 Die Neue These 策謀\"},\"synonyms_chinese\":[]}');
@@ -6341,7 +6343,7 @@ INSERT INTO `anilist_chinese` VALUES (153346,'{\"title\":{\"chinese\":\"サキ�
 INSERT INTO `anilist_chinese` VALUES (153553,'{\"title\":{\"chinese\":\"アオハルスナッチ\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (153567,'{\"title\":{\"chinese\":\"後宮路營\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (153629,'{\"title\":{\"chinese\":\"轉生公主與天才千金的魔法革命\"},\"synonyms_chinese\":[]}');
-INSERT INTO `anilist_chinese` VALUES (153841,'{\"title\":{\"chinese\":\"弦音－風舞高中弓道部－射－\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (153841,'{\"title\":{\"chinese\":\"弦音－聯繫的一箭－\"},\"synonyms_chinese\":[\"弦音－連結的一射－\"]}');
 INSERT INTO `anilist_chinese` VALUES (153906,'{\"title\":{\"chinese\":\"鐵拳：血統\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (153930,'{\"title\":{\"chinese\":\"Romantic Killer\"},\"synonyms_chinese\":[\"浪漫殺手\"]}');
 INSERT INTO `anilist_chinese` VALUES (154076,'{\"title\":{\"chinese\":\"メスダチ The Animation\"},\"synonyms_chinese\":[]}');
@@ -6360,6 +6362,7 @@ INSERT INTO `anilist_chinese` VALUES (155202,'{\"title\":{\"chinese\":\"REVENGER
 INSERT INTO `anilist_chinese` VALUES (155211,'{\"title\":{\"chinese\":\"在地下城尋求邂逅是否搞錯了什麼 IV\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (155907,'{\"title\":{\"chinese\":\"Buddy Daddies\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (155997,'{\"title\":{\"chinese\":\"FLAGLIA\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (156001,'{\"title\":{\"chinese\":\"我想成為影之強者！小劇場\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (156017,'{\"title\":{\"chinese\":\"スリーピース THE ANIMATION\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (156067,'{\"title\":{\"chinese\":\"擁有超常技能的異世界流浪美食家\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (156161,'{\"title\":{\"chinese\":\"おとぎばなしの鬼ごっこ\"},\"synonyms_chinese\":[]}');
