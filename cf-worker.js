@@ -6330,6 +6330,7 @@ const db = new Map([
 [156067,{title:"擁有超常技能的異世界流浪美食家",synonyms:[]}],
 [156161,{title:"おとぎばなしの鬼ごっこ",synonyms:[]}],
 [156162,{title:"ヤリ上がり",synonyms:[]}],
+[157631,{title:"魔女は結局その客と。。。The Animation",synonyms:[]}],
 [157653,{title:"Blue Archive Animation: beautiful day dreamer",synonyms:[]}],
 [158997,{title:"名偵探柯南 灰原哀物語～黑鐵的神祕列車～",synonyms:[]}]
 ]);

@@ -6367,6 +6367,7 @@ INSERT INTO `anilist_chinese` VALUES (156017,'{\"title\":{\"chinese\":\"スリ�
 INSERT INTO `anilist_chinese` VALUES (156067,'{\"title\":{\"chinese\":\"擁有超常技能的異世界流浪美食家\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (156161,'{\"title\":{\"chinese\":\"おとぎばなしの鬼ごっこ\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (156162,'{\"title\":{\"chinese\":\"ヤリ上がり\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (157631,'{\"title\":{\"chinese\":\"魔女は結局その客と。。。The Animation\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (157653,'{\"title\":{\"chinese\":\"Blue Archive Animation: beautiful day dreamer\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (158997,'{\"title\":{\"chinese\":\"名偵探柯南 灰原哀物語～黑鐵的神祕列車～\"},\"synonyms_chinese\":[]}');
 /*!40000 ALTER TABLE `anilist_chinese` ENABLE KEYS */;
