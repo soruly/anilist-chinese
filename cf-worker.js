@@ -6302,6 +6302,7 @@ const db = new Map([
 [152636,{title:"Blue Archive 1.5週年紀念動畫",synonyms:[]}],
 [152765,{title:"為了養老金去異界存八萬金",synonyms:[]}],
 [152881,{title:"エロリーマン2",synonyms:[]}],
+[152964,{title:"母乳ちゃんは射したい。",synonyms:[]}],
 [153346,{title:"サキュバス喚んだら義母が来た！？",synonyms:[]}],
 [153553,{title:"アオハルスナッチ",synonyms:[]}],
 [153567,{title:"後宮路營",synonyms:[]}],
@@ -6332,6 +6333,7 @@ const db = new Map([
 [156162,{title:"ヤリ上がり",synonyms:[]}],
 [157631,{title:"魔女は結局その客と。。。The Animation",synonyms:[]}],
 [157653,{title:"Blue Archive Animation: beautiful day dreamer",synonyms:[]}],
+[157919,{title:"クラスで男は僕一人！？～可愛いあの子達に囲まれて～",synonyms:[]}],
 [158997,{title:"名偵探柯南 灰原哀物語～黑鐵的神祕列車～",synonyms:[]}]
 ]);
 

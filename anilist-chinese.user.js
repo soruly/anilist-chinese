@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2023.2.27
+// @version      2.2023.3.3
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -6318,6 +6318,7 @@ var database = [
 {id:152636,title:"Blue Archive 1.5週年紀念動畫"},
 {id:152765,title:"為了養老金去異界存八萬金"},
 {id:152881,title:"エロリーマン2"},
+{id:152964,title:"母乳ちゃんは射したい。"},
 {id:153346,title:"サキュバス喚んだら義母が来た！？"},
 {id:153553,title:"アオハルスナッチ"},
 {id:153567,title:"後宮路營"},
@@ -6348,6 +6349,7 @@ var database = [
 {id:156162,title:"ヤリ上がり"},
 {id:157631,title:"魔女は結局その客と。。。The Animation"},
 {id:157653,title:"Blue Archive Animation: beautiful day dreamer"},
+{id:157919,title:"クラスで男は僕一人！？～可愛いあの子達に囲まれて～"},
 {id:158997,title:"名偵探柯南 灰原哀物語～黑鐵的神祕列車～"}
 ];
 
