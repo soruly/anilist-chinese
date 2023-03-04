@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2023.3.3
+// @version      2.2023.3.4
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -6267,6 +6267,7 @@ var database = [
 {id:146951,title:"＃今までで一番良かったセックス The Animation"},
 {id:146954,title:"真・進化果實～不知不覺踏上勝利的人生～"},
 {id:146962,title:"4 個人各自有著自己的秘密"},
+{id:146984,title:"進擊的巨人 The Final Season 完結編 前編"},
 {id:147216,title:"D4DJ All Mix"},
 {id:147287,title:"J〇限界交尾～合意挿入でバチバチ肉穴化～"},
 {id:147430,title:"夏休み明けの彼女は…"},
@@ -6350,7 +6351,8 @@ var database = [
 {id:157631,title:"魔女は結局その客と。。。The Animation"},
 {id:157653,title:"Blue Archive Animation: beautiful day dreamer"},
 {id:157919,title:"クラスで男は僕一人！？～可愛いあの子達に囲まれて～"},
-{id:158997,title:"名偵探柯南 灰原哀物語～黑鐵的神祕列車～"}
+{id:158997,title:"名偵探柯南 灰原哀物語～黑鐵的神祕列車～"},
+{id:162314,title:"進擊的巨人 The Final Season 完結編 後編"}
 ];
 
 var updating;

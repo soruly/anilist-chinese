@@ -6288,6 +6288,7 @@ INSERT INTO `anilist_chinese` VALUES (146922,'{\"title\":{\"chinese\":\"機動�
 INSERT INTO `anilist_chinese` VALUES (146951,'{\"title\":{\"chinese\":\"＃今までで一番良かったセックス The Animation\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (146954,'{\"title\":{\"chinese\":\"真・進化果實～不知不覺踏上勝利的人生～\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (146962,'{\"title\":{\"chinese\":\"4 個人各自有著自己的秘密\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (146984,'{\"title\":{\"chinese\":\"進擊的巨人 The Final Season 完結編 前編\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (147216,'{\"title\":{\"chinese\":\"D4DJ All Mix\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (147287,'{\"title\":{\"chinese\":\"J〇限界交尾～合意挿入でバチバチ肉穴化～\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (147430,'{\"title\":{\"chinese\":\"夏休み明けの彼女は…\"},\"synonyms_chinese\":[]}');
@@ -6372,6 +6373,7 @@ INSERT INTO `anilist_chinese` VALUES (157631,'{\"title\":{\"chinese\":\"魔女�
 INSERT INTO `anilist_chinese` VALUES (157653,'{\"title\":{\"chinese\":\"Blue Archive Animation: beautiful day dreamer\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (157919,'{\"title\":{\"chinese\":\"クラスで男は僕一人！？～可愛いあの子達に囲まれて～\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (158997,'{\"title\":{\"chinese\":\"名偵探柯南 灰原哀物語～黑鐵的神祕列車～\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (162314,'{\"title\":{\"chinese\":\"進擊的巨人 The Final Season 完結編 後編\"},\"synonyms_chinese\":[]}');
 /*!40000 ALTER TABLE `anilist_chinese` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;

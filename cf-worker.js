@@ -6251,6 +6251,7 @@ const db = new Map([
 [146951,{title:"＃今までで一番良かったセックス The Animation",synonyms:[]}],
 [146954,{title:"真・進化果實～不知不覺踏上勝利的人生～",synonyms:[]}],
 [146962,{title:"4 個人各自有著自己的秘密",synonyms:[]}],
+[146984,{title:"進擊的巨人 The Final Season 完結編 前編",synonyms:[]}],
 [147216,{title:"D4DJ All Mix",synonyms:[]}],
 [147287,{title:"J〇限界交尾～合意挿入でバチバチ肉穴化～",synonyms:[]}],
 [147430,{title:"夏休み明けの彼女は…",synonyms:[]}],
@@ -6334,7 +6335,8 @@ const db = new Map([
 [157631,{title:"魔女は結局その客と。。。The Animation",synonyms:[]}],
 [157653,{title:"Blue Archive Animation: beautiful day dreamer",synonyms:[]}],
 [157919,{title:"クラスで男は僕一人！？～可愛いあの子達に囲まれて～",synonyms:[]}],
-[158997,{title:"名偵探柯南 灰原哀物語～黑鐵的神祕列車～",synonyms:[]}]
+[158997,{title:"名偵探柯南 灰原哀物語～黑鐵的神祕列車～",synonyms:[]}],
+[162314,{title:"進擊的巨人 The Final Season 完結編 後編",synonyms:[]}]
 ]);
 
 async function handleRequest(req) {
