@@ -29170,6 +29170,11 @@
     "synonyms": []
   },
   {
+    "id": 103699,
+    "title": "",
+    "synonyms": []
+  },
+  {
     "id": 103712,
     "title": "美少女戰士 Sailor Moon Eternal 2",
     "synonyms": []
@@ -33784,6 +33789,11 @@
     "synonyms": []
   },
   {
+    "id": 127550,
+    "title": "熊熊勇闖異世界 第二季",
+    "synonyms": []
+  },
+  {
     "id": 127619,
     "title": "衝吧烈子 第4期",
     "synonyms": []
@@ -33942,6 +33952,11 @@
       "偶像活動 Planet!",
       "偶像學園 Planet!"
     ]
+  },
+  {
+    "id": 128893,
+    "title": "地獄樂",
+    "synonyms": []
   },
   {
     "id": 128947,
@@ -34303,6 +34318,11 @@
     ]
   },
   {
+    "id": 131518,
+    "title": "Dr.STONE NEW WORLD",
+    "synonyms": []
+  },
+  {
     "id": 131520,
     "title": "劇場版 五等分的花嫁",
     "synonyms": []
@@ -34582,6 +34602,11 @@
   {
     "id": 134120,
     "title": "Artiswitch",
+    "synonyms": []
+  },
+  {
+    "id": 134131,
+    "title": "魔法少女毀滅者",
     "synonyms": []
   },
   {
@@ -35243,6 +35268,11 @@
     ]
   },
   {
+    "id": 140173,
+    "title": "留級魔女 風嘉與闇之魔女",
+    "synonyms": []
+  },
+  {
     "id": 140187,
     "title": "新網球王子 U-17 WORLD CUP",
     "synonyms": []
@@ -35332,6 +35362,11 @@
     "synonyms": []
   },
   {
+    "id": 140754,
+    "title": "第二次被異世界召喚",
+    "synonyms": []
+  },
+  {
     "id": 140788,
     "title": "対魔忍不知火～淫欲の奴隷娼婦～",
     "synonyms": []
@@ -35339,7 +35374,9 @@
   {
     "id": 140830,
     "title": "BIRDIE WING: Golf Girls' Story",
-    "synonyms": []
+    "synonyms": [
+      "小鳥之翼"
+    ]
   },
   {
     "id": 140883,
@@ -35385,6 +35422,11 @@
   {
     "id": 141136,
     "title": "3秒後，野獸。 ～坐在聯誼會角落的他是個肉食系",
+    "synonyms": []
+  },
+  {
+    "id": 141208,
+    "title": "總之就是很可愛 第二季",
     "synonyms": []
   },
   {
@@ -35459,6 +35501,13 @@
     "title": "Ensemble Stars! -Road to Show!!-",
     "synonyms": [
       "偶像夢幻祭 -Road to Show!!-"
+    ]
+  },
+  {
+    "id": 141911,
+    "title": "Skip and Loafer",
+    "synonyms": [
+      "躍動青春"
     ]
   },
   {
@@ -35718,6 +35767,13 @@
     "synonyms": []
   },
   {
+    "id": 144188,
+    "title": "Alice Gear Aegis Expansion",
+    "synonyms": [
+      "機戰少女 Alice"
+    ]
+  },
+  {
     "id": 144323,
     "title": "惑星公主蜥蜴騎士",
     "synonyms": []
@@ -35770,6 +35826,13 @@
     "synonyms": []
   },
   {
+    "id": 144932,
+    "title": "EDENS ZERO 第2期",
+    "synonyms": [
+      "伊甸星原 第二季"
+    ]
+  },
+  {
     "id": 144996,
     "title": "ハーレム・カルト side HAREM",
     "synonyms": []
@@ -35787,6 +35850,11 @@
   {
     "id": 145069,
     "title": "雷光神姫アイギスマギア―PANDRA saga 3rd ignition― The Animation",
+    "synonyms": []
+  },
+  {
+    "id": 145139,
+    "title": "鬼滅之刃 刀匠村篇",
     "synonyms": []
   },
   {
@@ -35846,6 +35914,11 @@
   {
     "id": 146233,
     "title": "不道德公會",
+    "synonyms": []
+  },
+  {
+    "id": 146234,
+    "title": "異世界一擊殺姊姊",
     "synonyms": []
   },
   {
@@ -35920,6 +35993,11 @@
     "synonyms": []
   },
   {
+    "id": 146678,
+    "title": "Opus.COLORs",
+    "synonyms": []
+  },
+  {
     "id": 146722,
     "title": "JoJo的奇妙冒險 石之海 part 2",
     "synonyms": []
@@ -35975,6 +36053,11 @@
     "synonyms": []
   },
   {
+    "id": 146975,
+    "title": "THE iDOLM@STER Cinderella Girls: U149",
+    "synonyms": []
+  },
+  {
     "id": 146984,
     "title": "進擊的巨人 The Final Season 完結編 前編",
     "synonyms": []
@@ -35990,8 +36073,18 @@
     "synonyms": []
   },
   {
+    "id": 147369,
+    "title": "青之管弦樂",
+    "synonyms": []
+  },
+  {
     "id": 147430,
     "title": "夏休み明けの彼女は…",
+    "synonyms": []
+  },
+  {
+    "id": 147571,
+    "title": "帶著智慧型手機闖蕩異世界 2",
     "synonyms": []
   },
   {
@@ -36017,6 +36110,21 @@
   {
     "id": 148042,
     "title": "今晚有貓伴身邊",
+    "synonyms": []
+  },
+  {
+    "id": 148048,
+    "title": "在無神的世界進行信仰傳播",
+    "synonyms": []
+  },
+  {
+    "id": 148098,
+    "title": "鄰人似銀河",
+    "synonyms": []
+  },
+  {
+    "id": 148109,
+    "title": "勇者死了！",
     "synonyms": []
   },
   {
@@ -36060,6 +36168,11 @@
     "synonyms": []
   },
   {
+    "id": 149028,
+    "title": "百合是我的工作！",
+    "synonyms": []
+  },
+  {
     "id": 149073,
     "title": "我的英雄學院：像在地獄一樣笑吧！",
     "synonyms": [
@@ -36077,6 +36190,11 @@
     "synonyms": [
       "綻放的阿爾斯諾特利亞"
     ]
+  },
+  {
+    "id": 150075,
+    "title": "為美好的世界獻上爆焰！",
+    "synonyms": []
   },
   {
     "id": 150117,
@@ -36119,6 +36237,11 @@
     "synonyms": []
   },
   {
+    "id": 150957,
+    "title": "江戶前精靈",
+    "synonyms": []
+  },
+  {
     "id": 151018,
     "title": "妻ネトリ3～快楽に堕ちた淫汁教師たち～",
     "synonyms": []
@@ -36146,6 +36269,13 @@
     "synonyms": [
       "雪雪雪 雪糕君 2",
       "冰冰冰 冰淇淋君 2"
+    ]
+  },
+  {
+    "id": 151189,
+    "title": "My Home Hero",
+    "synonyms": [
+      "我家的英雄"
     ]
   },
   {
@@ -36179,6 +36309,13 @@
     "synonyms": []
   },
   {
+    "id": 151606,
+    "title": "BIRDIE WING: Golf Girls' Story Season 2",
+    "synonyms": [
+      "小鳥之翼 第二季"
+    ]
+  },
+  {
     "id": 151631,
     "title": "デリバリーち○こを頼みたいお姉さん",
     "synonyms": []
@@ -36196,6 +36333,11 @@
   {
     "id": 151679,
     "title": "淪落者之夜",
+    "synonyms": []
+  },
+  {
+    "id": 151801,
+    "title": "肌肉魔法使-MASHLE-",
     "synonyms": []
   },
   {
@@ -36251,6 +36393,21 @@
     "synonyms": []
   },
   {
+    "id": 153152,
+    "title": "我內心的糟糕念頭",
+    "synonyms": []
+  },
+  {
+    "id": 153332,
+    "title": "轉生貴族的異世界冒險錄～不知自重的眾神使徒～",
+    "synonyms": []
+  },
+  {
+    "id": 153344,
+    "title": "MIX 第二季",
+    "synonyms": []
+  },
+  {
     "id": 153346,
     "title": "サキュバス喚んだら義母が来た！？",
     "synonyms": []
@@ -36278,6 +36435,11 @@
     ]
   },
   {
+    "id": 153845,
+    "title": "在異世界獲得超強能力的我，在現實世界照樣無敵",
+    "synonyms": []
+  },
+  {
     "id": 153906,
     "title": "鐵拳：血統",
     "synonyms": []
@@ -36292,6 +36454,16 @@
   {
     "id": 154076,
     "title": "メスダチ The Animation",
+    "synonyms": []
+  },
+  {
+    "id": 154364,
+    "title": "魔法使的新娘 第二季",
+    "synonyms": []
+  },
+  {
+    "id": 154412,
+    "title": "女神咖啡廳",
     "synonyms": []
   },
   {
@@ -36310,6 +36482,11 @@
     "synonyms": []
   },
   {
+    "id": 154876,
+    "title": "東京喵喵 NEW ～♡ 第2期",
+    "synonyms": []
+  },
+  {
     "id": 154887,
     "title": "異世界来たのでスケベスキルで全力謳歌しようと思う THE ANIMATION",
     "synonyms": []
@@ -36317,6 +36494,11 @@
   {
     "id": 154924,
     "title": "魯邦三世 VS 貓眼",
+    "synonyms": []
+  },
+  {
+    "id": 154965,
+    "title": "和山田談場 Lv999 的戀愛",
     "synonyms": []
   },
   {
@@ -36339,8 +36521,18 @@
     ]
   },
   {
+    "id": 155070,
+    "title": "可愛過頭大危機",
+    "synonyms": []
+  },
+  {
     "id": 155089,
     "title": "阿爾斯的巨獸",
+    "synonyms": []
+  },
+  {
+    "id": 155158,
+    "title": "機動戰士Gundam 水星的魔女 第二季",
     "synonyms": []
   },
   {
@@ -36361,6 +36553,11 @@
   {
     "id": 155211,
     "title": "在地下城尋求邂逅是否搞錯了什麼 IV",
+    "synonyms": []
+  },
+  {
+    "id": 155783,
+    "title": "天國大魔境",
     "synonyms": []
   },
   {
@@ -36399,6 +36596,21 @@
     "synonyms": []
   },
   {
+    "id": 156896,
+    "title": "絆的 Allele",
+    "synonyms": []
+  },
+  {
+    "id": 157295,
+    "title": "不知內情的轉學生不管三七二十一纏了上來。",
+    "synonyms": []
+  },
+  {
+    "id": 157553,
+    "title": "夜巡貓",
+    "synonyms": []
+  },
+  {
     "id": 157631,
     "title": "魔女は結局その客と。。。The Animation",
     "synonyms": []
@@ -36406,6 +36618,11 @@
   {
     "id": 157653,
     "title": "Blue Archive Animation: beautiful day dreamer",
+    "synonyms": []
+  },
+  {
+    "id": 157765,
+    "title": "World Dai Star",
     "synonyms": []
   },
   {
@@ -36419,8 +36636,45 @@
     "synonyms": []
   },
   {
+    "id": 159560,
+    "title": "逃走中 THE GREAT MISSION",
+    "synonyms": []
+  },
+  {
+    "id": 160173,
+    "title": "群馬寶寶 第二季",
+    "synonyms": []
+  },
+  {
+    "id": 160442,
+    "title": "六道的惡女們",
+    "synonyms": []
+  },
+  {
+    "id": 160829,
+    "title": "Ensemble Stars! 追憶 Selection Element",
+    "synonyms": [
+      "偶像夢幻祭 追憶 Selection Element"
+    ]
+  },
+  {
+    "id": 162312,
+    "title": "小小哥吉拉的逆襲",
+    "synonyms": []
+  },
+  {
     "id": 162314,
     "title": "進擊的巨人 The Final Season 完結編 後編",
+    "synonyms": []
+  },
+  {
+    "id": 162717,
+    "title": "YouTuNya",
+    "synonyms": []
+  },
+  {
+    "id": 162840,
+    "title": "蓬鬆小動物",
     "synonyms": []
   }
 ]
