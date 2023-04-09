@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2023.3.30
+// @version      2.2023.4.9
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -6405,10 +6405,13 @@ var database = [
 {id:157553,title:"夜巡貓"},
 {id:157631,title:"魔女は結局その客と。。。The Animation"},
 {id:157653,title:"Blue Archive Animation: beautiful day dreamer"},
+{id:157664,title:"いくものがかり The Animation"},
 {id:157765,title:"World Dai Star"},
 {id:157919,title:"クラスで男は僕一人！？～可愛いあの子達に囲まれて～"},
 {id:158871,title:"Pocket Monsters (2023)"},
 {id:158997,title:"名偵探柯南 灰原哀物語～黑鐵的神祕列車～"},
+{id:159076,title:"ゴブリンの巣穴"},
+{id:159097,title:"不貞 with ... The Animation ～人妻ナンパNTR温泉 旅行先でナカよく種付けされました～"},
 {id:159560,title:"逃走中 THE GREAT MISSION"},
 {id:160173,title:"群馬寶寶 第二季"},
 {id:160442,title:"六道的惡女們"},

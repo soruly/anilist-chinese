@@ -6426,10 +6426,13 @@ INSERT INTO `anilist_chinese` VALUES (157295,'{\"title\":{\"chinese\":\"不知�
 INSERT INTO `anilist_chinese` VALUES (157553,'{\"title\":{\"chinese\":\"夜巡貓\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (157631,'{\"title\":{\"chinese\":\"魔女は結局その客と。。。The Animation\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (157653,'{\"title\":{\"chinese\":\"Blue Archive Animation: beautiful day dreamer\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (157664,'{\"title\":{\"chinese\":\"いくものがかり The Animation\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (157765,'{\"title\":{\"chinese\":\"World Dai Star\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (157919,'{\"title\":{\"chinese\":\"クラスで男は僕一人！？～可愛いあの子達に囲まれて～\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (158871,'{\"title\":{\"chinese\":\"Pocket Monsters (2023)\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (158997,'{\"title\":{\"chinese\":\"名偵探柯南 灰原哀物語～黑鐵的神祕列車～\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (159076,'{\"title\":{\"chinese\":\"ゴブリンの巣穴\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (159097,'{\"title\":{\"chinese\":\"不貞 with ... The Animation ～人妻ナンパNTR温泉 旅行先でナカよく種付けされました～\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (159560,'{\"title\":{\"chinese\":\"逃走中 THE GREAT MISSION\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (160173,'{\"title\":{\"chinese\":\"群馬寶寶 第二季\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (160442,'{\"title\":{\"chinese\":\"六道的惡女們\"},\"synonyms_chinese\":[]}');
