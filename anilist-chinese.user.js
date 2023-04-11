@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2023.4.9
+// @version      2.2023.4.11
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -729,6 +729,7 @@ var database = [
 {id:1698,title:"交響情人夢"},
 {id:1699,title:"羅密歐×茱麗葉"},
 {id:1702,title:"夜が来る!"},
+{id:1710,title:"Rockman.EXE"},
 {id:1718,title:"Winter Garden"},
 {id:1719,title:"薔薇少女 序曲"},
 {id:1720,title:"To Heart 2 OVA"},
@@ -826,6 +827,10 @@ var database = [
 {id:2104,title:"瀨戶的花嫁"},
 {id:2106,title:"KISSDUM R -ENGAGE planet-"},
 {id:2107,title:"海賊王 雪花石膏戰記 沙漠王女與海盜們"},
+{id:2108,title:"Rockman.EXE AXESS"},
+{id:2109,title:"Rockman.EXE Stream"},
+{id:2110,title:"Rockman.EXE BEAST"},
+{id:2111,title:"劇場版 洛克人.EXE 光與暗的遺產"},
 {id:2112,title:"Over Drive"},
 {id:2113,title:"天空戰記"},
 {id:2114,title:"天空戰記 創世前的暗鬥"},
@@ -1002,6 +1007,7 @@ var database = [
 {id:2681,title:"Space Opera アッガ・ルター"},
 {id:2685,title:"Tsubasa 東京默示錄"},
 {id:2695,title:"Gundam 0083 吉翁的殘光"},
+{id:2713,title:"Rockman.EXE BEAST+"},
 {id:2721,title:"霊能探偵ミコ"},
 {id:2730,title:"1+2=Paradise"},
 {id:2737,title:"黄龍の耳黃龍之耳"},

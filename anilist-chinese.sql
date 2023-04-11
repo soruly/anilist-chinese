@@ -750,6 +750,7 @@ INSERT INTO `anilist_chinese` VALUES (1694,'{\"title\":{\"chinese\":\"iDOLM@STER
 INSERT INTO `anilist_chinese` VALUES (1698,'{\"title\":{\"chinese\":\"交響情人夢\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (1699,'{\"title\":{\"chinese\":\"羅密歐×茱麗葉\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (1702,'{\"title\":{\"chinese\":\"夜が来る!\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (1710,'{\"title\":{\"chinese\":\"Rockman.EXE\"},\"synonyms_chinese\":[\"洛克人.EXE\"]}');
 INSERT INTO `anilist_chinese` VALUES (1718,'{\"title\":{\"chinese\":\"Winter Garden\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (1719,'{\"title\":{\"chinese\":\"薔薇少女 序曲\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (1720,'{\"title\":{\"chinese\":\"To Heart 2 OVA\"},\"synonyms_chinese\":[]}');
@@ -847,6 +848,10 @@ INSERT INTO `anilist_chinese` VALUES (2076,'{\"title\":{\"chinese\":\"金田一�
 INSERT INTO `anilist_chinese` VALUES (2104,'{\"title\":{\"chinese\":\"瀨戶的花嫁\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (2106,'{\"title\":{\"chinese\":\"KISSDUM R -ENGAGE planet-\"},\"synonyms_chinese\":[\"鏖戰星球\",\"星界死者之書\"]}');
 INSERT INTO `anilist_chinese` VALUES (2107,'{\"title\":{\"chinese\":\"海賊王 雪花石膏戰記 沙漠王女與海盜們\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (2108,'{\"title\":{\"chinese\":\"Rockman.EXE AXESS\"},\"synonyms_chinese\":[\"洛克人.EXE AXESS\"]}');
+INSERT INTO `anilist_chinese` VALUES (2109,'{\"title\":{\"chinese\":\"Rockman.EXE Stream\"},\"synonyms_chinese\":[\"洛克人.EXE Stream\"]}');
+INSERT INTO `anilist_chinese` VALUES (2110,'{\"title\":{\"chinese\":\"Rockman.EXE BEAST\"},\"synonyms_chinese\":[\"洛克人.EXE BEAST\"]}');
+INSERT INTO `anilist_chinese` VALUES (2111,'{\"title\":{\"chinese\":\"劇場版 洛克人.EXE 光與暗的遺產\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (2112,'{\"title\":{\"chinese\":\"Over Drive\"},\"synonyms_chinese\":[\"鐵馬少年\",\"自行車少年\",\"瘋狂單車\"]}');
 INSERT INTO `anilist_chinese` VALUES (2113,'{\"title\":{\"chinese\":\"天空戰記\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (2114,'{\"title\":{\"chinese\":\"天空戰記 創世前的暗鬥\"},\"synonyms_chinese\":[]}');
@@ -1023,6 +1028,7 @@ INSERT INTO `anilist_chinese` VALUES (2646,'{\"title\":{\"chinese\":\"多啦美&
 INSERT INTO `anilist_chinese` VALUES (2681,'{\"title\":{\"chinese\":\"Space Opera アッガ・ルター\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (2685,'{\"title\":{\"chinese\":\"Tsubasa 東京默示錄\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (2695,'{\"title\":{\"chinese\":\"Gundam 0083 吉翁的殘光\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (2713,'{\"title\":{\"chinese\":\"Rockman.EXE BEAST+\"},\"synonyms_chinese\":[\"洛克人.EXE BEAST+\"]}');
 INSERT INTO `anilist_chinese` VALUES (2721,'{\"title\":{\"chinese\":\"霊能探偵ミコ\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (2730,'{\"title\":{\"chinese\":\"1+2=Paradise\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (2737,'{\"title\":{\"chinese\":\"黄龍の耳黃龍之耳\"},\"synonyms_chinese\":[]}');
