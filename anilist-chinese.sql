@@ -6442,7 +6442,9 @@ INSERT INTO `anilist_chinese` VALUES (159097,'{\"title\":{\"chinese\":\"不貞 w
 INSERT INTO `anilist_chinese` VALUES (159560,'{\"title\":{\"chinese\":\"逃走中 THE GREAT MISSION\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (160173,'{\"title\":{\"chinese\":\"群馬寶寶 第二季\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (160442,'{\"title\":{\"chinese\":\"六道的惡女們\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (160701,'{\"title\":{\"chinese\":\"告白……\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (160829,'{\"title\":{\"chinese\":\"Ensemble Stars! 追憶 Selection Element\"},\"synonyms_chinese\":[\"偶像夢幻祭 追憶 Selection Element\"]}');
+INSERT INTO `anilist_chinese` VALUES (161312,'{\"title\":{\"chinese\":\"つるぺた守護騎士　エルフィナ堕ちる\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (162312,'{\"title\":{\"chinese\":\"小小哥吉拉的逆襲\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (162314,'{\"title\":{\"chinese\":\"進擊的巨人 The Final Season 完結編 後編\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (162717,'{\"title\":{\"chinese\":\"YouTuNya\"},\"synonyms_chinese\":[]}');

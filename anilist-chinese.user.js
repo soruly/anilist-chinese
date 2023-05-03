@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2023.4.11
+// @version      2.2023.5.3
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -6421,7 +6421,9 @@ var database = [
 {id:159560,title:"逃走中 THE GREAT MISSION"},
 {id:160173,title:"群馬寶寶 第二季"},
 {id:160442,title:"六道的惡女們"},
+{id:160701,title:"告白……"},
 {id:160829,title:"Ensemble Stars! 追憶 Selection Element"},
+{id:161312,title:"つるぺた守護騎士　エルフィナ堕ちる"},
 {id:162312,title:"小小哥吉拉的逆襲"},
 {id:162314,title:"進擊的巨人 The Final Season 完結編 後編"},
 {id:162717,title:"YouTuNya"},
