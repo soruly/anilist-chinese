@@ -5712,6 +5712,7 @@ var database = [
 {id:119696,title:"女武神的餐桌 II"},
 {id:119806,title:"Thunderbolt Fantasy 東離劍遊紀 3"},
 {id:119810,title:"解放区 ~痴漢ハーレム"},
+{id:119872,title:"地下鉄に乗るっ"},
 {id:119941,title:"流浪神差 ARAGOTO OVA"},
 {id:119947,title:"偽戀：OVA"},
 {id:119982,title:"Collector"},
@@ -6428,6 +6429,7 @@ var database = [
 {id:162314,title:"進擊的巨人 The Final Season 完結編 後編"},
 {id:162717,title:"YouTuNya"},
 {id:162840,title:"蓬鬆小動物"},
+{id:162960,title:"667通のラブレター"},
 {id:163138,title:"YAKITORI：行星軌道敢死隊"}
 ];
 

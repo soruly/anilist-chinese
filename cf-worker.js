@@ -5696,6 +5696,7 @@ const db = new Map([
 [119696,{title:"女武神的餐桌 II",synonyms:[]}],
 [119806,{title:"Thunderbolt Fantasy 東離劍遊紀 3",synonyms:[]}],
 [119810,{title:"解放区 ~痴漢ハーレム",synonyms:[]}],
+[119872,{title:"地下鉄に乗るっ",synonyms:[]}],
 [119941,{title:"流浪神差 ARAGOTO OVA",synonyms:[]}],
 [119947,{title:"偽戀：OVA",synonyms:[]}],
 [119982,{title:"Collector",synonyms:[]}],
@@ -6412,6 +6413,7 @@ const db = new Map([
 [162314,{title:"進擊的巨人 The Final Season 完結編 後編",synonyms:[]}],
 [162717,{title:"YouTuNya",synonyms:[]}],
 [162840,{title:"蓬鬆小動物",synonyms:[]}],
+[162960,{title:"667通のラブレター",synonyms:[]}],
 [163138,{title:"YAKITORI：行星軌道敢死隊",synonyms:[]}]
 ]);
 

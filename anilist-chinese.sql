@@ -5733,6 +5733,7 @@ INSERT INTO `anilist_chinese` VALUES (119683,'{\"title\":{\"chinese\":\"EDENS ZE
 INSERT INTO `anilist_chinese` VALUES (119696,'{\"title\":{\"chinese\":\"女武神的餐桌 II\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (119806,'{\"title\":{\"chinese\":\"Thunderbolt Fantasy 東離劍遊紀 3\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (119810,'{\"title\":{\"chinese\":\"解放区 ~痴漢ハーレム\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (119872,'{\"title\":{\"chinese\":\"地下鉄に乗るっ\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (119941,'{\"title\":{\"chinese\":\"流浪神差 ARAGOTO OVA\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (119947,'{\"title\":{\"chinese\":\"偽戀：OVA\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (119982,'{\"title\":{\"chinese\":\"Collector\"},\"synonyms_chinese\":[]}');
@@ -6449,6 +6450,7 @@ INSERT INTO `anilist_chinese` VALUES (162312,'{\"title\":{\"chinese\":\"小小�
 INSERT INTO `anilist_chinese` VALUES (162314,'{\"title\":{\"chinese\":\"進擊的巨人 The Final Season 完結編 後編\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (162717,'{\"title\":{\"chinese\":\"YouTuNya\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (162840,'{\"title\":{\"chinese\":\"蓬鬆小動物\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (162960,'{\"title\":{\"chinese\":\"667通のラブレター\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (163138,'{\"title\":{\"chinese\":\"YAKITORI：行星軌道敢死隊\"},\"synonyms_chinese\":[]}');
 /*!40000 ALTER TABLE `anilist_chinese` ENABLE KEYS */;
 UNLOCK TABLES;
