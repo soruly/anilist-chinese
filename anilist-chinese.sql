@@ -6057,6 +6057,7 @@ INSERT INTO `anilist_chinese` VALUES (135102,'{\"title\":{\"chinese\":\"眾神�
 INSERT INTO `anilist_chinese` VALUES (135108,'{\"title\":{\"chinese\":\"闇芝居 9\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (135136,'{\"title\":{\"chinese\":\"瓦尼塔斯的手札 Part 2\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (135171,'{\"title\":{\"chinese\":\"BanG Dream! Garupa☆Pico Fever!\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (135177,'{\"title\":{\"chinese\":\"阿松～希皮波族與閃耀果實～\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (135255,'{\"title\":{\"chinese\":\"Princess Principal: Crown Handler 第1章 OVA\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (135384,'{\"title\":{\"chinese\":\"社畜想被幼女幽靈療癒。\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (135429,'{\"title\":{\"chinese\":\"MAKE MY DAY\"},\"synonyms_chinese\":[]}');
@@ -6383,6 +6384,7 @@ INSERT INTO `anilist_chinese` VALUES (152636,'{\"title\":{\"chinese\":\"Blue Arc
 INSERT INTO `anilist_chinese` VALUES (152765,'{\"title\":{\"chinese\":\"為了養老金去異界存八萬金\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (152881,'{\"title\":{\"chinese\":\"エロリーマン2\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (152964,'{\"title\":{\"chinese\":\"母乳ちゃんは射したい。\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (153146,'{\"title\":{\"chinese\":\"劇場版 歌之☆王子殿下♪ 真愛ST☆RISH TOURS\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (153152,'{\"title\":{\"chinese\":\"我內心的糟糕念頭\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (153332,'{\"title\":{\"chinese\":\"轉生貴族的異世界冒險錄～不知自重的眾神使徒～\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (153344,'{\"title\":{\"chinese\":\"MIX 第二季\"},\"synonyms_chinese\":[]}');
