@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2023.5.3
+// @version      2.2023.5.10
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -5890,6 +5890,7 @@ var database = [
 {id:128547,title:"ODD TAXI"},
 {id:128563,title:"D4DJ Petit Mix"},
 {id:128623,title:"搾精病棟 THE ANIMATION"},
+{id:128643,title:"果然我的青春戀愛喜劇搞錯了。完 OVA"},
 {id:128703,title:"Assault Lily: FRUITS"},
 {id:128705,title:"Blue Period"},
 {id:128712,title:"偵探已經，死了。"},
@@ -6420,6 +6421,7 @@ var database = [
 {id:159076,title:"ゴブリンの巣穴"},
 {id:159097,title:"不貞 with ... The Animation ～人妻ナンパNTR温泉 旅行先でナカよく種付けされました～"},
 {id:159560,title:"逃走中 THE GREAT MISSION"},
+{id:159807,title:"無意間變成狗，被喜歡的女生撿回家。OVA"},
 {id:160173,title:"群馬寶寶 第二季"},
 {id:160442,title:"六道的惡女們"},
 {id:160701,title:"告白……"},

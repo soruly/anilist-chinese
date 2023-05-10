@@ -5911,6 +5911,7 @@ INSERT INTO `anilist_chinese` VALUES (128546,'{\"title\":{\"chinese\":\"Vivy -Fl
 INSERT INTO `anilist_chinese` VALUES (128547,'{\"title\":{\"chinese\":\"ODD TAXI\"},\"synonyms_chinese\":[\"奇巧計程車\"]}');
 INSERT INTO `anilist_chinese` VALUES (128563,'{\"title\":{\"chinese\":\"D4DJ Petit Mix\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (128623,'{\"title\":{\"chinese\":\"搾精病棟 THE ANIMATION\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (128643,'{\"title\":{\"chinese\":\"果然我的青春戀愛喜劇搞錯了。完 OVA\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (128703,'{\"title\":{\"chinese\":\"Assault Lily: FRUITS\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (128705,'{\"title\":{\"chinese\":\"Blue Period\"},\"synonyms_chinese\":[\"藍色時期\"]}');
 INSERT INTO `anilist_chinese` VALUES (128712,'{\"title\":{\"chinese\":\"偵探已經，死了。\"},\"synonyms_chinese\":[]}');
@@ -6441,6 +6442,7 @@ INSERT INTO `anilist_chinese` VALUES (158997,'{\"title\":{\"chinese\":\"名偵�
 INSERT INTO `anilist_chinese` VALUES (159076,'{\"title\":{\"chinese\":\"ゴブリンの巣穴\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (159097,'{\"title\":{\"chinese\":\"不貞 with ... The Animation ～人妻ナンパNTR温泉 旅行先でナカよく種付けされました～\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (159560,'{\"title\":{\"chinese\":\"逃走中 THE GREAT MISSION\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (159807,'{\"title\":{\"chinese\":\"無意間變成狗，被喜歡的女生撿回家。OVA\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (160173,'{\"title\":{\"chinese\":\"群馬寶寶 第二季\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (160442,'{\"title\":{\"chinese\":\"六道的惡女們\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (160701,'{\"title\":{\"chinese\":\"告白……\"},\"synonyms_chinese\":[]}');
