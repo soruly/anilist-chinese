@@ -6376,7 +6376,7 @@ INSERT INTO `anilist_chinese` VALUES (151801,'{\"title\":{\"chinese\":\"肌肉�
 INSERT INTO `anilist_chinese` VALUES (151803,'{\"title\":{\"chinese\":\"TIGER & BUNNY 2 Part 2\"},\"synonyms_chinese\":[\"基友英雄傳 2\"]}');
 INSERT INTO `anilist_chinese` VALUES (151806,'{\"title\":{\"chinese\":\"小智是女孩啦！\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (151847,'{\"title\":{\"chinese\":\"她去公爵家的理由\"},\"synonyms_chinese\":[]}');
-INSERT INTO `anilist_chinese` VALUES (152207,'{\"title\":{\"chinese\":\"s。我在某個早上變成人頭麥克風的人生\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (152207,'{\"title\":{\"chinese\":\"被夾在百合之間。我在某個早上變成人頭麥克風的人生\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (152292,'{\"title\":{\"chinese\":\"僕にセフレが出来た理由\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (152523,'{\"title\":{\"chinese\":\"被解雇的暗黑士兵慢活的第二人生\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (152556,'{\"title\":{\"chinese\":\"いもうとはGALかわいい\"},\"synonyms_chinese\":[]}');

@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2023.5.10
+// @version      2.2023.5.11
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -6355,7 +6355,7 @@ var database = [
 {id:151803,title:"TIGER & BUNNY 2 Part 2"},
 {id:151806,title:"小智是女孩啦！"},
 {id:151847,title:"她去公爵家的理由"},
-{id:152207,title:"s。我在某個早上變成人頭麥克風的人生"},
+{id:152207,title:"被夾在百合之間。我在某個早上變成人頭麥克風的人生"},
 {id:152292,title:"僕にセフレが出来た理由"},
 {id:152523,title:"被解雇的暗黑士兵慢活的第二人生"},
 {id:152556,title:"いもうとはGALかわいい"},
