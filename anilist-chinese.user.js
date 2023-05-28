@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2023.5.11
+// @version      2.2023.5.28
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -6303,6 +6303,7 @@ var database = [
 {id:147430,title:"夏休み明けの彼女は…"},
 {id:147571,title:"帶著智慧型手機闖蕩異世界 2"},
 {id:147578,title:"聖華女学院公認竿おじさん"},
+{id:147622,title:"メイド教育。－没落貴族 瑠璃川椿－ THE ANIMATION"},
 {id:147864,title:"不當哥哥了！"},
 {id:147885,title:"呆萌酷男孩"},
 {id:147929,title:"鬼作 令和版"},
@@ -6427,10 +6428,13 @@ var database = [
 {id:160173,title:"群馬寶寶 第二季"},
 {id:160442,title:"六道的惡女們"},
 {id:160701,title:"告白……"},
+{id:160735,title:"楽園侵触 Island of the dead"},
 {id:160829,title:"Ensemble Stars! 追憶 Selection Element"},
 {id:161312,title:"つるぺた守護騎士　エルフィナ堕ちる"},
+{id:161970,title:"不思議の国のサキュバス"},
 {id:162312,title:"小小哥吉拉的逆襲"},
 {id:162314,title:"進擊的巨人 The Final Season 完結編 後編"},
+{id:162482,title:"Nightmare×Deathscythe～叛逆のレゾナンス～"},
 {id:162717,title:"YouTuNya"},
 {id:162840,title:"蓬鬆小動物"},
 {id:162960,title:"667通のラブレター"},

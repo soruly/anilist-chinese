@@ -6324,6 +6324,7 @@ INSERT INTO `anilist_chinese` VALUES (147369,'{\"title\":{\"chinese\":\"青之�
 INSERT INTO `anilist_chinese` VALUES (147430,'{\"title\":{\"chinese\":\"夏休み明けの彼女は…\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (147571,'{\"title\":{\"chinese\":\"帶著智慧型手機闖蕩異世界 2\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (147578,'{\"title\":{\"chinese\":\"聖華女学院公認竿おじさん\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (147622,'{\"title\":{\"chinese\":\"メイド教育。－没落貴族 瑠璃川椿－ THE ANIMATION\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (147864,'{\"title\":{\"chinese\":\"不當哥哥了！\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (147885,'{\"title\":{\"chinese\":\"呆萌酷男孩\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (147929,'{\"title\":{\"chinese\":\"鬼作 令和版\"},\"synonyms_chinese\":[]}');
@@ -6448,10 +6449,13 @@ INSERT INTO `anilist_chinese` VALUES (159807,'{\"title\":{\"chinese\":\"無意�
 INSERT INTO `anilist_chinese` VALUES (160173,'{\"title\":{\"chinese\":\"群馬寶寶 第二季\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (160442,'{\"title\":{\"chinese\":\"六道的惡女們\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (160701,'{\"title\":{\"chinese\":\"告白……\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (160735,'{\"title\":{\"chinese\":\"楽園侵触 Island of the dead\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (160829,'{\"title\":{\"chinese\":\"Ensemble Stars! 追憶 Selection Element\"},\"synonyms_chinese\":[\"偶像夢幻祭 追憶 Selection Element\"]}');
 INSERT INTO `anilist_chinese` VALUES (161312,'{\"title\":{\"chinese\":\"つるぺた守護騎士　エルフィナ堕ちる\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (161970,'{\"title\":{\"chinese\":\"不思議の国のサキュバス\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (162312,'{\"title\":{\"chinese\":\"小小哥吉拉的逆襲\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (162314,'{\"title\":{\"chinese\":\"進擊的巨人 The Final Season 完結編 後編\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (162482,'{\"title\":{\"chinese\":\"Nightmare×Deathscythe～叛逆のレゾナンス～\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (162717,'{\"title\":{\"chinese\":\"YouTuNya\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (162840,'{\"title\":{\"chinese\":\"蓬鬆小動物\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (162960,'{\"title\":{\"chinese\":\"667通のラブレター\"},\"synonyms_chinese\":[]}');
