@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/soruly/anilist-chinese#readme",
   "dependencies": {
-    "dotenv": "^16.0.3",
+    "dotenv": "^16.1.0",
     "knex": "^2.4.2",
     "mysql": "^2.18.1"
   },
