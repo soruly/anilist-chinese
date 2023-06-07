@@ -6390,6 +6390,7 @@ INSERT INTO `anilist_chinese` VALUES (153152,'{\"title\":{\"chinese\":\"我內�
 INSERT INTO `anilist_chinese` VALUES (153332,'{\"title\":{\"chinese\":\"轉生貴族的異世界冒險錄～不知自重的眾神使徒～\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (153344,'{\"title\":{\"chinese\":\"MIX 第二季\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (153346,'{\"title\":{\"chinese\":\"サキュバス喚んだら義母が来た！？\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (153431,'{\"title\":{\"chinese\":\"女校之星\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (153452,'{\"title\":{\"chinese\":\"國王排名 勇氣的寶箱\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (153553,'{\"title\":{\"chinese\":\"アオハルスナッチ\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (153567,'{\"title\":{\"chinese\":\"後宮路營\"},\"synonyms_chinese\":[]}');

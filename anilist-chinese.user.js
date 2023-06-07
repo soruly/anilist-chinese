@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2023.5.28
+// @version      2.2023.6.7
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -6369,6 +6369,7 @@ var database = [
 {id:153332,title:"轉生貴族的異世界冒險錄～不知自重的眾神使徒～"},
 {id:153344,title:"MIX 第二季"},
 {id:153346,title:"サキュバス喚んだら義母が来た！？"},
+{id:153431,title:"女校之星"},
 {id:153452,title:"國王排名 勇氣的寶箱"},
 {id:153553,title:"アオハルスナッチ"},
 {id:153567,title:"後宮路營"},

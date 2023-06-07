@@ -6353,6 +6353,7 @@ const db = new Map([
 [153332,{title:"轉生貴族的異世界冒險錄～不知自重的眾神使徒～",synonyms:[]}],
 [153344,{title:"MIX 第二季",synonyms:[]}],
 [153346,{title:"サキュバス喚んだら義母が来た！？",synonyms:[]}],
+[153431,{title:"女校之星",synonyms:[]}],
 [153452,{title:"國王排名 勇氣的寶箱",synonyms:[]}],
 [153553,{title:"アオハルスナッチ",synonyms:[]}],
 [153567,{title:"後宮路營",synonyms:[]}],
