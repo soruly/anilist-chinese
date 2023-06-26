@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2023.6.7
+// @version      2.2023.6.26
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -5829,6 +5829,7 @@ var database = [
 {id:125910,title:"VAZZROCK THE ANIMATION"},
 {id:125931,title:"劇場版 角落小夥伴 藍色月夜的魔法之子"},
 {id:126047,title:"急戰 5 秒殊死鬥"},
+{id:126186,title:"Alice Gear Aegis Expansion OVA"},
 {id:126192,title:"女朋友 and 女朋友"},
 {id:126213,title:"因為不是真正的夥伴而被逐出勇者隊伍，流落到邊境展開慢活人生"},
 {id:126242,title:"地味變!!～改變土妹子的純潔異性交往～"},
@@ -6417,6 +6418,7 @@ var database = [
 {id:157553,title:"夜巡貓"},
 {id:157631,title:"魔女は結局その客と。。。The Animation"},
 {id:157653,title:"Blue Archive Animation: beautiful day dreamer"},
+{id:157654,title:"Love Live！虹咲學園 學園偶像同好會 Next Sky"},
 {id:157664,title:"いくものがかり The Animation"},
 {id:157765,title:"World Dai Star"},
 {id:157919,title:"クラスで男は僕一人！？～可愛いあの子達に囲まれて～"},

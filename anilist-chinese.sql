@@ -5850,6 +5850,7 @@ INSERT INTO `anilist_chinese` VALUES (125909,'{\"title\":{\"chinese\":\"TSUKIPRO
 INSERT INTO `anilist_chinese` VALUES (125910,'{\"title\":{\"chinese\":\"VAZZROCK THE ANIMATION\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (125931,'{\"title\":{\"chinese\":\"劇場版 角落小夥伴 藍色月夜的魔法之子\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (126047,'{\"title\":{\"chinese\":\"急戰 5 秒殊死鬥\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (126186,'{\"title\":{\"chinese\":\"Alice Gear Aegis Expansion OVA\"},\"synonyms_chinese\":[\"機戰少女 Alice OVA\"]}');
 INSERT INTO `anilist_chinese` VALUES (126192,'{\"title\":{\"chinese\":\"女朋友 and 女朋友\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (126213,'{\"title\":{\"chinese\":\"因為不是真正的夥伴而被逐出勇者隊伍，流落到邊境展開慢活人生\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (126242,'{\"title\":{\"chinese\":\"地味變!!～改變土妹子的純潔異性交往～\"},\"synonyms_chinese\":[]}');
@@ -6438,6 +6439,7 @@ INSERT INTO `anilist_chinese` VALUES (157295,'{\"title\":{\"chinese\":\"不知�
 INSERT INTO `anilist_chinese` VALUES (157553,'{\"title\":{\"chinese\":\"夜巡貓\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (157631,'{\"title\":{\"chinese\":\"魔女は結局その客と。。。The Animation\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (157653,'{\"title\":{\"chinese\":\"Blue Archive Animation: beautiful day dreamer\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (157654,'{\"title\":{\"chinese\":\"Love Live！虹咲學園 學園偶像同好會 Next Sky\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (157664,'{\"title\":{\"chinese\":\"いくものがかり The Animation\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (157765,'{\"title\":{\"chinese\":\"World Dai Star\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (157919,'{\"title\":{\"chinese\":\"クラスで男は僕一人！？～可愛いあの子達に囲まれて～\"},\"synonyms_chinese\":[]}');
