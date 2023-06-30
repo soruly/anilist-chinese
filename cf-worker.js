@@ -6478,7 +6478,7 @@ const db = new Map([
 [162993,{title:"永久少年 Eternal Boys NEXT STAGE",synonyms:[]}],
 [163079,{title:"Sugar Apple Fairy Tale 2",synonyms:[]}],
 [163132,{title:"堀與宮村 -piece-",synonyms:[]}],
-[163136,{title:"Shadowverse F",synonyms:[]}],
+[163136,{title:"Shadowverse Flame: Seven Shadows 編",synonyms:[]}],
 [163137,{title:"大奧",synonyms:[]}],
 [163138,{title:"YAKITORI：行星軌道敢死隊",synonyms:[]}],
 [163205,{title:"物之古物奇譚 第二章",synonyms:[]}],

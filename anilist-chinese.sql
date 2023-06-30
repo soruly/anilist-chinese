@@ -6515,7 +6515,7 @@ INSERT INTO `anilist_chinese` VALUES (162983,'{\"title\":{\"chinese\":\"Undead G
 INSERT INTO `anilist_chinese` VALUES (162993,'{\"title\":{\"chinese\":\"永久少年 Eternal Boys NEXT STAGE\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (163079,'{\"title\":{\"chinese\":\"Sugar Apple Fairy Tale 2\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (163132,'{\"title\":{\"chinese\":\"堀與宮村 -piece-\"},\"synonyms_chinese\":[]}');
-INSERT INTO `anilist_chinese` VALUES (163136,'{\"title\":{\"chinese\":\"Shadowverse F\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (163136,'{\"title\":{\"chinese\":\"Shadowverse Flame: Seven Shadows 編\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (163137,'{\"title\":{\"chinese\":\"大奧\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (163138,'{\"title\":{\"chinese\":\"YAKITORI：行星軌道敢死隊\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (163205,'{\"title\":{\"chinese\":\"物之古物奇譚 第二章\"},\"synonyms_chinese\":[]}');
