@@ -6490,6 +6490,7 @@ INSERT INTO `anilist_chinese` VALUES (159097,'{\"title\":{\"chinese\":\"不貞 w
 INSERT INTO `anilist_chinese` VALUES (159322,'{\"title\":{\"chinese\":\"BLEACH 千年血戰篇-訣別譚-\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (159429,'{\"title\":{\"chinese\":\"光之美少女 All Stars F\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (159560,'{\"title\":{\"chinese\":\"逃走中 THE GREAT MISSION\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (159569,'{\"title\":{\"chinese\":\"Fate／Grand Order SP\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (159807,'{\"title\":{\"chinese\":\"無意間變成狗，被喜歡的女生撿回家。OVA\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (159831,'{\"title\":{\"chinese\":\"殭屍 100～在成為殭屍前要做的 100 件事～\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (159926,'{\"title\":{\"chinese\":\"BASTARD!! －暗黑破壞神－地獄的鎮魂歌篇\"},\"synonyms_chinese\":[]}');

@@ -6453,6 +6453,7 @@ const db = new Map([
 [159322,{title:"BLEACH 千年血戰篇-訣別譚-",synonyms:[]}],
 [159429,{title:"光之美少女 All Stars F",synonyms:[]}],
 [159560,{title:"逃走中 THE GREAT MISSION",synonyms:[]}],
+[159569,{title:"Fate／Grand Order SP",synonyms:[]}],
 [159807,{title:"無意間變成狗，被喜歡的女生撿回家。OVA",synonyms:[]}],
 [159831,{title:"殭屍 100～在成為殭屍前要做的 100 件事～",synonyms:[]}],
 [159926,{title:"BASTARD!! －暗黑破壞神－地獄的鎮魂歌篇",synonyms:[]}],

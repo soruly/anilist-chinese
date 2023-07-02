@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2023.6.30
+// @version      2.2023.7.2
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -6469,6 +6469,7 @@ var database = [
 {id:159322,title:"BLEACH 千年血戰篇-訣別譚-"},
 {id:159429,title:"光之美少女 All Stars F"},
 {id:159560,title:"逃走中 THE GREAT MISSION"},
+{id:159569,title:"Fate／Grand Order SP"},
 {id:159807,title:"無意間變成狗，被喜歡的女生撿回家。OVA"},
 {id:159831,title:"殭屍 100～在成為殭屍前要做的 100 件事～"},
 {id:159926,title:"BASTARD!! －暗黑破壞神－地獄的鎮魂歌篇"},
