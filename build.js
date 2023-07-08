@@ -26,8 +26,8 @@ fs.writeFileSync(
       synonyms: JSON.parse(json).synonyms_chinese,
     })),
     null,
-    2
-  )
+    2,
+  ),
 );
 
 const jsCode = fs.readFileSync("anilist-chinese.user.template.js", "utf8").replace(
@@ -40,9 +40,9 @@ const jsCode = fs.readFileSync("anilist-chinese.user.template.js", "utf8").repla
     .map((e) =>
       JSON.stringify(e)
         .replace(/"id":/g, "id:")
-        .replace(/"title":/g, "title:")
+        .replace(/"title":/g, "title:"),
     )
-    .join(",\n")}\n];`
+    .join(",\n")}\n];`,
 );
 if (jsCode !== fs.readFileSync("anilist-chinese.user.cache.js", "utf8")) {
   fs.writeFileSync("anilist-chinese.user.cache.js", jsCode);
@@ -51,8 +51,8 @@ if (jsCode !== fs.readFileSync("anilist-chinese.user.cache.js", "utf8")) {
     "anilist-chinese.user.js",
     jsCode.replace(
       "// @version      2.0",
-      `// @version      ${`2.${d.getFullYear()}.${d.getMonth() + 1}.${d.getDate()}`}`
-    )
+      `// @version      ${`2.${d.getFullYear()}.${d.getMonth() + 1}.${d.getDate()}`}`,
+    ),
   );
 } else {
   console.log("build is the same, user.js file not updated.");
@@ -73,8 +73,8 @@ fs.writeFileSync(
             })
               .replace(/"title":/g, "title:")
               .replace(/"synonyms":/g, "synonyms:"),
-          ]}]`
+          ]}]`,
       )
-      .join(",\n")}\n]);`
-  )
+      .join(",\n")}\n]);`,
+  ),
 );
