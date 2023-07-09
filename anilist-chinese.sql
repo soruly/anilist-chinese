@@ -4979,6 +4979,7 @@ INSERT INTO `anilist_chinese` VALUES (102649,'{\"title\":{\"chinese\":\"PSYCHO-P
 INSERT INTO `anilist_chinese` VALUES (102680,'{\"title\":{\"chinese\":\"天使降臨到我身邊！\"},\"synonyms_chinese\":[\"天使降臨到了我身邊！\"]}');
 INSERT INTO `anilist_chinese` VALUES (102775,'{\"title\":{\"chinese\":\"納米核心\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (102776,'{\"title\":{\"chinese\":\"納米核心 第二季\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (102801,'{\"title\":{\"chinese\":\"弱酸性ミリオンアーサー\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (102822,'{\"title\":{\"chinese\":\"閃亂神樂 東京妖魔篇\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (102832,'{\"title\":{\"chinese\":\"Devils Line OVA\"},\"synonyms_chinese\":[\"惡魔戰線 OVA\"]}');
 INSERT INTO `anilist_chinese` VALUES (102835,'{\"title\":{\"chinese\":\"Revisions\"},\"synonyms_chinese\":[\"澀谷新視界\"]}');
@@ -5726,6 +5727,7 @@ INSERT INTO `anilist_chinese` VALUES (119254,'{\"title\":{\"chinese\":\"彼女�
 INSERT INTO `anilist_chinese` VALUES (119258,'{\"title\":{\"chinese\":\"劇場版BEM～BECOME HUMAN～\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (119321,'{\"title\":{\"chinese\":\"安雅與魔女\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (119350,'{\"title\":{\"chinese\":\"悪の女幹部フルムーンナイトR\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (119368,'{\"title\":{\"chinese\":\"LayereD Stories 0\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (119484,'{\"title\":{\"chinese\":\"色欲INFINITE\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (119491,'{\"title\":{\"chinese\":\"王女&女騎士Wド下品露出～恥辱の見世物奴隷～\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (119661,'{\"title\":{\"chinese\":\"Re：從零開始的異世界生活 2\"},\"synonyms_chinese\":[]}');
