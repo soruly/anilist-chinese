@@ -5734,6 +5734,7 @@ INSERT INTO `anilist_chinese` VALUES (119661,'{\"title\":{\"chinese\":\"Re：從
 INSERT INTO `anilist_chinese` VALUES (119675,'{\"title\":{\"chinese\":\"SHAMAN KING (2021)\"},\"synonyms_chinese\":[\"通靈童子 新作\"]}');
 INSERT INTO `anilist_chinese` VALUES (119683,'{\"title\":{\"chinese\":\"EDENS ZERO\"},\"synonyms_chinese\":[\"伊甸星原\"]}');
 INSERT INTO `anilist_chinese` VALUES (119696,'{\"title\":{\"chinese\":\"女武神的餐桌 II\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (119793,'{\"title\":{\"chinese\":\"おにくだいすき! ゼウシくん\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (119806,'{\"title\":{\"chinese\":\"Thunderbolt Fantasy 東離劍遊紀 3\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (119810,'{\"title\":{\"chinese\":\"解放区 ~痴漢ハーレム\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (119872,'{\"title\":{\"chinese\":\"地下鉄に乗るっ\"},\"synonyms_chinese\":[]}');

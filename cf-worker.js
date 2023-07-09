@@ -5697,6 +5697,7 @@ const db = new Map([
 [119675,{title:"SHAMAN KING (2021)",synonyms:["通靈童子 新作"]}],
 [119683,{title:"EDENS ZERO",synonyms:["伊甸星原"]}],
 [119696,{title:"女武神的餐桌 II",synonyms:[]}],
+[119793,{title:"おにくだいすき! ゼウシくん",synonyms:[]}],
 [119806,{title:"Thunderbolt Fantasy 東離劍遊紀 3",synonyms:[]}],
 [119810,{title:"解放区 ~痴漢ハーレム",synonyms:[]}],
 [119872,{title:"地下鉄に乗るっ",synonyms:[]}],

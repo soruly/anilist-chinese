@@ -5713,6 +5713,7 @@ var database = [
 {id:119675,title:"SHAMAN KING (2021)"},
 {id:119683,title:"EDENS ZERO"},
 {id:119696,title:"女武神的餐桌 II"},
+{id:119793,title:"おにくだいすき! ゼウシくん"},
 {id:119806,title:"Thunderbolt Fantasy 東離劍遊紀 3"},
 {id:119810,title:"解放区 ~痴漢ハーレム"},
 {id:119872,title:"地下鉄に乗るっ"},
