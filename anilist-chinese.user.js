@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2023.7.2
+// @version      2.2023.7.9
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -6500,6 +6500,7 @@ var database = [
 {id:163138,title:"YAKITORI：行星軌道敢死隊"},
 {id:163205,title:"物之古物奇譚 第二章"},
 {id:163263,title:"文豪Stray Dogs 5"},
+{id:163294,title:"スケベエルフ探訪記"},
 {id:163327,title:"五等分的花嫁 ∽"},
 {id:163542,title:"間諜教室 第二季"},
 {id:163571,title:"BanG Dream! It's MyGO!!!!!"},

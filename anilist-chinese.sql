@@ -6521,6 +6521,7 @@ INSERT INTO `anilist_chinese` VALUES (163137,'{\"title\":{\"chinese\":\"大奧\"
 INSERT INTO `anilist_chinese` VALUES (163138,'{\"title\":{\"chinese\":\"YAKITORI：行星軌道敢死隊\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (163205,'{\"title\":{\"chinese\":\"物之古物奇譚 第二章\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (163263,'{\"title\":{\"chinese\":\"文豪Stray Dogs 5\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (163294,'{\"title\":{\"chinese\":\"スケベエルフ探訪記\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (163327,'{\"title\":{\"chinese\":\"五等分的花嫁 ∽\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (163542,'{\"title\":{\"chinese\":\"間諜教室 第二季\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (163571,'{\"title\":{\"chinese\":\"BanG Dream! It\'s MyGO!!!!!\"},\"synonyms_chinese\":[]}');
