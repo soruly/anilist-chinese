@@ -1569,6 +1569,7 @@ const db = new Map([
 [5020,{title:"絕對衝激 ～PLATONIC HEART～",synonyms:["絕對衝激 ～柏拉圖之心～"]}],
 [5025,{title:"正義使者臀娘",synonyms:[]}],
 [5028,{title:"棒球大聯盟 第5季",synonyms:[]}],
+[5029,{title:"棒球大聯盟 友情的一球",synonyms:[]}],
 [5030,{title:"Maria†Holic",synonyms:["瑪莉亞狂熱","瑪莉亞狂熱"]}],
 [5034,{title:"屍姬 玄",synonyms:[]}],
 [5039,{title:"黑塚",synonyms:[]}],

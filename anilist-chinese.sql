@@ -1606,6 +1606,7 @@ INSERT INTO `anilist_chinese` VALUES (5005,'{\"title\":{\"chinese\":\"天體戰�
 INSERT INTO `anilist_chinese` VALUES (5020,'{\"title\":{\"chinese\":\"絕對衝激 ～PLATONIC HEART～\"},\"synonyms_chinese\":[\"絕對衝激 ～柏拉圖之心～\"]}');
 INSERT INTO `anilist_chinese` VALUES (5025,'{\"title\":{\"chinese\":\"正義使者臀娘\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (5028,'{\"title\":{\"chinese\":\"棒球大聯盟 第5季\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (5029,'{\"title\":{\"chinese\":\"棒球大聯盟 友情的一球\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (5030,'{\"title\":{\"chinese\":\"Maria†Holic\"},\"synonyms_chinese\":[\"瑪莉亞狂熱\",\"瑪莉亞狂熱\"]}');
 INSERT INTO `anilist_chinese` VALUES (5034,'{\"title\":{\"chinese\":\"屍姬 玄\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (5039,'{\"title\":{\"chinese\":\"黑塚\"},\"synonyms_chinese\":[]}');

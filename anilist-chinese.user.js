@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2023.7.9
+// @version      2.2023.7.10
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -1585,6 +1585,7 @@ var database = [
 {id:5020,title:"絕對衝激 ～PLATONIC HEART～"},
 {id:5025,title:"正義使者臀娘"},
 {id:5028,title:"棒球大聯盟 第5季"},
+{id:5029,title:"棒球大聯盟 友情的一球"},
 {id:5030,title:"Maria†Holic"},
 {id:5034,title:"屍姬 玄"},
 {id:5039,title:"黑塚"},
