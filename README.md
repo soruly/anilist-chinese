@@ -1,7 +1,7 @@
 ## Anilist-Chinese
 
 [![License](https://img.shields.io/github/license/soruly/anilist-chinese.svg?style=flat-square)](https://github.com/soruly/anilist-chinese/blob/master/LICENSE)
-[![GitHub Workflow Status](https://img.shields.io/github/workflow/status/soruly/anilist-chinese/Node.js%20CI?style=flat-square)](https://github.com/soruly/anilist-chinese/actions)
+[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/soruly/anilist-chinese/node.js.yml?style=flat-square)](https://github.com/soruly/anilist-chinese/actions)
 
 This repo provides chinese-translated titles and synonyms for [Anilist](http://anilist.co).
 
