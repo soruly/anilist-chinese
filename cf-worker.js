@@ -6470,6 +6470,7 @@ const db = new Map([
 [160829,{title:"Ensemble Stars! 追憶 Selection Element",synonyms:["偶像夢幻祭 追憶 Selection Element"]}],
 [161312,{title:"つるぺた守護騎士　エルフィナ堕ちる",synonyms:[]}],
 [161647,{title:"境界戰機 極鋼之裝鬼",synonyms:[]}],
+[161680,{title:"1LDK＋JK いきなり同居？密着！？初エッチ！！？",synonyms:[]}],
 [161970,{title:"不思議の国のサキュバス",synonyms:[]}],
 [162291,{title:"七大罪：愛丁堡的恩怨 後編",synonyms:[]}],
 [162312,{title:"小小哥吉拉的逆襲",synonyms:[]}],
@@ -6492,6 +6493,7 @@ const db = new Map([
 [163327,{title:"五等分的花嫁 ∽",synonyms:[]}],
 [163542,{title:"間諜教室 第二季",synonyms:[]}],
 [163571,{title:"BanG Dream! It's MyGO!!!!!",synonyms:[]}],
+[164297,{title:"種付おじさんとNTR人妻セックス The Animation",synonyms:[]}],
 [165356,{title:"終末的女武神 II 後編",synonyms:[]}],
 [166104,{title:"總之就是很可愛 女子高中篇",synonyms:[]}],
 [166381,{title:"幻日夜羽 -SUNSHINE in the SLIME-",synonyms:[]}]

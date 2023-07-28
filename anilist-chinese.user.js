@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2023.7.10
+// @version      2.2023.7.28
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -6486,6 +6486,7 @@ var database = [
 {id:160829,title:"Ensemble Stars! 追憶 Selection Element"},
 {id:161312,title:"つるぺた守護騎士　エルフィナ堕ちる"},
 {id:161647,title:"境界戰機 極鋼之裝鬼"},
+{id:161680,title:"1LDK＋JK いきなり同居？密着！？初エッチ！！？"},
 {id:161970,title:"不思議の国のサキュバス"},
 {id:162291,title:"七大罪：愛丁堡的恩怨 後編"},
 {id:162312,title:"小小哥吉拉的逆襲"},
@@ -6508,6 +6509,7 @@ var database = [
 {id:163327,title:"五等分的花嫁 ∽"},
 {id:163542,title:"間諜教室 第二季"},
 {id:163571,title:"BanG Dream! It's MyGO!!!!!"},
+{id:164297,title:"種付おじさんとNTR人妻セックス The Animation"},
 {id:165356,title:"終末的女武神 II 後編"},
 {id:166104,title:"總之就是很可愛 女子高中篇"},
 {id:166381,title:"幻日夜羽 -SUNSHINE in the SLIME-"}

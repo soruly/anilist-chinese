@@ -6507,6 +6507,7 @@ INSERT INTO `anilist_chinese` VALUES (160735,'{\"title\":{\"chinese\":\"楽園�
 INSERT INTO `anilist_chinese` VALUES (160829,'{\"title\":{\"chinese\":\"Ensemble Stars! 追憶 Selection Element\"},\"synonyms_chinese\":[\"偶像夢幻祭 追憶 Selection Element\"]}');
 INSERT INTO `anilist_chinese` VALUES (161312,'{\"title\":{\"chinese\":\"つるぺた守護騎士　エルフィナ堕ちる\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (161647,'{\"title\":{\"chinese\":\"境界戰機 極鋼之裝鬼\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (161680,'{\"title\":{\"chinese\":\"1LDK＋JK いきなり同居？密着！？初エッチ！！？\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (161970,'{\"title\":{\"chinese\":\"不思議の国のサキュバス\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (162291,'{\"title\":{\"chinese\":\"七大罪：愛丁堡的恩怨 後編\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (162312,'{\"title\":{\"chinese\":\"小小哥吉拉的逆襲\"},\"synonyms_chinese\":[]}');
@@ -6529,6 +6530,7 @@ INSERT INTO `anilist_chinese` VALUES (163294,'{\"title\":{\"chinese\":\"スケ�
 INSERT INTO `anilist_chinese` VALUES (163327,'{\"title\":{\"chinese\":\"五等分的花嫁 ∽\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (163542,'{\"title\":{\"chinese\":\"間諜教室 第二季\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (163571,'{\"title\":{\"chinese\":\"BanG Dream! It\'s MyGO!!!!!\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (164297,'{\"title\":{\"chinese\":\"種付おじさんとNTR人妻セックス The Animation\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (165356,'{\"title\":{\"chinese\":\"終末的女武神 II 後編\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (166104,'{\"title\":{\"chinese\":\"總之就是很可愛 女子高中篇\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (166381,'{\"title\":{\"chinese\":\"幻日夜羽 -SUNSHINE in the SLIME-\"},\"synonyms_chinese\":[]}');
