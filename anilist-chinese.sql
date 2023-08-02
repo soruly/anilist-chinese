@@ -6530,6 +6530,8 @@ INSERT INTO `anilist_chinese` VALUES (163294,'{\"title\":{\"chinese\":\"スケ�
 INSERT INTO `anilist_chinese` VALUES (163327,'{\"title\":{\"chinese\":\"五等分的花嫁 ∽\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (163542,'{\"title\":{\"chinese\":\"間諜教室 第二季\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (163571,'{\"title\":{\"chinese\":\"BanG Dream! It\'s MyGO!!!!!\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (164239,'{\"title\":{\"chinese\":\"so_low\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (164292,'{\"title\":{\"chinese\":\"奥さまの回復術 The Animation\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (164297,'{\"title\":{\"chinese\":\"種付おじさんとNTR人妻セックス The Animation\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (165356,'{\"title\":{\"chinese\":\"終末的女武神 II 後編\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (166104,'{\"title\":{\"chinese\":\"總之就是很可愛 女子高中篇\"},\"synonyms_chinese\":[]}');

@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2023.7.28
+// @version      2.2023.8.2
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -6509,6 +6509,8 @@ var database = [
 {id:163327,title:"五等分的花嫁 ∽"},
 {id:163542,title:"間諜教室 第二季"},
 {id:163571,title:"BanG Dream! It's MyGO!!!!!"},
+{id:164239,title:"so_low"},
+{id:164292,title:"奥さまの回復術 The Animation"},
 {id:164297,title:"種付おじさんとNTR人妻セックス The Animation"},
 {id:165356,title:"終末的女武神 II 後編"},
 {id:166104,title:"總之就是很可愛 女子高中篇"},
