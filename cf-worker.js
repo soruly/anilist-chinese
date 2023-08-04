@@ -6494,6 +6494,7 @@ const db = new Map([
 [163542,{title:"間諜教室 第二季",synonyms:[]}],
 [163571,{title:"BanG Dream! It's MyGO!!!!!",synonyms:[]}],
 [164239,{title:"so_low",synonyms:[]}],
+[164240,{title:"くノ一○○伝　紫陽花",synonyms:[]}],
 [164292,{title:"奥さまの回復術 The Animation",synonyms:[]}],
 [164297,{title:"種付おじさんとNTR人妻セックス The Animation",synonyms:[]}],
 [165356,{title:"終末的女武神 II 後編",synonyms:[]}],
