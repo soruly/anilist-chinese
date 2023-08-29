@@ -6535,6 +6535,8 @@ INSERT INTO `anilist_chinese` VALUES (164240,'{\"title\":{\"chinese\":\"くノ�
 INSERT INTO `anilist_chinese` VALUES (164292,'{\"title\":{\"chinese\":\"奥さまの回復術 The Animation\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (164297,'{\"title\":{\"chinese\":\"種付おじさんとNTR人妻セックス The Animation\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (165356,'{\"title\":{\"chinese\":\"終末的女武神 II 後編\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (165444,'{\"title\":{\"chinese\":\"SLEEPLESS Nocturne The Animation\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (165599,'{\"title\":{\"chinese\":\"この恋に気づいて THE ANIMATION\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (166104,'{\"title\":{\"chinese\":\"總之就是很可愛 女子高中篇\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (166381,'{\"title\":{\"chinese\":\"幻日夜羽 -SUNSHINE in the SLIME-\"},\"synonyms_chinese\":[]}');
 /*!40000 ALTER TABLE `anilist_chinese` ENABLE KEYS */;
