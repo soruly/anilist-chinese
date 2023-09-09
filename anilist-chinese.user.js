@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2023.8.29
+// @version      2.2023.9.9
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -6513,11 +6513,13 @@ var database = [
 {id:164240,title:"くノ一○○伝　紫陽花"},
 {id:164292,title:"奥さまの回復術 The Animation"},
 {id:164297,title:"種付おじさんとNTR人妻セックス The Animation"},
+{id:165321,title:"ツンデロシリーズ"},
 {id:165356,title:"終末的女武神 II 後編"},
 {id:165444,title:"SLEEPLESS Nocturne The Animation"},
 {id:165599,title:"この恋に気づいて THE ANIMATION"},
 {id:166104,title:"總之就是很可愛 女子高中篇"},
-{id:166381,title:"幻日夜羽 -SUNSHINE in the SLIME-"}
+{id:166381,title:"幻日夜羽 -SUNSHINE in the SLIME-"},
+{id:166609,title:"純情デカメロン"}
 ];
 
 var updating;

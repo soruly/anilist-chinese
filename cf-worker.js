@@ -6497,11 +6497,13 @@ const db = new Map([
 [164240,{title:"くノ一○○伝　紫陽花",synonyms:[]}],
 [164292,{title:"奥さまの回復術 The Animation",synonyms:[]}],
 [164297,{title:"種付おじさんとNTR人妻セックス The Animation",synonyms:[]}],
+[165321,{title:"ツンデロシリーズ",synonyms:[]}],
 [165356,{title:"終末的女武神 II 後編",synonyms:[]}],
 [165444,{title:"SLEEPLESS Nocturne The Animation",synonyms:[]}],
 [165599,{title:"この恋に気づいて THE ANIMATION",synonyms:[]}],
 [166104,{title:"總之就是很可愛 女子高中篇",synonyms:[]}],
-[166381,{title:"幻日夜羽 -SUNSHINE in the SLIME-",synonyms:[]}]
+[166381,{title:"幻日夜羽 -SUNSHINE in the SLIME-",synonyms:[]}],
+[166609,{title:"純情デカメロン",synonyms:[]}]
 ]);
 
 async function handleRequest(req) {
