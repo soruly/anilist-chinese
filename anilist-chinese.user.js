@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2023.9.28
+// @version      2.2023.9.30
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -6596,6 +6596,7 @@ var database = [
 {id:164292,title:"奥さまの回復術 The Animation"},
 {id:164293,title:"歡迎來到駒田蒸餾廠"},
 {id:164297,title:"種付おじさんとNTR人妻セックス The Animation"},
+{id:164298,title:"種付おじさんとパパっ子JD催眠生活 The Animation"},
 {id:164312,title:"柚木家的四兄弟"},
 {id:165070,title:"我的新上司是天然呆"},
 {id:165159,title:"BEYBLADE X"},

@@ -6580,6 +6580,7 @@ const db = new Map([
 [164292,{title:"奥さまの回復術 The Animation",synonyms:[]}],
 [164293,{title:"歡迎來到駒田蒸餾廠",synonyms:[]}],
 [164297,{title:"種付おじさんとNTR人妻セックス The Animation",synonyms:[]}],
+[164298,{title:"種付おじさんとパパっ子JD催眠生活 The Animation",synonyms:[]}],
 [164312,{title:"柚木家的四兄弟",synonyms:[]}],
 [165070,{title:"我的新上司是天然呆",synonyms:[]}],
 [165159,{title:"BEYBLADE X",synonyms:[]}],

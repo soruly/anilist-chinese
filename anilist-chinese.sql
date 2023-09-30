@@ -6617,6 +6617,7 @@ INSERT INTO `anilist_chinese` VALUES (164241,'{\"title\":{\"chinese\":\"Ensemble
 INSERT INTO `anilist_chinese` VALUES (164292,'{\"title\":{\"chinese\":\"奥さまの回復術 The Animation\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (164293,'{\"title\":{\"chinese\":\"歡迎來到駒田蒸餾廠\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (164297,'{\"title\":{\"chinese\":\"種付おじさんとNTR人妻セックス The Animation\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (164298,'{\"title\":{\"chinese\":\"種付おじさんとパパっ子JD催眠生活 The Animation\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (164312,'{\"title\":{\"chinese\":\"柚木家的四兄弟\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (165070,'{\"title\":{\"chinese\":\"我的新上司是天然呆\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (165159,'{\"title\":{\"chinese\":\"BEYBLADE X\"},\"synonyms_chinese\":[]}');
