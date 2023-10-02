@@ -6484,7 +6484,7 @@ INSERT INTO `anilist_chinese` VALUES (154969,'{\"title\":{\"chinese\":\"UniteUp!
 INSERT INTO `anilist_chinese` VALUES (154999,'{\"title\":{\"chinese\":\"陰陽師\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (155011,'{\"title\":{\"chinese\":\"烙印戰士 黃金時代篇 MEMORIAL EDITION\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (155015,'{\"title\":{\"chinese\":\"鬼武者\"},\"synonyms_chinese\":[]}');
-INSERT INTO `anilist_chinese` VALUES (155068,'{\"title\":{\"chinese\":\"魔術士歐菲 流浪之旅 第三季\"},\"synonyms_chinese\":[\"魔法少年 第三季\"]}');
+INSERT INTO `anilist_chinese` VALUES (155068,'{\"title\":{\"chinese\":\"魔術士歐菲 流浪之旅 阿邦拉馬篇\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (155070,'{\"title\":{\"chinese\":\"可愛過頭大危機\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (155089,'{\"title\":{\"chinese\":\"阿爾斯的巨獸\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (155158,'{\"title\":{\"chinese\":\"機動戰士Gundam 水星的魔女 第二季\"},\"synonyms_chinese\":[]}');
@@ -6608,6 +6608,7 @@ INSERT INTO `anilist_chinese` VALUES (163327,'{\"title\":{\"chinese\":\"五等�
 INSERT INTO `anilist_chinese` VALUES (163329,'{\"title\":{\"chinese\":\"東京復仇者 天竺篇\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (163363,'{\"title\":{\"chinese\":\"劇場版 POLE PRINCESS!!\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (163364,'{\"title\":{\"chinese\":\"Bikkurimen\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (163417,'{\"title\":{\"chinese\":\"魔術士歐菲 流浪之旅 聖域篇\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (163542,'{\"title\":{\"chinese\":\"間諜教室 第二季\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (163571,'{\"title\":{\"chinese\":\"BanG Dream! It\'s MyGO!!!!!\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (164226,'{\"title\":{\"chinese\":\"北極百貨公司的接待員\"},\"synonyms_chinese\":[]}');

@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2023.9.30
+// @version      2.2023.10.2
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -6463,7 +6463,7 @@ var database = [
 {id:154999,title:"陰陽師"},
 {id:155011,title:"烙印戰士 黃金時代篇 MEMORIAL EDITION"},
 {id:155015,title:"鬼武者"},
-{id:155068,title:"魔術士歐菲 流浪之旅 第三季"},
+{id:155068,title:"魔術士歐菲 流浪之旅 阿邦拉馬篇"},
 {id:155070,title:"可愛過頭大危機"},
 {id:155089,title:"阿爾斯的巨獸"},
 {id:155158,title:"機動戰士Gundam 水星的魔女 第二季"},
@@ -6587,6 +6587,7 @@ var database = [
 {id:163329,title:"東京復仇者 天竺篇"},
 {id:163363,title:"劇場版 POLE PRINCESS!!"},
 {id:163364,title:"Bikkurimen"},
+{id:163417,title:"魔術士歐菲 流浪之旅 聖域篇"},
 {id:163542,title:"間諜教室 第二季"},
 {id:163571,title:"BanG Dream! It's MyGO!!!!!"},
 {id:164226,title:"北極百貨公司的接待員"},
