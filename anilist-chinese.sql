@@ -6493,7 +6493,7 @@ INSERT INTO `anilist_chinese` VALUES (155169,'{\"title\":{\"chinese\":\"露出�
 INSERT INTO `anilist_chinese` VALUES (155170,'{\"title\":{\"chinese\":\"ママ喝っ\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (155202,'{\"title\":{\"chinese\":\"REVENGER\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (155211,'{\"title\":{\"chinese\":\"在地下城尋求邂逅是否搞錯了什麼 IV\"},\"synonyms_chinese\":[]}');
-INSERT INTO `anilist_chinese` VALUES (155389,'{\"title\":{\"chinese\":\"SHY\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (155389,'{\"title\":{\"chinese\":\"SHY\"},\"synonyms_chinese\":[\"靦腆英雄\"]}');
 INSERT INTO `anilist_chinese` VALUES (155418,'{\"title\":{\"chinese\":\"聖者無雙～上班族的異世界生存之道～\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (155419,'{\"title\":{\"chinese\":\"星靈感應\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (155527,'{\"title\":{\"chinese\":\"大小姐和看門犬\"},\"synonyms_chinese\":[]}');

@@ -6456,7 +6456,7 @@ const db = new Map([
 [155170,{title:"ママ喝っ",synonyms:[]}],
 [155202,{title:"REVENGER",synonyms:[]}],
 [155211,{title:"在地下城尋求邂逅是否搞錯了什麼 IV",synonyms:[]}],
-[155389,{title:"SHY",synonyms:[]}],
+[155389,{title:"SHY",synonyms:["靦腆英雄"]}],
 [155418,{title:"聖者無雙～上班族的異世界生存之道～",synonyms:[]}],
 [155419,{title:"星靈感應",synonyms:[]}],
 [155527,{title:"大小姐和看門犬",synonyms:[]}],
