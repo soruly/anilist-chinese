@@ -299,6 +299,7 @@ const db = new Map([
 [488,{title:"草莓棉花糖",synonyms:[]}],
 [489,{title:"神是中學生",synonyms:[]}],
 [490,{title:"不可思議的教室",synonyms:[]}],
+[491,{title:"絕對正義VS外道少女隊",synonyms:[]}],
 [497,{title:"闇與帽子與書之旅人",synonyms:["暗與帽子與書的旅人"]}],
 [509,{title:"I My Me! Strawberry Eggs",synonyms:[]}],
 [510,{title:"下級生2 ～瞳孔中的少女們～",synonyms:[]}],

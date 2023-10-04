@@ -336,6 +336,7 @@ INSERT INTO `anilist_chinese` VALUES (487,'{\"title\":{\"chinese\":\"女孩萬�
 INSERT INTO `anilist_chinese` VALUES (488,'{\"title\":{\"chinese\":\"草莓棉花糖\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (489,'{\"title\":{\"chinese\":\"神是中學生\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (490,'{\"title\":{\"chinese\":\"不可思議的教室\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (491,'{\"title\":{\"chinese\":\"絕對正義VS外道少女隊\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (497,'{\"title\":{\"chinese\":\"闇與帽子與書之旅人\"},\"synonyms_chinese\":[\"暗與帽子與書的旅人\"]}');
 INSERT INTO `anilist_chinese` VALUES (509,'{\"title\":{\"chinese\":\"I My Me! Strawberry Eggs\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (510,'{\"title\":{\"chinese\":\"下級生2 ～瞳孔中的少女們～\"},\"synonyms_chinese\":[]}');

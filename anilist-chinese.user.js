@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2023.10.2
+// @version      2.2023.10.4
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -315,6 +315,7 @@ var database = [
 {id:488,title:"草莓棉花糖"},
 {id:489,title:"神是中學生"},
 {id:490,title:"不可思議的教室"},
+{id:491,title:"絕對正義VS外道少女隊"},
 {id:497,title:"闇與帽子與書之旅人"},
 {id:509,title:"I My Me! Strawberry Eggs"},
 {id:510,title:"下級生2 ～瞳孔中的少女們～"},
