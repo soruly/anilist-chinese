@@ -6593,6 +6593,7 @@ const db = new Map([
 [166104,{title:"總之就是很可愛 女子高中篇",synonyms:[]}],
 [166381,{title:"幻日夜羽 -SUNSHINE in the SLIME-",synonyms:[]}],
 [166452,{title:"魔法使的新娘 第二季 Part 2",synonyms:[]}],
+[166459,{title:"妻に黙って即売会に行くんじゃなかった",synonyms:[]}],
 [166523,{title:"絆的 Allele 第二季",synonyms:[]}],
 [166609,{title:"純情デカメロン",synonyms:[]}],
 [166896,{title:"我們的雨色協議",synonyms:[]}],

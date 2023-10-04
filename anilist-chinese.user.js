@@ -6609,6 +6609,7 @@ var database = [
 {id:166104,title:"總之就是很可愛 女子高中篇"},
 {id:166381,title:"幻日夜羽 -SUNSHINE in the SLIME-"},
 {id:166452,title:"魔法使的新娘 第二季 Part 2"},
+{id:166459,title:"妻に黙って即売会に行くんじゃなかった"},
 {id:166523,title:"絆的 Allele 第二季"},
 {id:166609,title:"純情デカメロン"},
 {id:166896,title:"我們的雨色協議"},
