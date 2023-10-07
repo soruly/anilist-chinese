@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2023.10.6
+// @version      2.2023.10.7
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -6213,6 +6213,7 @@ var database = [
 {id:141775,title:"Shoot! -Goal to the Future-"},
 {id:141785,title:"物之古物奇譚"},
 {id:141879,title:"莫名成為邪龍的五千歲草食龍"},
+{id:141882,title:"暫停！讓我查攻略"},
 {id:141902,title:"ONE PIECE FILM: RED"},
 {id:141907,title:"Ensemble Stars! -Road to Show!!-"},
 {id:141911,title:"Skip and Loafer"},

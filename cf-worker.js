@@ -6197,6 +6197,7 @@ const db = new Map([
 [141775,{title:"Shoot! -Goal to the Future-",synonyms:["足球風雲！Goal to the Future"]}],
 [141785,{title:"物之古物奇譚",synonyms:[]}],
 [141879,{title:"莫名成為邪龍的五千歲草食龍",synonyms:[]}],
+[141882,{title:"暫停！讓我查攻略",synonyms:[]}],
 [141902,{title:"ONE PIECE FILM: RED",synonyms:[]}],
 [141907,{title:"Ensemble Stars! -Road to Show!!-",synonyms:["偶像夢幻祭 -Road to Show!!-"]}],
 [141911,{title:"Skip and Loafer",synonyms:["躍動青春"]}],

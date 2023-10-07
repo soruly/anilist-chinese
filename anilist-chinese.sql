@@ -6234,6 +6234,7 @@ INSERT INTO `anilist_chinese` VALUES (141774,'{\"title\":{\"chinese\":\"派對�
 INSERT INTO `anilist_chinese` VALUES (141775,'{\"title\":{\"chinese\":\"Shoot! -Goal to the Future-\"},\"synonyms_chinese\":[\"足球風雲！Goal to the Future\"]}');
 INSERT INTO `anilist_chinese` VALUES (141785,'{\"title\":{\"chinese\":\"物之古物奇譚\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (141879,'{\"title\":{\"chinese\":\"莫名成為邪龍的五千歲草食龍\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (141882,'{\"title\":{\"chinese\":\"暫停！讓我查攻略\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (141902,'{\"title\":{\"chinese\":\"ONE PIECE FILM: RED\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (141907,'{\"title\":{\"chinese\":\"Ensemble Stars! -Road to Show!!-\"},\"synonyms_chinese\":[\"偶像夢幻祭 -Road to Show!!-\"]}');
 INSERT INTO `anilist_chinese` VALUES (141911,'{\"title\":{\"chinese\":\"Skip and Loafer\"},\"synonyms_chinese\":[\"躍動青春\"]}');
