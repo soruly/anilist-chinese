@@ -1065,6 +1065,7 @@ INSERT INTO `anilist_chinese` VALUES (2872,'{\"title\":{\"chinese\":\"アスガ�
 INSERT INTO `anilist_chinese` VALUES (2873,'{\"title\":{\"chinese\":\"バイブルブラック・オンリー版\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (2874,'{\"title\":{\"chinese\":\"Charm Point 1 ～シスターズ輪舞～\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (2875,'{\"title\":{\"chinese\":\"痴漢物語\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (2881,'{\"title\":{\"chinese\":\"沉默的艦隊\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (2883,'{\"title\":{\"chinese\":\"癒してあげルン 西遊記\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (2889,'{\"title\":{\"chinese\":\"劇場版 BLEACH 另一個冰輪丸\"},\"synonyms_chinese\":[\"劇場版 BLEACH 死神\",\"劇場版 BLEACH 境·界\",\"劇場版 BLEACH 漂靈\"]}');
 INSERT INTO `anilist_chinese` VALUES (2890,'{\"title\":{\"chinese\":\"崖上的波兒\"},\"synonyms_chinese\":[]}');

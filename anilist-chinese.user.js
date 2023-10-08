@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2023.10.7
+// @version      2.2023.10.8
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -1044,6 +1044,7 @@ var database = [
 {id:2873,title:"バイブルブラック・オンリー版"},
 {id:2874,title:"Charm Point 1 ～シスターズ輪舞～"},
 {id:2875,title:"痴漢物語"},
+{id:2881,title:"沉默的艦隊"},
 {id:2883,title:"癒してあげルン 西遊記"},
 {id:2889,title:"劇場版 BLEACH 另一個冰輪丸"},
 {id:2890,title:"崖上的波兒"},

@@ -1028,6 +1028,7 @@ const db = new Map([
 [2873,{title:"バイブルブラック・オンリー版",synonyms:[]}],
 [2874,{title:"Charm Point 1 ～シスターズ輪舞～",synonyms:[]}],
 [2875,{title:"痴漢物語",synonyms:[]}],
+[2881,{title:"沉默的艦隊",synonyms:[]}],
 [2883,{title:"癒してあげルン 西遊記",synonyms:[]}],
 [2889,{title:"劇場版 BLEACH 另一個冰輪丸",synonyms:["劇場版 BLEACH 死神","劇場版 BLEACH 境·界","劇場版 BLEACH 漂靈"]}],
 [2890,{title:"崖上的波兒",synonyms:[]}],
