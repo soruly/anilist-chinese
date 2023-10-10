@@ -6641,6 +6641,7 @@ INSERT INTO `anilist_chinese` VALUES (168992,'{\"title\":{\"chinese\":\"小不�
 INSERT INTO `anilist_chinese` VALUES (169227,'{\"title\":{\"chinese\":\"松犬\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (169296,'{\"title\":{\"chinese\":\"劇場版 角落小夥伴 玩具工廠的不可思議之子\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (169728,'{\"title\":{\"chinese\":\"しーくれっとみっしょん～潜入捜査官は絶対に負けない！～\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (170041,'{\"title\":{\"chinese\":\"不忍！加密忍者咲耶\"},\"synonyms_chinese\":[]}');
 /*!40000 ALTER TABLE `anilist_chinese` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
