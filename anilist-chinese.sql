@@ -6601,7 +6601,7 @@ INSERT INTO `anilist_chinese` VALUES (163136,'{\"title\":{\"chinese\":\"Shadowve
 INSERT INTO `anilist_chinese` VALUES (163137,'{\"title\":{\"chinese\":\"大奧\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (163138,'{\"title\":{\"chinese\":\"YAKITORI：行星軌道敢死隊\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (163140,'{\"title\":{\"chinese\":\"催眠麥克風 -Division Rap Battle- Rhyme Anima +\"},\"synonyms_chinese\":[]}');
-INSERT INTO `anilist_chinese` VALUES (163142,'{\"title\":{\"chinese\":\"重生者的魔法一定要特別\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (163142,'{\"title\":{\"chinese\":\"歸還者的魔法要特别\"},\"synonyms_chinese\":[\"重生者的魔法一定要特別\"]}');
 INSERT INTO `anilist_chinese` VALUES (163143,'{\"title\":{\"chinese\":\"攻殼機動隊 SAC_2045 最後的人類\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (163204,'{\"title\":{\"chinese\":\"Gundam Build Metaverse\"},\"synonyms_chinese\":[\"鋼彈創鬥者元宇宙\"]}');
 INSERT INTO `anilist_chinese` VALUES (163205,'{\"title\":{\"chinese\":\"物之古物奇譚 第二章\"},\"synonyms_chinese\":[]}');

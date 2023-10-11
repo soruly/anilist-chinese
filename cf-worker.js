@@ -6564,7 +6564,7 @@ const db = new Map([
 [163137,{title:"大奧",synonyms:[]}],
 [163138,{title:"YAKITORI：行星軌道敢死隊",synonyms:[]}],
 [163140,{title:"催眠麥克風 -Division Rap Battle- Rhyme Anima +",synonyms:[]}],
-[163142,{title:"重生者的魔法一定要特別",synonyms:[]}],
+[163142,{title:"歸還者的魔法要特别",synonyms:["重生者的魔法一定要特別"]}],
 [163143,{title:"攻殼機動隊 SAC_2045 最後的人類",synonyms:[]}],
 [163204,{title:"Gundam Build Metaverse",synonyms:["鋼彈創鬥者元宇宙"]}],
 [163205,{title:"物之古物奇譚 第二章",synonyms:[]}],

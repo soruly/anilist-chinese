@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2023.10.10
+// @version      2.2023.10.11
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -6580,7 +6580,7 @@ var database = [
 {id:163137,title:"大奧"},
 {id:163138,title:"YAKITORI：行星軌道敢死隊"},
 {id:163140,title:"催眠麥克風 -Division Rap Battle- Rhyme Anima +"},
-{id:163142,title:"重生者的魔法一定要特別"},
+{id:163142,title:"歸還者的魔法要特别"},
 {id:163143,title:"攻殼機動隊 SAC_2045 最後的人類"},
 {id:163204,title:"Gundam Build Metaverse"},
 {id:163205,title:"物之古物奇譚 第二章"},
