@@ -6627,12 +6627,14 @@ INSERT INTO `anilist_chinese` VALUES (165070,'{\"title\":{\"chinese\":\"我的�
 INSERT INTO `anilist_chinese` VALUES (165159,'{\"title\":{\"chinese\":\"BEYBLADE X\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (165321,'{\"title\":{\"chinese\":\"ツンデロシリーズ\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (165356,'{\"title\":{\"chinese\":\"終末的女武神 II 後編\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (165439,'{\"title\":{\"chinese\":\"魔法少女ノーブル・ローズ THE ANIMATION\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (165444,'{\"title\":{\"chinese\":\"SLEEPLESS Nocturne The Animation\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (165599,'{\"title\":{\"chinese\":\"この恋に気づいて THE ANIMATION\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (166104,'{\"title\":{\"chinese\":\"總之就是很可愛 女子高中篇\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (166381,'{\"title\":{\"chinese\":\"幻日夜羽 -SUNSHINE in the SLIME-\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (166452,'{\"title\":{\"chinese\":\"魔法使的新娘 第二季 Part 2\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (166459,'{\"title\":{\"chinese\":\"妻に黙って即売会に行くんじゃなかった\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (166493,'{\"title\":{\"chinese\":\"ナイトテール\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (166523,'{\"title\":{\"chinese\":\"絆的 Allele 第二季\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (166609,'{\"title\":{\"chinese\":\"純情デカメロン\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (166896,'{\"title\":{\"chinese\":\"我們的雨色協議\"},\"synonyms_chinese\":[]}');
