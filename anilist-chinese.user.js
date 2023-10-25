@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2023.10.18
+// @version      2.2023.10.25
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -6615,6 +6615,7 @@ var database = [
 {id:166459,title:"妻に黙って即売会に行くんじゃなかった"},
 {id:166493,title:"ナイトテール"},
 {id:166523,title:"絆的 Allele 第二季"},
+{id:166532,title:"THE iDOLM@STER Cinderella Girls: U149 OVA"},
 {id:166609,title:"純情デカメロン"},
 {id:166896,title:"我們的雨色協議"},
 {id:167820,title:"GOOD NIGHT WORLD"},

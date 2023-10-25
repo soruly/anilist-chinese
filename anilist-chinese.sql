@@ -6636,6 +6636,7 @@ INSERT INTO `anilist_chinese` VALUES (166452,'{\"title\":{\"chinese\":\"魔法�
 INSERT INTO `anilist_chinese` VALUES (166459,'{\"title\":{\"chinese\":\"妻に黙って即売会に行くんじゃなかった\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (166493,'{\"title\":{\"chinese\":\"ナイトテール\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (166523,'{\"title\":{\"chinese\":\"絆的 Allele 第二季\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (166532,'{\"title\":{\"chinese\":\"THE iDOLM@STER Cinderella Girls: U149 OVA\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (166609,'{\"title\":{\"chinese\":\"純情デカメロン\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (166896,'{\"title\":{\"chinese\":\"我們的雨色協議\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (167820,'{\"title\":{\"chinese\":\"GOOD NIGHT WORLD\"},\"synonyms_chinese\":[]}');

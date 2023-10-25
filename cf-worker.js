@@ -6599,6 +6599,7 @@ const db = new Map([
 [166459,{title:"妻に黙って即売会に行くんじゃなかった",synonyms:[]}],
 [166493,{title:"ナイトテール",synonyms:[]}],
 [166523,{title:"絆的 Allele 第二季",synonyms:[]}],
+[166532,{title:"THE iDOLM@STER Cinderella Girls: U149 OVA",synonyms:[]}],
 [166609,{title:"純情デカメロン",synonyms:[]}],
 [166896,{title:"我們的雨色協議",synonyms:[]}],
 [167820,{title:"GOOD NIGHT WORLD",synonyms:[]}],
