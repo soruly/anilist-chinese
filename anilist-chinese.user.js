@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2023.11.7
+// @version      2.2023.11.16
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -660,6 +660,7 @@ var database = [
 {id:1482,title:"驅魔少年"},
 {id:1498,title:"Black Blood Brothers"},
 {id:1499,title:"Mama Mia! 飛龍乱"},
+{id:1500,title:"低俗霊DAYDREAM"},
 {id:1502,title:"魔法少女砂沙美"},
 {id:1503,title:"魔法少女砂沙美 SP"},
 {id:1510,title:"妹でいこう!"},

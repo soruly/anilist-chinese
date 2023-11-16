@@ -644,6 +644,7 @@ const db = new Map([
 [1482,{title:"驅魔少年",synonyms:["D·格雷少年"]}],
 [1498,{title:"Black Blood Brothers",synonyms:["黑血兄弟"]}],
 [1499,{title:"Mama Mia! 飛龍乱",synonyms:[]}],
+[1500,{title:"低俗霊DAYDREAM",synonyms:[]}],
 [1502,{title:"魔法少女砂沙美",synonyms:[]}],
 [1503,{title:"魔法少女砂沙美 SP",synonyms:[]}],
 [1510,{title:"妹でいこう!",synonyms:[]}],

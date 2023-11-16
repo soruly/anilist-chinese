@@ -681,6 +681,7 @@ INSERT INTO `anilist_chinese` VALUES (1479,'{\"title\":{\"chinese\":\"城市獵�
 INSERT INTO `anilist_chinese` VALUES (1482,'{\"title\":{\"chinese\":\"驅魔少年\"},\"synonyms_chinese\":[\"D·格雷少年\"]}');
 INSERT INTO `anilist_chinese` VALUES (1498,'{\"title\":{\"chinese\":\"Black Blood Brothers\"},\"synonyms_chinese\":[\"黑血兄弟\"]}');
 INSERT INTO `anilist_chinese` VALUES (1499,'{\"title\":{\"chinese\":\"Mama Mia! 飛龍乱\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (1500,'{\"title\":{\"chinese\":\"低俗霊DAYDREAM\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (1502,'{\"title\":{\"chinese\":\"魔法少女砂沙美\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (1503,'{\"title\":{\"chinese\":\"魔法少女砂沙美 SP\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (1510,'{\"title\":{\"chinese\":\"妹でいこう!\"},\"synonyms_chinese\":[]}');
