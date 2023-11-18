@@ -6635,14 +6635,18 @@ INSERT INTO `anilist_chinese` VALUES (166104,'{\"title\":{\"chinese\":\"總之�
 INSERT INTO `anilist_chinese` VALUES (166381,'{\"title\":{\"chinese\":\"幻日夜羽 -SUNSHINE in the SLIME-\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (166452,'{\"title\":{\"chinese\":\"魔法使的新娘 第二季 Part 2\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (166459,'{\"title\":{\"chinese\":\"妻に黙って即売会に行くんじゃなかった\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (166461,'{\"title\":{\"chinese\":\"子作り妊活部！\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (166493,'{\"title\":{\"chinese\":\"ナイトテール\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (166523,'{\"title\":{\"chinese\":\"絆的 Allele 第二季\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (166532,'{\"title\":{\"chinese\":\"THE iDOLM@STER Cinderella Girls: U149 OVA\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (166609,'{\"title\":{\"chinese\":\"純情デカメロン\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (166896,'{\"title\":{\"chinese\":\"我們的雨色協議\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (166996,'{\"title\":{\"chinese\":\"妻ネトリ姦　美術教師の場合\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (167473,'{\"title\":{\"chinese\":\"未必の恋\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (167474,'{\"title\":{\"chinese\":\"魔法闘姫リルスティア\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (167820,'{\"title\":{\"chinese\":\"GOOD NIGHT WORLD\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (168196,'{\"title\":{\"chinese\":\"同居する粘液\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (168946,'{\"title\":{\"chinese\":\"Sweet and Hot\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (168992,'{\"title\":{\"chinese\":\"小不點\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (169227,'{\"title\":{\"chinese\":\"松犬\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (169296,'{\"title\":{\"chinese\":\"劇場版 角落小夥伴 玩具工廠的不可思議之子\"},\"synonyms_chinese\":[]}');

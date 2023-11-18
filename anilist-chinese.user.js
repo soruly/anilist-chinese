@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2023.11.16
+// @version      2.2023.11.18
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -6614,14 +6614,18 @@ var database = [
 {id:166381,title:"幻日夜羽 -SUNSHINE in the SLIME-"},
 {id:166452,title:"魔法使的新娘 第二季 Part 2"},
 {id:166459,title:"妻に黙って即売会に行くんじゃなかった"},
+{id:166461,title:"子作り妊活部！"},
 {id:166493,title:"ナイトテール"},
 {id:166523,title:"絆的 Allele 第二季"},
 {id:166532,title:"THE iDOLM@STER Cinderella Girls: U149 OVA"},
 {id:166609,title:"純情デカメロン"},
 {id:166896,title:"我們的雨色協議"},
+{id:166996,title:"妻ネトリ姦　美術教師の場合"},
 {id:167473,title:"未必の恋"},
 {id:167474,title:"魔法闘姫リルスティア"},
 {id:167820,title:"GOOD NIGHT WORLD"},
+{id:168196,title:"同居する粘液"},
+{id:168946,title:"Sweet and Hot"},
 {id:168992,title:"小不點"},
 {id:169227,title:"松犬"},
 {id:169296,title:"劇場版 角落小夥伴 玩具工廠的不可思議之子"},
