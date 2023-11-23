@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2023.11.18
+// @version      2.2023.11.23
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -6625,6 +6625,7 @@ var database = [
 {id:167474,title:"魔法闘姫リルスティア"},
 {id:167820,title:"GOOD NIGHT WORLD"},
 {id:168196,title:"同居する粘液"},
+{id:168539,title:"初恋時間。"},
 {id:168946,title:"Sweet and Hot"},
 {id:168992,title:"小不點"},
 {id:169227,title:"松犬"},

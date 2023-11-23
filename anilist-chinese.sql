@@ -6646,6 +6646,7 @@ INSERT INTO `anilist_chinese` VALUES (167473,'{\"title\":{\"chinese\":\"未必�
 INSERT INTO `anilist_chinese` VALUES (167474,'{\"title\":{\"chinese\":\"魔法闘姫リルスティア\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (167820,'{\"title\":{\"chinese\":\"GOOD NIGHT WORLD\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (168196,'{\"title\":{\"chinese\":\"同居する粘液\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (168539,'{\"title\":{\"chinese\":\"初恋時間。\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (168946,'{\"title\":{\"chinese\":\"Sweet and Hot\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (168992,'{\"title\":{\"chinese\":\"小不點\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (169227,'{\"title\":{\"chinese\":\"松犬\"},\"synonyms_chinese\":[]}');
