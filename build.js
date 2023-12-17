@@ -26,8 +26,8 @@ await fs.writeFile(
       synonyms: JSON.parse(json).synonyms_chinese,
     })),
     null,
-    2
-  )
+    2,
+  ),
 );
 
 const jsCode = (await fs.readFile("anilist-chinese.user.template.js", "utf8")).replace(
@@ -40,9 +40,9 @@ const jsCode = (await fs.readFile("anilist-chinese.user.template.js", "utf8")).r
     .map((e) =>
       JSON.stringify(e)
         .replace(/"id":/g, "id:")
-        .replace(/"title":/g, "title:")
+        .replace(/"title":/g, "title:"),
     )
-    .join(",\n")}\n];`
+    .join(",\n")}\n];`,
 );
 if (jsCode !== (await fs.readFile("anilist-chinese.user.cache.js", "utf8"))) {
   await fs.writeFile("anilist-chinese.user.cache.js", jsCode);
@@ -51,8 +51,8 @@ if (jsCode !== (await fs.readFile("anilist-chinese.user.cache.js", "utf8"))) {
     "anilist-chinese.user.js",
     jsCode.replace(
       "// @version      2.0",
-      `// @version      ${`2.${d.getFullYear()}.${d.getMonth() + 1}.${d.getDate()}`}`
-    )
+      `// @version      ${`2.${d.getFullYear()}.${d.getMonth() + 1}.${d.getDate()}`}`,
+    ),
   );
 } else {
   console.log("build is the same, user.js file not updated.");
@@ -60,9 +60,7 @@ if (jsCode !== (await fs.readFile("anilist-chinese.user.cache.js", "utf8"))) {
 
 await fs.writeFile(
   "cf-worker.js",
-  (
-    await fs.readFile("cf-worker.template.js", "utf8")
-  ).replace(
+  (await fs.readFile("cf-worker.template.js", "utf8")).replace(
     "const db = new Map([]);",
     `const db = new Map([\n${chineseDB
       .map(
@@ -75,8 +73,8 @@ await fs.writeFile(
             })
               .replace(/"title":/g, "title:")
               .replace(/"synonyms":/g, "synonyms:"),
-          ]}]`
+          ]}]`,
       )
-      .join(",\n")}\n]);`
-  )
+      .join(",\n")}\n]);`,
+  ),
 );
