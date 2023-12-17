@@ -1,5 +1,5 @@
 import "dotenv/config.js";
-import fs from "fs";
+import fs from "node:fs/promises";
 import Knex from "knex";
 
 const { DB_NAME, DB_USER, DB_PASS, DB_HOST } = process.env;
@@ -17,7 +17,7 @@ const knex = Knex({
 const chineseDB = await knex("anilist_chinese").select("*");
 knex.destroy();
 
-fs.writeFileSync(
+await fs.writeFile(
   "anilist-chinese.json",
   JSON.stringify(
     chineseDB.map(({ id, json }) => ({
@@ -26,11 +26,11 @@ fs.writeFileSync(
       synonyms: JSON.parse(json).synonyms_chinese,
     })),
     null,
-    2,
-  ),
+    2
+  )
 );
 
-const jsCode = fs.readFileSync("anilist-chinese.user.template.js", "utf8").replace(
+const jsCode = (await fs.readFile("anilist-chinese.user.template.js", "utf8")).replace(
   "var database = [];",
   `var database = [\n${chineseDB
     .map(({ id, json }) => ({
@@ -40,27 +40,29 @@ const jsCode = fs.readFileSync("anilist-chinese.user.template.js", "utf8").repla
     .map((e) =>
       JSON.stringify(e)
         .replace(/"id":/g, "id:")
-        .replace(/"title":/g, "title:"),
+        .replace(/"title":/g, "title:")
     )
-    .join(",\n")}\n];`,
+    .join(",\n")}\n];`
 );
-if (jsCode !== fs.readFileSync("anilist-chinese.user.cache.js", "utf8")) {
-  fs.writeFileSync("anilist-chinese.user.cache.js", jsCode);
+if (jsCode !== (await fs.readFile("anilist-chinese.user.cache.js", "utf8"))) {
+  await fs.writeFile("anilist-chinese.user.cache.js", jsCode);
   const d = new Date();
-  fs.writeFileSync(
+  await fs.writeFile(
     "anilist-chinese.user.js",
     jsCode.replace(
       "// @version      2.0",
-      `// @version      ${`2.${d.getFullYear()}.${d.getMonth() + 1}.${d.getDate()}`}`,
-    ),
+      `// @version      ${`2.${d.getFullYear()}.${d.getMonth() + 1}.${d.getDate()}`}`
+    )
   );
 } else {
   console.log("build is the same, user.js file not updated.");
 }
 
-fs.writeFileSync(
+await fs.writeFile(
   "cf-worker.js",
-  fs.readFileSync("cf-worker.template.js", "utf8").replace(
+  (
+    await fs.readFile("cf-worker.template.js", "utf8")
+  ).replace(
     "const db = new Map([]);",
     `const db = new Map([\n${chineseDB
       .map(
@@ -73,8 +75,8 @@ fs.writeFileSync(
             })
               .replace(/"title":/g, "title:")
               .replace(/"synonyms":/g, "synonyms:"),
-          ]}]`,
+          ]}]`
       )
-      .join(",\n")}\n]);`,
-  ),
+      .join(",\n")}\n]);`
+  )
 );
