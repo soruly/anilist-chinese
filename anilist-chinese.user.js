@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2023.12.8
+// @version      2.2023.12.26
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -6632,7 +6632,8 @@ var database = [
 {id:169227,title:"松犬"},
 {id:169296,title:"劇場版 角落小夥伴 玩具工廠的不可思議之子"},
 {id:169728,title:"しーくれっとみっしょん～潜入捜査官は絶対に負けない！～"},
-{id:170041,title:"不忍！加密忍者咲耶"}
+{id:170041,title:"不忍！加密忍者咲耶"},
+{id:170913,title:"掙扎吧，亞當"}
 ];
 
 var updating;

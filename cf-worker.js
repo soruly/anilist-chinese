@@ -6616,7 +6616,8 @@ const db = new Map([
 [169227,{title:"松犬",synonyms:[]}],
 [169296,{title:"劇場版 角落小夥伴 玩具工廠的不可思議之子",synonyms:[]}],
 [169728,{title:"しーくれっとみっしょん～潜入捜査官は絶対に負けない！～",synonyms:[]}],
-[170041,{title:"不忍！加密忍者咲耶",synonyms:[]}]
+[170041,{title:"不忍！加密忍者咲耶",synonyms:[]}],
+[170913,{title:"掙扎吧，亞當",synonyms:[]}]
 ]);
 
 async function handleRequest(req) {
