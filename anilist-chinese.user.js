@@ -5891,6 +5891,7 @@ var database = [
 {id:127720,title:"無職轉生～到了異世界就拿出真本事～2"},
 {id:127721,title:"IDOLiSH7 Third BEAT!"},
 {id:127911,title:"式守同學不只可愛而已"},
+{id:127957,title:"Holy Knight Light"},
 {id:127958,title:"漁港的肉子"},
 {id:127976,title:"天官賜福 第二季"},
 {id:128034,title:"ORIENT"},

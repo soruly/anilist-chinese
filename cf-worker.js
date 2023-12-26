@@ -5875,6 +5875,7 @@ const db = new Map([
 [127720,{title:"無職轉生～到了異世界就拿出真本事～2",synonyms:[]}],
 [127721,{title:"IDOLiSH7 Third BEAT!",synonyms:[]}],
 [127911,{title:"式守同學不只可愛而已",synonyms:[]}],
+[127957,{title:"Holy Knight Light",synonyms:[]}],
 [127958,{title:"漁港的肉子",synonyms:["魚河岸小店"]}],
 [127976,{title:"天官賜福 第二季",synonyms:[]}],
 [128034,{title:"ORIENT",synonyms:["ORIENT 東方少年"]}],
