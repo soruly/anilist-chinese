@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2023.12.26
+// @version      2.2023.12.29
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -557,6 +557,7 @@ var database = [
 {id:1142,title:"蜂蜜與四葉草 II"},
 {id:1149,title:"超重神GRAVION Zwei"},
 {id:1157,title:"Final Fantasy Unlimited"},
+{id:1164,title:"魔法戰士李維"},
 {id:1165,title:"櫻花大戰 櫻華絢爛"},
 {id:1166,title:"櫻花大戰 轟華絢爛"},
 {id:1170,title:"Slayers Special"},

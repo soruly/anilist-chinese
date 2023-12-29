@@ -578,6 +578,7 @@ INSERT INTO `anilist_chinese` VALUES (1140,'{\"title\":{\"chinese\":\"失序森�
 INSERT INTO `anilist_chinese` VALUES (1142,'{\"title\":{\"chinese\":\"蜂蜜與四葉草 II\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (1149,'{\"title\":{\"chinese\":\"超重神GRAVION Zwei\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (1157,'{\"title\":{\"chinese\":\"Final Fantasy Unlimited\"},\"synonyms_chinese\":[\"終極幻想世界\",\"最終幻想 無限\",\"太空戰士 疾風境界\"]}');
+INSERT INTO `anilist_chinese` VALUES (1164,'{\"title\":{\"chinese\":\"魔法戰士李維\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (1165,'{\"title\":{\"chinese\":\"櫻花大戰 櫻華絢爛\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (1166,'{\"title\":{\"chinese\":\"櫻花大戰 轟華絢爛\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (1170,'{\"title\":{\"chinese\":\"Slayers Special\"},\"synonyms_chinese\":[\"魔劍美神 Special\",\"秀逗魔導士 Special\"]}');

@@ -541,6 +541,7 @@ const db = new Map([
 [1142,{title:"蜂蜜與四葉草 II",synonyms:[]}],
 [1149,{title:"超重神GRAVION Zwei",synonyms:[]}],
 [1157,{title:"Final Fantasy Unlimited",synonyms:["終極幻想世界","最終幻想 無限","太空戰士 疾風境界"]}],
+[1164,{title:"魔法戰士李維",synonyms:[]}],
 [1165,{title:"櫻花大戰 櫻華絢爛",synonyms:[]}],
 [1166,{title:"櫻花大戰 轟華絢爛",synonyms:[]}],
 [1170,{title:"Slayers Special",synonyms:["魔劍美神 Special","秀逗魔導士 Special"]}],
