@@ -163,6 +163,8 @@ INSERT INTO `anilist_chinese` VALUES (199,'{\"title\":{\"chinese\":\"千與千�
 INSERT INTO `anilist_chinese` VALUES (202,'{\"title\":{\"chinese\":\"狼雨\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (203,'{\"title\":{\"chinese\":\"ワーズ・ワース\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (205,'{\"title\":{\"chinese\":\"琉球武士瘋雲錄\"},\"synonyms_chinese\":[\"混沌武士\"]}');
+INSERT INTO `anilist_chinese` VALUES (206,'{\"title\":{\"chinese\":\"羅德斯島戰記 -英雄騎士傳-\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (207,'{\"title\":{\"chinese\":\"羅德斯島戰記\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (209,'{\"title\":{\"chinese\":\"R.O.D\"},\"synonyms_chinese\":[\"讀或死\",\"超能R.O.D\"]}');
 INSERT INTO `anilist_chinese` VALUES (211,'{\"title\":{\"chinese\":\"ピュアメール\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (213,'{\"title\":{\"chinese\":\"Piaキャロットへようこそ!!\"},\"synonyms_chinese\":[]}');
@@ -343,6 +345,7 @@ INSERT INTO `anilist_chinese` VALUES (510,'{\"title\":{\"chinese\":\"下級生2 
 INSERT INTO `anilist_chinese` VALUES (511,'{\"title\":{\"chinese\":\"機動新撰組 萌之劍\"},\"synonyms_chinese\":[\"機動新撰組 萌芽之劍\"]}');
 INSERT INTO `anilist_chinese` VALUES (512,'{\"title\":{\"chinese\":\"魔女宅急便\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (513,'{\"title\":{\"chinese\":\"天空之城\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (515,'{\"title\":{\"chinese\":\"水晶國傳說 初次旅行的冒險者們\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (517,'{\"title\":{\"chinese\":\"School Rumble 一學期補習\"},\"synonyms_chinese\":[\"校園迷糊大王 一學期補習\"]}');
 INSERT INTO `anilist_chinese` VALUES (519,'{\"title\":{\"chinese\":\"我們的仙境\"},\"synonyms_chinese\":[\"心動的日子\"]}');
 INSERT INTO `anilist_chinese` VALUES (522,'{\"title\":{\"chinese\":\"Metropolis\"},\"synonyms_chinese\":[\"大都會\"]}');
@@ -577,6 +580,7 @@ INSERT INTO `anilist_chinese` VALUES (1135,'{\"title\":{\"chinese\":\"MUNTO～�
 INSERT INTO `anilist_chinese` VALUES (1140,'{\"title\":{\"chinese\":\"失序森林-銀髮阿基德\"},\"synonyms_chinese\":[\"銀色頭髮的阿基德\"]}');
 INSERT INTO `anilist_chinese` VALUES (1142,'{\"title\":{\"chinese\":\"蜂蜜與四葉草 II\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (1149,'{\"title\":{\"chinese\":\"超重神GRAVION Zwei\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (1150,'{\"title\":{\"chinese\":\"水晶國傳說\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (1157,'{\"title\":{\"chinese\":\"Final Fantasy Unlimited\"},\"synonyms_chinese\":[\"終極幻想世界\",\"最終幻想 無限\",\"太空戰士 疾風境界\"]}');
 INSERT INTO `anilist_chinese` VALUES (1164,'{\"title\":{\"chinese\":\"魔法戰士李維\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (1165,'{\"title\":{\"chinese\":\"櫻花大戰 櫻華絢爛\"},\"synonyms_chinese\":[]}');

@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2023.12.29
+// @version      2.2023.12.30
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -142,6 +142,8 @@ var database = [
 {id:202,title:"狼雨"},
 {id:203,title:"ワーズ・ワース"},
 {id:205,title:"琉球武士瘋雲錄"},
+{id:206,title:"羅德斯島戰記 -英雄騎士傳-"},
+{id:207,title:"羅德斯島戰記"},
 {id:209,title:"R.O.D"},
 {id:211,title:"ピュアメール"},
 {id:213,title:"Piaキャロットへようこそ!!"},
@@ -322,6 +324,7 @@ var database = [
 {id:511,title:"機動新撰組 萌之劍"},
 {id:512,title:"魔女宅急便"},
 {id:513,title:"天空之城"},
+{id:515,title:"水晶國傳說 初次旅行的冒險者們"},
 {id:517,title:"School Rumble 一學期補習"},
 {id:519,title:"我們的仙境"},
 {id:522,title:"Metropolis"},
@@ -556,6 +559,7 @@ var database = [
 {id:1140,title:"失序森林-銀髮阿基德"},
 {id:1142,title:"蜂蜜與四葉草 II"},
 {id:1149,title:"超重神GRAVION Zwei"},
+{id:1150,title:"水晶國傳說"},
 {id:1157,title:"Final Fantasy Unlimited"},
 {id:1164,title:"魔法戰士李維"},
 {id:1165,title:"櫻花大戰 櫻華絢爛"},

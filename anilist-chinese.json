@@ -773,6 +773,16 @@
     ]
   },
   {
+    "id": 206,
+    "title": "羅德斯島戰記 -英雄騎士傳-",
+    "synonyms": []
+  },
+  {
+    "id": 207,
+    "title": "羅德斯島戰記",
+    "synonyms": []
+  },
+  {
     "id": 209,
     "title": "R.O.D",
     "synonyms": [
@@ -1842,6 +1852,11 @@
   {
     "id": 513,
     "title": "天空之城",
+    "synonyms": []
+  },
+  {
+    "id": 515,
+    "title": "水晶國傳說 初次旅行的冒險者們",
     "synonyms": []
   },
   {
@@ -3241,6 +3256,11 @@
   {
     "id": 1149,
     "title": "超重神GRAVION Zwei",
+    "synonyms": []
+  },
+  {
+    "id": 1150,
+    "title": "水晶國傳說",
     "synonyms": []
   },
   {
