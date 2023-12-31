@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2023.12.30
+// @version      2.2023.12.31
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -6693,8 +6693,10 @@ var database = [
 {id:169363,title:"SYNDUALITY Noir 科學講座"},
 {id:169418,title:"月刊妄想科學"},
 {id:169559,title:"SYNDUALITY Noir Part 2"},
+{id:169683,title:"旬花蒐陶"},
 {id:169728,title:"しーくれっとみっしょん～潜入捜査官は絶対に負けない！～"},
 {id:169935,title:"最強肉盾的迷宮攻略～擁有稀少技能體力 9999 的肉盾，被勇者隊伍辭退了～"},
+{id:169941,title:"勇者姫ミリア"},
 {id:170041,title:"不忍！加密忍者咲耶"},
 {id:170913,title:"掙扎吧，亞當"},
 {id:170935,title:"詐騙之王 razbliuto"},

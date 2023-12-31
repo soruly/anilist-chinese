@@ -6714,8 +6714,10 @@ INSERT INTO `anilist_chinese` VALUES (169362,'{\"title\":{\"chinese\":\"BURN THE
 INSERT INTO `anilist_chinese` VALUES (169363,'{\"title\":{\"chinese\":\"SYNDUALITY Noir 科學講座\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (169418,'{\"title\":{\"chinese\":\"月刊妄想科學\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (169559,'{\"title\":{\"chinese\":\"SYNDUALITY Noir Part 2\"},\"synonyms_chinese\":[\"奇異賢伴 黑色天使 Part 2\"]}');
+INSERT INTO `anilist_chinese` VALUES (169683,'{\"title\":{\"chinese\":\"旬花蒐陶\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (169728,'{\"title\":{\"chinese\":\"しーくれっとみっしょん～潜入捜査官は絶対に負けない！～\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (169935,'{\"title\":{\"chinese\":\"最強肉盾的迷宮攻略～擁有稀少技能體力 9999 的肉盾，被勇者隊伍辭退了～\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (169941,'{\"title\":{\"chinese\":\"勇者姫ミリア\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (170041,'{\"title\":{\"chinese\":\"不忍！加密忍者咲耶\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (170913,'{\"title\":{\"chinese\":\"掙扎吧，亞當\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (170935,'{\"title\":{\"chinese\":\"詐騙之王 razbliuto\"},\"synonyms_chinese\":[]}');
