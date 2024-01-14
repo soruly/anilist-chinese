@@ -6666,7 +6666,7 @@ INSERT INTO `anilist_chinese` VALUES (164312,'{\"title\":{\"chinese\":\"柚木�
 INSERT INTO `anilist_chinese` VALUES (164551,'{\"title\":{\"chinese\":\"邪神與廚二病少女【世紀末篇】\"},\"synonyms_chinese\":[\"小邪神飛踢！【世紀末篇】\"]}');
 INSERT INTO `anilist_chinese` VALUES (165070,'{\"title\":{\"chinese\":\"我的新上司是天然呆\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (165159,'{\"title\":{\"chinese\":\"BEYBLADE X\"},\"synonyms_chinese\":[]}');
-INSERT INTO `anilist_chinese` VALUES (165254,'{\"title\":{\"chinese\":\"BUCCHIGIRI?!\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (165254,'{\"title\":{\"chinese\":\"BUCCHIGIRI\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (165314,'{\"title\":{\"chinese\":\"碰之道\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (165321,'{\"title\":{\"chinese\":\"ツンデロシリーズ\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (165356,'{\"title\":{\"chinese\":\"終末的女武神 II 後編\"},\"synonyms_chinese\":[]}');

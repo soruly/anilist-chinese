@@ -6629,7 +6629,7 @@ const db = new Map([
 [164551,{title:"邪神與廚二病少女【世紀末篇】",synonyms:["小邪神飛踢！【世紀末篇】"]}],
 [165070,{title:"我的新上司是天然呆",synonyms:[]}],
 [165159,{title:"BEYBLADE X",synonyms:[]}],
-[165254,{title:"BUCCHIGIRI?!",synonyms:[]}],
+[165254,{title:"BUCCHIGIRI",synonyms:[]}],
 [165314,{title:"碰之道",synonyms:[]}],
 [165321,{title:"ツンデロシリーズ",synonyms:[]}],
 [165356,{title:"終末的女武神 II 後編",synonyms:[]}],

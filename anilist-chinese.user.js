@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2023.12.31
+// @version      2.2024.1.14
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -6645,7 +6645,7 @@ var database = [
 {id:164551,title:"邪神與廚二病少女【世紀末篇】"},
 {id:165070,title:"我的新上司是天然呆"},
 {id:165159,title:"BEYBLADE X"},
-{id:165254,title:"BUCCHIGIRI?!"},
+{id:165254,title:"BUCCHIGIRI"},
 {id:165314,title:"碰之道"},
 {id:165321,title:"ツンデロシリーズ"},
 {id:165356,title:"終末的女武神 II 後編"},
