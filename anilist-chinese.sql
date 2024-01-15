@@ -6400,6 +6400,7 @@ INSERT INTO `anilist_chinese` VALUES (148112,'{\"title\":{\"chinese\":\"SLEEPLES
 INSERT INTO `anilist_chinese` VALUES (148116,'{\"title\":{\"chinese\":\"冰劍的魔術師將要統一世界\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (148147,'{\"title\":{\"chinese\":\"ハヂ+ ～羞チ心～\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (148148,'{\"title\":{\"chinese\":\"SUMMER ～田舎の性活～\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (148149,'{\"title\":{\"chinese\":\"美少女戰士 新版動畫劇場版 銀河之影章 前篇\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (148179,'{\"title\":{\"chinese\":\"RE:cycle of the PENGUINDRUM 後編 我愛你\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (148370,'{\"title\":{\"chinese\":\"賽馬娘 ROAD TO THE TOP\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (148465,'{\"title\":{\"chinese\":\"雖然等級只有 1 級但固有技能是最強的\"},\"synonyms_chinese\":[]}');
@@ -6595,6 +6596,7 @@ INSERT INTO `anilist_chinese` VALUES (160701,'{\"title\":{\"chinese\":\"告白�
 INSERT INTO `anilist_chinese` VALUES (160735,'{\"title\":{\"chinese\":\"楽園侵触 Island of the dead\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (160829,'{\"title\":{\"chinese\":\"Ensemble Stars! 追憶 Selection Element\"},\"synonyms_chinese\":[\"偶像夢幻祭 追憶 Selection Element\"]}');
 INSERT INTO `anilist_chinese` VALUES (160831,'{\"title\":{\"chinese\":\"GAMERA -Rebirth-\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (160850,'{\"title\":{\"chinese\":\"美少女戰士 新版動畫劇場版 銀河之影章 後篇\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (160900,'{\"title\":{\"chinese\":\"破滅的王國\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (161312,'{\"title\":{\"chinese\":\"つるぺた守護騎士　エルフィナ堕ちる\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (161364,'{\"title\":{\"chinese\":\"某大叔的 VRMMO 活動記\"},\"synonyms_chinese\":[]}');

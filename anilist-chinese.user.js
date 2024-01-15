@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2024.1.14
+// @version      2.2024.1.15
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -6379,6 +6379,7 @@ var database = [
 {id:148116,title:"冰劍的魔術師將要統一世界"},
 {id:148147,title:"ハヂ+ ～羞チ心～"},
 {id:148148,title:"SUMMER ～田舎の性活～"},
+{id:148149,title:"美少女戰士 新版動畫劇場版 銀河之影章 前篇"},
 {id:148179,title:"RE:cycle of the PENGUINDRUM 後編 我愛你"},
 {id:148370,title:"賽馬娘 ROAD TO THE TOP"},
 {id:148465,title:"雖然等級只有 1 級但固有技能是最強的"},
@@ -6574,6 +6575,7 @@ var database = [
 {id:160735,title:"楽園侵触 Island of the dead"},
 {id:160829,title:"Ensemble Stars! 追憶 Selection Element"},
 {id:160831,title:"GAMERA -Rebirth-"},
+{id:160850,title:"美少女戰士 新版動畫劇場版 銀河之影章 後篇"},
 {id:160900,title:"破滅的王國"},
 {id:161312,title:"つるぺた守護騎士　エルフィナ堕ちる"},
 {id:161364,title:"某大叔的 VRMMO 活動記"},
