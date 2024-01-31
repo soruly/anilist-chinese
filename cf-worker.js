@@ -6684,6 +6684,8 @@ const db = new Map([
 [169935,{title:"最強肉盾的迷宮攻略～擁有稀少技能體力 9999 的肉盾，被勇者隊伍辭退了～",synonyms:[]}],
 [169941,{title:"勇者姫ミリア",synonyms:[]}],
 [170041,{title:"不忍！加密忍者咲耶",synonyms:[]}],
+[170514,{title:"シニシスタ",synonyms:[]}],
+[170599,{title:"フルール The Animation",synonyms:[]}],
 [170913,{title:"掙扎吧，亞當",synonyms:[]}],
 [170935,{title:"詐騙之王 razbliuto",synonyms:[]}],
 [170953,{title:"闇芝居 12",synonyms:[]}],

@@ -6721,6 +6721,8 @@ INSERT INTO `anilist_chinese` VALUES (169728,'{\"title\":{\"chinese\":\"しー�
 INSERT INTO `anilist_chinese` VALUES (169935,'{\"title\":{\"chinese\":\"最強肉盾的迷宮攻略～擁有稀少技能體力 9999 的肉盾，被勇者隊伍辭退了～\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (169941,'{\"title\":{\"chinese\":\"勇者姫ミリア\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (170041,'{\"title\":{\"chinese\":\"不忍！加密忍者咲耶\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (170514,'{\"title\":{\"chinese\":\"シニシスタ\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (170599,'{\"title\":{\"chinese\":\"フルール The Animation\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (170913,'{\"title\":{\"chinese\":\"掙扎吧，亞當\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (170935,'{\"title\":{\"chinese\":\"詐騙之王 razbliuto\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (170953,'{\"title\":{\"chinese\":\"闇芝居 12\"},\"synonyms_chinese\":[]}');

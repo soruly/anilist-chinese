@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2024.1.15
+// @version      2.2024.1.31
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -6700,6 +6700,8 @@ var database = [
 {id:169935,title:"最強肉盾的迷宮攻略～擁有稀少技能體力 9999 的肉盾，被勇者隊伍辭退了～"},
 {id:169941,title:"勇者姫ミリア"},
 {id:170041,title:"不忍！加密忍者咲耶"},
+{id:170514,title:"シニシスタ"},
+{id:170599,title:"フルール The Animation"},
 {id:170913,title:"掙扎吧，亞當"},
 {id:170935,title:"詐騙之王 razbliuto"},
 {id:170953,title:"闇芝居 12"},
