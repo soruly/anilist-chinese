@@ -6726,6 +6726,8 @@ INSERT INTO `anilist_chinese` VALUES (170599,'{\"title\":{\"chinese\":\"フル�
 INSERT INTO `anilist_chinese` VALUES (170913,'{\"title\":{\"chinese\":\"掙扎吧，亞當\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (170935,'{\"title\":{\"chinese\":\"詐騙之王 razbliuto\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (170953,'{\"title\":{\"chinese\":\"闇芝居 12\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (170969,'{\"title\":{\"chinese\":\"満たされて目覚める朝に、地味な朝食を The Animation\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (171016,'{\"title\":{\"chinese\":\"６９〜偽りの微笑〜\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (171019,'{\"title\":{\"chinese\":\"名湯「異世界溫泉」開拓記～30 多歲溫泉狂熱者，轉生到悠閒的溫泉天國～\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (171026,'{\"title\":{\"chinese\":\"派對咖孔明 Road to Summer Sonia\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (171144,'{\"title\":{\"chinese\":\"明治擊劍－1874－\"},\"synonyms_chinese\":[]}');

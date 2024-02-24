@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2024.1.31
+// @version      2.2024.2.24
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -6705,6 +6705,8 @@ var database = [
 {id:170913,title:"掙扎吧，亞當"},
 {id:170935,title:"詐騙之王 razbliuto"},
 {id:170953,title:"闇芝居 12"},
+{id:170969,title:"満たされて目覚める朝に、地味な朝食を The Animation"},
+{id:171016,title:"６９〜偽りの微笑〜"},
 {id:171019,title:"名湯「異世界溫泉」開拓記～30 多歲溫泉狂熱者，轉生到悠閒的溫泉天國～"},
 {id:171026,title:"派對咖孔明 Road to Summer Sonia"},
 {id:171144,title:"明治擊劍－1874－"}

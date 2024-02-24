@@ -6689,6 +6689,8 @@ const db = new Map([
 [170913,{title:"掙扎吧，亞當",synonyms:[]}],
 [170935,{title:"詐騙之王 razbliuto",synonyms:[]}],
 [170953,{title:"闇芝居 12",synonyms:[]}],
+[170969,{title:"満たされて目覚める朝に、地味な朝食を The Animation",synonyms:[]}],
+[171016,{title:"６９〜偽りの微笑〜",synonyms:[]}],
 [171019,{title:"名湯「異世界溫泉」開拓記～30 多歲溫泉狂熱者，轉生到悠閒的溫泉天國～",synonyms:[]}],
 [171026,{title:"派對咖孔明 Road to Summer Sonia",synonyms:[]}],
 [171144,{title:"明治擊劍－1874－",synonyms:[]}]
