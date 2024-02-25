@@ -588,6 +588,7 @@ INSERT INTO `anilist_chinese` VALUES (1166,'{\"title\":{\"chinese\":\"櫻花大�
 INSERT INTO `anilist_chinese` VALUES (1170,'{\"title\":{\"chinese\":\"Slayers Special\"},\"synonyms_chinese\":[\"魔劍美神 Special\",\"秀逗魔導士 Special\"]}');
 INSERT INTO `anilist_chinese` VALUES (1171,'{\"title\":{\"chinese\":\"Slayers Excellent\"},\"synonyms_chinese\":[\"魔劍美神 Excellent\",\"秀逗魔導士 Excellent\"]}');
 INSERT INTO `anilist_chinese` VALUES (1172,'{\"title\":{\"chinese\":\"Slayers Try\"},\"synonyms_chinese\":[\"魔劍美神 Try\",\"秀逗魔導士 Try\"]}');
+INSERT INTO `anilist_chinese` VALUES (1177,'{\"title\":{\"chinese\":\"Alien 9\"},\"synonyms_chinese\":[\"校園外星人\"]}');
 INSERT INTO `anilist_chinese` VALUES (1183,'{\"title\":{\"chinese\":\"Variable Geo\"},\"synonyms_chinese\":[\"格鬥女神 Variable Geo\"]}');
 INSERT INTO `anilist_chinese` VALUES (1193,'{\"title\":{\"chinese\":\"Happy Seven\"},\"synonyms_chinese\":[\"歡樂七福娘\",\"快樂七人組\"]}');
 INSERT INTO `anilist_chinese` VALUES (1194,'{\"title\":{\"chinese\":\"星際海盜\"},\"synonyms_chinese\":[]}');

@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2024.2.24
+// @version      2.2024.2.25
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -567,6 +567,7 @@ var database = [
 {id:1170,title:"Slayers Special"},
 {id:1171,title:"Slayers Excellent"},
 {id:1172,title:"Slayers Try"},
+{id:1177,title:"Alien 9"},
 {id:1183,title:"Variable Geo"},
 {id:1193,title:"Happy Seven"},
 {id:1194,title:"星際海盜"},

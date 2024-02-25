@@ -551,6 +551,7 @@ const db = new Map([
 [1170,{title:"Slayers Special",synonyms:["魔劍美神 Special","秀逗魔導士 Special"]}],
 [1171,{title:"Slayers Excellent",synonyms:["魔劍美神 Excellent","秀逗魔導士 Excellent"]}],
 [1172,{title:"Slayers Try",synonyms:["魔劍美神 Try","秀逗魔導士 Try"]}],
+[1177,{title:"Alien 9",synonyms:["校園外星人"]}],
 [1183,{title:"Variable Geo",synonyms:["格鬥女神 Variable Geo"]}],
 [1193,{title:"Happy Seven",synonyms:["歡樂七福娘","快樂七人組"]}],
 [1194,{title:"星際海盜",synonyms:[]}],
