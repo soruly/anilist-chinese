@@ -6709,6 +6709,7 @@ INSERT INTO `anilist_chinese` VALUES (168374,'{\"title\":{\"chinese\":\"輪迴�
 INSERT INTO `anilist_chinese` VALUES (168538,'{\"title\":{\"chinese\":\"姉辱尽くし\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (168539,'{\"title\":{\"chinese\":\"初恋時間。\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (168946,'{\"title\":{\"chinese\":\"Sweet and Hot\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (168947,'{\"title\":{\"chinese\":\"NO 猥婦 NO LIFE！\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (168992,'{\"title\":{\"chinese\":\"小不點\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (169227,'{\"title\":{\"chinese\":\"松犬\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (169291,'{\"title\":{\"chinese\":\"四處貼上吧！小狗\"},\"synonyms_chinese\":[]}');

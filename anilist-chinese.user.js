@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2024.2.25
+// @version      2.2024.2.29
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -6688,6 +6688,7 @@ var database = [
 {id:168538,title:"姉辱尽くし"},
 {id:168539,title:"初恋時間。"},
 {id:168946,title:"Sweet and Hot"},
+{id:168947,title:"NO 猥婦 NO LIFE！"},
 {id:168992,title:"小不點"},
 {id:169227,title:"松犬"},
 {id:169291,title:"四處貼上吧！小狗"},
