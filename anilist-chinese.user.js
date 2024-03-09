@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2024.2.29
+// @version      2.2024.3.9
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -4683,7 +4683,7 @@ var database = [
 {id:100306,title:"棒球大聯盟 2nd"},
 {id:100332,title:"刻刻"},
 {id:100341,title:"重神機潘多拉"},
-{id:100353,title:""},
+{id:100353,title:"Mob Psycho 100 REIGEN ～不為人知的奇蹟靈能力者～"},
 {id:100356,title:"Mutafukaz"},
 {id:100358,title:"TIME DRIVER 我們所描繪的未來"},
 {id:100361,title:"Midnight Crazy Trail"},

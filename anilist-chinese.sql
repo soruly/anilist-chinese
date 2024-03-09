@@ -4704,7 +4704,7 @@ INSERT INTO `anilist_chinese` VALUES (100305,'{\"title\":{\"chinese\":\"月色�
 INSERT INTO `anilist_chinese` VALUES (100306,'{\"title\":{\"chinese\":\"棒球大聯盟 2nd\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (100332,'{\"title\":{\"chinese\":\"刻刻\"},\"synonyms_chinese\":[\"刻刻-時間暫停-\"]}');
 INSERT INTO `anilist_chinese` VALUES (100341,'{\"title\":{\"chinese\":\"重神機潘多拉\"},\"synonyms_chinese\":[\"重機神潘多拉\"]}');
-INSERT INTO `anilist_chinese` VALUES (100353,'{\"title\":{\"chinese\":\"\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (100353,'{\"title\":{\"chinese\":\"Mob Psycho 100 REIGEN ～不為人知的奇蹟靈能力者～\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (100356,'{\"title\":{\"chinese\":\"Mutafukaz\"},\"synonyms_chinese\":[\"黑街酷子\"]}');
 INSERT INTO `anilist_chinese` VALUES (100358,'{\"title\":{\"chinese\":\"TIME DRIVER 我們所描繪的未來\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (100361,'{\"title\":{\"chinese\":\"Midnight Crazy Trail\"},\"synonyms_chinese\":[]}');

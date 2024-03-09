@@ -4667,7 +4667,7 @@ const db = new Map([
 [100306,{title:"棒球大聯盟 2nd",synonyms:[]}],
 [100332,{title:"刻刻",synonyms:["刻刻-時間暫停-"]}],
 [100341,{title:"重神機潘多拉",synonyms:["重機神潘多拉"]}],
-[100353,{title:"",synonyms:[]}],
+[100353,{title:"Mob Psycho 100 REIGEN ～不為人知的奇蹟靈能力者～",synonyms:[]}],
 [100356,{title:"Mutafukaz",synonyms:["黑街酷子"]}],
 [100358,{title:"TIME DRIVER 我們所描繪的未來",synonyms:[]}],
 [100361,{title:"Midnight Crazy Trail",synonyms:[]}],
