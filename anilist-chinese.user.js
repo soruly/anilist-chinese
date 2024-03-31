@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2024.3.28
+// @version      2.2024.3.31
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -6775,9 +6775,12 @@ var database = [
 {id:171115,title:"Rising Impact"},
 {id:171144,title:"明治擊劍－1874－"},
 {id:171291,title:"Trapezium"},
+{id:171395,title:"断れない母"},
 {id:172187,title:"Shadowverse Flame: Arc 編"},
 {id:172242,title:"Love Live！虹咲學園 學園偶像同好會 短篇動畫 第二季"},
 {id:172395,title:"新幹線變形機器人 Change the world"},
+{id:172398,title:"ルインズシーカー"},
+{id:172399,title:"おじさんで埋める穴 The Animation"},
 {id:172420,title:"賽馬娘Pretty Derby 新時代之門"},
 {id:172964,title:"雀魂 槓!!"},
 {id:173240,title:"明明只是個煙霧彈配角，卻得到完美王子的寵愛。"},

@@ -6796,9 +6796,12 @@ INSERT INTO `anilist_chinese` VALUES (171099,'{\"title\":{\"chinese\":\"Bocchi t
 INSERT INTO `anilist_chinese` VALUES (171115,'{\"title\":{\"chinese\":\"Rising Impact\"},\"synonyms_chinese\":[\"高爾夫物語\"]}');
 INSERT INTO `anilist_chinese` VALUES (171144,'{\"title\":{\"chinese\":\"明治擊劍－1874－\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (171291,'{\"title\":{\"chinese\":\"Trapezium\"},\"synonyms_chinese\":[\"成為星星的少女\"]}');
+INSERT INTO `anilist_chinese` VALUES (171395,'{\"title\":{\"chinese\":\"断れない母\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (172187,'{\"title\":{\"chinese\":\"Shadowverse Flame: Arc 編\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (172242,'{\"title\":{\"chinese\":\"Love Live！虹咲學園 學園偶像同好會 短篇動畫 第二季\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (172395,'{\"title\":{\"chinese\":\"新幹線變形機器人 Change the world\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (172398,'{\"title\":{\"chinese\":\"ルインズシーカー\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (172399,'{\"title\":{\"chinese\":\"おじさんで埋める穴 The Animation\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (172420,'{\"title\":{\"chinese\":\"賽馬娘Pretty Derby 新時代之門\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (172964,'{\"title\":{\"chinese\":\"雀魂 槓!!\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (173240,'{\"title\":{\"chinese\":\"明明只是個煙霧彈配角，卻得到完美王子的寵愛。\"},\"synonyms_chinese\":[]}');
