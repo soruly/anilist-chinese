@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2024.3.31
+// @version      2.2024.4.8
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -6771,6 +6771,7 @@ var database = [
 {id:171019,title:"名湯「異世界溫泉」開拓記～30 多歲溫泉狂熱者，轉生到悠閒的溫泉天國～"},
 {id:171026,title:"派對咖孔明 Road to Summer Sonia"},
 {id:171040,title:"Astro Note"},
+{id:171080,title:"秘密的美妙公主"},
 {id:171099,title:"Bocchi the Rock! Re:Re:"},
 {id:171115,title:"Rising Impact"},
 {id:171144,title:"明治擊劍－1874－"},

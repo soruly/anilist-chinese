@@ -6755,6 +6755,7 @@ const db = new Map([
 [171019,{title:"名湯「異世界溫泉」開拓記～30 多歲溫泉狂熱者，轉生到悠閒的溫泉天國～",synonyms:[]}],
 [171026,{title:"派對咖孔明 Road to Summer Sonia",synonyms:[]}],
 [171040,{title:"Astro Note",synonyms:["星際之聲"]}],
+[171080,{title:"秘密的美妙公主",synonyms:[]}],
 [171099,{title:"Bocchi the Rock! Re:Re:",synonyms:["孤獨搖滾！Re:Re:"]}],
 [171115,{title:"Rising Impact",synonyms:["高爾夫物語"]}],
 [171144,{title:"明治擊劍－1874－",synonyms:[]}],

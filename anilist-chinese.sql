@@ -6792,6 +6792,7 @@ INSERT INTO `anilist_chinese` VALUES (171016,'{\"title\":{\"chinese\":\"６９�
 INSERT INTO `anilist_chinese` VALUES (171019,'{\"title\":{\"chinese\":\"名湯「異世界溫泉」開拓記～30 多歲溫泉狂熱者，轉生到悠閒的溫泉天國～\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (171026,'{\"title\":{\"chinese\":\"派對咖孔明 Road to Summer Sonia\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (171040,'{\"title\":{\"chinese\":\"Astro Note\"},\"synonyms_chinese\":[\"星際之聲\"]}');
+INSERT INTO `anilist_chinese` VALUES (171080,'{\"title\":{\"chinese\":\"秘密的美妙公主\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (171099,'{\"title\":{\"chinese\":\"Bocchi the Rock! Re:Re:\"},\"synonyms_chinese\":[\"孤獨搖滾！Re:Re:\"]}');
 INSERT INTO `anilist_chinese` VALUES (171115,'{\"title\":{\"chinese\":\"Rising Impact\"},\"synonyms_chinese\":[\"高爾夫物語\"]}');
 INSERT INTO `anilist_chinese` VALUES (171144,'{\"title\":{\"chinese\":\"明治擊劍－1874－\"},\"synonyms_chinese\":[]}');
