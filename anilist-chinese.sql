@@ -1,8 +1,8 @@
--- MariaDB dump 10.19  Distrib 10.5.23-MariaDB, for Linux (x86_64)
+-- MariaDB dump 10.19-11.3.2-MariaDB, for debian-linux-gnu (x86_64)
 --
 -- Host: localhost    Database: anime
 -- ------------------------------------------------------
--- Server version	10.5.23-MariaDB
+-- Server version	11.3.2-MariaDB-1:11.3.2+maria~ubu2204
 
 /*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
 /*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
