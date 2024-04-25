@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2024.4.8
+// @version      2.2024.4.25
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -6739,6 +6739,7 @@ var database = [
 {id:168946,title:"Sweet and Hot"},
 {id:168947,title:"NO 猥婦 NO LIFE！"},
 {id:168992,title:"小不點"},
+{id:169202,title:"家庭教師X催眠2 The Animation"},
 {id:169227,title:"松犬"},
 {id:169291,title:"四處貼上吧！小狗"},
 {id:169296,title:"劇場版 角落小夥伴 玩具工廠的不可思議之子"},
@@ -6757,6 +6758,7 @@ var database = [
 {id:169941,title:"勇者姫ミリア"},
 {id:170041,title:"不忍！加密忍者咲耶"},
 {id:170130,title:"從 Lv2 開始開外掛的前勇者候補過著悠哉異世界生活"},
+{id:170297,title:"好みじゃないけど～ムカつく姉と相性抜群エッチ～"},
 {id:170503,title:"烏鴉不擇主"},
 {id:170514,title:"シニシスタ"},
 {id:170593,title:"新・不做嗎"},
@@ -6777,6 +6779,7 @@ var database = [
 {id:171144,title:"明治擊劍－1874－"},
 {id:171291,title:"Trapezium"},
 {id:171395,title:"断れない母"},
+{id:171397,title:"NocturnaL"},
 {id:172187,title:"Shadowverse Flame: Arc 編"},
 {id:172242,title:"Love Live！虹咲學園 學園偶像同好會 短篇動畫 第二季"},
 {id:172395,title:"新幹線變形機器人 Change the world"},
