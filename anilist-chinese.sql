@@ -6809,6 +6809,7 @@ INSERT INTO `anilist_chinese` VALUES (172399,'{\"title\":{\"chinese\":\"おじ�
 INSERT INTO `anilist_chinese` VALUES (172420,'{\"title\":{\"chinese\":\"賽馬娘Pretty Derby 新時代之門\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (172964,'{\"title\":{\"chinese\":\"雀魂 槓!!\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (173240,'{\"title\":{\"chinese\":\"明明只是個煙霧彈配角，卻得到完美王子的寵愛。\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (174633,'{\"title\":{\"chinese\":\"みだれうち\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (174653,'{\"title\":{\"chinese\":\"喧嘩獨學\"},\"synonyms_chinese\":[\"格鬥實況\"]}');
 INSERT INTO `anilist_chinese` VALUES (174788,'{\"title\":{\"chinese\":\"Look Back\"},\"synonyms_chinese\":[\"驀然回首\"]}');
 INSERT INTO `anilist_chinese` VALUES (175642,'{\"title\":{\"chinese\":\"SAND LAND: THE SERIES\"},\"synonyms_chinese\":[]}');

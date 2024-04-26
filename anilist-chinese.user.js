@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2024.4.25
+// @version      2.2024.4.26
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -6788,6 +6788,7 @@ var database = [
 {id:172420,title:"賽馬娘Pretty Derby 新時代之門"},
 {id:172964,title:"雀魂 槓!!"},
 {id:173240,title:"明明只是個煙霧彈配角，卻得到完美王子的寵愛。"},
+{id:174633,title:"みだれうち"},
 {id:174653,title:"喧嘩獨學"},
 {id:174788,title:"Look Back"},
 {id:175642,title:"SAND LAND: THE SERIES"}

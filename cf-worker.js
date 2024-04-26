@@ -6772,6 +6772,7 @@ const db = new Map([
 [172420,{title:"賽馬娘Pretty Derby 新時代之門",synonyms:[]}],
 [172964,{title:"雀魂 槓!!",synonyms:[]}],
 [173240,{title:"明明只是個煙霧彈配角，卻得到完美王子的寵愛。",synonyms:[]}],
+[174633,{title:"みだれうち",synonyms:[]}],
 [174653,{title:"喧嘩獨學",synonyms:["格鬥實況"]}],
 [174788,{title:"Look Back",synonyms:["驀然回首"]}],
 [175642,{title:"SAND LAND: THE SERIES",synonyms:[]}]
