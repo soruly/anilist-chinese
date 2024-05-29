@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2024.5.3
+// @version      2.2024.5.29
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -6209,6 +6209,7 @@ var database = [
 {id:140754,title:"第二次被異世界召喚"},
 {id:140788,title:"対魔忍不知火～淫欲の奴隷娼婦～"},
 {id:140830,title:"BIRDIE WING: Golf Girls' Story"},
+{id:140842,title:"Chiikawa"},
 {id:140883,title:"エロ医師"},
 {id:140950,title:"Irodori Midori"},
 {id:140960,title:"SPY×FAMILY"},

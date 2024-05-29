@@ -6230,6 +6230,7 @@ INSERT INTO `anilist_chinese` VALUES (140753,'{\"title\":{\"chinese\":\"SHINE PO
 INSERT INTO `anilist_chinese` VALUES (140754,'{\"title\":{\"chinese\":\"第二次被異世界召喚\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (140788,'{\"title\":{\"chinese\":\"対魔忍不知火～淫欲の奴隷娼婦～\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (140830,'{\"title\":{\"chinese\":\"BIRDIE WING: Golf Girls\' Story\"},\"synonyms_chinese\":[\"小鳥之翼\"]}');
+INSERT INTO `anilist_chinese` VALUES (140842,'{\"title\":{\"chinese\":\"Chiikawa\"},\"synonyms_chinese\":[\"吉伊卡哇\"]}');
 INSERT INTO `anilist_chinese` VALUES (140883,'{\"title\":{\"chinese\":\"エロ医師\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (140950,'{\"title\":{\"chinese\":\"Irodori Midori\"},\"synonyms_chinese\":[\"彩綠\"]}');
 INSERT INTO `anilist_chinese` VALUES (140960,'{\"title\":{\"chinese\":\"SPY×FAMILY\"},\"synonyms_chinese\":[\"SPY×FAMILY 間諜家家酒\"]}');

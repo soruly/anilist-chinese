@@ -6193,6 +6193,7 @@ const db = new Map([
 [140754,{title:"第二次被異世界召喚",synonyms:[]}],
 [140788,{title:"対魔忍不知火～淫欲の奴隷娼婦～",synonyms:[]}],
 [140830,{title:"BIRDIE WING: Golf Girls' Story",synonyms:["小鳥之翼"]}],
+[140842,{title:"Chiikawa",synonyms:["吉伊卡哇"]}],
 [140883,{title:"エロ医師",synonyms:[]}],
 [140950,{title:"Irodori Midori",synonyms:["彩綠"]}],
 [140960,{title:"SPY×FAMILY",synonyms:["SPY×FAMILY 間諜家家酒"]}],
