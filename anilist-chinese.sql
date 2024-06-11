@@ -3265,6 +3265,7 @@ INSERT INTO `anilist_chinese` VALUES (20670,'{\"title\":{\"chinese\":\"黑執事
 INSERT INTO `anilist_chinese` VALUES (20671,'{\"title\":{\"chinese\":\"Log Horizon 2\"},\"synonyms_chinese\":[\"記錄的地平線 2\"]}');
 INSERT INTO `anilist_chinese` VALUES (20672,'{\"title\":{\"chinese\":\"天體運行式\"},\"synonyms_chinese\":[\"天體的秩序\",\"天體的方式\",\"天體的法則\"]}');
 INSERT INTO `anilist_chinese` VALUES (20673,'{\"title\":{\"chinese\":\"Control Bear [Wonder Garden]\"},\"synonyms_chinese\":[\"拔頭熊的美好世界\"]}');
+INSERT INTO `anilist_chinese` VALUES (20675,'{\"title\":{\"chinese\":\"Master of Torque\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (20677,'{\"title\":{\"chinese\":\"DRAMAtical Murder\"},\"synonyms_chinese\":[\"戲劇性謀殺\"]}');
 INSERT INTO `anilist_chinese` VALUES (20678,'{\"title\":{\"chinese\":\"新妹魔王的契約者\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (20679,'{\"title\":{\"chinese\":\"魔法科高中的劣等生 簡單易懂的魔法科！\"},\"synonyms_chinese\":[]}');
@@ -3354,6 +3355,7 @@ INSERT INTO `anilist_chinese` VALUES (20784,'{\"title\":{\"chinese\":\"Lady 寶�
 INSERT INTO `anilist_chinese` VALUES (20785,'{\"title\":{\"chinese\":\"Absolute Duo\"},\"synonyms_chinese\":[\"絕對雙刃\"]}');
 INSERT INTO `anilist_chinese` VALUES (20786,'{\"title\":{\"chinese\":\"Appleseed α\"},\"synonyms_chinese\":[\"蘋果核戰記 α\",\"蘋果核戰 α\"]}');
 INSERT INTO `anilist_chinese` VALUES (20787,'{\"title\":{\"chinese\":\"Chain Chronicle OVA\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (20788,'{\"title\":{\"chinese\":\"Master of Torque 2\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (20789,'{\"title\":{\"chinese\":\"七大罪\"},\"synonyms_chinese\":[\"七原罪\",\"七宗罪\"]}');
 INSERT INTO `anilist_chinese` VALUES (20790,'{\"title\":{\"chinese\":\"魔術快斗1412\"},\"synonyms_chinese\":[\"神偷怪盜1412\",\"怪盜基德1412\"]}');
 INSERT INTO `anilist_chinese` VALUES (20791,'{\"title\":{\"chinese\":\"Fate/stay night [Heaven\'s Feel] I. presage flower\"},\"synonyms_chinese\":[\"Fate/stay night [Heaven\'s Feel] I. 預示之花\"]}');
@@ -4970,6 +4972,8 @@ INSERT INTO `anilist_chinese` VALUES (102005,'{\"title\":{\"chinese\":\"未來�
 INSERT INTO `anilist_chinese` VALUES (102064,'{\"title\":{\"chinese\":\"八十龜醬觀察日記\"},\"synonyms_chinese\":[\"八十龜觀察日記\"]}');
 INSERT INTO `anilist_chinese` VALUES (102090,'{\"title\":{\"chinese\":\"輕鬆百合，\"},\"synonyms_chinese\":[\"搖曳百合，\"]}');
 INSERT INTO `anilist_chinese` VALUES (102093,'{\"title\":{\"chinese\":\"劇場版 黑子的籃球 Winter Cup 總集篇 ～影與光～\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (102101,'{\"title\":{\"chinese\":\"Master of Torque 3\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (102102,'{\"title\":{\"chinese\":\"Master of Torque Epilogue\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (102313,'{\"title\":{\"chinese\":\"はさんであげる♡\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (102346,'{\"title\":{\"chinese\":\"K SEVEN STORIES SIDE：BLUE ～猶如天狼～\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (102347,'{\"title\":{\"chinese\":\"K SEVEN STORIES SIDE：GREEN ～覆寫世界～\"},\"synonyms_chinese\":[]}');

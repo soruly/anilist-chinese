@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2024.5.29
+// @version      2.2024.6.11
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -3244,6 +3244,7 @@ var database = [
 {id:20671,title:"Log Horizon 2"},
 {id:20672,title:"天體運行式"},
 {id:20673,title:"Control Bear [Wonder Garden]"},
+{id:20675,title:"Master of Torque"},
 {id:20677,title:"DRAMAtical Murder"},
 {id:20678,title:"新妹魔王的契約者"},
 {id:20679,title:"魔法科高中的劣等生 簡單易懂的魔法科！"},
@@ -3333,6 +3334,7 @@ var database = [
 {id:20785,title:"Absolute Duo"},
 {id:20786,title:"Appleseed α"},
 {id:20787,title:"Chain Chronicle OVA"},
+{id:20788,title:"Master of Torque 2"},
 {id:20789,title:"七大罪"},
 {id:20790,title:"魔術快斗1412"},
 {id:20791,title:"Fate/stay night [Heaven's Feel] I. presage flower"},
@@ -4949,6 +4951,8 @@ var database = [
 {id:102064,title:"八十龜醬觀察日記"},
 {id:102090,title:"輕鬆百合，"},
 {id:102093,title:"劇場版 黑子的籃球 Winter Cup 總集篇 ～影與光～"},
+{id:102101,title:"Master of Torque 3"},
+{id:102102,title:"Master of Torque Epilogue"},
 {id:102313,title:"はさんであげる♡"},
 {id:102346,title:"K SEVEN STORIES SIDE：BLUE ～猶如天狼～"},
 {id:102347,title:"K SEVEN STORIES SIDE：GREEN ～覆寫世界～"},
