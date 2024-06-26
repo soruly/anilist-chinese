@@ -6735,9 +6735,11 @@ INSERT INTO `anilist_chinese` VALUES (166461,'{\"title\":{\"chinese\":\"子作�
 INSERT INTO `anilist_chinese` VALUES (166493,'{\"title\":{\"chinese\":\"ナイトテール\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (166522,'{\"title\":{\"chinese\":\"公主殿下，「拷問」的時間到了\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (166523,'{\"title\":{\"chinese\":\"絆的 Allele 第二季\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (166531,'{\"title\":{\"chinese\":\"【我推的孩子】第二季\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (166532,'{\"title\":{\"chinese\":\"THE iDOLM@STER Cinderella Girls: U149 OVA\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (166609,'{\"title\":{\"chinese\":\"純情デカメロン\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (166610,'{\"title\":{\"chinese\":\"肌肉魔法使-MASHLE- 神覺者候補選拔試驗篇\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (166710,'{\"title\":{\"chinese\":\"異世界 Suicide Squad\"},\"synonyms_chinese\":[\"異世界自殺突擊隊\"]}');
 INSERT INTO `anilist_chinese` VALUES (166715,'{\"title\":{\"chinese\":\"黑執事 寄宿學校篇\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (166794,'{\"title\":{\"chinese\":\"指尖相觸，戀戀不捨\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (166828,'{\"title\":{\"chinese\":\"怪人的沙拉碗\"},\"synonyms_chinese\":[]}');
@@ -6806,6 +6808,7 @@ INSERT INTO `anilist_chinese` VALUES (171144,'{\"title\":{\"chinese\":\"明治�
 INSERT INTO `anilist_chinese` VALUES (171291,'{\"title\":{\"chinese\":\"Trapezium\"},\"synonyms_chinese\":[\"成為星星的少女\"]}');
 INSERT INTO `anilist_chinese` VALUES (171395,'{\"title\":{\"chinese\":\"断れない母\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (171397,'{\"title\":{\"chinese\":\"NocturnaL\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (171748,'{\"title\":{\"chinese\":\"SHY 第二季\"},\"synonyms_chinese\":[\"SHY 靦腆英雄 第二季\"]}');
 INSERT INTO `anilist_chinese` VALUES (172187,'{\"title\":{\"chinese\":\"Shadowverse Flame: Arc 編\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (172242,'{\"title\":{\"chinese\":\"Love Live！虹咲學園 學園偶像同好會 短篇動畫 第二季\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (172395,'{\"title\":{\"chinese\":\"新幹線變形機器人 Change the world\"},\"synonyms_chinese\":[]}');
@@ -6821,6 +6824,7 @@ INSERT INTO `anilist_chinese` VALUES (174187,'{\"title\":{\"chinese\":\"雌吹 T
 INSERT INTO `anilist_chinese` VALUES (174633,'{\"title\":{\"chinese\":\"みだれうち\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (174653,'{\"title\":{\"chinese\":\"喧嘩獨學\"},\"synonyms_chinese\":[\"格鬥實況\"]}');
 INSERT INTO `anilist_chinese` VALUES (174788,'{\"title\":{\"chinese\":\"Look Back\"},\"synonyms_chinese\":[\"驀然回首\"]}');
+INSERT INTO `anilist_chinese` VALUES (175450,'{\"title\":{\"chinese\":\"我的妻子不具感情\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (175642,'{\"title\":{\"chinese\":\"SAND LAND: THE SERIES\"},\"synonyms_chinese\":[]}');
 /*!40000 ALTER TABLE `anilist_chinese` ENABLE KEYS */;
 UNLOCK TABLES;

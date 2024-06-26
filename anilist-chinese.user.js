@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2024.6.11
+// @version      2.2024.6.26
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -6714,9 +6714,11 @@ var database = [
 {id:166493,title:"ナイトテール"},
 {id:166522,title:"公主殿下，「拷問」的時間到了"},
 {id:166523,title:"絆的 Allele 第二季"},
+{id:166531,title:"【我推的孩子】第二季"},
 {id:166532,title:"THE iDOLM@STER Cinderella Girls: U149 OVA"},
 {id:166609,title:"純情デカメロン"},
 {id:166610,title:"肌肉魔法使-MASHLE- 神覺者候補選拔試驗篇"},
+{id:166710,title:"異世界 Suicide Squad"},
 {id:166715,title:"黑執事 寄宿學校篇"},
 {id:166794,title:"指尖相觸，戀戀不捨"},
 {id:166828,title:"怪人的沙拉碗"},
@@ -6785,6 +6787,7 @@ var database = [
 {id:171291,title:"Trapezium"},
 {id:171395,title:"断れない母"},
 {id:171397,title:"NocturnaL"},
+{id:171748,title:"SHY 第二季"},
 {id:172187,title:"Shadowverse Flame: Arc 編"},
 {id:172242,title:"Love Live！虹咲學園 學園偶像同好會 短篇動畫 第二季"},
 {id:172395,title:"新幹線變形機器人 Change the world"},
@@ -6800,6 +6803,7 @@ var database = [
 {id:174633,title:"みだれうち"},
 {id:174653,title:"喧嘩獨學"},
 {id:174788,title:"Look Back"},
+{id:175450,title:"我的妻子不具感情"},
 {id:175642,title:"SAND LAND: THE SERIES"}
 ];
 

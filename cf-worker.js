@@ -6698,9 +6698,11 @@ const db = new Map([
 [166493,{title:"ナイトテール",synonyms:[]}],
 [166522,{title:"公主殿下，「拷問」的時間到了",synonyms:[]}],
 [166523,{title:"絆的 Allele 第二季",synonyms:[]}],
+[166531,{title:"【我推的孩子】第二季",synonyms:[]}],
 [166532,{title:"THE iDOLM@STER Cinderella Girls: U149 OVA",synonyms:[]}],
 [166609,{title:"純情デカメロン",synonyms:[]}],
 [166610,{title:"肌肉魔法使-MASHLE- 神覺者候補選拔試驗篇",synonyms:[]}],
+[166710,{title:"異世界 Suicide Squad",synonyms:["異世界自殺突擊隊"]}],
 [166715,{title:"黑執事 寄宿學校篇",synonyms:[]}],
 [166794,{title:"指尖相觸，戀戀不捨",synonyms:[]}],
 [166828,{title:"怪人的沙拉碗",synonyms:[]}],
@@ -6769,6 +6771,7 @@ const db = new Map([
 [171291,{title:"Trapezium",synonyms:["成為星星的少女"]}],
 [171395,{title:"断れない母",synonyms:[]}],
 [171397,{title:"NocturnaL",synonyms:[]}],
+[171748,{title:"SHY 第二季",synonyms:["SHY 靦腆英雄 第二季"]}],
 [172187,{title:"Shadowverse Flame: Arc 編",synonyms:[]}],
 [172242,{title:"Love Live！虹咲學園 學園偶像同好會 短篇動畫 第二季",synonyms:[]}],
 [172395,{title:"新幹線變形機器人 Change the world",synonyms:[]}],
@@ -6784,6 +6787,7 @@ const db = new Map([
 [174633,{title:"みだれうち",synonyms:[]}],
 [174653,{title:"喧嘩獨學",synonyms:["格鬥實況"]}],
 [174788,{title:"Look Back",synonyms:["驀然回首"]}],
+[175450,{title:"我的妻子不具感情",synonyms:[]}],
 [175642,{title:"SAND LAND: THE SERIES",synonyms:[]}]
 ]);
 
