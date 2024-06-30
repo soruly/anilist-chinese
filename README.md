@@ -64,7 +64,7 @@ await fetch("https://trace.moe/anilist/", {
 
 API 的格式跟官方的 [Anilist APIv2](https://github.com/AniList/ApiV2-GraphQL-Docs) 完全一樣，只需要把 API URL 改用 https://trace.moe/anilist/ 就可
 
-只要你的 API 回應裡含有 "title" 或 "synonmys" ，它就會把找到的中文的標題加插入去。注意，你的 API 回應裡必需要有 "id"
+只要你的 API 回應裡含有 "title" 或 "synonyms" ，它就會把找到的中文的標題加插入去。注意，你的 API 回應裡必需要有 "id"
 
 ```javascript
 await fetch("https://trace.moe/anilist/", {
