@@ -6789,7 +6789,7 @@ INSERT INTO `anilist_chinese` VALUES (167474,'{\"title\":{\"chinese\":\"魔法�
 INSERT INTO `anilist_chinese` VALUES (167486,'{\"title\":{\"chinese\":\"我的幸福婚約 OVA\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (167820,'{\"title\":{\"chinese\":\"GOOD NIGHT WORLD\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (167927,'{\"title\":{\"chinese\":\"失憶投捕\"},\"synonyms_chinese\":[]}');
-INSERT INTO `anilist_chinese` VALUES (167984,'{\"title\":{\"chinese\":\"大室家\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (167984,'{\"title\":{\"chinese\":\"大室家 dear sisters\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (167991,'{\"title\":{\"chinese\":\"Delicos・Nursery\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (168013,'{\"title\":{\"chinese\":\"我的英雄學院 THE MOVIE YOU\'RE NEXT\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (168138,'{\"title\":{\"chinese\":\"老夫老妻重返青春\"},\"synonyms_chinese\":[]}');
@@ -6866,6 +6866,7 @@ INSERT INTO `anilist_chinese` VALUES (172964,'{\"title\":{\"chinese\":\"雀魂 �
 INSERT INTO `anilist_chinese` VALUES (173240,'{\"title\":{\"chinese\":\"明明只是個煙霧彈配角，卻得到完美王子的寵愛。\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (173295,'{\"title\":{\"chinese\":\"小市民系列\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (173388,'{\"title\":{\"chinese\":\"精靈小姐瘦不了\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (173489,'{\"title\":{\"chinese\":\"よあそびぐらしっ！\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (173533,'{\"title\":{\"chinese\":\"物語系列 Off & Monster Season\"},\"synonyms_chinese\":[\"物語系列 番外＆怪物季\"]}');
 INSERT INTO `anilist_chinese` VALUES (173584,'{\"title\":{\"chinese\":\"魔王軍最強的魔術師是人類\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (173694,'{\"title\":{\"chinese\":\"靠廢柴技能【狀態異常】成為最強的我將蹂躪一切\"},\"synonyms_chinese\":[]}');

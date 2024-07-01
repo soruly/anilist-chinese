@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2024.6.26
+// @version      2.2024.7.1
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -6768,7 +6768,7 @@ var database = [
 {id:167486,title:"我的幸福婚約 OVA"},
 {id:167820,title:"GOOD NIGHT WORLD"},
 {id:167927,title:"失憶投捕"},
-{id:167984,title:"大室家"},
+{id:167984,title:"大室家 dear sisters"},
 {id:167991,title:"Delicos・Nursery"},
 {id:168013,title:"我的英雄學院 THE MOVIE YOU'RE NEXT"},
 {id:168138,title:"老夫老妻重返青春"},
@@ -6845,6 +6845,7 @@ var database = [
 {id:173240,title:"明明只是個煙霧彈配角，卻得到完美王子的寵愛。"},
 {id:173295,title:"小市民系列"},
 {id:173388,title:"精靈小姐瘦不了"},
+{id:173489,title:"よあそびぐらしっ！"},
 {id:173533,title:"物語系列 Off & Monster Season"},
 {id:173584,title:"魔王軍最強的魔術師是人類"},
 {id:173694,title:"靠廢柴技能【狀態異常】成為最強的我將蹂躪一切"},
