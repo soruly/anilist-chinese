@@ -6883,7 +6883,10 @@ INSERT INTO `anilist_chinese` VALUES (174633,'{\"title\":{\"chinese\":\"みだ�
 INSERT INTO `anilist_chinese` VALUES (174653,'{\"title\":{\"chinese\":\"喧嘩獨學\"},\"synonyms_chinese\":[\"格鬥實況\"]}');
 INSERT INTO `anilist_chinese` VALUES (174788,'{\"title\":{\"chinese\":\"Look Back\"},\"synonyms_chinese\":[\"驀然回首\"]}');
 INSERT INTO `anilist_chinese` VALUES (175120,'{\"title\":{\"chinese\":\"奇奇暑假日記\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (175248,'{\"title\":{\"chinese\":\"終末ホスピタル\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (175250,'{\"title\":{\"chinese\":\"夢獄の国のアリス\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (175450,'{\"title\":{\"chinese\":\"我的妻子不具感情\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (175499,'{\"title\":{\"chinese\":\"巨乳女士官・洗脳催眠\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (175573,'{\"title\":{\"chinese\":\"銀魂劇場版 一國傾城篇\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (175642,'{\"title\":{\"chinese\":\"SAND LAND: THE SERIES\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (175868,'{\"title\":{\"chinese\":\"天穗之咲稻姬\"},\"synonyms_chinese\":[]}');
