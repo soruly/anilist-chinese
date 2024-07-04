@@ -6900,6 +6900,7 @@ INSERT INTO `anilist_chinese` VALUES (176660,'{\"title\":{\"chinese\":\"戰國�
 INSERT INTO `anilist_chinese` VALUES (177007,'{\"title\":{\"chinese\":\"Yuru Camp△ SEASON 3 OVA\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (177097,'{\"title\":{\"chinese\":\"EGUMI LEGACY\"},\"synonyms_chinese\":[\"哎咕島消失的舔甜歌姬\"]}');
 INSERT INTO `anilist_chinese` VALUES (177680,'{\"title\":{\"chinese\":\"刀劍亂舞 迴 電影新作\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (177697,'{\"title\":{\"chinese\":\"DEAD DEAD DEMONS DEDEDEDE DESTRUCTION\"},\"synonyms_chinese\":[\"DDDD 惡魔的破壞\"]}');
 INSERT INTO `anilist_chinese` VALUES (177879,'{\"title\":{\"chinese\":\"0歳兒 Start Dash 物語\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (177922,'{\"title\":{\"chinese\":\"闇芝居 13\"},\"synonyms_chinese\":[]}');
 /*!40000 ALTER TABLE `anilist_chinese` ENABLE KEYS */;

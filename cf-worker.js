@@ -6862,6 +6862,7 @@ const db = new Map([
 [177007,{title:"Yuru Camp△ SEASON 3 OVA",synonyms:[]}],
 [177097,{title:"EGUMI LEGACY",synonyms:["哎咕島消失的舔甜歌姬"]}],
 [177680,{title:"刀劍亂舞 迴 電影新作",synonyms:[]}],
+[177697,{title:"DEAD DEAD DEMONS DEDEDEDE DESTRUCTION",synonyms:["DDDD 惡魔的破壞"]}],
 [177879,{title:"0歳兒 Start Dash 物語",synonyms:[]}],
 [177922,{title:"闇芝居 13",synonyms:[]}]
 ]);

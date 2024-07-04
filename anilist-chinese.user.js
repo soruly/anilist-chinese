@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2024.7.1
+// @version      2.2024.7.4
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -6878,6 +6878,7 @@ var database = [
 {id:177007,title:"Yuru Camp△ SEASON 3 OVA"},
 {id:177097,title:"EGUMI LEGACY"},
 {id:177680,title:"刀劍亂舞 迴 電影新作"},
+{id:177697,title:"DEAD DEAD DEMONS DEDEDEDE DESTRUCTION"},
 {id:177879,title:"0歳兒 Start Dash 物語"},
 {id:177922,title:"闇芝居 13"}
 ];
