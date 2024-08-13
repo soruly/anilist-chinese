@@ -6613,7 +6613,7 @@ INSERT INTO `anilist_chinese` VALUES (158709,'{\"title\":{\"chinese\":\"Unnamed 
 INSERT INTO `anilist_chinese` VALUES (158791,'{\"title\":{\"chinese\":\"烈焰先鋒 救國的橘衣消防員\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (158871,'{\"title\":{\"chinese\":\"Pocket Monsters (2023)\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (158895,'{\"title\":{\"chinese\":\"Arknights 冬隱歸路\"},\"synonyms_chinese\":[\"明日方舟：冬隱歸路\"]}');
-INSERT INTO `anilist_chinese` VALUES (158896,'{\"title\":{\"chinese\":\"SAND LAND\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (158896,'{\"title\":{\"chinese\":\"SAND LAND\"},\"synonyms_chinese\":[\"沙漠大冒險\"]}');
 INSERT INTO `anilist_chinese` VALUES (158898,'{\"title\":{\"chinese\":\"夜櫻家大作戰\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (158926,'{\"title\":{\"chinese\":\"鴨乃橋論的禁忌推理\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (158927,'{\"title\":{\"chinese\":\"SPY×FAMILY 2\"},\"synonyms_chinese\":[\"SPY×FAMILY 間諜家家酒 第二季\"]}');
@@ -6889,7 +6889,7 @@ INSERT INTO `anilist_chinese` VALUES (175250,'{\"title\":{\"chinese\":\"夢獄�
 INSERT INTO `anilist_chinese` VALUES (175450,'{\"title\":{\"chinese\":\"我的妻子不具感情\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (175499,'{\"title\":{\"chinese\":\"巨乳女士官・洗脳催眠\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (175573,'{\"title\":{\"chinese\":\"銀魂劇場版 一國傾城篇\"},\"synonyms_chinese\":[]}');
-INSERT INTO `anilist_chinese` VALUES (175642,'{\"title\":{\"chinese\":\"SAND LAND: THE SERIES\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (175642,'{\"title\":{\"chinese\":\"SAND LAND: THE SERIES\"},\"synonyms_chinese\":[\"沙漠大冒險\"]}');
 INSERT INTO `anilist_chinese` VALUES (175868,'{\"title\":{\"chinese\":\"天穗之咲稻姬\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (175977,'{\"title\":{\"chinese\":\"鹿乃子乃子乃子虎視眈眈\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (176275,'{\"title\":{\"chinese\":\"KING OF PRISM -Dramatic PRISM.1-\"},\"synonyms_chinese\":[]}');
