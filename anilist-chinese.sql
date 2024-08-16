@@ -1,9 +1,9 @@
-/*!999999\- enable the sandbox mode */ 
--- MariaDB dump 10.19-11.4.2-MariaDB, for debian-linux-gnu (x86_64)
+/*M!999999\- enable the sandbox mode */ 
+-- MariaDB dump 10.19-11.5.2-MariaDB, for debian-linux-gnu (x86_64)
 --
 -- Host: localhost    Database: anime
 -- ------------------------------------------------------
--- Server version	11.4.2-MariaDB-ubu2404
+-- Server version	11.5.2-MariaDB-ubu2404
 
 /*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
 /*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
