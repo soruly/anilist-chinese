@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2024.7.4
+// @version      2.2024.9.14
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -6526,6 +6526,7 @@ var database = [
 {id:155068,title:"魔術士歐菲 流浪之旅 阿邦拉馬篇"},
 {id:155070,title:"可愛過頭大危機"},
 {id:155089,title:"阿爾斯的巨獸"},
+{id:155154,title:"妻を同窓会にいかせたら"},
 {id:155158,title:"機動戰士Gundam 水星的魔女 第二季"},
 {id:155168,title:"打工吧！魔王大人！！第二季"},
 {id:155169,title:"露出系魔法女子大生クリスティア"},
@@ -6877,8 +6878,11 @@ var database = [
 {id:176660,title:"戰國妖狐 千魔混沌編​"},
 {id:177007,title:"Yuru Camp△ SEASON 3 OVA"},
 {id:177097,title:"EGUMI LEGACY"},
+{id:177149,title:"バブルdeハウスde〇〇〇 〜お風呂メーカーのショールームがシェアハウスで…〜 The Animation"},
 {id:177680,title:"刀劍亂舞 迴 電影新作"},
 {id:177697,title:"DEAD DEAD DEMONS DEDEDEDE DESTRUCTION"},
+{id:177707,title:"リジネッタさんの冒険"},
+{id:177789,title:"いまりあ"},
 {id:177879,title:"0歳兒 Start Dash 物語"},
 {id:177922,title:"闇芝居 13"}
 ];

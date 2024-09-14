@@ -6548,6 +6548,7 @@ INSERT INTO `anilist_chinese` VALUES (155015,'{\"title\":{\"chinese\":\"鬼武�
 INSERT INTO `anilist_chinese` VALUES (155068,'{\"title\":{\"chinese\":\"魔術士歐菲 流浪之旅 阿邦拉馬篇\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (155070,'{\"title\":{\"chinese\":\"可愛過頭大危機\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (155089,'{\"title\":{\"chinese\":\"阿爾斯的巨獸\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (155154,'{\"title\":{\"chinese\":\"妻を同窓会にいかせたら\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (155158,'{\"title\":{\"chinese\":\"機動戰士Gundam 水星的魔女 第二季\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (155168,'{\"title\":{\"chinese\":\"打工吧！魔王大人！！第二季\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (155169,'{\"title\":{\"chinese\":\"露出系魔法女子大生クリスティア\"},\"synonyms_chinese\":[]}');
@@ -6899,8 +6900,11 @@ INSERT INTO `anilist_chinese` VALUES (176319,'{\"title\":{\"chinese\":\"劇場�
 INSERT INTO `anilist_chinese` VALUES (176660,'{\"title\":{\"chinese\":\"戰國妖狐 千魔混沌編​\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (177007,'{\"title\":{\"chinese\":\"Yuru Camp△ SEASON 3 OVA\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (177097,'{\"title\":{\"chinese\":\"EGUMI LEGACY\"},\"synonyms_chinese\":[\"哎咕島消失的舔甜歌姬\"]}');
+INSERT INTO `anilist_chinese` VALUES (177149,'{\"title\":{\"chinese\":\"バブルdeハウスde〇〇〇 〜お風呂メーカーのショールームがシェアハウスで…〜 The Animation\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (177680,'{\"title\":{\"chinese\":\"刀劍亂舞 迴 電影新作\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (177697,'{\"title\":{\"chinese\":\"DEAD DEAD DEMONS DEDEDEDE DESTRUCTION\"},\"synonyms_chinese\":[\"DDDD 惡魔的破壞\"]}');
+INSERT INTO `anilist_chinese` VALUES (177707,'{\"title\":{\"chinese\":\"リジネッタさんの冒険\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (177789,'{\"title\":{\"chinese\":\"いまりあ\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (177879,'{\"title\":{\"chinese\":\"0歳兒 Start Dash 物語\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (177922,'{\"title\":{\"chinese\":\"闇芝居 13\"},\"synonyms_chinese\":[]}');
 /*!40000 ALTER TABLE `anilist_chinese` ENABLE KEYS */;

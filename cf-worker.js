@@ -6510,6 +6510,7 @@ const db = new Map([
 [155068,{title:"魔術士歐菲 流浪之旅 阿邦拉馬篇",synonyms:[]}],
 [155070,{title:"可愛過頭大危機",synonyms:[]}],
 [155089,{title:"阿爾斯的巨獸",synonyms:[]}],
+[155154,{title:"妻を同窓会にいかせたら",synonyms:[]}],
 [155158,{title:"機動戰士Gundam 水星的魔女 第二季",synonyms:[]}],
 [155168,{title:"打工吧！魔王大人！！第二季",synonyms:[]}],
 [155169,{title:"露出系魔法女子大生クリスティア",synonyms:[]}],
@@ -6861,8 +6862,11 @@ const db = new Map([
 [176660,{title:"戰國妖狐 千魔混沌編​",synonyms:[]}],
 [177007,{title:"Yuru Camp△ SEASON 3 OVA",synonyms:[]}],
 [177097,{title:"EGUMI LEGACY",synonyms:["哎咕島消失的舔甜歌姬"]}],
+[177149,{title:"バブルdeハウスde〇〇〇 〜お風呂メーカーのショールームがシェアハウスで…〜 The Animation",synonyms:[]}],
 [177680,{title:"刀劍亂舞 迴 電影新作",synonyms:[]}],
 [177697,{title:"DEAD DEAD DEMONS DEDEDEDE DESTRUCTION",synonyms:["DDDD 惡魔的破壞"]}],
+[177707,{title:"リジネッタさんの冒険",synonyms:[]}],
+[177789,{title:"いまりあ",synonyms:[]}],
 [177879,{title:"0歳兒 Start Dash 物語",synonyms:[]}],
 [177922,{title:"闇芝居 13",synonyms:[]}]
 ]);
