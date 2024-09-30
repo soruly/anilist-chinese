@@ -5410,6 +5410,7 @@ const db = new Map([
 [111188,{title:"素晴らしき国家の築き方",synonyms:[]}],
 [111305,{title:"世界第一初戀 ~求婚篇~",synonyms:[]}],
 [111310,{title:"Mewkledreamy",synonyms:["夢夢貓"]}],
+[111314,{title:"漩渦",synonyms:[]}],
 [111319,{title:"アイベヤ THE ANIMATION",synonyms:[]}],
 [111320,{title:"ラブホリック～魅惑の乙女と白濁カンケイ～ THE ANIMATION",synonyms:[]}],
 [111321,{title:"盾之勇者成名錄 第二季",synonyms:[]}],

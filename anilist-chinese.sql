@@ -5448,6 +5448,7 @@ INSERT INTO `anilist_chinese` VALUES (111145,'{\"title\":{\"chinese\":\"A3! SEAS
 INSERT INTO `anilist_chinese` VALUES (111188,'{\"title\":{\"chinese\":\"素晴らしき国家の築き方\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (111305,'{\"title\":{\"chinese\":\"世界第一初戀 ~求婚篇~\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (111310,'{\"title\":{\"chinese\":\"Mewkledreamy\"},\"synonyms_chinese\":[\"夢夢貓\"]}');
+INSERT INTO `anilist_chinese` VALUES (111314,'{\"title\":{\"chinese\":\"漩渦\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (111319,'{\"title\":{\"chinese\":\"アイベヤ THE ANIMATION\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (111320,'{\"title\":{\"chinese\":\"ラブホリック～魅惑の乙女と白濁カンケイ～ THE ANIMATION\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (111321,'{\"title\":{\"chinese\":\"盾之勇者成名錄 第二季\"},\"synonyms_chinese\":[]}');
