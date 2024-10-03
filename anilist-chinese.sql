@@ -6970,7 +6970,7 @@ INSERT INTO `anilist_chinese` VALUES (177922,'{\"title\":{\"chinese\":\"闇芝�
 INSERT INTO `anilist_chinese` VALUES (178434,'{\"title\":{\"chinese\":\"轉生貴族憑鑑定技能扭轉人生 第二季\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (178533,'{\"title\":{\"chinese\":\"亂馬 ½\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (178729,'{\"title\":{\"chinese\":\"蜻蛉高球 第二季\"},\"synonyms_chinese\":[]}');
-INSERT INTO `anilist_chinese` VALUES (179919,'{\"title\":{\"chinese\":\"Negative Positive Angler\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (179919,'{\"title\":{\"chinese\":\"Negative Positive Angler\"},\"synonyms_chinese\":[\"悲喜漁生\"]}');
 INSERT INTO `anilist_chinese` VALUES (180599,'{\"title\":{\"chinese\":\"香蕉喵 Around the World\"},\"synonyms_chinese\":[]}');
 /*!40000 ALTER TABLE `anilist_chinese` ENABLE KEYS */;
 UNLOCK TABLES;

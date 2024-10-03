@@ -6932,7 +6932,7 @@ const db = new Map([
 [178434,{title:"轉生貴族憑鑑定技能扭轉人生 第二季",synonyms:[]}],
 [178533,{title:"亂馬 ½",synonyms:[]}],
 [178729,{title:"蜻蛉高球 第二季",synonyms:[]}],
-[179919,{title:"Negative Positive Angler",synonyms:[]}],
+[179919,{title:"Negative Positive Angler",synonyms:["悲喜漁生"]}],
 [180599,{title:"香蕉喵 Around the World",synonyms:[]}]
 ]);
 
