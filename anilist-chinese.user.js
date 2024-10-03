@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2024.9.30
+// @version      2.2024.10.3
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -6434,6 +6434,7 @@ var database = [
 {id:150957,title:"江戶前精靈"},
 {id:150970,title:"Cardfight!! Vanguard will+Dress Season 3"},
 {id:150972,title:"白聖女與黑牧師"},
+{id:151017,title:"Garden of Remembrance"},
 {id:151018,title:"妻ネトリ3～快楽に堕ちた淫汁教師たち～"},
 {id:151040,title:"Trigun Stampede"},
 {id:151072,title:"委員長は催眠アプリを信じてる。"},

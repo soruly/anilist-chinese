@@ -6456,6 +6456,7 @@ INSERT INTO `anilist_chinese` VALUES (150909,'{\"title\":{\"chinese\":\"5億年�
 INSERT INTO `anilist_chinese` VALUES (150957,'{\"title\":{\"chinese\":\"江戶前精靈\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (150970,'{\"title\":{\"chinese\":\"Cardfight!! Vanguard will+Dress Season 3\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (150972,'{\"title\":{\"chinese\":\"白聖女與黑牧師\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (151017,'{\"title\":{\"chinese\":\"Garden of Remembrance\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (151018,'{\"title\":{\"chinese\":\"妻ネトリ3～快楽に堕ちた淫汁教師たち～\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (151040,'{\"title\":{\"chinese\":\"Trigun Stampede\"},\"synonyms_chinese\":[\"槍神 STAMPEDE\"]}');
 INSERT INTO `anilist_chinese` VALUES (151072,'{\"title\":{\"chinese\":\"委員長は催眠アプリを信じてる。\"},\"synonyms_chinese\":[]}');
