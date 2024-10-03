@@ -6932,6 +6932,7 @@ INSERT INTO `anilist_chinese` VALUES (174383,'{\"title\":{\"chinese\":\"大室�
 INSERT INTO `anilist_chinese` VALUES (174390,'{\"title\":{\"chinese\":\"殿下與狗\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (174576,'{\"title\":{\"chinese\":\"杖與劍的魔劍譚\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (174633,'{\"title\":{\"chinese\":\"みだれうち\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (174634,'{\"title\":{\"chinese\":\"セックスが好きで好きで大好きなクラスメイトのあの娘\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (174653,'{\"title\":{\"chinese\":\"喧嘩獨學\"},\"synonyms_chinese\":[\"格鬥實況\"]}');
 INSERT INTO `anilist_chinese` VALUES (174788,'{\"title\":{\"chinese\":\"Look Back\"},\"synonyms_chinese\":[\"驀然回首\"]}');
 INSERT INTO `anilist_chinese` VALUES (174913,'{\"title\":{\"chinese\":\"科學×冒險生存！\"},\"synonyms_chinese\":[]}');
@@ -6957,6 +6958,7 @@ INSERT INTO `anilist_chinese` VALUES (176311,'{\"title\":{\"chinese\":\"青之�
 INSERT INTO `anilist_chinese` VALUES (176319,'{\"title\":{\"chinese\":\"劇場版 草莓王子\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (176508,'{\"title\":{\"chinese\":\"香格里拉・開拓異境～糞作獵手挑戰神作～ 第二季\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (176660,'{\"title\":{\"chinese\":\"戰國妖狐 千魔混沌編​\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (176907,'{\"title\":{\"chinese\":\"糸を撚る\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (177007,'{\"title\":{\"chinese\":\"Yuru Camp△ SEASON 3 OVA\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (177097,'{\"title\":{\"chinese\":\"EGUMI LEGACY\"},\"synonyms_chinese\":[\"哎咕島消失的舔甜歌姬\"]}');
 INSERT INTO `anilist_chinese` VALUES (177104,'{\"title\":{\"chinese\":\"最狂輔助職業【話術士】世界最強戰團聽我號令\"},\"synonyms_chinese\":[]}');
@@ -6966,11 +6968,14 @@ INSERT INTO `anilist_chinese` VALUES (177680,'{\"title\":{\"chinese\":\"刀劍�
 INSERT INTO `anilist_chinese` VALUES (177697,'{\"title\":{\"chinese\":\"DEAD DEAD DEMONS DEDEDEDE DESTRUCTION\"},\"synonyms_chinese\":[\"DDDD 惡魔的破壞\"]}');
 INSERT INTO `anilist_chinese` VALUES (177707,'{\"title\":{\"chinese\":\"リジネッタさんの冒険\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (177789,'{\"title\":{\"chinese\":\"いまりあ\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (177856,'{\"title\":{\"chinese\":\"少年が大人になった夏\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (177879,'{\"title\":{\"chinese\":\"0歳兒 Start Dash 物語\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (177922,'{\"title\":{\"chinese\":\"闇芝居 13\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (178434,'{\"title\":{\"chinese\":\"轉生貴族憑鑑定技能扭轉人生 第二季\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (178533,'{\"title\":{\"chinese\":\"亂馬 ½\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (178557,'{\"title\":{\"chinese\":\"祓魔○女シャルロット\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (178729,'{\"title\":{\"chinese\":\"蜻蛉高球 第二季\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (179368,'{\"title\":{\"chinese\":\"陰キャカップルが陽ギャル達とSEXトレーニングする話\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (179919,'{\"title\":{\"chinese\":\"Negative Positive Angler\"},\"synonyms_chinese\":[\"悲喜漁生\"]}');
 INSERT INTO `anilist_chinese` VALUES (180599,'{\"title\":{\"chinese\":\"香蕉喵 Around the World\"},\"synonyms_chinese\":[]}');
 /*!40000 ALTER TABLE `anilist_chinese` ENABLE KEYS */;
