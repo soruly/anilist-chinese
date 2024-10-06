@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2024.10.3
+// @version      2.2024.10.6
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -6879,7 +6879,7 @@ var database = [
 {id:171689,title:"百姓貴族 第二季"},
 {id:171748,title:"SHY 第二季"},
 {id:172187,title:"Shadowverse Flame: Arc 編"},
-{id:172190,title:"你是女僕大人。"},
+{id:172190,title:"女僕冥土小姐"},
 {id:172199,title:"神選 第二季"},
 {id:172242,title:"Love Live！虹咲學園 學園偶像同好會 短篇動畫 第二季"},
 {id:172355,title:"鴨乃橋論的禁忌推理 第二季"},
@@ -6899,7 +6899,7 @@ var database = [
 {id:173693,title:"孤單一人的異世界攻略"},
 {id:173694,title:"靠廢柴技能【狀態異常】成為最強的我將蹂躪一切"},
 {id:173935,title:"數分間的激勵"},
-{id:174043,title:"被逐出隊伍的治癒師，其實是最強的"},
+{id:174043,title:"被逐出隊伍的治癒師，其實是最強"},
 {id:174044,title:"深夜 Punch"},
 {id:174070,title:"多數欠"},
 {id:174181,title:"サキュバス★コネクト！"},

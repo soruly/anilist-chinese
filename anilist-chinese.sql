@@ -6901,7 +6901,7 @@ INSERT INTO `anilist_chinese` VALUES (171642,'{\"title\":{\"chinese\":\"MF GHOST
 INSERT INTO `anilist_chinese` VALUES (171689,'{\"title\":{\"chinese\":\"百姓貴族 第二季\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (171748,'{\"title\":{\"chinese\":\"SHY 第二季\"},\"synonyms_chinese\":[\"SHY 靦腆英雄 第二季\"]}');
 INSERT INTO `anilist_chinese` VALUES (172187,'{\"title\":{\"chinese\":\"Shadowverse Flame: Arc 編\"},\"synonyms_chinese\":[]}');
-INSERT INTO `anilist_chinese` VALUES (172190,'{\"title\":{\"chinese\":\"你是女僕大人。\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (172190,'{\"title\":{\"chinese\":\"女僕冥土小姐\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (172199,'{\"title\":{\"chinese\":\"神選 第二季\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (172242,'{\"title\":{\"chinese\":\"Love Live！虹咲學園 學園偶像同好會 短篇動畫 第二季\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (172355,'{\"title\":{\"chinese\":\"鴨乃橋論的禁忌推理 第二季\"},\"synonyms_chinese\":[]}');
@@ -6921,7 +6921,7 @@ INSERT INTO `anilist_chinese` VALUES (173584,'{\"title\":{\"chinese\":\"魔王�
 INSERT INTO `anilist_chinese` VALUES (173693,'{\"title\":{\"chinese\":\"孤單一人的異世界攻略\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (173694,'{\"title\":{\"chinese\":\"靠廢柴技能【狀態異常】成為最強的我將蹂躪一切\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (173935,'{\"title\":{\"chinese\":\"數分間的激勵\"},\"synonyms_chinese\":[]}');
-INSERT INTO `anilist_chinese` VALUES (174043,'{\"title\":{\"chinese\":\"被逐出隊伍的治癒師，其實是最強的\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (174043,'{\"title\":{\"chinese\":\"被逐出隊伍的治癒師，其實是最強\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (174044,'{\"title\":{\"chinese\":\"深夜 Punch\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (174070,'{\"title\":{\"chinese\":\"多數欠\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (174181,'{\"title\":{\"chinese\":\"サキュバス★コネクト！\"},\"synonyms_chinese\":[]}');
