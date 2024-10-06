@@ -6955,7 +6955,8 @@ var database = [
 {id:178729,title:"蜻蛉高球 第二季"},
 {id:179368,title:"陰キャカップルが陽ギャル達とSEXトレーニングする話"},
 {id:179919,title:"Negative Positive Angler"},
-{id:180599,title:"香蕉喵 Around the World"}
+{id:180599,title:"香蕉喵 Around the World"},
+{id:180923,title:"監禁區域 Level X"}
 ];
 
 var updating;

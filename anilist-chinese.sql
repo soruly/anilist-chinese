@@ -6978,6 +6978,7 @@ INSERT INTO `anilist_chinese` VALUES (178729,'{\"title\":{\"chinese\":\"蜻蛉�
 INSERT INTO `anilist_chinese` VALUES (179368,'{\"title\":{\"chinese\":\"陰キャカップルが陽ギャル達とSEXトレーニングする話\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (179919,'{\"title\":{\"chinese\":\"Negative Positive Angler\"},\"synonyms_chinese\":[\"悲喜漁生\"]}');
 INSERT INTO `anilist_chinese` VALUES (180599,'{\"title\":{\"chinese\":\"香蕉喵 Around the World\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (180923,'{\"title\":{\"chinese\":\"監禁區域 Level X\"},\"synonyms_chinese\":[]}');
 /*!40000 ALTER TABLE `anilist_chinese` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;

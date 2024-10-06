@@ -6939,7 +6939,8 @@ const db = new Map([
 [178729,{title:"蜻蛉高球 第二季",synonyms:[]}],
 [179368,{title:"陰キャカップルが陽ギャル達とSEXトレーニングする話",synonyms:[]}],
 [179919,{title:"Negative Positive Angler",synonyms:["悲喜漁生"]}],
-[180599,{title:"香蕉喵 Around the World",synonyms:[]}]
+[180599,{title:"香蕉喵 Around the World",synonyms:[]}],
+[180923,{title:"監禁區域 Level X",synonyms:[]}]
 ]);
 
 async function handleRequest(req) {
