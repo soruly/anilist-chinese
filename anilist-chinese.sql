@@ -6975,6 +6975,7 @@ INSERT INTO `anilist_chinese` VALUES (178434,'{\"title\":{\"chinese\":\"轉生�
 INSERT INTO `anilist_chinese` VALUES (178533,'{\"title\":{\"chinese\":\"亂馬 ½\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (178557,'{\"title\":{\"chinese\":\"祓魔○女シャルロット\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (178729,'{\"title\":{\"chinese\":\"蜻蛉高球 第二季\"},\"synonyms_chinese\":[]}');
+INSERT INTO `anilist_chinese` VALUES (179126,'{\"title\":{\"chinese\":\"精靈小姐瘦不了 OVA\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (179368,'{\"title\":{\"chinese\":\"陰キャカップルが陽ギャル達とSEXトレーニングする話\"},\"synonyms_chinese\":[]}');
 INSERT INTO `anilist_chinese` VALUES (179919,'{\"title\":{\"chinese\":\"Negative Positive Angler\"},\"synonyms_chinese\":[\"悲喜漁生\"]}');
 INSERT INTO `anilist_chinese` VALUES (180599,'{\"title\":{\"chinese\":\"香蕉喵 Around the World\"},\"synonyms_chinese\":[]}');

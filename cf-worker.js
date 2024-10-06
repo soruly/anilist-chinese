@@ -6937,6 +6937,7 @@ const db = new Map([
 [178533,{title:"亂馬 ½",synonyms:[]}],
 [178557,{title:"祓魔○女シャルロット",synonyms:[]}],
 [178729,{title:"蜻蛉高球 第二季",synonyms:[]}],
+[179126,{title:"精靈小姐瘦不了 OVA",synonyms:[]}],
 [179368,{title:"陰キャカップルが陽ギャル達とSEXトレーニングする話",synonyms:[]}],
 [179919,{title:"Negative Positive Angler",synonyms:["悲喜漁生"]}],
 [180599,{title:"香蕉喵 Around the World",synonyms:[]}],
