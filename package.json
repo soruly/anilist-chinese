@@ -24,8 +24,7 @@
   },
   "homepage": "https://github.com/soruly/anilist-chinese#readme",
   "dependencies": {
-    "knex": "^3.1.0",
-    "mysql": "^2.18.1"
+    "postgres": "^3.4.4"
   },
   "devDependencies": {
     "prettier": "^3.3.3"

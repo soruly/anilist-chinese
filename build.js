@@ -1,29 +1,27 @@
 import fs from "node:fs/promises";
-import Knex from "knex";
+import postgres from "postgres";
 
 process.loadEnvFile();
-const { DB_NAME, DB_USER, DB_PASS, DB_HOST } = process.env;
+const { DB_NAME, DB_USER, DB_PASS, DB_HOST, DB_PORT } = process.env;
 
-const knex = Knex({
-  client: "mysql",
-  connection: {
-    host: DB_HOST,
-    user: DB_USER,
-    password: DB_PASS,
-    database: DB_NAME,
-  },
+const sql = postgres({
+  host: DB_HOST,
+  port: DB_PORT,
+  database: DB_NAME,
+  username: DB_USER,
+  password: DB_PASS,
 });
 
-const chineseDB = await knex("anilist_chinese").select("*");
-knex.destroy();
+const chineseDB = await sql`SELECT * FROM anilist_chinese`;
+await sql.end();
 
 await fs.writeFile(
   "anilist-chinese.json",
   JSON.stringify(
     chineseDB.map(({ id, json }) => ({
       id,
-      title: JSON.parse(json).title.chinese,
-      synonyms: JSON.parse(json).synonyms_chinese,
+      title: json.title.chinese,
+      synonyms: json.synonyms_chinese,
     })),
     null,
     2,
@@ -35,7 +33,7 @@ const jsCode = (await fs.readFile("anilist-chinese.user.template.js", "utf8")).r
   `var database = [\n${chineseDB
     .map(({ id, json }) => ({
       id,
-      title: JSON.parse(json).title.chinese,
+      title: json.title.chinese,
     }))
     .map((e) =>
       JSON.stringify(e)
@@ -68,8 +66,8 @@ await fs.writeFile(
           `[${[
             id,
             JSON.stringify({
-              title: JSON.parse(json).title.chinese,
-              synonyms: JSON.parse(json).synonyms_chinese,
+              title: json.title.chinese,
+              synonyms: json.synonyms_chinese,
             })
               .replace(/"title":/g, "title:")
               .replace(/"synonyms":/g, "synonyms:"),
