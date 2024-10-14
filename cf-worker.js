@@ -6910,7 +6910,6 @@ const db = new Map([
 [175868,{title:"天穗之咲稻姬",synonyms:[]}],
 [175977,{title:"鹿乃子乃子乃子虎視眈眈",synonyms:[]}],
 [176053,{title:"再見龍生，你好人生",synonyms:[]}],
-[176191,{title:"轉生貓咪的大叔",synonyms:[]}],
 [176245,{title:"擊浪青春",synonyms:[]}],
 [176275,{title:"KING OF PRISM -Dramatic PRISM.1-",synonyms:[]}],
 [176283,{title:"四處貼上吧！小狗 第2期",synonyms:[]}],
@@ -6944,7 +6943,8 @@ const db = new Map([
 [180923,{title:"監禁區域 Level X",synonyms:[]}],
 [177255,{title:"性欲つよつよ THE ANIMATION",synonyms:[]}],
 [176328,{title:"セフレのセンパイ THE ANIMATION",synonyms:[]}],
-[176489,{title:"夏が終わるまで 夏の終わり The Animation ",synonyms:[]}]
+[176489,{title:"夏が終わるまで 夏の終わり The Animation ",synonyms:[]}],
+[176191,{title:"轉生成貓咪的大叔",synonyms:[]}]
 ]);
 
 async function handleRequest(req) {
