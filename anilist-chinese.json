@@ -2491,6 +2491,11 @@
     "synonyms": []
   },
   {
+    "id": 906,
+    "title": "七龍珠Z 龍拳爆發",
+    "synonyms": []
+  },
+  {
     "id": 807,
     "title": "Tsubasa Chronicle 鳥籠國的公主",
     "synonyms": [
@@ -2835,11 +2840,6 @@
   {
     "id": 905,
     "title": "七龍珠Z 復活！悟空與貝吉塔的合體",
-    "synonyms": []
-  },
-  {
-    "id": 906,
-    "title": "七龍珠Z 龍拳爆發",
     "synonyms": []
   },
   {
@@ -6520,6 +6520,11 @@
     ]
   },
   {
+    "id": 3363,
+    "title": "RD 潛腦調查室",
+    "synonyms": []
+  },
+  {
     "id": 3102,
     "title": "家庭教師のおねえさん THE ANIMATION～Hの偏差値あげちゃいます～",
     "synonyms": []
@@ -6844,11 +6849,6 @@
   {
     "id": 3358,
     "title": "紅",
-    "synonyms": []
-  },
-  {
-    "id": 3363,
-    "title": "RD 潛腦調查室",
     "synonyms": []
   },
   {
@@ -11407,6 +11407,11 @@
     "synonyms": []
   },
   {
+    "id": 8675,
+    "title": "妄想學生會",
+    "synonyms": []
+  },
+  {
     "id": 8101,
     "title": "變研會 OVA",
     "synonyms": [
@@ -11737,11 +11742,6 @@
   {
     "id": 8668,
     "title": "聖痕鍊金士 SP",
-    "synonyms": []
-  },
-  {
-    "id": 8675,
-    "title": "妄想學生會",
     "synonyms": []
   },
   {
@@ -15072,6 +15072,11 @@
     "synonyms": []
   },
   {
+    "id": 15219,
+    "title": ".hack//Versus",
+    "synonyms": []
+  },
+  {
     "id": 13663,
     "title": "To LOVE-Ru Darkness",
     "synonyms": [
@@ -15404,6 +15409,11 @@
     ]
   },
   {
+    "id": 15225,
+    "title": "變態王子與不笑貓",
+    "synonyms": []
+  },
+  {
     "id": 14621,
     "title": "ストリンジェンド～エンジェルたちのプライベートレッスン～ コアMIX メガ盛り オカズですよ",
     "synonyms": []
@@ -15710,16 +15720,6 @@
   {
     "id": 15211,
     "title": "解謎公主是名偵探",
-    "synonyms": []
-  },
-  {
-    "id": 15219,
-    "title": ".hack//Versus",
-    "synonyms": []
-  },
-  {
-    "id": 15225,
-    "title": "變態王子與不笑貓",
     "synonyms": []
   },
   {
@@ -19101,6 +19101,11 @@
     "synonyms": []
   },
   {
+    "id": 20809,
+    "title": "魔彈之王與戰姬",
+    "synonyms": []
+  },
+  {
     "id": 20741,
     "title": "劇場版 Date A Live 萬由里審判",
     "synonyms": [
@@ -19439,11 +19444,6 @@
   {
     "id": 20808,
     "title": "飆速宅男Re: RIDE",
-    "synonyms": []
-  },
-  {
-    "id": 20809,
-    "title": "魔彈之王與戰姬",
     "synonyms": []
   },
   {
@@ -20776,6 +20776,11 @@
     "synonyms": []
   },
   {
+    "id": 21188,
+    "title": "最弱無敗神裝機龍",
+    "synonyms": []
+  },
+  {
     "id": 21124,
     "title": "姉キュン！ ～女子が家に来た！",
     "synonyms": []
@@ -21081,11 +21086,6 @@
     "synonyms": [
       "青年黑傑克"
     ]
-  },
-  {
-    "id": 21188,
-    "title": "最弱無敗神裝機龍",
-    "synonyms": []
   },
   {
     "id": 21189,
@@ -24960,6 +24960,11 @@
     "synonyms": []
   },
   {
+    "id": 98309,
+    "title": "ボクとみさき先生",
+    "synonyms": []
+  },
+  {
     "id": 97853,
     "title": "Mobile Suit Gundam Thunderbolt 2",
     "synonyms": [
@@ -25290,6 +25295,11 @@
     ]
   },
   {
+    "id": 98514,
+    "title": "賽馬娘Pretty Derby",
+    "synonyms": []
+  },
+  {
     "id": 97995,
     "title": "在世界盡頭詠唱戀曲的少女YU-NO",
     "synonyms": [
@@ -25609,11 +25619,6 @@
   {
     "id": 98308,
     "title": "もんむす・くえすと!",
-    "synonyms": []
-  },
-  {
-    "id": 98309,
-    "title": "ボクとみさき先生",
     "synonyms": []
   },
   {
@@ -25937,11 +25942,6 @@
   {
     "id": 98513,
     "title": "URAHARA",
-    "synonyms": []
-  },
-  {
-    "id": 98514,
-    "title": "賽馬娘Pretty Derby",
     "synonyms": []
   },
   {
@@ -27863,6 +27863,11 @@
     "synonyms": []
   },
   {
+    "id": 101313,
+    "title": "逆轉裁判 2",
+    "synonyms": []
+  },
+  {
     "id": 101043,
     "title": "星夢學園 Friends!",
     "synonyms": [
@@ -28183,11 +28188,6 @@
   {
     "id": 101310,
     "title": "寄宿學校的茱麗葉",
-    "synonyms": []
-  },
-  {
-    "id": 101313,
-    "title": "逆轉裁判 2",
     "synonyms": []
   },
   {
@@ -28842,6 +28842,11 @@
     "synonyms": []
   },
   {
+    "id": 104115,
+    "title": "放學後桌遊俱樂部",
+    "synonyms": []
+  },
+  {
     "id": 102347,
     "title": "K SEVEN STORIES SIDE：GREEN ～覆寫世界～",
     "synonyms": []
@@ -29466,11 +29471,6 @@
   {
     "id": 104103,
     "title": "軒轅劍 蒼之曜",
-    "synonyms": []
-  },
-  {
-    "id": 104115,
-    "title": "放學後桌遊俱樂部",
     "synonyms": []
   },
   {
@@ -33847,6 +33847,11 @@
     "synonyms": []
   },
   {
+    "id": 132679,
+    "title": "IDOLLAND 星光樂園",
+    "synonyms": []
+  },
+  {
     "id": 126571,
     "title": "リアルエロゲシチュエーション！2 THE ANIMATION",
     "synonyms": []
@@ -34465,6 +34470,11 @@
     "synonyms": []
   },
   {
+    "id": 138882,
+    "title": "組長女兒與保姆",
+    "synonyms": []
+  },
+  {
     "id": 130696,
     "title": "The Legend of Heroes 閃之軌跡 Northern War",
     "synonyms": [
@@ -34788,11 +34798,6 @@
   {
     "id": 132545,
     "title": "劇場版 我讓最想被擁抱的男人給威脅了 ～西班牙篇～",
-    "synonyms": []
-  },
-  {
-    "id": 132679,
-    "title": "IDOLLAND 星光樂園",
     "synonyms": []
   },
   {
@@ -35399,11 +35404,6 @@
   {
     "id": 138833,
     "title": "Abandon‐100ヌキしないと出られない不思議な教室‐",
-    "synonyms": []
-  },
-  {
-    "id": 138882,
-    "title": "組長女兒與保姆",
     "synonyms": []
   },
   {
@@ -39597,6 +39597,21 @@
   {
     "id": 180923,
     "title": "監禁區域 Level X",
+    "synonyms": []
+  },
+  {
+    "id": 177255,
+    "title": "性欲つよつよ THE ANIMATION",
+    "synonyms": []
+  },
+  {
+    "id": 176328,
+    "title": "セフレのセンパイ THE ANIMATION",
+    "synonyms": []
+  },
+  {
+    "id": 176489,
+    "title": "夏が終わるまで 夏の終わり The Animation ",
     "synonyms": []
   }
 ]
