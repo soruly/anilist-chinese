@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/soruly/anilist-chinese#readme",
   "dependencies": {
-    "postgres": "^3.4.4"
+    "postgres": "^3.4.5"
   },
   "devDependencies": {
     "prettier": "^3.3.3"
