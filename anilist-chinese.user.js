@@ -1,11 +1,12 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      2.2024.10.14
+// @version      3.2024.10.29
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
 // @include       *://anilist.co/*
+// @include       *://anichart.net/*
 
 // ==/UserScript==
 /* jshint -W097 */
@@ -6993,18 +6994,26 @@ var myDOMNodeInsertedAction = function () {
     }
   };
 
-  var batchTranslate = function (target) {
+  var batchTranslate = function (target, textTarget) {
     document.querySelectorAll(target).forEach(function (e) {
       var anilist_id = parseInt(e.href.split("/")[4]);
       var result = database.filter((e) => e.id === anilist_id)[0];
-      if (result) {
-        e.text = result.title;
-      }
+      if (!result) return;
+      if (textTarget) e.querySelector(textTarget).innerText = result.title;
+      else e.text = result.title;
     });
   };
 
   clearTimeout(updating);
   updating = setTimeout(function () {
+    if (window.location.hostname === "anichart.net") {
+      if (window.location.pathname.indexOf("/airing") === 0) {
+        batchTranslate(".airing-card > a", ".title");
+      } else {
+        batchTranslate(".media-card .overlay > a");
+      }
+      return;
+    }
     if (window.location.pathname !== url) {
       url = window.location.pathname;
       if (window.location.pathname.indexOf("/anime/") === 0) {
