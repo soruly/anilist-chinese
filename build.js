@@ -48,8 +48,8 @@ if (jsCode !== (await fs.readFile("anilist-chinese.user.cache.js", "utf8"))) {
   await fs.writeFile(
     "anilist-chinese.user.js",
     jsCode.replace(
-      "// @version      2.0",
-      `// @version      ${`2.${d.getFullYear()}.${d.getMonth() + 1}.${d.getDate()}`}`,
+      "// @version      3.0",
+      `// @version      ${`3.${d.getFullYear()}.${d.getMonth() + 1}.${d.getDate()}`}`,
     ),
   );
 } else {
