@@ -7282,13 +7282,6 @@
     "synonyms": []
   },
   {
-    "id": 3614,
-    "title": "藥師寺涼子的　怪奇事件簿",
-    "synonyms": [
-      "藥師寺涼子之　怪奇事件簿"
-    ]
-  },
-  {
     "id": 3615,
     "title": "新・安琪莉可 Abyss",
     "synonyms": []
@@ -21352,14 +21345,6 @@
     "synonyms": []
   },
   {
-    "id": 21242,
-    "title": "初戀Monster",
-    "synonyms": [
-      "初戀怪獸",
-      "初戀怪　"
-    ]
-  },
-  {
     "id": 21243,
     "title": "小森拒絕不了！",
     "synonyms": []
@@ -21724,14 +21709,6 @@
     "synonyms": []
   },
   {
-    "id": 21320,
-    "title": "Anitore! EX",
-    "synonyms": [
-      "動畫鍛煉！EX ",
-      "動畫鍛鍊！EX "
-    ]
-  },
-  {
     "id": 21321,
     "title": "少年女僕",
     "synonyms": []
@@ -21855,14 +21832,6 @@
     "id": 21345,
     "title": "Cardfight!! Vanguard G 齒輪危機篇",
     "synonyms": []
-  },
-  {
-    "id": 21348,
-    "title": "排球少年 vs 赤點",
-    "synonyms": [
-      "排球少年 vs 不及格　",
-      "排球少年 OAD"
-    ]
   },
   {
     "id": 21349,
@@ -26138,13 +26107,6 @@
     "id": 98607,
     "title": "動畫同好會",
     "synonyms": []
-  },
-  {
-    "id": 98622,
-    "title": "sin 七大罪 懺悔錄",
-    "synonyms": [
-      "sin七宗罪 懺悔錄 "
-    ]
   },
   {
     "id": 98623,
@@ -39474,11 +39436,6 @@
     "synonyms": []
   },
   {
-    "id": 176660,
-    "title": "戰國妖狐 千魔混沌編​",
-    "synonyms": []
-  },
-  {
     "id": 176907,
     "title": "糸を撚る",
     "synonyms": []
@@ -39605,13 +39562,55 @@
     "synonyms": []
   },
   {
-    "id": 176489,
-    "title": "夏が終わるまで 夏の終わり The Animation ",
+    "id": 176191,
+    "title": "轉生成貓咪的大叔",
     "synonyms": []
   },
   {
-    "id": 176191,
-    "title": "轉生成貓咪的大叔",
+    "id": 21242,
+    "title": "初戀Monster",
+    "synonyms": [
+      "初戀怪獸"
+    ]
+  },
+  {
+    "id": 21320,
+    "title": "Anitore! EX",
+    "synonyms": [
+      "動畫鍛煉！EX",
+      "動畫鍛鍊！EX"
+    ]
+  },
+  {
+    "id": 21348,
+    "title": "排球少年 vs 赤點",
+    "synonyms": [
+      "排球少年 vs 不及格",
+      "排球少年 OAD"
+    ]
+  },
+  {
+    "id": 98622,
+    "title": "sin 七大罪 懺悔錄",
+    "synonyms": [
+      "sin七宗罪 懺悔錄"
+    ]
+  },
+  {
+    "id": 176489,
+    "title": "夏が終わるまで 夏の終わり The Animation",
+    "synonyms": []
+  },
+  {
+    "id": 3614,
+    "title": "藥師寺涼子的怪奇事件簿",
+    "synonyms": [
+      "藥師寺涼子之怪奇事件簿"
+    ]
+  },
+  {
+    "id": 176660,
+    "title": "戰國妖狐 千魔混沌編",
     "synonyms": []
   }
 ]

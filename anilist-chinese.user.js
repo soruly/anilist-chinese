@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      3.2024.10.29
+// @version      3.2024.10.30
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -1276,7 +1276,6 @@ var database = [
 {id:3603,title:"JoJo的奇妙冒險 幻影血脈"},
 {id:3604,title:"向陽素描 x 365"},
 {id:3613,title:"圖書館戰爭"},
-{id:3614,title:"藥師寺涼子的　怪奇事件簿"},
 {id:3615,title:"新・安琪莉可 Abyss"},
 {id:3616,title:"假面男僕"},
 {id:3622,title:"戦乙女 スヴィア"},
@@ -3680,7 +3679,6 @@ var database = [
 {id:21239,title:"大叔與棉花糖"},
 {id:21240,title:"あねよめカルテット"},
 {id:21241,title:"潮與虎 2"},
-{id:21242,title:"初戀Monster"},
 {id:21243,title:"小森拒絕不了！"},
 {id:21244,title:"排球少年劇場版 勝者與敗者"},
 {id:21245,title:"鬼父2 -REVENGE-"},
@@ -3742,7 +3740,6 @@ var database = [
 {id:21316,title:"Hai Furi"},
 {id:21318,title:"Fate/stay night: Unlimited Blade Works 2nd Season - sunny day"},
 {id:21319,title:"蒼之彼方的四重奏"},
-{id:21320,title:"Anitore! EX"},
 {id:21321,title:"少年女僕"},
 {id:21322,title:"巴哈姆特之怒-Manaria Friends-"},
 {id:21323,title:"電影 Go！Princess 光之美少女 Go！Go！！豪華三部曲！！！"},
@@ -3764,7 +3761,6 @@ var database = [
 {id:21341,title:"亞人"},
 {id:21343,title:"JK食堂！"},
 {id:21345,title:"Cardfight!! Vanguard G 齒輪危機篇"},
-{id:21348,title:"排球少年 vs 赤點"},
 {id:21349,title:"ALL OUT!!"},
 {id:21354,title:"血型君 3"},
 {id:21355,title:"Re：從零開始的異世界生活"},
@@ -4491,7 +4487,6 @@ var database = [
 {id:98596,title:"如果有妹妹就好了。"},
 {id:98603,title:"戰刻夜血"},
 {id:98607,title:"動畫同好會"},
-{id:98622,title:"sin 七大罪 懺悔錄"},
 {id:98623,title:"レジデンス"},
 {id:98630,title:"Code:Realize～創世的姫君～"},
 {id:98631,title:"便利店男友"},
@@ -6935,7 +6930,6 @@ var database = [
 {id:176311,title:"青之驅魔師 雪之盡頭篇"},
 {id:176319,title:"劇場版 草莓王子"},
 {id:176508,title:"香格里拉・開拓異境～糞作獵手挑戰神作～ 第二季"},
-{id:176660,title:"戰國妖狐 千魔混沌編​"},
 {id:176907,title:"糸を撚る"},
 {id:177007,title:"Yuru Camp△ SEASON 3 OVA"},
 {id:177097,title:"EGUMI LEGACY"},
@@ -6960,8 +6954,14 @@ var database = [
 {id:180923,title:"監禁區域 Level X"},
 {id:177255,title:"性欲つよつよ THE ANIMATION"},
 {id:176328,title:"セフレのセンパイ THE ANIMATION"},
-{id:176489,title:"夏が終わるまで 夏の終わり The Animation "},
-{id:176191,title:"轉生成貓咪的大叔"}
+{id:176191,title:"轉生成貓咪的大叔"},
+{id:21242,title:"初戀Monster"},
+{id:21320,title:"Anitore! EX"},
+{id:21348,title:"排球少年 vs 赤點"},
+{id:98622,title:"sin 七大罪 懺悔錄"},
+{id:176489,title:"夏が終わるまで 夏の終わり The Animation"},
+{id:3614,title:"藥師寺涼子的怪奇事件簿"},
+{id:176660,title:"戰國妖狐 千魔混沌編"}
 ];
 
 var updating;
