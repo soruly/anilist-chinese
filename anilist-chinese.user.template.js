@@ -87,7 +87,7 @@ var myDOMNodeInsertedAction = function () {
   }, 200);
 };
 var observer = new MutationObserver(myDOMNodeInsertedAction);
-observer.observe(document.getElementById("app"), {
+observer.observe(document.body, {
   childList: true,
   subtree: true,
 });
