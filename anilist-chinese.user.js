@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      3.2024.10.30
+// @version      3.2024.11.15
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -7033,4 +7033,8 @@ var myDOMNodeInsertedAction = function () {
     }
   }, 200);
 };
-window.addEventListener("DOMNodeInserted", myDOMNodeInsertedAction);
+var observer = new MutationObserver(myDOMNodeInsertedAction);
+observer.observe(document.getElementById("app"), {
+  childList: true,
+  subtree: true,
+});
