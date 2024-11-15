@@ -60,7 +60,7 @@ var myDOMNodeInsertedAction = function () {
   clearTimeout(updating);
   updating = setTimeout(function () {
     if (window.location.hostname === "anichart.net") {
-      if (window.location.pathname.indexOf("/airing") === 0) {
+      if (document.querySelector(".airing-view")) {
         batchTranslate(".airing-card > a", ".title");
       } else {
         batchTranslate(".media-card .overlay > a");
