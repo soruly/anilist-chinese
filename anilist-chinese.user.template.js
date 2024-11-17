@@ -19,10 +19,10 @@ var database = [];
 
 var updating;
 var url;
-var myDOMNodeInsertedAction = function () {
+var myDOMNodeInsertedAction = function (mutationList) {
   var translate = function () {
     var anilist_id = parseInt(window.location.pathname.split("/")[2]);
-    var result = database.filter((e) => e.id === anilist_id)[0];
+    var result = database.find((e) => e.id === anilist_id);
     if (result) {
       var v = document.querySelector(".data-set").getAttributeNames()[0];
       var zh_title = document.createElement("div");
@@ -48,43 +48,45 @@ var myDOMNodeInsertedAction = function () {
   };
 
   var batchTranslate = function (target, textTarget) {
-    document.querySelectorAll(target).forEach(function (e) {
-      var anilist_id = parseInt(e.href.split("/")[4]);
-      var result = database.filter((e) => e.id === anilist_id)[0];
-      if (!result) return;
-      if (textTarget) e.querySelector(textTarget).innerText = result.title;
-      else e.text = result.title;
+    mutationList.forEach(function (mutation) {
+      mutation.addedNodes.forEach(function (node) {
+        if (node.nodeType !== Node.ELEMENT_NODE) return;
+        node.querySelectorAll(target).forEach(function (e) {
+          var anilist_id = parseInt(e.href.split("/")[4]);
+          var result = database.find((e) => e.id === anilist_id);
+          if (!result) return;
+          if (textTarget) e.querySelector(textTarget).innerText = result.title;
+          else e.text = result.title;
+        });
+      });
     });
   };
 
-  clearTimeout(updating);
-  updating = setTimeout(function () {
-    if (window.location.hostname === "anichart.net") {
-      if (document.querySelector(".airing-view")) {
-        batchTranslate(".airing-card > a", ".title");
-      } else {
-        batchTranslate(".media-card .overlay > a");
-      }
-      return;
-    }
-    if (window.location.pathname !== url) {
-      url = window.location.pathname;
-      if (window.location.pathname.indexOf("/anime/") === 0) {
-        translate();
-      }
-    }
-    if (window.location.pathname.indexOf("/anime/") >= 0) {
-      batchTranslate(".recommendation-card > a");
-    } else if (window.location.pathname.indexOf("/animelist") >= 0) {
-      batchTranslate(".title a");
-    } else if (window.location.pathname.indexOf("/user") >= 0) {
-      batchTranslate("a.title");
-    } else if (window.location.pathname.indexOf("/search") >= 0) {
-      batchTranslate("a.title");
-    } else if (window.location.pathname.indexOf("/home") === 0) {
+  if (window.location.hostname === "anichart.net") {
+    if (document.querySelector(".airing-view")) {
+      batchTranslate(".airing-card > a", ".title");
+    } else {
       batchTranslate("a.title");
     }
-  }, 200);
+    return;
+  }
+  if (window.location.pathname !== url) {
+    url = window.location.pathname;
+    if (window.location.pathname.indexOf("/anime/") === 0) {
+      translate();
+    }
+  }
+  if (window.location.pathname.indexOf("/anime/") >= 0) {
+    batchTranslate(".recommendation-card > a");
+  } else if (window.location.pathname.indexOf("/animelist") >= 0) {
+    batchTranslate(".title a");
+  } else if (window.location.pathname.indexOf("/user") >= 0) {
+    batchTranslate("a.title");
+  } else if (window.location.pathname.indexOf("/search") >= 0) {
+    batchTranslate("a.title");
+  } else if (window.location.pathname.indexOf("/home") === 0) {
+    batchTranslate("a.title");
+  }
 };
 var observer = new MutationObserver(myDOMNodeInsertedAction);
 observer.observe(document.body, {
