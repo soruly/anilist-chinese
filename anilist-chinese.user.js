@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      3.2024.11.17
+// @version      3.2024.12.12
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -6998,7 +6998,7 @@ var myDOMNodeInsertedAction = function (mutationList) {
     mutationList.forEach(function (mutation) {
       mutation.addedNodes.forEach(function (node) {
         if (node.nodeType !== Node.ELEMENT_NODE) return;
-        node.querySelectorAll(target).forEach(function (e) {
+        (node.matches(target) ? [node] : node.querySelectorAll(target)).forEach(function (e) {
           var anilist_id = parseInt(e.href.split("/")[4]);
           var result = database.find((e) => e.id === anilist_id);
           if (!result) return;
@@ -7023,13 +7023,13 @@ var myDOMNodeInsertedAction = function (mutationList) {
       translate();
     }
   }
-  if (window.location.pathname.indexOf("/anime/") >= 0) {
+  if (window.location.pathname.indexOf("/search") >= 0) {
+    batchTranslate("a.title, a.title-link");
+  } else if (window.location.pathname.indexOf("/anime/") >= 0) {
     batchTranslate(".recommendation-card > a");
   } else if (window.location.pathname.indexOf("/animelist") >= 0) {
     batchTranslate(".title a");
   } else if (window.location.pathname.indexOf("/user") >= 0) {
-    batchTranslate("a.title");
-  } else if (window.location.pathname.indexOf("/search") >= 0) {
     batchTranslate("a.title");
   } else if (window.location.pathname.indexOf("/home") === 0) {
     batchTranslate("a.title");
