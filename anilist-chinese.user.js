@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      3.2024.12.12
+// @version      3.2024.12.26
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -6961,7 +6961,8 @@ var database = [
 {id:98622,title:"sin 七大罪 懺悔錄"},
 {id:176489,title:"夏が終わるまで 夏の終わり The Animation"},
 {id:3614,title:"藥師寺涼子的怪奇事件簿"},
-{id:176660,title:"戰國妖狐 千魔混沌編"}
+{id:176660,title:"戰國妖狐 千魔混沌編"},
+{id:136880,title:"BEASTARS FINAL SEASON Part 1"}
 ];
 
 var updating;

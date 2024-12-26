@@ -6984,6 +6984,7 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 176489	{"title": {"chinese": "夏が終わるまで 夏の終わり The Animation"}, "synonyms_chinese": []}
 3614	{"title": {"chinese": "藥師寺涼子的怪奇事件簿"}, "synonyms_chinese": ["藥師寺涼子之怪奇事件簿"]}
 176660	{"title": {"chinese": "戰國妖狐 千魔混沌編"}, "synonyms_chinese": []}
+136880	{"title": {"chinese": "BEASTARS FINAL SEASON Part 1"}, "synonyms_chinese": []}
 \.
 
 

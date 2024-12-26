@@ -6944,7 +6944,8 @@ const db = new Map([
 [98622,{title:"sin 七大罪 懺悔錄",synonyms:["sin七宗罪 懺悔錄"]}],
 [176489,{title:"夏が終わるまで 夏の終わり The Animation",synonyms:[]}],
 [3614,{title:"藥師寺涼子的怪奇事件簿",synonyms:["藥師寺涼子之怪奇事件簿"]}],
-[176660,{title:"戰國妖狐 千魔混沌編",synonyms:[]}]
+[176660,{title:"戰國妖狐 千魔混沌編",synonyms:[]}],
+[136880,{title:"BEASTARS FINAL SEASON Part 1",synonyms:[]}]
 ]);
 
 async function handleRequest(req) {
