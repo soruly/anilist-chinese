@@ -6985,6 +6985,63 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 3614	{"title": {"chinese": "藥師寺涼子的怪奇事件簿"}, "synonyms_chinese": ["藥師寺涼子之怪奇事件簿"]}
 176660	{"title": {"chinese": "戰國妖狐 千魔混沌編"}, "synonyms_chinese": []}
 136880	{"title": {"chinese": "BEASTARS FINAL SEASON Part 1"}, "synonyms_chinese": []}
+166617	{"title": {"chinese": "Fate/strange Fake"}, "synonyms_chinese": []}
+145740	{"title": {"chinese": "Grisaia: Phantom Trigger"}, "synonyms_chinese": ["灰色：幻影扳機"]}
+176642	{"title": {"chinese": "天久鷹央的推理病歷表"}, "synonyms_chinese": []}
+169295	{"title": {"chinese": "BanG Dream! Ave Mujica"}, "synonyms_chinese": []}
+177159	{"title": {"chinese": "Momentary Lily"}, "synonyms_chinese": ["MOMENTARY LILY 剎那之花"]}
+174596	{"title": {"chinese": "空色 Utility"}, "synonyms_chinese": ["一桿青空"]}
+178462	{"title": {"chinese": "我和班上最討厭的女生結婚了。"}, "synonyms_chinese": []}
+165171	{"title": {"chinese": "Medalist"}, "synonyms_chinese": ["金牌得主"]}
+166699	{"title": {"chinese": "在沖繩喜歡上的女孩方言講得太過令人困擾"}, "synonyms_chinese": []}
+174654	{"title": {"chinese": "我與尼特女忍者的莫名同居生活"}, "synonyms_chinese": []}
+185880	{"title": {"chinese": "青之驅魔師 終夜篇"}, "synonyms_chinese": []}
+170650	{"title": {"chinese": "我想蹺掉太子妃培訓"}, "synonyms_chinese": []}
+170916	{"title": {"chinese": "魔法使的約定"}, "synonyms_chinese": []}
+179689	{"title": {"chinese": "平凡上班族到異世界當上了四天王的故事"}, "synonyms_chinese": []}
+179696	{"title": {"chinese": "這公司有我喜歡的人"}, "synonyms_chinese": []}
+178550	{"title": {"chinese": "Unnamed Memory Act.2"}, "synonyms_chinese": ["無名記憶 第二季"]}
+175443	{"title": {"chinese": "Honey Lemon Soda"}, "synonyms_chinese": ["青春特調蜂蜜檸檬蘇打"]}
+176234	{"title": {"chinese": "異修羅 第二季"}, "synonyms_chinese": []}
+178495	{"title": {"chinese": "黃昏旅店"}, "synonyms_chinese": []}
+179297	{"title": {"chinese": "魔法製造者 ～異世界魔法的製作方法～"}, "synonyms_chinese": []}
+172019	{"title": {"chinese": "Dr.STONE SCIENCE FUTURE"}, "synonyms_chinese": []}
+178548	{"title": {"chinese": "不幸職業【鑑定士】其實是最強的"}, "synonyms_chinese": []}
+175198	{"title": {"chinese": "Übel Blatt"}, "synonyms_chinese": ["魔域英雄傳說"]}
+176301	{"title": {"chinese": "藥師少女的獨語 第二季"}, "synonyms_chinese": []}
+172258	{"title": {"chinese": "超超超超超喜歡你的 100 個女朋友 第二季"}, "synonyms_chinese": []}
+180052	{"title": {"chinese": "紅戰士在異世界成了冒險者"}, "synonyms_chinese": []}
+179878	{"title": {"chinese": "Project Sekai 崩壞的世界與無法歌唱的未來"}, "synonyms_chinese": ["世界計畫 崩壞的世界與無法歌唱的未來"]}
+154392	{"title": {"chinese": "The Rose of Versailles"}, "synonyms_chinese": ["凡爾賽玫瑰"]}
+182158	{"title": {"chinese": "學姊是男孩 雨過天晴"}, "synonyms_chinese": []}
+176158	{"title": {"chinese": "S 級怪獸《貝希摩斯》被誤認成小貓，成為精靈女孩的騎士（寵物）一起生活"}, "synonyms_chinese": []}
+176496	{"title": {"chinese": "我獨自升級 第二季 -Arise from the Shadow-"}, "synonyms_chinese": []}
+176273	{"title": {"chinese": "全修。"}, "synonyms_chinese": []}
+185088	{"title": {"chinese": "闇芝居 14"}, "synonyms_chinese": []}
+169441	{"title": {"chinese": "我的幸福婚約 第二季"}, "synonyms_chinese": []}
+176063	{"title": {"chinese": "雖然我是注定沒落的貴族 閒來無事只好來深究魔法"}, "synonyms_chinese": []}
+177552	{"title": {"chinese": "黑岩目高不把我的可愛放在眼裡"}, "synonyms_chinese": []}
+178022	{"title": {"chinese": "群花綻放、彷如修羅"}, "synonyms_chinese": []}
+178100	{"title": {"chinese": "最弱技能《果實大師》 ～關於能無限食用技能果實（吃了就會死）這件事～"}, "synonyms_chinese": []}
+177506	{"title": {"chinese": "遲早是最強的鍊金術師？"}, "synonyms_chinese": []}
+162921	{"title": {"chinese": "想星的亞庫艾里翁 Myth of Emotions"}, "synonyms_chinese": []}
+172453	{"title": {"chinese": "中年大叔轉生反派千金"}, "synonyms_chinese": []}
+175409	{"title": {"chinese": "終究，與你相戀。"}, "synonyms_chinese": [""]}
+180292	{"title": {"chinese": "中年男的異世界網購生活"}, "synonyms_chinese": []}
+167143	{"title": {"chinese": "雖然是公會的櫃檯小姐，但因為不想加班所以打算獨自討伐迷宮頭目"}, "synonyms_chinese": []}
+172439	{"title": {"chinese": "歡迎來到日本，妖精小姐。"}, "synonyms_chinese": []}
+178312	{"title": {"chinese": "FARMAGIA"}, "synonyms_chinese": ["FARMAGIA 魔農傳記"]}
+167742	{"title": {"chinese": "UniteUp! -Uni:Birth-"}, "synonyms_chinese": ["UniteUp! 眾星齊聚 -Uni:Birth-"]}
+175422	{"title": {"chinese": "Baban Baban Ban Vampire"}, "synonyms_chinese": ["吸吸吸吸吸血鬼"]}
+177709	{"title": {"chinese": "SAKAMOTO DAYS"}, "synonyms_chinese": ["SAKAMOTO DAYS 坂本日常"]}
+180812	{"title": {"chinese": "離開 A 級隊伍的我，和從前的弟子往迷宮深處邁進"}, "synonyms_chinese": []}
+182920	{"title": {"chinese": "Cardfight!! Vanguard: Divinez Deluxe篇"}, "synonyms_chinese": []}
+170892	{"title": {"chinese": "地縛少年花子君 第二季"}, "synonyms_chinese": []}
+173333	{"title": {"chinese": "魔神創造傳"}, "synonyms_chinese": []}
+181886	{"title": {"chinese": "金肉人 完美超人始祖篇 Season 2"}, "synonyms_chinese": []}
+154064	{"title": {"chinese": "Make A Girl"}, "synonyms_chinese": []}
+185213	{"title": {"chinese": "Mobile Suit Gundam GQuuuuuuX"}, "synonyms_chinese": []}
+133007	{"title": {"chinese": "劇場版 魔法少女小圓 瓦爾普吉斯之迴天"}, "synonyms_chinese": []}
 \.
 
 

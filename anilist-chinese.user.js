@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      3.2024.12.26
+// @version      3.2024.12.31
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -6962,7 +6962,64 @@ var database = [
 {id:176489,title:"夏が終わるまで 夏の終わり The Animation"},
 {id:3614,title:"藥師寺涼子的怪奇事件簿"},
 {id:176660,title:"戰國妖狐 千魔混沌編"},
-{id:136880,title:"BEASTARS FINAL SEASON Part 1"}
+{id:136880,title:"BEASTARS FINAL SEASON Part 1"},
+{id:166617,title:"Fate/strange Fake"},
+{id:145740,title:"Grisaia: Phantom Trigger"},
+{id:176642,title:"天久鷹央的推理病歷表"},
+{id:169295,title:"BanG Dream! Ave Mujica"},
+{id:177159,title:"Momentary Lily"},
+{id:174596,title:"空色 Utility"},
+{id:178462,title:"我和班上最討厭的女生結婚了。"},
+{id:165171,title:"Medalist"},
+{id:166699,title:"在沖繩喜歡上的女孩方言講得太過令人困擾"},
+{id:174654,title:"我與尼特女忍者的莫名同居生活"},
+{id:185880,title:"青之驅魔師 終夜篇"},
+{id:170650,title:"我想蹺掉太子妃培訓"},
+{id:170916,title:"魔法使的約定"},
+{id:179689,title:"平凡上班族到異世界當上了四天王的故事"},
+{id:179696,title:"這公司有我喜歡的人"},
+{id:178550,title:"Unnamed Memory Act.2"},
+{id:175443,title:"Honey Lemon Soda"},
+{id:176234,title:"異修羅 第二季"},
+{id:178495,title:"黃昏旅店"},
+{id:179297,title:"魔法製造者 ～異世界魔法的製作方法～"},
+{id:172019,title:"Dr.STONE SCIENCE FUTURE"},
+{id:178548,title:"不幸職業【鑑定士】其實是最強的"},
+{id:175198,title:"Übel Blatt"},
+{id:176301,title:"藥師少女的獨語 第二季"},
+{id:172258,title:"超超超超超喜歡你的 100 個女朋友 第二季"},
+{id:180052,title:"紅戰士在異世界成了冒險者"},
+{id:179878,title:"Project Sekai 崩壞的世界與無法歌唱的未來"},
+{id:154392,title:"The Rose of Versailles"},
+{id:182158,title:"學姊是男孩 雨過天晴"},
+{id:176158,title:"S 級怪獸《貝希摩斯》被誤認成小貓，成為精靈女孩的騎士（寵物）一起生活"},
+{id:176496,title:"我獨自升級 第二季 -Arise from the Shadow-"},
+{id:176273,title:"全修。"},
+{id:185088,title:"闇芝居 14"},
+{id:169441,title:"我的幸福婚約 第二季"},
+{id:176063,title:"雖然我是注定沒落的貴族 閒來無事只好來深究魔法"},
+{id:177552,title:"黑岩目高不把我的可愛放在眼裡"},
+{id:178022,title:"群花綻放、彷如修羅"},
+{id:178100,title:"最弱技能《果實大師》 ～關於能無限食用技能果實（吃了就會死）這件事～"},
+{id:177506,title:"遲早是最強的鍊金術師？"},
+{id:162921,title:"想星的亞庫艾里翁 Myth of Emotions"},
+{id:172453,title:"中年大叔轉生反派千金"},
+{id:175409,title:"終究，與你相戀。"},
+{id:180292,title:"中年男的異世界網購生活"},
+{id:167143,title:"雖然是公會的櫃檯小姐，但因為不想加班所以打算獨自討伐迷宮頭目"},
+{id:172439,title:"歡迎來到日本，妖精小姐。"},
+{id:178312,title:"FARMAGIA"},
+{id:167742,title:"UniteUp! -Uni:Birth-"},
+{id:175422,title:"Baban Baban Ban Vampire"},
+{id:177709,title:"SAKAMOTO DAYS"},
+{id:180812,title:"離開 A 級隊伍的我，和從前的弟子往迷宮深處邁進"},
+{id:182920,title:"Cardfight!! Vanguard: Divinez Deluxe篇"},
+{id:170892,title:"地縛少年花子君 第二季"},
+{id:173333,title:"魔神創造傳"},
+{id:181886,title:"金肉人 完美超人始祖篇 Season 2"},
+{id:154064,title:"Make A Girl"},
+{id:185213,title:"Mobile Suit Gundam GQuuuuuuX"},
+{id:133007,title:"劇場版 魔法少女小圓 瓦爾普吉斯之迴天"}
 ];
 
 var updating;
