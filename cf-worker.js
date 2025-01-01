@@ -7002,7 +7002,9 @@ const db = new Map([
 [181886,{title:"金肉人 完美超人始祖篇 Season 2",synonyms:[]}],
 [154064,{title:"Make A Girl",synonyms:[]}],
 [185213,{title:"Mobile Suit Gundam GQuuuuuuX",synonyms:[]}],
-[133007,{title:"劇場版 魔法少女小圓 瓦爾普吉斯之迴天",synonyms:[]}]
+[133007,{title:"劇場版 魔法少女小圓 瓦爾普吉斯之迴天",synonyms:[]}],
+[162722,{title:"魔法使光之美少女！！～MIRAI DAYS～",synonyms:[]}],
+[185462,{title:"0歳兒 Start Dash 物語 第二季",synonyms:[]}]
 ]);
 
 async function handleRequest(req) {

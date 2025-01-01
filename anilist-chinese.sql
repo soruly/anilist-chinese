@@ -7042,6 +7042,8 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 154064	{"title": {"chinese": "Make A Girl"}, "synonyms_chinese": []}
 185213	{"title": {"chinese": "Mobile Suit Gundam GQuuuuuuX"}, "synonyms_chinese": []}
 133007	{"title": {"chinese": "劇場版 魔法少女小圓 瓦爾普吉斯之迴天"}, "synonyms_chinese": []}
+162722	{"title": {"chinese": "魔法使光之美少女！！～MIRAI DAYS～"}, "synonyms_chinese": []}
+185462	{"title": {"chinese": "0歳兒 Start Dash 物語 第二季"}, "synonyms_chinese": []}
 \.
 
 
