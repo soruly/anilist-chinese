@@ -7004,7 +7004,8 @@ const db = new Map([
 [185213,{title:"Mobile Suit Gundam GQuuuuuuX",synonyms:[]}],
 [133007,{title:"劇場版 魔法少女小圓 瓦爾普吉斯之迴天",synonyms:[]}],
 [162722,{title:"魔法使光之美少女！！～MIRAI DAYS～",synonyms:[]}],
-[185462,{title:"0歳兒 Start Dash 物語 第二季",synonyms:[]}]
+[185462,{title:"0歳兒 Start Dash 物語 第二季",synonyms:[]}],
+[21846,{title:"ずんだホライずん",synonyms:[]}]
 ]);
 
 async function handleRequest(req) {

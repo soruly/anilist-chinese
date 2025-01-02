@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      3.2025.1.1
+// @version      3.2025.1.2
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -7021,7 +7021,8 @@ var database = [
 {id:185213,title:"Mobile Suit Gundam GQuuuuuuX"},
 {id:133007,title:"劇場版 魔法少女小圓 瓦爾普吉斯之迴天"},
 {id:162722,title:"魔法使光之美少女！！～MIRAI DAYS～"},
-{id:185462,title:"0歳兒 Start Dash 物語 第二季"}
+{id:185462,title:"0歳兒 Start Dash 物語 第二季"},
+{id:21846,title:"ずんだホライずん"}
 ];
 
 var updating;
