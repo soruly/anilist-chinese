@@ -7015,8 +7015,10 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 154392	{"title": {"chinese": "The Rose of Versailles"}, "synonyms_chinese": ["凡爾賽玫瑰"]}
 182158	{"title": {"chinese": "學姊是男孩 雨過天晴"}, "synonyms_chinese": []}
 176158	{"title": {"chinese": "S 級怪獸《貝希摩斯》被誤認成小貓，成為精靈女孩的騎士（寵物）一起生活"}, "synonyms_chinese": []}
+179677	{"title": {"chinese": "マゾメスソープで逢いましょう！"}, "synonyms_chinese": []}
 176496	{"title": {"chinese": "我獨自升級 第二季 -Arise from the Shadow-"}, "synonyms_chinese": []}
 176273	{"title": {"chinese": "全修。"}, "synonyms_chinese": []}
+180533	{"title": {"chinese": "卑触家のルール"}, "synonyms_chinese": []}
 185088	{"title": {"chinese": "闇芝居 14"}, "synonyms_chinese": []}
 169441	{"title": {"chinese": "我的幸福婚約 第二季"}, "synonyms_chinese": []}
 176063	{"title": {"chinese": "雖然我是注定沒落的貴族 閒來無事只好來深究魔法"}, "synonyms_chinese": []}
@@ -7026,6 +7028,7 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 177506	{"title": {"chinese": "遲早是最強的鍊金術師？"}, "synonyms_chinese": []}
 162921	{"title": {"chinese": "想星的亞庫艾里翁 Myth of Emotions"}, "synonyms_chinese": []}
 172453	{"title": {"chinese": "中年大叔轉生反派千金"}, "synonyms_chinese": []}
+172218	{"title": {"chinese": "夢見ル乙女"}, "synonyms_chinese": []}
 175409	{"title": {"chinese": "終究，與你相戀。"}, "synonyms_chinese": [""]}
 180292	{"title": {"chinese": "中年男的異世界網購生活"}, "synonyms_chinese": []}
 167143	{"title": {"chinese": "雖然是公會的櫃檯小姐，但因為不想加班所以打算獨自討伐迷宮頭目"}, "synonyms_chinese": []}
@@ -7035,6 +7038,7 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 175422	{"title": {"chinese": "Baban Baban Ban Vampire"}, "synonyms_chinese": ["吸吸吸吸吸血鬼"]}
 177709	{"title": {"chinese": "SAKAMOTO DAYS"}, "synonyms_chinese": ["SAKAMOTO DAYS 坂本日常"]}
 180812	{"title": {"chinese": "離開 A 級隊伍的我，和從前的弟子往迷宮深處邁進"}, "synonyms_chinese": []}
+180704	{"title": {"chinese": "エルフに淫紋を付ける本 The Animation"}, "synonyms_chinese": []}
 182920	{"title": {"chinese": "Cardfight!! Vanguard: Divinez Deluxe篇"}, "synonyms_chinese": []}
 170892	{"title": {"chinese": "地縛少年花子君 第二季"}, "synonyms_chinese": []}
 173333	{"title": {"chinese": "魔神創造傳"}, "synonyms_chinese": []}

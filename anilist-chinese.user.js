@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      3.2025.1.2
+// @version      3.2025.1.3
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -6993,8 +6993,10 @@ var database = [
 {id:154392,title:"The Rose of Versailles"},
 {id:182158,title:"學姊是男孩 雨過天晴"},
 {id:176158,title:"S 級怪獸《貝希摩斯》被誤認成小貓，成為精靈女孩的騎士（寵物）一起生活"},
+{id:179677,title:"マゾメスソープで逢いましょう！"},
 {id:176496,title:"我獨自升級 第二季 -Arise from the Shadow-"},
 {id:176273,title:"全修。"},
+{id:180533,title:"卑触家のルール"},
 {id:185088,title:"闇芝居 14"},
 {id:169441,title:"我的幸福婚約 第二季"},
 {id:176063,title:"雖然我是注定沒落的貴族 閒來無事只好來深究魔法"},
@@ -7004,6 +7006,7 @@ var database = [
 {id:177506,title:"遲早是最強的鍊金術師？"},
 {id:162921,title:"想星的亞庫艾里翁 Myth of Emotions"},
 {id:172453,title:"中年大叔轉生反派千金"},
+{id:172218,title:"夢見ル乙女"},
 {id:175409,title:"終究，與你相戀。"},
 {id:180292,title:"中年男的異世界網購生活"},
 {id:167143,title:"雖然是公會的櫃檯小姐，但因為不想加班所以打算獨自討伐迷宮頭目"},
@@ -7013,6 +7016,7 @@ var database = [
 {id:175422,title:"Baban Baban Ban Vampire"},
 {id:177709,title:"SAKAMOTO DAYS"},
 {id:180812,title:"離開 A 級隊伍的我，和從前的弟子往迷宮深處邁進"},
+{id:180704,title:"エルフに淫紋を付ける本 The Animation"},
 {id:182920,title:"Cardfight!! Vanguard: Divinez Deluxe篇"},
 {id:170892,title:"地縛少年花子君 第二季"},
 {id:173333,title:"魔神創造傳"},
