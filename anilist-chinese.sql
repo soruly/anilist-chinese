@@ -7054,6 +7054,8 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 185462	{"title": {"chinese": "0歳兒 Start Dash 物語 第二季"}, "synonyms_chinese": []}
 21846	{"title": {"chinese": "ずんだホライずん"}, "synonyms_chinese": []}
 179722	{"title": {"chinese": "メカ技師リスタの大冒険"}, "synonyms_chinese": []}
+185281	{"title": {"chinese": "ゴムをつけてといいましたよね..."}, "synonyms_chinese": []}
+182094	{"title": {"chinese": "お兄さん…おひとりですか？"}, "synonyms_chinese": []}
 \.
 
 

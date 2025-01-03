@@ -7014,7 +7014,9 @@ const db = new Map([
 [179820,{title:"極限痴漢特異点3 The Animation",synonyms:[]}],
 [185462,{title:"0歳兒 Start Dash 物語 第二季",synonyms:[]}],
 [21846,{title:"ずんだホライずん",synonyms:[]}],
-[179722,{title:"メカ技師リスタの大冒険",synonyms:[]}]
+[179722,{title:"メカ技師リスタの大冒険",synonyms:[]}],
+[185281,{title:"ゴムをつけてといいましたよね...",synonyms:[]}],
+[182094,{title:"お兄さん…おひとりですか？",synonyms:[]}]
 ]);
 
 async function handleRequest(req) {

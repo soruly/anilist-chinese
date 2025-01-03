@@ -7031,7 +7031,9 @@ var database = [
 {id:179820,title:"極限痴漢特異点3 The Animation"},
 {id:185462,title:"0歳兒 Start Dash 物語 第二季"},
 {id:21846,title:"ずんだホライずん"},
-{id:179722,title:"メカ技師リスタの大冒険"}
+{id:179722,title:"メカ技師リスタの大冒険"},
+{id:185281,title:"ゴムをつけてといいましたよね..."},
+{id:182094,title:"お兄さん…おひとりですか？"}
 ];
 
 var updating;
