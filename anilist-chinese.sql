@@ -7040,15 +7040,20 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 180812	{"title": {"chinese": "離開 A 級隊伍的我，和從前的弟子往迷宮深處邁進"}, "synonyms_chinese": []}
 180704	{"title": {"chinese": "エルフに淫紋を付ける本 The Animation"}, "synonyms_chinese": []}
 182920	{"title": {"chinese": "Cardfight!! Vanguard: Divinez Deluxe篇"}, "synonyms_chinese": []}
+177376	{"title": {"chinese": "妻ネトリ 零 ～僕の過ち 彼女の選択～"}, "synonyms_chinese": []}
 170892	{"title": {"chinese": "地縛少年花子君 第二季"}, "synonyms_chinese": []}
 173333	{"title": {"chinese": "魔神創造傳"}, "synonyms_chinese": []}
+176395	{"title": {"chinese": "やらかし"}, "synonyms_chinese": []}
 181886	{"title": {"chinese": "金肉人 完美超人始祖篇 Season 2"}, "synonyms_chinese": []}
 154064	{"title": {"chinese": "Make A Girl"}, "synonyms_chinese": []}
 185213	{"title": {"chinese": "Mobile Suit Gundam GQuuuuuuX"}, "synonyms_chinese": []}
+176396	{"title": {"chinese": "誤爆〜萌えママ徒然〜"}, "synonyms_chinese": []}
 133007	{"title": {"chinese": "劇場版 魔法少女小圓 瓦爾普吉斯之迴天"}, "synonyms_chinese": []}
 162722	{"title": {"chinese": "魔法使光之美少女！！～MIRAI DAYS～"}, "synonyms_chinese": []}
+179820	{"title": {"chinese": "極限痴漢特異点3 The Animation"}, "synonyms_chinese": []}
 185462	{"title": {"chinese": "0歳兒 Start Dash 物語 第二季"}, "synonyms_chinese": []}
 21846	{"title": {"chinese": "ずんだホライずん"}, "synonyms_chinese": []}
+179722	{"title": {"chinese": "メカ技師リスタの大冒険"}, "synonyms_chinese": []}
 \.
 
 

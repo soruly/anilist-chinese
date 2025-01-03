@@ -7018,15 +7018,20 @@ var database = [
 {id:180812,title:"離開 A 級隊伍的我，和從前的弟子往迷宮深處邁進"},
 {id:180704,title:"エルフに淫紋を付ける本 The Animation"},
 {id:182920,title:"Cardfight!! Vanguard: Divinez Deluxe篇"},
+{id:177376,title:"妻ネトリ 零 ～僕の過ち 彼女の選択～"},
 {id:170892,title:"地縛少年花子君 第二季"},
 {id:173333,title:"魔神創造傳"},
+{id:176395,title:"やらかし"},
 {id:181886,title:"金肉人 完美超人始祖篇 Season 2"},
 {id:154064,title:"Make A Girl"},
 {id:185213,title:"Mobile Suit Gundam GQuuuuuuX"},
+{id:176396,title:"誤爆〜萌えママ徒然〜"},
 {id:133007,title:"劇場版 魔法少女小圓 瓦爾普吉斯之迴天"},
 {id:162722,title:"魔法使光之美少女！！～MIRAI DAYS～"},
+{id:179820,title:"極限痴漢特異点3 The Animation"},
 {id:185462,title:"0歳兒 Start Dash 物語 第二季"},
-{id:21846,title:"ずんだホライずん"}
+{id:21846,title:"ずんだホライずん"},
+{id:179722,title:"メカ技師リスタの大冒険"}
 ];
 
 var updating;

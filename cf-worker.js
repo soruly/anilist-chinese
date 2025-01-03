@@ -7001,15 +7001,20 @@ const db = new Map([
 [180812,{title:"離開 A 級隊伍的我，和從前的弟子往迷宮深處邁進",synonyms:[]}],
 [180704,{title:"エルフに淫紋を付ける本 The Animation",synonyms:[]}],
 [182920,{title:"Cardfight!! Vanguard: Divinez Deluxe篇",synonyms:[]}],
+[177376,{title:"妻ネトリ 零 ～僕の過ち 彼女の選択～",synonyms:[]}],
 [170892,{title:"地縛少年花子君 第二季",synonyms:[]}],
 [173333,{title:"魔神創造傳",synonyms:[]}],
+[176395,{title:"やらかし",synonyms:[]}],
 [181886,{title:"金肉人 完美超人始祖篇 Season 2",synonyms:[]}],
 [154064,{title:"Make A Girl",synonyms:[]}],
 [185213,{title:"Mobile Suit Gundam GQuuuuuuX",synonyms:[]}],
+[176396,{title:"誤爆〜萌えママ徒然〜",synonyms:[]}],
 [133007,{title:"劇場版 魔法少女小圓 瓦爾普吉斯之迴天",synonyms:[]}],
 [162722,{title:"魔法使光之美少女！！～MIRAI DAYS～",synonyms:[]}],
+[179820,{title:"極限痴漢特異点3 The Animation",synonyms:[]}],
 [185462,{title:"0歳兒 Start Dash 物語 第二季",synonyms:[]}],
-[21846,{title:"ずんだホライずん",synonyms:[]}]
+[21846,{title:"ずんだホライずん",synonyms:[]}],
+[179722,{title:"メカ技師リスタの大冒険",synonyms:[]}]
 ]);
 
 async function handleRequest(req) {
