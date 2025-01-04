@@ -7016,7 +7016,8 @@ const db = new Map([
 [21846,{title:"ずんだホライずん",synonyms:[]}],
 [179722,{title:"メカ技師リスタの大冒険",synonyms:[]}],
 [185281,{title:"ゴムをつけてといいましたよね...",synonyms:[]}],
-[182094,{title:"お兄さん…おひとりですか？",synonyms:[]}]
+[182094,{title:"お兄さん…おひとりですか？",synonyms:[]}],
+[183423,{title:"ONE PIECE 魚人島篇",synonyms:[]}]
 ]);
 
 async function handleRequest(req) {

@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      3.2025.1.3
+// @version      3.2025.1.4
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -7033,7 +7033,8 @@ var database = [
 {id:21846,title:"ずんだホライずん"},
 {id:179722,title:"メカ技師リスタの大冒険"},
 {id:185281,title:"ゴムをつけてといいましたよね..."},
-{id:182094,title:"お兄さん…おひとりですか？"}
+{id:182094,title:"お兄さん…おひとりですか？"},
+{id:183423,title:"ONE PIECE 魚人島篇"}
 ];
 
 var updating;
