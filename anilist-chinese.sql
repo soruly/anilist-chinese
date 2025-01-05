@@ -7056,6 +7056,7 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 179722	{"title": {"chinese": "メカ技師リスタの大冒険"}, "synonyms_chinese": []}
 185281	{"title": {"chinese": "ゴムをつけてといいましたよね..."}, "synonyms_chinese": []}
 182094	{"title": {"chinese": "お兄さん…おひとりですか？"}, "synonyms_chinese": []}
+99085	{"title": {"chinese": "多啦A夢：大雄之南極凍冰冰大冒險"}, "synonyms_chinese": []}
 183423	{"title": {"chinese": "ONE PIECE 魚人島篇"}, "synonyms_chinese": []}
 \.
 

@@ -7017,6 +7017,7 @@ const db = new Map([
 [179722,{title:"メカ技師リスタの大冒険",synonyms:[]}],
 [185281,{title:"ゴムをつけてといいましたよね...",synonyms:[]}],
 [182094,{title:"お兄さん…おひとりですか？",synonyms:[]}],
+[99085,{title:"多啦A夢：大雄之南極凍冰冰大冒險",synonyms:[]}],
 [183423,{title:"ONE PIECE 魚人島篇",synonyms:[]}]
 ]);
 
