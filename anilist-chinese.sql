@@ -5560,7 +5560,6 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 113596	{"title": {"chinese": "喬瑟與虎與魚群"}, "synonyms_chinese": ["喬西的虎與魚"]}
 113621	{"title": {"chinese": "愛聖天使ラブメアリー ～悪性受胎～ THE ANIMATION"}, "synonyms_chinese": []}
 113652	{"title": {"chinese": "催眠麥克風"}, "synonyms_chinese": []}
-113669	{"title": {"chinese": "電影多啦A夢：大雄之新恐龍"}, "synonyms_chinese": []}
 113692	{"title": {"chinese": "劇場版 妄想學生會 2"}, "synonyms_chinese": []}
 113693	{"title": {"chinese": "小書痴的下剋上：為了成為圖書管理員不擇手段！2"}, "synonyms_chinese": []}
 113705	{"title": {"chinese": "巨乳プリンセス催眠"}, "synonyms_chinese": []}
@@ -5890,7 +5889,6 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 126571	{"title": {"chinese": "リアルエロゲシチュエーション！2 THE ANIMATION"}, "synonyms_chinese": []}
 126659	{"title": {"chinese": "我的英雄學院：World Heroes' Mission"}, "synonyms_chinese": []}
 126678	{"title": {"chinese": "闇芝居 8"}, "synonyms_chinese": []}
-126783	{"title": {"chinese": "電影多啦A夢：大雄的宇宙小戰爭 2021"}, "synonyms_chinese": []}
 126790	{"title": {"chinese": "SELECTION PROJECT"}, "synonyms_chinese": []}
 126791	{"title": {"chinese": "如果究極進化的完全潛行 RPG 比現實還更像垃圾遊戲的話"}, "synonyms_chinese": []}
 126793	{"title": {"chinese": "橘色驕傲！～PRIDE OF ORANGE～"}, "synonyms_chinese": []}
@@ -7054,10 +7052,9 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 179722	{"title": {"chinese": "メカ技師リスタの大冒険"}, "synonyms_chinese": []}
 185281	{"title": {"chinese": "ゴムをつけてといいましたよね..."}, "synonyms_chinese": []}
 182094	{"title": {"chinese": "お兄さん…おひとりですか？"}, "synonyms_chinese": []}
-99085	{"title": {"chinese": "多啦A夢：大雄之南極凍冰冰大冒險"}, "synonyms_chinese": []}
 185212	{"title": {"chinese": "名偵探柯南：獨眼的殘像"}, "synonyms_chinese": []}
 169754	{"title": {"chinese": "名偵探柯南：100萬美元的五稜星"}, "synonyms_chinese": []}
-113653	{"title": {"chinese": "名偵探柯南：緋色的彈丸"}, "synonyms_chinese": []}
+113653	{"title": {"chinese": "名偵探柯南：緋色的子彈"}, "synonyms_chinese": ["名偵探柯南：緋色的彈丸"]}
 183423	{"title": {"chinese": "ONE PIECE 魚人島篇"}, "synonyms_chinese": []}
 106206	{"title": {"chinese": "名偵探柯南：紺青之拳"}, "synonyms_chinese": []}
 100653	{"title": {"chinese": "名偵探柯南：零的執行人"}, "synonyms_chinese": []}
@@ -7065,6 +7062,7 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 21470	{"title": {"chinese": "名偵探柯南：純黑的惡夢"}, "synonyms_chinese": []}
 21646	{"title": {"chinese": "名偵探柯南：業火的向日葵"}, "synonyms_chinese": []}
 20546	{"title": {"chinese": "名偵探柯南：異次元的狙擊手"}, "synonyms_chinese": []}
+99085	{"title": {"chinese": "多啦A夢：大雄之南極凍冰冰大冒險"}, "synonyms_chinese": []}
 14735	{"title": {"chinese": "名偵探柯南：絕海的偵探"}, "synonyms_chinese": []}
 9963	{"title": {"chinese": "名偵探柯南：沉默的15分鐘"}, "synonyms_chinese": []}
 5460	{"title": {"chinese": "名偵探柯南：漆黑的追跡者"}, "synonyms_chinese": []}
@@ -7090,6 +7088,26 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 18429	{"title": {"chinese": "雷朋三世VS名偵探柯南 THE MOVIE"}, "synonyms_chinese": []}
 98604	{"title": {"chinese": "名偵探柯南 Episode\\"ONE\\" 變小了的名偵探"}, "synonyms_chinese": []}
 6115	{"title": {"chinese": "雷朋三世VS名偵探柯南"}, "synonyms_chinese": []}
+166976	{"title": {"chinese": "多啦A夢：大雄之地球交響樂"}, "synonyms_chinese": []}
+151896	{"title": {"chinese": "多啦A夢：大雄與天空的理想鄉"}, "synonyms_chinese": []}
+126783	{"title": {"chinese": "多啦A夢：大雄的宇宙小戰爭 2021"}, "synonyms_chinese": []}
+113669	{"title": {"chinese": "多啦A夢：大雄之新恐龍"}, "synonyms_chinese": []}
+182333	{"title": {"chinese": "多啦A夢：大雄的繪世界物語"}, "synonyms_chinese": []}
+106493	{"title": {"chinese": "多啦A夢：大雄之月球探測記"}, "synonyms_chinese": []}
+99084	{"title": {"chinese": "多啦A夢：大雄之金銀島"}, "synonyms_chinese": []}
+2666	{"title": {"chinese": "多啦A夢：新‧大雄之日本誕生"}, "synonyms_chinese": []}
+100291	{"title": {"chinese": "多啦A夢：大雄之宇宙英雄記"}, "synonyms_chinese": []}
+19645	{"title": {"chinese": "多啦A夢：新·大雄的大魔境~柏高與5人之探險隊~"}, "synonyms_chinese": []}
+15925	{"title": {"chinese": "多啦A夢：大雄的神奇法寶博物館"}, "synonyms_chinese": []}
+11053	{"title": {"chinese": "多啦A夢：大雄與奇跡之島~動物歷險記~"}, "synonyms_chinese": []}
+10534	{"title": {"chinese": "多啦A夢：新·大雄與鐵人兵團~振翅吧 天使們~"}, "synonyms_chinese": []}
+6988	{"title": {"chinese": "多啦A夢：大雄的人魚大海戰"}, "synonyms_chinese": []}
+6930	{"title": {"chinese": "多啦A夢：新·大雄的宇宙開拓史"}, "synonyms_chinese": []}
+5096	{"title": {"chinese": "多啦A夢：大雄與綠之巨人傳"}, "synonyms_chinese": []}
+2673	{"title": {"chinese": "多啦A夢：大雄的新魔界大冒險～7人之魔法師～"}, "synonyms_chinese": []}
+2392	{"title": {"chinese": "多啦A夢：新大雄的恐龍"}, "synonyms_chinese": []}
+2656	{"title": {"chinese": "多啦A夢：大雄的貓狗時空傳"}, "synonyms_chinese": []}
+2393	{"title": {"chinese": "多啦A夢：大雄與風之使者"}, "synonyms_chinese": []}
 \.
 
 
