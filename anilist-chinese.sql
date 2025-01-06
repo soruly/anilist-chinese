@@ -6277,7 +6277,6 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 142136	{"title": {"chinese": "ShowTime！唱歌的大姐姐也想做 2"}, "synonyms_chinese": []}
 142193	{"title": {"chinese": "英雄王，為了窮盡武道而轉生～而後成為世界最強見習騎士♀～"}, "synonyms_chinese": []}
 142216	{"title": {"chinese": "女學。II～Lucky Stars～"}, "synonyms_chinese": []}
-142219	{"title": {"chinese": "名偵探柯南：萬聖節的新娘"}, "synonyms_chinese": []}
 142229	{"title": {"chinese": "エロリーマン"}, "synonyms_chinese": []}
 142274	{"title": {"chinese": "Ninjala 泡泡糖忍戰"}, "synonyms_chinese": []}
 142329	{"title": {"chinese": "鬼滅之刃 遊郭編"}, "synonyms_chinese": []}
@@ -6843,7 +6842,6 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 169692	{"title": {"chinese": "拳願阿修羅 第二季 Part 2"}, "synonyms_chinese": []}
 169698	{"title": {"chinese": "我回來了、歡迎回家"}, "synonyms_chinese": []}
 169728	{"title": {"chinese": "しーくれっとみっしょん～潜入捜査官は絶対に負けない！～"}, "synonyms_chinese": []}
-169754	{"title": {"chinese": "名偵探柯南：100 萬美元的五稜星"}, "synonyms_chinese": []}
 169755	{"title": {"chinese": "BLEACH 死神 千年血戰篇-相剋譚-"}, "synonyms_chinese": []}
 169766	{"title": {"chinese": "RABBITS KINGDOM THE MOVIE"}, "synonyms_chinese": []}
 169927	{"title": {"chinese": "單人房、日照一般、附天使。"}, "synonyms_chinese": []}
@@ -7057,7 +7055,41 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 185281	{"title": {"chinese": "ゴムをつけてといいましたよね..."}, "synonyms_chinese": []}
 182094	{"title": {"chinese": "お兄さん…おひとりですか？"}, "synonyms_chinese": []}
 99085	{"title": {"chinese": "多啦A夢：大雄之南極凍冰冰大冒險"}, "synonyms_chinese": []}
+185212	{"title": {"chinese": "名偵探柯南：獨眼的殘像"}, "synonyms_chinese": []}
+169754	{"title": {"chinese": "名偵探柯南：100萬美元的五稜星"}, "synonyms_chinese": []}
+113653	{"title": {"chinese": "名偵探柯南：緋色的彈丸"}, "synonyms_chinese": []}
 183423	{"title": {"chinese": "ONE PIECE 魚人島篇"}, "synonyms_chinese": []}
+106206	{"title": {"chinese": "名偵探柯南：紺青之拳"}, "synonyms_chinese": []}
+100653	{"title": {"chinese": "名偵探柯南：零的執行人"}, "synonyms_chinese": []}
+98222	{"title": {"chinese": "名偵探柯南：唐紅的戀歌"}, "synonyms_chinese": []}
+21470	{"title": {"chinese": "名偵探柯南：純黑的惡夢"}, "synonyms_chinese": []}
+21646	{"title": {"chinese": "名偵探柯南：業火的向日葵"}, "synonyms_chinese": []}
+20546	{"title": {"chinese": "名偵探柯南：異次元的狙擊手"}, "synonyms_chinese": []}
+14735	{"title": {"chinese": "名偵探柯南：絕海的偵探"}, "synonyms_chinese": []}
+9963	{"title": {"chinese": "名偵探柯南：沉默的15分鐘"}, "synonyms_chinese": []}
+5460	{"title": {"chinese": "名偵探柯南：漆黑的追跡者"}, "synonyms_chinese": []}
+2171	{"title": {"chinese": "名偵探柯南：紺碧之棺"}, "synonyms_chinese": []}
+1365	{"title": {"chinese": "名偵探柯南：必嘉街的亡靈"}, "synonyms_chinese": []}
+1364	{"title": {"chinese": "名偵探柯南：往天國的倒數計時"}, "synonyms_chinese": []}
+781	{"title": {"chinese": "名偵探柯南：世紀末的魔術師"}, "synonyms_chinese": []}
+779	{"title": {"chinese": "名偵探柯南：引爆摩天樓"}, "synonyms_chinese": []}
+7471	{"title": {"chinese": ""}, "synonyms_chinese": [""]}
+1505	{"title": {"chinese": "名偵探柯南：水平線上的陰謀"}, "synonyms_chinese": []}
+184369	{"title": {"chinese": "名偵探柯南 vs. 怪盜基德"}, "synonyms_chinese": []}
+131770	{"title": {"chinese": "名偵探柯南：緋色的不在場證明"}, "synonyms_chinese": []}
+20878	{"title": {"chinese": "名偵探柯南 江戶川柯南失蹤事件 ～史上最糟糕的兩天～"}, "synonyms_chinese": []}
+142219	{"title": {"chinese": "名偵探柯南：萬聖節的新娘"}, "synonyms_chinese": ["名偵探柯南：萬聖夜的新娘"]}
+12117	{"title": {"chinese": "名偵探柯南：第11位前鋒"}, "synonyms_chinese": []}
+6467	{"title": {"chinese": "名偵探柯南：天空的遇難船"}, "synonyms_chinese": []}
+4447	{"title": {"chinese": "名偵探柯南：戰慄的樂譜"}, "synonyms_chinese": []}
+1506	{"title": {"chinese": "名偵探柯南：偵探們的鎮魂歌"}, "synonyms_chinese": []}
+1367	{"title": {"chinese": "名偵探柯南：銀翼的奇術師"}, "synonyms_chinese": []}
+1366	{"title": {"chinese": "名偵探柯南：迷宮的十字路"}, "synonyms_chinese": []}
+1363	{"title": {"chinese": "名偵探柯南：瞳孔中的暗殺者"}, "synonyms_chinese": []}
+780	{"title": {"chinese": "名偵探柯南：第14號獵物"}, "synonyms_chinese": []}
+18429	{"title": {"chinese": "雷朋三世VS名偵探柯南 THE MOVIE"}, "synonyms_chinese": []}
+98604	{"title": {"chinese": "名偵探柯南 Episode\\"ONE\\" 變小了的名偵探"}, "synonyms_chinese": []}
+6115	{"title": {"chinese": "雷朋三世VS名偵探柯南"}, "synonyms_chinese": []}
 \.
 
 

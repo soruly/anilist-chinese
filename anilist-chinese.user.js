@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      3.2025.1.5
+// @version      3.2025.1.6
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -6255,7 +6255,6 @@ var database = [
 {id:142136,title:"ShowTime！唱歌的大姐姐也想做 2"},
 {id:142193,title:"英雄王，為了窮盡武道而轉生～而後成為世界最強見習騎士♀～"},
 {id:142216,title:"女學。II～Lucky Stars～"},
-{id:142219,title:"名偵探柯南：萬聖節的新娘"},
 {id:142229,title:"エロリーマン"},
 {id:142274,title:"Ninjala 泡泡糖忍戰"},
 {id:142329,title:"鬼滅之刃 遊郭編"},
@@ -6821,7 +6820,6 @@ var database = [
 {id:169692,title:"拳願阿修羅 第二季 Part 2"},
 {id:169698,title:"我回來了、歡迎回家"},
 {id:169728,title:"しーくれっとみっしょん～潜入捜査官は絶対に負けない！～"},
-{id:169754,title:"名偵探柯南：100 萬美元的五稜星"},
 {id:169755,title:"BLEACH 死神 千年血戰篇-相剋譚-"},
 {id:169766,title:"RABBITS KINGDOM THE MOVIE"},
 {id:169927,title:"單人房、日照一般、附天使。"},
@@ -7035,7 +7033,41 @@ var database = [
 {id:185281,title:"ゴムをつけてといいましたよね..."},
 {id:182094,title:"お兄さん…おひとりですか？"},
 {id:99085,title:"多啦A夢：大雄之南極凍冰冰大冒險"},
-{id:183423,title:"ONE PIECE 魚人島篇"}
+{id:185212,title:"名偵探柯南：獨眼的殘像"},
+{id:169754,title:"名偵探柯南：100萬美元的五稜星"},
+{id:113653,title:"名偵探柯南：緋色的彈丸"},
+{id:183423,title:"ONE PIECE 魚人島篇"},
+{id:106206,title:"名偵探柯南：紺青之拳"},
+{id:100653,title:"名偵探柯南：零的執行人"},
+{id:98222,title:"名偵探柯南：唐紅的戀歌"},
+{id:21470,title:"名偵探柯南：純黑的惡夢"},
+{id:21646,title:"名偵探柯南：業火的向日葵"},
+{id:20546,title:"名偵探柯南：異次元的狙擊手"},
+{id:14735,title:"名偵探柯南：絕海的偵探"},
+{id:9963,title:"名偵探柯南：沉默的15分鐘"},
+{id:5460,title:"名偵探柯南：漆黑的追跡者"},
+{id:2171,title:"名偵探柯南：紺碧之棺"},
+{id:1365,title:"名偵探柯南：必嘉街的亡靈"},
+{id:1364,title:"名偵探柯南：往天國的倒數計時"},
+{id:781,title:"名偵探柯南：世紀末的魔術師"},
+{id:779,title:"名偵探柯南：引爆摩天樓"},
+{id:7471,title:""},
+{id:1505,title:"名偵探柯南：水平線上的陰謀"},
+{id:184369,title:"名偵探柯南 vs. 怪盜基德"},
+{id:131770,title:"名偵探柯南：緋色的不在場證明"},
+{id:20878,title:"名偵探柯南 江戶川柯南失蹤事件 ～史上最糟糕的兩天～"},
+{id:142219,title:"名偵探柯南：萬聖節的新娘"},
+{id:12117,title:"名偵探柯南：第11位前鋒"},
+{id:6467,title:"名偵探柯南：天空的遇難船"},
+{id:4447,title:"名偵探柯南：戰慄的樂譜"},
+{id:1506,title:"名偵探柯南：偵探們的鎮魂歌"},
+{id:1367,title:"名偵探柯南：銀翼的奇術師"},
+{id:1366,title:"名偵探柯南：迷宮的十字路"},
+{id:1363,title:"名偵探柯南：瞳孔中的暗殺者"},
+{id:780,title:"名偵探柯南：第14號獵物"},
+{id:18429,title:"雷朋三世VS名偵探柯南 THE MOVIE"},
+{id:98604,title:"名偵探柯南 Episode\"ONE\" 變小了的名偵探"},
+{id:6115,title:"雷朋三世VS名偵探柯南"}
 ];
 
 var updating;
