@@ -7115,7 +7115,8 @@ const db = new Map([
 [2647,{title:"多啦美與迷你多啦SOS",synonyms:[]}],
 [2639,{title:"多啦美與哈囉小恐龍",synonyms:[]}],
 [9348,{title:"櫻桃小丸子：我最喜歡的歌",synonyms:[]}],
-[21267,{title:"櫻桃小丸子：來自意大利的少年",synonyms:[]}]
+[21267,{title:"櫻桃小丸子：來自意大利的少年",synonyms:[]}],
+[169930,{title:"T・P BON",synonyms:["T·P時光特警"]}]
 ]);
 
 async function handleRequest(req) {

@@ -7155,6 +7155,7 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 2639	{"title": {"chinese": "多啦美與哈囉小恐龍"}, "synonyms_chinese": []}
 9348	{"title": {"chinese": "櫻桃小丸子：我最喜歡的歌"}, "synonyms_chinese": []}
 21267	{"title": {"chinese": "櫻桃小丸子：來自意大利的少年"}, "synonyms_chinese": []}
+169930	{"title": {"chinese": "T・P BON"}, "synonyms_chinese": ["T·P時光特警"]}
 \.
 
 
