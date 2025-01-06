@@ -1172,7 +1172,6 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 3167	{"title": {"chinese": "夏娃的時間"}, "synonyms_chinese": []}
 3171	{"title": {"chinese": "凌辱人妻温泉"}, "synonyms_chinese": []}
 3174	{"title": {"chinese": "sola OVA"}, "synonyms_chinese": []}
-3203	{"title": {"chinese": "櫻桃小丸子 (1990)"}, "synonyms_chinese": []}
 3205	{"title": {"chinese": "Cream Lemon Lemon Angel"}, "synonyms_chinese": []}
 3211	{"title": {"chinese": "お天気お姉さん"}, "synonyms_chinese": []}
 3220	{"title": {"chinese": "悲傷的貝拉朵娜"}, "synonyms_chinese": []}
@@ -7078,6 +7077,15 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 20878	{"title": {"chinese": "名偵探柯南 江戶川柯南失蹤事件 ～史上最糟糕的兩天～"}, "synonyms_chinese": []}
 142219	{"title": {"chinese": "名偵探柯南：萬聖節的新娘"}, "synonyms_chinese": ["名偵探柯南：萬聖夜的新娘"]}
 12117	{"title": {"chinese": "名偵探柯南：第11位前鋒"}, "synonyms_chinese": []}
+2655	{"title": {"chinese": "多啦A夢：大雄與機械人王國"}, "synonyms_chinese": []}
+2654	{"title": {"chinese": "多啦A夢：大雄與翼之勇者"}, "synonyms_chinese": []}
+7045	{"title": {"chinese": "多啦A夢：大雄的太陽王傳說"}, "synonyms_chinese": []}
+2668	{"title": {"chinese": "多啦A夢：大雄的宇宙漂流記"}, "synonyms_chinese": []}
+2664	{"title": {"chinese": "多啦A夢：大雄的南海大冒險"}, "synonyms_chinese": []}
+2678	{"title": {"chinese": "多啦A夢：大雄的上鏈都市歷險記"}, "synonyms_chinese": []}
+2675	{"title": {"chinese": "多啦A夢：大雄與銀河超特急"}, "synonyms_chinese": []}
+2674	{"title": {"chinese": "多啦A夢：大雄的創世日記"}, "synonyms_chinese": []}
+2676	{"title": {"chinese": "多啦A夢：大雄與夢幻三劍士"}, "synonyms_chinese": []}
 6467	{"title": {"chinese": "名偵探柯南：天空的遇難船"}, "synonyms_chinese": []}
 4447	{"title": {"chinese": "名偵探柯南：戰慄的樂譜"}, "synonyms_chinese": []}
 1506	{"title": {"chinese": "名偵探柯南：偵探們的鎮魂歌"}, "synonyms_chinese": []}
@@ -7088,6 +7096,11 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 18429	{"title": {"chinese": "雷朋三世VS名偵探柯南 THE MOVIE"}, "synonyms_chinese": []}
 98604	{"title": {"chinese": "名偵探柯南 Episode\\"ONE\\" 變小了的名偵探"}, "synonyms_chinese": []}
 6115	{"title": {"chinese": "雷朋三世VS名偵探柯南"}, "synonyms_chinese": []}
+2659	{"title": {"chinese": "多啦A夢：大雄與迷宮之旅"}, "synonyms_chinese": []}
+2661	{"title": {"chinese": "多啦A夢：大雄與雲之國"}, "synonyms_chinese": []}
+2670	{"title": {"chinese": "多啦A夢：大雄的天方夜譚"}, "synonyms_chinese": []}
+2677	{"title": {"chinese": "多啦A夢：大雄與惑星之謎"}, "synonyms_chinese": []}
+87438	{"title": {"chinese": "多啦A夢：大雄的日本誕生"}, "synonyms_chinese": []}
 166976	{"title": {"chinese": "多啦A夢：大雄之地球交響樂"}, "synonyms_chinese": []}
 151896	{"title": {"chinese": "多啦A夢：大雄與天空的理想鄉"}, "synonyms_chinese": []}
 126783	{"title": {"chinese": "多啦A夢：大雄的宇宙小戰爭 2021"}, "synonyms_chinese": []}
@@ -7108,6 +7121,40 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 2392	{"title": {"chinese": "多啦A夢：新大雄的恐龍"}, "synonyms_chinese": []}
 2656	{"title": {"chinese": "多啦A夢：大雄的貓狗時空傳"}, "synonyms_chinese": []}
 2393	{"title": {"chinese": "多啦A夢：大雄與風之使者"}, "synonyms_chinese": []}
+2658	{"title": {"chinese": "多啦A夢：大雄的平行西遊記"}, "synonyms_chinese": []}
+2657	{"title": {"chinese": "多啦A夢：大雄與龍騎士"}, "synonyms_chinese": []}
+2665	{"title": {"chinese": "多啦A夢：大雄與鐵人兵團"}, "synonyms_chinese": []}
+2669	{"title": {"chinese": "多啦A夢：大雄的宇宙小戰爭"}, "synonyms_chinese": []}
+2672	{"title": {"chinese": "多啦A夢：大雄的魔界大冒險"}, "synonyms_chinese": []}
+2667	{"title": {"chinese": "多啦A夢：大雄的海底鬼岩城"}, "synonyms_chinese": []}
+2671	{"title": {"chinese": "多啦A夢：大雄的大魔境"}, "synonyms_chinese": []}
+2662	{"title": {"chinese": "多啦A夢：大雄的宇宙開拓史"}, "synonyms_chinese": []}
+3727	{"title": {"chinese": "多啦A夢：大雄的恐龍"}, "synonyms_chinese": []}
+2471	{"title": {"chinese": "多啦A夢"}, "synonyms_chinese": []}
+8687	{"title": {"chinese": "多啦A夢"}, "synonyms_chinese": []}
+20515	{"title": {"chinese": "STAND BY ME：多啦A夢"}, "synonyms_chinese": []}
+122575	{"title": {"chinese": "STAND BY ME：多啦A夢 2"}, "synonyms_chinese": []}
+2648	{"title": {"chinese": "多啦A夢：2112年多啦A夢誕生"}, "synonyms_chinese": []}
+2651	{"title": {"chinese": "多啦A夢回來了"}, "synonyms_chinese": []}
+2650	{"title": {"chinese": "多啦A夢：我是桃太郎的什麽呢"}, "synonyms_chinese": []}
+2660	{"title": {"chinese": "多啦A夢：大雄的結婚前夜"}, "synonyms_chinese": []}
+2626	{"title": {"chinese": "多啦A夢族 機械昆蟲大作戰"}, "synonyms_chinese": []}
+2649	{"title": {"chinese": "多啦A夢：令人懷念的嫲嫲"}, "synonyms_chinese": []}
+2652	{"title": {"chinese": "多啦A夢：我出生的那一天"}, "synonyms_chinese": []}
+2645	{"title": {"chinese": "多啦美&多啦A夢族 宇宙樂園千鈞一髮！"}, "synonyms_chinese": []}
+2636	{"title": {"chinese": "多啦美與阿拉拉少年山賊團"}, "synonyms_chinese": []}
+2642	{"title": {"chinese": "多啦美與青色稻草人"}, "synonyms_chinese": []}
+3203	{"title": {"chinese": "櫻桃小丸子"}, "synonyms_chinese": []}
+2631	{"title": {"chinese": "多啦A夢七小子 GOAL! GOAL! GOAL!!"}, "synonyms_chinese": []}
+501	{"title": {"chinese": "多啦A夢"}, "synonyms_chinese": []}
+2653	{"title": {"chinese": "多啦A夢：加油！胖虎！！"}, "synonyms_chinese": []}
+2628	{"title": {"chinese": "多啦A夢族 奇異的甜品娜娜王國"}, "synonyms_chinese": []}
+2633	{"title": {"chinese": "多啦A夢族 生死時速火車大決戰"}, "synonyms_chinese": ["哆啦A夢在未來世界 驚心動魄的火車頭大暴走"]}
+2625	{"title": {"chinese": "多啦A夢族 怪盜多啦賓 神秘的挑戰書!!"}, "synonyms_chinese": []}
+2647	{"title": {"chinese": "多啦美與迷你多啦SOS"}, "synonyms_chinese": []}
+2639	{"title": {"chinese": "多啦美與哈囉小恐龍"}, "synonyms_chinese": []}
+9348	{"title": {"chinese": "櫻桃小丸子：我最喜歡的歌"}, "synonyms_chinese": []}
+21267	{"title": {"chinese": "櫻桃小丸子：來自意大利的少年"}, "synonyms_chinese": []}
 \.
 
 
