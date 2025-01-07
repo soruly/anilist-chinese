@@ -12176,11 +12176,6 @@
     ]
   },
   {
-    "id": 9362,
-    "title": "百花繚亂 SAMURAI GIRLS SP",
-    "synonyms": []
-  },
-  {
     "id": 9367,
     "title": "零度戰姬",
     "synonyms": [
@@ -18520,11 +18515,6 @@
     ]
   },
   {
-    "id": 20633,
-    "title": "未確認進行式 OVA",
-    "synonyms": []
-  },
-  {
     "id": 20634,
     "title": "搞姬日常",
     "synonyms": [
@@ -18803,11 +18793,6 @@
   {
     "id": 20686,
     "title": "科學超電磁砲S OVA",
-    "synonyms": []
-  },
-  {
-    "id": 20687,
-    "title": "未確認進行式 OVA",
     "synonyms": []
   },
   {
@@ -40810,11 +40795,6 @@
     "synonyms": []
   },
   {
-    "id": 20798,
-    "title": "Robot Girls Z",
-    "synonyms": []
-  },
-  {
     "id": 116054,
     "title": "被詛咒的連身裙",
     "synonyms": []
@@ -41278,13 +41258,33 @@
     "synonyms": []
   },
   {
+    "id": 20187,
+    "title": "穿透幻影的太陽 無法敞開的心扉",
+    "synonyms": []
+  },
+  {
+    "id": 20731,
+    "title": "如果折斷她的旗 OVA",
+    "synonyms": []
+  },
+  {
     "id": 1147,
     "title": "天地無用! 魎皇鬼 第3期 Plus 1",
     "synonyms": []
   },
   {
+    "id": 20633,
+    "title": "未確認進行式 看，那就是我們所住的旅館哦。",
+    "synonyms": []
+  },
+  {
+    "id": 20798,
+    "title": "Robot Girls Z Specials",
+    "synonyms": []
+  },
+  {
     "id": 1146,
-    "title": "祭典前夕",
+    "title": "天地無用! 魎皇鬼 祭典前夕",
     "synonyms": []
   },
   {
@@ -41293,8 +41293,103 @@
     "synonyms": []
   },
   {
+    "id": 20687,
+    "title": "未確認進行式 鴨肉有着綠一般的味道呢。",
+    "synonyms": []
+  },
+  {
+    "id": 13055,
+    "title": "散華禮彌 OVA",
+    "synonyms": []
+  },
+  {
+    "id": 177457,
+    "title": "天地無用! 魎皇鬼 平安無用!",
+    "synonyms": []
+  },
+  {
+    "id": 20682,
+    "title": "姐姐來了 初次的…來了！",
+    "synonyms": []
+  },
+  {
+    "id": 10351,
+    "title": "天地無用! 魎皇鬼 番外篇",
+    "synonyms": []
+  },
+  {
+    "id": 8767,
+    "title": "新・天地無用!",
+    "synonyms": []
+  },
+  {
+    "id": 696,
+    "title": "天地無用！",
+    "synonyms": []
+  },
+  {
+    "id": 1133,
+    "title": "天地無用! GXP",
+    "synonyms": []
+  },
+  {
+    "id": 1006,
+    "title": "天地無用! in Love",
+    "synonyms": []
+  },
+  {
+    "id": 538,
+    "title": "新・天地無用!",
+    "synonyms": []
+  },
+  {
+    "id": 1144,
+    "title": "天地無用！in LOVE 2 遙遠的思念",
+    "synonyms": []
+  },
+  {
+    "id": 13127,
+    "title": "百花繚亂 SAMURAI GIRLS Picture Drama",
+    "synonyms": []
+  },
+  {
     "id": 21501,
     "title": "銀魂 Jump Festa 2015",
+    "synonyms": []
+  },
+  {
+    "id": 2725,
+    "title": "天地無用！番外篇 宇宙刑事美星 銀河大冒險",
+    "synonyms": []
+  },
+  {
+    "id": 165749,
+    "title": "天地無用！GXP 樂園始動編",
+    "synonyms": []
+  },
+  {
+    "id": 1101,
+    "title": "天地無用！盛夏的聖誕夜",
+    "synonyms": []
+  },
+  {
+    "id": 9362,
+    "title": "百花繚亂 〜少女♥甜蜜羞澀的將與士之契〜",
+    "synonyms": []
+  },
+  {
+    "id": 21389,
+    "title": "魔物娘的相伴日常 ほぼ毎日◯◯！生っぽい動畫",
+    "synonyms": []
+  },
+  {
+    "id": 21091,
+    "title": "Free! -Eternal Summer-: Forbidden All-Hard!",
+    "synonyms": []
+  },
+  {
+    "id": 20959,
+    "title": "Go! Go! 575",
     "synonyms": []
   },
   {
@@ -41305,6 +41400,11 @@
   {
     "id": 169000,
     "title": "銀魂ON劇場2D 荊棘流氓篇",
+    "synonyms": []
+  },
+  {
+    "id": 20846,
+    "title": "犬神同學和貓山同學 貓山同學與溫泉旅行",
     "synonyms": []
   },
   {
@@ -41323,8 +41423,212 @@
     "synonyms": []
   },
   {
+    "id": 20578,
+    "title": "零度戰姬 振動 Specials",
+    "synonyms": []
+  },
+  {
+    "id": 19255,
+    "title": "百花繚亂 SAMURAI Specials",
+    "synonyms": []
+  },
+  {
     "id": 20882,
     "title": "銀魂 Jump Festa 2014",
+    "synonyms": []
+  },
+  {
+    "id": 17535,
+    "title": "劇場版 Fairy Tail 鳳凰巫女 Prologue",
+    "synonyms": []
+  },
+  {
+    "id": 20738,
+    "title": "鄰座同學是怪咖 Specials",
+    "synonyms": []
+  },
+  {
+    "id": 21299,
+    "title": "百花繚亂 SAMURAI AFTER 妄想新婚日記",
+    "synonyms": []
+  },
+  {
+    "id": 20803,
+    "title": "健全機鬥士 OVA",
+    "synonyms": []
+  },
+  {
+    "id": 19697,
+    "title": "科學超電磁砲S Specials",
+    "synonyms": []
+  },
+  {
+    "id": 20600,
+    "title": "鄰座同學是怪咖 OVA",
+    "synonyms": []
+  },
+  {
+    "id": 13731,
+    "title": "交響詩篇: New Order",
+    "synonyms": []
+  },
+  {
+    "id": 8023,
+    "title": "科學超電磁砲 Specials",
+    "synonyms": []
+  },
+  {
+    "id": 20523,
+    "title": "夜櫻四重奏 Specials",
+    "synonyms": []
+  },
+  {
+    "id": 4037,
+    "title": "星際牛仔 混搭藍調",
+    "synonyms": [
+      "星際牛仔 總集篇"
+    ]
+  },
+  {
+    "id": 17391,
+    "title": "戰勇。 Specials",
+    "synonyms": []
+  },
+  {
+    "id": 19029,
+    "title": "悠悠式 喵喵式",
+    "synonyms": []
+  },
+  {
+    "id": 18393,
+    "title": "FAIRY TAIL × RAVE",
+    "synonyms": []
+  },
+  {
+    "id": 150078,
+    "title": "FAIRY TAIL (2014) OVA",
+    "synonyms": []
+  },
+  {
+    "id": 17205,
+    "title": "星際牛仔：愛因的暑假",
+    "synonyms": []
+  },
+  {
+    "id": 16694,
+    "title": "散華禮彌 我也是…殭屍",
+    "synonyms": []
+  },
+  {
+    "id": 14875,
+    "title": "交響詩篇 AO 少女峰的花叢",
+    "synonyms": []
+  },
+  {
+    "id": 15979,
+    "title": "交響詩篇 AO 嶄新的深藍",
+    "synonyms": []
+  },
+  {
+    "id": 101339,
+    "title": "交響詩篇 AO Eureka Seven AO Final Episode: One More Time - Lord Don't Slow Me Down",
+    "synonyms": []
+  },
+  {
+    "id": 13561,
+    "title": "Guilty Crown 4格劇場",
+    "synonyms": []
+  },
+  {
+    "id": 13411,
+    "title": "Guilty Crown: Lost Christmas",
+    "synonyms": [
+      "罪惡王冠: 失落的聖誕節"
+    ]
+  },
+  {
+    "id": 9608,
+    "title": "百合星人奈緒子美眉",
+    "synonyms": []
+  },
+  {
+    "id": 12437,
+    "title": "百合星人奈緒子美眉 (2012)",
+    "synonyms": []
+  },
+  {
+    "id": 10863,
+    "title": "Steins;Gate 橫行跋扈的離家漫遊廦",
+    "synonyms": []
+  },
+  {
+    "id": 10249,
+    "title": "魔法禁書目錄 II Specials",
+    "synonyms": []
+  },
+  {
+    "id": 10934,
+    "title": "曾幾何時天魔的黑兔 OVA",
+    "synonyms": []
+  },
+  {
+    "id": 13137,
+    "title": "曾幾何時天魔的黑兔 Special",
+    "synonyms": []
+  },
+  {
+    "id": 5955,
+    "title": "魔法禁書目錄 Specials",
+    "synonyms": []
+  },
+  {
+    "id": 12579,
+    "title": "曾幾何時天魔的黑兔 Picture Drama",
+    "synonyms": []
+  },
+  {
+    "id": 10933,
+    "title": "R-15 OVA",
+    "synonyms": []
+  },
+  {
+    "id": 7782,
+    "title": "Kämpfer Picture Drama",
+    "synonyms": []
+  },
+  {
+    "id": 10076,
+    "title": "肯普法 為了愛",
+    "synonyms": []
+  },
+  {
+    "id": 9888,
+    "title": "侵略！花枝娘 番外編",
+    "synonyms": []
+  },
+  {
+    "id": 10796,
+    "title": "迷糊軟網社 Specials",
+    "synonyms": []
+  },
+  {
+    "id": 10739,
+    "title": "Panty & Stocking in Sanitarybox",
+    "synonyms": []
+  },
+  {
+    "id": 10604,
+    "title": "緋彈的亞莉亞 武偵來到溫泉研修",
+    "synonyms": []
+  },
+  {
+    "id": 9581,
+    "title": "MM一族！Specials",
+    "synonyms": []
+  },
+  {
+    "id": 9220,
+    "title": "世紀末超自然學院 Specials",
     "synonyms": []
   }
 ]

@@ -2174,7 +2174,6 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 9347	{"title": {"chinese": "FORTUNE ARTERIAL -赤之約束- OVA"}, "synonyms_chinese": []}
 9352	{"title": {"chinese": "天使のはばたきJUN"}, "synonyms_chinese": []}
 9355	{"title": {"chinese": "鶺鴒女神〜Pure Engagement〜"}, "synonyms_chinese": ["鸚鵡女神〜Pure Engagement〜", "女神計劃〜Pure Engagement〜"]}
-9362	{"title": {"chinese": "百花繚亂 SAMURAI GIRLS SP"}, "synonyms_chinese": []}
 9367	{"title": {"chinese": "零度戰姬"}, "synonyms_chinese": ["結界女王"]}
 9375	{"title": {"chinese": "ネトラレ ～田辺優香の独白～"}, "synonyms_chinese": []}
 9379	{"title": {"chinese": "電波女與青春男"}, "synonyms_chinese": []}
@@ -3224,7 +3223,6 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 20629	{"title": {"chinese": "火星異種"}, "synonyms_chinese": ["Terra Formars ~火星任務~", "火星蟑螂"]}
 20631	{"title": {"chinese": "Trinity Seven"}, "synonyms_chinese": ["魔道書7使者", "七人魔法使"]}
 20632	{"title": {"chinese": "ALDNOAH.ZERO"}, "synonyms_chinese": ["ALDNOAH ZERO"]}
-20633	{"title": {"chinese": "未確認進行式 OVA"}, "synonyms_chinese": []}
 20634	{"title": {"chinese": "搞姬日常"}, "synonyms_chinese": ["偽姬物語", "偽姬日常"]}
 20635	{"title": {"chinese": "龍珠 改 (2014)"}, "synonyms_chinese": ["七龍珠 改 (2014)"]}
 20636	{"title": {"chinese": "摸索吧！社團活動 Encore"}, "synonyms_chinese": ["妄想探索社 Encore", "摸索吧！部活劇 Encore"]}
@@ -3270,7 +3268,6 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 20684	{"title": {"chinese": "世界第一初戀 ~請人節篇~"}, "synonyms_chinese": []}
 20685	{"title": {"chinese": "BUDDY COMPLEX 完結篇"}, "synonyms_chinese": []}
 20686	{"title": {"chinese": "科學超電磁砲S OVA"}, "synonyms_chinese": []}
-20687	{"title": {"chinese": "未確認進行式 OVA"}, "synonyms_chinese": []}
 20689	{"title": {"chinese": "漫研部～妄想catastrophe～"}, "synonyms_chinese": []}
 20690	{"title": {"chinese": "宇宙戰艦大和號2199 遊星方舟"}, "synonyms_chinese": []}
 20691	{"title": {"chinese": "劇場版 進擊的巨人 前編 紅蓮的弓矢"}, "synonyms_chinese": []}
@@ -7215,7 +7212,6 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 117408	{"title": {"chinese": "CODE GEASS 復活的魯魯修 SP"}, "synonyms_chinese": []}
 127863	{"title": {"chinese": "Bear Bear Bear Kuma! 熊壩篇"}, "synonyms_chinese": []}
 126393	{"title": {"chinese": "鬥神姬"}, "synonyms_chinese": []}
-20798	{"title": {"chinese": "Robot Girls Z"}, "synonyms_chinese": []}
 116054	{"title": {"chinese": "被詛咒的連身裙"}, "synonyms_chinese": []}
 98141	{"title": {"chinese": "Robot Girls Z 0"}, "synonyms_chinese": []}
 125642	{"title": {"chinese": "Robot Girls Z Petit Chara Anime"}, "synonyms_chinese": []}
@@ -7306,16 +7302,80 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 21433	{"title": {"chinese": "浦和的小調 未放送話"}, "synonyms_chinese": []}
 21429	{"title": {"chinese": "天地無用! 魎皇鬼 第4期"}, "synonyms_chinese": []}
 114442	{"title": {"chinese": "天地無用! 魎皇鬼 第5期"}, "synonyms_chinese": []}
+20187	{"title": {"chinese": "穿透幻影的太陽 無法敞開的心扉"}, "synonyms_chinese": []}
+20731	{"title": {"chinese": "如果折斷她的旗 OVA"}, "synonyms_chinese": []}
 1147	{"title": {"chinese": "天地無用! 魎皇鬼 第3期 Plus 1"}, "synonyms_chinese": []}
-1146	{"title": {"chinese": "祭典前夕"}, "synonyms_chinese": []}
+20633	{"title": {"chinese": "未確認進行式 看，那就是我們所住的旅館哦。"}, "synonyms_chinese": []}
+20798	{"title": {"chinese": "Robot Girls Z Specials"}, "synonyms_chinese": []}
+1146	{"title": {"chinese": "天地無用! 魎皇鬼 祭典前夕"}, "synonyms_chinese": []}
 111952	{"title": {"chinese": "銀魂 銀魂 ～Monster Strike編～"}, "synonyms_chinese": []}
+20687	{"title": {"chinese": "未確認進行式 鴨肉有着綠一般的味道呢。"}, "synonyms_chinese": []}
+13055	{"title": {"chinese": "散華禮彌 OVA"}, "synonyms_chinese": []}
+177457	{"title": {"chinese": "天地無用! 魎皇鬼 平安無用!"}, "synonyms_chinese": []}
+20682	{"title": {"chinese": "姐姐來了 初次的…來了！"}, "synonyms_chinese": []}
+10351	{"title": {"chinese": "天地無用! 魎皇鬼 番外篇"}, "synonyms_chinese": []}
+8767	{"title": {"chinese": "新・天地無用!"}, "synonyms_chinese": []}
+696	{"title": {"chinese": "天地無用！"}, "synonyms_chinese": []}
+1133	{"title": {"chinese": "天地無用! GXP"}, "synonyms_chinese": []}
+1006	{"title": {"chinese": "天地無用! in Love"}, "synonyms_chinese": []}
+538	{"title": {"chinese": "新・天地無用!"}, "synonyms_chinese": []}
+1144	{"title": {"chinese": "天地無用！in LOVE 2 遙遠的思念"}, "synonyms_chinese": []}
+13127	{"title": {"chinese": "百花繚亂 SAMURAI GIRLS Picture Drama"}, "synonyms_chinese": []}
 21501	{"title": {"chinese": "銀魂 Jump Festa 2015"}, "synonyms_chinese": []}
+2725	{"title": {"chinese": "天地無用！番外篇 宇宙刑事美星 銀河大冒險"}, "synonyms_chinese": []}
+165749	{"title": {"chinese": "天地無用！GXP 樂園始動編"}, "synonyms_chinese": []}
+1101	{"title": {"chinese": "天地無用！盛夏的聖誕夜"}, "synonyms_chinese": []}
+9362	{"title": {"chinese": "百花繚亂 〜少女♥甜蜜羞澀的將與士之契〜"}, "synonyms_chinese": []}
+21389	{"title": {"chinese": "魔物娘的相伴日常 ほぼ毎日◯◯！生っぽい動畫"}, "synonyms_chinese": []}
+21091	{"title": {"chinese": "Free! -Eternal Summer-: Forbidden All-Hard!"}, "synonyms_chinese": []}
+20959	{"title": {"chinese": "Go! Go! 575"}, "synonyms_chinese": []}
 178436	{"title": {"chinese": "銀魂ON劇場2D 金魂篇"}, "synonyms_chinese": []}
 169000	{"title": {"chinese": "銀魂ON劇場2D 荊棘流氓篇"}, "synonyms_chinese": []}
+20846	{"title": {"chinese": "犬神同學和貓山同學 貓山同學與溫泉旅行"}, "synonyms_chinese": []}
 539	{"title": {"chinese": "天地無用! 魎皇鬼 第1期"}, "synonyms_chinese": []}
 540	{"title": {"chinese": "天地無用! 魎皇鬼 第2期"}, "synonyms_chinese": []}
 541	{"title": {"chinese": "天地無用! 魎皇鬼 第3期"}, "synonyms_chinese": []}
+20578	{"title": {"chinese": "零度戰姬 振動 Specials"}, "synonyms_chinese": []}
+19255	{"title": {"chinese": "百花繚亂 SAMURAI Specials"}, "synonyms_chinese": []}
 20882	{"title": {"chinese": "銀魂 Jump Festa 2014"}, "synonyms_chinese": []}
+17535	{"title": {"chinese": "劇場版 Fairy Tail 鳳凰巫女 Prologue"}, "synonyms_chinese": []}
+20738	{"title": {"chinese": "鄰座同學是怪咖 Specials"}, "synonyms_chinese": []}
+21299	{"title": {"chinese": "百花繚亂 SAMURAI AFTER 妄想新婚日記"}, "synonyms_chinese": []}
+20803	{"title": {"chinese": "健全機鬥士 OVA"}, "synonyms_chinese": []}
+19697	{"title": {"chinese": "科學超電磁砲S Specials"}, "synonyms_chinese": []}
+20600	{"title": {"chinese": "鄰座同學是怪咖 OVA"}, "synonyms_chinese": []}
+13731	{"title": {"chinese": "交響詩篇: New Order"}, "synonyms_chinese": []}
+8023	{"title": {"chinese": "科學超電磁砲 Specials"}, "synonyms_chinese": []}
+20523	{"title": {"chinese": "夜櫻四重奏 Specials"}, "synonyms_chinese": []}
+4037	{"title": {"chinese": "星際牛仔 混搭藍調"}, "synonyms_chinese": ["星際牛仔 總集篇"]}
+17391	{"title": {"chinese": "戰勇。 Specials"}, "synonyms_chinese": []}
+19029	{"title": {"chinese": "悠悠式 喵喵式"}, "synonyms_chinese": []}
+18393	{"title": {"chinese": "FAIRY TAIL × RAVE"}, "synonyms_chinese": []}
+150078	{"title": {"chinese": "FAIRY TAIL (2014) OVA"}, "synonyms_chinese": []}
+17205	{"title": {"chinese": "星際牛仔：愛因的暑假"}, "synonyms_chinese": []}
+16694	{"title": {"chinese": "散華禮彌 我也是…殭屍"}, "synonyms_chinese": []}
+14875	{"title": {"chinese": "交響詩篇 AO 少女峰的花叢"}, "synonyms_chinese": []}
+15979	{"title": {"chinese": "交響詩篇 AO 嶄新的深藍"}, "synonyms_chinese": []}
+101339	{"title": {"chinese": "交響詩篇 AO Eureka Seven AO Final Episode: One More Time - Lord Don't Slow Me Down"}, "synonyms_chinese": []}
+13561	{"title": {"chinese": "Guilty Crown 4格劇場"}, "synonyms_chinese": []}
+13411	{"title": {"chinese": "Guilty Crown: Lost Christmas"}, "synonyms_chinese": ["罪惡王冠: 失落的聖誕節"]}
+9608	{"title": {"chinese": "百合星人奈緒子美眉"}, "synonyms_chinese": []}
+12437	{"title": {"chinese": "百合星人奈緒子美眉 (2012)"}, "synonyms_chinese": []}
+10863	{"title": {"chinese": "Steins;Gate 橫行跋扈的離家漫遊廦"}, "synonyms_chinese": []}
+10249	{"title": {"chinese": "魔法禁書目錄 II Specials"}, "synonyms_chinese": []}
+10934	{"title": {"chinese": "曾幾何時天魔的黑兔 OVA"}, "synonyms_chinese": []}
+13137	{"title": {"chinese": "曾幾何時天魔的黑兔 Special"}, "synonyms_chinese": []}
+5955	{"title": {"chinese": "魔法禁書目錄 Specials"}, "synonyms_chinese": []}
+12579	{"title": {"chinese": "曾幾何時天魔的黑兔 Picture Drama"}, "synonyms_chinese": []}
+10933	{"title": {"chinese": "R-15 OVA"}, "synonyms_chinese": []}
+7782	{"title": {"chinese": "Kämpfer Picture Drama"}, "synonyms_chinese": []}
+10076	{"title": {"chinese": "肯普法 為了愛"}, "synonyms_chinese": []}
+9888	{"title": {"chinese": "侵略！花枝娘 番外編"}, "synonyms_chinese": []}
+10796	{"title": {"chinese": "迷糊軟網社 Specials"}, "synonyms_chinese": []}
+10739	{"title": {"chinese": "Panty & Stocking in Sanitarybox"}, "synonyms_chinese": []}
+10604	{"title": {"chinese": "緋彈的亞莉亞 武偵來到溫泉研修"}, "synonyms_chinese": []}
+9581	{"title": {"chinese": "MM一族！Specials"}, "synonyms_chinese": []}
+9220	{"title": {"chinese": "世紀末超自然學院 Specials"}, "synonyms_chinese": []}
 \.
 
 
