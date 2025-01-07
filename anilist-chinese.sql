@@ -7360,22 +7360,59 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 13561	{"title": {"chinese": "Guilty Crown 4格劇場"}, "synonyms_chinese": []}
 13411	{"title": {"chinese": "Guilty Crown: Lost Christmas"}, "synonyms_chinese": ["罪惡王冠: 失落的聖誕節"]}
 9608	{"title": {"chinese": "百合星人奈緒子美眉"}, "synonyms_chinese": []}
+8062	{"title": {"chinese": "舞-HiME 黑之舞/最後的晩餐"}, "synonyms_chinese": []}
 12437	{"title": {"chinese": "百合星人奈緒子美眉 (2012)"}, "synonyms_chinese": []}
 10863	{"title": {"chinese": "Steins;Gate 橫行跋扈的離家漫遊廦"}, "synonyms_chinese": []}
+5199	{"title": {"chinese": "瀨戶的花嫁 Fan Disc"}, "synonyms_chinese": []}
+8728	{"title": {"chinese": "CODE GEASS 叛逆的魯魯修 奇蹟的誕生日 Picture Drama"}, "synonyms_chinese": []}
 10249	{"title": {"chinese": "魔法禁書目錄 II Specials"}, "synonyms_chinese": []}
 10934	{"title": {"chinese": "曾幾何時天魔的黑兔 OVA"}, "synonyms_chinese": []}
+3421	{"title": {"chinese": "玩偶遊戲 OVA"}, "synonyms_chinese": ["兒童的玩具 OVA", "孩子們的遊戲 OVA"]}
+7041	{"title": {"chinese": "瀨戶的花嫁 OVA Extras"}, "synonyms_chinese": []}
+2400	{"title": {"chinese": "GS美神"}, "synonyms_chinese": []}
+17020	{"title": {"chinese": "D.C.III ～初音島III～ Special"}, "synonyms_chinese": []}
 13137	{"title": {"chinese": "曾幾何時天魔的黑兔 Special"}, "synonyms_chinese": []}
 5955	{"title": {"chinese": "魔法禁書目錄 Specials"}, "synonyms_chinese": []}
+673	{"title": {"chinese": "舞-HiME Specials"}, "synonyms_chinese": []}
+3931	{"title": {"chinese": "頭文字D BATTLE STAGE 2"}, "synonyms_chinese": []}
+7745	{"title": {"chinese": "絕對可憐CHILDREN 愛多憎生-被奪走的未來"}, "synonyms_chinese": []}
+132634	{"title": {"chinese": "頭文字D BATTLE STAGE 3"}, "synonyms_chinese": []}
+6884	{"title": {"chinese": "狼與香辛料 II Specials"}, "synonyms_chinese": []}
+6783	{"title": {"chinese": "ef - a tale of memories. ~Recollections~"}, "synonyms_chinese": []}
 12579	{"title": {"chinese": "曾幾何時天魔的黑兔 Picture Drama"}, "synonyms_chinese": []}
+6705	{"title": {"chinese": "遊魂 -Pure my heart-"}, "synonyms_chinese": []}
+5957	{"title": {"chinese": "小鶴屋學姊的四格"}, "synonyms_chinese": []}
 10933	{"title": {"chinese": "R-15 OVA"}, "synonyms_chinese": []}
 7782	{"title": {"chinese": "Kämpfer Picture Drama"}, "synonyms_chinese": []}
 10076	{"title": {"chinese": "肯普法 為了愛"}, "synonyms_chinese": []}
+1921	{"title": {"chinese": "福星小子 綺麗夢中人"}, "synonyms_chinese": []}
 9888	{"title": {"chinese": "侵略！花枝娘 番外編"}, "synonyms_chinese": []}
+5293	{"title": {"chinese": "A Time Slip of 10000 Years: Prime Rose"}, "synonyms_chinese": [""]}
 10796	{"title": {"chinese": "迷糊軟網社 Specials"}, "synonyms_chinese": []}
 10739	{"title": {"chinese": "Panty & Stocking in Sanitarybox"}, "synonyms_chinese": []}
+7322	{"title": {"chinese": "Needless+ -聖百合學園的秘密-"}, "synonyms_chinese": []}
 10604	{"title": {"chinese": "緋彈的亞莉亞 武偵來到溫泉研修"}, "synonyms_chinese": []}
+12725	{"title": {"chinese": "頭文字D to the Next Stage"}, "synonyms_chinese": []}
+1486	{"title": {"chinese": "玩偶遊戲"}, "synonyms_chinese": ["兒童的玩具", "孩子們的遊戲"]}
 9581	{"title": {"chinese": "MM一族！Specials"}, "synonyms_chinese": []}
+4163	{"title": {"chinese": "瀨戶的花嫁 OVA"}, "synonyms_chinese": []}
+5244	{"title": {"chinese": "ARIA The NATURAL OVA"}, "synonyms_chinese": []}
+145405	{"title": {"chinese": "新劇場版 頭文字D BATTLE DIGEST"}, "synonyms_chinese": []}
+821	{"title": {"chinese": "頭文字D BATTLE STAGE"}, "synonyms_chinese": []}
 9220	{"title": {"chinese": "世紀末超自然學院 Specials"}, "synonyms_chinese": []}
+1922	{"title": {"chinese": "福星小子 情侶樂天派"}, "synonyms_chinese": []}
+1923	{"title": {"chinese": "福星小子 鬼姬傳說"}, "synonyms_chinese": []}
+5228	{"title": {"chinese": "頭文字D Extra Stage 2"}, "synonyms_chinese": []}
+1925	{"title": {"chinese": "福星小子 聖水奇緣"}, "synonyms_chinese": []}
+1293	{"title": {"chinese": "福星小子"}, "synonyms_chinese": []}
+4508	{"title": {"chinese": "初音島 第二季 Special"}, "synonyms_chinese": []}
+1924	{"title": {"chinese": "福星小子 求你說聲我愛你"}, "synonyms_chinese": []}
+3037	{"title": {"chinese": "GS美神 極樂大作戰"}, "synonyms_chinese": []}
+1919	{"title": {"chinese": "福星小子 OVA"}, "synonyms_chinese": []}
+1920	{"title": {"chinese": "福星小子 愛星球之戀"}, "synonyms_chinese": []}
+609	{"title": {"chinese": "最終兵器彼女 Another Love Song"}, "synonyms_chinese": []}
+1659	{"title": {"chinese": "舞-乙HiME Specials"}, "synonyms_chinese": []}
+785	{"title": {"chinese": "御宅族的錄影帶"}, "synonyms_chinese": []}
 \.
 
 

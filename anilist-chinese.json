@@ -41552,6 +41552,11 @@
     "synonyms": []
   },
   {
+    "id": 8062,
+    "title": "舞-HiME 黑之舞/最後的晩餐",
+    "synonyms": []
+  },
+  {
     "id": 12437,
     "title": "百合星人奈緒子美眉 (2012)",
     "synonyms": []
@@ -41559,6 +41564,16 @@
   {
     "id": 10863,
     "title": "Steins;Gate 橫行跋扈的離家漫遊廦",
+    "synonyms": []
+  },
+  {
+    "id": 5199,
+    "title": "瀨戶的花嫁 Fan Disc",
+    "synonyms": []
+  },
+  {
+    "id": 8728,
+    "title": "CODE GEASS 叛逆的魯魯修 奇蹟的誕生日 Picture Drama",
     "synonyms": []
   },
   {
@@ -41572,6 +41587,29 @@
     "synonyms": []
   },
   {
+    "id": 3421,
+    "title": "玩偶遊戲 OVA",
+    "synonyms": [
+      "兒童的玩具 OVA",
+      "孩子們的遊戲 OVA"
+    ]
+  },
+  {
+    "id": 7041,
+    "title": "瀨戶的花嫁 OVA Extras",
+    "synonyms": []
+  },
+  {
+    "id": 2400,
+    "title": "GS美神",
+    "synonyms": []
+  },
+  {
+    "id": 17020,
+    "title": "D.C.III ～初音島III～ Special",
+    "synonyms": []
+  },
+  {
     "id": 13137,
     "title": "曾幾何時天魔的黑兔 Special",
     "synonyms": []
@@ -41582,8 +41620,48 @@
     "synonyms": []
   },
   {
+    "id": 673,
+    "title": "舞-HiME Specials",
+    "synonyms": []
+  },
+  {
+    "id": 3931,
+    "title": "頭文字D BATTLE STAGE 2",
+    "synonyms": []
+  },
+  {
+    "id": 7745,
+    "title": "絕對可憐CHILDREN 愛多憎生-被奪走的未來",
+    "synonyms": []
+  },
+  {
+    "id": 132634,
+    "title": "頭文字D BATTLE STAGE 3",
+    "synonyms": []
+  },
+  {
+    "id": 6884,
+    "title": "狼與香辛料 II Specials",
+    "synonyms": []
+  },
+  {
+    "id": 6783,
+    "title": "ef - a tale of memories. ~Recollections~",
+    "synonyms": []
+  },
+  {
     "id": 12579,
     "title": "曾幾何時天魔的黑兔 Picture Drama",
+    "synonyms": []
+  },
+  {
+    "id": 6705,
+    "title": "遊魂 -Pure my heart-",
+    "synonyms": []
+  },
+  {
+    "id": 5957,
+    "title": "小鶴屋學姊的四格",
     "synonyms": []
   },
   {
@@ -41602,9 +41680,21 @@
     "synonyms": []
   },
   {
+    "id": 1921,
+    "title": "福星小子 綺麗夢中人",
+    "synonyms": []
+  },
+  {
     "id": 9888,
     "title": "侵略！花枝娘 番外編",
     "synonyms": []
+  },
+  {
+    "id": 5293,
+    "title": "A Time Slip of 10000 Years: Prime Rose",
+    "synonyms": [
+      ""
+    ]
   },
   {
     "id": 10796,
@@ -41617,9 +41707,27 @@
     "synonyms": []
   },
   {
+    "id": 7322,
+    "title": "Needless+ -聖百合學園的秘密-",
+    "synonyms": []
+  },
+  {
     "id": 10604,
     "title": "緋彈的亞莉亞 武偵來到溫泉研修",
     "synonyms": []
+  },
+  {
+    "id": 12725,
+    "title": "頭文字D to the Next Stage",
+    "synonyms": []
+  },
+  {
+    "id": 1486,
+    "title": "玩偶遊戲",
+    "synonyms": [
+      "兒童的玩具",
+      "孩子們的遊戲"
+    ]
   },
   {
     "id": 9581,
@@ -41627,8 +41735,93 @@
     "synonyms": []
   },
   {
+    "id": 4163,
+    "title": "瀨戶的花嫁 OVA",
+    "synonyms": []
+  },
+  {
+    "id": 5244,
+    "title": "ARIA The NATURAL OVA",
+    "synonyms": []
+  },
+  {
+    "id": 145405,
+    "title": "新劇場版 頭文字D BATTLE DIGEST",
+    "synonyms": []
+  },
+  {
+    "id": 821,
+    "title": "頭文字D BATTLE STAGE",
+    "synonyms": []
+  },
+  {
     "id": 9220,
     "title": "世紀末超自然學院 Specials",
+    "synonyms": []
+  },
+  {
+    "id": 1922,
+    "title": "福星小子 情侶樂天派",
+    "synonyms": []
+  },
+  {
+    "id": 1923,
+    "title": "福星小子 鬼姬傳說",
+    "synonyms": []
+  },
+  {
+    "id": 5228,
+    "title": "頭文字D Extra Stage 2",
+    "synonyms": []
+  },
+  {
+    "id": 1925,
+    "title": "福星小子 聖水奇緣",
+    "synonyms": []
+  },
+  {
+    "id": 1293,
+    "title": "福星小子",
+    "synonyms": []
+  },
+  {
+    "id": 4508,
+    "title": "初音島 第二季 Special",
+    "synonyms": []
+  },
+  {
+    "id": 1924,
+    "title": "福星小子 求你說聲我愛你",
+    "synonyms": []
+  },
+  {
+    "id": 3037,
+    "title": "GS美神 極樂大作戰",
+    "synonyms": []
+  },
+  {
+    "id": 1919,
+    "title": "福星小子 OVA",
+    "synonyms": []
+  },
+  {
+    "id": 1920,
+    "title": "福星小子 愛星球之戀",
+    "synonyms": []
+  },
+  {
+    "id": 609,
+    "title": "最終兵器彼女 Another Love Song",
+    "synonyms": []
+  },
+  {
+    "id": 1659,
+    "title": "舞-乙HiME Specials",
+    "synonyms": []
+  },
+  {
+    "id": 785,
+    "title": "御宅族的錄影帶",
     "synonyms": []
   }
 ]
