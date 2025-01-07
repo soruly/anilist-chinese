@@ -7184,11 +7184,15 @@ var database = [
 {id:146140,title:"BanG Dream! Girls Band Party! 5th Anniversary Animation -CiRCLE THANKS PARTY!-"},
 {id:132014,title:"Slow Start: Web 予告 Movie"},
 {id:21780,title:"Re:從零開始的休憩時間"},
+{id:111290,title:"只想受你歡迎。"},
 {id:139754,title:"進擊的巨人 迷你角色劇場 Final"},
 {id:19391,title:"進擊的巨人 迷你角色劇場 \"飛吧! 訓練兵團\""},
+{id:154146,title:"少女與戰車 劇場版: 不肖 秋山優花里的戰車道講座"},
+{id:15811,title:"少女與戰車 OVA"},
 {id:119812,title:"成群結伴！西頓學園 EX"},
 {id:142541,title:"百萬噸級武藏 第二季"},
 {id:108942,title:"進擊的巨人 迷你角色劇場 \"新生里維班\""},
+{id:114052,title:"少女與戰車 最終章 OVA 鯛魚燒戰爭！"},
 {id:117408,title:"CODE GEASS 復活的魯魯修 SP"},
 {id:127863,title:"Bear Bear Bear Kuma! 熊壩篇"},
 {id:126393,title:"鬥神姬"},
@@ -7207,7 +7211,19 @@ var database = [
 {id:120257,title:"進擊的巨人 迷你角色劇場 \"新生里維班\" Part 2"},
 {id:115918,title:"Full Metal Panic!: Into the Blue"},
 {id:6291,title:"驚爆危機 The Second Raid 前夜祭 Scene00"},
-{id:114424,title:"戀愛小行星 KiraKira增刊號！"}
+{id:130362,title:"不肖 秋山優花里的戰車道講座"},
+{id:144803,title:"少女與戰車 最終章 OVA 蘿蔔戰爭！"},
+{id:145994,title:"街角魔族 2丁目 Mini"},
+{id:154147,title:"少女與戰車 Heartful Tank Disc: 不肖 秋山優花里的戰車道講座"},
+{id:176663,title:"少女與戰車 最終章 OVA 隊長戰爭！"},
+{id:114424,title:"戀愛小行星 KiraKira增刊號！"},
+{id:156909,title:"不肖 秋山優花里的戰車道講座: M4 Sherman in Girls und Panzer"},
+{id:113302,title:"街角魔族 Mini"},
+{id:110224,title:"The Journey 古代阿拉伯半島的奇蹟與戰爭物語"},
+{id:111789,title:"Promare: SIDE Lio"},
+{id:110261,title:"Promare: SIDE Galo"},
+{id:102508,title:"新妹魔王的契約者 BURST Specials"},
+{id:108944,title:"新妹魔王的契約者 DEPARTURES Special"}
 ];
 
 var updating;

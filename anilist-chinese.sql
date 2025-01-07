@@ -7206,11 +7206,15 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 146140	{"title": {"chinese": "BanG Dream! Girls Band Party! 5th Anniversary Animation -CiRCLE THANKS PARTY!-"}, "synonyms_chinese": []}
 132014	{"title": {"chinese": "Slow Start: Web 予告 Movie"}, "synonyms_chinese": []}
 21780	{"title": {"chinese": "Re:從零開始的休憩時間"}, "synonyms_chinese": []}
+111290	{"title": {"chinese": "只想受你歡迎。"}, "synonyms_chinese": []}
 139754	{"title": {"chinese": "進擊的巨人 迷你角色劇場 Final"}, "synonyms_chinese": []}
 19391	{"title": {"chinese": "進擊的巨人 迷你角色劇場 \\"飛吧! 訓練兵團\\""}, "synonyms_chinese": []}
+154146	{"title": {"chinese": "少女與戰車 劇場版: 不肖 秋山優花里的戰車道講座"}, "synonyms_chinese": []}
+15811	{"title": {"chinese": "少女與戰車 OVA"}, "synonyms_chinese": []}
 119812	{"title": {"chinese": "成群結伴！西頓學園 EX"}, "synonyms_chinese": []}
 142541	{"title": {"chinese": "百萬噸級武藏 第二季"}, "synonyms_chinese": []}
 108942	{"title": {"chinese": "進擊的巨人 迷你角色劇場 \\"新生里維班\\""}, "synonyms_chinese": []}
+114052	{"title": {"chinese": "少女與戰車 最終章 OVA 鯛魚燒戰爭！"}, "synonyms_chinese": []}
 117408	{"title": {"chinese": "CODE GEASS 復活的魯魯修 SP"}, "synonyms_chinese": []}
 127863	{"title": {"chinese": "Bear Bear Bear Kuma! 熊壩篇"}, "synonyms_chinese": []}
 126393	{"title": {"chinese": "鬥神姬"}, "synonyms_chinese": []}
@@ -7229,7 +7233,19 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 120257	{"title": {"chinese": "進擊的巨人 迷你角色劇場 \\"新生里維班\\" Part 2"}, "synonyms_chinese": []}
 115918	{"title": {"chinese": "Full Metal Panic!: Into the Blue"}, "synonyms_chinese": []}
 6291	{"title": {"chinese": "驚爆危機 The Second Raid 前夜祭 Scene00"}, "synonyms_chinese": []}
+130362	{"title": {"chinese": "不肖 秋山優花里的戰車道講座"}, "synonyms_chinese": []}
+144803	{"title": {"chinese": "少女與戰車 最終章 OVA 蘿蔔戰爭！"}, "synonyms_chinese": []}
+145994	{"title": {"chinese": "街角魔族 2丁目 Mini"}, "synonyms_chinese": []}
+154147	{"title": {"chinese": "少女與戰車 Heartful Tank Disc: 不肖 秋山優花里的戰車道講座"}, "synonyms_chinese": []}
+176663	{"title": {"chinese": "少女與戰車 最終章 OVA 隊長戰爭！"}, "synonyms_chinese": []}
 114424	{"title": {"chinese": "戀愛小行星 KiraKira增刊號！"}, "synonyms_chinese": []}
+156909	{"title": {"chinese": "不肖 秋山優花里的戰車道講座: M4 Sherman in Girls und Panzer"}, "synonyms_chinese": []}
+113302	{"title": {"chinese": "街角魔族 Mini"}, "synonyms_chinese": []}
+110224	{"title": {"chinese": "The Journey 古代阿拉伯半島的奇蹟與戰爭物語"}, "synonyms_chinese": []}
+111789	{"title": {"chinese": "Promare: SIDE Lio"}, "synonyms_chinese": []}
+110261	{"title": {"chinese": "Promare: SIDE Galo"}, "synonyms_chinese": []}
+102508	{"title": {"chinese": "新妹魔王的契約者 BURST Specials"}, "synonyms_chinese": []}
+108944	{"title": {"chinese": "新妹魔王的契約者 DEPARTURES Special"}, "synonyms_chinese": []}
 \.
 
 
