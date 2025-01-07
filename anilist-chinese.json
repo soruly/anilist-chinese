@@ -21036,14 +21036,6 @@
     ]
   },
   {
-    "id": 21186,
-    "title": "元氣少女緣結神◎ OAD",
-    "synonyms": [
-      "元氣少女結緣神◎ OAD",
-      "見習元氣女神◎ OAD"
-    ]
-  },
-  {
     "id": 21187,
     "title": "Young Black Jack",
     "synonyms": [
@@ -25307,21 +25299,6 @@
     "id": 98059,
     "title": "KiraKira☆光之美少女 A La Mode",
     "synonyms": []
-  },
-  {
-    "id": 98060,
-    "title": "月曜日のたわわ",
-    "synonyms": [
-      "週一的豐饒",
-      "週一的碩果",
-      "週一桃夭夭",
-      "搖搖的週一",
-      "星期一的福利",
-      "星期一的大咪咪",
-      "星期一的豐滿",
-      "軟綿綿的星期一",
-      "搖曳的星期一"
-    ]
   },
   {
     "id": 98069,
@@ -41003,6 +40980,11 @@
     "synonyms": []
   },
   {
+    "id": 98759,
+    "title": "庭球社 6 Specials",
+    "synonyms": []
+  },
+  {
     "id": 2847,
     "title": "寵物小精靈劇場版 決戰時空之塔 帝牙盧卡VS帕路奇犽VS達克萊伊",
     "synonyms": []
@@ -41035,6 +41017,11 @@
   {
     "id": 2201,
     "title": "寵物小精靈劇場版 寵物小精靈保育家與蒼海的王子瑪納霏",
+    "synonyms": []
+  },
+  {
+    "id": 100176,
+    "title": "兔龜高校網球部 Special",
     "synonyms": []
   },
   {
@@ -41113,8 +41100,18 @@
     "synonyms": []
   },
   {
+    "id": 21438,
+    "title": "庭球社 4 Specials",
+    "synonyms": []
+  },
+  {
     "id": 1118,
     "title": "寵物小精靈劇場版 結晶塔之帝王",
+    "synonyms": []
+  },
+  {
+    "id": 99718,
+    "title": "奇異太郎少年的妖怪繪日記 桃花劫",
     "synonyms": []
   },
   {
@@ -41158,8 +41155,176 @@
     "synonyms": []
   },
   {
+    "id": 21437,
+    "title": "庭球社 5 Specials",
+    "synonyms": []
+  },
+  {
     "id": 166035,
     "title": "Overlord 昴昴昴宿星團 特別篇",
+    "synonyms": []
+  },
+  {
+    "id": 98760,
+    "title": "庭球社 7 Specials",
+    "synonyms": []
+  },
+  {
+    "id": 98186,
+    "title": "幼女戰記 迷你角色動畫",
+    "synonyms": []
+  },
+  {
+    "id": 21436,
+    "title": "我是高宮茄乃！ Specials",
+    "synonyms": []
+  },
+  {
+    "id": 20450,
+    "title": "庭球社 2 Specials",
+    "synonyms": []
+  },
+  {
+    "id": 20834,
+    "title": "庭球社 3 Specials",
+    "synonyms": []
+  },
+  {
+    "id": 98761,
+    "title": "庭球社 8 Specials",
+    "synonyms": []
+  },
+  {
+    "id": 98060,
+    "title": "月曜日のたわわ 特典",
+    "synonyms": [
+      "週一的豐饒",
+      "週一的碩果",
+      "週一桃夭夭",
+      "搖搖的週一",
+      "星期一的福利",
+      "星期一的大咪咪",
+      "星期一的豐滿",
+      "軟綿綿的星期一",
+      "搖曳的星期一"
+    ]
+  },
+  {
+    "id": 98511,
+    "title": "妳的光芒 ～牽牛花與加瀨同學。～",
+    "synonyms": []
+  },
+  {
+    "id": 18661,
+    "title": "元氣少女緣結神 OVA",
+    "synonyms": []
+  },
+  {
+    "id": 21186,
+    "title": "元氣少女緣結神 過去編",
+    "synonyms": [
+      "元氣少女結緣神◎ OAD",
+      "見習元氣女神◎ OAD"
+    ]
+  },
+  {
+    "id": 98033,
+    "title": "元氣少女緣結神 神明，幸福圓滿",
+    "synonyms": []
+  },
+  {
+    "id": 97969,
+    "title": "信長的忍者 第0話",
+    "synonyms": []
+  },
+  {
+    "id": 119774,
+    "title": "鎖鍊戰記 赫克瑟塔斯之光 鎖鍊戰記學園",
+    "synonyms": []
+  },
+  {
+    "id": 121433,
+    "title": "鎖鍊戰記 赫克瑟塔斯之光 Chronicle Girls",
+    "synonyms": []
+  },
+  {
+    "id": 21891,
+    "title": "Re：從PETIT開始的異世界生活",
+    "synonyms": []
+  },
+  {
+    "id": 10643,
+    "title": "銀魂 反省大會",
+    "synonyms": []
+  },
+  {
+    "id": 20760,
+    "title": "銀魂精選集",
+    "synonyms": []
+  },
+  {
+    "id": 21433,
+    "title": "浦和的小調 未放送話",
+    "synonyms": []
+  },
+  {
+    "id": 21429,
+    "title": "天地無用! 魎皇鬼 第4期",
+    "synonyms": []
+  },
+  {
+    "id": 114442,
+    "title": "天地無用! 魎皇鬼 第5期",
+    "synonyms": []
+  },
+  {
+    "id": 1147,
+    "title": "天地無用! 魎皇鬼 第3期 Plus 1",
+    "synonyms": []
+  },
+  {
+    "id": 1146,
+    "title": "祭典前夕",
+    "synonyms": []
+  },
+  {
+    "id": 111952,
+    "title": "銀魂 銀魂 ～Monster Strike編～",
+    "synonyms": []
+  },
+  {
+    "id": 21501,
+    "title": "銀魂 Jump Festa 2015",
+    "synonyms": []
+  },
+  {
+    "id": 178436,
+    "title": "銀魂ON劇場2D 金魂篇",
+    "synonyms": []
+  },
+  {
+    "id": 169000,
+    "title": "銀魂ON劇場2D 荊棘流氓篇",
+    "synonyms": []
+  },
+  {
+    "id": 539,
+    "title": "天地無用! 魎皇鬼 第1期",
+    "synonyms": []
+  },
+  {
+    "id": 540,
+    "title": "天地無用! 魎皇鬼 第2期",
+    "synonyms": []
+  },
+  {
+    "id": 541,
+    "title": "天地無用! 魎皇鬼 第3期",
+    "synonyms": []
+  },
+  {
+    "id": 20882,
+    "title": "銀魂 Jump Festa 2014",
     "synonyms": []
   }
 ]

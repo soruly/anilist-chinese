@@ -3649,7 +3649,6 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 21180	{"title": {"chinese": "不起眼女主角培育法 ♭"}, "synonyms_chinese": ["路人女主的養成方法 ♭"]}
 21182	{"title": {"chinese": "Hacka Doll"}, "synonyms_chinese": []}
 21184	{"title": {"chinese": "巴哈姆特之怒 VIRGIN SOUL"}, "synonyms_chinese": ["神擊之巴哈姆特 VIRGIN SOUL"]}
-21186	{"title": {"chinese": "元氣少女緣結神◎ OAD"}, "synonyms_chinese": ["元氣少女結緣神◎ OAD", "見習元氣女神◎ OAD"]}
 21187	{"title": {"chinese": "Young Black Jack"}, "synonyms_chinese": ["青年黑傑克"]}
 21189	{"title": {"chinese": "亂步奇譚"}, "synonyms_chinese": []}
 21190	{"title": {"chinese": "全部成為F"}, "synonyms_chinese": []}
@@ -4372,7 +4371,6 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 98056	{"title": {"chinese": "蒼穹之戰神 THE BEYOND"}, "synonyms_chinese": ["蒼穹的法夫納 THE BEYOND", "蒼穹的法夫那 THE BEYOND", "蒼穹的法芙娜 THE BEYOND", "蒼穹的FAFNER THE BEYOND", "蒼穹之巨龍 THE BEYOND"]}
 98058	{"title": {"chinese": "自宅警備員"}, "synonyms_chinese": []}
 98059	{"title": {"chinese": "KiraKira☆光之美少女 A La Mode"}, "synonyms_chinese": []}
-98060	{"title": {"chinese": "月曜日のたわわ"}, "synonyms_chinese": ["週一的豐饒", "週一的碩果", "週一桃夭夭", "搖搖的週一", "星期一的福利", "星期一的大咪咪", "星期一的豐滿", "軟綿綿的星期一", "搖曳的星期一"]}
 98069	{"title": {"chinese": "怪物彈珠 2"}, "synonyms_chinese": []}
 98073	{"title": {"chinese": "LOST SONG"}, "synonyms_chinese": ["失落的歌謠", "失落之歌"]}
 98077	{"title": {"chinese": "DRIVE HEAD 機動救急警察"}, "synonyms_chinese": ["多美卡超級救援DRIVE HEAD機動救急警察"]}
@@ -7251,6 +7249,7 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 4026	{"title": {"chinese": "寵物小精靈劇場版 騎拉帝納與冰空的花束 潔咪"}, "synonyms_chinese": []}
 108549	{"title": {"chinese": "魔法少女奈葉 The MOVIE Picture Drama"}, "synonyms_chinese": []}
 185875	{"title": {"chinese": "魔法少女奈葉 EXCEEDS Gun Blaze Vengeance"}, "synonyms_chinese": []}
+98759	{"title": {"chinese": "庭球社 6 Specials"}, "synonyms_chinese": []}
 2847	{"title": {"chinese": "寵物小精靈劇場版 決戰時空之塔 帝牙盧卡VS帕路奇犽VS達克萊伊"}, "synonyms_chinese": []}
 20601	{"title": {"chinese": "魔女的使命 多華宮同學與妹妹的惡計"}, "synonyms_chinese": []}
 151898	{"title": {"chinese": "Overlord 昴昴昴宿星團 4"}, "synonyms_chinese": []}
@@ -7258,6 +7257,7 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 10740	{"title": {"chinese": "寵物小精靈劇場版 比克提尼與白英雄 雷希拉姆"}, "synonyms_chinese": []}
 107692	{"title": {"chinese": "魔法禁書目錄 III Specials"}, "synonyms_chinese": []}
 2201	{"title": {"chinese": "寵物小精靈劇場版 寵物小精靈保育家與蒼海的王子瑪納霏"}, "synonyms_chinese": []}
+100176	{"title": {"chinese": "兔龜高校網球部 Special"}, "synonyms_chinese": []}
 1526	{"title": {"chinese": "寵物小精靈劇場版 夢夢與波導之勇者 路卡利奧"}, "synonyms_chinese": []}
 1122	{"title": {"chinese": "寵物小精靈劇場版 裂空的訪問者 代歐奇希斯"}, "synonyms_chinese": []}
 133845	{"title": {"chinese": "Overlord 聖王國篇"}, "synonyms_chinese": []}
@@ -7273,7 +7273,9 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 21651	{"title": {"chinese": "寵物小精靈劇場版 波爾凱尼恩與機關人偶 瑪機雅娜"}, "synonyms_chinese": []}
 7695	{"title": {"chinese": "寵物小精靈劇場版 幻影的霸者 索羅亞克"}, "synonyms_chinese": []}
 6178	{"title": {"chinese": "寵物小精靈劇場版 阿爾宙斯 超克的時空"}, "synonyms_chinese": []}
+21438	{"title": {"chinese": "庭球社 4 Specials"}, "synonyms_chinese": []}
 1118	{"title": {"chinese": "寵物小精靈劇場版 結晶塔之帝王"}, "synonyms_chinese": []}
+99718	{"title": {"chinese": "奇異太郎少年的妖怪繪日記 桃花劫"}, "synonyms_chinese": []}
 1119	{"title": {"chinese": "寵物小精靈劇場版 雪拉比 穿梭時空的相遇"}, "synonyms_chinese": []}
 104211	{"title": {"chinese": "境界線上的地平線 Special"}, "synonyms_chinese": []}
 102716	{"title": {"chinese": "魔女的使命 Specials"}, "synonyms_chinese": []}
@@ -7282,7 +7284,38 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 107264	{"title": {"chinese": "Overlord 昴昴昴宿星團 克萊門汀逃亡篇"}, "synonyms_chinese": []}
 138119	{"title": {"chinese": "Fate/kaleid liner Prisma☆Illya Licht 無名少女 Special Mini Anime"}, "synonyms_chinese": []}
 104434	{"title": {"chinese": "暦 History"}, "synonyms_chinese": []}
+21437	{"title": {"chinese": "庭球社 5 Specials"}, "synonyms_chinese": []}
 166035	{"title": {"chinese": "Overlord 昴昴昴宿星團 特別篇"}, "synonyms_chinese": []}
+98760	{"title": {"chinese": "庭球社 7 Specials"}, "synonyms_chinese": []}
+98186	{"title": {"chinese": "幼女戰記 迷你角色動畫"}, "synonyms_chinese": []}
+21436	{"title": {"chinese": "我是高宮茄乃！ Specials"}, "synonyms_chinese": []}
+20450	{"title": {"chinese": "庭球社 2 Specials"}, "synonyms_chinese": []}
+20834	{"title": {"chinese": "庭球社 3 Specials"}, "synonyms_chinese": []}
+98761	{"title": {"chinese": "庭球社 8 Specials"}, "synonyms_chinese": []}
+98060	{"title": {"chinese": "月曜日のたわわ 特典"}, "synonyms_chinese": ["週一的豐饒", "週一的碩果", "週一桃夭夭", "搖搖的週一", "星期一的福利", "星期一的大咪咪", "星期一的豐滿", "軟綿綿的星期一", "搖曳的星期一"]}
+98511	{"title": {"chinese": "妳的光芒 ～牽牛花與加瀨同學。～"}, "synonyms_chinese": []}
+18661	{"title": {"chinese": "元氣少女緣結神 OVA"}, "synonyms_chinese": []}
+21186	{"title": {"chinese": "元氣少女緣結神 過去編"}, "synonyms_chinese": ["元氣少女結緣神◎ OAD", "見習元氣女神◎ OAD"]}
+98033	{"title": {"chinese": "元氣少女緣結神 神明，幸福圓滿"}, "synonyms_chinese": []}
+97969	{"title": {"chinese": "信長的忍者 第0話"}, "synonyms_chinese": []}
+119774	{"title": {"chinese": "鎖鍊戰記 赫克瑟塔斯之光 鎖鍊戰記學園"}, "synonyms_chinese": []}
+121433	{"title": {"chinese": "鎖鍊戰記 赫克瑟塔斯之光 Chronicle Girls"}, "synonyms_chinese": []}
+21891	{"title": {"chinese": "Re：從PETIT開始的異世界生活"}, "synonyms_chinese": []}
+10643	{"title": {"chinese": "銀魂 反省大會"}, "synonyms_chinese": []}
+20760	{"title": {"chinese": "銀魂精選集"}, "synonyms_chinese": []}
+21433	{"title": {"chinese": "浦和的小調 未放送話"}, "synonyms_chinese": []}
+21429	{"title": {"chinese": "天地無用! 魎皇鬼 第4期"}, "synonyms_chinese": []}
+114442	{"title": {"chinese": "天地無用! 魎皇鬼 第5期"}, "synonyms_chinese": []}
+1147	{"title": {"chinese": "天地無用! 魎皇鬼 第3期 Plus 1"}, "synonyms_chinese": []}
+1146	{"title": {"chinese": "祭典前夕"}, "synonyms_chinese": []}
+111952	{"title": {"chinese": "銀魂 銀魂 ～Monster Strike編～"}, "synonyms_chinese": []}
+21501	{"title": {"chinese": "銀魂 Jump Festa 2015"}, "synonyms_chinese": []}
+178436	{"title": {"chinese": "銀魂ON劇場2D 金魂篇"}, "synonyms_chinese": []}
+169000	{"title": {"chinese": "銀魂ON劇場2D 荊棘流氓篇"}, "synonyms_chinese": []}
+539	{"title": {"chinese": "天地無用! 魎皇鬼 第1期"}, "synonyms_chinese": []}
+540	{"title": {"chinese": "天地無用! 魎皇鬼 第2期"}, "synonyms_chinese": []}
+541	{"title": {"chinese": "天地無用! 魎皇鬼 第3期"}, "synonyms_chinese": []}
+20882	{"title": {"chinese": "銀魂 Jump Festa 2014"}, "synonyms_chinese": []}
 \.
 
 
