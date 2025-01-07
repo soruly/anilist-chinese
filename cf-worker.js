@@ -6668,7 +6668,6 @@ const db = new Map([
 [163142,{title:"歸還者的魔法要特别",synonyms:["重生者的魔法一定要特別"]}],
 [163143,{title:"攻殼機動隊 SAC_2045 最後的人類",synonyms:[]}],
 [163146,{title:"BLUE LOCK Season 2",synonyms:["藍色監獄 第二季"]}],
-[163147,{title:"劇場版藍色監獄 -EPIOSODE 凪-",synonyms:[]}],
 [163151,{title:"HIGH CARD season 2",synonyms:[]}],
 [163204,{title:"Gundam Build Metaverse",synonyms:["鋼彈創鬥者元宇宙"]}],
 [163205,{title:"物之古物奇譚 第二章",synonyms:[]}],
@@ -7152,7 +7151,12 @@ const db = new Map([
 [185694,{title:"百姓貴族 第三季",synonyms:[]}],
 [169778,{title:"クラユカバ",synonyms:[]}],
 [169511,{title:"百姓貴族 OVA",synonyms:[]}],
-[185716,{title:"百姓貴族 第二季 OVA",synonyms:[]}]
+[185716,{title:"百姓貴族 第二季 OVA",synonyms:[]}],
+[168564,{title:"ROLY POLY PEOPLES",synonyms:[]}],
+[163147,{title:"劇場版 藍色監獄 -EPIOSODE 凪-",synonyms:[]}],
+[148960,{title:"星夢學園 10th Story 邁向未來的STARWAY",synonyms:[]}],
+[155525,{title:"劇場版 星夢學園 Planet！",synonyms:["劇場版 偶像活動 Planet！"]}],
+[155738,{title:"星夢學園 10th Story 邁向未來的STARWAY 2023",synonyms:[]}]
 ]);
 
 async function handleRequest(req) {

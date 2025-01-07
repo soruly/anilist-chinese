@@ -6685,7 +6685,6 @@ var database = [
 {id:163142,title:"歸還者的魔法要特别"},
 {id:163143,title:"攻殼機動隊 SAC_2045 最後的人類"},
 {id:163146,title:"BLUE LOCK Season 2"},
-{id:163147,title:"劇場版藍色監獄 -EPIOSODE 凪-"},
 {id:163151,title:"HIGH CARD season 2"},
 {id:163204,title:"Gundam Build Metaverse"},
 {id:163205,title:"物之古物奇譚 第二章"},
@@ -7169,7 +7168,12 @@ var database = [
 {id:185694,title:"百姓貴族 第三季"},
 {id:169778,title:"クラユカバ"},
 {id:169511,title:"百姓貴族 OVA"},
-{id:185716,title:"百姓貴族 第二季 OVA"}
+{id:185716,title:"百姓貴族 第二季 OVA"},
+{id:168564,title:"ROLY POLY PEOPLES"},
+{id:163147,title:"劇場版 藍色監獄 -EPIOSODE 凪-"},
+{id:148960,title:"星夢學園 10th Story 邁向未來的STARWAY"},
+{id:155525,title:"劇場版 星夢學園 Planet！"},
+{id:155738,title:"星夢學園 10th Story 邁向未來的STARWAY 2023"}
 ];
 
 var updating;

@@ -6707,7 +6707,6 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 163142	{"title": {"chinese": "歸還者的魔法要特别"}, "synonyms_chinese": ["重生者的魔法一定要特別"]}
 163143	{"title": {"chinese": "攻殼機動隊 SAC_2045 最後的人類"}, "synonyms_chinese": []}
 163146	{"title": {"chinese": "BLUE LOCK Season 2"}, "synonyms_chinese": ["藍色監獄 第二季"]}
-163147	{"title": {"chinese": "劇場版藍色監獄 -EPIOSODE 凪-"}, "synonyms_chinese": []}
 163151	{"title": {"chinese": "HIGH CARD season 2"}, "synonyms_chinese": []}
 163204	{"title": {"chinese": "Gundam Build Metaverse"}, "synonyms_chinese": ["鋼彈創鬥者元宇宙"]}
 163205	{"title": {"chinese": "物之古物奇譚 第二章"}, "synonyms_chinese": []}
@@ -7192,6 +7191,11 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 169778	{"title": {"chinese": "クラユカバ"}, "synonyms_chinese": []}
 169511	{"title": {"chinese": "百姓貴族 OVA"}, "synonyms_chinese": []}
 185716	{"title": {"chinese": "百姓貴族 第二季 OVA"}, "synonyms_chinese": []}
+168564	{"title": {"chinese": "ROLY POLY PEOPLES"}, "synonyms_chinese": []}
+163147	{"title": {"chinese": "劇場版 藍色監獄 -EPIOSODE 凪-"}, "synonyms_chinese": []}
+148960	{"title": {"chinese": "星夢學園 10th Story 邁向未來的STARWAY"}, "synonyms_chinese": []}
+155525	{"title": {"chinese": "劇場版 星夢學園 Planet！"}, "synonyms_chinese": ["劇場版 偶像活動 Planet！"]}
+155738	{"title": {"chinese": "星夢學園 10th Story 邁向未來的STARWAY 2023"}, "synonyms_chinese": []}
 \.
 
 

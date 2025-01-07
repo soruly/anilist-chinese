@@ -38167,11 +38167,6 @@
     ]
   },
   {
-    "id": 163147,
-    "title": "劇場版藍色監獄 -EPIOSODE 凪-",
-    "synonyms": []
-  },
-  {
     "id": 163151,
     "title": "HIGH CARD season 2",
     "synonyms": []
@@ -40703,6 +40698,33 @@
   {
     "id": 185716,
     "title": "百姓貴族 第二季 OVA",
+    "synonyms": []
+  },
+  {
+    "id": 168564,
+    "title": "ROLY POLY PEOPLES",
+    "synonyms": []
+  },
+  {
+    "id": 163147,
+    "title": "劇場版 藍色監獄 -EPIOSODE 凪-",
+    "synonyms": []
+  },
+  {
+    "id": 148960,
+    "title": "星夢學園 10th Story 邁向未來的STARWAY",
+    "synonyms": []
+  },
+  {
+    "id": 155525,
+    "title": "劇場版 星夢學園 Planet！",
+    "synonyms": [
+      "劇場版 偶像活動 Planet！"
+    ]
+  },
+  {
+    "id": 155738,
+    "title": "星夢學園 10th Story 邁向未來的STARWAY 2023",
     "synonyms": []
   }
 ]
