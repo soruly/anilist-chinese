@@ -7119,7 +7119,11 @@ const db = new Map([
 [169930,{title:"T・P BON",synonyms:["T·P時光特警"]}],
 [154037,{title:"BLEACH: memories in the rain",synonyms:[]}],
 [136706,{title:"Tomorrow’s Leaves",synonyms:[]}],
-[135776,{title:"山賊日記",synonyms:[]}]
+[135776,{title:"山賊日記",synonyms:[]}],
+[554,{title:"鋼鐵天使",synonyms:[]}],
+[555,{title:"鋼鉄天使 2式",synonyms:[]}],
+[556,{title:"鋼鉄天使 零",synonyms:[]}],
+[557,{title:"鋼鉄天使 Encore",synonyms:[]}]
 ]);
 
 async function handleRequest(req) {

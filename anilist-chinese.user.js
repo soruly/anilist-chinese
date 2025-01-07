@@ -7136,7 +7136,11 @@ var database = [
 {id:169930,title:"T・P BON"},
 {id:154037,title:"BLEACH: memories in the rain"},
 {id:136706,title:"Tomorrow’s Leaves"},
-{id:135776,title:"山賊日記"}
+{id:135776,title:"山賊日記"},
+{id:554,title:"鋼鐵天使"},
+{id:555,title:"鋼鉄天使 2式"},
+{id:556,title:"鋼鉄天使 零"},
+{id:557,title:"鋼鉄天使 Encore"}
 ];
 
 var updating;

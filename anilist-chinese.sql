@@ -7159,6 +7159,10 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 154037	{"title": {"chinese": "BLEACH: memories in the rain"}, "synonyms_chinese": []}
 136706	{"title": {"chinese": "Tomorrow’s Leaves"}, "synonyms_chinese": []}
 135776	{"title": {"chinese": "山賊日記"}, "synonyms_chinese": []}
+554	{"title": {"chinese": "鋼鐵天使"}, "synonyms_chinese": []}
+555	{"title": {"chinese": "鋼鉄天使 2式"}, "synonyms_chinese": []}
+556	{"title": {"chinese": "鋼鉄天使 零"}, "synonyms_chinese": []}
+557	{"title": {"chinese": "鋼鉄天使 Encore"}, "synonyms_chinese": []}
 \.
 
 
