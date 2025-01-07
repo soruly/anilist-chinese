@@ -4121,7 +4121,6 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 21776	{"title": {"chinese": "小林家的女僕龍"}, "synonyms_chinese": []}
 21777	{"title": {"chinese": "無彩限的幻影世界 OVA"}, "synonyms_chinese": ["無彩限的魅影世界 OVA", "無彩限的怪靈世界 OVA", "無彩限的虛幻世界 OVA", "無色的幻影世界 OVA"]}
 21778	{"title": {"chinese": "岸邊露伴一動不動"}, "synonyms_chinese": []}
-21780	{"title": {"chinese": "Re：從零開始的休憩時間"}, "synonyms_chinese": []}
 21782	{"title": {"chinese": "腐男子高校生活"}, "synonyms_chinese": []}
 21784	{"title": {"chinese": "熊巫女 OVA"}, "synonyms_chinese": ["當女孩遇到熊 OVA"]}
 21785	{"title": {"chinese": "フェラハメりっぷす"}, "synonyms_chinese": []}
@@ -7195,7 +7194,42 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 163147	{"title": {"chinese": "劇場版 藍色監獄 -EPIOSODE 凪-"}, "synonyms_chinese": []}
 148960	{"title": {"chinese": "星夢學園 10th Story 邁向未來的STARWAY"}, "synonyms_chinese": []}
 155525	{"title": {"chinese": "劇場版 星夢學園 Planet！"}, "synonyms_chinese": ["劇場版 偶像活動 Planet！"]}
+123476	{"title": {"chinese": "新網球王子 永帝vs立海 Game of Future"}, "synonyms_chinese": []}
+177443	{"title": {"chinese": "百萬噸級武藏 Pilot 版"}, "synonyms_chinese": []}
 155738	{"title": {"chinese": "星夢學園 10th Story 邁向未來的STARWAY 2023"}, "synonyms_chinese": []}
+128344	{"title": {"chinese": "劇場版 ARGONAVIS AXIA"}, "synonyms_chinese": []}
+182417	{"title": {"chinese": "Re:從零開始的休憩時間 第三季"}, "synonyms_chinese": []}
+116060	{"title": {"chinese": ""}, "synonyms_chinese": []}
+154974	{"title": {"chinese": "劇場版 ARGONAVIS 流星的伴奏"}, "synonyms_chinese": []}
+173174	{"title": {"chinese": "劇場版 BanG Dream! It's MyGO!!!!! 前篇"}, "synonyms_chinese": []}
+182241	{"title": {"chinese": "劇場版 BanG Dream! It's MyGO!!!!! 後篇"}, "synonyms_chinese": []}
+146140	{"title": {"chinese": "BanG Dream! Girls Band Party! 5th Anniversary Animation -CiRCLE THANKS PARTY!-"}, "synonyms_chinese": []}
+132014	{"title": {"chinese": "Slow Start: Web 予告 Movie"}, "synonyms_chinese": []}
+21780	{"title": {"chinese": "Re:從零開始的休憩時間"}, "synonyms_chinese": []}
+139754	{"title": {"chinese": "進擊的巨人 迷你角色劇場 Final"}, "synonyms_chinese": []}
+19391	{"title": {"chinese": "進擊的巨人 迷你角色劇場 \\"飛吧! 訓練兵團\\""}, "synonyms_chinese": []}
+119812	{"title": {"chinese": "成群結伴！西頓學園 EX"}, "synonyms_chinese": []}
+142541	{"title": {"chinese": "百萬噸級武藏 第二季"}, "synonyms_chinese": []}
+108942	{"title": {"chinese": "進擊的巨人 迷你角色劇場 \\"新生里維班\\""}, "synonyms_chinese": []}
+117408	{"title": {"chinese": "CODE GEASS 復活的魯魯修 SP"}, "synonyms_chinese": []}
+127863	{"title": {"chinese": "Bear Bear Bear Kuma! 熊壩篇"}, "synonyms_chinese": []}
+126393	{"title": {"chinese": "鬥神姬"}, "synonyms_chinese": []}
+20798	{"title": {"chinese": "Robot Girls Z"}, "synonyms_chinese": []}
+116054	{"title": {"chinese": "被詛咒的連身裙"}, "synonyms_chinese": []}
+98141	{"title": {"chinese": "Robot Girls Z 0"}, "synonyms_chinese": []}
+125642	{"title": {"chinese": "Robot Girls Z Petit Chara Anime"}, "synonyms_chinese": []}
+124896	{"title": {"chinese": "Bear Bear Bear Kuma!"}, "synonyms_chinese": []}
+164538	{"title": {"chinese": "Bear Bear Bear Kuma Punch!"}, "synonyms_chinese": []}
+120700	{"title": {"chinese": "Re:從零開始的休憩時間 第二季"}, "synonyms_chinese": []}
+128306	{"title": {"chinese": "Re:從零開始的休憩時間 第二季 Part 2"}, "synonyms_chinese": []}
+115916	{"title": {"chinese": "Full Metal Panic!: One Night Stand"}, "synonyms_chinese": []}
+115914	{"title": {"chinese": "Full Metal Panic!: Boy Meets Girl"}, "synonyms_chinese": []}
+20941	{"title": {"chinese": "新網球王子 OVA vs Genius10"}, "synonyms_chinese": []}
+166369	{"title": {"chinese": "Bear Bear Bear Kuma Punch!! 大運動會篇"}, "synonyms_chinese": []}
+120257	{"title": {"chinese": "進擊的巨人 迷你角色劇場 \\"新生里維班\\" Part 2"}, "synonyms_chinese": []}
+115918	{"title": {"chinese": "Full Metal Panic!: Into the Blue"}, "synonyms_chinese": []}
+6291	{"title": {"chinese": "驚爆危機 The Second Raid 前夜祭 Scene00"}, "synonyms_chinese": []}
+114424	{"title": {"chinese": "戀愛小行星 KiraKira增刊號！"}, "synonyms_chinese": []}
 \.
 
 
