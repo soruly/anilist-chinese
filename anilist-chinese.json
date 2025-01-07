@@ -1693,11 +1693,6 @@
     "synonyms": []
   },
   {
-    "id": 465,
-    "title": "海賊王 機關城的機械巨兵",
-    "synonyms": []
-  },
-  {
     "id": 467,
     "title": "攻殼機動隊 STAND ALONE COMPLEX",
     "synonyms": []
@@ -8012,11 +8007,6 @@
     ]
   },
   {
-    "id": 4155,
-    "title": "ONE PIECE FILM 強者天下",
-    "synonyms": []
-  },
-  {
     "id": 4157,
     "title": "Pero Pero Candy",
     "synonyms": []
@@ -12760,11 +12750,6 @@
     "synonyms": []
   },
   {
-    "id": 9999,
-    "title": "ONE PIECE 3D 追逐草帽大冒險",
-    "synonyms": []
-  },
-  {
     "id": 10012,
     "title": "幻想嘉年華",
     "synonyms": []
@@ -14704,11 +14689,6 @@
   {
     "id": 12815,
     "title": "白熊咖啡廳",
-    "synonyms": []
-  },
-  {
-    "id": 12859,
-    "title": "ONE PIECE FILM Z",
     "synonyms": []
   },
   {
@@ -29849,11 +29829,6 @@
     "synonyms": []
   },
   {
-    "id": 105143,
-    "title": "ONE PIECE STAMPEDE",
-    "synonyms": []
-  },
-  {
     "id": 105156,
     "title": "這個勇者明明超 TUEEE 卻過度謹慎！",
     "synonyms": []
@@ -35829,11 +35804,6 @@
     "synonyms": []
   },
   {
-    "id": 141902,
-    "title": "ONE PIECE FILM: RED",
-    "synonyms": []
-  },
-  {
     "id": 141907,
     "title": "Ensemble Stars! -Road to Show!!-",
     "synonyms": [
@@ -35973,6 +35943,13 @@
     "id": 142770,
     "title": "鈴芽的門鎖",
     "synonyms": []
+  },
+  {
+    "id": 141902,
+    "title": "ONE PIECE FILM: RED",
+    "synonyms": [
+      "海賊王劇場版：紅髮歌姬"
+    ]
   },
   {
     "id": 142826,
@@ -37773,11 +37750,6 @@
   {
     "id": 159560,
     "title": "逃走中 THE GREAT MISSION",
-    "synonyms": []
-  },
-  {
-    "id": 159569,
-    "title": "Fate／Grand Order SP",
     "synonyms": []
   },
   {
@@ -40453,6 +40425,18 @@
     "synonyms": []
   },
   {
+    "id": 101918,
+    "title": "海賊王 特別篇：空島篇",
+    "synonyms": []
+  },
+  {
+    "id": 21335,
+    "title": "ONE PIECE FILM GOLD",
+    "synonyms": [
+      "海賊王劇場版：GOLD"
+    ]
+  },
+  {
     "id": 2631,
     "title": "多啦A夢七小子 GOAL! GOAL! GOAL!!",
     "synonyms": []
@@ -40473,11 +40457,33 @@
     "synonyms": []
   },
   {
+    "id": 182469,
+    "title": "海賊王 特別篇：粉絲來信",
+    "synonyms": []
+  },
+  {
+    "id": 21831,
+    "title": "海賊王 特別篇：黃金之心",
+    "synonyms": []
+  },
+  {
+    "id": 12859,
+    "title": "ONE PIECE FILM Z",
+    "synonyms": [
+      "海賊王劇場版：Z"
+    ]
+  },
+  {
     "id": 2633,
     "title": "多啦A夢族 生死時速火車大決戰",
     "synonyms": [
       "哆啦A夢在未來世界 驚心動魄的火車頭大暴走"
     ]
+  },
+  {
+    "id": 21485,
+    "title": "海賊王 特別篇：迷霧島大冒險",
+    "synonyms": []
   },
   {
     "id": 2625,
@@ -40542,8 +40548,161 @@
     "synonyms": []
   },
   {
+    "id": 20835,
+    "title": "海賊王 特別篇：跨越艾斯之死！路飛與夥伴的誓約",
+    "synonyms": []
+  },
+  {
+    "id": 19123,
+    "title": "海賊王 特別篇：黃金梅利號之章 另一位夥伴的故事",
+    "synonyms": []
+  },
+  {
+    "id": 16239,
+    "title": "海賊王 特別篇：路飛之章 手掌島的冒險",
+    "synonyms": []
+  },
+  {
     "id": 557,
     "title": "鋼鉄天使 Encore",
+    "synonyms": []
+  },
+  {
+    "id": 117096,
+    "title": "阿薩里爾 未來的民間故事",
+    "synonyms": []
+  },
+  {
+    "id": 185541,
+    "title": "阿薩里爾 2 未來的民間故事",
+    "synonyms": []
+  },
+  {
+    "id": 9999,
+    "title": "ONE PIECE 3D 追逐草帽大冒險",
+    "synonyms": [
+      "海賊王3D：追逐草帽大冒險"
+    ]
+  },
+  {
+    "id": 99302,
+    "title": "海賊王 特別篇：東海篇",
+    "synonyms": []
+  },
+  {
+    "id": 21230,
+    "title": "海賊王 特別篇：薩波篇",
+    "synonyms": []
+  },
+  {
+    "id": 15323,
+    "title": "海賊王 特別篇：奈美之章 領航員之淚與夥伴的羈絆",
+    "synonyms": []
+  },
+  {
+    "id": 2020,
+    "title": "海賊王 特別篇：路飛捕頭傳",
+    "synonyms": []
+  },
+  {
+    "id": 1238,
+    "title": "海賊王 特別篇：堅守最後的大舞台",
+    "synonyms": []
+  },
+  {
+    "id": 1237,
+    "title": "海賊王特別篇：奔向大海原！父親偉大的夢想",
+    "synonyms": []
+  },
+  {
+    "id": 1094,
+    "title": "海賊王 特別篇：海肚臍大冒險",
+    "synonyms": []
+  },
+  {
+    "id": 21880,
+    "title": "ONE PIECE FILM GOLD 〜episode 0〜 711ver.",
+    "synonyms": []
+  },
+  {
+    "id": 16468,
+    "title": "ONE PIECE FILM Z『GLORIOUS ISLAND』",
+    "synonyms": []
+  },
+  {
+    "id": 105143,
+    "title": "ONE PIECE STAMPEDE",
+    "synonyms": [
+      "海賊王劇場版：奪寶爭霸戰"
+    ]
+  },
+  {
+    "id": 4155,
+    "title": "ONE PIECE FILM STRONG WORLD",
+    "synonyms": [
+      "海賊王劇場版：強者天下"
+    ]
+  },
+  {
+    "id": 465,
+    "title": "海賊王 機關城的機械巨兵",
+    "synonyms": [
+      "海賊王劇場版：機關城的鋼鐵巨兵"
+    ]
+  },
+  {
+    "id": 177175,
+    "title": "Arknights: 焰燼曙明",
+    "synonyms": []
+  },
+  {
+    "id": 171608,
+    "title": "クラメルカガリ",
+    "synonyms": []
+  },
+  {
+    "id": 171030,
+    "title": "Wonderful Precure!",
+    "synonyms": []
+  },
+  {
+    "id": 159569,
+    "title": "Fate/Grand Order 搞不懂的藤丸立香",
+    "synonyms": []
+  },
+  {
+    "id": 171029,
+    "title": "Fate/Grand Order 搞不懂的藤丸立香 新年特番 2023",
+    "synonyms": []
+  },
+  {
+    "id": 179991,
+    "title": "Fate/Grand Order 搞不懂的藤丸立香 第二季",
+    "synonyms": []
+  },
+  {
+    "id": 169384,
+    "title": "Fate/Grand Order 搞不懂的藤丸立香 新年特番",
+    "synonyms": []
+  },
+  {
+    "id": 185694,
+    "title": "百姓貴族 第三季",
+    "synonyms": []
+  },
+  {
+    "id": 169778,
+    "title": "クラユカバ",
+    "synonyms": []
+  },
+  {
+    "id": 169511,
+    "title": "百姓貴族 OVA",
+    "synonyms": []
+  },
+  {
+    "id": 185716,
+    "title": "百姓貴族 第二季 OVA",
     "synonyms": []
   }
 ]

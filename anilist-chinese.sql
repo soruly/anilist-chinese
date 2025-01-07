@@ -318,7 +318,6 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 462	{"title": {"chinese": "海賊王 死亡盡頭的冒險"}, "synonyms_chinese": []}
 463	{"title": {"chinese": "海賊王 被詛咒的聖劍"}, "synonyms_chinese": []}
 464	{"title": {"chinese": "海賊王 祭典男爵與神祕島"}, "synonyms_chinese": []}
-465	{"title": {"chinese": "海賊王 機關城的機械巨兵"}, "synonyms_chinese": []}
 467	{"title": {"chinese": "攻殼機動隊 STAND ALONE COMPLEX"}, "synonyms_chinese": []}
 468	{"title": {"chinese": "攻殼機動隊 2 INNOCENCE"}, "synonyms_chinese": []}
 469	{"title": {"chinese": "增血鬼果林"}, "synonyms_chinese": []}
@@ -1432,7 +1431,6 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 4134	{"title": {"chinese": "疾風木葉學園傳"}, "synonyms_chinese": []}
 4149	{"title": {"chinese": "幽體離脱"}, "synonyms_chinese": []}
 4151	{"title": {"chinese": "無限之住人"}, "synonyms_chinese": ["無限住人", "無限的住人"]}
-4155	{"title": {"chinese": "ONE PIECE FILM 強者天下"}, "synonyms_chinese": []}
 4157	{"title": {"chinese": "Pero Pero Candy"}, "synonyms_chinese": []}
 4161	{"title": {"chinese": "個人授業"}, "synonyms_chinese": []}
 4164	{"title": {"chinese": "校内写生"}, "synonyms_chinese": []}
@@ -2271,7 +2269,6 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 9988	{"title": {"chinese": "少女愛上姐姐"}, "synonyms_chinese": ["處女愛上姊姊", "愛上姊姊的處女們", "愛上處女的姐姐"]}
 9989	{"title": {"chinese": "未聞花名"}, "synonyms_chinese": ["我們仍未知道那天所看見的花名。", "我們仍未知道那天所看見的花的名字。", "我們還未知道那天看到的花的名字。", "我們仍然不知道那天所見到的花叫什麼名字。", "那花。", "那朵花。", "花開未名。", "彼時所見之花名我們尚未知曉"]}
 9996	{"title": {"chinese": "戰國鬼才傳"}, "synonyms_chinese": []}
-9999	{"title": {"chinese": "ONE PIECE 3D 追逐草帽大冒險"}, "synonyms_chinese": []}
 10012	{"title": {"chinese": "幻想嘉年華"}, "synonyms_chinese": []}
 10015	{"title": {"chinese": "遊戯王 ZEXAL"}, "synonyms_chinese": []}
 10017	{"title": {"chinese": ""}, "synonyms_chinese": []}
@@ -2604,7 +2601,6 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 12753	{"title": {"chinese": "Phi Brain 第2季"}, "synonyms_chinese": ["天才黃金腦～神之謎 第2季", "神之謎題 第2季"]}
 12783	{"title": {"chinese": "天降之物 Final 我永遠的主人"}, "synonyms_chinese": ["天降之物 Final 我永遠的鳥籠"]}
 12815	{"title": {"chinese": "白熊咖啡廳"}, "synonyms_chinese": []}
-12859	{"title": {"chinese": "ONE PIECE FILM Z"}, "synonyms_chinese": []}
 12863	{"title": {"chinese": "星光少女 美夢成真"}, "synonyms_chinese": ["美妙旋律 Dear My Future"]}
 12883	{"title": {"chinese": "釣球"}, "synonyms_chinese": []}
 12893	{"title": {"chinese": "男子高中生的日常 SP"}, "synonyms_chinese": []}
@@ -5157,7 +5153,6 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 105081	{"title": {"chinese": "女高中生的虛度日常"}, "synonyms_chinese": []}
 105096	{"title": {"chinese": "HERO MASK"}, "synonyms_chinese": []}
 105119	{"title": {"chinese": "四季櫻"}, "synonyms_chinese": []}
-105143	{"title": {"chinese": "ONE PIECE STAMPEDE"}, "synonyms_chinese": []}
 105156	{"title": {"chinese": "這個勇者明明超 TUEEE 卻過度謹慎！"}, "synonyms_chinese": []}
 105190	{"title": {"chinese": "Darwin's Game"}, "synonyms_chinese": ["達爾文遊戲"]}
 105200	{"title": {"chinese": "衝吧烈子 第2期"}, "synonyms_chinese": []}
@@ -6261,7 +6256,6 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 141821	{"title": {"chinese": "魔都精兵的奴隸"}, "synonyms_chinese": []}
 141879	{"title": {"chinese": "莫名成為邪龍的五千歲草食龍"}, "synonyms_chinese": []}
 141882	{"title": {"chinese": "暫停！讓我查攻略"}, "synonyms_chinese": []}
-141902	{"title": {"chinese": "ONE PIECE FILM: RED"}, "synonyms_chinese": []}
 141907	{"title": {"chinese": "Ensemble Stars! -Road to Show!!-"}, "synonyms_chinese": ["偶像夢幻祭 -Road to Show!!-"]}
 141911	{"title": {"chinese": "Skip and Loafer"}, "synonyms_chinese": ["躍動青春"]}
 141949	{"title": {"chinese": "夫婦以上，戀人未滿。"}, "synonyms_chinese": []}
@@ -6289,6 +6283,7 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 142701	{"title": {"chinese": "後宮之烏"}, "synonyms_chinese": []}
 142769	{"title": {"chinese": "通往夏天的隧道，再見的出口"}, "synonyms_chinese": []}
 142770	{"title": {"chinese": "鈴芽的門鎖"}, "synonyms_chinese": []}
+141902	{"title": {"chinese": "ONE PIECE FILM: RED"}, "synonyms_chinese": ["海賊王劇場版：紅髮歌姬"]}
 142826	{"title": {"chinese": "闇芝居 10"}, "synonyms_chinese": []}
 142838	{"title": {"chinese": "SPY×FAMILY Part 2"}, "synonyms_chinese": ["SPY×FAMILY 間諜家家酒 Part 2"]}
 142842	{"title": {"chinese": "遊戯王 Go Rush!!"}, "synonyms_chinese": []}
@@ -6632,7 +6627,6 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 159429	{"title": {"chinese": "光之美少女 All Stars F"}, "synonyms_chinese": []}
 159559	{"title": {"chinese": "16bit 的感動 ANOTHER LAYER"}, "synonyms_chinese": []}
 159560	{"title": {"chinese": "逃走中 THE GREAT MISSION"}, "synonyms_chinese": []}
-159569	{"title": {"chinese": "Fate／Grand Order SP"}, "synonyms_chinese": []}
 159807	{"title": {"chinese": "無意間變成狗，被喜歡的女生撿回家。OVA"}, "synonyms_chinese": []}
 159808	{"title": {"chinese": "家裡蹲吸血姬的鬱悶"}, "synonyms_chinese": []}
 159831	{"title": {"chinese": "殭屍 100～在成為殭屍前要做的 100 件事～"}, "synonyms_chinese": []}
@@ -7145,11 +7139,17 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 2636	{"title": {"chinese": "多啦美與阿拉拉少年山賊團"}, "synonyms_chinese": []}
 2642	{"title": {"chinese": "多啦美與青色稻草人"}, "synonyms_chinese": []}
 3203	{"title": {"chinese": "櫻桃小丸子"}, "synonyms_chinese": []}
+101918	{"title": {"chinese": "海賊王 特別篇：空島篇"}, "synonyms_chinese": []}
+21335	{"title": {"chinese": "ONE PIECE FILM GOLD"}, "synonyms_chinese": ["海賊王劇場版：GOLD"]}
 2631	{"title": {"chinese": "多啦A夢七小子 GOAL! GOAL! GOAL!!"}, "synonyms_chinese": []}
 501	{"title": {"chinese": "多啦A夢"}, "synonyms_chinese": []}
 2653	{"title": {"chinese": "多啦A夢：加油！胖虎！！"}, "synonyms_chinese": []}
 2628	{"title": {"chinese": "多啦A夢族 奇異的甜品娜娜王國"}, "synonyms_chinese": []}
+182469	{"title": {"chinese": "海賊王 特別篇：粉絲來信"}, "synonyms_chinese": []}
+21831	{"title": {"chinese": "海賊王 特別篇：黃金之心"}, "synonyms_chinese": []}
+12859	{"title": {"chinese": "ONE PIECE FILM Z"}, "synonyms_chinese": ["海賊王劇場版：Z"]}
 2633	{"title": {"chinese": "多啦A夢族 生死時速火車大決戰"}, "synonyms_chinese": ["哆啦A夢在未來世界 驚心動魄的火車頭大暴走"]}
+21485	{"title": {"chinese": "海賊王 特別篇：迷霧島大冒險"}, "synonyms_chinese": []}
 2625	{"title": {"chinese": "多啦A夢族 怪盜多啦賓 神秘的挑戰書!!"}, "synonyms_chinese": []}
 2647	{"title": {"chinese": "多啦美與迷你多啦SOS"}, "synonyms_chinese": []}
 2639	{"title": {"chinese": "多啦美與哈囉小恐龍"}, "synonyms_chinese": []}
@@ -7162,7 +7162,36 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 554	{"title": {"chinese": "鋼鐵天使"}, "synonyms_chinese": []}
 555	{"title": {"chinese": "鋼鉄天使 2式"}, "synonyms_chinese": []}
 556	{"title": {"chinese": "鋼鉄天使 零"}, "synonyms_chinese": []}
+20835	{"title": {"chinese": "海賊王 特別篇：跨越艾斯之死！路飛與夥伴的誓約"}, "synonyms_chinese": []}
+19123	{"title": {"chinese": "海賊王 特別篇：黃金梅利號之章 另一位夥伴的故事"}, "synonyms_chinese": []}
+16239	{"title": {"chinese": "海賊王 特別篇：路飛之章 手掌島的冒險"}, "synonyms_chinese": []}
 557	{"title": {"chinese": "鋼鉄天使 Encore"}, "synonyms_chinese": []}
+117096	{"title": {"chinese": "阿薩里爾 未來的民間故事"}, "synonyms_chinese": []}
+185541	{"title": {"chinese": "阿薩里爾 2 未來的民間故事"}, "synonyms_chinese": []}
+9999	{"title": {"chinese": "ONE PIECE 3D 追逐草帽大冒險"}, "synonyms_chinese": ["海賊王3D：追逐草帽大冒險"]}
+99302	{"title": {"chinese": "海賊王 特別篇：東海篇"}, "synonyms_chinese": []}
+21230	{"title": {"chinese": "海賊王 特別篇：薩波篇"}, "synonyms_chinese": []}
+15323	{"title": {"chinese": "海賊王 特別篇：奈美之章 領航員之淚與夥伴的羈絆"}, "synonyms_chinese": []}
+2020	{"title": {"chinese": "海賊王 特別篇：路飛捕頭傳"}, "synonyms_chinese": []}
+1238	{"title": {"chinese": "海賊王 特別篇：堅守最後的大舞台"}, "synonyms_chinese": []}
+1237	{"title": {"chinese": "海賊王特別篇：奔向大海原！父親偉大的夢想"}, "synonyms_chinese": []}
+1094	{"title": {"chinese": "海賊王 特別篇：海肚臍大冒險"}, "synonyms_chinese": []}
+21880	{"title": {"chinese": "ONE PIECE FILM GOLD 〜episode 0〜 711ver."}, "synonyms_chinese": []}
+16468	{"title": {"chinese": "ONE PIECE FILM Z『GLORIOUS ISLAND』"}, "synonyms_chinese": []}
+105143	{"title": {"chinese": "ONE PIECE STAMPEDE"}, "synonyms_chinese": ["海賊王劇場版：奪寶爭霸戰"]}
+4155	{"title": {"chinese": "ONE PIECE FILM STRONG WORLD"}, "synonyms_chinese": ["海賊王劇場版：強者天下"]}
+465	{"title": {"chinese": "海賊王 機關城的機械巨兵"}, "synonyms_chinese": ["海賊王劇場版：機關城的鋼鐵巨兵"]}
+177175	{"title": {"chinese": "Arknights: 焰燼曙明"}, "synonyms_chinese": []}
+171608	{"title": {"chinese": "クラメルカガリ"}, "synonyms_chinese": []}
+171030	{"title": {"chinese": "Wonderful Precure!"}, "synonyms_chinese": []}
+159569	{"title": {"chinese": "Fate/Grand Order 搞不懂的藤丸立香"}, "synonyms_chinese": []}
+171029	{"title": {"chinese": "Fate/Grand Order 搞不懂的藤丸立香 新年特番 2023"}, "synonyms_chinese": []}
+179991	{"title": {"chinese": "Fate/Grand Order 搞不懂的藤丸立香 第二季"}, "synonyms_chinese": []}
+169384	{"title": {"chinese": "Fate/Grand Order 搞不懂的藤丸立香 新年特番"}, "synonyms_chinese": []}
+185694	{"title": {"chinese": "百姓貴族 第三季"}, "synonyms_chinese": []}
+169778	{"title": {"chinese": "クラユカバ"}, "synonyms_chinese": []}
+169511	{"title": {"chinese": "百姓貴族 OVA"}, "synonyms_chinese": []}
+185716	{"title": {"chinese": "百姓貴族 第二季 OVA"}, "synonyms_chinese": []}
 \.
 
 
