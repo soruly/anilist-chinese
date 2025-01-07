@@ -2247,7 +2247,6 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 9904	{"title": {"chinese": "淫妖蟲 悦～怪楽変化退魔録～"}, "synonyms_chinese": []}
 9905	{"title": {"chinese": "Captain (1983)"}, "synonyms_chinese": []}
 9911	{"title": {"chinese": "放學後的昴星團"}, "synonyms_chinese": []}
-9917	{"title": {"chinese": "寵物小精靈劇場版 比克提尼與黑英雄 捷克羅姆/白英雄 雷希拉姆"}, "synonyms_chinese": []}
 9919	{"title": {"chinese": "青之驅魔師"}, "synonyms_chinese": ["青之祓魔師", "藍色驅魔師", "藍色的除魔師"]}
 9922	{"title": {"chinese": "我們沒有羽翼"}, "synonyms_chinese": ["我們沒有翅膀"]}
 9924	{"title": {"chinese": "祝福的鐘聲 OVA"}, "synonyms_chinese": ["祝福之鐘 OVA"]}
@@ -7246,6 +7245,44 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 110261	{"title": {"chinese": "Promare: SIDE Galo"}, "synonyms_chinese": []}
 102508	{"title": {"chinese": "新妹魔王的契約者 BURST Specials"}, "synonyms_chinese": []}
 108944	{"title": {"chinese": "新妹魔王的契約者 DEPARTURES Special"}, "synonyms_chinese": []}
+108729	{"title": {"chinese": "魔法少女奈葉 A's Picture Drama"}, "synonyms_chinese": []}
+108730	{"title": {"chinese": "魔法少女奈葉 StrikerS Picture Drama"}, "synonyms_chinese": []}
+107340	{"title": {"chinese": "魔法少女奈葉 Picture Drama"}, "synonyms_chinese": []}
+4026	{"title": {"chinese": "寵物小精靈劇場版 騎拉帝納與冰空的花束 潔咪"}, "synonyms_chinese": []}
+108549	{"title": {"chinese": "魔法少女奈葉 The MOVIE Picture Drama"}, "synonyms_chinese": []}
+185875	{"title": {"chinese": "魔法少女奈葉 EXCEEDS Gun Blaze Vengeance"}, "synonyms_chinese": []}
+2847	{"title": {"chinese": "寵物小精靈劇場版 決戰時空之塔 帝牙盧卡VS帕路奇犽VS達克萊伊"}, "synonyms_chinese": []}
+20601	{"title": {"chinese": "魔女的使命 多華宮同學與妹妹的惡計"}, "synonyms_chinese": []}
+151898	{"title": {"chinese": "Overlord 昴昴昴宿星團 4"}, "synonyms_chinese": []}
+9917	{"title": {"chinese": "寵物小精靈劇場版 比克提尼與黑英雄 捷克羅姆"}, "synonyms_chinese": []}
+10740	{"title": {"chinese": "寵物小精靈劇場版 比克提尼與白英雄 雷希拉姆"}, "synonyms_chinese": []}
+107692	{"title": {"chinese": "魔法禁書目錄 III Specials"}, "synonyms_chinese": []}
+2201	{"title": {"chinese": "寵物小精靈劇場版 寵物小精靈保育家與蒼海的王子瑪納霏"}, "synonyms_chinese": []}
+1526	{"title": {"chinese": "寵物小精靈劇場版 夢夢與波導之勇者 路卡利奧"}, "synonyms_chinese": []}
+1122	{"title": {"chinese": "寵物小精靈劇場版 裂空的訪問者 代歐奇希斯"}, "synonyms_chinese": []}
+133845	{"title": {"chinese": "Overlord 聖王國篇"}, "synonyms_chinese": []}
+1121	{"title": {"chinese": "寵物小精靈劇場版 七夜的許願星 基拉祈"}, "synonyms_chinese": []}
+102499	{"title": {"chinese": "我老婆是學生會長! 老婆劇場"}, "synonyms_chinese": []}
+1120	{"title": {"chinese": "寵物小精靈劇場版 水都的守護神 拉帝亞斯和拉帝歐斯"}, "synonyms_chinese": []}
+102503	{"title": {"chinese": "我老婆是學生會長! OAD 老婆劇場"}, "synonyms_chinese": []}
+528	{"title": {"chinese": "寵物小精靈劇場版 超夢夢反擊戰"}, "synonyms_chinese": []}
+114564	{"title": {"chinese": "寵物小精靈劇場版 比卡超和可可的冒險"}, "synonyms_chinese": []}
+106287	{"title": {"chinese": "寵物小精靈劇場版 超夢夢反擊戰：進化"}, "synonyms_chinese": []}
+100744	{"title": {"chinese": "寵物小精靈劇場版 我們的故事"}, "synonyms_chinese": []}
+1117	{"title": {"chinese": "寵物小精靈劇場版 夢幻之寵物小精靈 利基亞爆誕"}, "synonyms_chinese": []}
+21651	{"title": {"chinese": "寵物小精靈劇場版 波爾凱尼恩與機關人偶 瑪機雅娜"}, "synonyms_chinese": []}
+7695	{"title": {"chinese": "寵物小精靈劇場版 幻影的霸者 索羅亞克"}, "synonyms_chinese": []}
+6178	{"title": {"chinese": "寵物小精靈劇場版 阿爾宙斯 超克的時空"}, "synonyms_chinese": []}
+1118	{"title": {"chinese": "寵物小精靈劇場版 結晶塔之帝王"}, "synonyms_chinese": []}
+1119	{"title": {"chinese": "寵物小精靈劇場版 雪拉比 穿梭時空的相遇"}, "synonyms_chinese": []}
+104211	{"title": {"chinese": "境界線上的地平線 Special"}, "synonyms_chinese": []}
+102716	{"title": {"chinese": "魔女的使命 Specials"}, "synonyms_chinese": []}
+104367	{"title": {"chinese": "境界線上的地平線 極東劇情講座"}, "synonyms_chinese": []}
+127331	{"title": {"chinese": "蠟筆小新：謎團？！天下春日部學園之嫌疑事件簿"}, "synonyms_chinese": []}
+107264	{"title": {"chinese": "Overlord 昴昴昴宿星團 克萊門汀逃亡篇"}, "synonyms_chinese": []}
+138119	{"title": {"chinese": "Fate/kaleid liner Prisma☆Illya Licht 無名少女 Special Mini Anime"}, "synonyms_chinese": []}
+104434	{"title": {"chinese": "暦 History"}, "synonyms_chinese": []}
+166035	{"title": {"chinese": "Overlord 昴昴昴宿星團 特別篇"}, "synonyms_chinese": []}
 \.
 
 
