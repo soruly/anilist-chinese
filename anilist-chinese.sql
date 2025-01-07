@@ -7156,6 +7156,9 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 9348	{"title": {"chinese": "櫻桃小丸子：我最喜歡的歌"}, "synonyms_chinese": []}
 21267	{"title": {"chinese": "櫻桃小丸子：來自意大利的少年"}, "synonyms_chinese": []}
 169930	{"title": {"chinese": "T・P BON"}, "synonyms_chinese": ["T·P時光特警"]}
+154037	{"title": {"chinese": "BLEACH: memories in the rain"}, "synonyms_chinese": []}
+136706	{"title": {"chinese": "Tomorrow’s Leaves"}, "synonyms_chinese": []}
+135776	{"title": {"chinese": "山賊日記"}, "synonyms_chinese": []}
 \.
 
 

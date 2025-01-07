@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      3.2025.1.6
+// @version      3.2025.1.7
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -7133,7 +7133,10 @@ var database = [
 {id:2639,title:"多啦美與哈囉小恐龍"},
 {id:9348,title:"櫻桃小丸子：我最喜歡的歌"},
 {id:21267,title:"櫻桃小丸子：來自意大利的少年"},
-{id:169930,title:"T・P BON"}
+{id:169930,title:"T・P BON"},
+{id:154037,title:"BLEACH: memories in the rain"},
+{id:136706,title:"Tomorrow’s Leaves"},
+{id:135776,title:"山賊日記"}
 ];
 
 var updating;
