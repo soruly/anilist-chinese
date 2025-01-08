@@ -7465,6 +7465,7 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 170221	{"title": {"chinese": "我內心的糟糕念頭 推糟短篇"}, "synonyms_chinese": []}
 1642	{"title": {"chinese": "魔界女王候補生"}, "synonyms_chinese": []}
 177191	{"title": {"chinese": "五等分的花嫁＊"}, "synonyms_chinese": []}
+154983	{"title": {"chinese": "衝吧烈子 第5期"}, "synonyms_chinese": []}
 20960	{"title": {"chinese": "LOVE STAGE!! OVA"}, "synonyms_chinese": ["戀愛舞台 OVA"]}
 \.
 

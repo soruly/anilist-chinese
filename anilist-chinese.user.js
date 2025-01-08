@@ -7443,6 +7443,7 @@ var database = [
 {id:170221,title:"我內心的糟糕念頭 推糟短篇"},
 {id:1642,title:"魔界女王候補生"},
 {id:177191,title:"五等分的花嫁＊"},
+{id:154983,title:"衝吧烈子 第5期"},
 {id:20960,title:"LOVE STAGE!! OVA"}
 ];
 

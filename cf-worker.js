@@ -7426,6 +7426,7 @@ const db = new Map([
 [170221,{title:"我內心的糟糕念頭 推糟短篇",synonyms:[]}],
 [1642,{title:"魔界女王候補生",synonyms:[]}],
 [177191,{title:"五等分的花嫁＊",synonyms:[]}],
+[154983,{title:"衝吧烈子 第5期",synonyms:[]}],
 [20960,{title:"LOVE STAGE!! OVA",synonyms:["戀愛舞台 OVA"]}]
 ]);
 
