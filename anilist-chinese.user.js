@@ -7408,10 +7408,15 @@ var database = [
 {id:132698,title:"電影 屁屁偵探 梳芙厘島的秘密"},
 {id:142806,title:"電影 屁屁偵探 屁屁亞蒂"},
 {id:172016,title:"屁屁偵探 再見親愛的夥伴屁屁啊"},
+{id:128890,title:"IDOLiSH7 Third BEAT! Part 2"},
+{id:161440,title:"IDOLiSH7: LIVE 4bit - BEYOND THE PERiOD DAY 1"},
+{id:170087,title:"IDOLiSH7: LIVE 4bit - BEYOND THE PERiOD DAY 2"},
 {id:132694,title:"屁屁偵探 第2期"},
 {id:116225,title:"電影 屁屁偵探 咖喱香料事件"},
 {id:185643,title:"屁屁偵探 星與月"},
-{id:101169,title:"IDOLiSH7 Vibrato"}
+{id:101169,title:"IDOLiSH7 Vibrato"},
+{id:110124,title:"Business Fish"},
+{id:180747,title:"大正偽婚～替身新娘與軍服的猛愛"}
 ];
 
 var updating;

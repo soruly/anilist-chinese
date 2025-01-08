@@ -7430,10 +7430,15 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 132698	{"title": {"chinese": "電影 屁屁偵探 梳芙厘島的秘密"}, "synonyms_chinese": []}
 142806	{"title": {"chinese": "電影 屁屁偵探 屁屁亞蒂"}, "synonyms_chinese": []}
 172016	{"title": {"chinese": "屁屁偵探 再見親愛的夥伴屁屁啊"}, "synonyms_chinese": []}
+128890	{"title": {"chinese": "IDOLiSH7 Third BEAT! Part 2"}, "synonyms_chinese": []}
+161440	{"title": {"chinese": "IDOLiSH7: LIVE 4bit - BEYOND THE PERiOD DAY 1"}, "synonyms_chinese": []}
+170087	{"title": {"chinese": "IDOLiSH7: LIVE 4bit - BEYOND THE PERiOD DAY 2"}, "synonyms_chinese": []}
 132694	{"title": {"chinese": "屁屁偵探 第2期"}, "synonyms_chinese": []}
 116225	{"title": {"chinese": "電影 屁屁偵探 咖喱香料事件"}, "synonyms_chinese": []}
 185643	{"title": {"chinese": "屁屁偵探 星與月"}, "synonyms_chinese": []}
 101169	{"title": {"chinese": "IDOLiSH7 Vibrato"}, "synonyms_chinese": []}
+110124	{"title": {"chinese": "Business Fish"}, "synonyms_chinese": []}
+180747	{"title": {"chinese": "大正偽婚～替身新娘與軍服的猛愛"}, "synonyms_chinese": []}
 \.
 
 

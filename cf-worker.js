@@ -7391,10 +7391,15 @@ const db = new Map([
 [132698,{title:"電影 屁屁偵探 梳芙厘島的秘密",synonyms:[]}],
 [142806,{title:"電影 屁屁偵探 屁屁亞蒂",synonyms:[]}],
 [172016,{title:"屁屁偵探 再見親愛的夥伴屁屁啊",synonyms:[]}],
+[128890,{title:"IDOLiSH7 Third BEAT! Part 2",synonyms:[]}],
+[161440,{title:"IDOLiSH7: LIVE 4bit - BEYOND THE PERiOD DAY 1",synonyms:[]}],
+[170087,{title:"IDOLiSH7: LIVE 4bit - BEYOND THE PERiOD DAY 2",synonyms:[]}],
 [132694,{title:"屁屁偵探 第2期",synonyms:[]}],
 [116225,{title:"電影 屁屁偵探 咖喱香料事件",synonyms:[]}],
 [185643,{title:"屁屁偵探 星與月",synonyms:[]}],
-[101169,{title:"IDOLiSH7 Vibrato",synonyms:[]}]
+[101169,{title:"IDOLiSH7 Vibrato",synonyms:[]}],
+[110124,{title:"Business Fish",synonyms:[]}],
+[180747,{title:"大正偽婚～替身新娘與軍服的猛愛",synonyms:[]}]
 ]);
 
 async function handleRequest(req) {
