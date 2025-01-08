@@ -7439,6 +7439,13 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 101169	{"title": {"chinese": "IDOLiSH7 Vibrato"}, "synonyms_chinese": []}
 110124	{"title": {"chinese": "Business Fish"}, "synonyms_chinese": []}
 180747	{"title": {"chinese": "大正偽婚～替身新娘與軍服的猛愛"}, "synonyms_chinese": []}
+179823	{"title": {"chinese": "入り浸りギャルにま〇こ使わせて貰う話 Animation"}, "synonyms_chinese": []}
+143118	{"title": {"chinese": "けものっ娘通信〜The Animation〜 牛娘ベル"}, "synonyms_chinese": []}
+168808	{"title": {"chinese": "けものっ娘通信〜The Animation〜 猫娘ニア"}, "synonyms_chinese": []}
+168809	{"title": {"chinese": "けものっ娘通信〜The Animation〜 鳥娘ルピア"}, "synonyms_chinese": []}
+153632	{"title": {"chinese": "Mark Your Kiss - The Animation"}, "synonyms_chinese": []}
+137821	{"title": {"chinese": "幸せなら肉を盛ろう!ジアニメーション"}, "synonyms_chinese": []}
+162923	{"title": {"chinese": "子産み島 ～週7で産めるメスたち～"}, "synonyms_chinese": []}
 \.
 
 

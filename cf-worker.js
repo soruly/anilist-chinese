@@ -7399,7 +7399,14 @@ const db = new Map([
 [185643,{title:"屁屁偵探 星與月",synonyms:[]}],
 [101169,{title:"IDOLiSH7 Vibrato",synonyms:[]}],
 [110124,{title:"Business Fish",synonyms:[]}],
-[180747,{title:"大正偽婚～替身新娘與軍服的猛愛",synonyms:[]}]
+[180747,{title:"大正偽婚～替身新娘與軍服的猛愛",synonyms:[]}],
+[179823,{title:"入り浸りギャルにま〇こ使わせて貰う話 Animation",synonyms:[]}],
+[143118,{title:"けものっ娘通信〜The Animation〜 牛娘ベル",synonyms:[]}],
+[168808,{title:"けものっ娘通信〜The Animation〜 猫娘ニア",synonyms:[]}],
+[168809,{title:"けものっ娘通信〜The Animation〜 鳥娘ルピア",synonyms:[]}],
+[153632,{title:"Mark Your Kiss - The Animation",synonyms:[]}],
+[137821,{title:"幸せなら肉を盛ろう!ジアニメーション",synonyms:[]}],
+[162923,{title:"子産み島 ～週7で産めるメスたち～",synonyms:[]}]
 ]);
 
 async function handleRequest(req) {

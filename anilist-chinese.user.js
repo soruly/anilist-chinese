@@ -7416,7 +7416,14 @@ var database = [
 {id:185643,title:"屁屁偵探 星與月"},
 {id:101169,title:"IDOLiSH7 Vibrato"},
 {id:110124,title:"Business Fish"},
-{id:180747,title:"大正偽婚～替身新娘與軍服的猛愛"}
+{id:180747,title:"大正偽婚～替身新娘與軍服的猛愛"},
+{id:179823,title:"入り浸りギャルにま〇こ使わせて貰う話 Animation"},
+{id:143118,title:"けものっ娘通信〜The Animation〜 牛娘ベル"},
+{id:168808,title:"けものっ娘通信〜The Animation〜 猫娘ニア"},
+{id:168809,title:"けものっ娘通信〜The Animation〜 鳥娘ルピア"},
+{id:153632,title:"Mark Your Kiss - The Animation"},
+{id:137821,title:"幸せなら肉を盛ろう!ジアニメーション"},
+{id:162923,title:"子産み島 ～週7で産めるメスたち～"}
 ];
 
 var updating;
