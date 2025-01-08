@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      3.2025.1.7
+// @version      3.2025.1.8
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -7385,12 +7385,33 @@ var database = [
 {id:1293,title:"福星小子"},
 {id:4508,title:"初音島 第二季 Special"},
 {id:1924,title:"福星小子 求你說聲我愛你"},
+{id:110131,title:"新幹線變形機器人: 來自未來的神速 ALFA-X"},
 {id:3037,title:"GS美神 極樂大作戰"},
 {id:1919,title:"福星小子 OVA"},
+{id:128737,title:"新幹線變形機器人Shinkalion Z"},
 {id:1920,title:"福星小子 愛星球之戀"},
 {id:609,title:"最終兵器彼女 Another Love Song"},
 {id:1659,title:"舞-乙HiME Specials"},
-{id:785,title:"御宅族的錄影帶"}
+{id:785,title:"御宅族的錄影帶"},
+{id:181776,title:"Murder Mystery of the Dead"},
+{id:132695,title:"屁屁偵探 第3期"},
+{id:184812,title:"現代誤譯"},
+{id:179872,title:"屁屁偵探 第7期 Part 2"},
+{id:179871,title:"屁屁偵探 第7期"},
+{id:185644,title:"屁屁偵探 第8期"},
+{id:100790,title:"屁屁偵探 第1期"},
+{id:132696,title:"屁屁偵探 第4期"},
+{id:179870,title:"屁屁偵探 第6期"},
+{id:132697,title:"屁屁偵探 第5期"},
+{id:185645,title:"屁屁偵探 第9期"},
+{id:116224,title:"電影 屁屁偵探 瓢蟲遺跡之謎"},
+{id:132698,title:"電影 屁屁偵探 梳芙厘島的秘密"},
+{id:142806,title:"電影 屁屁偵探 屁屁亞蒂"},
+{id:172016,title:"屁屁偵探 再見親愛的夥伴屁屁啊"},
+{id:132694,title:"屁屁偵探 第2期"},
+{id:116225,title:"電影 屁屁偵探 咖喱香料事件"},
+{id:185643,title:"屁屁偵探 星與月"},
+{id:101169,title:"IDOLiSH7 Vibrato"}
 ];
 
 var updating;

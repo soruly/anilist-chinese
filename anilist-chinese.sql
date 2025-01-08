@@ -7407,12 +7407,33 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 1293	{"title": {"chinese": "福星小子"}, "synonyms_chinese": []}
 4508	{"title": {"chinese": "初音島 第二季 Special"}, "synonyms_chinese": []}
 1924	{"title": {"chinese": "福星小子 求你說聲我愛你"}, "synonyms_chinese": []}
+110131	{"title": {"chinese": "新幹線變形機器人: 來自未來的神速 ALFA-X"}, "synonyms_chinese": []}
 3037	{"title": {"chinese": "GS美神 極樂大作戰"}, "synonyms_chinese": []}
 1919	{"title": {"chinese": "福星小子 OVA"}, "synonyms_chinese": []}
+128737	{"title": {"chinese": "新幹線變形機器人Shinkalion Z"}, "synonyms_chinese": []}
 1920	{"title": {"chinese": "福星小子 愛星球之戀"}, "synonyms_chinese": []}
 609	{"title": {"chinese": "最終兵器彼女 Another Love Song"}, "synonyms_chinese": []}
 1659	{"title": {"chinese": "舞-乙HiME Specials"}, "synonyms_chinese": []}
 785	{"title": {"chinese": "御宅族的錄影帶"}, "synonyms_chinese": []}
+181776	{"title": {"chinese": "Murder Mystery of the Dead"}, "synonyms_chinese": ["謀殺之迷: 亡者的秘密"]}
+132695	{"title": {"chinese": "屁屁偵探 第3期"}, "synonyms_chinese": []}
+184812	{"title": {"chinese": "現代誤譯"}, "synonyms_chinese": []}
+179872	{"title": {"chinese": "屁屁偵探 第7期 Part 2"}, "synonyms_chinese": []}
+179871	{"title": {"chinese": "屁屁偵探 第7期"}, "synonyms_chinese": []}
+185644	{"title": {"chinese": "屁屁偵探 第8期"}, "synonyms_chinese": []}
+100790	{"title": {"chinese": "屁屁偵探 第1期"}, "synonyms_chinese": []}
+132696	{"title": {"chinese": "屁屁偵探 第4期"}, "synonyms_chinese": []}
+179870	{"title": {"chinese": "屁屁偵探 第6期"}, "synonyms_chinese": []}
+132697	{"title": {"chinese": "屁屁偵探 第5期"}, "synonyms_chinese": []}
+185645	{"title": {"chinese": "屁屁偵探 第9期"}, "synonyms_chinese": []}
+116224	{"title": {"chinese": "電影 屁屁偵探 瓢蟲遺跡之謎"}, "synonyms_chinese": []}
+132698	{"title": {"chinese": "電影 屁屁偵探 梳芙厘島的秘密"}, "synonyms_chinese": []}
+142806	{"title": {"chinese": "電影 屁屁偵探 屁屁亞蒂"}, "synonyms_chinese": []}
+172016	{"title": {"chinese": "屁屁偵探 再見親愛的夥伴屁屁啊"}, "synonyms_chinese": []}
+132694	{"title": {"chinese": "屁屁偵探 第2期"}, "synonyms_chinese": []}
+116225	{"title": {"chinese": "電影 屁屁偵探 咖喱香料事件"}, "synonyms_chinese": []}
+185643	{"title": {"chinese": "屁屁偵探 星與月"}, "synonyms_chinese": []}
+101169	{"title": {"chinese": "IDOLiSH7 Vibrato"}, "synonyms_chinese": []}
 \.
 
 
