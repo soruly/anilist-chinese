@@ -7435,6 +7435,8 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 170087	{"title": {"chinese": "IDOLiSH7: LIVE 4bit - BEYOND THE PERiOD DAY 2"}, "synonyms_chinese": []}
 132694	{"title": {"chinese": "屁屁偵探 第2期"}, "synonyms_chinese": []}
 116225	{"title": {"chinese": "電影 屁屁偵探 咖喱香料事件"}, "synonyms_chinese": []}
+168253	{"title": {"chinese": "夫婦交歡～回不去的夜晚～"}, "synonyms_chinese": []}
+174916	{"title": {"chinese": "孕ませ屋 THE ANIMATION"}, "synonyms_chinese": []}
 185643	{"title": {"chinese": "屁屁偵探 星與月"}, "synonyms_chinese": []}
 101169	{"title": {"chinese": "IDOLiSH7 Vibrato"}, "synonyms_chinese": []}
 110124	{"title": {"chinese": "Business Fish"}, "synonyms_chinese": []}
@@ -7446,6 +7448,11 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 153632	{"title": {"chinese": "Mark Your Kiss - The Animation"}, "synonyms_chinese": []}
 137821	{"title": {"chinese": "幸せなら肉を盛ろう!ジアニメーション"}, "synonyms_chinese": []}
 162923	{"title": {"chinese": "子産み島 ～週7で産めるメスたち～"}, "synonyms_chinese": []}
+154650	{"title": {"chinese": "為漣蒼士獻上純潔"}, "synonyms_chinese": []}
+176707	{"title": {"chinese": "僕にハーレムセフレが出来た理由"}, "synonyms_chinese": []}
+174189	{"title": {"chinese": "神聖昂燐ダクリュオン・ルナ ~堕聖母誕生~"}, "synonyms_chinese": []}
+117647	{"title": {"chinese": "うしちち食べ放題!ジ・アニメーション"}, "synonyms_chinese": []}
+98970	{"title": {"chinese": "HHH: Triple Ecchi - Bonus Episode"}, "synonyms_chinese": []}
 \.
 
 

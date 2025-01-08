@@ -7396,6 +7396,8 @@ const db = new Map([
 [170087,{title:"IDOLiSH7: LIVE 4bit - BEYOND THE PERiOD DAY 2",synonyms:[]}],
 [132694,{title:"屁屁偵探 第2期",synonyms:[]}],
 [116225,{title:"電影 屁屁偵探 咖喱香料事件",synonyms:[]}],
+[168253,{title:"夫婦交歡～回不去的夜晚～",synonyms:[]}],
+[174916,{title:"孕ませ屋 THE ANIMATION",synonyms:[]}],
 [185643,{title:"屁屁偵探 星與月",synonyms:[]}],
 [101169,{title:"IDOLiSH7 Vibrato",synonyms:[]}],
 [110124,{title:"Business Fish",synonyms:[]}],
@@ -7406,7 +7408,12 @@ const db = new Map([
 [168809,{title:"けものっ娘通信〜The Animation〜 鳥娘ルピア",synonyms:[]}],
 [153632,{title:"Mark Your Kiss - The Animation",synonyms:[]}],
 [137821,{title:"幸せなら肉を盛ろう!ジアニメーション",synonyms:[]}],
-[162923,{title:"子産み島 ～週7で産めるメスたち～",synonyms:[]}]
+[162923,{title:"子産み島 ～週7で産めるメスたち～",synonyms:[]}],
+[154650,{title:"為漣蒼士獻上純潔",synonyms:[]}],
+[176707,{title:"僕にハーレムセフレが出来た理由",synonyms:[]}],
+[174189,{title:"神聖昂燐ダクリュオン・ルナ ~堕聖母誕生~",synonyms:[]}],
+[117647,{title:"うしちち食べ放題!ジ・アニメーション",synonyms:[]}],
+[98970,{title:"HHH: Triple Ecchi - Bonus Episode",synonyms:[]}]
 ]);
 
 async function handleRequest(req) {
