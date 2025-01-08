@@ -19732,13 +19732,6 @@
     "synonyms": []
   },
   {
-    "id": 20900,
-    "title": "青春之旅 OVA",
-    "synonyms": [
-      "閃爍的青春 OVA"
-    ]
-  },
-  {
     "id": 20901,
     "title": "動畫心療系",
     "synonyms": [
@@ -31145,13 +31138,6 @@
     "synonyms": []
   },
   {
-    "id": 110349,
-    "title": "Great Pretender",
-    "synonyms": [
-      "大欺詐師"
-    ]
-  },
-  {
     "id": 110350,
     "title": "ID: INVADED",
     "synonyms": []
@@ -38881,11 +38867,6 @@
     "synonyms": []
   },
   {
-    "id": 170935,
-    "title": "詐騙之王 razbliuto",
-    "synonyms": []
-  },
-  {
     "id": 170938,
     "title": "曾經、魔法少女和邪惡相互為敵。",
     "synonyms": []
@@ -38931,6 +38912,13 @@
     "id": 171025,
     "title": "魔法光源股份有限公司",
     "synonyms": []
+  },
+  {
+    "id": 170935,
+    "title": "GREAT PRETENDER razbliuto",
+    "synonyms": [
+      "大欺詐師 razbliuto"
+    ]
   },
   {
     "id": 171026,
@@ -41937,6 +41925,35 @@
     "synonyms": []
   },
   {
+    "id": 3419,
+    "title": "桃子李子～地上最強新娘～ OVA",
+    "synonyms": [
+      "鐵拳少女桃子 OVA"
+    ]
+  },
+  {
+    "id": 1568,
+    "title": "桃子李子～地上最強新娘～",
+    "synonyms": [
+      "鐵拳少女桃子"
+    ]
+  },
+  {
+    "id": 20837,
+    "title": "青春之旅 unwritten",
+    "synonyms": []
+  },
+  {
+    "id": 238,
+    "title": "烈火之炎",
+    "synonyms": []
+  },
+  {
+    "id": 5691,
+    "title": "烈火之炎 FINAL BURNING",
+    "synonyms": []
+  },
+  {
     "id": 168253,
     "title": "夫婦交歡～回不去的夜晚～",
     "synonyms": []
@@ -42024,6 +42041,35 @@
   {
     "id": 98970,
     "title": "HHH: Triple Ecchi - Bonus Episode",
+    "synonyms": []
+  },
+  {
+    "id": 102930,
+    "title": "○",
+    "synonyms": []
+  },
+  {
+    "id": 110349,
+    "title": "GREAT PRETENDER",
+    "synonyms": [
+      "大欺詐師"
+    ]
+  },
+  {
+    "id": 20900,
+    "title": "青春之旅 PAGE.13",
+    "synonyms": [
+      "閃爍的青春 PAGE.13"
+    ]
+  },
+  {
+    "id": 170221,
+    "title": "我內心的糟糕念頭 推糟短篇",
+    "synonyms": []
+  },
+  {
+    "id": 1642,
+    "title": "魔界女王候補生",
     "synonyms": []
   }
 ]

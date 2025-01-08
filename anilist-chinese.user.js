@@ -3400,7 +3400,6 @@ var database = [
 {id:20889,title:"中二病也要談戀愛！戀 OVA"},
 {id:20892,title:"我的妹妹哪有這麼可愛！"},
 {id:20896,title:"東京闇鴉 SP"},
-{id:20900,title:"青春之旅 OVA"},
 {id:20901,title:"動畫心療系"},
 {id:20904,title:"電波少女與錢仙大人 SP"},
 {id:20906,title:"魯邦三世 2015"},
@@ -5367,7 +5366,6 @@ var database = [
 {id:110336,title:"らぶりー♡"},
 {id:110337,title:"お兄ちゃん、朝までずっとギュッてして！"},
 {id:110347,title:"屈辱"},
-{id:110349,title:"Great Pretender"},
 {id:110350,title:"ID: INVADED"},
 {id:110353,title:"DECA-DENCE"},
 {id:110354,title:"BNA"},
@@ -6826,7 +6824,6 @@ var database = [
 {id:170891,title:"少女如草花綻放"},
 {id:170893,title:"放學後少年花子君 第二季"},
 {id:170913,title:"掙扎吧，亞當"},
-{id:170935,title:"詐騙之王 razbliuto"},
 {id:170938,title:"曾經、魔法少女和邪惡相互為敵。"},
 {id:170942,title:"青春之箱"},
 {id:170953,title:"闇芝居 12"},
@@ -6836,6 +6833,7 @@ var database = [
 {id:171018,title:"DAN DA DAN"},
 {id:171019,title:"名湯「異世界溫泉」開拓記～30 多歲溫泉狂熱者，轉生到悠閒的溫泉天國～"},
 {id:171025,title:"魔法光源股份有限公司"},
+{id:170935,title:"GREAT PRETENDER razbliuto"},
 {id:171026,title:"派對咖孔明 Road to Summer Sonia"},
 {id:171031,title:"異世界悠閒紀行～邊養娃邊當冒險者～"},
 {id:171038,title:"星辰墜落之國的妮娜"},
@@ -7413,6 +7411,11 @@ var database = [
 {id:170087,title:"IDOLiSH7: LIVE 4bit - BEYOND THE PERiOD DAY 2"},
 {id:132694,title:"屁屁偵探 第2期"},
 {id:116225,title:"電影 屁屁偵探 咖喱香料事件"},
+{id:3419,title:"桃子李子～地上最強新娘～ OVA"},
+{id:1568,title:"桃子李子～地上最強新娘～"},
+{id:20837,title:"青春之旅 unwritten"},
+{id:238,title:"烈火之炎"},
+{id:5691,title:"烈火之炎 FINAL BURNING"},
 {id:168253,title:"夫婦交歡～回不去的夜晚～"},
 {id:174916,title:"孕ませ屋 THE ANIMATION"},
 {id:185643,title:"屁屁偵探 星與月"},
@@ -7430,7 +7433,12 @@ var database = [
 {id:176707,title:"僕にハーレムセフレが出来た理由"},
 {id:174189,title:"神聖昂燐ダクリュオン・ルナ ~堕聖母誕生~"},
 {id:117647,title:"うしちち食べ放題!ジ・アニメーション"},
-{id:98970,title:"HHH: Triple Ecchi - Bonus Episode"}
+{id:98970,title:"HHH: Triple Ecchi - Bonus Episode"},
+{id:102930,title:"○"},
+{id:110349,title:"GREAT PRETENDER"},
+{id:20900,title:"青春之旅 PAGE.13"},
+{id:170221,title:"我內心的糟糕念頭 推糟短篇"},
+{id:1642,title:"魔界女王候補生"}
 ];
 
 var updating;

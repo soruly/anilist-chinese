@@ -3422,7 +3422,6 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 20889	{"title": {"chinese": "中二病也要談戀愛！戀 OVA"}, "synonyms_chinese": []}
 20892	{"title": {"chinese": "我的妹妹哪有這麼可愛！"}, "synonyms_chinese": []}
 20896	{"title": {"chinese": "東京闇鴉 SP"}, "synonyms_chinese": []}
-20900	{"title": {"chinese": "青春之旅 OVA"}, "synonyms_chinese": ["閃爍的青春 OVA"]}
 20901	{"title": {"chinese": "動畫心療系"}, "synonyms_chinese": ["心療內科"]}
 20904	{"title": {"chinese": "電波少女與錢仙大人 SP"}, "synonyms_chinese": ["銀仙 SP"]}
 20906	{"title": {"chinese": "魯邦三世 2015"}, "synonyms_chinese": []}
@@ -5389,7 +5388,6 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 110336	{"title": {"chinese": "らぶりー♡"}, "synonyms_chinese": []}
 110337	{"title": {"chinese": "お兄ちゃん、朝までずっとギュッてして！"}, "synonyms_chinese": []}
 110347	{"title": {"chinese": "屈辱"}, "synonyms_chinese": []}
-110349	{"title": {"chinese": "Great Pretender"}, "synonyms_chinese": ["大欺詐師"]}
 110350	{"title": {"chinese": "ID: INVADED"}, "synonyms_chinese": []}
 110353	{"title": {"chinese": "DECA-DENCE"}, "synonyms_chinese": []}
 110354	{"title": {"chinese": "BNA"}, "synonyms_chinese": ["動物新世代", "全新動物"]}
@@ -6848,7 +6846,6 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 170891	{"title": {"chinese": "少女如草花綻放"}, "synonyms_chinese": []}
 170893	{"title": {"chinese": "放學後少年花子君 第二季"}, "synonyms_chinese": []}
 170913	{"title": {"chinese": "掙扎吧，亞當"}, "synonyms_chinese": []}
-170935	{"title": {"chinese": "詐騙之王 razbliuto"}, "synonyms_chinese": []}
 170938	{"title": {"chinese": "曾經、魔法少女和邪惡相互為敵。"}, "synonyms_chinese": []}
 170942	{"title": {"chinese": "青春之箱"}, "synonyms_chinese": []}
 170953	{"title": {"chinese": "闇芝居 12"}, "synonyms_chinese": []}
@@ -6858,6 +6855,7 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 171018	{"title": {"chinese": "DAN DA DAN"}, "synonyms_chinese": ["膽大黨"]}
 171019	{"title": {"chinese": "名湯「異世界溫泉」開拓記～30 多歲溫泉狂熱者，轉生到悠閒的溫泉天國～"}, "synonyms_chinese": []}
 171025	{"title": {"chinese": "魔法光源股份有限公司"}, "synonyms_chinese": []}
+170935	{"title": {"chinese": "GREAT PRETENDER razbliuto"}, "synonyms_chinese": ["大欺詐師 razbliuto"]}
 171026	{"title": {"chinese": "派對咖孔明 Road to Summer Sonia"}, "synonyms_chinese": []}
 171031	{"title": {"chinese": "異世界悠閒紀行～邊養娃邊當冒險者～"}, "synonyms_chinese": []}
 171038	{"title": {"chinese": "星辰墜落之國的妮娜"}, "synonyms_chinese": []}
@@ -7435,6 +7433,11 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 170087	{"title": {"chinese": "IDOLiSH7: LIVE 4bit - BEYOND THE PERiOD DAY 2"}, "synonyms_chinese": []}
 132694	{"title": {"chinese": "屁屁偵探 第2期"}, "synonyms_chinese": []}
 116225	{"title": {"chinese": "電影 屁屁偵探 咖喱香料事件"}, "synonyms_chinese": []}
+3419	{"title": {"chinese": "桃子李子～地上最強新娘～ OVA"}, "synonyms_chinese": ["鐵拳少女桃子 OVA"]}
+1568	{"title": {"chinese": "桃子李子～地上最強新娘～"}, "synonyms_chinese": ["鐵拳少女桃子"]}
+20837	{"title": {"chinese": "青春之旅 unwritten"}, "synonyms_chinese": []}
+238	{"title": {"chinese": "烈火之炎"}, "synonyms_chinese": []}
+5691	{"title": {"chinese": "烈火之炎 FINAL BURNING"}, "synonyms_chinese": []}
 168253	{"title": {"chinese": "夫婦交歡～回不去的夜晚～"}, "synonyms_chinese": []}
 174916	{"title": {"chinese": "孕ませ屋 THE ANIMATION"}, "synonyms_chinese": []}
 185643	{"title": {"chinese": "屁屁偵探 星與月"}, "synonyms_chinese": []}
@@ -7453,6 +7456,11 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 174189	{"title": {"chinese": "神聖昂燐ダクリュオン・ルナ ~堕聖母誕生~"}, "synonyms_chinese": []}
 117647	{"title": {"chinese": "うしちち食べ放題!ジ・アニメーション"}, "synonyms_chinese": []}
 98970	{"title": {"chinese": "HHH: Triple Ecchi - Bonus Episode"}, "synonyms_chinese": []}
+102930	{"title": {"chinese": "○"}, "synonyms_chinese": []}
+110349	{"title": {"chinese": "GREAT PRETENDER"}, "synonyms_chinese": ["大欺詐師"]}
+20900	{"title": {"chinese": "青春之旅 PAGE.13"}, "synonyms_chinese": ["閃爍的青春 PAGE.13"]}
+170221	{"title": {"chinese": "我內心的糟糕念頭 推糟短篇"}, "synonyms_chinese": []}
+1642	{"title": {"chinese": "魔界女王候補生"}, "synonyms_chinese": []}
 \.
 
 
