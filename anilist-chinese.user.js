@@ -7411,6 +7411,9 @@ var database = [
 {id:170087,title:"IDOLiSH7: LIVE 4bit - BEYOND THE PERiOD DAY 2"},
 {id:132694,title:"屁屁偵探 第2期"},
 {id:116225,title:"電影 屁屁偵探 咖喱香料事件"},
+{id:18441,title:"BLOOD LAD OVA"},
+{id:118029,title:" 純情銃撃コスプレ少女"},
+{id:170206,title:"Scott Pilgrim Takes Off"},
 {id:3419,title:"桃子李子～地上最強新娘～ OVA"},
 {id:1568,title:"桃子李子～地上最強新娘～"},
 {id:20837,title:"青春之旅 unwritten"},
@@ -7438,7 +7441,9 @@ var database = [
 {id:110349,title:"GREAT PRETENDER"},
 {id:20900,title:"青春之旅 PAGE.13"},
 {id:170221,title:"我內心的糟糕念頭 推糟短篇"},
-{id:1642,title:"魔界女王候補生"}
+{id:1642,title:"魔界女王候補生"},
+{id:177191,title:"五等分的花嫁＊"},
+{id:20960,title:"LOVE STAGE!! OVA"}
 ];
 
 var updating;

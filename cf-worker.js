@@ -7394,6 +7394,9 @@ const db = new Map([
 [170087,{title:"IDOLiSH7: LIVE 4bit - BEYOND THE PERiOD DAY 2",synonyms:[]}],
 [132694,{title:"屁屁偵探 第2期",synonyms:[]}],
 [116225,{title:"電影 屁屁偵探 咖喱香料事件",synonyms:[]}],
+[18441,{title:"BLOOD LAD OVA",synonyms:[]}],
+[118029,{title:" 純情銃撃コスプレ少女",synonyms:[]}],
+[170206,{title:"Scott Pilgrim Takes Off",synonyms:[]}],
 [3419,{title:"桃子李子～地上最強新娘～ OVA",synonyms:["鐵拳少女桃子 OVA"]}],
 [1568,{title:"桃子李子～地上最強新娘～",synonyms:["鐵拳少女桃子"]}],
 [20837,{title:"青春之旅 unwritten",synonyms:[]}],
@@ -7421,7 +7424,9 @@ const db = new Map([
 [110349,{title:"GREAT PRETENDER",synonyms:["大欺詐師"]}],
 [20900,{title:"青春之旅 PAGE.13",synonyms:["閃爍的青春 PAGE.13"]}],
 [170221,{title:"我內心的糟糕念頭 推糟短篇",synonyms:[]}],
-[1642,{title:"魔界女王候補生",synonyms:[]}]
+[1642,{title:"魔界女王候補生",synonyms:[]}],
+[177191,{title:"五等分的花嫁＊",synonyms:[]}],
+[20960,{title:"LOVE STAGE!! OVA",synonyms:["戀愛舞台 OVA"]}]
 ]);
 
 async function handleRequest(req) {

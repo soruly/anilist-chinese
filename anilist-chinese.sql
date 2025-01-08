@@ -7433,6 +7433,9 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 170087	{"title": {"chinese": "IDOLiSH7: LIVE 4bit - BEYOND THE PERiOD DAY 2"}, "synonyms_chinese": []}
 132694	{"title": {"chinese": "屁屁偵探 第2期"}, "synonyms_chinese": []}
 116225	{"title": {"chinese": "電影 屁屁偵探 咖喱香料事件"}, "synonyms_chinese": []}
+18441	{"title": {"chinese": "BLOOD LAD OVA"}, "synonyms_chinese": []}
+118029	{"title": {"chinese": " 純情銃撃コスプレ少女"}, "synonyms_chinese": []}
+170206	{"title": {"chinese": "Scott Pilgrim Takes Off"}, "synonyms_chinese": []}
 3419	{"title": {"chinese": "桃子李子～地上最強新娘～ OVA"}, "synonyms_chinese": ["鐵拳少女桃子 OVA"]}
 1568	{"title": {"chinese": "桃子李子～地上最強新娘～"}, "synonyms_chinese": ["鐵拳少女桃子"]}
 20837	{"title": {"chinese": "青春之旅 unwritten"}, "synonyms_chinese": []}
@@ -7461,6 +7464,8 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 20900	{"title": {"chinese": "青春之旅 PAGE.13"}, "synonyms_chinese": ["閃爍的青春 PAGE.13"]}
 170221	{"title": {"chinese": "我內心的糟糕念頭 推糟短篇"}, "synonyms_chinese": []}
 1642	{"title": {"chinese": "魔界女王候補生"}, "synonyms_chinese": []}
+177191	{"title": {"chinese": "五等分的花嫁＊"}, "synonyms_chinese": []}
+20960	{"title": {"chinese": "LOVE STAGE!! OVA"}, "synonyms_chinese": ["戀愛舞台 OVA"]}
 \.
 
 
