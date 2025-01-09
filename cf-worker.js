@@ -6318,7 +6318,6 @@ const db = new Map([
 [146489,{title:"我們的黎明",synonyms:[]}],
 [146493,{title:"狩龍人拉格納",synonyms:[]}],
 [146501,{title:"BanG Dream! Morfonication",synonyms:[]}],
-[146609,{title:"DEAD DEAD DEMON’S DEDEDEDE DESTRUCTION",synonyms:[]}],
 [146625,{title:"Engage Kiss",synonyms:["契約之吻"]}],
 [146637,{title:"ORIENT 淡路島激鬥篇",synonyms:["ORIENT 東方少年 淡路島激鬥篇"]}],
 [146638,{title:"拳願阿修羅 第二季",synonyms:[]}],
@@ -7392,6 +7391,7 @@ const db = new Map([
 [128890,{title:"IDOLiSH7 Third BEAT! Part 2",synonyms:[]}],
 [161440,{title:"IDOLiSH7: LIVE 4bit - BEYOND THE PERiOD DAY 1",synonyms:[]}],
 [170087,{title:"IDOLiSH7: LIVE 4bit - BEYOND THE PERiOD DAY 2",synonyms:[]}],
+[113924,{title:"為什麼老師會在這裡！？第13話",synonyms:[]}],
 [132694,{title:"屁屁偵探 第2期",synonyms:[]}],
 [116225,{title:"電影 屁屁偵探 咖喱香料事件",synonyms:[]}],
 [18441,{title:"BLOOD LAD OVA",synonyms:[]}],
@@ -7427,6 +7427,8 @@ const db = new Map([
 [1642,{title:"魔界女王候補生",synonyms:[]}],
 [177191,{title:"五等分的花嫁＊",synonyms:[]}],
 [154983,{title:"衝吧烈子 第5期",synonyms:[]}],
+[146609,{title:"DEAD DEAD DEMON’S DEDEDEDE DESTRUCTION 前章",synonyms:[]}],
+[176218,{title:"DEAD DEAD DEMON’S DEDEDEDE DESTRUCTION 後章",synonyms:[]}],
 [20960,{title:"LOVE STAGE!! OVA",synonyms:["戀愛舞台 OVA"]}]
 ]);
 

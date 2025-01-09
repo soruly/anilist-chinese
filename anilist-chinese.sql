@@ -6357,7 +6357,6 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 146489	{"title": {"chinese": "我們的黎明"}, "synonyms_chinese": []}
 146493	{"title": {"chinese": "狩龍人拉格納"}, "synonyms_chinese": []}
 146501	{"title": {"chinese": "BanG Dream! Morfonication"}, "synonyms_chinese": []}
-146609	{"title": {"chinese": "DEAD DEAD DEMON’S DEDEDEDE DESTRUCTION"}, "synonyms_chinese": []}
 146625	{"title": {"chinese": "Engage Kiss"}, "synonyms_chinese": ["契約之吻"]}
 146637	{"title": {"chinese": "ORIENT 淡路島激鬥篇"}, "synonyms_chinese": ["ORIENT 東方少年 淡路島激鬥篇"]}
 146638	{"title": {"chinese": "拳願阿修羅 第二季"}, "synonyms_chinese": []}
@@ -7431,6 +7430,7 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 128890	{"title": {"chinese": "IDOLiSH7 Third BEAT! Part 2"}, "synonyms_chinese": []}
 161440	{"title": {"chinese": "IDOLiSH7: LIVE 4bit - BEYOND THE PERiOD DAY 1"}, "synonyms_chinese": []}
 170087	{"title": {"chinese": "IDOLiSH7: LIVE 4bit - BEYOND THE PERiOD DAY 2"}, "synonyms_chinese": []}
+113924	{"title": {"chinese": "為什麼老師會在這裡！？第13話"}, "synonyms_chinese": []}
 132694	{"title": {"chinese": "屁屁偵探 第2期"}, "synonyms_chinese": []}
 116225	{"title": {"chinese": "電影 屁屁偵探 咖喱香料事件"}, "synonyms_chinese": []}
 18441	{"title": {"chinese": "BLOOD LAD OVA"}, "synonyms_chinese": []}
@@ -7466,6 +7466,8 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 1642	{"title": {"chinese": "魔界女王候補生"}, "synonyms_chinese": []}
 177191	{"title": {"chinese": "五等分的花嫁＊"}, "synonyms_chinese": []}
 154983	{"title": {"chinese": "衝吧烈子 第5期"}, "synonyms_chinese": []}
+146609	{"title": {"chinese": "DEAD DEAD DEMON’S DEDEDEDE DESTRUCTION 前章"}, "synonyms_chinese": []}
+176218	{"title": {"chinese": "DEAD DEAD DEMON’S DEDEDEDE DESTRUCTION 後章"}, "synonyms_chinese": []}
 20960	{"title": {"chinese": "LOVE STAGE!! OVA"}, "synonyms_chinese": ["戀愛舞台 OVA"]}
 \.
 

@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      3.2025.1.8
+// @version      3.2025.1.9
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -6335,7 +6335,6 @@ var database = [
 {id:146489,title:"我們的黎明"},
 {id:146493,title:"狩龍人拉格納"},
 {id:146501,title:"BanG Dream! Morfonication"},
-{id:146609,title:"DEAD DEAD DEMON’S DEDEDEDE DESTRUCTION"},
 {id:146625,title:"Engage Kiss"},
 {id:146637,title:"ORIENT 淡路島激鬥篇"},
 {id:146638,title:"拳願阿修羅 第二季"},
@@ -7409,6 +7408,7 @@ var database = [
 {id:128890,title:"IDOLiSH7 Third BEAT! Part 2"},
 {id:161440,title:"IDOLiSH7: LIVE 4bit - BEYOND THE PERiOD DAY 1"},
 {id:170087,title:"IDOLiSH7: LIVE 4bit - BEYOND THE PERiOD DAY 2"},
+{id:113924,title:"為什麼老師會在這裡！？第13話"},
 {id:132694,title:"屁屁偵探 第2期"},
 {id:116225,title:"電影 屁屁偵探 咖喱香料事件"},
 {id:18441,title:"BLOOD LAD OVA"},
@@ -7444,6 +7444,8 @@ var database = [
 {id:1642,title:"魔界女王候補生"},
 {id:177191,title:"五等分的花嫁＊"},
 {id:154983,title:"衝吧烈子 第5期"},
+{id:146609,title:"DEAD DEAD DEMON’S DEDEDEDE DESTRUCTION 前章"},
+{id:176218,title:"DEAD DEAD DEMON’S DEDEDEDE DESTRUCTION 後章"},
 {id:20960,title:"LOVE STAGE!! OVA"}
 ];
 
