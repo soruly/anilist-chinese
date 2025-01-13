@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      3.2025.1.9
+// @version      3.2025.1.13
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -7411,6 +7411,7 @@ var database = [
 {id:113924,title:"為什麼老師會在這裡！？第13話"},
 {id:132694,title:"屁屁偵探 第2期"},
 {id:116225,title:"電影 屁屁偵探 咖喱香料事件"},
+{id:182104,title:"育精"},
 {id:18441,title:"BLOOD LAD OVA"},
 {id:118029,title:" 純情銃撃コスプレ少女"},
 {id:170206,title:"Scott Pilgrim Takes Off"},

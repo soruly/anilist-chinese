@@ -7433,6 +7433,7 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 113924	{"title": {"chinese": "為什麼老師會在這裡！？第13話"}, "synonyms_chinese": []}
 132694	{"title": {"chinese": "屁屁偵探 第2期"}, "synonyms_chinese": []}
 116225	{"title": {"chinese": "電影 屁屁偵探 咖喱香料事件"}, "synonyms_chinese": []}
+182104	{"title": {"chinese": "育精"}, "synonyms_chinese": []}
 18441	{"title": {"chinese": "BLOOD LAD OVA"}, "synonyms_chinese": []}
 118029	{"title": {"chinese": " 純情銃撃コスプレ少女"}, "synonyms_chinese": []}
 170206	{"title": {"chinese": "Scott Pilgrim Takes Off"}, "synonyms_chinese": []}

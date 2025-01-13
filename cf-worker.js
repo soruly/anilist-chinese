@@ -7394,6 +7394,7 @@ const db = new Map([
 [113924,{title:"為什麼老師會在這裡！？第13話",synonyms:[]}],
 [132694,{title:"屁屁偵探 第2期",synonyms:[]}],
 [116225,{title:"電影 屁屁偵探 咖喱香料事件",synonyms:[]}],
+[182104,{title:"育精",synonyms:[]}],
 [18441,{title:"BLOOD LAD OVA",synonyms:[]}],
 [118029,{title:" 純情銃撃コスプレ少女",synonyms:[]}],
 [170206,{title:"Scott Pilgrim Takes Off",synonyms:[]}],
