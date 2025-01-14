@@ -7470,6 +7470,7 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 146609	{"title": {"chinese": "DEAD DEAD DEMON’S DEDEDEDE DESTRUCTION 前章"}, "synonyms_chinese": []}
 176218	{"title": {"chinese": "DEAD DEAD DEMON’S DEDEDEDE DESTRUCTION 後章"}, "synonyms_chinese": []}
 20960	{"title": {"chinese": "LOVE STAGE!! OVA"}, "synonyms_chinese": ["戀愛舞台 OVA"]}
+178782	{"title": {"chinese": "幻日夜羽 -SUNSHINE in the MIRROR- 劇場總集篇"}, "synonyms_chinese": []}
 \.
 
 

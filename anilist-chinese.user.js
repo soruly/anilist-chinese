@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      3.2025.1.13
+// @version      3.2025.1.14
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -7447,7 +7447,8 @@ var database = [
 {id:154983,title:"衝吧烈子 第5期"},
 {id:146609,title:"DEAD DEAD DEMON’S DEDEDEDE DESTRUCTION 前章"},
 {id:176218,title:"DEAD DEAD DEMON’S DEDEDEDE DESTRUCTION 後章"},
-{id:20960,title:"LOVE STAGE!! OVA"}
+{id:20960,title:"LOVE STAGE!! OVA"},
+{id:178782,title:"幻日夜羽 -SUNSHINE in the MIRROR- 劇場總集篇"}
 ];
 
 var updating;

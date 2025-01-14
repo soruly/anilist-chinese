@@ -7430,7 +7430,8 @@ const db = new Map([
 [154983,{title:"衝吧烈子 第5期",synonyms:[]}],
 [146609,{title:"DEAD DEAD DEMON’S DEDEDEDE DESTRUCTION 前章",synonyms:[]}],
 [176218,{title:"DEAD DEAD DEMON’S DEDEDEDE DESTRUCTION 後章",synonyms:[]}],
-[20960,{title:"LOVE STAGE!! OVA",synonyms:["戀愛舞台 OVA"]}]
+[20960,{title:"LOVE STAGE!! OVA",synonyms:["戀愛舞台 OVA"]}],
+[178782,{title:"幻日夜羽 -SUNSHINE in the MIRROR- 劇場總集篇",synonyms:[]}]
 ]);
 
 async function handleRequest(req) {
