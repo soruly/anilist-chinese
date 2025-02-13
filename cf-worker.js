@@ -6714,7 +6714,6 @@ const db = new Map([
 [166452,{title:"魔法使的新娘 第二季 Part 2",synonyms:[]}],
 [166459,{title:"妻に黙って即売会に行くんじゃなかった",synonyms:[]}],
 [166461,{title:"子作り妊活部！",synonyms:[]}],
-[166476,{title:"Love Live！虹咲學園 學園偶像同好會 劇場三部曲",synonyms:[]}],
 [166477,{title:"女神咖啡廳 第二季",synonyms:[]}],
 [166493,{title:"ナイトテール",synonyms:[]}],
 [166522,{title:"公主殿下，「拷問」的時間到了",synonyms:[]}],
@@ -7427,11 +7426,17 @@ const db = new Map([
 [170221,{title:"我內心的糟糕念頭 推糟短篇",synonyms:[]}],
 [1642,{title:"魔界女王候補生",synonyms:[]}],
 [177191,{title:"五等分的花嫁＊",synonyms:[]}],
+[183384,{title:"Love Live！虹咲學園 學園偶像同好會 完結篇 第2章",synonyms:[]}],
 [154983,{title:"衝吧烈子 第5期",synonyms:[]}],
 [146609,{title:"DEAD DEAD DEMON’S DEDEDEDE DESTRUCTION 前章",synonyms:[]}],
 [176218,{title:"DEAD DEAD DEMON’S DEDEDEDE DESTRUCTION 後章",synonyms:[]}],
 [20960,{title:"LOVE STAGE!! OVA",synonyms:["戀愛舞台 OVA"]}],
-[178782,{title:"幻日夜羽 -SUNSHINE in the MIRROR- 劇場總集篇",synonyms:[]}]
+[178782,{title:"幻日夜羽 -SUNSHINE in the MIRROR- 劇場總集篇",synonyms:[]}],
+[180832,{title:"おにちちハーレム",synonyms:[]}],
+[184765,{title:"イクイク♡サキュバス再教育",synonyms:[]}],
+[183602,{title:"彼女フェイス THE ANIMATION",synonyms:[]}],
+[166476,{title:"Love Live！虹咲學園 學園偶像同好會 完結篇 第1章",synonyms:[]}],
+[186603,{title:"Love Live！虹咲學園 學園偶像同好會 完結篇 第3章",synonyms:[]}]
 ]);
 
 async function handleRequest(req) {

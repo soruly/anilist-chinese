@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      3.2025.1.14
+// @version      3.2025.2.13
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -6731,7 +6731,6 @@ var database = [
 {id:166452,title:"魔法使的新娘 第二季 Part 2"},
 {id:166459,title:"妻に黙って即売会に行くんじゃなかった"},
 {id:166461,title:"子作り妊活部！"},
-{id:166476,title:"Love Live！虹咲學園 學園偶像同好會 劇場三部曲"},
 {id:166477,title:"女神咖啡廳 第二季"},
 {id:166493,title:"ナイトテール"},
 {id:166522,title:"公主殿下，「拷問」的時間到了"},
@@ -7444,11 +7443,17 @@ var database = [
 {id:170221,title:"我內心的糟糕念頭 推糟短篇"},
 {id:1642,title:"魔界女王候補生"},
 {id:177191,title:"五等分的花嫁＊"},
+{id:183384,title:"Love Live！虹咲學園 學園偶像同好會 完結篇 第2章"},
 {id:154983,title:"衝吧烈子 第5期"},
 {id:146609,title:"DEAD DEAD DEMON’S DEDEDEDE DESTRUCTION 前章"},
 {id:176218,title:"DEAD DEAD DEMON’S DEDEDEDE DESTRUCTION 後章"},
 {id:20960,title:"LOVE STAGE!! OVA"},
-{id:178782,title:"幻日夜羽 -SUNSHINE in the MIRROR- 劇場總集篇"}
+{id:178782,title:"幻日夜羽 -SUNSHINE in the MIRROR- 劇場總集篇"},
+{id:180832,title:"おにちちハーレム"},
+{id:184765,title:"イクイク♡サキュバス再教育"},
+{id:183602,title:"彼女フェイス THE ANIMATION"},
+{id:166476,title:"Love Live！虹咲學園 學園偶像同好會 完結篇 第1章"},
+{id:186603,title:"Love Live！虹咲學園 學園偶像同好會 完結篇 第3章"}
 ];
 
 var updating;

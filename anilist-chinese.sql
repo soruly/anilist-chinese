@@ -6753,7 +6753,6 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 166452	{"title": {"chinese": "魔法使的新娘 第二季 Part 2"}, "synonyms_chinese": []}
 166459	{"title": {"chinese": "妻に黙って即売会に行くんじゃなかった"}, "synonyms_chinese": []}
 166461	{"title": {"chinese": "子作り妊活部！"}, "synonyms_chinese": []}
-166476	{"title": {"chinese": "Love Live！虹咲學園 學園偶像同好會 劇場三部曲"}, "synonyms_chinese": []}
 166477	{"title": {"chinese": "女神咖啡廳 第二季"}, "synonyms_chinese": []}
 166493	{"title": {"chinese": "ナイトテール"}, "synonyms_chinese": []}
 166522	{"title": {"chinese": "公主殿下，「拷問」的時間到了"}, "synonyms_chinese": []}
@@ -7466,11 +7465,17 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 170221	{"title": {"chinese": "我內心的糟糕念頭 推糟短篇"}, "synonyms_chinese": []}
 1642	{"title": {"chinese": "魔界女王候補生"}, "synonyms_chinese": []}
 177191	{"title": {"chinese": "五等分的花嫁＊"}, "synonyms_chinese": []}
+183384	{"title": {"chinese": "Love Live！虹咲學園 學園偶像同好會 完結篇 第2章"}, "synonyms_chinese": []}
 154983	{"title": {"chinese": "衝吧烈子 第5期"}, "synonyms_chinese": []}
 146609	{"title": {"chinese": "DEAD DEAD DEMON’S DEDEDEDE DESTRUCTION 前章"}, "synonyms_chinese": []}
 176218	{"title": {"chinese": "DEAD DEAD DEMON’S DEDEDEDE DESTRUCTION 後章"}, "synonyms_chinese": []}
 20960	{"title": {"chinese": "LOVE STAGE!! OVA"}, "synonyms_chinese": ["戀愛舞台 OVA"]}
 178782	{"title": {"chinese": "幻日夜羽 -SUNSHINE in the MIRROR- 劇場總集篇"}, "synonyms_chinese": []}
+180832	{"title": {"chinese": "おにちちハーレム"}, "synonyms_chinese": []}
+184765	{"title": {"chinese": "イクイク♡サキュバス再教育"}, "synonyms_chinese": []}
+183602	{"title": {"chinese": "彼女フェイス THE ANIMATION"}, "synonyms_chinese": []}
+166476	{"title": {"chinese": "Love Live！虹咲學園 學園偶像同好會 完結篇 第1章"}, "synonyms_chinese": []}
+186603	{"title": {"chinese": "Love Live！虹咲學園 學園偶像同好會 完結篇 第3章"}, "synonyms_chinese": []}
 \.
 
 
