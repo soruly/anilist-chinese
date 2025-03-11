@@ -7476,6 +7476,8 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 183602	{"title": {"chinese": "彼女フェイス THE ANIMATION"}, "synonyms_chinese": []}
 166476	{"title": {"chinese": "Love Live！虹咲學園 學園偶像同好會 完結篇 第1章"}, "synonyms_chinese": []}
 186603	{"title": {"chinese": "Love Live！虹咲學園 學園偶像同好會 完結篇 第3章"}, "synonyms_chinese": []}
+159839	{"title": {"chinese": "Love Live！虹咲學園 學園偶像同好會 短篇動畫"}, "synonyms_chinese": []}
+178396	{"title": {"chinese": "Love Live！虹咲學園 學園偶像同好會 短篇動畫 第二季"}, "synonyms_chinese": []}
 \.
 
 

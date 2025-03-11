@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      3.2025.2.13
+// @version      3.2025.3.11
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -7453,7 +7453,9 @@ var database = [
 {id:184765,title:"イクイク♡サキュバス再教育"},
 {id:183602,title:"彼女フェイス THE ANIMATION"},
 {id:166476,title:"Love Live！虹咲學園 學園偶像同好會 完結篇 第1章"},
-{id:186603,title:"Love Live！虹咲學園 學園偶像同好會 完結篇 第3章"}
+{id:186603,title:"Love Live！虹咲學園 學園偶像同好會 完結篇 第3章"},
+{id:159839,title:"Love Live！虹咲學園 學園偶像同好會 短篇動畫"},
+{id:178396,title:"Love Live！虹咲學園 學園偶像同好會 短篇動畫 第二季"}
 ];
 
 var updating;
