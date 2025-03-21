@@ -7436,9 +7436,13 @@ const db = new Map([
 [184765,{title:"イクイク♡サキュバス再教育",synonyms:[]}],
 [183602,{title:"彼女フェイス THE ANIMATION",synonyms:[]}],
 [166476,{title:"Love Live！虹咲學園 學園偶像同好會 完結篇 第1章",synonyms:[]}],
+[183741,{title:"肉園",synonyms:[]}],
+[185506,{title:"野々原柚花のヒミツのハイシン",synonyms:[]}],
 [186603,{title:"Love Live！虹咲學園 學園偶像同好會 完結篇 第3章",synonyms:[]}],
 [159839,{title:"Love Live！虹咲學園 學園偶像同好會 短篇動畫",synonyms:[]}],
-[178396,{title:"Love Live！虹咲學園 學園偶像同好會 短篇動畫 第二季",synonyms:[]}]
+[178396,{title:"Love Live！虹咲學園 學園偶像同好會 短篇動畫 第二季",synonyms:[]}],
+[185001,{title:"知らないこと知りたいの？ The Animation",synonyms:[]}],
+[184824,{title:"勇者ちゃんの冒険は終わってしまった！",synonyms:[]}]
 ]);
 
 async function handleRequest(req) {

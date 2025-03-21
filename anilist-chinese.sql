@@ -7475,9 +7475,13 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 184765	{"title": {"chinese": "イクイク♡サキュバス再教育"}, "synonyms_chinese": []}
 183602	{"title": {"chinese": "彼女フェイス THE ANIMATION"}, "synonyms_chinese": []}
 166476	{"title": {"chinese": "Love Live！虹咲學園 學園偶像同好會 完結篇 第1章"}, "synonyms_chinese": []}
+183741	{"title": {"chinese": "肉園"}, "synonyms_chinese": []}
+185506	{"title": {"chinese": "野々原柚花のヒミツのハイシン"}, "synonyms_chinese": []}
 186603	{"title": {"chinese": "Love Live！虹咲學園 學園偶像同好會 完結篇 第3章"}, "synonyms_chinese": []}
 159839	{"title": {"chinese": "Love Live！虹咲學園 學園偶像同好會 短篇動畫"}, "synonyms_chinese": []}
 178396	{"title": {"chinese": "Love Live！虹咲學園 學園偶像同好會 短篇動畫 第二季"}, "synonyms_chinese": []}
+185001	{"title": {"chinese": "知らないこと知りたいの？ The Animation"}, "synonyms_chinese": []}
+184824	{"title": {"chinese": "勇者ちゃんの冒険は終わってしまった！"}, "synonyms_chinese": []}
 \.
 
 
