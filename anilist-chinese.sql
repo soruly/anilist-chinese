@@ -7544,14 +7544,22 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 176702	{"title": {"chinese": "神統記"}, "synonyms_chinese": []}
 185939	{"title": {"chinese": "歲月流逝飯菜依舊美味"}, "synonyms_chinese": []}
 166249	{"title": {"chinese": "劇場版 我與機器子"}, "synonyms_chinese": []}
+179706	{"title": {"chinese": "Lycoris Recoil: Friends are thieves of time."}, "synonyms_chinese": []}
+186716	{"title": {"chinese": "Princess Principal: Crown Handler 第4章"}, "synonyms_chinese": []}
+166977	{"title": {"chinese": "Princess Principal: Crown Handler 第3章 OVA"}, "synonyms_chinese": []}
+172393	{"title": {"chinese": "劇場版 歌之☆王子殿下♪ TABOO NIGHT XXXX"}, "synonyms_chinese": []}
+112480	{"title": {"chinese": "KING OF PRISM ALL STARS: Prism Show☆Best Ten"}, "synonyms_chinese": []}
 176246	{"title": {"chinese": "mono"}, "synonyms_chinese": ["mono 女孩"]}
 180124	{"title": {"chinese": "小動物餅乾 THE MOVIE"}, "synonyms_chinese": []}
 162682	{"title": {"chinese": "怪盜皇后的優雅假期"}, "synonyms_chinese": []}
 181839	{"title": {"chinese": "小林家的龍女僕 孤獨的龍"}, "synonyms_chinese": []}
 173335	{"title": {"chinese": "神椿市建設中。"}, "synonyms_chinese": []}
 181841	{"title": {"chinese": "CITY THE ANIMATION"}, "synonyms_chinese": []}
+184470	{"title": {"chinese": "秘密的美妙公主 第二季"}, "synonyms_chinese": []}
+184756	{"title": {"chinese": "KING OF PRISM -Your Endless Call-"}, "synonyms_chinese": []}
 178781	{"title": {"chinese": "戰隊大失格 第二季"}, "synonyms_chinese": []}
 181449	{"title": {"chinese": "Virgin Punk"}, "synonyms_chinese": ["純潔龐克"]}
+188668	{"title": {"chinese": "航海王談戀愛"}, "synonyms_chinese": []}
 \.
 
 

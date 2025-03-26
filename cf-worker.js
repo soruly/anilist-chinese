@@ -7505,14 +7505,22 @@ const db = new Map([
 [176702,{title:"神統記",synonyms:[]}],
 [185939,{title:"歲月流逝飯菜依舊美味",synonyms:[]}],
 [166249,{title:"劇場版 我與機器子",synonyms:[]}],
+[179706,{title:"Lycoris Recoil: Friends are thieves of time.",synonyms:[]}],
+[186716,{title:"Princess Principal: Crown Handler 第4章",synonyms:[]}],
+[166977,{title:"Princess Principal: Crown Handler 第3章 OVA",synonyms:[]}],
+[172393,{title:"劇場版 歌之☆王子殿下♪ TABOO NIGHT XXXX",synonyms:[]}],
+[112480,{title:"KING OF PRISM ALL STARS: Prism Show☆Best Ten",synonyms:[]}],
 [176246,{title:"mono",synonyms:["mono 女孩"]}],
 [180124,{title:"小動物餅乾 THE MOVIE",synonyms:[]}],
 [162682,{title:"怪盜皇后的優雅假期",synonyms:[]}],
 [181839,{title:"小林家的龍女僕 孤獨的龍",synonyms:[]}],
 [173335,{title:"神椿市建設中。",synonyms:[]}],
 [181841,{title:"CITY THE ANIMATION",synonyms:[]}],
+[184470,{title:"秘密的美妙公主 第二季",synonyms:[]}],
+[184756,{title:"KING OF PRISM -Your Endless Call-",synonyms:[]}],
 [178781,{title:"戰隊大失格 第二季",synonyms:[]}],
-[181449,{title:"Virgin Punk",synonyms:["純潔龐克"]}]
+[181449,{title:"Virgin Punk",synonyms:["純潔龐克"]}],
+[188668,{title:"航海王談戀愛",synonyms:[]}]
 ]);
 
 async function handleRequest(req) {
