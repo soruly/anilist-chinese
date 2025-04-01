@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      3.2025.3.26
+// @version      3.2025.4.1
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -7537,7 +7537,13 @@ var database = [
 {id:184756,title:"KING OF PRISM -Your Endless Call-"},
 {id:178781,title:"戰隊大失格 第二季"},
 {id:181449,title:"Virgin Punk"},
-{id:188668,title:"航海王談戀愛"}
+{id:188668,title:"航海王談戀愛"},
+{id:2012,title:"地獄老師"},
+{id:2745,title:"地獄老師 THE OVA"},
+{id:179678,title:"地獄老師 (2025)"},
+{id:8228,title:"地獄老師 午夜0點，阿鳴必死!"},
+{id:5296,title:"地獄老師 恐怖的暑假!! 妖海傳說!"},
+{id:8208,title:"地獄老師"}
 ];
 
 var updating;

@@ -7520,7 +7520,13 @@ const db = new Map([
 [184756,{title:"KING OF PRISM -Your Endless Call-",synonyms:[]}],
 [178781,{title:"戰隊大失格 第二季",synonyms:[]}],
 [181449,{title:"Virgin Punk",synonyms:["純潔龐克"]}],
-[188668,{title:"航海王談戀愛",synonyms:[]}]
+[188668,{title:"航海王談戀愛",synonyms:[]}],
+[2012,{title:"地獄老師",synonyms:["鳴～地獄老師","靈異教師神眉"]}],
+[2745,{title:"地獄老師 THE OVA",synonyms:[]}],
+[179678,{title:"地獄老師 (2025)",synonyms:[]}],
+[8228,{title:"地獄老師 午夜0點，阿鳴必死!",synonyms:[]}],
+[5296,{title:"地獄老師 恐怖的暑假!! 妖海傳說!",synonyms:[]}],
+[8208,{title:"地獄老師",synonyms:[]}]
 ]);
 
 async function handleRequest(req) {
