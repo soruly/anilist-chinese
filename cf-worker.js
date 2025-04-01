@@ -7521,12 +7521,17 @@ const db = new Map([
 [178781,{title:"戰隊大失格 第二季",synonyms:[]}],
 [181449,{title:"Virgin Punk",synonyms:["純潔龐克"]}],
 [188668,{title:"航海王談戀愛",synonyms:[]}],
+[169403,{title:"Wonderful Precure! The Mobie! 心跳加速 遊戲世界大冒險！",synonyms:["美妙寵物 光之美少女電影：心跳加速 遊戲世界大冒險！"]}],
 [2012,{title:"地獄老師",synonyms:["鳴～地獄老師","靈異教師神眉"]}],
 [2745,{title:"地獄老師 THE OVA",synonyms:[]}],
 [179678,{title:"地獄老師 (2025)",synonyms:[]}],
 [8228,{title:"地獄老師 午夜0點，阿鳴必死!",synonyms:[]}],
 [5296,{title:"地獄老師 恐怖的暑假!! 妖海傳說!",synonyms:[]}],
-[8208,{title:"地獄老師",synonyms:[]}]
+[8208,{title:"地獄老師",synonyms:[]}],
+[171145,{title:"蠟筆小新 我們的恐龍日記",synonyms:[]}],
+[930,{title:"傳說巨神伊迪安",synonyms:[]}],
+[2761,{title:"傳說巨神伊迪安 發動篇",synonyms:[]}],
+[2760,{title:"傳說巨神伊迪安 接觸篇",synonyms:[]}]
 ]);
 
 async function handleRequest(req) {
