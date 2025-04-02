@@ -7563,6 +7563,7 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 169403	{"title": {"chinese": "Wonderful Precure! The Mobie! 心跳加速 遊戲世界大冒險！"}, "synonyms_chinese": ["美妙寵物 光之美少女電影：心跳加速 遊戲世界大冒險！"]}
 2012	{"title": {"chinese": "地獄老師"}, "synonyms_chinese": ["鳴～地獄老師", "靈異教師神眉"]}
 2745	{"title": {"chinese": "地獄老師 THE OVA"}, "synonyms_chinese": []}
+2029	{"title": {"chinese": "天狼星的傳說"}, "synonyms_chinese": []}
 179678	{"title": {"chinese": "地獄老師 (2025)"}, "synonyms_chinese": []}
 8228	{"title": {"chinese": "地獄老師 午夜0點，阿鳴必死!"}, "synonyms_chinese": []}
 5296	{"title": {"chinese": "地獄老師 恐怖的暑假!! 妖海傳說!"}, "synonyms_chinese": []}

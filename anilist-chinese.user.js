@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      3.2025.4.1
+// @version      3.2025.4.2
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -7541,6 +7541,7 @@ var database = [
 {id:169403,title:"Wonderful Precure! The Mobie! 心跳加速 遊戲世界大冒險！"},
 {id:2012,title:"地獄老師"},
 {id:2745,title:"地獄老師 THE OVA"},
+{id:2029,title:"天狼星的傳說"},
 {id:179678,title:"地獄老師 (2025)"},
 {id:8228,title:"地獄老師 午夜0點，阿鳴必死!"},
 {id:5296,title:"地獄老師 恐怖的暑假!! 妖海傳說!"},
