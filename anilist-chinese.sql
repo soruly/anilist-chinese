@@ -7490,7 +7490,6 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 167336	{"title": {"chinese": "LAZARUS"}, "synonyms_chinese": ["拉撒路"]}
 167142	{"title": {"chinese": "YOUR FORMA"}, "synonyms_chinese": ["記憶縫線"]}
 179965	{"title": {"chinese": "拜託請穿上，鷹峰同學"}, "synonyms_chinese": []}
-183161	{"title": {"chinese": "最強的王者，在第二次的人生能做什麼？"}, "synonyms_chinese": []}
 156087	{"title": {"chinese": "無聊就完結"}, "synonyms_chinese": []}
 175872	{"title": {"chinese": "瞬間治癒卻被當成廢物踢出隊伍的天才治療師，改當無照治療師快樂過活"}, "synonyms_chinese": []}
 177509	{"title": {"chinese": "快藏好！瑪琪娜同學！！"}, "synonyms_chinese": []}
@@ -7540,6 +7539,7 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 183275	{"title": {"chinese": "完美到難以接近的聖女遭到解除婚約後被賣到鄰國"}, "synonyms_chinese": []}
 185070	{"title": {"chinese": "外星人姆姆"}, "synonyms_chinese": []}
 150654	{"title": {"chinese": "MOONRISE"}, "synonyms_chinese": ["月出之戰"]}
+183161	{"title": {"chinese": "最強的王者，在第二次的人生能做什麼？"}, "synonyms_chinese": ["終末起點"]}
 177120	{"title": {"chinese": "忍者與殺手的兩人生活"}, "synonyms_chinese": []}
 176702	{"title": {"chinese": "神統記"}, "synonyms_chinese": []}
 185939	{"title": {"chinese": "歲月流逝飯菜依舊美味"}, "synonyms_chinese": []}
