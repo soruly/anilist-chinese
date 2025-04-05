@@ -7577,6 +7577,7 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 2760	{"title": {"chinese": "傳說巨神伊迪安 接觸篇"}, "synonyms_chinese": []}
 181835	{"title": {"chinese": "SHIBUYA♡HACHI 第二季"}, "synonyms_chinese": []}
 187998	{"title": {"chinese": "來玩吧魔法少女村"}, "synonyms_chinese": []}
+179541	{"title": {"chinese": "雖然是白豬貴族但因為擁有前世記憶所以要養育雛鳥般的弟弟"}, "synonyms_chinese": []}
 \.
 
 

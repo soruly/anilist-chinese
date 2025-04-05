@@ -7537,7 +7537,8 @@ const db = new Map([
 [2761,{title:"傳說巨神伊迪安 發動篇",synonyms:[]}],
 [2760,{title:"傳說巨神伊迪安 接觸篇",synonyms:[]}],
 [181835,{title:"SHIBUYA♡HACHI 第二季",synonyms:[]}],
-[187998,{title:"來玩吧魔法少女村",synonyms:[]}]
+[187998,{title:"來玩吧魔法少女村",synonyms:[]}],
+[179541,{title:"雖然是白豬貴族但因為擁有前世記憶所以要養育雛鳥般的弟弟",synonyms:[]}]
 ]);
 
 async function handleRequest(req) {

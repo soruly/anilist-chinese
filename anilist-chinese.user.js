@@ -7554,7 +7554,8 @@ var database = [
 {id:2761,title:"傳說巨神伊迪安 發動篇"},
 {id:2760,title:"傳說巨神伊迪安 接觸篇"},
 {id:181835,title:"SHIBUYA♡HACHI 第二季"},
-{id:187998,title:"來玩吧魔法少女村"}
+{id:187998,title:"來玩吧魔法少女村"},
+{id:179541,title:"雖然是白豬貴族但因為擁有前世記憶所以要養育雛鳥般的弟弟"}
 ];
 
 var updating;
