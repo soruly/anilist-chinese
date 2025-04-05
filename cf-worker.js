@@ -7527,13 +7527,17 @@ const db = new Map([
 [2029,{title:"天狼星的傳說",synonyms:[]}],
 [136381,{title:"SK8 the Infinity EXTRA PART",synonyms:[]}],
 [179678,{title:"地獄老師 (2025)",synonyms:[]}],
+[176577,{title:"SHIBUYA♡HACHI",synonyms:[]}],
 [8228,{title:"地獄老師 午夜0點，阿鳴必死!",synonyms:[]}],
 [5296,{title:"地獄老師 恐怖的暑假!! 妖海傳說!",synonyms:[]}],
 [8208,{title:"地獄老師",synonyms:[]}],
+[185715,{title:"SHIBUYA♡HACHI 第三季",synonyms:[]}],
 [171145,{title:"蠟筆小新 我們的恐龍日記",synonyms:[]}],
 [930,{title:"傳說巨神伊迪安",synonyms:[]}],
 [2761,{title:"傳說巨神伊迪安 發動篇",synonyms:[]}],
-[2760,{title:"傳說巨神伊迪安 接觸篇",synonyms:[]}]
+[2760,{title:"傳說巨神伊迪安 接觸篇",synonyms:[]}],
+[181835,{title:"SHIBUYA♡HACHI 第二季",synonyms:[]}],
+[187998,{title:"來玩吧魔法少女村",synonyms:[]}]
 ]);
 
 async function handleRequest(req) {

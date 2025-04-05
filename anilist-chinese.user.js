@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      3.2025.4.4
+// @version      3.2025.4.5
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -7544,13 +7544,17 @@ var database = [
 {id:2029,title:"天狼星的傳說"},
 {id:136381,title:"SK8 the Infinity EXTRA PART"},
 {id:179678,title:"地獄老師 (2025)"},
+{id:176577,title:"SHIBUYA♡HACHI"},
 {id:8228,title:"地獄老師 午夜0點，阿鳴必死!"},
 {id:5296,title:"地獄老師 恐怖的暑假!! 妖海傳說!"},
 {id:8208,title:"地獄老師"},
+{id:185715,title:"SHIBUYA♡HACHI 第三季"},
 {id:171145,title:"蠟筆小新 我們的恐龍日記"},
 {id:930,title:"傳說巨神伊迪安"},
 {id:2761,title:"傳說巨神伊迪安 發動篇"},
-{id:2760,title:"傳說巨神伊迪安 接觸篇"}
+{id:2760,title:"傳說巨神伊迪安 接觸篇"},
+{id:181835,title:"SHIBUYA♡HACHI 第二季"},
+{id:187998,title:"來玩吧魔法少女村"}
 ];
 
 var updating;

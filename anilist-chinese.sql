@@ -7566,13 +7566,17 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 2029	{"title": {"chinese": "天狼星的傳說"}, "synonyms_chinese": []}
 136381	{"title": {"chinese": "SK8 the Infinity EXTRA PART"}, "synonyms_chinese": []}
 179678	{"title": {"chinese": "地獄老師 (2025)"}, "synonyms_chinese": []}
+176577	{"title": {"chinese": "SHIBUYA♡HACHI"}, "synonyms_chinese": []}
 8228	{"title": {"chinese": "地獄老師 午夜0點，阿鳴必死!"}, "synonyms_chinese": []}
 5296	{"title": {"chinese": "地獄老師 恐怖的暑假!! 妖海傳說!"}, "synonyms_chinese": []}
 8208	{"title": {"chinese": "地獄老師"}, "synonyms_chinese": []}
+185715	{"title": {"chinese": "SHIBUYA♡HACHI 第三季"}, "synonyms_chinese": []}
 171145	{"title": {"chinese": "蠟筆小新 我們的恐龍日記"}, "synonyms_chinese": []}
 930	{"title": {"chinese": "傳說巨神伊迪安"}, "synonyms_chinese": []}
 2761	{"title": {"chinese": "傳說巨神伊迪安 發動篇"}, "synonyms_chinese": []}
 2760	{"title": {"chinese": "傳說巨神伊迪安 接觸篇"}, "synonyms_chinese": []}
+181835	{"title": {"chinese": "SHIBUYA♡HACHI 第二季"}, "synonyms_chinese": []}
+187998	{"title": {"chinese": "來玩吧魔法少女村"}, "synonyms_chinese": []}
 \.
 
 
