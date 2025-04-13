@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      3.2025.4.6
+// @version      3.2025.4.13
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -7541,6 +7541,7 @@ var database = [
 {id:169403,title:"Wonderful Precure! The Mobie! 心跳加速 遊戲世界大冒險！"},
 {id:2012,title:"地獄老師"},
 {id:2745,title:"地獄老師 THE OVA"},
+{id:184182,title:"全力兔 第二季"},
 {id:182877,title:"監禁區域 Level X 第二季"},
 {id:2029,title:"天狼星的傳說"},
 {id:136381,title:"SK8 the Infinity EXTRA PART"},
@@ -7557,7 +7558,8 @@ var database = [
 {id:181835,title:"SHIBUYA♡HACHI 第二季"},
 {id:187998,title:"來玩吧魔法少女村"},
 {id:179541,title:"雖然是白豬貴族但因為擁有前世記憶所以要養育雛鳥般的弟弟"},
-{id:189160,title:"Momentary Lily 持續下去的調理，調理!"}
+{id:189160,title:"Momentary Lily 持續下去的調理，調理!"},
+{id:3704,title:"全力兔"}
 ];
 
 var updating;
