@@ -7585,6 +7585,11 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 184560	{"title": {"chinese": "Rising Impact Season 2"}, "synonyms_chinese": []}
 3704	{"title": {"chinese": "全力兔"}, "synonyms_chinese": []}
 181244	{"title": {"chinese": "為美好的世界獻上祝福！3 OVA"}, "synonyms_chinese": []}
+183743	{"title": {"chinese": "完堕ちX寝取られ家族 The Animation 〜アナタ、許して。私たち、浮気セックスに本気でハマっちゃったの〜"}, "synonyms_chinese": []}
+183742	{"title": {"chinese": "亜人がお好きなんですね♡"}, "synonyms_chinese": []}
+185779	{"title": {"chinese": "ハメツの誘惑"}, "synonyms_chinese": []}
+186153	{"title": {"chinese": "夕顔"}, "synonyms_chinese": []}
+184810	{"title": {"chinese": "インモラルーティーン The Animation"}, "synonyms_chinese": []}
 \.
 
 

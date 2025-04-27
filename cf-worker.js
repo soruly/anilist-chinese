@@ -7545,7 +7545,12 @@ const db = new Map([
 [189160,{title:"Momentary Lily 持續下去的調理，調理!",synonyms:[]}],
 [184560,{title:"Rising Impact Season 2",synonyms:[]}],
 [3704,{title:"全力兔",synonyms:[]}],
-[181244,{title:"為美好的世界獻上祝福！3 OVA",synonyms:[]}]
+[181244,{title:"為美好的世界獻上祝福！3 OVA",synonyms:[]}],
+[183743,{title:"完堕ちX寝取られ家族 The Animation 〜アナタ、許して。私たち、浮気セックスに本気でハマっちゃったの〜",synonyms:[]}],
+[183742,{title:"亜人がお好きなんですね♡",synonyms:[]}],
+[185779,{title:"ハメツの誘惑",synonyms:[]}],
+[186153,{title:"夕顔",synonyms:[]}],
+[184810,{title:"インモラルーティーン The Animation",synonyms:[]}]
 ]);
 
 async function handleRequest(req) {
