@@ -7576,6 +7576,7 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 171145	{"title": {"chinese": "蠟筆小新 我們的恐龍日記"}, "synonyms_chinese": []}
 930	{"title": {"chinese": "傳說巨神伊迪安"}, "synonyms_chinese": []}
 2761	{"title": {"chinese": "傳說巨神伊迪安 發動篇"}, "synonyms_chinese": []}
+185073	{"title": {"chinese": "與你同為 偶像光之美少女♪"}, "synonyms_chinese": []}
 2760	{"title": {"chinese": "傳說巨神伊迪安 接觸篇"}, "synonyms_chinese": []}
 181835	{"title": {"chinese": "SHIBUYA♡HACHI 第二季"}, "synonyms_chinese": []}
 187998	{"title": {"chinese": "來玩吧魔法少女村"}, "synonyms_chinese": []}

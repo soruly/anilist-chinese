@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      3.2025.4.13
+// @version      3.2025.4.27
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -7554,6 +7554,7 @@ var database = [
 {id:171145,title:"蠟筆小新 我們的恐龍日記"},
 {id:930,title:"傳說巨神伊迪安"},
 {id:2761,title:"傳說巨神伊迪安 發動篇"},
+{id:185073,title:"與你同為 偶像光之美少女♪"},
 {id:2760,title:"傳說巨神伊迪安 接觸篇"},
 {id:181835,title:"SHIBUYA♡HACHI 第二季"},
 {id:187998,title:"來玩吧魔法少女村"},

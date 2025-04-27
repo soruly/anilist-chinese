@@ -7537,6 +7537,7 @@ const db = new Map([
 [171145,{title:"蠟筆小新 我們的恐龍日記",synonyms:[]}],
 [930,{title:"傳說巨神伊迪安",synonyms:[]}],
 [2761,{title:"傳說巨神伊迪安 發動篇",synonyms:[]}],
+[185073,{title:"與你同為 偶像光之美少女♪",synonyms:[]}],
 [2760,{title:"傳說巨神伊迪安 接觸篇",synonyms:[]}],
 [181835,{title:"SHIBUYA♡HACHI 第二季",synonyms:[]}],
 [187998,{title:"來玩吧魔法少女村",synonyms:[]}],
