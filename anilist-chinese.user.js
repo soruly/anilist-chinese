@@ -7560,6 +7560,7 @@ var database = [
 {id:187998,title:"來玩吧魔法少女村"},
 {id:179541,title:"雖然是白豬貴族但因為擁有前世記憶所以要養育雛鳥般的弟弟"},
 {id:189160,title:"Momentary Lily 持續下去的調理，調理!"},
+{id:184560,title:"Rising Impact Season 2"},
 {id:3704,title:"全力兔"}
 ];
 

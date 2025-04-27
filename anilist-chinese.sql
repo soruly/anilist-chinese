@@ -7582,6 +7582,7 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 187998	{"title": {"chinese": "來玩吧魔法少女村"}, "synonyms_chinese": []}
 179541	{"title": {"chinese": "雖然是白豬貴族但因為擁有前世記憶所以要養育雛鳥般的弟弟"}, "synonyms_chinese": []}
 189160	{"title": {"chinese": "Momentary Lily 持續下去的調理，調理!"}, "synonyms_chinese": []}
+184560	{"title": {"chinese": "Rising Impact Season 2"}, "synonyms_chinese": []}
 3704	{"title": {"chinese": "全力兔"}, "synonyms_chinese": []}
 \.
 
