@@ -7560,9 +7560,11 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 178781	{"title": {"chinese": "戰隊大失格 第二季"}, "synonyms_chinese": []}
 181449	{"title": {"chinese": "Virgin Punk"}, "synonyms_chinese": ["純潔龐克"]}
 188668	{"title": {"chinese": "航海王談戀愛"}, "synonyms_chinese": []}
+170068	{"title": {"chinese": "葬送的芙莉蓮 ～●●の魔法～"}, "synonyms_chinese": []}
 169403	{"title": {"chinese": "Wonderful Precure! The Mobie! 心跳加速 遊戲世界大冒險！"}, "synonyms_chinese": ["美妙寵物 光之美少女電影：心跳加速 遊戲世界大冒險！"]}
 2012	{"title": {"chinese": "地獄老師"}, "synonyms_chinese": ["鳴～地獄老師", "靈異教師神眉"]}
 2745	{"title": {"chinese": "地獄老師 THE OVA"}, "synonyms_chinese": []}
+189513	{"title": {"chinese": "葬送的芙莉蓮 ～●●の魔法～２"}, "synonyms_chinese": []}
 184182	{"title": {"chinese": "全力兔 第二季"}, "synonyms_chinese": []}
 182877	{"title": {"chinese": "監禁區域 Level X 第二季"}, "synonyms_chinese": []}
 2029	{"title": {"chinese": "天狼星的傳說"}, "synonyms_chinese": []}
@@ -7578,6 +7580,8 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 2761	{"title": {"chinese": "傳說巨神伊迪安 發動篇"}, "synonyms_chinese": []}
 185073	{"title": {"chinese": "與你同為 偶像光之美少女♪"}, "synonyms_chinese": []}
 2760	{"title": {"chinese": "傳說巨神伊迪安 接觸篇"}, "synonyms_chinese": []}
+187236	{"title": {"chinese": "プリンセスコネクト！ 導きの初花　- Fiore Storia -"}, "synonyms_chinese": []}
+186559	{"title": {"chinese": "カイリューとゆうびんやさん"}, "synonyms_chinese": []}
 181835	{"title": {"chinese": "SHIBUYA♡HACHI 第二季"}, "synonyms_chinese": []}
 187998	{"title": {"chinese": "來玩吧魔法少女村"}, "synonyms_chinese": []}
 179541	{"title": {"chinese": "雖然是白豬貴族但因為擁有前世記憶所以要養育雛鳥般的弟弟"}, "synonyms_chinese": []}
