@@ -38962,13 +38962,6 @@
     "synonyms": []
   },
   {
-    "id": 171291,
-    "title": "Trapezium",
-    "synonyms": [
-      "成為星星的少女"
-    ]
-  },
-  {
     "id": 171395,
     "title": "断れない母",
     "synonyms": []
@@ -42730,8 +42723,18 @@
     "synonyms": []
   },
   {
+    "id": 175199,
+    "title": "劇場版 Given 去海邊",
+    "synonyms": []
+  },
+  {
     "id": 189160,
     "title": "Momentary Lily 持續下去的調理，調理!",
+    "synonyms": []
+  },
+  {
+    "id": 177008,
+    "title": "吹響！上低音號 3 SP",
     "synonyms": []
   },
   {
@@ -42743,6 +42746,14 @@
     "id": 3704,
     "title": "全力兔",
     "synonyms": []
+  },
+  {
+    "id": 171291,
+    "title": "Trapezium",
+    "synonyms": [
+      "成為星星的少女",
+      "四重星"
+    ]
   },
   {
     "id": 181244,

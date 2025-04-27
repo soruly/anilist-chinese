@@ -6863,7 +6863,6 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 171109	{"title": {"chinese": "觸碰。"}, "synonyms_chinese": []}
 171115	{"title": {"chinese": "Rising Impact"}, "synonyms_chinese": ["高爾夫物語"]}
 171144	{"title": {"chinese": "明治擊劍－1874－"}, "synonyms_chinese": []}
-171291	{"title": {"chinese": "Trapezium"}, "synonyms_chinese": ["成為星星的少女"]}
 171395	{"title": {"chinese": "断れない母"}, "synonyms_chinese": []}
 171397	{"title": {"chinese": "NocturnaL"}, "synonyms_chinese": []}
 171400	{"title": {"chinese": "噗妮露是可愛史萊姆"}, "synonyms_chinese": []}
@@ -7585,9 +7584,12 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 181835	{"title": {"chinese": "SHIBUYA♡HACHI 第二季"}, "synonyms_chinese": []}
 187998	{"title": {"chinese": "來玩吧魔法少女村"}, "synonyms_chinese": []}
 179541	{"title": {"chinese": "雖然是白豬貴族但因為擁有前世記憶所以要養育雛鳥般的弟弟"}, "synonyms_chinese": []}
+175199	{"title": {"chinese": "劇場版 Given 去海邊"}, "synonyms_chinese": []}
 189160	{"title": {"chinese": "Momentary Lily 持續下去的調理，調理!"}, "synonyms_chinese": []}
+177008	{"title": {"chinese": "吹響！上低音號 3 SP"}, "synonyms_chinese": []}
 184560	{"title": {"chinese": "Rising Impact Season 2"}, "synonyms_chinese": []}
 3704	{"title": {"chinese": "全力兔"}, "synonyms_chinese": []}
+171291	{"title": {"chinese": "Trapezium"}, "synonyms_chinese": ["成為星星的少女", "四重星"]}
 181244	{"title": {"chinese": "為美好的世界獻上祝福！3 OVA"}, "synonyms_chinese": []}
 183743	{"title": {"chinese": "完堕ちX寝取られ家族 The Animation 〜アナタ、許して。私たち、浮気セックスに本気でハマっちゃったの〜"}, "synonyms_chinese": []}
 183742	{"title": {"chinese": "亜人がお好きなんですね♡"}, "synonyms_chinese": []}
