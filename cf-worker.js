@@ -7544,7 +7544,8 @@ const db = new Map([
 [179541,{title:"雖然是白豬貴族但因為擁有前世記憶所以要養育雛鳥般的弟弟",synonyms:[]}],
 [189160,{title:"Momentary Lily 持續下去的調理，調理!",synonyms:[]}],
 [184560,{title:"Rising Impact Season 2",synonyms:[]}],
-[3704,{title:"全力兔",synonyms:[]}]
+[3704,{title:"全力兔",synonyms:[]}],
+[181244,{title:"為美好的世界獻上祝福！3 OVA",synonyms:[]}]
 ]);
 
 async function handleRequest(req) {

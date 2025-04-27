@@ -7584,6 +7584,7 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 189160	{"title": {"chinese": "Momentary Lily 持續下去的調理，調理!"}, "synonyms_chinese": []}
 184560	{"title": {"chinese": "Rising Impact Season 2"}, "synonyms_chinese": []}
 3704	{"title": {"chinese": "全力兔"}, "synonyms_chinese": []}
+181244	{"title": {"chinese": "為美好的世界獻上祝福！3 OVA"}, "synonyms_chinese": []}
 \.
 
 
