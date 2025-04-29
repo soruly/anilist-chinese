@@ -7552,6 +7552,7 @@ const db = new Map([
 [3704,{title:"全力兔",synonyms:[]}],
 [171291,{title:"Trapezium",synonyms:["成為星星的少女","四重星"]}],
 [176299,{title:"賽馬娘 ROAD TO THE TOP 劇場用再編集版",synonyms:[]}],
+[169746,{title:"Vapor Trail",synonyms:[]}],
 [181244,{title:"為美好的世界獻上祝福！3 OVA",synonyms:[]}],
 [183743,{title:"完堕ちX寝取られ家族 The Animation 〜アナタ、許して。私たち、浮気セックスに本気でハマっちゃったの〜",synonyms:[]}],
 [183742,{title:"亜人がお好きなんですね♡",synonyms:[]}],
