@@ -7574,8 +7574,10 @@ var database = [
 {id:183743,title:"完堕ちX寝取られ家族 The Animation 〜アナタ、許して。私たち、浮気セックスに本気でハマっちゃったの〜"},
 {id:183742,title:"亜人がお好きなんですね♡"},
 {id:185779,title:"ハメツの誘惑"},
+{id:169375,title:"忘星のヴァリシア 第一章：劫火"},
 {id:186153,title:"夕顔"},
-{id:184810,title:"インモラルーティーン The Animation"}
+{id:184810,title:"インモラルーティーン The Animation"},
+{id:170013,title:"Penetrate Blue: Vapor Trail Another Age 2824"}
 ];
 
 var updating;

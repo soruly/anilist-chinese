@@ -7596,8 +7596,10 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 183743	{"title": {"chinese": "完堕ちX寝取られ家族 The Animation 〜アナタ、許して。私たち、浮気セックスに本気でハマっちゃったの〜"}, "synonyms_chinese": []}
 183742	{"title": {"chinese": "亜人がお好きなんですね♡"}, "synonyms_chinese": []}
 185779	{"title": {"chinese": "ハメツの誘惑"}, "synonyms_chinese": []}
+169375	{"title": {"chinese": "忘星のヴァリシア 第一章：劫火"}, "synonyms_chinese": []}
 186153	{"title": {"chinese": "夕顔"}, "synonyms_chinese": []}
 184810	{"title": {"chinese": "インモラルーティーン The Animation"}, "synonyms_chinese": []}
+170013	{"title": {"chinese": "Penetrate Blue: Vapor Trail Another Age 2824"}, "synonyms_chinese": []}
 \.
 
 

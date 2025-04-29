@@ -7557,8 +7557,10 @@ const db = new Map([
 [183743,{title:"完堕ちX寝取られ家族 The Animation 〜アナタ、許して。私たち、浮気セックスに本気でハマっちゃったの〜",synonyms:[]}],
 [183742,{title:"亜人がお好きなんですね♡",synonyms:[]}],
 [185779,{title:"ハメツの誘惑",synonyms:[]}],
+[169375,{title:"忘星のヴァリシア 第一章：劫火",synonyms:[]}],
 [186153,{title:"夕顔",synonyms:[]}],
-[184810,{title:"インモラルーティーン The Animation",synonyms:[]}]
+[184810,{title:"インモラルーティーン The Animation",synonyms:[]}],
+[170013,{title:"Penetrate Blue: Vapor Trail Another Age 2824",synonyms:[]}]
 ]);
 
 async function handleRequest(req) {
