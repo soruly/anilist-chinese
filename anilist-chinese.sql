@@ -7584,6 +7584,7 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 181835	{"title": {"chinese": "SHIBUYA♡HACHI 第二季"}, "synonyms_chinese": []}
 187998	{"title": {"chinese": "來玩吧魔法少女村"}, "synonyms_chinese": []}
 179541	{"title": {"chinese": "雖然是白豬貴族但因為擁有前世記憶所以要養育雛鳥般的弟弟"}, "synonyms_chinese": []}
+191689	{"title": {"chinese": "うまゆる ぷりてぃ～ぐれい"}, "synonyms_chinese": []}
 175199	{"title": {"chinese": "劇場版 Given 去海邊"}, "synonyms_chinese": []}
 189160	{"title": {"chinese": "Momentary Lily 持續下去的調理，調理!"}, "synonyms_chinese": []}
 177008	{"title": {"chinese": "吹響！上低音號 3 SP"}, "synonyms_chinese": []}

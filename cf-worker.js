@@ -7545,6 +7545,7 @@ const db = new Map([
 [181835,{title:"SHIBUYA♡HACHI 第二季",synonyms:[]}],
 [187998,{title:"來玩吧魔法少女村",synonyms:[]}],
 [179541,{title:"雖然是白豬貴族但因為擁有前世記憶所以要養育雛鳥般的弟弟",synonyms:[]}],
+[191689,{title:"うまゆる ぷりてぃ～ぐれい",synonyms:[]}],
 [175199,{title:"劇場版 Given 去海邊",synonyms:[]}],
 [189160,{title:"Momentary Lily 持續下去的調理，調理!",synonyms:[]}],
 [177008,{title:"吹響！上低音號 3 SP",synonyms:[]}],

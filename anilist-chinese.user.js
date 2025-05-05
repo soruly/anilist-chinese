@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      3.2025.4.29
+// @version      3.2025.5.5
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -7562,6 +7562,7 @@ var database = [
 {id:181835,title:"SHIBUYA♡HACHI 第二季"},
 {id:187998,title:"來玩吧魔法少女村"},
 {id:179541,title:"雖然是白豬貴族但因為擁有前世記憶所以要養育雛鳥般的弟弟"},
+{id:191689,title:"うまゆる ぷりてぃ～ぐれい"},
 {id:175199,title:"劇場版 Given 去海邊"},
 {id:189160,title:"Momentary Lily 持續下去的調理，調理!"},
 {id:177008,title:"吹響！上低音號 3 SP"},
