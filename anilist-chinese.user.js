@@ -7568,6 +7568,7 @@ var database = [
 {id:177008,title:"吹響！上低音號 3 SP"},
 {id:184560,title:"Rising Impact Season 2"},
 {id:3704,title:"全力兔"},
+{id:118123,title:"Hologra"},
 {id:171291,title:"Trapezium"},
 {id:176299,title:"賽馬娘 ROAD TO THE TOP 劇場用再編集版"},
 {id:169746,title:"Vapor Trail"},

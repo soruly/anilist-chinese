@@ -7551,6 +7551,7 @@ const db = new Map([
 [177008,{title:"吹響！上低音號 3 SP",synonyms:[]}],
 [184560,{title:"Rising Impact Season 2",synonyms:[]}],
 [3704,{title:"全力兔",synonyms:[]}],
+[118123,{title:"Hologra",synonyms:[]}],
 [171291,{title:"Trapezium",synonyms:["成為星星的少女","四重星"]}],
 [176299,{title:"賽馬娘 ROAD TO THE TOP 劇場用再編集版",synonyms:[]}],
 [169746,{title:"Vapor Trail",synonyms:[]}],

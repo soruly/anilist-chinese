@@ -7590,6 +7590,7 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 177008	{"title": {"chinese": "吹響！上低音號 3 SP"}, "synonyms_chinese": []}
 184560	{"title": {"chinese": "Rising Impact Season 2"}, "synonyms_chinese": []}
 3704	{"title": {"chinese": "全力兔"}, "synonyms_chinese": []}
+118123	{"title": {"chinese": "Hologra"}, "synonyms_chinese": []}
 171291	{"title": {"chinese": "Trapezium"}, "synonyms_chinese": ["成為星星的少女", "四重星"]}
 176299	{"title": {"chinese": "賽馬娘 ROAD TO THE TOP 劇場用再編集版"}, "synonyms_chinese": []}
 169746	{"title": {"chinese": "Vapor Trail"}, "synonyms_chinese": []}
