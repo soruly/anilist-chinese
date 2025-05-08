@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      3.2025.5.5
+// @version      3.2025.5.8
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -205,7 +205,6 @@ var database = [
 {id:305,title:"亞馬尻一家"},
 {id:306,title:"安倍橋的魔法☆商店街"},
 {id:308,title:"絕對少年"},
-{id:309,title:"絕對正義VS外道少女隊"},
 {id:316,title:"嘆きの健康優良児"},
 {id:317,title:"Final Fantasy VII - Advent Children"},
 {id:320,title:"ア カイト"},
@@ -1497,7 +1496,6 @@ var database = [
 {id:4575,title:"JUNK STORY 鉄屑物語"},
 {id:4581,title:"屍姬 赫"},
 {id:4590,title:"相姦遊戯"},
-{id:4596,title:"Code Geass 叛逆的魯魯修 特別篇 暗黑的反叛"},
 {id:4600,title:"あねき… MY SWEET ELDER SISTER THE ANIMATION"},
 {id:4601,title:"フェアリーフォレスト レミちゃん"},
 {id:4603,title:"気分²"},
@@ -1896,7 +1894,6 @@ var database = [
 {id:6746,title:"無頭騎士異聞錄"},
 {id:6747,title:"吸血鬼同盟"},
 {id:6758,title:"戰鬥司書"},
-{id:6768,title:"CODE GEASS 叛逆的魯魯修 R2 特別篇 Zero Requiem"},
 {id:6772,title:"劇場版 破刃之劍 第一章"},
 {id:6773,title:"灼眼的夏娜 III"},
 {id:6774,title:"空中秋千"},
@@ -1957,7 +1954,6 @@ var database = [
 {id:7311,title:"涼宮春日的消失"},
 {id:7334,title:"爆丸3"},
 {id:7338,title:"DARKER THAN BLACK -黑之契約者- 外傳"},
-{id:7343,title:"妖美マゾアニメーション"},
 {id:7411,title:"彼女×彼女×彼女～三姉妹とのドキドキ共同生活～"},
 {id:7455,title:"狂った教頭 断罪の学園"},
 {id:7456,title:"DISCIPLINE 零"},
@@ -2168,7 +2164,6 @@ var database = [
 {id:9486,title:"戦乙女ヴァルキリー SP"},
 {id:9487,title:"秘湯めぐり 隠れ湯"},
 {id:9488,title:"Cencoroll: Connect"},
-{id:9494,title:"蒼穹之戰神 Arcadian memory"},
 {id:9496,title:"心愛的貝蒂 魔女的故事"},
 {id:9503,title:"保健室で逢いましょう"},
 {id:9507,title:"微熱 ～約束のとき～"},
@@ -2248,7 +2243,6 @@ var database = [
 {id:10012,title:"幻想嘉年華"},
 {id:10015,title:"遊戯王 ZEXAL"},
 {id:10017,title:""},
-{id:10028,title:"魔法騎士 SP"},
 {id:10029,title:"紅花坂上的海"},
 {id:10030,title:"爆漫。2"},
 {id:10033,title:"美食的俘虜"},
@@ -2659,7 +2653,6 @@ var database = [
 {id:14073,title:"公立海老栖川高校天悶部"},
 {id:14075,title:"絕園的暴風雨"},
 {id:14093,title:"寵物小精靈BW 第2季"},
-{id:14117,title:"BLOOD-C"},
 {id:14127,title:"パパラブ"},
 {id:14129,title:"Starless 21st Century Nymphomaniacs"},
 {id:14131,title:"少女與戰車"},
@@ -4825,7 +4818,6 @@ var database = [
 {id:101302,title:"龍珠 超 布洛尼"},
 {id:101309,title:"音樂少女 (TV)"},
 {id:101310,title:"寄宿學校的茱麗葉"},
-{id:101314,title:"Ladyspo"},
 {id:101316,title:"來自繽紛世界的明天"},
 {id:101317,title:"BLACKFOX"},
 {id:101318,title:"DOUBLE DECKER!"},
@@ -7029,7 +7021,6 @@ var database = [
 {id:1364,title:"名偵探柯南：往天國的倒數計時"},
 {id:781,title:"名偵探柯南：世紀末的魔術師"},
 {id:779,title:"名偵探柯南：引爆摩天樓"},
-{id:7471,title:""},
 {id:1505,title:"名偵探柯南：水平線上的陰謀"},
 {id:184369,title:"名偵探柯南 vs. 怪盜基德"},
 {id:131770,title:"名偵探柯南：緋色的不在場證明"},

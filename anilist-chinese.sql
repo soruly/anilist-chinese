@@ -227,7 +227,6 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 305	{"title": {"chinese": "亞馬尻一家"}, "synonyms_chinese": []}
 306	{"title": {"chinese": "安倍橋的魔法☆商店街"}, "synonyms_chinese": []}
 308	{"title": {"chinese": "絕對少年"}, "synonyms_chinese": []}
-309	{"title": {"chinese": "絕對正義VS外道少女隊"}, "synonyms_chinese": []}
 316	{"title": {"chinese": "嘆きの健康優良児"}, "synonyms_chinese": []}
 317	{"title": {"chinese": "Final Fantasy VII - Advent Children"}, "synonyms_chinese": []}
 320	{"title": {"chinese": "ア カイト"}, "synonyms_chinese": []}
@@ -1519,7 +1518,6 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 4575	{"title": {"chinese": "JUNK STORY 鉄屑物語"}, "synonyms_chinese": []}
 4581	{"title": {"chinese": "屍姬 赫"}, "synonyms_chinese": []}
 4590	{"title": {"chinese": "相姦遊戯"}, "synonyms_chinese": []}
-4596	{"title": {"chinese": "Code Geass 叛逆的魯魯修 特別篇 暗黑的反叛"}, "synonyms_chinese": []}
 4600	{"title": {"chinese": "あねき… MY SWEET ELDER SISTER THE ANIMATION"}, "synonyms_chinese": []}
 4601	{"title": {"chinese": "フェアリーフォレスト レミちゃん"}, "synonyms_chinese": []}
 4603	{"title": {"chinese": "気分²"}, "synonyms_chinese": []}
@@ -1918,7 +1916,6 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 6746	{"title": {"chinese": "無頭騎士異聞錄"}, "synonyms_chinese": []}
 6747	{"title": {"chinese": "吸血鬼同盟"}, "synonyms_chinese": []}
 6758	{"title": {"chinese": "戰鬥司書"}, "synonyms_chinese": []}
-6768	{"title": {"chinese": "CODE GEASS 叛逆的魯魯修 R2 特別篇 Zero Requiem"}, "synonyms_chinese": []}
 6772	{"title": {"chinese": "劇場版 破刃之劍 第一章"}, "synonyms_chinese": []}
 6773	{"title": {"chinese": "灼眼的夏娜 III"}, "synonyms_chinese": []}
 6774	{"title": {"chinese": "空中秋千"}, "synonyms_chinese": ["空中鞦韆"]}
@@ -1979,7 +1976,6 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 7311	{"title": {"chinese": "涼宮春日的消失"}, "synonyms_chinese": []}
 7334	{"title": {"chinese": "爆丸3"}, "synonyms_chinese": []}
 7338	{"title": {"chinese": "DARKER THAN BLACK -黑之契約者- 外傳"}, "synonyms_chinese": []}
-7343	{"title": {"chinese": "妖美マゾアニメーション"}, "synonyms_chinese": []}
 7411	{"title": {"chinese": "彼女×彼女×彼女～三姉妹とのドキドキ共同生活～"}, "synonyms_chinese": []}
 7455	{"title": {"chinese": "狂った教頭 断罪の学園"}, "synonyms_chinese": []}
 7456	{"title": {"chinese": "DISCIPLINE 零"}, "synonyms_chinese": []}
@@ -2190,7 +2186,6 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 9486	{"title": {"chinese": "戦乙女ヴァルキリー SP"}, "synonyms_chinese": []}
 9487	{"title": {"chinese": "秘湯めぐり 隠れ湯"}, "synonyms_chinese": []}
 9488	{"title": {"chinese": "Cencoroll: Connect"}, "synonyms_chinese": []}
-9494	{"title": {"chinese": "蒼穹之戰神 Arcadian memory"}, "synonyms_chinese": ["蒼穹的法夫納 Arcadian memory", "蒼穹的法夫那 Arcadian memory", "蒼穹的法芙娜 Arcadian memory", "蒼穹的FAFNER Arcadian memory", "蒼穹之巨龍 Arcadian memory"]}
 9496	{"title": {"chinese": "心愛的貝蒂 魔女的故事"}, "synonyms_chinese": []}
 9503	{"title": {"chinese": "保健室で逢いましょう"}, "synonyms_chinese": []}
 9507	{"title": {"chinese": "微熱 ～約束のとき～"}, "synonyms_chinese": []}
@@ -2270,7 +2265,6 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 10012	{"title": {"chinese": "幻想嘉年華"}, "synonyms_chinese": []}
 10015	{"title": {"chinese": "遊戯王 ZEXAL"}, "synonyms_chinese": []}
 10017	{"title": {"chinese": ""}, "synonyms_chinese": []}
-10028	{"title": {"chinese": "魔法騎士 SP"}, "synonyms_chinese": []}
 10029	{"title": {"chinese": "紅花坂上的海"}, "synonyms_chinese": ["來自虞美人之坡", "來自紅花坂"]}
 10030	{"title": {"chinese": "爆漫。2"}, "synonyms_chinese": ["爆漫王。2", "食夢者 2", "漫畫家 2"]}
 10033	{"title": {"chinese": "美食的俘虜"}, "synonyms_chinese": ["美食獵人TORIKO", "為食獵人"]}
@@ -2681,7 +2675,6 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 14073	{"title": {"chinese": "公立海老栖川高校天悶部"}, "synonyms_chinese": ["蝦掰天文社", "公立海老栖川高中天悶社"]}
 14075	{"title": {"chinese": "絕園的暴風雨"}, "synonyms_chinese": []}
 14093	{"title": {"chinese": "寵物小精靈BW 第2季"}, "synonyms_chinese": ["寵物小精靈：超級願望 第2季", "神奇寶貝超級願望 第2季", "神奇寶貝BW 第2季", "神奇寶貝Best wishes 第2季"]}
-14117	{"title": {"chinese": "BLOOD-C"}, "synonyms_chinese": []}
 14127	{"title": {"chinese": "パパラブ"}, "synonyms_chinese": []}
 14129	{"title": {"chinese": "Starless 21st Century Nymphomaniacs"}, "synonyms_chinese": []}
 14131	{"title": {"chinese": "少女與戰車"}, "synonyms_chinese": ["女子高生&重戰車", "少女&坦克"]}
@@ -4847,7 +4840,6 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 101302	{"title": {"chinese": "龍珠 超 布洛尼"}, "synonyms_chinese": ["龍珠 超 布羅利", "七龍珠 超 布洛尼", "七龍珠 超 布羅利"]}
 101309	{"title": {"chinese": "音樂少女 (TV)"}, "synonyms_chinese": []}
 101310	{"title": {"chinese": "寄宿學校的茱麗葉"}, "synonyms_chinese": []}
-101314	{"title": {"chinese": "Ladyspo"}, "synonyms_chinese": []}
 101316	{"title": {"chinese": "來自繽紛世界的明天"}, "synonyms_chinese": ["來自多彩世界的明天"]}
 101317	{"title": {"chinese": "BLACKFOX"}, "synonyms_chinese": ["黑狐"]}
 101318	{"title": {"chinese": "DOUBLE DECKER!"}, "synonyms_chinese": ["道格&基里爾"]}
@@ -7051,7 +7043,6 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 1364	{"title": {"chinese": "名偵探柯南：往天國的倒數計時"}, "synonyms_chinese": []}
 781	{"title": {"chinese": "名偵探柯南：世紀末的魔術師"}, "synonyms_chinese": []}
 779	{"title": {"chinese": "名偵探柯南：引爆摩天樓"}, "synonyms_chinese": []}
-7471	{"title": {"chinese": ""}, "synonyms_chinese": [""]}
 1505	{"title": {"chinese": "名偵探柯南：水平線上的陰謀"}, "synonyms_chinese": []}
 184369	{"title": {"chinese": "名偵探柯南 vs. 怪盜基德"}, "synonyms_chinese": []}
 131770	{"title": {"chinese": "名偵探柯南：緋色的不在場證明"}, "synonyms_chinese": []}
