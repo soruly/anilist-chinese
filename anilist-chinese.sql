@@ -2,8 +2,8 @@
 -- PostgreSQL database dump
 --
 
--- Dumped from database version 17.4 (Debian 17.4-1.pgdg120+2)
--- Dumped by pg_dump version 17.4 (Debian 17.4-1.pgdg120+2)
+-- Dumped from database version 17.5 (Debian 17.5-1.pgdg120+1)
+-- Dumped by pg_dump version 17.5 (Debian 17.5-1.pgdg120+1)
 
 SET statement_timeout = 0;
 SET lock_timeout = 0;
@@ -7593,6 +7593,7 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 169375	{"title": {"chinese": "忘星のヴァリシア 第一章：劫火"}, "synonyms_chinese": []}
 186153	{"title": {"chinese": "夕顔"}, "synonyms_chinese": []}
 184810	{"title": {"chinese": "インモラルーティーン The Animation"}, "synonyms_chinese": []}
+189716	{"title": {"chinese": "ゆるかわメルちゃん"}, "synonyms_chinese": []}
 170013	{"title": {"chinese": "Penetrate Blue: Vapor Trail Another Age 2824"}, "synonyms_chinese": []}
 \.
 

@@ -7571,6 +7571,7 @@ var database = [
 {id:169375,title:"忘星のヴァリシア 第一章：劫火"},
 {id:186153,title:"夕顔"},
 {id:184810,title:"インモラルーティーン The Animation"},
+{id:189716,title:"ゆるかわメルちゃん"},
 {id:170013,title:"Penetrate Blue: Vapor Trail Another Age 2824"}
 ];
 

@@ -7554,6 +7554,7 @@ const db = new Map([
 [169375,{title:"忘星のヴァリシア 第一章：劫火",synonyms:[]}],
 [186153,{title:"夕顔",synonyms:[]}],
 [184810,{title:"インモラルーティーン The Animation",synonyms:[]}],
+[189716,{title:"ゆるかわメルちゃん",synonyms:[]}],
 [170013,{title:"Penetrate Blue: Vapor Trail Another Age 2824",synonyms:[]}]
 ]);
 
