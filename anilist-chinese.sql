@@ -7583,6 +7583,7 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 3704	{"title": {"chinese": "全力兔"}, "synonyms_chinese": []}
 118123	{"title": {"chinese": "Hologra"}, "synonyms_chinese": []}
 171291	{"title": {"chinese": "Trapezium"}, "synonyms_chinese": ["成為星星的少女", "四重星"]}
+169772	{"title": {"chinese": "マタタビムービーラボ"}, "synonyms_chinese": []}
 176299	{"title": {"chinese": "賽馬娘 ROAD TO THE TOP 劇場用再編集版"}, "synonyms_chinese": []}
 169746	{"title": {"chinese": "Vapor Trail"}, "synonyms_chinese": []}
 181244	{"title": {"chinese": "為美好的世界獻上祝福！3 OVA"}, "synonyms_chinese": []}

@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      3.2025.5.8
+// @version      3.2025.5.10
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -7561,6 +7561,7 @@ var database = [
 {id:3704,title:"全力兔"},
 {id:118123,title:"Hologra"},
 {id:171291,title:"Trapezium"},
+{id:169772,title:"マタタビムービーラボ"},
 {id:176299,title:"賽馬娘 ROAD TO THE TOP 劇場用再編集版"},
 {id:169746,title:"Vapor Trail"},
 {id:181244,title:"為美好的世界獻上祝福！3 OVA"},
