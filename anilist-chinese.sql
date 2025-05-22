@@ -7595,6 +7595,10 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 184810	{"title": {"chinese": "インモラルーティーン The Animation"}, "synonyms_chinese": []}
 189716	{"title": {"chinese": "ゆるかわメルちゃん"}, "synonyms_chinese": []}
 170013	{"title": {"chinese": "Penetrate Blue: Vapor Trail Another Age 2824"}, "synonyms_chinese": []}
+185166	{"title": {"chinese": "憧れの女上司が、相部屋出張の隣のベッドで絶倫男に寝取られている"}, "synonyms_chinese": []}
+186308	{"title": {"chinese": "甘いイジワル"}, "synonyms_chinese": []}
+186827	{"title": {"chinese": "風紀委員とフーゾク活動"}, "synonyms_chinese": []}
+186307	{"title": {"chinese": "のっと・せくさろいど・エウリィ！"}, "synonyms_chinese": []}
 \.
 
 

@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      3.2025.5.10
+// @version      3.2025.5.22
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -7572,7 +7572,11 @@ var database = [
 {id:186153,title:"夕顔"},
 {id:184810,title:"インモラルーティーン The Animation"},
 {id:189716,title:"ゆるかわメルちゃん"},
-{id:170013,title:"Penetrate Blue: Vapor Trail Another Age 2824"}
+{id:170013,title:"Penetrate Blue: Vapor Trail Another Age 2824"},
+{id:185166,title:"憧れの女上司が、相部屋出張の隣のベッドで絶倫男に寝取られている"},
+{id:186308,title:"甘いイジワル"},
+{id:186827,title:"風紀委員とフーゾク活動"},
+{id:186307,title:"のっと・せくさろいど・エウリィ！"}
 ];
 
 var updating;

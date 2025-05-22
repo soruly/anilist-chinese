@@ -7555,7 +7555,11 @@ const db = new Map([
 [186153,{title:"夕顔",synonyms:[]}],
 [184810,{title:"インモラルーティーン The Animation",synonyms:[]}],
 [189716,{title:"ゆるかわメルちゃん",synonyms:[]}],
-[170013,{title:"Penetrate Blue: Vapor Trail Another Age 2824",synonyms:[]}]
+[170013,{title:"Penetrate Blue: Vapor Trail Another Age 2824",synonyms:[]}],
+[185166,{title:"憧れの女上司が、相部屋出張の隣のベッドで絶倫男に寝取られている",synonyms:[]}],
+[186308,{title:"甘いイジワル",synonyms:[]}],
+[186827,{title:"風紀委員とフーゾク活動",synonyms:[]}],
+[186307,{title:"のっと・せくさろいど・エウリィ！",synonyms:[]}]
 ]);
 
 async function handleRequest(req) {
