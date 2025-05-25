@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      3.2025.5.22
+// @version      3.2025.5.25
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -7559,6 +7559,7 @@ var database = [
 {id:177008,title:"吹響！上低音號 3 SP"},
 {id:184560,title:"Rising Impact Season 2"},
 {id:3704,title:"全力兔"},
+{id:193414,title:"MyGO!!!!!メンバーの日常"},
 {id:118123,title:"Hologra"},
 {id:171291,title:"Trapezium"},
 {id:169772,title:"マタタビムービーラボ"},

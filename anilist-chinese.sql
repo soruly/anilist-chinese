@@ -7581,6 +7581,7 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 177008	{"title": {"chinese": "吹響！上低音號 3 SP"}, "synonyms_chinese": []}
 184560	{"title": {"chinese": "Rising Impact Season 2"}, "synonyms_chinese": []}
 3704	{"title": {"chinese": "全力兔"}, "synonyms_chinese": []}
+193414	{"title": {"chinese": "MyGO!!!!!メンバーの日常"}, "synonyms_chinese": []}
 118123	{"title": {"chinese": "Hologra"}, "synonyms_chinese": []}
 171291	{"title": {"chinese": "Trapezium"}, "synonyms_chinese": ["成為星星的少女", "四重星"]}
 169772	{"title": {"chinese": "マタタビムービーラボ"}, "synonyms_chinese": []}
