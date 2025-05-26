@@ -7600,6 +7600,7 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 186308	{"title": {"chinese": "甘いイジワル"}, "synonyms_chinese": []}
 186827	{"title": {"chinese": "風紀委員とフーゾク活動"}, "synonyms_chinese": []}
 186307	{"title": {"chinese": "のっと・せくさろいど・エウリィ！"}, "synonyms_chinese": []}
+148295	{"title": {"chinese": "杜鵑婚約 ONA"}, "synonyms_chinese": []}
 \.
 
 

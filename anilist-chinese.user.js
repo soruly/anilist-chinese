@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      3.2025.5.25
+// @version      3.2025.5.26
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -7577,7 +7577,8 @@ var database = [
 {id:185166,title:"憧れの女上司が、相部屋出張の隣のベッドで絶倫男に寝取られている"},
 {id:186308,title:"甘いイジワル"},
 {id:186827,title:"風紀委員とフーゾク活動"},
-{id:186307,title:"のっと・せくさろいど・エウリィ！"}
+{id:186307,title:"のっと・せくさろいど・エウリィ！"},
+{id:148295,title:"杜鵑婚約 ONA"}
 ];
 
 var updating;
