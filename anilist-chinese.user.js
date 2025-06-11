@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      3.2025.5.26
+// @version      3.2025.6.11
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -7578,7 +7578,8 @@ var database = [
 {id:186308,title:"甘いイジワル"},
 {id:186827,title:"風紀委員とフーゾク活動"},
 {id:186307,title:"のっと・せくさろいど・エウリィ！"},
-{id:148295,title:"杜鵑婚約 ONA"}
+{id:148295,title:"杜鵑婚約 ONA"},
+{id:178445,title:""}
 ];
 
 var updating;
