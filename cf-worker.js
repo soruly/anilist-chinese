@@ -7562,7 +7562,8 @@ const db = new Map([
 [186827,{title:"風紀委員とフーゾク活動",synonyms:[]}],
 [186307,{title:"のっと・せくさろいど・エウリィ！",synonyms:[]}],
 [148295,{title:"杜鵑婚約 ONA",synonyms:[]}],
-[178445,{title:"",synonyms:[]}]
+[178445,{title:"ボクの理想の異世界生活",synonyms:[]}],
+[187304,{title:"淫触王デマール",synonyms:[]}]
 ]);
 
 async function handleRequest(req) {

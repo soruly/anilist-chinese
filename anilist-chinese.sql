@@ -7601,7 +7601,8 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 186827	{"title": {"chinese": "風紀委員とフーゾク活動"}, "synonyms_chinese": []}
 186307	{"title": {"chinese": "のっと・せくさろいど・エウリィ！"}, "synonyms_chinese": []}
 148295	{"title": {"chinese": "杜鵑婚約 ONA"}, "synonyms_chinese": []}
-178445	{"title": {"chinese": ""}, "synonyms_chinese": []}
+178445	{"title": {"chinese": "ボクの理想の異世界生活"}, "synonyms_chinese": []}
+187304	{"title": {"chinese": "淫触王デマール"}, "synonyms_chinese": []}
 \.
 
 
