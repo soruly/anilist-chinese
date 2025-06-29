@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      3.2025.6.28
+// @version      3.2025.6.29
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -7650,7 +7650,8 @@ var database = [
 {id:183127,title:"去唱卡拉 OK 吧！"},
 {id:191994,title:"Cardfight!! Vanguard: Divinez Deluxe決勝篇"},
 {id:175869,title:"小小哥吉拉的逆襲 2"},
-{id:172852,title:"不忍！加密忍者咲耶 第二季"}
+{id:172852,title:"不忍！加密忍者咲耶 第二季"},
+{id:166527,title:"cocoon ～來自某個夏日的少女們～"}
 ];
 
 var updating;

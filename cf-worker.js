@@ -7633,7 +7633,8 @@ const db = new Map([
 [183127,{title:"去唱卡拉 OK 吧！",synonyms:[]}],
 [191994,{title:"Cardfight!! Vanguard: Divinez Deluxe決勝篇",synonyms:[]}],
 [175869,{title:"小小哥吉拉的逆襲 2",synonyms:[]}],
-[172852,{title:"不忍！加密忍者咲耶 第二季",synonyms:[]}]
+[172852,{title:"不忍！加密忍者咲耶 第二季",synonyms:[]}],
+[166527,{title:"cocoon ～來自某個夏日的少女們～",synonyms:[]}]
 ]);
 
 async function handleRequest(req) {

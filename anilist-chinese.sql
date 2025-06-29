@@ -7673,6 +7673,7 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 191994	{"title": {"chinese": "Cardfight!! Vanguard: Divinez Deluxe決勝篇"}, "synonyms_chinese": []}
 175869	{"title": {"chinese": "小小哥吉拉的逆襲 2"}, "synonyms_chinese": []}
 172852	{"title": {"chinese": "不忍！加密忍者咲耶 第二季"}, "synonyms_chinese": []}
+166527	{"title": {"chinese": "cocoon ～來自某個夏日的少女們～"}, "synonyms_chinese": []}
 \.
 
 
