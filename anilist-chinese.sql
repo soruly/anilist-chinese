@@ -7675,6 +7675,8 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 172852	{"title": {"chinese": "不忍！加密忍者咲耶 第二季"}, "synonyms_chinese": []}
 166527	{"title": {"chinese": "cocoon ～來自某個夏日的少女們～"}, "synonyms_chinese": []}
 195209	{"title": {"chinese": "獻上聖女最誠摯的復仇"}, "synonyms_chinese": []}
+191491	{"title": {"chinese": "トナリノカノジョ"}, "synonyms_chinese": []}
+191492	{"title": {"chinese": "ヨゴレタカノジョ"}, "synonyms_chinese": []}
 \.
 
 
