@@ -7651,7 +7651,8 @@ var database = [
 {id:191994,title:"Cardfight!! Vanguard: Divinez Deluxe決勝篇"},
 {id:175869,title:"小小哥吉拉的逆襲 2"},
 {id:172852,title:"不忍！加密忍者咲耶 第二季"},
-{id:166527,title:"cocoon ～來自某個夏日的少女們～"}
+{id:166527,title:"cocoon ～來自某個夏日的少女們～"},
+{id:195209,title:"獻上聖女最誠摯的復仇"}
 ];
 
 var updating;
