@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      3.2025.6.29
+// @version      3.2025.7.5
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -7654,7 +7654,8 @@ var database = [
 {id:166527,title:"cocoon ～來自某個夏日的少女們～"},
 {id:195209,title:"獻上聖女最誠摯的復仇"},
 {id:191491,title:"トナリノカノジョ"},
-{id:191492,title:"ヨゴレタカノジョ"}
+{id:191492,title:"ヨゴレタカノジョ"},
+{id:179999,title:"怪獸 8 號 "}
 ];
 
 var updating;

@@ -7637,7 +7637,8 @@ const db = new Map([
 [166527,{title:"cocoon ～來自某個夏日的少女們～",synonyms:[]}],
 [195209,{title:"獻上聖女最誠摯的復仇",synonyms:[]}],
 [191491,{title:"トナリノカノジョ",synonyms:[]}],
-[191492,{title:"ヨゴレタカノジョ",synonyms:[]}]
+[191492,{title:"ヨゴレタカノジョ",synonyms:[]}],
+[179999,{title:"怪獸 8 號 ",synonyms:[]}]
 ]);
 
 async function handleRequest(req) {
