@@ -7638,7 +7638,8 @@ const db = new Map([
 [195209,{title:"獻上聖女最誠摯的復仇",synonyms:[]}],
 [191491,{title:"トナリノカノジョ",synonyms:[]}],
 [191492,{title:"ヨゴレタカノジョ",synonyms:[]}],
-[179999,{title:"怪獸 8 號 ",synonyms:[]}]
+[179999,{title:"怪獸 8 號 ",synonyms:[]}],
+[143201,{title:"蒼穹之戰神 BEHIND THE LINE",synonyms:[]}]
 ]);
 
 async function handleRequest(req) {

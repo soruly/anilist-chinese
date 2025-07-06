@@ -7678,6 +7678,7 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 191491	{"title": {"chinese": "トナリノカノジョ"}, "synonyms_chinese": []}
 191492	{"title": {"chinese": "ヨゴレタカノジョ"}, "synonyms_chinese": []}
 179999	{"title": {"chinese": "怪獸 8 號 "}, "synonyms_chinese": []}
+143201	{"title": {"chinese": "蒼穹之戰神 BEHIND THE LINE"}, "synonyms_chinese": []}
 \.
 
 
