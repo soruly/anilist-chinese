@@ -7674,11 +7674,11 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 175869	{"title": {"chinese": "小小哥吉拉的逆襲 2"}, "synonyms_chinese": []}
 172852	{"title": {"chinese": "不忍！加密忍者咲耶 第二季"}, "synonyms_chinese": []}
 166527	{"title": {"chinese": "cocoon ～來自某個夏日的少女們～"}, "synonyms_chinese": []}
-195209	{"title": {"chinese": "獻上聖女最誠摯的復仇"}, "synonyms_chinese": []}
 191491	{"title": {"chinese": "トナリノカノジョ"}, "synonyms_chinese": []}
 191492	{"title": {"chinese": "ヨゴレタカノジョ"}, "synonyms_chinese": []}
 179999	{"title": {"chinese": "怪獸 8 號 "}, "synonyms_chinese": []}
 143201	{"title": {"chinese": "蒼穹之戰神 BEHIND THE LINE"}, "synonyms_chinese": []}
+195209	{"title": {"chinese": "獻上聖女最誠摯的復仇"}, "synonyms_chinese": ["黑化吧！聖女大人"]}
 \.
 
 

@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      3.2025.7.6
+// @version      3.2025.7.10
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -7652,11 +7652,11 @@ var database = [
 {id:175869,title:"小小哥吉拉的逆襲 2"},
 {id:172852,title:"不忍！加密忍者咲耶 第二季"},
 {id:166527,title:"cocoon ～來自某個夏日的少女們～"},
-{id:195209,title:"獻上聖女最誠摯的復仇"},
 {id:191491,title:"トナリノカノジョ"},
 {id:191492,title:"ヨゴレタカノジョ"},
 {id:179999,title:"怪獸 8 號 "},
-{id:143201,title:"蒼穹之戰神 BEHIND THE LINE"}
+{id:143201,title:"蒼穹之戰神 BEHIND THE LINE"},
+{id:195209,title:"獻上聖女最誠摯的復仇"}
 ];
 
 var updating;

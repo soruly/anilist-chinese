@@ -7635,11 +7635,11 @@ const db = new Map([
 [175869,{title:"小小哥吉拉的逆襲 2",synonyms:[]}],
 [172852,{title:"不忍！加密忍者咲耶 第二季",synonyms:[]}],
 [166527,{title:"cocoon ～來自某個夏日的少女們～",synonyms:[]}],
-[195209,{title:"獻上聖女最誠摯的復仇",synonyms:[]}],
 [191491,{title:"トナリノカノジョ",synonyms:[]}],
 [191492,{title:"ヨゴレタカノジョ",synonyms:[]}],
 [179999,{title:"怪獸 8 號 ",synonyms:[]}],
-[143201,{title:"蒼穹之戰神 BEHIND THE LINE",synonyms:[]}]
+[143201,{title:"蒼穹之戰神 BEHIND THE LINE",synonyms:[]}],
+[195209,{title:"獻上聖女最誠摯的復仇",synonyms:["黑化吧！聖女大人"]}]
 ]);
 
 async function handleRequest(req) {
