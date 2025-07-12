@@ -7642,7 +7642,6 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 186052	{"title": {"chinese": "水屬性的魔法師"}, "synonyms_chinese": []}
 180929	{"title": {"chinese": "琉璃的寶石"}, "synonyms_chinese": []}
 156395	{"title": {"chinese": "為丑女獻上花束"}, "synonyms_chinese": []}
-169420	{"title": {"chinese": "渡同學的××瀕臨崩壞"}, "synonyms_chinese": []}
 175914	{"title": {"chinese": "徹夜之歌 Season 2"}, "synonyms_chinese": []}
 184034	{"title": {"chinese": "HOTEL INHUMANS"}, "synonyms_chinese": ["殺手旅店"]}
 179344	{"title": {"chinese": "出租女友 第四季"}, "synonyms_chinese": []}
@@ -7679,6 +7678,7 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 179999	{"title": {"chinese": "怪獸 8 號 "}, "synonyms_chinese": []}
 143201	{"title": {"chinese": "蒼穹之戰神 BEHIND THE LINE"}, "synonyms_chinese": []}
 195209	{"title": {"chinese": "獻上聖女最誠摯的復仇"}, "synonyms_chinese": ["黑化吧！聖女大人"]}
+169420	{"title": {"chinese": "渡同學的××瀕臨崩壞"}, "synonyms_chinese": ["渡君的xx即將崩壞"]}
 \.
 
 

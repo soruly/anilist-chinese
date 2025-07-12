@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      3.2025.7.10
+// @version      3.2025.7.12
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -7620,7 +7620,6 @@ var database = [
 {id:186052,title:"水屬性的魔法師"},
 {id:180929,title:"琉璃的寶石"},
 {id:156395,title:"為丑女獻上花束"},
-{id:169420,title:"渡同學的××瀕臨崩壞"},
 {id:175914,title:"徹夜之歌 Season 2"},
 {id:184034,title:"HOTEL INHUMANS"},
 {id:179344,title:"出租女友 第四季"},
@@ -7656,7 +7655,8 @@ var database = [
 {id:191492,title:"ヨゴレタカノジョ"},
 {id:179999,title:"怪獸 8 號 "},
 {id:143201,title:"蒼穹之戰神 BEHIND THE LINE"},
-{id:195209,title:"獻上聖女最誠摯的復仇"}
+{id:195209,title:"獻上聖女最誠摯的復仇"},
+{id:169420,title:"渡同學的××瀕臨崩壞"}
 ];
 
 var updating;

@@ -7603,7 +7603,6 @@ const db = new Map([
 [186052,{title:"水屬性的魔法師",synonyms:[]}],
 [180929,{title:"琉璃的寶石",synonyms:[]}],
 [156395,{title:"為丑女獻上花束",synonyms:[]}],
-[169420,{title:"渡同學的××瀕臨崩壞",synonyms:[]}],
 [175914,{title:"徹夜之歌 Season 2",synonyms:[]}],
 [184034,{title:"HOTEL INHUMANS",synonyms:["殺手旅店"]}],
 [179344,{title:"出租女友 第四季",synonyms:[]}],
@@ -7639,7 +7638,8 @@ const db = new Map([
 [191492,{title:"ヨゴレタカノジョ",synonyms:[]}],
 [179999,{title:"怪獸 8 號 ",synonyms:[]}],
 [143201,{title:"蒼穹之戰神 BEHIND THE LINE",synonyms:[]}],
-[195209,{title:"獻上聖女最誠摯的復仇",synonyms:["黑化吧！聖女大人"]}]
+[195209,{title:"獻上聖女最誠摯的復仇",synonyms:["黑化吧！聖女大人"]}],
+[169420,{title:"渡同學的××瀕臨崩壞",synonyms:["渡君的xx即將崩壞"]}]
 ]);
 
 async function handleRequest(req) {
