@@ -7679,6 +7679,10 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 143201	{"title": {"chinese": "蒼穹之戰神 BEHIND THE LINE"}, "synonyms_chinese": []}
 195209	{"title": {"chinese": "獻上聖女最誠摯的復仇"}, "synonyms_chinese": ["黑化吧！聖女大人"]}
 169420	{"title": {"chinese": "渡同學的××瀕臨崩壞"}, "synonyms_chinese": ["渡君的xx即將崩壞"]}
+186058	{"title": {"chinese": "黒ギャルアラカルト"}, "synonyms_chinese": []}
+187404	{"title": {"chinese": "朝まで汁だく母娘丼！！"}, "synonyms_chinese": []}
+185071	{"title": {"chinese": "元カレとはできなかったセックスしてもいいですか?"}, "synonyms_chinese": []}
+188933	{"title": {"chinese": "プリンセスバースト！～危険日の種付け孕ませ羞恥バトル！～"}, "synonyms_chinese": []}
 \.
 
 

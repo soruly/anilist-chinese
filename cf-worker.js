@@ -7639,7 +7639,11 @@ const db = new Map([
 [179999,{title:"怪獸 8 號 ",synonyms:[]}],
 [143201,{title:"蒼穹之戰神 BEHIND THE LINE",synonyms:[]}],
 [195209,{title:"獻上聖女最誠摯的復仇",synonyms:["黑化吧！聖女大人"]}],
-[169420,{title:"渡同學的××瀕臨崩壞",synonyms:["渡君的xx即將崩壞"]}]
+[169420,{title:"渡同學的××瀕臨崩壞",synonyms:["渡君的xx即將崩壞"]}],
+[186058,{title:"黒ギャルアラカルト",synonyms:[]}],
+[187404,{title:"朝まで汁だく母娘丼！！",synonyms:[]}],
+[185071,{title:"元カレとはできなかったセックスしてもいいですか?",synonyms:[]}],
+[188933,{title:"プリンセスバースト！～危険日の種付け孕ませ羞恥バトル！～",synonyms:[]}]
 ]);
 
 async function handleRequest(req) {

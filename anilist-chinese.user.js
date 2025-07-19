@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      3.2025.7.12
+// @version      3.2025.7.19
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -7656,7 +7656,11 @@ var database = [
 {id:179999,title:"怪獸 8 號 "},
 {id:143201,title:"蒼穹之戰神 BEHIND THE LINE"},
 {id:195209,title:"獻上聖女最誠摯的復仇"},
-{id:169420,title:"渡同學的××瀕臨崩壞"}
+{id:169420,title:"渡同學的××瀕臨崩壞"},
+{id:186058,title:"黒ギャルアラカルト"},
+{id:187404,title:"朝まで汁だく母娘丼！！"},
+{id:185071,title:"元カレとはできなかったセックスしてもいいですか?"},
+{id:188933,title:"プリンセスバースト！～危険日の種付け孕ませ羞恥バトル！～"}
 ];
 
 var updating;
