@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      3.2025.7.19
+// @version      3.2025.8.19
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -7647,7 +7647,9 @@ var database = [
 {id:177474,title:"桃源暗鬼"},
 {id:174188,title:"NUKITASHI 住在拔作島上的我該如何是好？"},
 {id:183127,title:"去唱卡拉 OK 吧！"},
+{id:191451,title:"今日は指輪を外すから……"},
 {id:191994,title:"Cardfight!! Vanguard: Divinez Deluxe決勝篇"},
+{id:191452,title:"淫モラル・ゲームマスター THE ANIMATION"},
 {id:175869,title:"小小哥吉拉的逆襲 2"},
 {id:172852,title:"不忍！加密忍者咲耶 第二季"},
 {id:166527,title:"cocoon ～來自某個夏日的少女們～"},

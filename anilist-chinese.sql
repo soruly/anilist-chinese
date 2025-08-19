@@ -7669,7 +7669,9 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 177474	{"title": {"chinese": "桃源暗鬼"}, "synonyms_chinese": []}
 174188	{"title": {"chinese": "NUKITASHI 住在拔作島上的我該如何是好？"}, "synonyms_chinese": []}
 183127	{"title": {"chinese": "去唱卡拉 OK 吧！"}, "synonyms_chinese": []}
+191451	{"title": {"chinese": "今日は指輪を外すから……"}, "synonyms_chinese": []}
 191994	{"title": {"chinese": "Cardfight!! Vanguard: Divinez Deluxe決勝篇"}, "synonyms_chinese": []}
+191452	{"title": {"chinese": "淫モラル・ゲームマスター THE ANIMATION"}, "synonyms_chinese": []}
 175869	{"title": {"chinese": "小小哥吉拉的逆襲 2"}, "synonyms_chinese": []}
 172852	{"title": {"chinese": "不忍！加密忍者咲耶 第二季"}, "synonyms_chinese": []}
 166527	{"title": {"chinese": "cocoon ～來自某個夏日的少女們～"}, "synonyms_chinese": []}
