@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      3.2025.8.19
+// @version      3.2025.8.27
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -7607,7 +7607,6 @@ var database = [
 {id:173780,title:"盾之勇者成名錄 第四季"},
 {id:194088,title:"闇芝居 15"},
 {id:180460,title:"最近的偵探真沒用"},
-{id:185505,title:"Necronomico no Cosmic Horror Show"},
 {id:186789,title:"人妻的嘴唇嚐起來有罐裝沙瓦的味道"},
 {id:180794,title:"遊樂場少女的異文化交流"},
 {id:189117,title:"Dr.STONE SCIENCE FUTURE Part 2"},
@@ -7651,6 +7650,8 @@ var database = [
 {id:191994,title:"Cardfight!! Vanguard: Divinez Deluxe決勝篇"},
 {id:191452,title:"淫モラル・ゲームマスター THE ANIMATION"},
 {id:175869,title:"小小哥吉拉的逆襲 2"},
+{id:183128,title:"為你着迷"},
+{id:185505,title:"涅庫羅諾美子的宇宙恐怖秀"},
 {id:172852,title:"不忍！加密忍者咲耶 第二季"},
 {id:166527,title:"cocoon ～來自某個夏日的少女們～"},
 {id:191491,title:"トナリノカノジョ"},

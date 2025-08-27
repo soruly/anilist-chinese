@@ -7629,7 +7629,6 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 173780	{"title": {"chinese": "盾之勇者成名錄 第四季"}, "synonyms_chinese": []}
 194088	{"title": {"chinese": "闇芝居 15"}, "synonyms_chinese": []}
 180460	{"title": {"chinese": "最近的偵探真沒用"}, "synonyms_chinese": []}
-185505	{"title": {"chinese": "Necronomico no Cosmic Horror Show"}, "synonyms_chinese": []}
 186789	{"title": {"chinese": "人妻的嘴唇嚐起來有罐裝沙瓦的味道"}, "synonyms_chinese": []}
 180794	{"title": {"chinese": "遊樂場少女的異文化交流"}, "synonyms_chinese": []}
 189117	{"title": {"chinese": "Dr.STONE SCIENCE FUTURE Part 2"}, "synonyms_chinese": []}
@@ -7673,6 +7672,8 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 191994	{"title": {"chinese": "Cardfight!! Vanguard: Divinez Deluxe決勝篇"}, "synonyms_chinese": []}
 191452	{"title": {"chinese": "淫モラル・ゲームマスター THE ANIMATION"}, "synonyms_chinese": []}
 175869	{"title": {"chinese": "小小哥吉拉的逆襲 2"}, "synonyms_chinese": []}
+183128	{"title": {"chinese": "為你着迷"}, "synonyms_chinese": []}
+185505	{"title": {"chinese": "涅庫羅諾美子的宇宙恐怖秀"}, "synonyms_chinese": ["涅庫羅諾美子的宇宙恐怖秀", "死靈書巫女的宇宙恐怖秀", "死靈之子的宇宙恐怖秀"]}
 172852	{"title": {"chinese": "不忍！加密忍者咲耶 第二季"}, "synonyms_chinese": []}
 166527	{"title": {"chinese": "cocoon ～來自某個夏日的少女們～"}, "synonyms_chinese": []}
 191491	{"title": {"chinese": "トナリノカノジョ"}, "synonyms_chinese": []}
