@@ -2,8 +2,10 @@
 -- PostgreSQL database dump
 --
 
--- Dumped from database version 17.5 (Debian 17.5-1.pgdg120+1)
--- Dumped by pg_dump version 17.5 (Debian 17.5-1.pgdg120+1)
+\restrict pHsfTCjXMMlGEm7ETCmlUmfx1ud5RkhfH5EKhtOhdHx9maBtkE9pHNOXDm7YOvp
+
+-- Dumped from database version 17.6 (Debian 17.6-1.pgdg13+1)
+-- Dumped by pg_dump version 17.6 (Debian 17.6-1.pgdg13+1)
 
 SET statement_timeout = 0;
 SET lock_timeout = 0;
@@ -7700,4 +7702,6 @@ ALTER TABLE ONLY public.anilist_chinese
 --
 -- PostgreSQL database dump complete
 --
+
+\unrestrict pHsfTCjXMMlGEm7ETCmlUmfx1ud5RkhfH5EKhtOhdHx9maBtkE9pHNOXDm7YOvp
 
