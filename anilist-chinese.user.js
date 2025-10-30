@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      3.2025.10.21
+// @version      3.2025.10.30
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -6995,7 +6995,6 @@ var database = [
 {id:173333,title:"魔神創造傳"},
 {id:176395,title:"やらかし"},
 {id:181886,title:"金肉人 完美超人始祖篇 Season 2"},
-{id:154064,title:"Make A Girl"},
 {id:176396,title:"誤爆〜萌えママ徒然〜"},
 {id:133007,title:"劇場版 魔法少女小圓 瓦爾普吉斯之迴天"},
 {id:162722,title:"魔法使光之美少女！！～MIRAI DAYS～"},
@@ -7749,13 +7748,15 @@ var database = [
 {id:192452,title:"好色の忠義くノ一ぼたん"},
 {id:193707,title:"無人駅 The Animation "},
 {id:195068,title:"ピュアピュア ぺろぺろ プリンセス"},
+{id:178774,title:"風都偵探 假面騎士 Skull 的肖像"},
 {id:170018,title:"青之管弦樂 第二季"},
 {id:157692,title:"龍族II 悼亡者之瞳"},
 {id:122511,title:"龍族"},
 {id:193348,title:"寝取られた爆乳妻たち"},
 {id:195034,title:"これってナ～ニ？"},
 {id:196750,title:"シスターブリーダー"},
-{id:195033,title:"危険な森 おにごっこ"}
+{id:195033,title:"危険な森 おにごっこ"},
+{id:154064,title:"Make A Girl"}
 ];
 
 var updating;

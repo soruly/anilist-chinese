@@ -2,7 +2,7 @@
 -- PostgreSQL database dump
 --
 
-\restrict NKocfIH3bkAVgj97SAbFju7uOWHTEV5zgVCleDSSq2uhln12stSehLHCUBVa9R1
+\restrict hrppXzmCrHdo1PiRg41oH1jAJYpXVynmBQZZJufVkVychdplLv4z4fOKGPP5ixf
 
 -- Dumped from database version 17.6 (Debian 17.6-2.pgdg13+1)
 -- Dumped by pg_dump version 17.6 (Debian 17.6-2.pgdg13+1)
@@ -7019,7 +7019,6 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 173333	{"title": {"chinese": "魔神創造傳"}, "synonyms_chinese": []}
 176395	{"title": {"chinese": "やらかし"}, "synonyms_chinese": []}
 181886	{"title": {"chinese": "金肉人 完美超人始祖篇 Season 2"}, "synonyms_chinese": []}
-154064	{"title": {"chinese": "Make A Girl"}, "synonyms_chinese": []}
 176396	{"title": {"chinese": "誤爆〜萌えママ徒然〜"}, "synonyms_chinese": []}
 133007	{"title": {"chinese": "劇場版 魔法少女小圓 瓦爾普吉斯之迴天"}, "synonyms_chinese": []}
 162722	{"title": {"chinese": "魔法使光之美少女！！～MIRAI DAYS～"}, "synonyms_chinese": []}
@@ -7773,6 +7772,7 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 192452	{"title": {"chinese": "好色の忠義くノ一ぼたん"}, "synonyms_chinese": []}
 193707	{"title": {"chinese": "無人駅 The Animation "}, "synonyms_chinese": []}
 195068	{"title": {"chinese": "ピュアピュア ぺろぺろ プリンセス"}, "synonyms_chinese": []}
+178774	{"title": {"chinese": "風都偵探 假面騎士 Skull 的肖像"}, "synonyms_chinese": []}
 170018	{"title": {"chinese": "青之管弦樂 第二季"}, "synonyms_chinese": []}
 157692	{"title": {"chinese": "龍族II 悼亡者之瞳"}, "synonyms_chinese": []}
 122511	{"title": {"chinese": "龍族"}, "synonyms_chinese": []}
@@ -7780,6 +7780,7 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 195034	{"title": {"chinese": "これってナ～ニ？"}, "synonyms_chinese": []}
 196750	{"title": {"chinese": "シスターブリーダー"}, "synonyms_chinese": []}
 195033	{"title": {"chinese": "危険な森 おにごっこ"}, "synonyms_chinese": []}
+154064	{"title": {"chinese": "Make A Girl"}, "synonyms_chinese": ["伊人制造"]}
 \.
 
 
@@ -7795,5 +7796,5 @@ ALTER TABLE ONLY public.anilist_chinese
 -- PostgreSQL database dump complete
 --
 
-\unrestrict NKocfIH3bkAVgj97SAbFju7uOWHTEV5zgVCleDSSq2uhln12stSehLHCUBVa9R1
+\unrestrict hrppXzmCrHdo1PiRg41oH1jAJYpXVynmBQZZJufVkVychdplLv4z4fOKGPP5ixf
 

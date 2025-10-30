@@ -6978,7 +6978,6 @@ const db = new Map([
 [173333,{title:"魔神創造傳",synonyms:[]}],
 [176395,{title:"やらかし",synonyms:[]}],
 [181886,{title:"金肉人 完美超人始祖篇 Season 2",synonyms:[]}],
-[154064,{title:"Make A Girl",synonyms:[]}],
 [176396,{title:"誤爆〜萌えママ徒然〜",synonyms:[]}],
 [133007,{title:"劇場版 魔法少女小圓 瓦爾普吉斯之迴天",synonyms:[]}],
 [162722,{title:"魔法使光之美少女！！～MIRAI DAYS～",synonyms:[]}],
@@ -7732,13 +7731,15 @@ const db = new Map([
 [192452,{title:"好色の忠義くノ一ぼたん",synonyms:[]}],
 [193707,{title:"無人駅 The Animation ",synonyms:[]}],
 [195068,{title:"ピュアピュア ぺろぺろ プリンセス",synonyms:[]}],
+[178774,{title:"風都偵探 假面騎士 Skull 的肖像",synonyms:[]}],
 [170018,{title:"青之管弦樂 第二季",synonyms:[]}],
 [157692,{title:"龍族II 悼亡者之瞳",synonyms:[]}],
 [122511,{title:"龍族",synonyms:[]}],
 [193348,{title:"寝取られた爆乳妻たち",synonyms:[]}],
 [195034,{title:"これってナ～ニ？",synonyms:[]}],
 [196750,{title:"シスターブリーダー",synonyms:[]}],
-[195033,{title:"危険な森 おにごっこ",synonyms:[]}]
+[195033,{title:"危険な森 おにごっこ",synonyms:[]}],
+[154064,{title:"Make A Girl",synonyms:["伊人制造"]}]
 ]);
 
 async function handleRequest(req) {
