@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      3.2025.10.30
+// @version      3.2025.11.14
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -7749,6 +7749,7 @@ var database = [
 {id:193707,title:"無人駅 The Animation "},
 {id:195068,title:"ピュアピュア ぺろぺろ プリンセス"},
 {id:178774,title:"風都偵探 假面騎士 Skull 的肖像"},
+{id:198188,title:"藤本樹 17-26"},
 {id:170018,title:"青之管弦樂 第二季"},
 {id:157692,title:"龍族II 悼亡者之瞳"},
 {id:122511,title:"龍族"},

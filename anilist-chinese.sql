@@ -2,7 +2,7 @@
 -- PostgreSQL database dump
 --
 
-\restrict FCUwyYCaMW10e2ztD0RPvdcCvzfydtGIF9zcguxB48inzyu3Fpau4oDxMP5gNPA
+\restrict 4nLcGk0uag9TH2Ymu7Kr2Kv5WM4f20nWpdAbyg9VdwIlT9x68r3PJ8SbeVo7fF3
 
 -- Dumped from database version 17.6 (Debian 17.6-2.pgdg13+1)
 -- Dumped by pg_dump version 17.6 (Debian 17.6-2.pgdg13+1)
@@ -7773,6 +7773,7 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 193707	{"title": {"chinese": "無人駅 The Animation "}, "synonyms_chinese": []}
 195068	{"title": {"chinese": "ピュアピュア ぺろぺろ プリンセス"}, "synonyms_chinese": []}
 178774	{"title": {"chinese": "風都偵探 假面騎士 Skull 的肖像"}, "synonyms_chinese": []}
+198188	{"title": {"chinese": "藤本樹 17-26"}, "synonyms_chinese": []}
 170018	{"title": {"chinese": "青之管弦樂 第二季"}, "synonyms_chinese": []}
 157692	{"title": {"chinese": "龍族II 悼亡者之瞳"}, "synonyms_chinese": []}
 122511	{"title": {"chinese": "龍族"}, "synonyms_chinese": []}
@@ -7796,5 +7797,5 @@ ALTER TABLE ONLY public.anilist_chinese
 -- PostgreSQL database dump complete
 --
 
-\unrestrict FCUwyYCaMW10e2ztD0RPvdcCvzfydtGIF9zcguxB48inzyu3Fpau4oDxMP5gNPA
+\unrestrict 4nLcGk0uag9TH2Ymu7Kr2Kv5WM4f20nWpdAbyg9VdwIlT9x68r3PJ8SbeVo7fF3
 

@@ -7732,6 +7732,7 @@ const db = new Map([
 [193707,{title:"無人駅 The Animation ",synonyms:[]}],
 [195068,{title:"ピュアピュア ぺろぺろ プリンセス",synonyms:[]}],
 [178774,{title:"風都偵探 假面騎士 Skull 的肖像",synonyms:[]}],
+[198188,{title:"藤本樹 17-26",synonyms:[]}],
 [170018,{title:"青之管弦樂 第二季",synonyms:[]}],
 [157692,{title:"龍族II 悼亡者之瞳",synonyms:[]}],
 [122511,{title:"龍族",synonyms:[]}],
