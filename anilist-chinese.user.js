@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      3.2025.11.14
+// @version      3.2025.11.27
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -7757,7 +7757,8 @@ var database = [
 {id:195034,title:"これってナ～ニ？"},
 {id:196750,title:"シスターブリーダー"},
 {id:195033,title:"危険な森 おにごっこ"},
-{id:154064,title:"Make A Girl"}
+{id:154064,title:"Make A Girl"},
+{id:179852,title:"劇場版 物怪 MONONOKE 火鼠"}
 ];
 
 var updating;
