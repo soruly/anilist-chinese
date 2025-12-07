@@ -7741,7 +7741,8 @@ const db = new Map([
 [196750,{title:"シスターブリーダー",synonyms:[]}],
 [195033,{title:"危険な森 おにごっこ",synonyms:[]}],
 [154064,{title:"Make A Girl",synonyms:["伊人制造"]}],
-[179852,{title:"劇場版 物怪 MONONOKE 火鼠",synonyms:[]}]
+[179852,{title:"劇場版 物怪 MONONOKE 火鼠",synonyms:[]}],
+[2907,{title:"超級小黑咪",synonyms:["霹靂酷樂貓","超級酷樂貓"]}]
 ]);
 
 async function handleRequest(req) {
