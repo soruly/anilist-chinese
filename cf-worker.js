@@ -7742,7 +7742,13 @@ const db = new Map([
 [195033,{title:"危険な森 おにごっこ",synonyms:[]}],
 [154064,{title:"Make A Girl",synonyms:["伊人制造"]}],
 [179852,{title:"劇場版 物怪 MONONOKE 火鼠",synonyms:[]}],
-[2907,{title:"超級小黑咪",synonyms:["霹靂酷樂貓","超級酷樂貓"]}]
+[2907,{title:"超級小黑咪",synonyms:["霹靂酷樂貓","超級酷樂貓"]}],
+[194353,{title:"ちょろ・めす・でいず",synonyms:[]}],
+[195360,{title:"ハニーブロンド2",synonyms:[]}],
+[196722,{title:"レイカは華麗な僕の女王 THE ANIMATION",synonyms:[]}],
+[198048,{title:"夏妻",synonyms:[]}],
+[196547,{title:"Hな義姉シリーズ The Animation",synonyms:[]}],
+[196540,{title:"聖痕のアリア",synonyms:[]}]
 ]);
 
 async function handleRequest(req) {

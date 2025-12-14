@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      3.2025.12.7
+// @version      3.2025.12.14
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -7759,7 +7759,13 @@ var database = [
 {id:195033,title:"危険な森 おにごっこ"},
 {id:154064,title:"Make A Girl"},
 {id:179852,title:"劇場版 物怪 MONONOKE 火鼠"},
-{id:2907,title:"超級小黑咪"}
+{id:2907,title:"超級小黑咪"},
+{id:194353,title:"ちょろ・めす・でいず"},
+{id:195360,title:"ハニーブロンド2"},
+{id:196722,title:"レイカは華麗な僕の女王 THE ANIMATION"},
+{id:198048,title:"夏妻"},
+{id:196547,title:"Hな義姉シリーズ The Animation"},
+{id:196540,title:"聖痕のアリア"}
 ];
 
 var updating;

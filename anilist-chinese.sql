@@ -2,7 +2,7 @@
 -- PostgreSQL database dump
 --
 
-\restrict Sb5ZZYd0tzd8F65ZSyjIwHya8YvEEAw2whysuH60aSasZxsbr3Sl2fMr4cgQgEL
+\restrict CDiPlBpk42UfWnzOwxLdP6CPBas3dJVm669kGJ8J7EeM2ya2JzcR7KPZQTUFfNI
 
 -- Dumped from database version 18.1 (Debian 18.1-1.pgdg13+2)
 -- Dumped by pg_dump version 18.1 (Debian 18.1-1.pgdg13+2)
@@ -7784,6 +7784,12 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 154064	{"title": {"chinese": "Make A Girl"}, "synonyms_chinese": ["伊人制造"]}
 179852	{"title": {"chinese": "劇場版 物怪 MONONOKE 火鼠"}, "synonyms_chinese": []}
 2907	{"title": {"chinese": "超級小黑咪"}, "synonyms_chinese": ["霹靂酷樂貓", "超級酷樂貓"]}
+194353	{"title": {"chinese": "ちょろ・めす・でいず"}, "synonyms_chinese": []}
+195360	{"title": {"chinese": "ハニーブロンド2"}, "synonyms_chinese": []}
+196722	{"title": {"chinese": "レイカは華麗な僕の女王 THE ANIMATION"}, "synonyms_chinese": []}
+198048	{"title": {"chinese": "夏妻"}, "synonyms_chinese": []}
+196547	{"title": {"chinese": "Hな義姉シリーズ The Animation"}, "synonyms_chinese": []}
+196540	{"title": {"chinese": "聖痕のアリア"}, "synonyms_chinese": []}
 \.
 
 
@@ -7799,5 +7805,5 @@ ALTER TABLE ONLY public.anilist_chinese
 -- PostgreSQL database dump complete
 --
 
-\unrestrict Sb5ZZYd0tzd8F65ZSyjIwHya8YvEEAw2whysuH60aSasZxsbr3Sl2fMr4cgQgEL
+\unrestrict CDiPlBpk42UfWnzOwxLdP6CPBas3dJVm669kGJ8J7EeM2ya2JzcR7KPZQTUFfNI
 
