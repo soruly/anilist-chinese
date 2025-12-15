@@ -3395,6 +3395,7 @@ const db = new Map([
 [20921,{title:"Cardfight!! Vanguard G",synonyms:[]}],
 [20922,{title:"夜之小雙俠",synonyms:["夜晚的小雙俠","夜晚的正義雙俠"]}],
 [20923,{title:"食戟之靈",synonyms:[]}],
+[198344,{title:"牝を狩る村",synonyms:[]}],
 [20924,{title:"單色小姐 OVA - MANAGER",synonyms:["黑白小姐 OVA - MANAGER"]}],
 [20928,{title:"聖鬥士星矢 黃金魂",synonyms:[]}],
 [20929,{title:"血型君 2",synonyms:["血型家族 2","血型小將ABO 2"]}],
@@ -7748,7 +7749,10 @@ const db = new Map([
 [196722,{title:"レイカは華麗な僕の女王 THE ANIMATION",synonyms:[]}],
 [198048,{title:"夏妻",synonyms:[]}],
 [196547,{title:"Hな義姉シリーズ The Animation",synonyms:[]}],
-[196540,{title:"聖痕のアリア",synonyms:[]}]
+[196540,{title:"聖痕のアリア",synonyms:[]}],
+[200228,{title:"おしかけ！爆乳ギャルハーレム性活",synonyms:[]}],
+[196116,{title:"ながちち永井さん THE ANIMATION",synonyms:[]}],
+[198046,{title:"ドＳなペット",synonyms:[]}]
 ]);
 
 async function handleRequest(req) {

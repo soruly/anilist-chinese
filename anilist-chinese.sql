@@ -2,7 +2,7 @@
 -- PostgreSQL database dump
 --
 
-\restrict CDiPlBpk42UfWnzOwxLdP6CPBas3dJVm669kGJ8J7EeM2ya2JzcR7KPZQTUFfNI
+\restrict sUf2hZ9yayE4pdWXvoA6dNaqcT7d5hcEiMjAjCKfnFkMLIhrFHI9n9PllaBhfhn
 
 -- Dumped from database version 18.1 (Debian 18.1-1.pgdg13+2)
 -- Dumped by pg_dump version 18.1 (Debian 18.1-1.pgdg13+2)
@@ -3436,6 +3436,7 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 20921	{"title": {"chinese": "Cardfight!! Vanguard G"}, "synonyms_chinese": []}
 20922	{"title": {"chinese": "夜之小雙俠"}, "synonyms_chinese": ["夜晚的小雙俠", "夜晚的正義雙俠"]}
 20923	{"title": {"chinese": "食戟之靈"}, "synonyms_chinese": []}
+198344	{"title": {"chinese": "牝を狩る村"}, "synonyms_chinese": []}
 20924	{"title": {"chinese": "單色小姐 OVA - MANAGER"}, "synonyms_chinese": ["黑白小姐 OVA - MANAGER"]}
 20928	{"title": {"chinese": "聖鬥士星矢 黃金魂"}, "synonyms_chinese": []}
 20929	{"title": {"chinese": "血型君 2"}, "synonyms_chinese": ["血型家族 2", "血型小將ABO 2"]}
@@ -7790,6 +7791,9 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 198048	{"title": {"chinese": "夏妻"}, "synonyms_chinese": []}
 196547	{"title": {"chinese": "Hな義姉シリーズ The Animation"}, "synonyms_chinese": []}
 196540	{"title": {"chinese": "聖痕のアリア"}, "synonyms_chinese": []}
+200228	{"title": {"chinese": "おしかけ！爆乳ギャルハーレム性活"}, "synonyms_chinese": []}
+196116	{"title": {"chinese": "ながちち永井さん THE ANIMATION"}, "synonyms_chinese": []}
+198046	{"title": {"chinese": "ドＳなペット"}, "synonyms_chinese": []}
 \.
 
 
@@ -7805,5 +7809,5 @@ ALTER TABLE ONLY public.anilist_chinese
 -- PostgreSQL database dump complete
 --
 
-\unrestrict CDiPlBpk42UfWnzOwxLdP6CPBas3dJVm669kGJ8J7EeM2ya2JzcR7KPZQTUFfNI
+\unrestrict sUf2hZ9yayE4pdWXvoA6dNaqcT7d5hcEiMjAjCKfnFkMLIhrFHI9n9PllaBhfhn
 

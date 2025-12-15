@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      3.2025.12.14
+// @version      3.2025.12.15
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -3412,6 +3412,7 @@ var database = [
 {id:20921,title:"Cardfight!! Vanguard G"},
 {id:20922,title:"夜之小雙俠"},
 {id:20923,title:"食戟之靈"},
+{id:198344,title:"牝を狩る村"},
 {id:20924,title:"單色小姐 OVA - MANAGER"},
 {id:20928,title:"聖鬥士星矢 黃金魂"},
 {id:20929,title:"血型君 2"},
@@ -7765,7 +7766,10 @@ var database = [
 {id:196722,title:"レイカは華麗な僕の女王 THE ANIMATION"},
 {id:198048,title:"夏妻"},
 {id:196547,title:"Hな義姉シリーズ The Animation"},
-{id:196540,title:"聖痕のアリア"}
+{id:196540,title:"聖痕のアリア"},
+{id:200228,title:"おしかけ！爆乳ギャルハーレム性活"},
+{id:196116,title:"ながちち永井さん THE ANIMATION"},
+{id:198046,title:"ドＳなペット"}
 ];
 
 var updating;
