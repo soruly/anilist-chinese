@@ -7752,7 +7752,8 @@ const db = new Map([
 [196540,{title:"聖痕のアリア",synonyms:[]}],
 [200228,{title:"おしかけ！爆乳ギャルハーレム性活",synonyms:[]}],
 [196116,{title:"ながちち永井さん THE ANIMATION",synonyms:[]}],
-[198046,{title:"ドＳなペット",synonyms:[]}]
+[198046,{title:"ドＳなペット",synonyms:[]}],
+[194712,{title:"NUKITASHI 住在拔作島上的我該如何是好？ OVAs",synonyms:[]}]
 ]);
 
 async function handleRequest(req) {

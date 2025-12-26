@@ -2,7 +2,7 @@
 -- PostgreSQL database dump
 --
 
-\restrict EQ4RfAMQf1EjSQUa0jlyDMfWot67TN1ksiWsqaFsRwo3PP0K8TMNDqUvzSG5tR9
+\restrict WxXrM63V1FvhIdY7XdrV8P8uyI9jv5hW3VSpDktg1BenYtjOCtXflXhLQaB4xyr
 
 -- Dumped from database version 18.1 (Debian 18.1-1.pgdg13+2)
 -- Dumped by pg_dump version 18.1 (Debian 18.1-1.pgdg13+2)
@@ -7794,6 +7794,7 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 200228	{"title": {"chinese": "おしかけ！爆乳ギャルハーレム性活"}, "synonyms_chinese": []}
 196116	{"title": {"chinese": "ながちち永井さん THE ANIMATION"}, "synonyms_chinese": []}
 198046	{"title": {"chinese": "ドＳなペット"}, "synonyms_chinese": []}
+194712	{"title": {"chinese": "NUKITASHI 住在拔作島上的我該如何是好？ OVAs"}, "synonyms_chinese": []}
 \.
 
 
@@ -7809,5 +7810,5 @@ ALTER TABLE ONLY public.anilist_chinese
 -- PostgreSQL database dump complete
 --
 
-\unrestrict EQ4RfAMQf1EjSQUa0jlyDMfWot67TN1ksiWsqaFsRwo3PP0K8TMNDqUvzSG5tR9
+\unrestrict WxXrM63V1FvhIdY7XdrV8P8uyI9jv5hW3VSpDktg1BenYtjOCtXflXhLQaB4xyr
 

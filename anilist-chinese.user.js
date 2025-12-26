@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      3.2025.12.15
+// @version      3.2025.12.26
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -7769,7 +7769,8 @@ var database = [
 {id:196540,title:"聖痕のアリア"},
 {id:200228,title:"おしかけ！爆乳ギャルハーレム性活"},
 {id:196116,title:"ながちち永井さん THE ANIMATION"},
-{id:198046,title:"ドＳなペット"}
+{id:198046,title:"ドＳなペット"},
+{id:194712,title:"NUKITASHI 住在拔作島上的我該如何是好？ OVAs"}
 ];
 
 var updating;
