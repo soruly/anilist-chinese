@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      3.2025.12.26
+// @version      3.2025.12.29
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -7770,7 +7770,10 @@ var database = [
 {id:200228,title:"おしかけ！爆乳ギャルハーレム性活"},
 {id:196116,title:"ながちち永井さん THE ANIMATION"},
 {id:198046,title:"ドＳなペット"},
-{id:194712,title:"NUKITASHI 住在拔作島上的我該如何是好？ OVAs"}
+{id:194712,title:"NUKITASHI 住在拔作島上的我該如何是好？ OVAs"},
+{id:5116,title:"Candy☆Boy EX01"},
+{id:6479,title:"Candy☆Boy EX02"},
+{id:3456,title:"Candy☆Boy OVA"}
 ];
 
 var updating;

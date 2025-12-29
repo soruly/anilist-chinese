@@ -7753,7 +7753,10 @@ const db = new Map([
 [200228,{title:"おしかけ！爆乳ギャルハーレム性活",synonyms:[]}],
 [196116,{title:"ながちち永井さん THE ANIMATION",synonyms:[]}],
 [198046,{title:"ドＳなペット",synonyms:[]}],
-[194712,{title:"NUKITASHI 住在拔作島上的我該如何是好？ OVAs",synonyms:[]}]
+[194712,{title:"NUKITASHI 住在拔作島上的我該如何是好？ OVAs",synonyms:[]}],
+[5116,{title:"Candy☆Boy EX01",synonyms:[]}],
+[6479,{title:"Candy☆Boy EX02",synonyms:[]}],
+[3456,{title:"Candy☆Boy OVA",synonyms:[]}]
 ]);
 
 async function handleRequest(req) {

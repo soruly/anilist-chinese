@@ -2,7 +2,7 @@
 -- PostgreSQL database dump
 --
 
-\restrict oxQkmrDcjnNvJNcJW4IsfljvkMWqINW0gub4PJFE4MrHiEuDVqzBeABFMeF526a
+\restrict b6fRTy8dEqEf0S89N2NKoNyETAsoECcmOR5KHP3qLKJGagXR08ar1WIdrdgjTHZ
 
 -- Dumped from database version 18.1 (Debian 18.1-1.pgdg13+2)
 -- Dumped by pg_dump version 18.1 (Debian 18.1-1.pgdg13+2)
@@ -7795,6 +7795,9 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 196116	{"title": {"chinese": "ながちち永井さん THE ANIMATION"}, "synonyms_chinese": []}
 198046	{"title": {"chinese": "ドＳなペット"}, "synonyms_chinese": []}
 194712	{"title": {"chinese": "NUKITASHI 住在拔作島上的我該如何是好？ OVAs"}, "synonyms_chinese": []}
+5116	{"title": {"chinese": "Candy☆Boy EX01"}, "synonyms_chinese": []}
+6479	{"title": {"chinese": "Candy☆Boy EX02"}, "synonyms_chinese": []}
+3456	{"title": {"chinese": "Candy☆Boy OVA"}, "synonyms_chinese": []}
 \.
 
 
@@ -7810,5 +7813,5 @@ ALTER TABLE ONLY public.anilist_chinese
 -- PostgreSQL database dump complete
 --
 
-\unrestrict oxQkmrDcjnNvJNcJW4IsfljvkMWqINW0gub4PJFE4MrHiEuDVqzBeABFMeF526a
+\unrestrict b6fRTy8dEqEf0S89N2NKoNyETAsoECcmOR5KHP3qLKJGagXR08ar1WIdrdgjTHZ
 
