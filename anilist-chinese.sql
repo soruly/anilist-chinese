@@ -2,7 +2,7 @@
 -- PostgreSQL database dump
 --
 
-\restrict b6fRTy8dEqEf0S89N2NKoNyETAsoECcmOR5KHP3qLKJGagXR08ar1WIdrdgjTHZ
+\restrict vme9LpJG9VbwOch10qHgx3O1kKkG0QO3oYDz3b7PABfaCJSdxDXhjYpKMsXjZiX
 
 -- Dumped from database version 18.1 (Debian 18.1-1.pgdg13+2)
 -- Dumped by pg_dump version 18.1 (Debian 18.1-1.pgdg13+2)
@@ -7798,6 +7798,92 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 5116	{"title": {"chinese": "Candy☆Boy EX01"}, "synonyms_chinese": []}
 6479	{"title": {"chinese": "Candy☆Boy EX02"}, "synonyms_chinese": []}
 3456	{"title": {"chinese": "Candy☆Boy OVA"}, "synonyms_chinese": []}
+187921	{"title": {"chinese": "終末的女武神 III"}, "synonyms_chinese": []}
+179062	{"title": {"chinese": "炎炎消防隊 2 Part 2"}, "synonyms_chinese": []}
+182587	{"title": {"chinese": "【我推的孩子】第三季"}, "synonyms_chinese": []}
+179930	{"title": {"chinese": "Undead Unluck 冬季篇"}, "synonyms_chinese": ["不死不運 凜冬篇"]}
+714	{"title": {"chinese": ""}, "synonyms_chinese": []}
+156110	{"title": {"chinese": "仙王的日常生活 第四季"}, "synonyms_chinese": []}
+200556	{"title": {"chinese": "High School! 奇面組"}, "synonyms_chinese": ["高校！奇面組"]}
+163144	{"title": {"chinese": "TRIGUN STARGAZE"}, "synonyms_chinese": []}
+189137	{"title": {"chinese": "終究，與你相戀。第二季"}, "synonyms_chinese": []}
+194884	{"title": {"chinese": "輝夜姬想讓人告白？特別篇「邁向大人的階梯」"}, "synonyms_chinese": []}
+187989	{"title": {"chinese": "勇者之渣"}, "synonyms_chinese": []}
+191205	{"title": {"chinese": "安逸領主的愉快領地防衛～用生產系魔術將無名村改造成最強要塞都市～"}, "synonyms_chinese": []}
+198374	{"title": {"chinese": "非人學生與厭世教師"}, "synonyms_chinese": []}
+184951	{"title": {"chinese": "相反的你和我"}, "synonyms_chinese": []}
+192507	{"title": {"chinese": "皎潔深宵之月"}, "synonyms_chinese": []}
+182255	{"title": {"chinese": "葬送的芙莉蓮 第二季"}, "synonyms_chinese": []}
+199005	{"title": {"chinese": "住在神奈川的精靈"}, "synonyms_chinese": []}
+203939	{"title": {"chinese": "闇芝居 16"}, "synonyms_chinese": []}
+202955	{"title": {"chinese": "稜鏡戀曲"}, "synonyms_chinese": []}
+198720	{"title": {"chinese": "北斗之拳 拳王軍雜魚們的輓歌"}, "synonyms_chinese": []}
+175473	{"title": {"chinese": "Duel Masters LOST ～追憶的水晶～"}, "synonyms_chinese": []}
+197474	{"title": {"chinese": "新劇場版 銀魂－吉原大炎上－"}, "synonyms_chinese": []}
+176370	{"title": {"chinese": "公主殿下，「拷問」的時間到了 第二季"}, "synonyms_chinese": []}
+159981	{"title": {"chinese": "Future Kid Takara"}, "synonyms_chinese": []}
+182206	{"title": {"chinese": "劇場版 關於我轉生變成史萊姆這檔事 蒼海之淚篇"}, "synonyms_chinese": []}
+198368	{"title": {"chinese": "多啦A夢：新大雄的海底鬼岩城"}, "synonyms_chinese": []}
+185753	{"title": {"chinese": "MF GHOST Season 3"}, "synonyms_chinese": ["燃油車鬥魂 第三季"]}
+186333	{"title": {"chinese": "魔術師庫諾看得見一切"}, "synonyms_chinese": []}
+187264	{"title": {"chinese": "泛而不精的我被逐出了勇者隊伍"}, "synonyms_chinese": []}
+197731	{"title": {"chinese": "打工仔的拷問日常"}, "synonyms_chinese": []}
+189259	{"title": {"chinese": "有栖川煉其實是個女生吧。"}, "synonyms_chinese": []}
+194028	{"title": {"chinese": "可以幫忙洗乾淨嗎？"}, "synonyms_chinese": []}
+183984	{"title": {"chinese": "阿爾涅事件簿"}, "synonyms_chinese": []}
+194318	{"title": {"chinese": "鎧真傳 Samurai Troopers"}, "synonyms_chinese": []}
+195515	{"title": {"chinese": "身為魔族的我 想向勇者小隊的可愛女孩告白"}, "synonyms_chinese": []}
+182771	{"title": {"chinese": "優雅貴族的休假指南。"}, "synonyms_chinese": []}
+166613	{"title": {"chinese": "地獄樂 第二季"}, "synonyms_chinese": []}
+192261	{"title": {"chinese": "29 歲單身中堅冒險家的日常"}, "synonyms_chinese": []}
+183270	{"title": {"chinese": "厄里斯的聖杯"}, "synonyms_chinese": []}
+185039	{"title": {"chinese": "透明男子與人類女孩"}, "synonyms_chinese": []}
+185514	{"title": {"chinese": "蘑菇魔女"}, "synonyms_chinese": []}
+141852	{"title": {"chinese": "仙王的日常生活 第三季"}, "synonyms_chinese": []}
+172463	{"title": {"chinese": "咒術迴戰 死滅洄游 前篇"}, "synonyms_chinese": []}
+204584	{"title": {"chinese": "Princess Principal: Crown Handler 第5章"}, "synonyms_chinese": []}
+185857	{"title": {"chinese": "仙王的日常生活 第五季"}, "synonyms_chinese": []}
+187892	{"title": {"chinese": "ALL YOU NEED IS KILL"}, "synonyms_chinese": []}
+199112	{"title": {"chinese": "我們不可能成為戀人！絕對不行。（※似乎可行？）～NextShine～"}, "synonyms_chinese": []}
+195322	{"title": {"chinese": "正義使者 - 我的英雄學院之非法英雄 第二季"}, "synonyms_chinese": []}
+167152	{"title": {"chinese": "判處勇者刑"}, "synonyms_chinese": []}
+178005	{"title": {"chinese": "現在的是哪一個多聞！？"}, "synonyms_chinese": []}
+177385	{"title": {"chinese": "異國日記"}, "synonyms_chinese": []}
+177580	{"title": {"chinese": "花樣少年少女"}, "synonyms_chinese": []}
+185993	{"title": {"chinese": "貴族轉生～得天眷顧一出生就獲得最強力量～"}, "synonyms_chinese": []}
+166521	{"title": {"chinese": "黃金神威 最終章"}, "synonyms_chinese": []}
+176276	{"title": {"chinese": "魔都精兵的奴隸 第二季"}, "synonyms_chinese": []}
+189565	{"title": {"chinese": "青梅竹馬的戀愛喜劇無法成立"}, "synonyms_chinese": []}
+191967	{"title": {"chinese": "地獄老師 (2025) Part 2"}, "synonyms_chinese": ["靈異教師神眉 (2025) Part 2"]}
+177679	{"title": {"chinese": "達爾文事變"}, "synonyms_chinese": []}
+183661	{"title": {"chinese": "異世界的處置依社畜而定"}, "synonyms_chinese": []}
+187942	{"title": {"chinese": "午夜的傾心旋律"}, "synonyms_chinese": []}
+194742	{"title": {"chinese": "魔王的女兒太溫柔了!!"}, "synonyms_chinese": []}
+180746	{"title": {"chinese": "靠死亡遊戲混飯吃。"}, "synonyms_chinese": []}
+191718	{"title": {"chinese": "「憑妳也想討伐魔王？」被勇者小隊逐出隊伍，只好在王都自在過活"}, "synonyms_chinese": []}
+185262	{"title": {"chinese": "地獄模式 ～喜歡挑戰特殊成就的玩家在廢設定的異世界成為無雙～"}, "synonyms_chinese": []}
+192867	{"title": {"chinese": "和機器人啪啪啪能算在經驗人數裡嗎？？"}, "synonyms_chinese": []}
+187901	{"title": {"chinese": "Dead Account"}, "synonyms_chinese": ["死亡帳號"]}
+187941	{"title": {"chinese": "轉生之後的我變成了龍蛋～目標是世界最強～"}, "synonyms_chinese": []}
+183660	{"title": {"chinese": "神八小妹不可怕"}, "synonyms_chinese": []}
+187062	{"title": {"chinese": "大江戶烈火殺手 - 鳳凰傳說"}, "synonyms_chinese": []}
+195518	{"title": {"chinese": "被鄰國王子溺愛的反派千金"}, "synonyms_chinese": []}
+201903	{"title": {"chinese": "超時空輝耀姬！"}, "synonyms_chinese": []}
+195384	{"title": {"chinese": "迷宮的栞"}, "synonyms_chinese": []}
+204585	{"title": {"chinese": "Princess Principal: Crown Handler 第6章"}, "synonyms_chinese": []}
+189275	{"title": {"chinese": "Medalist 第二季"}, "synonyms_chinese": ["金牌得主 第二季"]}
+189956	{"title": {"chinese": "祈念之樹"}, "synonyms_chinese": []}
+181443	{"title": {"chinese": "DARK MOON：月之神壇"}, "synonyms_chinese": []}
+187508	{"title": {"chinese": "Duel Masters LOST ～忘卻的太陽～"}, "synonyms_chinese": []}
+187507	{"title": {"chinese": "Duel Masters LOST ～月下的死神～"}, "synonyms_chinese": []}
+182317	{"title": {"chinese": "我內心的糟糕念頭 劇場版"}, "synonyms_chinese": []}
+197097	{"title": {"chinese": "綻放的巴黎之星"}, "synonyms_chinese": []}
+198373	{"title": {"chinese": "劇場版「暗殺教室」大家的時間"}, "synonyms_chinese": []}
+189258	{"title": {"chinese": "青之壬生浪 第二季 芹澤暗殺篇"}, "synonyms_chinese": []}
+202419	{"title": {"chinese": "你還不懂群馬～令和版～ "}, "synonyms_chinese": []}
+204432	{"title": {"chinese": "CHOPPER's"}, "synonyms_chinese": []}
+203296	{"title": {"chinese": "Cardfight!! Vanguard: Divinez 幻真星戰篇"}, "synonyms_chinese": []}
+203127	{"title": {"chinese": "Princess Principal: Crown Handler 第4章 OVA"}, "synonyms_chinese": []}
 \.
 
 
@@ -7813,5 +7899,5 @@ ALTER TABLE ONLY public.anilist_chinese
 -- PostgreSQL database dump complete
 --
 
-\unrestrict b6fRTy8dEqEf0S89N2NKoNyETAsoECcmOR5KHP3qLKJGagXR08ar1WIdrdgjTHZ
+\unrestrict vme9LpJG9VbwOch10qHgx3O1kKkG0QO3oYDz3b7PABfaCJSdxDXhjYpKMsXjZiX
 
