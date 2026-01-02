@@ -2,7 +2,7 @@
 -- PostgreSQL database dump
 --
 
-\restrict HeUSG6AnoDf0jPhQLXfkn0H1KwjdZdsu1NILMILFEbfigAts9yczG8tLEzFCupE
+\restrict hz1BI3Uah3u3jH2AY2afpie2K9BLERXDXF3FKIAt6dFDVzkhP9GwPGUxE9VYIeq
 
 -- Dumped from database version 18.1 (Debian 18.1-1.pgdg13+2)
 -- Dumped by pg_dump version 18.1 (Debian 18.1-1.pgdg13+2)
@@ -7807,7 +7807,6 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 200556	{"title": {"chinese": "High School! 奇面組"}, "synonyms_chinese": ["高校！奇面組"]}
 163144	{"title": {"chinese": "TRIGUN STARGAZE"}, "synonyms_chinese": []}
 189137	{"title": {"chinese": "終究，與你相戀。第二季"}, "synonyms_chinese": []}
-194884	{"title": {"chinese": "輝夜姬想讓人告白？特別篇「邁向大人的階梯」"}, "synonyms_chinese": []}
 187989	{"title": {"chinese": "勇者之渣"}, "synonyms_chinese": []}
 191205	{"title": {"chinese": "安逸領主的愉快領地防衛～用生產系魔術將無名村改造成最強要塞都市～"}, "synonyms_chinese": []}
 198374	{"title": {"chinese": "非人學生與厭世教師"}, "synonyms_chinese": []}
@@ -7822,6 +7821,7 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 197474	{"title": {"chinese": "新劇場版 銀魂－吉原大炎上－"}, "synonyms_chinese": []}
 176370	{"title": {"chinese": "公主殿下，「拷問」的時間到了 第二季"}, "synonyms_chinese": []}
 159981	{"title": {"chinese": "Future Kid Takara"}, "synonyms_chinese": []}
+194884	{"title": {"chinese": "輝夜姬想讓人告白 邁向大人的階梯"}, "synonyms_chinese": []}
 182206	{"title": {"chinese": "劇場版 關於我轉生變成史萊姆這檔事 蒼海之淚篇"}, "synonyms_chinese": []}
 198368	{"title": {"chinese": "多啦A夢：新大雄的海底鬼岩城"}, "synonyms_chinese": []}
 185753	{"title": {"chinese": "MF GHOST Season 3"}, "synonyms_chinese": ["燃油車鬥魂 第三季"]}
@@ -7899,5 +7899,5 @@ ALTER TABLE ONLY public.anilist_chinese
 -- PostgreSQL database dump complete
 --
 
-\unrestrict HeUSG6AnoDf0jPhQLXfkn0H1KwjdZdsu1NILMILFEbfigAts9yczG8tLEzFCupE
+\unrestrict hz1BI3Uah3u3jH2AY2afpie2K9BLERXDXF3FKIAt6dFDVzkhP9GwPGUxE9VYIeq
 

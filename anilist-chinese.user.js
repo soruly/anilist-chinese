@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      3.2025.12.30
+// @version      3.2026.1.2
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -7783,7 +7783,6 @@ var database = [
 {id:200556,title:"High School! 奇面組"},
 {id:163144,title:"TRIGUN STARGAZE"},
 {id:189137,title:"終究，與你相戀。第二季"},
-{id:194884,title:"輝夜姬想讓人告白？特別篇「邁向大人的階梯」"},
 {id:187989,title:"勇者之渣"},
 {id:191205,title:"安逸領主的愉快領地防衛～用生產系魔術將無名村改造成最強要塞都市～"},
 {id:198374,title:"非人學生與厭世教師"},
@@ -7798,6 +7797,7 @@ var database = [
 {id:197474,title:"新劇場版 銀魂－吉原大炎上－"},
 {id:176370,title:"公主殿下，「拷問」的時間到了 第二季"},
 {id:159981,title:"Future Kid Takara"},
+{id:194884,title:"輝夜姬想讓人告白 邁向大人的階梯"},
 {id:182206,title:"劇場版 關於我轉生變成史萊姆這檔事 蒼海之淚篇"},
 {id:198368,title:"多啦A夢：新大雄的海底鬼岩城"},
 {id:185753,title:"MF GHOST Season 3"},
