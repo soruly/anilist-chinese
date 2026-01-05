@@ -2,7 +2,7 @@
 -- PostgreSQL database dump
 --
 
-\restrict cNvf73Zz7dHmhDQHJOiBMv5Y7tWgnGcrF5nZU1pA4cUPzWNMjIW93IVCrDmrgNf
+\restrict Cr87JuHPqvxLPpbXxLnZFxOVKAQxdZUTKjhGp5Q99vsrQUvmFNaOCpbpOFkgUaq
 
 -- Dumped from database version 18.1 (Debian 18.1-1.pgdg13+2)
 -- Dumped by pg_dump version 18.1 (Debian 18.1-1.pgdg13+2)
@@ -4159,7 +4159,6 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 21837	{"title": {"chinese": "學園帥哥"}, "synonyms_chinese": []}
 21838	{"title": {"chinese": "終末的伊澤塔"}, "synonyms_chinese": []}
 21839	{"title": {"chinese": "12歲。〜小小的胸口心跳加速〜 2"}, "synonyms_chinese": ["12歲。~小小的心動~ 2"]}
-21840	{"title": {"chinese": "一人之下 the outcast"}, "synonyms_chinese": []}
 21841	{"title": {"chinese": "小桃小栗Love Love物語"}, "synonyms_chinese": []}
 21842	{"title": {"chinese": "舌尖上的義大利"}, "synonyms_chinese": ["Piace: 我的義大利料理"]}
 21847	{"title": {"chinese": "烏龍派出所特別篇：兩津勘吉最後的一天"}, "synonyms_chinese": []}
@@ -4486,7 +4485,6 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 98566	{"title": {"chinese": "庭球社 9"}, "synonyms_chinese": ["女高網球部 9", "網球少女 9", "網球並不可笑嘛 9", "女子搞笑網球 9"]}
 98572	{"title": {"chinese": "乾物妹小埋 R"}, "synonyms_chinese": ["我家有個魚乾妹 R"]}
 98573	{"title": {"chinese": "相對世界"}, "synonyms_chinese": []}
-98574	{"title": {"chinese": "一人之下 The Outcast 2"}, "synonyms_chinese": []}
 98575	{"title": {"chinese": "To Be Heroine"}, "synonyms_chinese": []}
 98576	{"title": {"chinese": "Chaos;Child: Silent Sky"}, "synonyms_chinese": []}
 98577	{"title": {"chinese": "浦和的小調 2"}, "synonyms_chinese": ["浦和的小調 2"]}
@@ -5160,7 +5158,6 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 105334	{"title": {"chinese": "Fruits Basket"}, "synonyms_chinese": ["魔法水果籃"]}
 105387	{"title": {"chinese": "迷你刀使"}, "synonyms_chinese": ["迷你馭刀巫女"]}
 105391	{"title": {"chinese": "一騎當千 Western Wolves"}, "synonyms_chinese": []}
-105401	{"title": {"chinese": "一人之下3"}, "synonyms_chinese": []}
 105562	{"title": {"chinese": "Rune's Pharmacy"}, "synonyms_chinese": []}
 105595	{"title": {"chinese": "機動戰士鋼彈 閃光的哈薩威"}, "synonyms_chinese": []}
 105606	{"title": {"chinese": "思春期セックス"}, "synonyms_chinese": []}
@@ -7840,6 +7837,7 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 185039	{"title": {"chinese": "透明男子與人類女孩"}, "synonyms_chinese": []}
 185514	{"title": {"chinese": "蘑菇魔女"}, "synonyms_chinese": []}
 141852	{"title": {"chinese": "仙王的日常生活 第三季"}, "synonyms_chinese": []}
+98574	{"title": {"chinese": "一人之下 2"}, "synonyms_chinese": []}
 172463	{"title": {"chinese": "咒術迴戰 死滅洄游 前篇"}, "synonyms_chinese": []}
 204584	{"title": {"chinese": "Princess Principal: Crown Handler 第5章"}, "synonyms_chinese": []}
 185857	{"title": {"chinese": "仙王的日常生活 第五季"}, "synonyms_chinese": []}
@@ -7882,8 +7880,15 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 189258	{"title": {"chinese": "青之壬生浪 第二季 芹澤暗殺篇"}, "synonyms_chinese": []}
 202419	{"title": {"chinese": "你還不懂群馬～令和版～ "}, "synonyms_chinese": []}
 204432	{"title": {"chinese": "CHOPPER's"}, "synonyms_chinese": []}
+142298	{"title": {"chinese": "一人之下 5"}, "synonyms_chinese": []}
+122631	{"title": {"chinese": "一人之下 4"}, "synonyms_chinese": []}
 203296	{"title": {"chinese": "Cardfight!! Vanguard: Divinez 幻真星戰篇"}, "synonyms_chinese": []}
 203127	{"title": {"chinese": "Princess Principal: Crown Handler 第4章 OVA"}, "synonyms_chinese": []}
+21840	{"title": {"chinese": "一人之下"}, "synonyms_chinese": []}
+105401	{"title": {"chinese": "一人之下 3"}, "synonyms_chinese": []}
+193623	{"title": {"chinese": "遠井同學想擁有青春！『笨蛋與手機與羅曼史與』"}, "synonyms_chinese": []}
+198749	{"title": {"chinese": "一人之下 6"}, "synonyms_chinese": []}
+195494	{"title": {"chinese": "家 —成年的分界線—"}, "synonyms_chinese": []}
 \.
 
 
@@ -7899,5 +7904,5 @@ ALTER TABLE ONLY public.anilist_chinese
 -- PostgreSQL database dump complete
 --
 
-\unrestrict cNvf73Zz7dHmhDQHJOiBMv5Y7tWgnGcrF5nZU1pA4cUPzWNMjIW93IVCrDmrgNf
+\unrestrict Cr87JuHPqvxLPpbXxLnZFxOVKAQxdZUTKjhGp5Q99vsrQUvmFNaOCpbpOFkgUaq
 

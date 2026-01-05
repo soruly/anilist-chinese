@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      3.2026.1.2
+// @version      3.2026.1.5
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -4135,7 +4135,6 @@ var database = [
 {id:21837,title:"學園帥哥"},
 {id:21838,title:"終末的伊澤塔"},
 {id:21839,title:"12歲。〜小小的胸口心跳加速〜 2"},
-{id:21840,title:"一人之下 the outcast"},
 {id:21841,title:"小桃小栗Love Love物語"},
 {id:21842,title:"舌尖上的義大利"},
 {id:21847,title:"烏龍派出所特別篇：兩津勘吉最後的一天"},
@@ -4462,7 +4461,6 @@ var database = [
 {id:98566,title:"庭球社 9"},
 {id:98572,title:"乾物妹小埋 R"},
 {id:98573,title:"相對世界"},
-{id:98574,title:"一人之下 The Outcast 2"},
 {id:98575,title:"To Be Heroine"},
 {id:98576,title:"Chaos;Child: Silent Sky"},
 {id:98577,title:"浦和的小調 2"},
@@ -5136,7 +5134,6 @@ var database = [
 {id:105334,title:"Fruits Basket"},
 {id:105387,title:"迷你刀使"},
 {id:105391,title:"一騎當千 Western Wolves"},
-{id:105401,title:"一人之下3"},
 {id:105562,title:"Rune's Pharmacy"},
 {id:105595,title:"機動戰士鋼彈 閃光的哈薩威"},
 {id:105606,title:"思春期セックス"},
@@ -7816,6 +7813,7 @@ var database = [
 {id:185039,title:"透明男子與人類女孩"},
 {id:185514,title:"蘑菇魔女"},
 {id:141852,title:"仙王的日常生活 第三季"},
+{id:98574,title:"一人之下 2"},
 {id:172463,title:"咒術迴戰 死滅洄游 前篇"},
 {id:204584,title:"Princess Principal: Crown Handler 第5章"},
 {id:185857,title:"仙王的日常生活 第五季"},
@@ -7858,8 +7856,15 @@ var database = [
 {id:189258,title:"青之壬生浪 第二季 芹澤暗殺篇"},
 {id:202419,title:"你還不懂群馬～令和版～ "},
 {id:204432,title:"CHOPPER's"},
+{id:142298,title:"一人之下 5"},
+{id:122631,title:"一人之下 4"},
 {id:203296,title:"Cardfight!! Vanguard: Divinez 幻真星戰篇"},
-{id:203127,title:"Princess Principal: Crown Handler 第4章 OVA"}
+{id:203127,title:"Princess Principal: Crown Handler 第4章 OVA"},
+{id:21840,title:"一人之下"},
+{id:105401,title:"一人之下 3"},
+{id:193623,title:"遠井同學想擁有青春！『笨蛋與手機與羅曼史與』"},
+{id:198749,title:"一人之下 6"},
+{id:195494,title:"家 —成年的分界線—"}
 ];
 
 var updating;

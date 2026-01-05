@@ -4118,7 +4118,6 @@ const db = new Map([
 [21837,{title:"學園帥哥",synonyms:[]}],
 [21838,{title:"終末的伊澤塔",synonyms:[]}],
 [21839,{title:"12歲。〜小小的胸口心跳加速〜 2",synonyms:["12歲。~小小的心動~ 2"]}],
-[21840,{title:"一人之下 the outcast",synonyms:[]}],
 [21841,{title:"小桃小栗Love Love物語",synonyms:[]}],
 [21842,{title:"舌尖上的義大利",synonyms:["Piace: 我的義大利料理"]}],
 [21847,{title:"烏龍派出所特別篇：兩津勘吉最後的一天",synonyms:[]}],
@@ -4445,7 +4444,6 @@ const db = new Map([
 [98566,{title:"庭球社 9",synonyms:["女高網球部 9","網球少女 9","網球並不可笑嘛 9","女子搞笑網球 9"]}],
 [98572,{title:"乾物妹小埋 R",synonyms:["我家有個魚乾妹 R"]}],
 [98573,{title:"相對世界",synonyms:[]}],
-[98574,{title:"一人之下 The Outcast 2",synonyms:[]}],
 [98575,{title:"To Be Heroine",synonyms:[]}],
 [98576,{title:"Chaos;Child: Silent Sky",synonyms:[]}],
 [98577,{title:"浦和的小調 2",synonyms:["浦和的小調 2"]}],
@@ -5119,7 +5117,6 @@ const db = new Map([
 [105334,{title:"Fruits Basket",synonyms:["魔法水果籃"]}],
 [105387,{title:"迷你刀使",synonyms:["迷你馭刀巫女"]}],
 [105391,{title:"一騎當千 Western Wolves",synonyms:[]}],
-[105401,{title:"一人之下3",synonyms:[]}],
 [105562,{title:"Rune's Pharmacy",synonyms:[]}],
 [105595,{title:"機動戰士鋼彈 閃光的哈薩威",synonyms:[]}],
 [105606,{title:"思春期セックス",synonyms:[]}],
@@ -7799,6 +7796,7 @@ const db = new Map([
 [185039,{title:"透明男子與人類女孩",synonyms:[]}],
 [185514,{title:"蘑菇魔女",synonyms:[]}],
 [141852,{title:"仙王的日常生活 第三季",synonyms:[]}],
+[98574,{title:"一人之下 2",synonyms:[]}],
 [172463,{title:"咒術迴戰 死滅洄游 前篇",synonyms:[]}],
 [204584,{title:"Princess Principal: Crown Handler 第5章",synonyms:[]}],
 [185857,{title:"仙王的日常生活 第五季",synonyms:[]}],
@@ -7841,8 +7839,15 @@ const db = new Map([
 [189258,{title:"青之壬生浪 第二季 芹澤暗殺篇",synonyms:[]}],
 [202419,{title:"你還不懂群馬～令和版～ ",synonyms:[]}],
 [204432,{title:"CHOPPER's",synonyms:[]}],
+[142298,{title:"一人之下 5",synonyms:[]}],
+[122631,{title:"一人之下 4",synonyms:[]}],
 [203296,{title:"Cardfight!! Vanguard: Divinez 幻真星戰篇",synonyms:[]}],
-[203127,{title:"Princess Principal: Crown Handler 第4章 OVA",synonyms:[]}]
+[203127,{title:"Princess Principal: Crown Handler 第4章 OVA",synonyms:[]}],
+[21840,{title:"一人之下",synonyms:[]}],
+[105401,{title:"一人之下 3",synonyms:[]}],
+[193623,{title:"遠井同學想擁有青春！『笨蛋與手機與羅曼史與』",synonyms:[]}],
+[198749,{title:"一人之下 6",synonyms:[]}],
+[195494,{title:"家 —成年的分界線—",synonyms:[]}]
 ]);
 
 async function handleRequest(req) {

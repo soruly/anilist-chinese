@@ -24022,11 +24022,6 @@
     ]
   },
   {
-    "id": 21840,
-    "title": "一人之下 the outcast",
-    "synonyms": []
-  },
-  {
     "id": 21841,
     "title": "小桃小栗Love Love物語",
     "synonyms": []
@@ -25958,11 +25953,6 @@
   {
     "id": 98573,
     "title": "相對世界",
-    "synonyms": []
-  },
-  {
-    "id": 98574,
-    "title": "一人之下 The Outcast 2",
     "synonyms": []
   },
   {
@@ -29842,11 +29832,6 @@
   {
     "id": 105391,
     "title": "一騎當千 Western Wolves",
-    "synonyms": []
-  },
-  {
-    "id": 105401,
-    "title": "一人之下3",
     "synonyms": []
   },
   {
@@ -44035,6 +44020,11 @@
     "synonyms": []
   },
   {
+    "id": 98574,
+    "title": "一人之下 2",
+    "synonyms": []
+  },
+  {
     "id": 172463,
     "title": "咒術迴戰 死滅洄游 前篇",
     "synonyms": []
@@ -44251,6 +44241,16 @@
     "synonyms": []
   },
   {
+    "id": 142298,
+    "title": "一人之下 5",
+    "synonyms": []
+  },
+  {
+    "id": 122631,
+    "title": "一人之下 4",
+    "synonyms": []
+  },
+  {
     "id": 203296,
     "title": "Cardfight!! Vanguard: Divinez 幻真星戰篇",
     "synonyms": []
@@ -44258,6 +44258,31 @@
   {
     "id": 203127,
     "title": "Princess Principal: Crown Handler 第4章 OVA",
+    "synonyms": []
+  },
+  {
+    "id": 21840,
+    "title": "一人之下",
+    "synonyms": []
+  },
+  {
+    "id": 105401,
+    "title": "一人之下 3",
+    "synonyms": []
+  },
+  {
+    "id": 193623,
+    "title": "遠井同學想擁有青春！『笨蛋與手機與羅曼史與』",
+    "synonyms": []
+  },
+  {
+    "id": 198749,
+    "title": "一人之下 6",
+    "synonyms": []
+  },
+  {
+    "id": 195494,
+    "title": "家 —成年的分界線—",
     "synonyms": []
   }
 ]
