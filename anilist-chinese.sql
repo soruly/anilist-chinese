@@ -2,7 +2,7 @@
 -- PostgreSQL database dump
 --
 
-\restrict hsjndgV4uUQpsg3pHrsFSXc00NZsHaaBPWtbkZi0111rLphNL8FfcnhezXfnFBE
+\restrict YYh5zvP31DEoZZEz7ChuSz9l1sVbgVyvLKko0e4yDisO9d4RdjP7Ymjnr5zqHo6
 
 -- Dumped from database version 18.1 (Debian 18.1-1.pgdg13+2)
 -- Dumped by pg_dump version 18.1 (Debian 18.1-1.pgdg13+2)
@@ -7796,7 +7796,7 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 6479	{"title": {"chinese": "Candy☆Boy EX02"}, "synonyms_chinese": []}
 3456	{"title": {"chinese": "Candy☆Boy OVA"}, "synonyms_chinese": []}
 187921	{"title": {"chinese": "終末的女武神 III"}, "synonyms_chinese": []}
-179062	{"title": {"chinese": "炎炎消防隊 2 Part 2"}, "synonyms_chinese": []}
+179062	{"title": {"chinese": "炎炎消防隊 3 Part 2"}, "synonyms_chinese": []}
 182587	{"title": {"chinese": "【我推的孩子】第三季"}, "synonyms_chinese": []}
 179930	{"title": {"chinese": "Undead Unluck 冬季篇"}, "synonyms_chinese": ["不死不運 凜冬篇"]}
 714	{"title": {"chinese": ""}, "synonyms_chinese": []}
@@ -7904,5 +7904,5 @@ ALTER TABLE ONLY public.anilist_chinese
 -- PostgreSQL database dump complete
 --
 
-\unrestrict hsjndgV4uUQpsg3pHrsFSXc00NZsHaaBPWtbkZi0111rLphNL8FfcnhezXfnFBE
+\unrestrict YYh5zvP31DEoZZEz7ChuSz9l1sVbgVyvLKko0e4yDisO9d4RdjP7Ymjnr5zqHo6
 

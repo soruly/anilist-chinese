@@ -7755,7 +7755,7 @@ const db = new Map([
 [6479,{title:"Candy☆Boy EX02",synonyms:[]}],
 [3456,{title:"Candy☆Boy OVA",synonyms:[]}],
 [187921,{title:"終末的女武神 III",synonyms:[]}],
-[179062,{title:"炎炎消防隊 2 Part 2",synonyms:[]}],
+[179062,{title:"炎炎消防隊 3 Part 2",synonyms:[]}],
 [182587,{title:"【我推的孩子】第三季",synonyms:[]}],
 [179930,{title:"Undead Unluck 冬季篇",synonyms:["不死不運 凜冬篇"]}],
 [714,{title:"",synonyms:[]}],

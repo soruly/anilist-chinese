@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      3.2026.1.5
+// @version      3.2026.1.10
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -7772,7 +7772,7 @@ var database = [
 {id:6479,title:"Candy☆Boy EX02"},
 {id:3456,title:"Candy☆Boy OVA"},
 {id:187921,title:"終末的女武神 III"},
-{id:179062,title:"炎炎消防隊 2 Part 2"},
+{id:179062,title:"炎炎消防隊 3 Part 2"},
 {id:182587,title:"【我推的孩子】第三季"},
 {id:179930,title:"Undead Unluck 冬季篇"},
 {id:714,title:""},
