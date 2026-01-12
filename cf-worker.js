@@ -2049,7 +2049,6 @@ const db = new Map([
 [8574,{title:"青い体験",synonyms:[]}],
 [8577,{title:"秋日天空 〜在夢中〜",synonyms:["秋色之空 〜夢之中〜","秋空 〜夢之中〜"]}],
 [8619,{title:"大小姐×執事！SP",synonyms:[]}],
-[8624,{title:"數碼暴龍合體大作戰",synonyms:["數碼寶貝大匯戰","數碼寶貝06合體戰爭"]}],
 [8630,{title:"緋彈的亞莉亞",synonyms:["緋彈的亞里亞"]}],
 [8643,{title:"あさってDance",synonyms:[]}],
 [8648,{title:"破刃之劍 SP",synonyms:[]}],
@@ -7847,7 +7846,16 @@ const db = new Map([
 [105401,{title:"一人之下 3",synonyms:[]}],
 [193623,{title:"遠井同學想擁有青春！『笨蛋與手機與羅曼史與』",synonyms:[]}],
 [198749,{title:"一人之下 6",synonyms:[]}],
-[195494,{title:"家 —成年的分界線—",synonyms:[]}]
+[1143,{title:".hack//INTERMEZZO",synonyms:[]}],
+[195494,{title:"家 —成年的分界線—",synonyms:[]}],
+[11385,{title:"Digimon Xros Wars ～邪惡的死亡指揮官與七個王國～",synonyms:[]}],
+[10444,{title:"Digimon Xros Wars ～穿越時空的少年獵人們～",synonyms:[]}],
+[8624,{title:"Digimon Xros Wars",synonyms:["數碼暴龍合體大作戰","數碼寶貝大匯戰","數碼寶貝06合體戰爭"]}],
+[20570,{title:"寵物小精靈BW 第2季 Da！特別篇",synonyms:[]}],
+[21852,{title:"To LOVE-Ru Darkness 2 Specials",synonyms:["出包王女 DARKNESS 第二季 SP","茶煲情緣To LOVEるDARKNESS 第二季 SP","戀愛大麻煩 DARKNESS 第二季 SP"]}],
+[98621,{title:"sin 七大罪 懺悔錄",synonyms:[]}],
+[114721,{title:"OBSOLETE Part II",synonyms:[]}],
+[3449,{title:"神是中學生 OVA",synonyms:[]}]
 ]);
 
 async function handleRequest(req) {

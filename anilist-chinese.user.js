@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      3.2026.1.10
+// @version      3.2026.1.12
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -2066,7 +2066,6 @@ var database = [
 {id:8574,title:"青い体験"},
 {id:8577,title:"秋日天空 〜在夢中〜"},
 {id:8619,title:"大小姐×執事！SP"},
-{id:8624,title:"數碼暴龍合體大作戰"},
 {id:8630,title:"緋彈的亞莉亞"},
 {id:8643,title:"あさってDance"},
 {id:8648,title:"破刃之劍 SP"},
@@ -7864,7 +7863,16 @@ var database = [
 {id:105401,title:"一人之下 3"},
 {id:193623,title:"遠井同學想擁有青春！『笨蛋與手機與羅曼史與』"},
 {id:198749,title:"一人之下 6"},
-{id:195494,title:"家 —成年的分界線—"}
+{id:1143,title:".hack//INTERMEZZO"},
+{id:195494,title:"家 —成年的分界線—"},
+{id:11385,title:"Digimon Xros Wars ～邪惡的死亡指揮官與七個王國～"},
+{id:10444,title:"Digimon Xros Wars ～穿越時空的少年獵人們～"},
+{id:8624,title:"Digimon Xros Wars"},
+{id:20570,title:"寵物小精靈BW 第2季 Da！特別篇"},
+{id:21852,title:"To LOVE-Ru Darkness 2 Specials"},
+{id:98621,title:"sin 七大罪 懺悔錄"},
+{id:114721,title:"OBSOLETE Part II"},
+{id:3449,title:"神是中學生 OVA"}
 ];
 
 var updating;

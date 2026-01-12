@@ -2,7 +2,7 @@
 -- PostgreSQL database dump
 --
 
-\restrict Jzc8UuriLSWEg43xEUUqGmS2Jen7MCBqUStOIbHQ2gT8kCfshKzfH9UU9NhZUn2
+\restrict 8ZzdmHdI0BPtkR4kjvOQlBwvdFVSHd9HadOfD1MhPsoS0bLtrAWOofwNhIRXCpe
 
 -- Dumped from database version 18.1 (Debian 18.1-1.pgdg13+2)
 -- Dumped by pg_dump version 18.1 (Debian 18.1-1.pgdg13+2)
@@ -2090,7 +2090,6 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 8574	{"title": {"chinese": "青い体験"}, "synonyms_chinese": []}
 8577	{"title": {"chinese": "秋日天空 〜在夢中〜"}, "synonyms_chinese": ["秋色之空 〜夢之中〜", "秋空 〜夢之中〜"]}
 8619	{"title": {"chinese": "大小姐×執事！SP"}, "synonyms_chinese": []}
-8624	{"title": {"chinese": "數碼暴龍合體大作戰"}, "synonyms_chinese": ["數碼寶貝大匯戰", "數碼寶貝06合體戰爭"]}
 8630	{"title": {"chinese": "緋彈的亞莉亞"}, "synonyms_chinese": ["緋彈的亞里亞"]}
 8643	{"title": {"chinese": "あさってDance"}, "synonyms_chinese": []}
 8648	{"title": {"chinese": "破刃之劍 SP"}, "synonyms_chinese": []}
@@ -7888,7 +7887,16 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 105401	{"title": {"chinese": "一人之下 3"}, "synonyms_chinese": []}
 193623	{"title": {"chinese": "遠井同學想擁有青春！『笨蛋與手機與羅曼史與』"}, "synonyms_chinese": []}
 198749	{"title": {"chinese": "一人之下 6"}, "synonyms_chinese": []}
+1143	{"title": {"chinese": ".hack//INTERMEZZO"}, "synonyms_chinese": []}
 195494	{"title": {"chinese": "家 —成年的分界線—"}, "synonyms_chinese": []}
+11385	{"title": {"chinese": "Digimon Xros Wars ～邪惡的死亡指揮官與七個王國～"}, "synonyms_chinese": []}
+10444	{"title": {"chinese": "Digimon Xros Wars ～穿越時空的少年獵人們～"}, "synonyms_chinese": []}
+8624	{"title": {"chinese": "Digimon Xros Wars"}, "synonyms_chinese": ["數碼暴龍合體大作戰", "數碼寶貝大匯戰", "數碼寶貝06合體戰爭"]}
+20570	{"title": {"chinese": "寵物小精靈BW 第2季 Da！特別篇"}, "synonyms_chinese": []}
+21852	{"title": {"chinese": "To LOVE-Ru Darkness 2 Specials"}, "synonyms_chinese": ["出包王女 DARKNESS 第二季 SP", "茶煲情緣To LOVEるDARKNESS 第二季 SP", "戀愛大麻煩 DARKNESS 第二季 SP"]}
+98621	{"title": {"chinese": "sin 七大罪 懺悔錄"}, "synonyms_chinese": []}
+114721	{"title": {"chinese": "OBSOLETE Part II"}, "synonyms_chinese": []}
+3449	{"title": {"chinese": "神是中學生 OVA"}, "synonyms_chinese": []}
 \.
 
 
@@ -7904,5 +7912,5 @@ ALTER TABLE ONLY public.anilist_chinese
 -- PostgreSQL database dump complete
 --
 
-\unrestrict Jzc8UuriLSWEg43xEUUqGmS2Jen7MCBqUStOIbHQ2gT8kCfshKzfH9UU9NhZUn2
+\unrestrict 8ZzdmHdI0BPtkR4kjvOQlBwvdFVSHd9HadOfD1MhPsoS0bLtrAWOofwNhIRXCpe
 
