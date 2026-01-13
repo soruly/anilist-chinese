@@ -2,7 +2,7 @@
 -- PostgreSQL database dump
 --
 
-\restrict 8ZzdmHdI0BPtkR4kjvOQlBwvdFVSHd9HadOfD1MhPsoS0bLtrAWOofwNhIRXCpe
+\restrict mzXFbTiDlLr7kQtWpUNWcWO3L1LUP0GZAK4oMBxn3tdnOpkkdmkiqs3YjeR0emZ
 
 -- Dumped from database version 18.1 (Debian 18.1-1.pgdg13+2)
 -- Dumped by pg_dump version 18.1 (Debian 18.1-1.pgdg13+2)
@@ -7892,11 +7892,48 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 11385	{"title": {"chinese": "Digimon Xros Wars ～邪惡的死亡指揮官與七個王國～"}, "synonyms_chinese": []}
 10444	{"title": {"chinese": "Digimon Xros Wars ～穿越時空的少年獵人們～"}, "synonyms_chinese": []}
 8624	{"title": {"chinese": "Digimon Xros Wars"}, "synonyms_chinese": ["數碼暴龍合體大作戰", "數碼寶貝大匯戰", "數碼寶貝06合體戰爭"]}
+448	{"title": {"chinese": "天上天下 ULTIMATE FIGHT"}, "synonyms_chinese": []}
+208	{"title": {"chinese": "R.O.D -READ OR DIE-"}, "synonyms_chinese": []}
+264	{"title": {"chinese": "第一神拳 冠軍之路"}, "synonyms_chinese": []}
+1754	{"title": {"chinese": "デ・ジ・キャラット サマースペシャル2000"}, "synonyms_chinese": []}
+1755	{"title": {"chinese": "デ・ジ・キャラット お花見スペシャル"}, "synonyms_chinese": []}
+1756	{"title": {"chinese": "Di Gi Charat 夏休みスペシャル"}, "synonyms_chinese": []}
+1758	{"title": {"chinese": "Di Gi Charat 梅雨スペシャル"}, "synonyms_chinese": []}
 20570	{"title": {"chinese": "寵物小精靈BW 第2季 Da！特別篇"}, "synonyms_chinese": []}
+1757	{"title": {"chinese": "デ・ジ・キャラット クリスマススペシャル"}, "synonyms_chinese": []}
+1489	{"title": {"chinese": "鍊金三級魔法少女 OVA"}, "synonyms_chinese": []}
+4765	{"title": {"chinese": "GUNSLINGER GIRL -IL TEATRINO- OVA"}, "synonyms_chinese": []}
+5351	{"title": {"chinese": "機動戦士ガンダム00-天使たちの軌跡"}, "synonyms_chinese": []}
+2464	{"title": {"chinese": "吉永家的石像怪 SP"}, "synonyms_chinese": []}
+143264	{"title": {"chinese": "真･淫獣学園 La☆Blue Girl"}, "synonyms_chinese": [""]}
 21852	{"title": {"chinese": "To LOVE-Ru Darkness 2 Specials"}, "synonyms_chinese": ["出包王女 DARKNESS 第二季 SP", "茶煲情緣To LOVEるDARKNESS 第二季 SP", "戀愛大麻煩 DARKNESS 第二季 SP"]}
 98621	{"title": {"chinese": "sin 七大罪 懺悔錄"}, "synonyms_chinese": []}
+13287	{"title": {"chinese": "銀河天使 EP26"}, "synonyms_chinese": []}
+9002	{"title": {"chinese": "True Tears 雷轟丸とじべたの物語"}, "synonyms_chinese": []}
+586	{"title": {"chinese": "怪～ayakashi～"}, "synonyms_chinese": []}
+3977	{"title": {"chinese": "To Heart SP"}, "synonyms_chinese": []}
+3759	{"title": {"chinese": "School Days: Valentine Days"}, "synonyms_chinese": []}
 114721	{"title": {"chinese": "OBSOLETE Part II"}, "synonyms_chinese": []}
+3328	{"title": {"chinese": "School Days ～マジカルハート☆こころちゃん～"}, "synonyms_chinese": []}
+1480	{"title": {"chinese": "Sky Girls OVA"}, "synonyms_chinese": []}
+1654	{"title": {"chinese": "女生愛女生 OVA"}, "synonyms_chinese": []}
 3449	{"title": {"chinese": "神是中學生 OVA"}, "synonyms_chinese": []}
+1015	{"title": {"chinese": "驚爆危機 The Second Raid 戰隊長蠻閒的一天"}, "synonyms_chinese": []}
+6368	{"title": {"chinese": "鋼殼都市雷吉歐斯 SP"}, "synonyms_chinese": []}
+1843	{"title": {"chinese": "復甦的天空 拯救之翼 OVA"}, "synonyms_chinese": []}
+1014	{"title": {"chinese": "小天使糖糖 OVA"}, "synonyms_chinese": []}
+5333	{"title": {"chinese": "一騎當千 Great Guardians SP"}, "synonyms_chinese": []}
+2899	{"title": {"chinese": "寒蟬鳴泣之時 貓殺篇"}, "synonyms_chinese": []}
+2132	{"title": {"chinese": "いぬかみっ！ THE MOVIE　特命霊的捜査官・仮名史郎っ！"}, "synonyms_chinese": []}
+10666	{"title": {"chinese": "Fireball Special: Making of Fireball"}, "synonyms_chinese": []}
+3410	{"title": {"chinese": "Sky Girls SP"}, "synonyms_chinese": []}
+3618	{"title": {"chinese": "萌菌物語 SP"}, "synonyms_chinese": []}
+6793	{"title": {"chinese": "黑執事 OVA"}, "synonyms_chinese": []}
+188928	{"title": {"chinese": "夏と箱"}, "synonyms_chinese": []}
+199162	{"title": {"chinese": "クール de M"}, "synonyms_chinese": []}
+201974	{"title": {"chinese": "ケガレボシ・青"}, "synonyms_chinese": []}
+201975	{"title": {"chinese": "ケガレボシ・赤"}, "synonyms_chinese": []}
+199164	{"title": {"chinese": "聖宝晶華セイントライムVN ～VeasTubeエロエロ配信Edition♪～"}, "synonyms_chinese": []}
 \.
 
 
@@ -7912,5 +7949,5 @@ ALTER TABLE ONLY public.anilist_chinese
 -- PostgreSQL database dump complete
 --
 
-\unrestrict 8ZzdmHdI0BPtkR4kjvOQlBwvdFVSHd9HadOfD1MhPsoS0bLtrAWOofwNhIRXCpe
+\unrestrict mzXFbTiDlLr7kQtWpUNWcWO3L1LUP0GZAK4oMBxn3tdnOpkkdmkiqs3YjeR0emZ
 

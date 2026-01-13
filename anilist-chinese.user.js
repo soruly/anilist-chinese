@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      3.2026.1.12
+// @version      3.2026.1.13
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -7868,11 +7868,48 @@ var database = [
 {id:11385,title:"Digimon Xros Wars ～邪惡的死亡指揮官與七個王國～"},
 {id:10444,title:"Digimon Xros Wars ～穿越時空的少年獵人們～"},
 {id:8624,title:"Digimon Xros Wars"},
+{id:448,title:"天上天下 ULTIMATE FIGHT"},
+{id:208,title:"R.O.D -READ OR DIE-"},
+{id:264,title:"第一神拳 冠軍之路"},
+{id:1754,title:"デ・ジ・キャラット サマースペシャル2000"},
+{id:1755,title:"デ・ジ・キャラット お花見スペシャル"},
+{id:1756,title:"Di Gi Charat 夏休みスペシャル"},
+{id:1758,title:"Di Gi Charat 梅雨スペシャル"},
 {id:20570,title:"寵物小精靈BW 第2季 Da！特別篇"},
+{id:1757,title:"デ・ジ・キャラット クリスマススペシャル"},
+{id:1489,title:"鍊金三級魔法少女 OVA"},
+{id:4765,title:"GUNSLINGER GIRL -IL TEATRINO- OVA"},
+{id:5351,title:"機動戦士ガンダム00-天使たちの軌跡"},
+{id:2464,title:"吉永家的石像怪 SP"},
+{id:143264,title:"真･淫獣学園 La☆Blue Girl"},
 {id:21852,title:"To LOVE-Ru Darkness 2 Specials"},
 {id:98621,title:"sin 七大罪 懺悔錄"},
+{id:13287,title:"銀河天使 EP26"},
+{id:9002,title:"True Tears 雷轟丸とじべたの物語"},
+{id:586,title:"怪～ayakashi～"},
+{id:3977,title:"To Heart SP"},
+{id:3759,title:"School Days: Valentine Days"},
 {id:114721,title:"OBSOLETE Part II"},
-{id:3449,title:"神是中學生 OVA"}
+{id:3328,title:"School Days ～マジカルハート☆こころちゃん～"},
+{id:1480,title:"Sky Girls OVA"},
+{id:1654,title:"女生愛女生 OVA"},
+{id:3449,title:"神是中學生 OVA"},
+{id:1015,title:"驚爆危機 The Second Raid 戰隊長蠻閒的一天"},
+{id:6368,title:"鋼殼都市雷吉歐斯 SP"},
+{id:1843,title:"復甦的天空 拯救之翼 OVA"},
+{id:1014,title:"小天使糖糖 OVA"},
+{id:5333,title:"一騎當千 Great Guardians SP"},
+{id:2899,title:"寒蟬鳴泣之時 貓殺篇"},
+{id:2132,title:"いぬかみっ！ THE MOVIE　特命霊的捜査官・仮名史郎っ！"},
+{id:10666,title:"Fireball Special: Making of Fireball"},
+{id:3410,title:"Sky Girls SP"},
+{id:3618,title:"萌菌物語 SP"},
+{id:6793,title:"黑執事 OVA"},
+{id:188928,title:"夏と箱"},
+{id:199162,title:"クール de M"},
+{id:201974,title:"ケガレボシ・青"},
+{id:201975,title:"ケガレボシ・赤"},
+{id:199164,title:"聖宝晶華セイントライムVN ～VeasTubeエロエロ配信Edition♪～"}
 ];
 
 var updating;
