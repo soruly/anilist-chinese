@@ -17193,13 +17193,6 @@
     "synonyms": []
   },
   {
-    "id": 18849,
-    "title": "夏目友人帳 SP",
-    "synonyms": [
-      "妖怪連絡簿 SP"
-    ]
-  },
-  {
     "id": 18851,
     "title": "Fate/kaleid liner Prisma☆Illya OVA",
     "synonyms": []
@@ -26400,13 +26393,6 @@
     "synonyms": []
   },
   {
-    "id": 99363,
-    "title": "夏目友人帳 伍 SP",
-    "synonyms": [
-      "妖怪連絡簿 伍 SP"
-    ]
-  },
-  {
     "id": 99366,
     "title": "千緒的通學路",
     "synonyms": []
@@ -28263,11 +28249,6 @@
     "synonyms": []
   },
   {
-    "id": 101410,
-    "title": "全職高手 SP",
-    "synonyms": []
-  },
-  {
     "id": 101424,
     "title": "Puzzle & Dragons",
     "synonyms": [
@@ -28626,11 +28607,6 @@
   {
     "id": 101970,
     "title": "一臉嫌棄給你看胖次",
-    "synonyms": []
-  },
-  {
-    "id": 101972,
-    "title": "魔道袓師",
     "synonyms": []
   },
   {
@@ -44293,6 +44269,16 @@
     "synonyms": []
   },
   {
+    "id": 108981,
+    "title": "全職高手之巔峰榮耀",
+    "synonyms": []
+  },
+  {
+    "id": 179333,
+    "title": "「1分間だけ挿れてもいいよ…」シェアハウスの秘密ルール。",
+    "synonyms": []
+  },
+  {
     "id": 8624,
     "title": "Digimon Xros Wars",
     "synonyms": [
@@ -44374,6 +44360,11 @@
     ]
   },
   {
+    "id": 168810,
+    "title": "けものっ娘通信〜The Animation〜 狸娘ポコラ",
+    "synonyms": []
+  },
+  {
     "id": 21852,
     "title": "To LOVE-Ru Darkness 2 Specials",
     "synonyms": [
@@ -44443,6 +44434,11 @@
     "synonyms": []
   },
   {
+    "id": 5773,
+    "title": "69ピンクライダーズ 2",
+    "synonyms": []
+  },
+  {
     "id": 6368,
     "title": "鋼殼都市雷吉歐斯 SP",
     "synonyms": []
@@ -44450,6 +44446,11 @@
   {
     "id": 1843,
     "title": "復甦的天空 拯救之翼 OVA",
+    "synonyms": []
+  },
+  {
+    "id": 126403,
+    "title": "時光代理人",
     "synonyms": []
   },
   {
@@ -44483,8 +44484,18 @@
     "synonyms": []
   },
   {
+    "id": 136484,
+    "title": "時光代理人 第二季",
+    "synonyms": []
+  },
+  {
     "id": 3618,
     "title": "萌菌物語 SP",
+    "synonyms": []
+  },
+  {
+    "id": 136145,
+    "title": "時光代理人 番外篇",
     "synonyms": []
   },
   {
@@ -44516,5 +44527,754 @@
     "id": 199164,
     "title": "聖宝晶華セイントライムVN ～VeasTubeエロエロ配信Edition♪～",
     "synonyms": []
+  },
+  {
+    "id": 170166,
+    "title": "時光代理人英都篇",
+    "synonyms": []
+  },
+  {
+    "id": 191832,
+    "title": "時光代理人 第三季",
+    "synonyms": []
+  },
+  {
+    "id": 138260,
+    "title": "時光代理人 逍遙散人的委托",
+    "synonyms": []
+  },
+  {
+    "id": 140175,
+    "title": "時光照相館的日常",
+    "synonyms": []
+  },
+  {
+    "id": 137735,
+    "title": "全職高手 第三季",
+    "synonyms": []
+  },
+  {
+    "id": 101410,
+    "title": "全職高手 特別篇",
+    "synonyms": []
+  },
+  {
+    "id": 198705,
+    "title": "全職高手 第四季",
+    "synonyms": []
+  },
+  {
+    "id": 113290,
+    "title": "伍六七之最強髮型師",
+    "synonyms": []
+  },
+  {
+    "id": 121467,
+    "title": "魔道祖師 第三季",
+    "synonyms": []
+  },
+  {
+    "id": 137726,
+    "title": "全職法師 第六季",
+    "synonyms": []
+  },
+  {
+    "id": 21818,
+    "title": "愛神巧克力",
+    "synonyms": []
+  },
+  {
+    "id": 159490,
+    "title": "伍六七之暗影宿命",
+    "synonyms": []
+  },
+  {
+    "id": 185726,
+    "title": "全職高手榮耀小劇場",
+    "synonyms": []
+  },
+  {
+    "id": 115800,
+    "title": "全職法師 第四季",
+    "synonyms": []
+  },
+  {
+    "id": 199353,
+    "title": "大王饒命 第三季",
+    "synonyms": []
+  },
+  {
+    "id": 166442,
+    "title": "超能立方",
+    "synonyms": []
+  },
+  {
+    "id": 127595,
+    "title": "伍六七之玄武國篇",
+    "synonyms": []
+  },
+  {
+    "id": 122671,
+    "title": "全職法師 第五季",
+    "synonyms": []
+  },
+  {
+    "id": 176859,
+    "title": "霧山五行 封界大戰",
+    "synonyms": []
+  },
+  {
+    "id": 107913,
+    "title": "刺客伍六七 番外篇",
+    "synonyms": []
+  },
+  {
+    "id": 102601,
+    "title": "狐妖小紅娘 北山妖卜月中月",
+    "synonyms": []
+  },
+  {
+    "id": 120343,
+    "title": "魔道祖師 Q",
+    "synonyms": []
+  },
+  {
+    "id": 175645,
+    "title": "通靈妃 第二季",
+    "synonyms": []
+  },
+  {
+    "id": 102599,
+    "title": "狐妖小紅娘 王權",
+    "synonyms": []
+  },
+  {
+    "id": 168081,
+    "title": "全職法師 特別篇之神秘委託",
+    "synonyms": []
+  },
+  {
+    "id": 122585,
+    "title": "霧山五行 犀川幻紫林",
+    "synonyms": []
+  },
+  {
+    "id": 120220,
+    "title": "大王饒命",
+    "synonyms": []
+  },
+  {
+    "id": 191974,
+    "title": "鯤吞天下之掌門歸來",
+    "synonyms": []
+  },
+  {
+    "id": 137885,
+    "title": "狐妖小紅娘 無暮",
+    "synonyms": []
+  },
+  {
+    "id": 168083,
+    "title": "狐妖小紅娘 鏡花緣",
+    "synonyms": []
+  },
+  {
+    "id": 101973,
+    "title": "萌妻食神",
+    "synonyms": []
+  },
+  {
+    "id": 104458,
+    "title": "魔道祖師 第二季",
+    "synonyms": []
+  },
+  {
+    "id": 166475,
+    "title": "羅小黑戰記 第二季",
+    "synonyms": []
+  },
+  {
+    "id": 117572,
+    "title": "狐妖小紅娘 金晨曦",
+    "synonyms": []
+  },
+  {
+    "id": 137667,
+    "title": "詭秘之主",
+    "synonyms": []
+  },
+  {
+    "id": 107912,
+    "title": "刺客伍六七",
+    "synonyms": []
+  },
+  {
+    "id": 133904,
+    "title": "伍六七劇場版",
+    "synonyms": []
+  },
+  {
+    "id": 102602,
+    "title": "狐妖小紅娘 千顏",
+    "synonyms": []
+  },
+  {
+    "id": 146543,
+    "title": "大王饒命 第二季",
+    "synonyms": []
+  },
+  {
+    "id": 182445,
+    "title": "伍六七之記憶碎片",
+    "synonyms": []
+  },
+  {
+    "id": 99707,
+    "title": "鎮魂街",
+    "synonyms": []
+  },
+  {
+    "id": 127099,
+    "title": "霧山五行",
+    "synonyms": []
+  },
+  {
+    "id": 156096,
+    "title": "四格勇者",
+    "synonyms": []
+  },
+  {
+    "id": 120193,
+    "title": "英雄再臨",
+    "synonyms": []
+  },
+  {
+    "id": 107069,
+    "title": "霧山五行 灼源神火",
+    "synonyms": []
+  },
+  {
+    "id": 122672,
+    "title": "狐妖小紅娘 沐天城",
+    "synonyms": []
+  },
+  {
+    "id": 132381,
+    "title": "狐妖小紅娘 月紅 2",
+    "synonyms": []
+  },
+  {
+    "id": 99935,
+    "title": "通靈妃",
+    "synonyms": []
+  },
+  {
+    "id": 114108,
+    "title": "最後的召喚師",
+    "synonyms": []
+  },
+  {
+    "id": 122508,
+    "title": "鏢人",
+    "synonyms": []
+  },
+  {
+    "id": 131239,
+    "title": "羅小黑戰記 眾生之門",
+    "synonyms": []
+  },
+  {
+    "id": 100811,
+    "title": "愛神巧克力ING... II",
+    "synonyms": []
+  },
+  {
+    "id": 108978,
+    "title": "穿晝自救指南",
+    "synonyms": []
+  },
+  {
+    "id": 156111,
+    "title": "愛上她的理由",
+    "synonyms": []
+  },
+  {
+    "id": 101972,
+    "title": "魔道祖師",
+    "synonyms": []
+  },
+  {
+    "id": 102664,
+    "title": "羅小黑戰記 番外篇",
+    "synonyms": []
+  },
+  {
+    "id": 10259,
+    "title": "大魚海棠",
+    "synonyms": []
+  },
+  {
+    "id": 114555,
+    "title": "萬聖街",
+    "synonyms": []
+  },
+  {
+    "id": 100296,
+    "title": "我的天劫女友",
+    "synonyms": []
+  },
+  {
+    "id": 112023,
+    "title": "羅小黑戰記大電影",
+    "synonyms": []
+  },
+  {
+    "id": 107743,
+    "title": "邪王追妻",
+    "synonyms": []
+  },
+  {
+    "id": 102663,
+    "title": "羅小黑戰記",
+    "synonyms": []
+  },
+  {
+    "id": 102600,
+    "title": "狐妖小紅娘 月紅",
+    "synonyms": []
+  },
+  {
+    "id": 104748,
+    "title": "狐妖小紅娘 竹業",
+    "synonyms": []
+  },
+  {
+    "id": 102598,
+    "title": "狐妖小紅娘 下沙",
+    "synonyms": []
+  },
+  {
+    "id": 130323,
+    "title": "狐妖小紅娘 兩生花",
+    "synonyms": []
+  },
+  {
+    "id": 101920,
+    "title": "斗羅大陸",
+    "synonyms": []
+  },
+  {
+    "id": 102603,
+    "title": "狐妖小紅娘 南國",
+    "synonyms": []
+  },
+  {
+    "id": 134168,
+    "title": "斗羅大陸 山雨欲來",
+    "synonyms": []
+  },
+  {
+    "id": 113722,
+    "title": "狐妖小紅娘 尾生",
+    "synonyms": []
+  },
+  {
+    "id": 198708,
+    "title": "狐妖小紅娘 黃風嶺",
+    "synonyms": []
+  },
+  {
+    "id": 129946,
+    "title": "斗羅大陸 海神之光",
+    "synonyms": []
+  },
+  {
+    "id": 163818,
+    "title": "斗羅大陸 激浪之戰",
+    "synonyms": []
+  },
+  {
+    "id": 141802,
+    "title": "斗羅大陸 小舞復活",
+    "synonyms": []
+  },
+  {
+    "id": 103543,
+    "title": "斗羅大陸 精英賽",
+    "synonyms": []
+  },
+  {
+    "id": 165679,
+    "title": "斗羅大陸 萬象更新",
+    "synonyms": []
+  },
+  {
+    "id": 152211,
+    "title": "斗羅大陸 阿銀復活",
+    "synonyms": []
+  },
+  {
+    "id": 153424,
+    "title": "斗羅大陸 敵影來襲",
+    "synonyms": []
+  },
+  {
+    "id": 157127,
+    "title": "斗羅大陸 戰鼓暫歇",
+    "synonyms": []
+  },
+  {
+    "id": 163821,
+    "title": "斗羅大陸 海神傳承",
+    "synonyms": []
+  },
+  {
+    "id": 155092,
+    "title": "斗羅大陸 怒世鏖戰",
+    "synonyms": []
+  },
+  {
+    "id": 129350,
+    "title": "斗羅大陸 星斗獻祭",
+    "synonyms": []
+  },
+  {
+    "id": 155093,
+    "title": "斗羅大陸 唐門絶頂",
+    "synonyms": []
+  },
+  {
+    "id": 163823,
+    "title": "斗羅大陸 七情考驗",
+    "synonyms": []
+  },
+  {
+    "id": 137761,
+    "title": "斗羅大陸 重返昊天",
+    "synonyms": []
+  },
+  {
+    "id": 129347,
+    "title": "斗羅大陸 昊天揚威",
+    "synonyms": []
+  },
+  {
+    "id": 154150,
+    "title": "斗羅大陸 怒世磨戰",
+    "synonyms": []
+  },
+  {
+    "id": 152213,
+    "title": "斗羅大陸 奔赴前綫",
+    "synonyms": []
+  },
+  {
+    "id": 156085,
+    "title": "區區不才，在下野怪",
+    "synonyms": []
+  },
+  {
+    "id": 110595,
+    "title": "一念永恆",
+    "synonyms": []
+  },
+  {
+    "id": 168163,
+    "title": "鬥破蒼穹 年番2",
+    "synonyms": []
+  },
+  {
+    "id": 114114,
+    "title": "兩不疑",
+    "synonyms": []
+  },
+  {
+    "id": 114117,
+    "title": "拾憶長安 明月幾時有",
+    "synonyms": []
+  },
+  {
+    "id": 129348,
+    "title": "斗羅大陸 鉛華洗盡",
+    "synonyms": []
+  },
+  {
+    "id": 129349,
+    "title": "斗羅大陸 小舞訣別",
+    "synonyms": []
+  },
+  {
+    "id": 137653,
+    "title": "仙逆",
+    "synonyms": []
+  },
+  {
+    "id": 149799,
+    "title": "斗羅大陸 烽火不息",
+    "synonyms": []
+  },
+  {
+    "id": 120213,
+    "title": "山河劍心",
+    "synonyms": []
+  },
+  {
+    "id": 114113,
+    "title": "解藥",
+    "synonyms": []
+  },
+  {
+    "id": 163797,
+    "title": "斗羅大陸 深海魔鯨",
+    "synonyms": []
+  },
+  {
+    "id": 196613,
+    "title": "鬥破蒼穹 年番4",
+    "synonyms": []
+  },
+  {
+    "id": 114959,
+    "title": "妖精種植手冊",
+    "synonyms": []
+  },
+  {
+    "id": 129351,
+    "title": "斗羅大陸 瀚海乾坤",
+    "synonyms": []
+  },
+  {
+    "id": 163783,
+    "title": "斗羅大陸 森林獸影",
+    "synonyms": []
+  },
+  {
+    "id": 98863,
+    "title": "雙生靈探",
+    "synonyms": []
+  },
+  {
+    "id": 102464,
+    "title": "鬥破蒼穹",
+    "synonyms": []
+  },
+  {
+    "id": 177512,
+    "title": "邂逅她的少女時代",
+    "synonyms": []
+  },
+  {
+    "id": 137683,
+    "title": "斗羅大陸 2 絶世唐門",
+    "synonyms": []
+  },
+  {
+    "id": 165680,
+    "title": "斗羅大陸 雙神戰雙神",
+    "synonyms": []
+  },
+  {
+    "id": 139348,
+    "title": "萌妻食神之再結良緣",
+    "synonyms": []
+  },
+  {
+    "id": 122497,
+    "title": "萬聖街 第二季",
+    "synonyms": []
+  },
+  {
+    "id": 152212,
+    "title": "斗羅大陸 歸宗之路",
+    "synonyms": []
+  },
+  {
+    "id": 145210,
+    "title": "斗羅大陸 風起唐門",
+    "synonyms": []
+  },
+  {
+    "id": 163784,
+    "title": "斗羅大陸 天使降臨",
+    "synonyms": []
+  },
+  {
+    "id": 163825,
+    "title": "斗羅大陸 唐三成神",
+    "synonyms": []
+  },
+  {
+    "id": 98862,
+    "title": "妖怪名單",
+    "synonyms": []
+  },
+  {
+    "id": 99363,
+    "title": "夏目友人帳 伍 特別篇",
+    "synonyms": [
+      "妖怪連絡簿 伍 特別篇"
+    ]
+  },
+  {
+    "id": 198698,
+    "title": "斗羅大陸 劇場版 劍道塵心",
+    "synonyms": []
+  },
+  {
+    "id": 110464,
+    "title": "哪吒之魔童降世",
+    "synonyms": []
+  },
+  {
+    "id": 114136,
+    "title": "百妖譜",
+    "synonyms": []
+  },
+  {
+    "id": 101916,
+    "title": "妖神記",
+    "synonyms": []
+  },
+  {
+    "id": 141881,
+    "title": "靠你啦！戰神系統",
+    "synonyms": []
+  },
+  {
+    "id": 141855,
+    "title": "愛幽的密室",
+    "synonyms": []
+  },
+  {
+    "id": 102463,
+    "title": "鬥破蒼穹 第二季",
+    "synonyms": []
+  },
+  {
+    "id": 110646,
+    "title": "漢化日記",
+    "synonyms": []
+  },
+  {
+    "id": 99548,
+    "title": "國民老公帶回家",
+    "synonyms": []
+  },
+  {
+    "id": 131485,
+    "title": "左手上籃",
+    "synonyms": []
+  },
+  {
+    "id": 101132,
+    "title": "迷域行者",
+    "synonyms": []
+  },
+  {
+    "id": 158830,
+    "title": "萬聖街 第四季",
+    "synonyms": []
+  },
+  {
+    "id": 1110,
+    "title": "真珠美人魚 Pure",
+    "synonyms": [
+      "人魚的旋律 Pure",
+      "唱K小魚仙 Pure",
+      "美人魚PichiPichiPitch Pure"
+    ]
+  },
+  {
+    "id": 186861,
+    "title": "哪吒之魔童閙海",
+    "synonyms": []
+  },
+  {
+    "id": 99654,
+    "title": "黑白無雙",
+    "synonyms": []
+  },
+  {
+    "id": 137740,
+    "title": "萬聖街 第三季",
+    "synonyms": []
+  },
+  {
+    "id": 137729,
+    "title": "鬥破蒼穹 三年之約",
+    "synonyms": []
+  },
+  {
+    "id": 101919,
+    "title": "我的逆天神器",
+    "synonyms": []
+  },
+  {
+    "id": 104922,
+    "title": "鬥破蒼穹 第三季",
+    "synonyms": []
+  },
+  {
+    "id": 137730,
+    "title": "鬥破蒼穹 緣起",
+    "synonyms": []
+  },
+  {
+    "id": 122639,
+    "title": "鬥破蒼穹 第四季",
+    "synonyms": []
+  },
+  {
+    "id": 122516,
+    "title": "甜美的咬痕",
+    "synonyms": []
+  },
+  {
+    "id": 102462,
+    "title": "鬥破蒼穹 特別篇",
+    "synonyms": []
+  },
+  {
+    "id": 168164,
+    "title": "鬥破蒼穹 年番3",
+    "synonyms": []
+  },
+  {
+    "id": 137728,
+    "title": "鬥破蒼穹 年番",
+    "synonyms": []
+  },
+  {
+    "id": 109484,
+    "title": "鬥破蒼穹 特別篇 2 沙之瀾歌",
+    "synonyms": []
+  },
+  {
+    "id": 521,
+    "title": "真珠美人魚",
+    "synonyms": [
+      "人魚的旋律",
+      "唱K小魚仙",
+      "美人魚PichiPichiPitch"
+    ]
+  },
+  {
+    "id": 184762,
+    "title": "夏目友人帳 漆 特別篇",
+    "synonyms": []
+  },
+  {
+    "id": 18849,
+    "title": "夏目友人帳 特別篇",
+    "synonyms": [
+      "妖怪連絡簿 特別篇"
+    ]
+  },
+  {
+    "id": 21628,
+    "title": "夜勤病棟 特別実験記録集",
+    "synonyms": [
+      ""
+    ]
   }
 ]
