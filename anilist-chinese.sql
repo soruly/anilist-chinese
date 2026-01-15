@@ -2,7 +2,7 @@
 -- PostgreSQL database dump
 --
 
-\restrict 5rnlgocH3prHT2wOWwMfTSuj3w3eNRIEBQ8SUu55cvjqlRcysMeZb4QYUn1U6Bo
+\restrict snGXnlfHJfUbZ4x2hGjg6s7QdRUcL1c5vJ5Yjgi1VEBaGsvrRTLsW4aHfrSVhPB
 
 -- Dumped from database version 18.1 (Debian 18.1-1.pgdg13+2)
 -- Dumped by pg_dump version 18.1 (Debian 18.1-1.pgdg13+2)
@@ -721,7 +721,6 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 1559	{"title": {"chinese": "史上最強弟子兼一"}, "synonyms_chinese": []}
 1562	{"title": {"chinese": "完美小姐進化論"}, "synonyms_chinese": ["大和撫子七變化"]}
 1563	{"title": {"chinese": "魔法騎士 II"}, "synonyms_chinese": []}
-1564	{"title": {"chinese": "Pokemon Advanced Generation"}, "synonyms_chinese": []}
 1566	{"title": {"chinese": "攻殻機動隊 STAND ALONE COMPLEX Solid State Society"}, "synonyms_chinese": []}
 1569	{"title": {"chinese": "少女愛上姐姐"}, "synonyms_chinese": ["處女愛上姊姊", "愛上姊姊的處女們", "愛上處女的姐姐"]}
 1570	{"title": {"chinese": "Happiness!"}, "synonyms_chinese": []}
@@ -2134,7 +2133,6 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 9065	{"title": {"chinese": "薄櫻鬼 碧血錄"}, "synonyms_chinese": []}
 9074	{"title": {"chinese": "荒川爆笑團 第二季"}, "synonyms_chinese": ["荒川橋下 第二季"]}
 9091	{"title": {"chinese": "戦乙女スヴィア 特典映像"}, "synonyms_chinese": []}
-9107	{"title": {"chinese": "寵物小精靈BW"}, "synonyms_chinese": ["寵物小精靈：超級願望", "神奇寶貝超級願望", "神奇寶貝BW", "神奇寶貝Best wishes"]}
 9117	{"title": {"chinese": "聖誕之吻SS OVA"}, "synonyms_chinese": ["甜蜜吻痕 OVA"]}
 9120	{"title": {"chinese": "惡魔奶爸 撿到大魔王的嬰兒!?"}, "synonyms_chinese": ["惡魔奶爸 OAD", "魔B爸B OAD", "魔王奶爸 OAD", "魔王的父親 OAD"]}
 9127	{"title": {"chinese": "絕對可憐CHILDREN OVA"}, "synonyms_chinese": ["絕對可憐少女 OVA", "絕對可憐小孩 OVA", "超能少女組 OVA", "楚楚可憐超能少女組 OVA"]}
@@ -2678,7 +2676,6 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 14047	{"title": {"chinese": "戦乙女ヴァルキリーG"}, "synonyms_chinese": []}
 14073	{"title": {"chinese": "公立海老栖川高校天悶部"}, "synonyms_chinese": ["蝦掰天文社", "公立海老栖川高中天悶社"]}
 14075	{"title": {"chinese": "絕園的暴風雨"}, "synonyms_chinese": []}
-14093	{"title": {"chinese": "寵物小精靈BW 第2季"}, "synonyms_chinese": ["寵物小精靈：超級願望 第2季", "神奇寶貝超級願望 第2季", "神奇寶貝BW 第2季", "神奇寶貝Best wishes 第2季"]}
 14127	{"title": {"chinese": "パパラブ"}, "synonyms_chinese": []}
 14129	{"title": {"chinese": "Starless 21st Century Nymphomaniacs"}, "synonyms_chinese": []}
 14131	{"title": {"chinese": "少女與戰車"}, "synonyms_chinese": ["女子高生&重戰車", "少女&坦克"]}
@@ -2900,7 +2897,6 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 17074	{"title": {"chinese": "物語系列 第二季"}, "synonyms_chinese": ["貓物語（白）", "傾物語", "囮物語", "鬼物語", "戀物語"]}
 17080	{"title": {"chinese": "蒼穹之戰神 EXODUS"}, "synonyms_chinese": ["蒼穹的法夫納 EXODUS", "蒼穹的法夫那 EXODUS", "蒼穹的法芙娜 EXODUS", "蒼穹的FAFNER EXODUS", "蒼穹之巨龍 EXODUS"]}
 17082	{"title": {"chinese": "AIURA"}, "synonyms_chinese": ["校園日記 AIURA"]}
-17115	{"title": {"chinese": "寵物小精靈BW 第2季 Episode N"}, "synonyms_chinese": ["寵物小精靈：超級願望 第2季 Episode N", "神奇寶貝超級願望 第2季 Episode N", "神奇寶貝BW 第2季 Episode N", "神奇寶貝Best wishes 第2季 Episode N"]}
 17121	{"title": {"chinese": "某人的目光"}, "synonyms_chinese": []}
 17147	{"title": {"chinese": "學活！第二季"}, "synonyms_chinese": []}
 17157	{"title": {"chinese": "ノ・ゾ・キ・ア・ナ"}, "synonyms_chinese": []}
@@ -2951,7 +2947,6 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 17831	{"title": {"chinese": "狗與剪刀必有用"}, "synonyms_chinese": ["狗與剪刀的正確用法", "鉸剪狗"]}
 17855	{"title": {"chinese": "人魚又上鉤 OVA"}, "synonyms_chinese": []}
 17867	{"title": {"chinese": "ヌキどきッ! ~天使と悪魔の搾精バトル~"}, "synonyms_chinese": []}
-17873	{"title": {"chinese": "寵物小精靈BW 第2季 Da！"}, "synonyms_chinese": ["寵物小精靈：超級願望 第2季 Da！", "神奇寶貝超級願望 第2季 Da！", "神奇寶貝BW 第2季 Da！", "神奇寶貝Best wishes 第2季 Da！"]}
 17875	{"title": {"chinese": "要聽爸爸的話！OVA"}, "synonyms_chinese": []}
 17895	{"title": {"chinese": "青春紀行"}, "synonyms_chinese": ["黃金時代", "金色年華", "金色時光"]}
 17909	{"title": {"chinese": "有頂天家族"}, "synonyms_chinese": []}
@@ -3038,7 +3033,6 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 19251	{"title": {"chinese": "歌之王子殿下 真愛2000% SP"}, "synonyms_chinese": []}
 19257	{"title": {"chinese": "眼鏡部！"}, "synonyms_chinese": []}
 19283	{"title": {"chinese": "母娘乱館 THE ANIMATION"}, "synonyms_chinese": []}
-19291	{"title": {"chinese": "Pokemon XY"}, "synonyms_chinese": ["寵物小精靈XY"]}
 19315	{"title": {"chinese": "Pupa"}, "synonyms_chinese": []}
 19319	{"title": {"chinese": "Gundam Build Fighters"}, "synonyms_chinese": ["高達創戰者", "鋼彈創鬥者", "敢達創戰者"]}
 19363	{"title": {"chinese": "銀之匙 第二季"}, "synonyms_chinese": ["白銀之匙"]}
@@ -3046,6 +3040,7 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 19367	{"title": {"chinese": "伽利略少女"}, "synonyms_chinese": []}
 19369	{"title": {"chinese": "萌萌侵略者"}, "synonyms_chinese": []}
 19383	{"title": {"chinese": "闇芝居"}, "synonyms_chinese": ["暗芝居"]}
+19291	{"title": {"chinese": "寵物小精靈 XY"}, "synonyms_chinese": [""]}
 19429	{"title": {"chinese": "惡魔謎題"}, "synonyms_chinese": ["惡魔的謎語"]}
 19469	{"title": {"chinese": "齊木楠雄的災難 OVA"}, "synonyms_chinese": []}
 19489	{"title": {"chinese": "小魔女學院：魔法遊行"}, "synonyms_chinese": ["小魔女學園：魔法遊行"]}
@@ -3261,7 +3256,6 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 20679	{"title": {"chinese": "魔法科高中的劣等生 簡單易懂的魔法科！"}, "synonyms_chinese": []}
 20680	{"title": {"chinese": "Macross Δ"}, "synonyms_chinese": ["超時空要塞 Δ"]}
 20681	{"title": {"chinese": "天真無邪的樂園"}, "synonyms_chinese": []}
-20683	{"title": {"chinese": "Pokemon XY: Mega Evolution"}, "synonyms_chinese": ["寵物小精靈XY 超進化特別篇"]}
 20684	{"title": {"chinese": "世界第一初戀 ~請人節篇~"}, "synonyms_chinese": []}
 20685	{"title": {"chinese": "BUDDY COMPLEX 完結篇"}, "synonyms_chinese": []}
 20686	{"title": {"chinese": "科學超電磁砲S OVA"}, "synonyms_chinese": []}
@@ -3772,7 +3766,6 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 21349	{"title": {"chinese": "ALL OUT!!"}, "synonyms_chinese": []}
 21354	{"title": {"chinese": "血型君 3"}, "synonyms_chinese": ["血型家族 3", "血型小將ABO 3"]}
 21355	{"title": {"chinese": "Re：從零開始的異世界生活"}, "synonyms_chinese": []}
-21356	{"title": {"chinese": "Pokemon XY & Z"}, "synonyms_chinese": ["寵物小精靈XY&Z"]}
 21357	{"title": {"chinese": "境界之輪迴 2"}, "synonyms_chinese": []}
 21358	{"title": {"chinese": "いただきっ! セーエキ♥ SP"}, "synonyms_chinese": []}
 21359	{"title": {"chinese": "房東妹子青春期"}, "synonyms_chinese": ["房東思春期", "蘿莉房東思春期"]}
@@ -4249,7 +4242,6 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 97624	{"title": {"chinese": "僕らのセックス"}, "synonyms_chinese": []}
 97625	{"title": {"chinese": "怪怪守護神"}, "synonyms_chinese": []}
 97631	{"title": {"chinese": "KING OF PRISM -PRIDE the HERO-"}, "synonyms_chinese": []}
-97634	{"title": {"chinese": "Pokemon Sun & Moon"}, "synonyms_chinese": ["寵物小精靈：太陽＆月亮", "神奇寶貝太陽＆月亮"]}
 97636	{"title": {"chinese": "AKIBA' S TRIP -THE ANIMATION-"}, "synonyms_chinese": ["秋葉原之旅"]}
 97637	{"title": {"chinese": "NEW GAME! OVA"}, "synonyms_chinese": []}
 97638	{"title": {"chinese": "100%帕斯卡老師"}, "synonyms_chinese": []}
@@ -5459,7 +5451,6 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 112124	{"title": {"chinese": "在地下城尋求邂逅是否搞錯了什麼 III"}, "synonyms_chinese": []}
 112125	{"title": {"chinese": "在地下城尋求邂逅是否搞錯了什麼 2 OVA"}, "synonyms_chinese": []}
 112151	{"title": {"chinese": "鬼滅之刃 無限列車編"}, "synonyms_chinese": []}
-112153	{"title": {"chinese": "Pocket Monsters (2019)"}, "synonyms_chinese": []}
 112166	{"title": {"chinese": "廚病激發 BOY OVA"}, "synonyms_chinese": []}
 112177	{"title": {"chinese": "實況主的逃脫遊戲【直播中】OVA"}, "synonyms_chinese": ["中之人基因組【實況中】OVA"]}
 112190	{"title": {"chinese": "のぞき彼女"}, "synonyms_chinese": []}
@@ -6591,7 +6582,6 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 158704	{"title": {"chinese": "我的推是壞人大小姐。"}, "synonyms_chinese": []}
 158709	{"title": {"chinese": "Unnamed Memory"}, "synonyms_chinese": ["無名記憶"]}
 158791	{"title": {"chinese": "烈焰先鋒 救國的橘衣消防員"}, "synonyms_chinese": []}
-158871	{"title": {"chinese": "Pocket Monsters (2023)"}, "synonyms_chinese": []}
 158895	{"title": {"chinese": "Arknights 冬隱歸路"}, "synonyms_chinese": ["明日方舟：冬隱歸路"]}
 158896	{"title": {"chinese": "SAND LAND"}, "synonyms_chinese": ["沙漠大冒險"]}
 158898	{"title": {"chinese": "夜櫻家大作戰"}, "synonyms_chinese": []}
@@ -7897,7 +7887,6 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 1755	{"title": {"chinese": "デ・ジ・キャラット お花見スペシャル"}, "synonyms_chinese": []}
 1756	{"title": {"chinese": "Di Gi Charat 夏休みスペシャル"}, "synonyms_chinese": []}
 1758	{"title": {"chinese": "Di Gi Charat 梅雨スペシャル"}, "synonyms_chinese": []}
-20570	{"title": {"chinese": "寵物小精靈BW 第2季 Da！特別篇"}, "synonyms_chinese": []}
 1757	{"title": {"chinese": "デ・ジ・キャラット クリスマススペシャル"}, "synonyms_chinese": []}
 1489	{"title": {"chinese": "鍊金三級魔法少女 OVA"}, "synonyms_chinese": []}
 4765	{"title": {"chinese": "GUNSLINGER GIRL -IL TEATRINO- OVA"}, "synonyms_chinese": []}
@@ -8083,7 +8072,50 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 521	{"title": {"chinese": "真珠美人魚"}, "synonyms_chinese": ["人魚的旋律", "唱K小魚仙", "美人魚PichiPichiPitch"]}
 184762	{"title": {"chinese": "夏目友人帳 漆 特別篇"}, "synonyms_chinese": []}
 18849	{"title": {"chinese": "夏目友人帳 特別篇"}, "synonyms_chinese": ["妖怪連絡簿 特別篇"]}
+5551	{"title": {"chinese": "素人倶楽部/ハメ撮りアニメ完全無修正!!"}, "synonyms_chinese": []}
 21628	{"title": {"chinese": "夜勤病棟 特別実験記録集"}, "synonyms_chinese": [""]}
+527	{"title": {"chinese": "寵物小精靈"}, "synonyms_chinese": []}
+5256	{"title": {"chinese": "寵物小精靈 不可思議的迷宮 時間探險隊・黑暗探險隊"}, "synonyms_chinese": []}
+6275	{"title": {"chinese": "寵物小精靈 不可思議的迷宮 天空探險隊"}, "synonyms_chinese": []}
+17115	{"title": {"chinese": "寵物小精靈 超級願望 第二季 Episode N"}, "synonyms_chinese": [""]}
+158871	{"title": {"chinese": "Pocket Monsters (2023)"}, "synonyms_chinese": ["寵物小精靈 地平線"]}
+17873	{"title": {"chinese": "寵物小精靈 超級願望 第二季 Da！"}, "synonyms_chinese": [""]}
+20159	{"title": {"chinese": "寵物小精靈 THE ORIGIN"}, "synonyms_chinese": []}
+126294	{"title": {"chinese": "寵物小精靈 不可思議的迷宮 偉大之門與∞迷宮"}, "synonyms_chinese": []}
+106499	{"title": {"chinese": "寵物小精靈 XY&Z 特別篇"}, "synonyms_chinese": []}
+175035	{"title": {"chinese": "寵物小精靈 禮賓部 Part 2"}, "synonyms_chinese": []}
+19099	{"title": {"chinese": "寵物小精靈 超夢夢覺醒的序章"}, "synonyms_chinese": []}
+1709	{"title": {"chinese": "寵物小精靈 超夢夢重現 風雲再起！"}, "synonyms_chinese": []}
+1527	{"title": {"chinese": "戰慄的幻影寵物小精靈"}, "synonyms_chinese": []}
+1565	{"title": {"chinese": "寵物小精靈 鑽石&珍珠"}, "synonyms_chinese": []}
+1564	{"title": {"chinese": "寵物小精靈 超世代"}, "synonyms_chinese": []}
+97635	{"title": {"chinese": "寵物小精靈世代"}, "synonyms_chinese": []}
+2363	{"title": {"chinese": "週刊寵物小精靈放送局"}, "synonyms_chinese": []}
+1525	{"title": {"chinese": "寵物小精靈 雷公雷的傳說"}, "synonyms_chinese": []}
+97634	{"title": {"chinese": "寵物小精靈 太陽&月亮"}, "synonyms_chinese": [""]}
+14093	{"title": {"chinese": "寵物小精靈 超級願望 第二季"}, "synonyms_chinese": [""]}
+20683	{"title": {"chinese": "寵物小精靈 XY 超進化特別篇"}, "synonyms_chinese": [""]}
+4795	{"title": {"chinese": "ピカピカ星空キャンプ"}, "synonyms_chinese": []}
+21356	{"title": {"chinese": "寵物小精靈 XY&Z"}, "synonyms_chinese": [""]}
+5529	{"title": {"chinese": "おどるポケモンひみつ基地"}, "synonyms_chinese": []}
+158869	{"title": {"chinese": "寵物小精靈 特別篇 遙遠青空"}, "synonyms_chinese": []}
+9107	{"title": {"chinese": "寵物小精靈 超級願望"}, "synonyms_chinese": [""]}
+2842	{"title": {"chinese": "寵物小精靈 不可思議的迷宮 前勁隊出門去"}, "synonyms_chinese": []}
+20570	{"title": {"chinese": "寵物小精靈 超級願望 第二季 特別篇"}, "synonyms_chinese": []}
+16678	{"title": {"chinese": "ピカチュウとイーブイフレンズ"}, "synonyms_chinese": []}
+13799	{"title": {"chinese": "メロエッタのキラキラリサイタル"}, "synonyms_chinese": []}
+4793	{"title": {"chinese": "ピチューとピカチュウ"}, "synonyms_chinese": []}
+21270	{"title": {"chinese": "ピカチュウとポケモンおんがくたい"}, "synonyms_chinese": []}
+4910	{"title": {"chinese": "ピカチュウのわんぱくアイランド"}, "synonyms_chinese": []}
+142794	{"title": {"chinese": "寵物小精靈 特別篇 被稱為神的阿爾宙斯"}, "synonyms_chinese": []}
+170535	{"title": {"chinese": "名偵探皮卡丘～華麗的早晨儀式～"}, "synonyms_chinese": []}
+162147	{"title": {"chinese": "寵物小精靈 禮賓部"}, "synonyms_chinese": []}
+4794	{"title": {"chinese": "ピカチュウのドキドキかくれんぼ"}, "synonyms_chinese": []}
+5526	{"title": {"chinese": "ピカチュウのなつやすみ"}, "synonyms_chinese": []}
+21271	{"title": {"chinese": "ピカチュウ, これなんのカギ?"}, "synonyms_chinese": []}
+158870	{"title": {"chinese": "寵物小精靈 旅途 目標是寵物小精靈大師"}, "synonyms_chinese": []}
+10302	{"title": {"chinese": "寵物小精靈 鑽石&珍珠 特別篇"}, "synonyms_chinese": []}
+112153	{"title": {"chinese": "寵物小精靈 旅途"}, "synonyms_chinese": [""]}
 \.
 
 
@@ -8099,5 +8131,5 @@ ALTER TABLE ONLY public.anilist_chinese
 -- PostgreSQL database dump complete
 --
 
-\unrestrict 5rnlgocH3prHT2wOWwMfTSuj3w3eNRIEBQ8SUu55cvjqlRcysMeZb4QYUn1U6Bo
+\unrestrict snGXnlfHJfUbZ4x2hGjg6s7QdRUcL1c5vJ5Yjgi1VEBaGsvrRTLsW4aHfrSVhPB
 
