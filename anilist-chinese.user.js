@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      3.2026.1.15
+// @version      3.2026.1.16
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -7863,6 +7863,7 @@ var database = [
 {id:1755,title:"デ・ジ・キャラット お花見スペシャル"},
 {id:1756,title:"Di Gi Charat 夏休みスペシャル"},
 {id:1758,title:"Di Gi Charat 梅雨スペシャル"},
+{id:5333,title:"一騎當千 Great Guardians 格鬥之旅俱樂部 性感COSPLAY 危險的打工？"},
 {id:1757,title:"デ・ジ・キャラット クリスマススペシャル"},
 {id:1489,title:"鍊金三級魔法少女 OVA"},
 {id:4765,title:"GUNSLINGER GIRL -IL TEATRINO- OVA"},
@@ -7888,7 +7889,6 @@ var database = [
 {id:1843,title:"復甦的天空 拯救之翼 OVA"},
 {id:126403,title:"時光代理人"},
 {id:1014,title:"小天使糖糖 OVA"},
-{id:5333,title:"一騎當千 Great Guardians SP"},
 {id:2899,title:"寒蟬鳴泣之時 貓殺篇"},
 {id:2132,title:"いぬかみっ！ THE MOVIE　特命霊的捜査官・仮名史郎っ！"},
 {id:10666,title:"Fireball Special: Making of Fireball"},
@@ -8059,6 +8059,7 @@ var database = [
 {id:20159,title:"寵物小精靈 THE ORIGIN"},
 {id:126294,title:"寵物小精靈 不可思議的迷宮 偉大之門與∞迷宮"},
 {id:106499,title:"寵物小精靈 XY&Z 特別篇"},
+{id:5065,title:"Detroit Metal City: Birth of the Metal Devil"},
 {id:175035,title:"寵物小精靈 禮賓部 Part 2"},
 {id:19099,title:"寵物小精靈 超夢夢覺醒的序章"},
 {id:1709,title:"寵物小精靈 超夢夢重現 風雲再起！"},
@@ -8088,10 +8089,33 @@ var database = [
 {id:162147,title:"寵物小精靈 禮賓部"},
 {id:4794,title:"ピカチュウのドキドキかくれんぼ"},
 {id:5526,title:"ピカチュウのなつやすみ"},
+{id:87475,title:"一騎當千 Extravaganza Epoch"},
 {id:21271,title:"ピカチュウ, これなんのカギ?"},
+{id:3702,title:"Detroit Metal City"},
 {id:158870,title:"寵物小精靈 旅途 目標是寵物小精靈大師"},
 {id:10302,title:"寵物小精靈 鑽石&珍珠 特別篇"},
-{id:112153,title:"寵物小精靈 旅途"}
+{id:112153,title:"寵物小精靈 旅途"},
+{id:101817,title:"地獄刑警 短篇"},
+{id:17843,title:"地獄刑警 Fact Files"},
+{id:16774,title:"地獄刑警"},
+{id:8507,title:"一騎當千 Xtreme Xecutor 美夢六景"},
+{id:11255,title:"一騎當千 集鍔鬥士血風錄"},
+{id:2905,title:"一騎當千 Dragon Destiny 赤壁溫泉大決戰"},
+{id:287,title:"刃牙"},
+{id:551,title:"刃牙 II"},
+{id:1859,title:"刃牙 The Ultimate Fighter"},
+{id:567,title:"The Big O"},
+{id:138,title:"HUNTER×HUNTER: Greed Island"},
+{id:516,title:"Keroro軍曹"},
+{id:2402,title:"鐵拳浪子"},
+{id:2922,title:"鐵拳浪子 2"},
+{id:2920,title:"鐵拳浪子 (電影)"},
+{id:129608,title:"The Big O (2003)"},
+{id:687,title:"東京喵喵"},
+{id:136,title:"HUNTER×HUNTER"},
+{id:139,title:"HUNTER×HUNTER: G・I Final"},
+{id:137,title:"HUNTER×HUNTER OVA"},
+{id:2921,title:"鐵拳浪子 第二部"}
 ];
 
 var updating;

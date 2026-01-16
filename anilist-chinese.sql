@@ -2,7 +2,7 @@
 -- PostgreSQL database dump
 --
 
-\restrict snGXnlfHJfUbZ4x2hGjg6s7QdRUcL1c5vJ5Yjgi1VEBaGsvrRTLsW4aHfrSVhPB
+\restrict 7fowZKQT5MH32yk5diDOXGcUNEJaJtPDWOeyA5hafJ8WEalidGyzcjNZbA2X3mu
 
 -- Dumped from database version 18.1 (Debian 18.1-1.pgdg13+2)
 -- Dumped by pg_dump version 18.1 (Debian 18.1-1.pgdg13+2)
@@ -7887,6 +7887,7 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 1755	{"title": {"chinese": "デ・ジ・キャラット お花見スペシャル"}, "synonyms_chinese": []}
 1756	{"title": {"chinese": "Di Gi Charat 夏休みスペシャル"}, "synonyms_chinese": []}
 1758	{"title": {"chinese": "Di Gi Charat 梅雨スペシャル"}, "synonyms_chinese": []}
+5333	{"title": {"chinese": "一騎當千 Great Guardians 格鬥之旅俱樂部 性感COSPLAY 危險的打工？"}, "synonyms_chinese": []}
 1757	{"title": {"chinese": "デ・ジ・キャラット クリスマススペシャル"}, "synonyms_chinese": []}
 1489	{"title": {"chinese": "鍊金三級魔法少女 OVA"}, "synonyms_chinese": []}
 4765	{"title": {"chinese": "GUNSLINGER GIRL -IL TEATRINO- OVA"}, "synonyms_chinese": []}
@@ -7912,7 +7913,6 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 1843	{"title": {"chinese": "復甦的天空 拯救之翼 OVA"}, "synonyms_chinese": []}
 126403	{"title": {"chinese": "時光代理人"}, "synonyms_chinese": []}
 1014	{"title": {"chinese": "小天使糖糖 OVA"}, "synonyms_chinese": []}
-5333	{"title": {"chinese": "一騎當千 Great Guardians SP"}, "synonyms_chinese": []}
 2899	{"title": {"chinese": "寒蟬鳴泣之時 貓殺篇"}, "synonyms_chinese": []}
 2132	{"title": {"chinese": "いぬかみっ！ THE MOVIE　特命霊的捜査官・仮名史郎っ！"}, "synonyms_chinese": []}
 10666	{"title": {"chinese": "Fireball Special: Making of Fireball"}, "synonyms_chinese": []}
@@ -8083,6 +8083,7 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 20159	{"title": {"chinese": "寵物小精靈 THE ORIGIN"}, "synonyms_chinese": []}
 126294	{"title": {"chinese": "寵物小精靈 不可思議的迷宮 偉大之門與∞迷宮"}, "synonyms_chinese": []}
 106499	{"title": {"chinese": "寵物小精靈 XY&Z 特別篇"}, "synonyms_chinese": []}
+5065	{"title": {"chinese": "Detroit Metal City: Birth of the Metal Devil"}, "synonyms_chinese": ["底特律金屬城", "重金搖滾雙面人", "爆粗BAND友"]}
 175035	{"title": {"chinese": "寵物小精靈 禮賓部 Part 2"}, "synonyms_chinese": []}
 19099	{"title": {"chinese": "寵物小精靈 超夢夢覺醒的序章"}, "synonyms_chinese": []}
 1709	{"title": {"chinese": "寵物小精靈 超夢夢重現 風雲再起！"}, "synonyms_chinese": []}
@@ -8112,10 +8113,33 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 162147	{"title": {"chinese": "寵物小精靈 禮賓部"}, "synonyms_chinese": []}
 4794	{"title": {"chinese": "ピカチュウのドキドキかくれんぼ"}, "synonyms_chinese": []}
 5526	{"title": {"chinese": "ピカチュウのなつやすみ"}, "synonyms_chinese": []}
+87475	{"title": {"chinese": "一騎當千 Extravaganza Epoch"}, "synonyms_chinese": []}
 21271	{"title": {"chinese": "ピカチュウ, これなんのカギ?"}, "synonyms_chinese": []}
+3702	{"title": {"chinese": "Detroit Metal City"}, "synonyms_chinese": ["底特律金屬城", "重金搖滾雙面人", "爆粗BAND友"]}
 158870	{"title": {"chinese": "寵物小精靈 旅途 目標是寵物小精靈大師"}, "synonyms_chinese": []}
 10302	{"title": {"chinese": "寵物小精靈 鑽石&珍珠 特別篇"}, "synonyms_chinese": []}
 112153	{"title": {"chinese": "寵物小精靈 旅途"}, "synonyms_chinese": [""]}
+101817	{"title": {"chinese": "地獄刑警 短篇"}, "synonyms_chinese": []}
+17843	{"title": {"chinese": "地獄刑警 Fact Files"}, "synonyms_chinese": [""]}
+16774	{"title": {"chinese": "地獄刑警"}, "synonyms_chinese": [""]}
+8507	{"title": {"chinese": "一騎當千 Xtreme Xecutor 美夢六景"}, "synonyms_chinese": []}
+11255	{"title": {"chinese": "一騎當千 集鍔鬥士血風錄"}, "synonyms_chinese": []}
+2905	{"title": {"chinese": "一騎當千 Dragon Destiny 赤壁溫泉大決戰"}, "synonyms_chinese": []}
+287	{"title": {"chinese": "刃牙"}, "synonyms_chinese": []}
+551	{"title": {"chinese": "刃牙 II"}, "synonyms_chinese": []}
+1859	{"title": {"chinese": "刃牙 The Ultimate Fighter"}, "synonyms_chinese": []}
+567	{"title": {"chinese": "The Big O"}, "synonyms_chinese": []}
+138	{"title": {"chinese": "HUNTER×HUNTER: Greed Island"}, "synonyms_chinese": []}
+516	{"title": {"chinese": "Keroro軍曹"}, "synonyms_chinese": []}
+2402	{"title": {"chinese": "鐵拳浪子"}, "synonyms_chinese": []}
+2922	{"title": {"chinese": "鐵拳浪子 2"}, "synonyms_chinese": []}
+2920	{"title": {"chinese": "鐵拳浪子 (電影)"}, "synonyms_chinese": []}
+129608	{"title": {"chinese": "The Big O (2003)"}, "synonyms_chinese": []}
+687	{"title": {"chinese": "東京喵喵"}, "synonyms_chinese": []}
+136	{"title": {"chinese": "HUNTER×HUNTER"}, "synonyms_chinese": ["全職獵人"]}
+139	{"title": {"chinese": "HUNTER×HUNTER: G・I Final"}, "synonyms_chinese": []}
+137	{"title": {"chinese": "HUNTER×HUNTER OVA"}, "synonyms_chinese": ["全職獵人 友客鑫市完結篇"]}
+2921	{"title": {"chinese": "鐵拳浪子 第二部"}, "synonyms_chinese": []}
 \.
 
 
@@ -8131,5 +8155,5 @@ ALTER TABLE ONLY public.anilist_chinese
 -- PostgreSQL database dump complete
 --
 
-\unrestrict snGXnlfHJfUbZ4x2hGjg6s7QdRUcL1c5vJ5Yjgi1VEBaGsvrRTLsW4aHfrSVhPB
+\unrestrict 7fowZKQT5MH32yk5diDOXGcUNEJaJtPDWOeyA5hafJ8WEalidGyzcjNZbA2X3mu
 

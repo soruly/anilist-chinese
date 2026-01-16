@@ -44246,6 +44246,11 @@
     "synonyms": []
   },
   {
+    "id": 5333,
+    "title": "一騎當千 Great Guardians 格鬥之旅俱樂部 性感COSPLAY 危險的打工？",
+    "synonyms": []
+  },
+  {
     "id": 1757,
     "title": "デ・ジ・キャラット クリスマススペシャル",
     "synonyms": []
@@ -44374,11 +44379,6 @@
   {
     "id": 1014,
     "title": "小天使糖糖 OVA",
-    "synonyms": []
-  },
-  {
-    "id": 5333,
-    "title": "一騎當千 Great Guardians SP",
     "synonyms": []
   },
   {
@@ -45252,6 +45252,15 @@
     "synonyms": []
   },
   {
+    "id": 5065,
+    "title": "Detroit Metal City: Birth of the Metal Devil",
+    "synonyms": [
+      "底特律金屬城",
+      "重金搖滾雙面人",
+      "爆粗BAND友"
+    ]
+  },
+  {
     "id": 175035,
     "title": "寵物小精靈 禮賓部 Part 2",
     "synonyms": []
@@ -45407,9 +45416,23 @@
     "synonyms": []
   },
   {
+    "id": 87475,
+    "title": "一騎當千 Extravaganza Epoch",
+    "synonyms": []
+  },
+  {
     "id": 21271,
     "title": "ピカチュウ, これなんのカギ?",
     "synonyms": []
+  },
+  {
+    "id": 3702,
+    "title": "Detroit Metal City",
+    "synonyms": [
+      "底特律金屬城",
+      "重金搖滾雙面人",
+      "爆粗BAND友"
+    ]
   },
   {
     "id": 158870,
@@ -45427,5 +45450,118 @@
     "synonyms": [
       ""
     ]
+  },
+  {
+    "id": 101817,
+    "title": "地獄刑警 短篇",
+    "synonyms": []
+  },
+  {
+    "id": 17843,
+    "title": "地獄刑警 Fact Files",
+    "synonyms": [
+      ""
+    ]
+  },
+  {
+    "id": 16774,
+    "title": "地獄刑警",
+    "synonyms": [
+      ""
+    ]
+  },
+  {
+    "id": 8507,
+    "title": "一騎當千 Xtreme Xecutor 美夢六景",
+    "synonyms": []
+  },
+  {
+    "id": 11255,
+    "title": "一騎當千 集鍔鬥士血風錄",
+    "synonyms": []
+  },
+  {
+    "id": 2905,
+    "title": "一騎當千 Dragon Destiny 赤壁溫泉大決戰",
+    "synonyms": []
+  },
+  {
+    "id": 287,
+    "title": "刃牙",
+    "synonyms": []
+  },
+  {
+    "id": 551,
+    "title": "刃牙 II",
+    "synonyms": []
+  },
+  {
+    "id": 1859,
+    "title": "刃牙 The Ultimate Fighter",
+    "synonyms": []
+  },
+  {
+    "id": 567,
+    "title": "The Big O",
+    "synonyms": []
+  },
+  {
+    "id": 138,
+    "title": "HUNTER×HUNTER: Greed Island",
+    "synonyms": []
+  },
+  {
+    "id": 516,
+    "title": "Keroro軍曹",
+    "synonyms": []
+  },
+  {
+    "id": 2402,
+    "title": "鐵拳浪子",
+    "synonyms": []
+  },
+  {
+    "id": 2922,
+    "title": "鐵拳浪子 2",
+    "synonyms": []
+  },
+  {
+    "id": 2920,
+    "title": "鐵拳浪子 (電影)",
+    "synonyms": []
+  },
+  {
+    "id": 129608,
+    "title": "The Big O (2003)",
+    "synonyms": []
+  },
+  {
+    "id": 687,
+    "title": "東京喵喵",
+    "synonyms": []
+  },
+  {
+    "id": 136,
+    "title": "HUNTER×HUNTER",
+    "synonyms": [
+      "全職獵人"
+    ]
+  },
+  {
+    "id": 139,
+    "title": "HUNTER×HUNTER: G・I Final",
+    "synonyms": []
+  },
+  {
+    "id": 137,
+    "title": "HUNTER×HUNTER OVA",
+    "synonyms": [
+      "全職獵人 友客鑫市完結篇"
+    ]
+  },
+  {
+    "id": 2921,
+    "title": "鐵拳浪子 第二部",
+    "synonyms": []
   }
 ]
