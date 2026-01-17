@@ -8091,14 +8091,14 @@ const db = new Map([
 [138,{title:"HUNTER×HUNTER: Greed Island",synonyms:[]}],
 [516,{title:"Keroro軍曹",synonyms:[]}],
 [2402,{title:"鐵拳浪子",synonyms:[]}],
-[2922,{title:"鐵拳浪子 2",synonyms:[]}],
 [2920,{title:"鐵拳浪子 (電影)",synonyms:[]}],
+[2922,{title:"鐵拳浪子 2 (電影)",synonyms:[]}],
 [129608,{title:"The Big O (2003)",synonyms:[]}],
 [687,{title:"東京喵喵",synonyms:[]}],
 [136,{title:"HUNTER×HUNTER",synonyms:["全職獵人"]}],
 [139,{title:"HUNTER×HUNTER: G・I Final",synonyms:[]}],
 [137,{title:"HUNTER×HUNTER OVA",synonyms:["全職獵人 友客鑫市完結篇"]}],
-[2921,{title:"鐵拳浪子 第二部",synonyms:[]}]
+[2921,{title:"鐵拳浪子 2",synonyms:[]}]
 ]);
 
 async function handleRequest(req) {

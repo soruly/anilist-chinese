@@ -2,7 +2,7 @@
 -- PostgreSQL database dump
 --
 
-\restrict 7fowZKQT5MH32yk5diDOXGcUNEJaJtPDWOeyA5hafJ8WEalidGyzcjNZbA2X3mu
+\restrict YT5KuxDCoH15n82XsSNyN1HvETxsi2Wao7mY6FBimli5aHYZ4VOhlm3uic8z8De
 
 -- Dumped from database version 18.1 (Debian 18.1-1.pgdg13+2)
 -- Dumped by pg_dump version 18.1 (Debian 18.1-1.pgdg13+2)
@@ -8132,14 +8132,14 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 138	{"title": {"chinese": "HUNTER×HUNTER: Greed Island"}, "synonyms_chinese": []}
 516	{"title": {"chinese": "Keroro軍曹"}, "synonyms_chinese": []}
 2402	{"title": {"chinese": "鐵拳浪子"}, "synonyms_chinese": []}
-2922	{"title": {"chinese": "鐵拳浪子 2"}, "synonyms_chinese": []}
 2920	{"title": {"chinese": "鐵拳浪子 (電影)"}, "synonyms_chinese": []}
+2922	{"title": {"chinese": "鐵拳浪子 2 (電影)"}, "synonyms_chinese": []}
 129608	{"title": {"chinese": "The Big O (2003)"}, "synonyms_chinese": []}
 687	{"title": {"chinese": "東京喵喵"}, "synonyms_chinese": []}
 136	{"title": {"chinese": "HUNTER×HUNTER"}, "synonyms_chinese": ["全職獵人"]}
 139	{"title": {"chinese": "HUNTER×HUNTER: G・I Final"}, "synonyms_chinese": []}
 137	{"title": {"chinese": "HUNTER×HUNTER OVA"}, "synonyms_chinese": ["全職獵人 友客鑫市完結篇"]}
-2921	{"title": {"chinese": "鐵拳浪子 第二部"}, "synonyms_chinese": []}
+2921	{"title": {"chinese": "鐵拳浪子 2"}, "synonyms_chinese": []}
 \.
 
 
@@ -8155,5 +8155,5 @@ ALTER TABLE ONLY public.anilist_chinese
 -- PostgreSQL database dump complete
 --
 
-\unrestrict 7fowZKQT5MH32yk5diDOXGcUNEJaJtPDWOeyA5hafJ8WEalidGyzcjNZbA2X3mu
+\unrestrict YT5KuxDCoH15n82XsSNyN1HvETxsi2Wao7mY6FBimli5aHYZ4VOhlm3uic8z8De
 

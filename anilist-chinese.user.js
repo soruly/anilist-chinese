@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      3.2026.1.16
+// @version      3.2026.1.17
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -8108,14 +8108,14 @@ var database = [
 {id:138,title:"HUNTER×HUNTER: Greed Island"},
 {id:516,title:"Keroro軍曹"},
 {id:2402,title:"鐵拳浪子"},
-{id:2922,title:"鐵拳浪子 2"},
 {id:2920,title:"鐵拳浪子 (電影)"},
+{id:2922,title:"鐵拳浪子 2 (電影)"},
 {id:129608,title:"The Big O (2003)"},
 {id:687,title:"東京喵喵"},
 {id:136,title:"HUNTER×HUNTER"},
 {id:139,title:"HUNTER×HUNTER: G・I Final"},
 {id:137,title:"HUNTER×HUNTER OVA"},
-{id:2921,title:"鐵拳浪子 第二部"}
+{id:2921,title:"鐵拳浪子 2"}
 ];
 
 var updating;
