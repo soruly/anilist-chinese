@@ -2,7 +2,7 @@
 -- PostgreSQL database dump
 --
 
-\restrict YT5KuxDCoH15n82XsSNyN1HvETxsi2Wao7mY6FBimli5aHYZ4VOhlm3uic8z8De
+\restrict tFez9RMEPZeCkCKkPSlhzBrx1qv2vndBVctQTfQ2iSDxZ9SuEs0DEwcQAyTq3tW
 
 -- Dumped from database version 18.1 (Debian 18.1-1.pgdg13+2)
 -- Dumped by pg_dump version 18.1 (Debian 18.1-1.pgdg13+2)
@@ -877,7 +877,6 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 2138	{"title": {"chinese": "影Shadow"}, "synonyms_chinese": []}
 2139	{"title": {"chinese": "下級生2～季花詞集〔Anthology〕～"}, "synonyms_chinese": []}
 2140	{"title": {"chinese": "兄嫁"}, "synonyms_chinese": []}
-2143	{"title": {"chinese": "最遊記 RELOAD Burial"}, "synonyms_chinese": []}
 2144	{"title": {"chinese": "火影忍者劇場版：大興奮！三日月島上的動物騷亂"}, "synonyms_chinese": []}
 2145	{"title": {"chinese": "ブラックゲート 姦淫の学園"}, "synonyms_chinese": []}
 2147	{"title": {"chinese": "Call Me Tonight"}, "synonyms_chinese": []}
@@ -4344,7 +4343,6 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 97986	{"title": {"chinese": "Made in Abyss"}, "synonyms_chinese": ["來自深淵"]}
 97988	{"title": {"chinese": "DRIFTERS OVA"}, "synonyms_chinese": []}
 97994	{"title": {"chinese": "Blend・S"}, "synonyms_chinese": ["調教咖啡廳"]}
-98514	{"title": {"chinese": "賽馬娘Pretty Derby"}, "synonyms_chinese": []}
 97995	{"title": {"chinese": "在世界盡頭詠唱戀曲的少女YU-NO"}, "synonyms_chinese": ["YU-NO 在這世界盡頭詠唱愛的少女", "在世界盡頭詠唱戀曲的少女YU-NO", "在這世界盡頭歌頌愛的少女YU-NO", "在今世的最後歌頌戀愛的少女YU-NO"]}
 97996	{"title": {"chinese": "為美好的世界獻上祝福！2 OVA"}, "synonyms_chinese": []}
 98004	{"title": {"chinese": "GRAVITY DAZE The Animation ~Ouverture~"}, "synonyms_chinese": ["重力異想世界 動畫序曲"]}
@@ -5012,7 +5010,6 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 103221	{"title": {"chinese": "海獸之子"}, "synonyms_chinese": []}
 103222	{"title": {"chinese": "魔法少女特殊戰明日香"}, "synonyms_chinese": []}
 103223	{"title": {"chinese": "文豪Stray Dogs 3"}, "synonyms_chinese": []}
-103237	{"title": {"chinese": "賽馬娘Pretty Derby OVA"}, "synonyms_chinese": []}
 103256	{"title": {"chinese": "Nekopara OVA Extra"}, "synonyms_chinese": ["貓娘樂園 OVA Extra"]}
 103275	{"title": {"chinese": "Fate/Grand Order - 絕對魔獸戰線巴比倫尼亞 -"}, "synonyms_chinese": []}
 103276	{"title": {"chinese": "Fate Grand Order - 神聖圓桌領域卡美洛 前編 Wandering; Agateram"}, "synonyms_chinese": []}
@@ -5796,7 +5793,6 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 124153	{"title": {"chinese": "SK8 the Infinity"}, "synonyms_chinese": []}
 124194	{"title": {"chinese": "Fruits Basket The Final"}, "synonyms_chinese": ["魔法水果籃 最終季"]}
 124195	{"title": {"chinese": "範馬刃牙"}, "synonyms_chinese": []}
-124223	{"title": {"chinese": "賽馬娘Pretty Derby Season 2"}, "synonyms_chinese": []}
 124337	{"title": {"chinese": "魔法使的新娘 學院篇"}, "synonyms_chinese": []}
 124394	{"title": {"chinese": "八十龜醬觀察日記 3"}, "synonyms_chinese": []}
 124395	{"title": {"chinese": "宇崎學妹想要玩！ω"}, "synonyms_chinese": []}
@@ -6551,7 +6547,6 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 156162	{"title": {"chinese": "ヤリ上がり"}, "synonyms_chinese": []}
 156184	{"title": {"chinese": "想當冒險者前往都市的女兒成為 S 級"}, "synonyms_chinese": []}
 156415	{"title": {"chinese": "轉生為第七王子，隨心所欲的魔法學習之路"}, "synonyms_chinese": []}
-156632	{"title": {"chinese": "賽馬娘Pretty Derby Season 3"}, "synonyms_chinese": []}
 156727	{"title": {"chinese": "i☆Ris the Movie -Full Energy!!-"}, "synonyms_chinese": []}
 156822	{"title": {"chinese": "關於我轉生變成史萊姆這檔事 3"}, "synonyms_chinese": []}
 156841	{"title": {"chinese": "名偵探柯南：黑鐵的魚影"}, "synonyms_chinese": []}
@@ -6863,7 +6858,6 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 172398	{"title": {"chinese": "ルインズシーカー"}, "synonyms_chinese": []}
 172399	{"title": {"chinese": "おじさんで埋める穴 The Animation"}, "synonyms_chinese": []}
 172416	{"title": {"chinese": "從路人角色開始的探索英雄譚"}, "synonyms_chinese": []}
-172420	{"title": {"chinese": "賽馬娘Pretty Derby 新時代之門"}, "synonyms_chinese": []}
 172964	{"title": {"chinese": "雀魂 槓!!"}, "synonyms_chinese": []}
 173240	{"title": {"chinese": "明明只是個煙霧彈配角，卻得到完美王子的寵愛。"}, "synonyms_chinese": []}
 173263	{"title": {"chinese": "凍牌~地下麻將鬥牌錄~"}, "synonyms_chinese": []}
@@ -8134,12 +8128,52 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 2402	{"title": {"chinese": "鐵拳浪子"}, "synonyms_chinese": []}
 2920	{"title": {"chinese": "鐵拳浪子 (電影)"}, "synonyms_chinese": []}
 2922	{"title": {"chinese": "鐵拳浪子 2 (電影)"}, "synonyms_chinese": []}
+2125	{"title": {"chinese": "幽遊白書 映像白書 暗黑武術會之章"}, "synonyms_chinese": []}
+6964	{"title": {"chinese": "幽遊白書 Picture Drama"}, "synonyms_chinese": []}
+98582	{"title": {"chinese": "鑽石王牌 第二季 OVA"}, "synonyms_chinese": []}
+392	{"title": {"chinese": "幽遊白書"}, "synonyms_chinese": []}
+140291	{"title": {"chinese": "迪士尼 扭曲仙境 THE ANIMATION - Season 1: EPISODE of HEARTSLABYUL"}, "synonyms_chinese": []}
 129608	{"title": {"chinese": "The Big O (2003)"}, "synonyms_chinese": []}
 687	{"title": {"chinese": "東京喵喵"}, "synonyms_chinese": []}
 136	{"title": {"chinese": "HUNTER×HUNTER"}, "synonyms_chinese": ["全職獵人"]}
+202282	{"title": {"chinese": "迪士尼 扭曲仙境 THE ANIMATION - Season 2: EPISODE of SAVANACLAW"}, "synonyms_chinese": []}
 139	{"title": {"chinese": "HUNTER×HUNTER: G・I Final"}, "synonyms_chinese": []}
+953	{"title": {"chinese": "獸王星"}, "synonyms_chinese": []}
+1212	{"title": {"chinese": "Oban Star-Racers"}, "synonyms_chinese": []}
+158541	{"title": {"chinese": "Princess Princess Specials"}, "synonyms_chinese": []}
 137	{"title": {"chinese": "HUNTER×HUNTER OVA"}, "synonyms_chinese": ["全職獵人 友客鑫市完結篇"]}
+907	{"title": {"chinese": "Princess Princess"}, "synonyms_chinese": ["變身公主", "公主・公主"]}
+20461	{"title": {"chinese": "雙面騎士"}, "synonyms_chinese": []}
 2921	{"title": {"chinese": "鐵拳浪子 2"}, "synonyms_chinese": []}
+242	{"title": {"chinese": "極道鮮師"}, "synonyms_chinese": ["我Miss係大佬"]}
+1050	{"title": {"chinese": "鼻毛真拳"}, "synonyms_chinese": []}
+3218	{"title": {"chinese": "最遊記"}, "synonyms_chinese": []}
+1946	{"title": {"chinese": "明日的娜嘉"}, "synonyms_chinese": ["明日之星娜佳", "妮嘉尋親記"]}
+195240	{"title": {"chinese": "賽馬娘 Cinderella Gray Part 2"}, "synonyms_chinese": []}
+172420	{"title": {"chinese": "賽馬娘 Pretty Derby 新時代之門"}, "synonyms_chinese": []}
+98514	{"title": {"chinese": "賽馬娘 Pretty Derby"}, "synonyms_chinese": []}
+124223	{"title": {"chinese": "賽馬娘 Pretty Derby Season 2"}, "synonyms_chinese": []}
+103237	{"title": {"chinese": "賽馬娘 Pretty Derby OVA"}, "synonyms_chinese": []}
+156632	{"title": {"chinese": "賽馬娘 Pretty Derby Season 3"}, "synonyms_chinese": []}
+52	{"title": {"chinese": "ANGELIC LAYER 天使領域"}, "synonyms_chinese": []}
+145608	{"title": {"chinese": "賽馬娘 Pretty Derby 1st Anniversary PV"}, "synonyms_chinese": []}
+2143	{"title": {"chinese": "最遊記 RELOAD -burial-"}, "synonyms_chinese": []}
+4476	{"title": {"chinese": "幻想魔傳 最遊記 希望的罪過"}, "synonyms_chinese": []}
+6434	{"title": {"chinese": "最遊記 RELOAD 裏話"}, "synonyms_chinese": []}
+129	{"title": {"chinese": "幻想魔傳 最遊記"}, "synonyms_chinese": []}
+800	{"title": {"chinese": "NieA_7"}, "synonyms_chinese": ["我家也有外星人"]}
+17137	{"title": {"chinese": "最遊記外傳 香花之章"}, "synonyms_chinese": []}
+198312	{"title": {"chinese": "陛下請忘記我吧"}, "synonyms_chinese": []}
+484	{"title": {"chinese": "劇場版 幻想魔傳 最遊記 Requiem 獻給落選者的安魂曲"}, "synonyms_chinese": []}
+139451	{"title": {"chinese": "加油吧同期醬 第13話"}, "synonyms_chinese": []}
+176862	{"title": {"chinese": "幽遊白書 片頭片尾大百科"}, "synonyms_chinese": []}
+12455	{"title": {"chinese": "幽遊白書 夢夢白書"}, "synonyms_chinese": []}
+185992	{"title": {"chinese": "我與尼特女忍者的莫名同居生活 OVA"}, "synonyms_chinese": []}
+9088	{"title": {"chinese": "最遊記外傳"}, "synonyms_chinese": []}
+139466	{"title": {"chinese": "月曜日のたわわ 2 特典"}, "synonyms_chinese": []}
+102631	{"title": {"chinese": "幽遊白書 OVA TWO SHOTS 是成是敗"}, "synonyms_chinese": []}
+883	{"title": {"chinese": "幽遊白書 冥界死鬥篇 炎之絆"}, "synonyms_chinese": []}
+882	{"title": {"chinese": "幽遊白書 (電影)"}, "synonyms_chinese": []}
 \.
 
 
@@ -8155,5 +8189,5 @@ ALTER TABLE ONLY public.anilist_chinese
 -- PostgreSQL database dump complete
 --
 
-\unrestrict YT5KuxDCoH15n82XsSNyN1HvETxsi2Wao7mY6FBimli5aHYZ4VOhlm3uic8z8De
+\unrestrict tFez9RMEPZeCkCKkPSlhzBrx1qv2vndBVctQTfQ2iSDxZ9SuEs0DEwcQAyTq3tW
 
