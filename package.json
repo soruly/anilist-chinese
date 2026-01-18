@@ -6,9 +6,9 @@
   "type": "module",
   "scripts": {
     "prettier": "prettier",
-    "format": "prettier --write \"**/*.js\"",
-    "lint": "prettier --check \"**/*.js\"",
-    "test": "prettier --check \"**/*.js\""
+    "format": "prettier --write \"**/*.(js|ts)\"",
+    "lint": "prettier --check \"**/*.(js|ts)\"",
+    "test": "prettier --check \"**/*.(js|ts)\""
   },
   "repository": {
     "type": "git",
@@ -27,6 +27,7 @@
     "postgres": "^3.4.8"
   },
   "devDependencies": {
+    "@types/node": "^25.0.9",
     "prettier": "^3.8.0"
   }
 }
