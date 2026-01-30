@@ -27,7 +27,7 @@
     "postgres": "^3.4.8"
   },
   "devDependencies": {
-    "@types/node": "^25.0.9",
+    "@types/node": "^25.1.0",
     "prettier": "^3.8.1"
   }
 }
