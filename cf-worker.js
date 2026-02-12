@@ -7483,7 +7483,6 @@ const db = new Map([
 [176246,{title:"mono",synonyms:["mono 女孩"]}],
 [180124,{title:"小動物餅乾 THE MOVIE",synonyms:[]}],
 [162682,{title:"怪盜皇后的優雅假期",synonyms:[]}],
-[181839,{title:"小林家的龍女僕 孤獨的龍",synonyms:[]}],
 [173335,{title:"神椿市建設中。",synonyms:[]}],
 [181841,{title:"CITY THE ANIMATION",synonyms:[]}],
 [184470,{title:"秘密的美妙公主 第二季",synonyms:[]}],
@@ -8129,10 +8128,13 @@ const db = new Map([
 [12455,{title:"幽遊白書 夢夢白書",synonyms:[]}],
 [185992,{title:"我與尼特女忍者的莫名同居生活 OVA",synonyms:[]}],
 [9088,{title:"最遊記外傳",synonyms:[]}],
+[202957,{title:"名偵探光之美少女",synonyms:[]}],
 [139466,{title:"月曜日のたわわ 2 特典",synonyms:[]}],
 [102631,{title:"幽遊白書 OVA TWO SHOTS 是成是敗",synonyms:[]}],
 [883,{title:"幽遊白書 冥界死鬥篇 炎之絆",synonyms:[]}],
-[882,{title:"幽遊白書 (電影)",synonyms:[]}]
+[882,{title:"幽遊白書 (電影)",synonyms:[]}],
+[181440,{title:"ALDNOAH.ZERO OVA",synonyms:[]}],
+[181839,{title:"小林家的龍女僕 怕寂寞的龍",synonyms:[]}]
 ]);
 
 async function handleRequest(req) {

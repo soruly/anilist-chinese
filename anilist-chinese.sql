@@ -2,7 +2,7 @@
 -- PostgreSQL database dump
 --
 
-\restrict tFez9RMEPZeCkCKkPSlhzBrx1qv2vndBVctQTfQ2iSDxZ9SuEs0DEwcQAyTq3tW
+\restrict VSdZYIscyIzIPEQxtdvra7CcprCyP9Q9YsawTXVIdAZNZX8Yl01IQvbYez6dI6y
 
 -- Dumped from database version 18.1 (Debian 18.1-1.pgdg13+2)
 -- Dumped by pg_dump version 18.1 (Debian 18.1-1.pgdg13+2)
@@ -7524,7 +7524,6 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 176246	{"title": {"chinese": "mono"}, "synonyms_chinese": ["mono 女孩"]}
 180124	{"title": {"chinese": "小動物餅乾 THE MOVIE"}, "synonyms_chinese": []}
 162682	{"title": {"chinese": "怪盜皇后的優雅假期"}, "synonyms_chinese": []}
-181839	{"title": {"chinese": "小林家的龍女僕 孤獨的龍"}, "synonyms_chinese": []}
 173335	{"title": {"chinese": "神椿市建設中。"}, "synonyms_chinese": []}
 181841	{"title": {"chinese": "CITY THE ANIMATION"}, "synonyms_chinese": []}
 184470	{"title": {"chinese": "秘密的美妙公主 第二季"}, "synonyms_chinese": []}
@@ -8170,10 +8169,13 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 12455	{"title": {"chinese": "幽遊白書 夢夢白書"}, "synonyms_chinese": []}
 185992	{"title": {"chinese": "我與尼特女忍者的莫名同居生活 OVA"}, "synonyms_chinese": []}
 9088	{"title": {"chinese": "最遊記外傳"}, "synonyms_chinese": []}
+202957	{"title": {"chinese": "名偵探光之美少女"}, "synonyms_chinese": []}
 139466	{"title": {"chinese": "月曜日のたわわ 2 特典"}, "synonyms_chinese": []}
 102631	{"title": {"chinese": "幽遊白書 OVA TWO SHOTS 是成是敗"}, "synonyms_chinese": []}
 883	{"title": {"chinese": "幽遊白書 冥界死鬥篇 炎之絆"}, "synonyms_chinese": []}
 882	{"title": {"chinese": "幽遊白書 (電影)"}, "synonyms_chinese": []}
+181440	{"title": {"chinese": "ALDNOAH.ZERO OVA"}, "synonyms_chinese": []}
+181839	{"title": {"chinese": "小林家的龍女僕 怕寂寞的龍"}, "synonyms_chinese": []}
 \.
 
 
@@ -8189,5 +8191,5 @@ ALTER TABLE ONLY public.anilist_chinese
 -- PostgreSQL database dump complete
 --
 
-\unrestrict tFez9RMEPZeCkCKkPSlhzBrx1qv2vndBVctQTfQ2iSDxZ9SuEs0DEwcQAyTq3tW
+\unrestrict VSdZYIscyIzIPEQxtdvra7CcprCyP9Q9YsawTXVIdAZNZX8Yl01IQvbYez6dI6y
 

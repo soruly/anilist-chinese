@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      3.2026.1.18
+// @version      3.2026.2.11
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -7500,7 +7500,6 @@ var database = [
 {id:176246,title:"mono"},
 {id:180124,title:"小動物餅乾 THE MOVIE"},
 {id:162682,title:"怪盜皇后的優雅假期"},
-{id:181839,title:"小林家的龍女僕 孤獨的龍"},
 {id:173335,title:"神椿市建設中。"},
 {id:181841,title:"CITY THE ANIMATION"},
 {id:184470,title:"秘密的美妙公主 第二季"},
@@ -8146,10 +8145,13 @@ var database = [
 {id:12455,title:"幽遊白書 夢夢白書"},
 {id:185992,title:"我與尼特女忍者的莫名同居生活 OVA"},
 {id:9088,title:"最遊記外傳"},
+{id:202957,title:"名偵探光之美少女"},
 {id:139466,title:"月曜日のたわわ 2 特典"},
 {id:102631,title:"幽遊白書 OVA TWO SHOTS 是成是敗"},
 {id:883,title:"幽遊白書 冥界死鬥篇 炎之絆"},
-{id:882,title:"幽遊白書 (電影)"}
+{id:882,title:"幽遊白書 (電影)"},
+{id:181440,title:"ALDNOAH.ZERO OVA"},
+{id:181839,title:"小林家的龍女僕 怕寂寞的龍"}
 ];
 
 var updating;
