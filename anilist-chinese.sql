@@ -2,7 +2,7 @@
 -- PostgreSQL database dump
 --
 
-\restrict YvYWmJeaZfHxjGYukfsg0Ohcmuhdue0MgkICqPBqrddDVhKlyblQZpDy6ZjY124
+\restrict tWgOAYLbhgIou9WM6ChKt1m37U0fDNkdb3e6ro2mgpWyB9csK6BEafWglplK5Kf
 
 -- Dumped from database version 18.1 (Debian 18.1-1.pgdg13+2)
 -- Dumped by pg_dump version 18.1 (Debian 18.1-1.pgdg13+2)
@@ -8171,7 +8171,9 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 9088	{"title": {"chinese": "最遊記外傳"}, "synonyms_chinese": []}
 202957	{"title": {"chinese": "名偵探光之美少女"}, "synonyms_chinese": []}
 139466	{"title": {"chinese": "月曜日のたわわ 2 特典"}, "synonyms_chinese": []}
+198511	{"title": {"chinese": "制服は着たままで"}, "synonyms_chinese": []}
 102631	{"title": {"chinese": "幽遊白書 OVA TWO SHOTS 是成是敗"}, "synonyms_chinese": []}
+201153	{"title": {"chinese": "聖光閃姫ポニーセレス"}, "synonyms_chinese": []}
 883	{"title": {"chinese": "幽遊白書 冥界死鬥篇 炎之絆"}, "synonyms_chinese": []}
 882	{"title": {"chinese": "幽遊白書 (電影)"}, "synonyms_chinese": []}
 181440	{"title": {"chinese": "ALDNOAH.ZERO OVA"}, "synonyms_chinese": []}
@@ -8191,5 +8193,5 @@ ALTER TABLE ONLY public.anilist_chinese
 -- PostgreSQL database dump complete
 --
 
-\unrestrict YvYWmJeaZfHxjGYukfsg0Ohcmuhdue0MgkICqPBqrddDVhKlyblQZpDy6ZjY124
+\unrestrict tWgOAYLbhgIou9WM6ChKt1m37U0fDNkdb3e6ro2mgpWyB9csK6BEafWglplK5Kf
 

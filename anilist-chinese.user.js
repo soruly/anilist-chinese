@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      3.2026.2.11
+// @version      3.2026.2.16
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -8147,7 +8147,9 @@ var database = [
 {id:9088,title:"最遊記外傳"},
 {id:202957,title:"名偵探光之美少女"},
 {id:139466,title:"月曜日のたわわ 2 特典"},
+{id:198511,title:"制服は着たままで"},
 {id:102631,title:"幽遊白書 OVA TWO SHOTS 是成是敗"},
+{id:201153,title:"聖光閃姫ポニーセレス"},
 {id:883,title:"幽遊白書 冥界死鬥篇 炎之絆"},
 {id:882,title:"幽遊白書 (電影)"},
 {id:181440,title:"ALDNOAH.ZERO OVA"},
