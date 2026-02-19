@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      3.2026.2.16
+// @version      3.2026.2.19
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -8153,7 +8153,9 @@ var database = [
 {id:883,title:"幽遊白書 冥界死鬥篇 炎之絆"},
 {id:882,title:"幽遊白書 (電影)"},
 {id:181440,title:"ALDNOAH.ZERO OVA"},
-{id:181839,title:"小林家的龍女僕 怕寂寞的龍"}
+{id:181839,title:"小林家的龍女僕 怕寂寞的龍"},
+{id:184280,title:"天穗之咲稻姬 特別篇"},
+{id:194872,title:"黃金神威 OVA"}
 ];
 
 var updating;

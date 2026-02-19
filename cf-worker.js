@@ -8136,7 +8136,9 @@ const db = new Map([
 [883,{title:"幽遊白書 冥界死鬥篇 炎之絆",synonyms:[]}],
 [882,{title:"幽遊白書 (電影)",synonyms:[]}],
 [181440,{title:"ALDNOAH.ZERO OVA",synonyms:[]}],
-[181839,{title:"小林家的龍女僕 怕寂寞的龍",synonyms:[]}]
+[181839,{title:"小林家的龍女僕 怕寂寞的龍",synonyms:[]}],
+[184280,{title:"天穗之咲稻姬 特別篇",synonyms:[]}],
+[194872,{title:"黃金神威 OVA",synonyms:[]}]
 ]);
 
 async function handleRequest(req) {
