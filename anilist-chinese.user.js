@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      3.2026.2.19
+// @version      3.2026.2.20
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -8155,7 +8155,9 @@ var database = [
 {id:181440,title:"ALDNOAH.ZERO OVA"},
 {id:181839,title:"小林家的龍女僕 怕寂寞的龍"},
 {id:184280,title:"天穗之咲稻姬 特別篇"},
-{id:194872,title:"黃金神威 OVA"}
+{id:194872,title:"黃金神威 OVA"},
+{id:183414,title:"電影Idol光之美少女你與我久等了！為你送上閃耀的現場演唱會！"},
+{id:191403,title:"偶像學園×星光樂園 THE MOVIE -相遇的奇蹟！-"}
 ];
 
 var updating;

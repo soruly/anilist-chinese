@@ -8138,7 +8138,9 @@ const db = new Map([
 [181440,{title:"ALDNOAH.ZERO OVA",synonyms:[]}],
 [181839,{title:"小林家的龍女僕 怕寂寞的龍",synonyms:[]}],
 [184280,{title:"天穗之咲稻姬 特別篇",synonyms:[]}],
-[194872,{title:"黃金神威 OVA",synonyms:[]}]
+[194872,{title:"黃金神威 OVA",synonyms:[]}],
+[183414,{title:"電影Idol光之美少女你與我久等了！為你送上閃耀的現場演唱會！",synonyms:[]}],
+[191403,{title:"偶像學園×星光樂園 THE MOVIE -相遇的奇蹟！-",synonyms:[]}]
 ]);
 
 async function handleRequest(req) {

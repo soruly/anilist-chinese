@@ -2,7 +2,7 @@
 -- PostgreSQL database dump
 --
 
-\restrict DyVEiGjRJtSY4W6morK3VtV28VprUnWZr470gG0j7mUXPnfXlLn0MyWeLv5Ho7R
+\restrict cE9cOeKvNRANhbQHVsHOyiUkpk95AjKcDsDDJgBcZSTAKSIGcVjLUbS7cR64Gvg
 
 -- Dumped from database version 18.1 (Debian 18.1-1.pgdg13+2)
 -- Dumped by pg_dump version 18.1 (Debian 18.1-1.pgdg13+2)
@@ -8180,6 +8180,8 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 181839	{"title": {"chinese": "小林家的龍女僕 怕寂寞的龍"}, "synonyms_chinese": []}
 184280	{"title": {"chinese": "天穗之咲稻姬 特別篇"}, "synonyms_chinese": []}
 194872	{"title": {"chinese": "黃金神威 OVA"}, "synonyms_chinese": []}
+183414	{"title": {"chinese": "電影Idol光之美少女你與我久等了！為你送上閃耀的現場演唱會！"}, "synonyms_chinese": []}
+191403	{"title": {"chinese": "偶像學園×星光樂園 THE MOVIE -相遇的奇蹟！-"}, "synonyms_chinese": []}
 \.
 
 
@@ -8195,5 +8197,5 @@ ALTER TABLE ONLY public.anilist_chinese
 -- PostgreSQL database dump complete
 --
 
-\unrestrict DyVEiGjRJtSY4W6morK3VtV28VprUnWZr470gG0j7mUXPnfXlLn0MyWeLv5Ho7R
+\unrestrict cE9cOeKvNRANhbQHVsHOyiUkpk95AjKcDsDDJgBcZSTAKSIGcVjLUbS7cR64Gvg
 
