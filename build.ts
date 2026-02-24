@@ -1,4 +1,5 @@
 import fs from "node:fs/promises";
+
 import postgres from "postgres";
 
 process.loadEnvFile();

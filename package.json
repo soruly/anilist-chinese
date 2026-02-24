@@ -2,32 +2,32 @@
   "name": "anilist-chinese",
   "version": "2.0.0",
   "description": "Chinese-translation of anilist titles",
-  "main": "cf-worker.js",
-  "type": "module",
-  "scripts": {
-    "prettier": "prettier",
-    "format": "prettier --write \"**/*.(js|ts)\"",
-    "lint": "prettier --check \"**/*.(js|ts)\"",
-    "test": "prettier --check \"**/*.(js|ts)\""
+  "keywords": [
+    "anilist"
+  ],
+  "homepage": "https://github.com/soruly/anilist-chinese#readme",
+  "bugs": {
+    "url": "https://github.com/soruly/anilist-chinese/issues"
   },
+  "license": "MIT",
+  "author": "soruly",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/soruly/anilist-chinese.git"
   },
-  "keywords": [
-    "anilist"
-  ],
-  "author": "soruly",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/soruly/anilist-chinese/issues"
+  "type": "module",
+  "main": "cf-worker.js",
+  "scripts": {
+    "oxfmt": "oxfmt",
+    "format": "oxfmt --write \"**/*.*\"",
+    "lint": "oxfmt --check \"**/*.*\"",
+    "test": "oxfmt --check \"**/*.*\""
   },
-  "homepage": "https://github.com/soruly/anilist-chinese#readme",
   "dependencies": {
     "postgres": "^3.4.8"
   },
   "devDependencies": {
     "@types/node": "^25.3.0",
-    "prettier": "^3.8.1"
+    "oxfmt": "^0.35.0"
   }
 }
