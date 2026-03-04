@@ -2,7 +2,7 @@
 -- PostgreSQL database dump
 --
 
-\restrict CPKz6tmHHPCRaZWhIIbCOfkbOrNGOzz2f1FpdnvE1W8uMbcBzem4TM8GGzXFa7o
+\restrict mIjAkxiv2CdKhQw6F6vRkSxy5nPCHkt91ME0aHVZdywTL5WMEQXIYyAf4rjrUac
 
 -- Dumped from database version 18.1 (Debian 18.1-1.pgdg13+2)
 -- Dumped by pg_dump version 18.1 (Debian 18.1-1.pgdg13+2)
@@ -427,7 +427,6 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 706	{"title": {"chinese": "Comic Party Revolution"}, "synonyms_chinese": ["漫畫派對 Revolution", "漫畫同人會 Revolution"]}
 709	{"title": {"chinese": "星球流浪記"}, "synonyms_chinese": []}
 710	{"title": {"chinese": "REC"}, "synonyms_chinese": ["甜蜜聲優", "Rec愛上配音員"]}
-712	{"title": {"chinese": "Zoids Genesis"}, "synonyms_chinese": ["機獸起源 Genesis"]}
 713	{"title": {"chinese": "AIR 劇場版"}, "synonyms_chinese": ["鳥之詩 劇場版", "青空下的傳說 劇場版", "千年之夏 劇場版"]}
 719	{"title": {"chinese": "間之楔"}, "synonyms_chinese": []}
 721	{"title": {"chinese": "彩夢芭蕾"}, "synonyms_chinese": ["萩萩公主"]}
@@ -4025,7 +4024,6 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 21677	{"title": {"chinese": "ēlDLIVE"}, "synonyms_chinese": ["宇宙警探 ēlDLIVE"]}
 21678	{"title": {"chinese": "暗殺教室 2 課外授業編"}, "synonyms_chinese": []}
 21679	{"title": {"chinese": "文豪Stray Dogs 2"}, "synonyms_chinese": ["文豪野犬 2"]}
-21681	{"title": {"chinese": "劇場版 亞人 第2部 -衝戟-"}, "synonyms_chinese": []}
 21682	{"title": {"chinese": "Tiger Mask W"}, "synonyms_chinese": ["老虎假面W", "虎面人W"]}
 21683	{"title": {"chinese": "想要傳達你的聲音"}, "synonyms_chinese": []}
 21684	{"title": {"chinese": "魔法科高中的劣等生 呼喚繁星的少女"}, "synonyms_chinese": []}
@@ -4817,7 +4815,6 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 101215	{"title": {"chinese": "花牌情緣 3"}, "synonyms_chinese": ["歌牌情緣 3"]}
 101216	{"title": {"chinese": "干支魂 貓客萬來"}, "synonyms_chinese": []}
 101227	{"title": {"chinese": "我不是說了能力要平均值嗎？"}, "synonyms_chinese": []}
-101228	{"title": {"chinese": "Zoid Wild"}, "synonyms_chinese": ["索斯機械獸", "機獸創世紀"]}
 101231	{"title": {"chinese": "詩季織織"}, "synonyms_chinese": []}
 101239	{"title": {"chinese": "籃球少年王"}, "synonyms_chinese": ["鴨子的天空"]}
 101240	{"title": {"chinese": "dokidokiりとる大家さん"}, "synonyms_chinese": []}
@@ -5394,7 +5391,6 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 110733	{"title": {"chinese": "Zombie Land Saga Revenge"}, "synonyms_chinese": ["殭屍樂園薩加 捲土重來", "佐賀偶像是傳奇 捲土重來"]}
 110736	{"title": {"chinese": "苗床デモンズグラウンド～奈落の孕姫～"}, "synonyms_chinese": []}
 110738	{"title": {"chinese": "絲襪視界 SP"}, "synonyms_chinese": []}
-110788	{"title": {"chinese": "Zoid Wild Zero"}, "synonyms_chinese": ["索斯機械獸 Zero", "機獸創世紀 Zero"]}
 110789	{"title": {"chinese": "Null Peta"}, "synonyms_chinese": []}
 110810	{"title": {"chinese": "神田川JET GIRLS"}, "synonyms_chinese": []}
 110811	{"title": {"chinese": "浦島坂田船的日常"}, "synonyms_chinese": []}
@@ -8181,7 +8177,79 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 184280	{"title": {"chinese": "天穗之咲稻姬 特別篇"}, "synonyms_chinese": []}
 194872	{"title": {"chinese": "黃金神威 OVA"}, "synonyms_chinese": []}
 183414	{"title": {"chinese": "電影Idol光之美少女你與我久等了！為你送上閃耀的現場演唱會！"}, "synonyms_chinese": []}
+3389	{"title": {"chinese": "BUS GAMER"}, "synonyms_chinese": []}
 191403	{"title": {"chinese": "偶像學園×星光樂園 THE MOVIE -相遇的奇蹟！-"}, "synonyms_chinese": []}
+185084	{"title": {"chinese": "LUPIN THE IIIRD 不死之身的血族"}, "synonyms_chinese": []}
+191884	{"title": {"chinese": "LUPIN THE IIIRD 錢形與兩個雷朋"}, "synonyms_chinese": []}
+110413	{"title": {"chinese": "Lupin III: THE FIRST"}, "synonyms_chinese": []}
+7598	{"title": {"chinese": "Loups=Garous 應避開的狼"}, "synonyms_chinese": []}
+20978	{"title": {"chinese": "LUPIN THE IIIRD 次元大介的墓碑"}, "synonyms_chinese": []}
+1419	{"title": {"chinese": "雷朋三世 去死吧！諾斯特拉達姆斯"}, "synonyms_chinese": []}
+2848	{"title": {"chinese": "河童之夏"}, "synonyms_chinese": []}
+4361	{"title": {"chinese": "微笑的閃士"}, "synonyms_chinese": ["天才少女閃士"]}
+7337	{"title": {"chinese": "意呆利 Axis Powers Paint it, White!"}, "synonyms_chinese": []}
+6162	{"title": {"chinese": "TAILENDERS"}, "synonyms_chinese": []}
+4021	{"title": {"chinese": "西洋骨董洋菓子店"}, "synonyms_chinese": []}
+9629	{"title": {"chinese": "人造人009 The Reopening"}, "synonyms_chinese": []}
+1450	{"title": {"chinese": "BRIGADOON 瑪琳與梅蘭"}, "synonyms_chinese": ["麻玲與蒼藍劍士", "深藍救兵"]}
+318	{"title": {"chinese": "袖珍女侍小梅"}, "synonyms_chinese": []}
+5178	{"title": {"chinese": "第一小隊"}, "synonyms_chinese": ["幽冥特工"]}
+1192	{"title": {"chinese": "捉迷藏"}, "synonyms_chinese": []}
+16149	{"title": {"chinese": "Kick-Heart"}, "synonyms_chinese": []}
+21681	{"title": {"chinese": "劇場版 亞人 第3部 -衝戟-"}, "synonyms_chinese": []}
+1316	{"title": {"chinese": "韋馱天翔"}, "synonyms_chinese": ["單車新人王"]}
+200	{"title": {"chinese": "天使的小生意氣"}, "synonyms_chinese": ["魯莽天使"]}
+2489	{"title": {"chinese": "奇幻魔法Melody"}, "synonyms_chinese": ["我愛美樂蒂"]}
+2217	{"title": {"chinese": "袖珍女侍小梅"}, "synonyms_chinese": []}
+1234	{"title": {"chinese": "袖珍女侍小舞"}, "synonyms_chinese": []}
+5938	{"title": {"chinese": "奇幻魔法Melody：Kirara☆"}, "synonyms_chinese": ["我愛美樂蒂：Kirara☆"]}
+553	{"title": {"chinese": "闇之末裔"}, "synonyms_chinese": ["愛上壞壞的死神"]}
+5520	{"title": {"chinese": "奇幻魔法Melody：輕鬆舒暢♪"}, "synonyms_chinese": ["我愛美樂蒂：輕鬆舒暢♪"]}
+285	{"title": {"chinese": "沉默的未知"}, "synonyms_chinese": []}
+4114	{"title": {"chinese": "奇幻魔法Melody：轉轉旋律魔法牌"}, "synonyms_chinese": ["我愛美樂蒂：轉轉旋律魔法牌"]}
+3991	{"title": {"chinese": "魔法少女隊 THE ADVENTURE"}, "synonyms_chinese": []}
+1789	{"title": {"chinese": "沉默的未知 OVA"}, "synonyms_chinese": []}
+3653	{"title": {"chinese": "武裝機甲"}, "synonyms_chinese": []}
+107	{"title": {"chinese": "銀河俠盜 JING"}, "synonyms_chinese": ["銀河俠盜王JING", "盜賊王 JING", "俠盜王 JING"]}
+108	{"title": {"chinese": "銀河俠盜 JING in Seventh Heaven"}, "synonyms_chinese": []}
+1760	{"title": {"chinese": "骷髏13"}, "synonyms_chinese": []}
+4039	{"title": {"chinese": "骷髏13"}, "synonyms_chinese": []}
+1678	{"title": {"chinese": "人造人009 THE CYBORG SOLDIER"}, "synonyms_chinese": []}
+1761	{"title": {"chinese": "骷髏13 〜QUEEN BEE〜"}, "synonyms_chinese": []}
+175	{"title": {"chinese": "東京地底奇兵"}, "synonyms_chinese": []}
+812	{"title": {"chinese": "地球少女Arjuna"}, "synonyms_chinese": []}
+7336	{"title": {"chinese": "人造人009 超銀河傳說"}, "synonyms_chinese": []}
+8394	{"title": {"chinese": "人造人009"}, "synonyms_chinese": []}
+7540	{"title": {"chinese": "武裝機甲 OV"}, "synonyms_chinese": []}
+4690	{"title": {"chinese": "人造人009"}, "synonyms_chinese": []}
+130211	{"title": {"chinese": "武裝機甲 Picture Drama"}, "synonyms_chinese": []}
+279	{"title": {"chinese": "京極夏彥 巷說百物語"}, "synonyms_chinese": []}
+579	{"title": {"chinese": "戰爭程序員白瀨"}, "synonyms_chinese": []}
+2486	{"title": {"chinese": "高橋留美子劇場"}, "synonyms_chinese": []}
+620	{"title": {"chinese": "高橋留美子劇場 人魚之森"}, "synonyms_chinese": []}
+161	{"title": {"chinese": "PEACE MAKER 鐵"}, "synonyms_chinese": []}
+872	{"title": {"chinese": "魔法少女隊"}, "synonyms_chinese": []}
+6872	{"title": {"chinese": "人造人009"}, "synonyms_chinese": []}
+7290	{"title": {"chinese": "人造人009 怪獸獸爭"}, "synonyms_chinese": []}
+113	{"title": {"chinese": "宇宙學園"}, "synonyms_chinese": ["宇宙星路"]}
+196223	{"title": {"chinese": "人造人009 Nemesis"}, "synonyms_chinese": []}
+297	{"title": {"chinese": "微笑的閃士"}, "synonyms_chinese": ["天才少女閃士"]}
+178	{"title": {"chinese": "戀愛小魔女"}, "synonyms_chinese": ["魔法戀人", "戀愛心情天", "魔法留學生"]}
+618	{"title": {"chinese": "獸兵衛忍風帖 龍寶玉篇"}, "synonyms_chinese": []}
+179	{"title": {"chinese": "戀愛小魔女 OVA"}, "synonyms_chinese": []}
+838	{"title": {"chinese": "星星公主"}, "synonyms_chinese": []}
+230	{"title": {"chinese": "Air Master"}, "synonyms_chinese": []}
+1746	{"title": {"chinese": "索斯機械獸 IV"}, "synonyms_chinese": ["索斯機械獸 Fuzors"]}
+610	{"title": {"chinese": "蒲公英之戀"}, "synonyms_chinese": []}
+157883	{"title": {"chinese": "開闊天空！光之美少女"}, "synonyms_chinese": []}
+110788	{"title": {"chinese": "索斯機械獸 激戰本能 ZERO"}, "synonyms_chinese": ["索斯機械獸 Zero", "機獸創世紀 Zero"]}
+147764	{"title": {"chinese": "索斯機械獸 激戰本能 戰記"}, "synonyms_chinese": []}
+764	{"title": {"chinese": "索斯機械獸 III"}, "synonyms_chinese": ["機獸新世紀 ZERO"]}
+763	{"title": {"chinese": "索斯機械獸"}, "synonyms_chinese": ["索斯機械獸 II"]}
+101228	{"title": {"chinese": "索斯機械獸 激戰本能"}, "synonyms_chinese": ["索斯機械獸 WILD", "機獸新世紀 ZOIDS WILD", "索斯機獸：荒野紀"]}
+14947	{"title": {"chinese": "奇幻魔法Melody 友 & 愛"}, "synonyms_chinese": []}
+156	{"title": {"chinese": "X"}, "synonyms_chinese": []}
+712	{"title": {"chinese": "索斯機械獸 V"}, "synonyms_chinese": ["索斯機械獸 Genesis", "機獸起源"]}
 \.
 
 
@@ -8197,5 +8265,5 @@ ALTER TABLE ONLY public.anilist_chinese
 -- PostgreSQL database dump complete
 --
 
-\unrestrict CPKz6tmHHPCRaZWhIIbCOfkbOrNGOzz2f1FpdnvE1W8uMbcBzem4TM8GGzXFa7o
+\unrestrict mIjAkxiv2CdKhQw6F6vRkSxy5nPCHkt91ME0aHVZdywTL5WMEQXIYyAf4rjrUac
 
