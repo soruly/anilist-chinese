@@ -2,7 +2,7 @@
 -- PostgreSQL database dump
 --
 
-\restrict mIjAkxiv2CdKhQw6F6vRkSxy5nPCHkt91ME0aHVZdywTL5WMEQXIYyAf4rjrUac
+\restrict 5ppmOJ0MhW4r1po859jQuzl8kFeZ5qw6nBpNDcpFpEV5ahTbRQCAkKebB6tUn9q
 
 -- Dumped from database version 18.1 (Debian 18.1-1.pgdg13+2)
 -- Dumped by pg_dump version 18.1 (Debian 18.1-1.pgdg13+2)
@@ -1678,7 +1678,6 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 5316	{"title": {"chinese": "レイプ！レイプ！レイプ！"}, "synonyms_chinese": []}
 5321	{"title": {"chinese": "ふたりの兄嫁"}, "synonyms_chinese": []}
 5324	{"title": {"chinese": "夜勤病棟 Ｋｒａｎｋｅ"}, "synonyms_chinese": []}
-5337	{"title": {"chinese": "爆丸2"}, "synonyms_chinese": []}
 5341	{"title": {"chinese": "狼與香辛料 II"}, "synonyms_chinese": ["狼與辛香料 II"]}
 5342	{"title": {"chinese": "機巧魔神"}, "synonyms_chinese": ["魔神相克者"]}
 5347	{"title": {"chinese": "バイブルブラック「伊万里 凌辱現場」"}, "synonyms_chinese": []}
@@ -1975,7 +1974,6 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 7268	{"title": {"chinese": "Diabolus～鬼哭～"}, "synonyms_chinese": []}
 7276	{"title": {"chinese": "夏蟲 THE ANIMATION"}, "synonyms_chinese": []}
 7311	{"title": {"chinese": "涼宮春日的消失"}, "synonyms_chinese": []}
-7334	{"title": {"chinese": "爆丸3"}, "synonyms_chinese": []}
 7338	{"title": {"chinese": "DARKER THAN BLACK -黑之契約者- 外傳"}, "synonyms_chinese": []}
 7411	{"title": {"chinese": "彼女×彼女×彼女～三姉妹とのドキドキ共同生活～"}, "synonyms_chinese": []}
 7455	{"title": {"chinese": "狂った教頭 断罪の学園"}, "synonyms_chinese": []}
@@ -2317,7 +2315,6 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 10324	{"title": {"chinese": "和殿下一起 眼罩之野心"}, "synonyms_chinese": ["與殿下一起 眼帶的野望"]}
 10325	{"title": {"chinese": "吸尻鬼"}, "synonyms_chinese": []}
 10327	{"title": {"chinese": "コスプレ露出研究会"}, "synonyms_chinese": []}
-10330	{"title": {"chinese": "爆丸4"}, "synonyms_chinese": []}
 10336	{"title": {"chinese": "最後流放-銀翼的飛夢-"}, "synonyms_chinese": ["最後流亡-銀翼的飛夢-", "最後流亡-銀翼少女法姆-", "最終流放-銀翼之法姆-"]}
 10338	{"title": {"chinese": "真的有呀！靈媒先生"}, "synonyms_chinese": []}
 10346	{"title": {"chinese": "拳王創世紀 世界大會篇"}, "synonyms_chinese": ["熱拳本色 世界大會篇", "鈴聲響起 世界大會篇", "龍鳳拳王 世界大會篇"]}
@@ -3673,7 +3670,6 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 21233	{"title": {"chinese": "巨乳家族催眠"}, "synonyms_chinese": []}
 21234	{"title": {"chinese": "只有我不存在的城市"}, "synonyms_chinese": ["只有我不在的街道"]}
 21235	{"title": {"chinese": "黑子的籃球 最棒的禮物"}, "synonyms_chinese": ["影子籃球員 最棒的禮物", "幻影籃球王 最棒的禮物", "黑子的籃球 OVA 4", "黑子的籃球 75.5"]}
-21236	{"title": {"chinese": "戰鬥陀螺 爆發"}, "synonyms_chinese": ["爆旋陀螺 爆發"]}
 21237	{"title": {"chinese": "神之見習者秘密的心靈蛋"}, "synonyms_chinese": ["見習神仙秘密的心靈", "見習神仙精靈"]}
 21238	{"title": {"chinese": "Unhappy♪"}, "synonyms_chinese": ["Anne Happy", "不幸少女們的校園趣事♪"]}
 21239	{"title": {"chinese": "大叔與棉花糖"}, "synonyms_chinese": []}
@@ -4387,7 +4383,6 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 98249	{"title": {"chinese": "宣告黎明的露之歌"}, "synonyms_chinese": []}
 98251	{"title": {"chinese": "單蠢女孩"}, "synonyms_chinese": ["笨女孩"]}
 98252	{"title": {"chinese": "不要輸！！惡之軍團！"}, "synonyms_chinese": []}
-98289	{"title": {"chinese": "戰鬥陀螺 爆發 神之篇"}, "synonyms_chinese": ["爆旋陀螺 爆發 神之篇"]}
 98291	{"title": {"chinese": "徒然CHILDREN"}, "synonyms_chinese": ["徒然喜歡你"]}
 98292	{"title": {"chinese": "NEW GAME!!"}, "synonyms_chinese": []}
 98298	{"title": {"chinese": "寵物小精靈劇場版 就決定是你了！"}, "synonyms_chinese": []}
@@ -4795,7 +4790,6 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 101100	{"title": {"chinese": "Fate/kaleid liner Prisma☆Illya 雪下的誓言 Special"}, "synonyms_chinese": ["Fate/kaleid liner 魔法少女☆伊莉雅 雪下的誓言 Special"]}
 101102	{"title": {"chinese": "劇場版 暗殺教室 365日的時間"}, "synonyms_chinese": ["劇場版 暗殺教室 365天的時間", "劇場版 暗殺教室 365日倒數計時"]}
 101104	{"title": {"chinese": "戰姬絕唱SYMPHOGEAR AXZ SP"}, "synonyms_chinese": []}
-101115	{"title": {"chinese": "戰鬥陀螺 爆發 超絕篇"}, "synonyms_chinese": ["爆旋陀螺 爆發 超絕篇"]}
 101117	{"title": {"chinese": "Free! -Dive to the Future-"}, "synonyms_chinese": ["熱血自由式 -Dive to the Future-", "男子水泳部 -Dive to the Future-"]}
 101123	{"title": {"chinese": "Kemurikusa"}, "synonyms_chinese": ["烟草", "煙草", "凱美瑞之草", "霧中末世，少女橫行！"]}
 101124	{"title": {"chinese": "妻ネトリ"}, "synonyms_chinese": []}
@@ -5304,7 +5298,6 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 108758	{"title": {"chinese": "超次元戰記 戰機少女 涅普的暑假"}, "synonyms_chinese": []}
 108759	{"title": {"chinese": "Sword Art Online Alicization War of Underworld"}, "synonyms_chinese": []}
 108767	{"title": {"chinese": "妖怪手錶!"}, "synonyms_chinese": []}
-108852	{"title": {"chinese": "爆丸5"}, "synonyms_chinese": []}
 108859	{"title": {"chinese": "灼炎のエリス"}, "synonyms_chinese": []}
 108891	{"title": {"chinese": "一弦定音！ 2"}, "synonyms_chinese": []}
 108928	{"title": {"chinese": "七大罪 眾神的逆鱗"}, "synonyms_chinese": []}
@@ -5631,7 +5624,6 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 116338	{"title": {"chinese": "入間同學入魔了！ 2"}, "synonyms_chinese": []}
 116384	{"title": {"chinese": "Sol Levante"}, "synonyms_chinese": ["旭日"]}
 116400	{"title": {"chinese": "優等生 綾香のウラオモテ"}, "synonyms_chinese": []}
-116415	{"title": {"chinese": "爆丸 裝甲聯盟"}, "synonyms_chinese": []}
 116566	{"title": {"chinese": "全員惡玉"}, "synonyms_chinese": []}
 116588	{"title": {"chinese": "戰鬥員派遣中！"}, "synonyms_chinese": []}
 116589	{"title": {"chinese": "86 -Eighty Six-"}, "synonyms_chinese": ["86 不存在的戰區"]}
@@ -6702,7 +6694,6 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 164551	{"title": {"chinese": "邪神與廚二病少女【世紀末篇】"}, "synonyms_chinese": ["小邪神飛踢！【世紀末篇】"]}
 164702	{"title": {"chinese": "轉生貴族憑鑑定技能扭轉人生 ～繼承弱小領土後，招募優秀人才打造最強領土～"}, "synonyms_chinese": []}
 165070	{"title": {"chinese": "我的新上司是天然呆"}, "synonyms_chinese": []}
-165159	{"title": {"chinese": "BEYBLADE X"}, "synonyms_chinese": []}
 165253	{"title": {"chinese": "Bocchi the Rock! Re:"}, "synonyms_chinese": ["孤獨搖滾！Re:"]}
 165254	{"title": {"chinese": "BUCCHIGIRI"}, "synonyms_chinese": []}
 165314	{"title": {"chinese": "碰之道"}, "synonyms_chinese": []}
@@ -8249,7 +8240,42 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 101228	{"title": {"chinese": "索斯機械獸 激戰本能"}, "synonyms_chinese": ["索斯機械獸 WILD", "機獸新世紀 ZOIDS WILD", "索斯機獸：荒野紀"]}
 14947	{"title": {"chinese": "奇幻魔法Melody 友 & 愛"}, "synonyms_chinese": []}
 156	{"title": {"chinese": "X"}, "synonyms_chinese": []}
+1668	{"title": {"chinese": "戰鬥陀螺G"}, "synonyms_chinese": ["爆旋陀螺G"]}
+21236	{"title": {"chinese": "戰鬥陀螺Burst"}, "synonyms_chinese": ["爆旋陀螺 擊爆戰魂"]}
 712	{"title": {"chinese": "索斯機械獸 V"}, "synonyms_chinese": ["索斯機械獸 Genesis", "機獸起源"]}
+137662	{"title": {"chinese": "放開那個女巫"}, "synonyms_chinese": []}
+12875	{"title": {"chinese": "向銀河開球"}, "synonyms_chinese": []}
+13231	{"title": {"chinese": "戰鬥陀螺 鋼鐵奇兵 ZERO G"}, "synonyms_chinese": ["爆旋陀螺 鋼鐵奇兵 ZERO G"]}
+166062	{"title": {"chinese": "戰鬥陀螺Burst BU"}, "synonyms_chinese": ["爆旋陀螺 擊爆戰魂 BU"]}
+10370	{"title": {"chinese": "戰鬥陀螺 鋼鐵奇兵 4D"}, "synonyms_chinese": ["爆旋陀螺 鋼鐵奇兵 4D"]}
+116786	{"title": {"chinese": "戰鬥陀螺Burst 超王"}, "synonyms_chinese": ["爆旋陀螺 擊爆戰魂 超王"]}
+8410	{"title": {"chinese": "戰鬥陀螺 鋼鐵奇兵 爆"}, "synonyms_chinese": ["爆旋陀螺 鋼鐵奇兵 爆"]}
+98289	{"title": {"chinese": "戰鬥陀螺Burst 神"}, "synonyms_chinese": ["爆旋陀螺 擊爆戰魂 神"]}
+108853	{"title": {"chinese": "戰鬥陀螺Burst GT"}, "synonyms_chinese": ["爆旋陀螺 擊爆戰魂 GT"]}
+1669	{"title": {"chinese": "無敵戰鬥陀螺"}, "synonyms_chinese": ["無敵爆旋陀螺"]}
+15993	{"title": {"chinese": "向銀河開球 特別篇"}, "synonyms_chinese": []}
+130253	{"title": {"chinese": "戰鬥陀螺Burst DB"}, "synonyms_chinese": ["爆旋陀螺 擊爆戰魂 DB"]}
+13261	{"title": {"chinese": "閃電十一人GO 時空之石"}, "synonyms_chinese": []}
+10507	{"title": {"chinese": "閃電十一人GO"}, "synonyms_chinese": []}
+18097	{"title": {"chinese": "閃電十一人GO 銀河"}, "synonyms_chinese": []}
+10999	{"title": {"chinese": "閃電十一人GO 究極之絆 獅鷲獸"}, "synonyms_chinese": []}
+101115	{"title": {"chinese": "戰鬥陀螺Burst 超Z"}, "synonyms_chinese": ["爆旋陀螺 擊爆戰魂 超Z"]}
+8245	{"title": {"chinese": "劇場版戰鬥陀螺 鋼鐵奇兵VS太陽 灼熱的侵略者"}, "synonyms_chinese": []}
+177166	{"title": {"chinese": "爆丸 (2023)"}, "synonyms_chinese": []}
+177121	{"title": {"chinese": "爆TECH!爆丸 激撞"}, "synonyms_chinese": []}
+108852	{"title": {"chinese": "爆丸5 星域爭霸"}, "synonyms_chinese": []}
+131096	{"title": {"chinese": "爆丸7"}, "synonyms_chinese": []}
+116415	{"title": {"chinese": "爆丸6 裝甲聯盟"}, "synonyms_chinese": []}
+5337	{"title": {"chinese": "爆丸2 大爆破"}, "synonyms_chinese": []}
+7334	{"title": {"chinese": "爆丸3 狩獵保衛者"}, "synonyms_chinese": []}
+10330	{"title": {"chinese": "爆丸4 機械波濤"}, "synonyms_chinese": []}
+5962	{"title": {"chinese": "戰鬥陀螺 鋼鐵奇兵"}, "synonyms_chinese": ["爆旋陀螺 鋼鐵奇兵"]}
+1670	{"title": {"chinese": "劇場版 戰鬥陀螺 激戰！孝男VS大地"}, "synonyms_chinese": ["劇場版 爆旋陀螺 激戰！孝男VS大地"]}
+1509	{"title": {"chinese": "戀之魔法波波糖"}, "synonyms_chinese": []}
+21412	{"title": {"chinese": "POP IN Q"}, "synonyms_chinese": []}
+20810	{"title": {"chinese": "劇場版 卡片戰鬥!! 先導者 霓虹救世主"}, "synonyms_chinese": []}
+136110	{"title": {"chinese": "戰鬥陀螺 鋼鐵奇兵 ZERO G 特別篇"}, "synonyms_chinese": ["爆旋陀螺 鋼鐵奇兵 ZERO G 特別篇"]}
+165159	{"title": {"chinese": "戰鬥陀螺 X"}, "synonyms_chinese": ["爆旋陀螺 X"]}
 \.
 
 
@@ -8265,5 +8291,5 @@ ALTER TABLE ONLY public.anilist_chinese
 -- PostgreSQL database dump complete
 --
 
-\unrestrict mIjAkxiv2CdKhQw6F6vRkSxy5nPCHkt91ME0aHVZdywTL5WMEQXIYyAf4rjrUac
+\unrestrict 5ppmOJ0MhW4r1po859jQuzl8kFeZ5qw6nBpNDcpFpEV5ahTbRQCAkKebB6tUn9q
 
