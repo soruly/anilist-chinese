@@ -2,7 +2,7 @@
 -- PostgreSQL database dump
 --
 
-\restrict 5ppmOJ0MhW4r1po859jQuzl8kFeZ5qw6nBpNDcpFpEV5ahTbRQCAkKebB6tUn9q
+\restrict 3eYMh9h75Vuk1PYBSoaEOESTJSwAYRc4uDfuJjcET9PYumTggg222slDXb3VkcF
 
 -- Dumped from database version 18.1 (Debian 18.1-1.pgdg13+2)
 -- Dumped by pg_dump version 18.1 (Debian 18.1-1.pgdg13+2)
@@ -8245,6 +8245,7 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 712	{"title": {"chinese": "索斯機械獸 V"}, "synonyms_chinese": ["索斯機械獸 Genesis", "機獸起源"]}
 137662	{"title": {"chinese": "放開那個女巫"}, "synonyms_chinese": []}
 12875	{"title": {"chinese": "向銀河開球"}, "synonyms_chinese": []}
+154982	{"title": {"chinese": "極道主夫 第二季"}, "synonyms_chinese": []}
 13231	{"title": {"chinese": "戰鬥陀螺 鋼鐵奇兵 ZERO G"}, "synonyms_chinese": ["爆旋陀螺 鋼鐵奇兵 ZERO G"]}
 166062	{"title": {"chinese": "戰鬥陀螺Burst BU"}, "synonyms_chinese": ["爆旋陀螺 擊爆戰魂 BU"]}
 10370	{"title": {"chinese": "戰鬥陀螺 鋼鐵奇兵 4D"}, "synonyms_chinese": ["爆旋陀螺 鋼鐵奇兵 4D"]}
@@ -8291,5 +8292,5 @@ ALTER TABLE ONLY public.anilist_chinese
 -- PostgreSQL database dump complete
 --
 
-\unrestrict 5ppmOJ0MhW4r1po859jQuzl8kFeZ5qw6nBpNDcpFpEV5ahTbRQCAkKebB6tUn9q
+\unrestrict 3eYMh9h75Vuk1PYBSoaEOESTJSwAYRc4uDfuJjcET9PYumTggg222slDXb3VkcF
 

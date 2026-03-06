@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      3.2026.3.5
+// @version      3.2026.3.6
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -8221,6 +8221,7 @@ var database = [
 {id:712,title:"索斯機械獸 V"},
 {id:137662,title:"放開那個女巫"},
 {id:12875,title:"向銀河開球"},
+{id:154982,title:"極道主夫 第二季"},
 {id:13231,title:"戰鬥陀螺 鋼鐵奇兵 ZERO G"},
 {id:166062,title:"戰鬥陀螺Burst BU"},
 {id:10370,title:"戰鬥陀螺 鋼鐵奇兵 4D"},

@@ -8204,6 +8204,7 @@ const db = new Map([
 [712,{title:"索斯機械獸 V",synonyms:["索斯機械獸 Genesis","機獸起源"]}],
 [137662,{title:"放開那個女巫",synonyms:[]}],
 [12875,{title:"向銀河開球",synonyms:[]}],
+[154982,{title:"極道主夫 第二季",synonyms:[]}],
 [13231,{title:"戰鬥陀螺 鋼鐵奇兵 ZERO G",synonyms:["爆旋陀螺 鋼鐵奇兵 ZERO G"]}],
 [166062,{title:"戰鬥陀螺Burst BU",synonyms:["爆旋陀螺 擊爆戰魂 BU"]}],
 [10370,{title:"戰鬥陀螺 鋼鐵奇兵 4D",synonyms:["爆旋陀螺 鋼鐵奇兵 4D"]}],
