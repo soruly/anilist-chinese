@@ -1,6 +1,6 @@
 name = "anilist-chinese"
 main = "cf-worker.js"
-compatibility_date = "2026-01-20"
+compatibility_date = "2026-02-24"
 
 workers_dev = false
 route = { pattern = "trace.moe/anilist/*", zone_name = "trace.moe" }
