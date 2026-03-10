@@ -7481,7 +7481,6 @@ const db = new Map([
 [169403,{title:"Wonderful Precure! The Mobie! 心跳加速 遊戲世界大冒險！",synonyms:["美妙寵物 光之美少女電影：心跳加速 遊戲世界大冒險！"]}],
 [2012,{title:"地獄老師",synonyms:["鳴～地獄老師","靈異教師神眉"]}],
 [2745,{title:"地獄老師 THE OVA",synonyms:[]}],
-[189513,{title:"葬送的芙莉蓮 ～●●の魔法～２",synonyms:[]}],
 [184182,{title:"全力兔 第二季",synonyms:[]}],
 [182877,{title:"監禁區域 Level X 第二季",synonyms:[]}],
 [2029,{title:"天狼星的傳說",synonyms:[]}],
@@ -7493,6 +7492,7 @@ const db = new Map([
 [8208,{title:"地獄老師",synonyms:[]}],
 [185715,{title:"SHIBUYA♡HACHI 第三季",synonyms:[]}],
 [171145,{title:"蠟筆小新 我們的恐龍日記",synonyms:[]}],
+[189513,{title:"葬送的芙莉蓮 ～●●の魔法～2",synonyms:[]}],
 [930,{title:"傳說巨神伊迪安",synonyms:[]}],
 [2761,{title:"傳說巨神伊迪安 發動篇",synonyms:[]}],
 [185073,{title:"與你同為 偶像光之美少女♪",synonyms:[]}],
@@ -8210,7 +8210,9 @@ const db = new Map([
 [10370,{title:"戰鬥陀螺 鋼鐵奇兵 4D",synonyms:["爆旋陀螺 鋼鐵奇兵 4D"]}],
 [116786,{title:"戰鬥陀螺Burst 超王",synonyms:["爆旋陀螺 擊爆戰魂 超王"]}],
 [8410,{title:"戰鬥陀螺 鋼鐵奇兵 爆",synonyms:["爆旋陀螺 鋼鐵奇兵 爆"]}],
+[206425,{title:"葬送的芙莉蓮 ～●●の魔法～3",synonyms:[]}],
 [98289,{title:"戰鬥陀螺Burst 神",synonyms:["爆旋陀螺 擊爆戰魂 神"]}],
+[199635,{title:"小光美～Precure Fairies～ 第二季",synonyms:[]}],
 [108853,{title:"戰鬥陀螺Burst GT",synonyms:["爆旋陀螺 擊爆戰魂 GT"]}],
 [1669,{title:"無敵戰鬥陀螺",synonyms:["無敵爆旋陀螺"]}],
 [15993,{title:"向銀河開球 特別篇",synonyms:[]}],
@@ -8235,7 +8237,10 @@ const db = new Map([
 [21412,{title:"POP IN Q",synonyms:[]}],
 [20810,{title:"劇場版 卡片戰鬥!! 先導者 霓虹救世主",synonyms:[]}],
 [136110,{title:"戰鬥陀螺 鋼鐵奇兵 ZERO G 特別篇",synonyms:["爆旋陀螺 鋼鐵奇兵 ZERO G 特別篇"]}],
-[165159,{title:"戰鬥陀螺 X",synonyms:["爆旋陀螺 X"]}]
+[165159,{title:"戰鬥陀螺 X",synonyms:["爆旋陀螺 X"]}],
+[189602,{title:"YouTuNya 第3期 ",synonyms:[]}],
+[176635,{title:"YouTuNya 2",synonyms:[]}],
+[185793,{title:"YouTuNya 聖誕特別篇",synonyms:[]}]
 ]);
 
 async function handleRequest(req) {

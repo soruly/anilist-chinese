@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      3.2026.3.6
+// @version      3.2026.3.10
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -7498,7 +7498,6 @@ var database = [
 {id:169403,title:"Wonderful Precure! The Mobie! 心跳加速 遊戲世界大冒險！"},
 {id:2012,title:"地獄老師"},
 {id:2745,title:"地獄老師 THE OVA"},
-{id:189513,title:"葬送的芙莉蓮 ～●●の魔法～２"},
 {id:184182,title:"全力兔 第二季"},
 {id:182877,title:"監禁區域 Level X 第二季"},
 {id:2029,title:"天狼星的傳說"},
@@ -7510,6 +7509,7 @@ var database = [
 {id:8208,title:"地獄老師"},
 {id:185715,title:"SHIBUYA♡HACHI 第三季"},
 {id:171145,title:"蠟筆小新 我們的恐龍日記"},
+{id:189513,title:"葬送的芙莉蓮 ～●●の魔法～2"},
 {id:930,title:"傳說巨神伊迪安"},
 {id:2761,title:"傳說巨神伊迪安 發動篇"},
 {id:185073,title:"與你同為 偶像光之美少女♪"},
@@ -8227,7 +8227,9 @@ var database = [
 {id:10370,title:"戰鬥陀螺 鋼鐵奇兵 4D"},
 {id:116786,title:"戰鬥陀螺Burst 超王"},
 {id:8410,title:"戰鬥陀螺 鋼鐵奇兵 爆"},
+{id:206425,title:"葬送的芙莉蓮 ～●●の魔法～3"},
 {id:98289,title:"戰鬥陀螺Burst 神"},
+{id:199635,title:"小光美～Precure Fairies～ 第二季"},
 {id:108853,title:"戰鬥陀螺Burst GT"},
 {id:1669,title:"無敵戰鬥陀螺"},
 {id:15993,title:"向銀河開球 特別篇"},
@@ -8252,7 +8254,10 @@ var database = [
 {id:21412,title:"POP IN Q"},
 {id:20810,title:"劇場版 卡片戰鬥!! 先導者 霓虹救世主"},
 {id:136110,title:"戰鬥陀螺 鋼鐵奇兵 ZERO G 特別篇"},
-{id:165159,title:"戰鬥陀螺 X"}
+{id:165159,title:"戰鬥陀螺 X"},
+{id:189602,title:"YouTuNya 第3期 "},
+{id:176635,title:"YouTuNya 2"},
+{id:185793,title:"YouTuNya 聖誕特別篇"}
 ];
 
 var updating;

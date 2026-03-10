@@ -2,7 +2,7 @@
 -- PostgreSQL database dump
 --
 
-\restrict 0h87fVcnug2rKFA2qbvHtWbFvqwfj89L8ASKTw0YO67tuY7xwSkOgsgMfwNfGXa
+\restrict 4NRalxrBwujjzmAayxpme3yvWbr4kOVaRFKVZ7JMNzAraIDwEgvIY972xccjW6R
 
 -- Dumped from database version 18.3 (Debian 18.3-1.pgdg13+1)
 -- Dumped by pg_dump version 18.3 (Debian 18.3-1.pgdg13+1)
@@ -7522,7 +7522,6 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 169403	{"title": {"chinese": "Wonderful Precure! The Mobie! 心跳加速 遊戲世界大冒險！"}, "synonyms_chinese": ["美妙寵物 光之美少女電影：心跳加速 遊戲世界大冒險！"]}
 2012	{"title": {"chinese": "地獄老師"}, "synonyms_chinese": ["鳴～地獄老師", "靈異教師神眉"]}
 2745	{"title": {"chinese": "地獄老師 THE OVA"}, "synonyms_chinese": []}
-189513	{"title": {"chinese": "葬送的芙莉蓮 ～●●の魔法～２"}, "synonyms_chinese": []}
 184182	{"title": {"chinese": "全力兔 第二季"}, "synonyms_chinese": []}
 182877	{"title": {"chinese": "監禁區域 Level X 第二季"}, "synonyms_chinese": []}
 2029	{"title": {"chinese": "天狼星的傳說"}, "synonyms_chinese": []}
@@ -7534,6 +7533,7 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 8208	{"title": {"chinese": "地獄老師"}, "synonyms_chinese": []}
 185715	{"title": {"chinese": "SHIBUYA♡HACHI 第三季"}, "synonyms_chinese": []}
 171145	{"title": {"chinese": "蠟筆小新 我們的恐龍日記"}, "synonyms_chinese": []}
+189513	{"title": {"chinese": "葬送的芙莉蓮 ～●●の魔法～2"}, "synonyms_chinese": []}
 930	{"title": {"chinese": "傳說巨神伊迪安"}, "synonyms_chinese": []}
 2761	{"title": {"chinese": "傳說巨神伊迪安 發動篇"}, "synonyms_chinese": []}
 185073	{"title": {"chinese": "與你同為 偶像光之美少女♪"}, "synonyms_chinese": []}
@@ -8251,7 +8251,9 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 10370	{"title": {"chinese": "戰鬥陀螺 鋼鐵奇兵 4D"}, "synonyms_chinese": ["爆旋陀螺 鋼鐵奇兵 4D"]}
 116786	{"title": {"chinese": "戰鬥陀螺Burst 超王"}, "synonyms_chinese": ["爆旋陀螺 擊爆戰魂 超王"]}
 8410	{"title": {"chinese": "戰鬥陀螺 鋼鐵奇兵 爆"}, "synonyms_chinese": ["爆旋陀螺 鋼鐵奇兵 爆"]}
+206425	{"title": {"chinese": "葬送的芙莉蓮 ～●●の魔法～3"}, "synonyms_chinese": []}
 98289	{"title": {"chinese": "戰鬥陀螺Burst 神"}, "synonyms_chinese": ["爆旋陀螺 擊爆戰魂 神"]}
+199635	{"title": {"chinese": "小光美～Precure Fairies～ 第二季"}, "synonyms_chinese": []}
 108853	{"title": {"chinese": "戰鬥陀螺Burst GT"}, "synonyms_chinese": ["爆旋陀螺 擊爆戰魂 GT"]}
 1669	{"title": {"chinese": "無敵戰鬥陀螺"}, "synonyms_chinese": ["無敵爆旋陀螺"]}
 15993	{"title": {"chinese": "向銀河開球 特別篇"}, "synonyms_chinese": []}
@@ -8277,6 +8279,9 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 20810	{"title": {"chinese": "劇場版 卡片戰鬥!! 先導者 霓虹救世主"}, "synonyms_chinese": []}
 136110	{"title": {"chinese": "戰鬥陀螺 鋼鐵奇兵 ZERO G 特別篇"}, "synonyms_chinese": ["爆旋陀螺 鋼鐵奇兵 ZERO G 特別篇"]}
 165159	{"title": {"chinese": "戰鬥陀螺 X"}, "synonyms_chinese": ["爆旋陀螺 X"]}
+189602	{"title": {"chinese": "YouTuNya 第3期 "}, "synonyms_chinese": []}
+176635	{"title": {"chinese": "YouTuNya 2"}, "synonyms_chinese": []}
+185793	{"title": {"chinese": "YouTuNya 聖誕特別篇"}, "synonyms_chinese": []}
 \.
 
 
@@ -8292,5 +8297,5 @@ ALTER TABLE ONLY public.anilist_chinese
 -- PostgreSQL database dump complete
 --
 
-\unrestrict 0h87fVcnug2rKFA2qbvHtWbFvqwfj89L8ASKTw0YO67tuY7xwSkOgsgMfwNfGXa
+\unrestrict 4NRalxrBwujjzmAayxpme3yvWbr4kOVaRFKVZ7JMNzAraIDwEgvIY972xccjW6R
 
