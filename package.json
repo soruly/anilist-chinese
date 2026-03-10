@@ -28,6 +28,6 @@
   },
   "devDependencies": {
     "@types/node": "^25.4.0",
-    "oxfmt": "^0.36.0"
+    "oxfmt": "^0.37.0"
   }
 }
