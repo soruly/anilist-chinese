@@ -2,7 +2,7 @@
 -- PostgreSQL database dump
 --
 
-\restrict p3DVzl0ZSNOfeOkjCwYdEUnHf6CDgcYwypIL4ERmLvlKAVu5RIAkLyPpQrmIi9K
+\restrict s4lV92CNiL3ZkRPmj3IsAIggNmbqgay2pxNZGteErnxF6hZHHBvTAEjQFMbvYz6
 
 -- Dumped from database version 18.3 (Debian 18.3-1.pgdg13+1)
 -- Dumped by pg_dump version 18.3 (Debian 18.3-1.pgdg13+1)
@@ -8249,6 +8249,7 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 13231	{"title": {"chinese": "戰鬥陀螺 鋼鐵奇兵 ZERO G"}, "synonyms_chinese": ["爆旋陀螺 鋼鐵奇兵 ZERO G"]}
 166062	{"title": {"chinese": "戰鬥陀螺Burst BU"}, "synonyms_chinese": ["爆旋陀螺 擊爆戰魂 BU"]}
 10370	{"title": {"chinese": "戰鬥陀螺 鋼鐵奇兵 4D"}, "synonyms_chinese": ["爆旋陀螺 鋼鐵奇兵 4D"]}
+206610	{"title": {"chinese": "劇場編集版 Summer Pockets 空門蒼篇"}, "synonyms_chinese": []}
 116786	{"title": {"chinese": "戰鬥陀螺Burst 超王"}, "synonyms_chinese": ["爆旋陀螺 擊爆戰魂 超王"]}
 8410	{"title": {"chinese": "戰鬥陀螺 鋼鐵奇兵 爆"}, "synonyms_chinese": ["爆旋陀螺 鋼鐵奇兵 爆"]}
 206425	{"title": {"chinese": "葬送的芙莉蓮 ～●●の魔法～3"}, "synonyms_chinese": []}
@@ -8279,9 +8280,12 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 20810	{"title": {"chinese": "劇場版 卡片戰鬥!! 先導者 霓虹救世主"}, "synonyms_chinese": []}
 136110	{"title": {"chinese": "戰鬥陀螺 鋼鐵奇兵 ZERO G 特別篇"}, "synonyms_chinese": ["爆旋陀螺 鋼鐵奇兵 ZERO G 特別篇"]}
 165159	{"title": {"chinese": "戰鬥陀螺 X"}, "synonyms_chinese": ["爆旋陀螺 X"]}
+195230	{"title": {"chinese": "劇場編集版 Summer Pockets 久島鷗篇"}, "synonyms_chinese": []}
 189602	{"title": {"chinese": "YouTuNya 第3期 "}, "synonyms_chinese": []}
 176635	{"title": {"chinese": "YouTuNya 2"}, "synonyms_chinese": []}
+206609	{"title": {"chinese": "劇場編集版 Summer Pockets 紬文德斯篇"}, "synonyms_chinese": []}
 185793	{"title": {"chinese": "YouTuNya 聖誕特別篇"}, "synonyms_chinese": []}
+206611	{"title": {"chinese": "劇場編集版 Summer Pockets 鳴瀨白羽篇"}, "synonyms_chinese": []}
 \.
 
 
@@ -8297,5 +8301,5 @@ ALTER TABLE ONLY public.anilist_chinese
 -- PostgreSQL database dump complete
 --
 
-\unrestrict p3DVzl0ZSNOfeOkjCwYdEUnHf6CDgcYwypIL4ERmLvlKAVu5RIAkLyPpQrmIi9K
+\unrestrict s4lV92CNiL3ZkRPmj3IsAIggNmbqgay2pxNZGteErnxF6hZHHBvTAEjQFMbvYz6
 

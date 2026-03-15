@@ -8208,6 +8208,7 @@ const db = new Map([
 [13231,{title:"戰鬥陀螺 鋼鐵奇兵 ZERO G",synonyms:["爆旋陀螺 鋼鐵奇兵 ZERO G"]}],
 [166062,{title:"戰鬥陀螺Burst BU",synonyms:["爆旋陀螺 擊爆戰魂 BU"]}],
 [10370,{title:"戰鬥陀螺 鋼鐵奇兵 4D",synonyms:["爆旋陀螺 鋼鐵奇兵 4D"]}],
+[206610,{title:"劇場編集版 Summer Pockets 空門蒼篇",synonyms:[]}],
 [116786,{title:"戰鬥陀螺Burst 超王",synonyms:["爆旋陀螺 擊爆戰魂 超王"]}],
 [8410,{title:"戰鬥陀螺 鋼鐵奇兵 爆",synonyms:["爆旋陀螺 鋼鐵奇兵 爆"]}],
 [206425,{title:"葬送的芙莉蓮 ～●●の魔法～3",synonyms:[]}],
@@ -8238,9 +8239,12 @@ const db = new Map([
 [20810,{title:"劇場版 卡片戰鬥!! 先導者 霓虹救世主",synonyms:[]}],
 [136110,{title:"戰鬥陀螺 鋼鐵奇兵 ZERO G 特別篇",synonyms:["爆旋陀螺 鋼鐵奇兵 ZERO G 特別篇"]}],
 [165159,{title:"戰鬥陀螺 X",synonyms:["爆旋陀螺 X"]}],
+[195230,{title:"劇場編集版 Summer Pockets 久島鷗篇",synonyms:[]}],
 [189602,{title:"YouTuNya 第3期 ",synonyms:[]}],
 [176635,{title:"YouTuNya 2",synonyms:[]}],
-[185793,{title:"YouTuNya 聖誕特別篇",synonyms:[]}]
+[206609,{title:"劇場編集版 Summer Pockets 紬文德斯篇",synonyms:[]}],
+[185793,{title:"YouTuNya 聖誕特別篇",synonyms:[]}],
+[206611,{title:"劇場編集版 Summer Pockets 鳴瀨白羽篇",synonyms:[]}]
 ]);
 
 async function handleRequest(req) {

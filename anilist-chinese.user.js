@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      3.2026.3.10
+// @version      3.2026.3.15
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -8225,6 +8225,7 @@ var database = [
 {id:13231,title:"戰鬥陀螺 鋼鐵奇兵 ZERO G"},
 {id:166062,title:"戰鬥陀螺Burst BU"},
 {id:10370,title:"戰鬥陀螺 鋼鐵奇兵 4D"},
+{id:206610,title:"劇場編集版 Summer Pockets 空門蒼篇"},
 {id:116786,title:"戰鬥陀螺Burst 超王"},
 {id:8410,title:"戰鬥陀螺 鋼鐵奇兵 爆"},
 {id:206425,title:"葬送的芙莉蓮 ～●●の魔法～3"},
@@ -8255,9 +8256,12 @@ var database = [
 {id:20810,title:"劇場版 卡片戰鬥!! 先導者 霓虹救世主"},
 {id:136110,title:"戰鬥陀螺 鋼鐵奇兵 ZERO G 特別篇"},
 {id:165159,title:"戰鬥陀螺 X"},
+{id:195230,title:"劇場編集版 Summer Pockets 久島鷗篇"},
 {id:189602,title:"YouTuNya 第3期 "},
 {id:176635,title:"YouTuNya 2"},
-{id:185793,title:"YouTuNya 聖誕特別篇"}
+{id:206609,title:"劇場編集版 Summer Pockets 紬文德斯篇"},
+{id:185793,title:"YouTuNya 聖誕特別篇"},
+{id:206611,title:"劇場編集版 Summer Pockets 鳴瀨白羽篇"}
 ];
 
 var updating;
