@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      3.2026.3.15
+// @version      3.2026.3.19
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -8258,10 +8258,14 @@ var database = [
 {id:165159,title:"戰鬥陀螺 X"},
 {id:195230,title:"劇場編集版 Summer Pockets 久島鷗篇"},
 {id:189602,title:"YouTuNya 第3期 "},
+{id:179813,title:"雞鬥士"},
 {id:176635,title:"YouTuNya 2"},
 {id:206609,title:"劇場編集版 Summer Pockets 紬文德斯篇"},
+{id:202893,title:"L'amour fou de l'automate"},
 {id:185793,title:"YouTuNya 聖誕特別篇"},
-{id:206611,title:"劇場編集版 Summer Pockets 鳴瀨白羽篇"}
+{id:202894,title:"剣鬼バルゴ"},
+{id:206611,title:"劇場編集版 Summer Pockets 鳴瀨白羽篇"},
+{id:203367,title:"もう一度、してみたい。"}
 ];
 
 var updating;

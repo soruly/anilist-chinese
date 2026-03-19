@@ -46352,6 +46352,13 @@
     "synonyms": []
   },
   {
+    "id": 179813,
+    "title": "雞鬥士",
+    "synonyms": [
+      "怒火雞頭"
+    ]
+  },
+  {
     "id": 176635,
     "title": "YouTuNya 2",
     "synonyms": []
@@ -46362,13 +46369,28 @@
     "synonyms": []
   },
   {
+    "id": 202893,
+    "title": "L'amour fou de l'automate",
+    "synonyms": []
+  },
+  {
     "id": 185793,
     "title": "YouTuNya 聖誕特別篇",
     "synonyms": []
   },
   {
+    "id": 202894,
+    "title": "剣鬼バルゴ",
+    "synonyms": []
+  },
+  {
     "id": 206611,
     "title": "劇場編集版 Summer Pockets 鳴瀨白羽篇",
+    "synonyms": []
+  },
+  {
+    "id": 203367,
+    "title": "もう一度、してみたい。",
     "synonyms": []
   }
 ]

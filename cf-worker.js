@@ -8241,10 +8241,14 @@ const db = new Map([
 [165159,{title:"戰鬥陀螺 X",synonyms:["爆旋陀螺 X"]}],
 [195230,{title:"劇場編集版 Summer Pockets 久島鷗篇",synonyms:[]}],
 [189602,{title:"YouTuNya 第3期 ",synonyms:[]}],
+[179813,{title:"雞鬥士",synonyms:["怒火雞頭"]}],
 [176635,{title:"YouTuNya 2",synonyms:[]}],
 [206609,{title:"劇場編集版 Summer Pockets 紬文德斯篇",synonyms:[]}],
+[202893,{title:"L'amour fou de l'automate",synonyms:[]}],
 [185793,{title:"YouTuNya 聖誕特別篇",synonyms:[]}],
-[206611,{title:"劇場編集版 Summer Pockets 鳴瀨白羽篇",synonyms:[]}]
+[202894,{title:"剣鬼バルゴ",synonyms:[]}],
+[206611,{title:"劇場編集版 Summer Pockets 鳴瀨白羽篇",synonyms:[]}],
+[203367,{title:"もう一度、してみたい。",synonyms:[]}]
 ]);
 
 async function handleRequest(req) {

@@ -2,7 +2,7 @@
 -- PostgreSQL database dump
 --
 
-\restrict 8YKhzhDuAd55mCdByJcQXXZeNYHySVDhCIKAzf4FAmgkDhztyeBUSO3mhOgxbSX
+\restrict DrL3oofUYBPnmuCWhw1feQfltcMqygTONHU6X8hCtxix55JISr3hB7tPiKgbTPi
 
 -- Dumped from database version 18.3 (Debian 18.3-1.pgdg13+1)
 -- Dumped by pg_dump version 18.3 (Debian 18.3-1.pgdg13+1)
@@ -8282,10 +8282,14 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 165159	{"title": {"chinese": "戰鬥陀螺 X"}, "synonyms_chinese": ["爆旋陀螺 X"]}
 195230	{"title": {"chinese": "劇場編集版 Summer Pockets 久島鷗篇"}, "synonyms_chinese": []}
 189602	{"title": {"chinese": "YouTuNya 第3期 "}, "synonyms_chinese": []}
+179813	{"title": {"chinese": "雞鬥士"}, "synonyms_chinese": ["怒火雞頭"]}
 176635	{"title": {"chinese": "YouTuNya 2"}, "synonyms_chinese": []}
 206609	{"title": {"chinese": "劇場編集版 Summer Pockets 紬文德斯篇"}, "synonyms_chinese": []}
+202893	{"title": {"chinese": "L'amour fou de l'automate"}, "synonyms_chinese": []}
 185793	{"title": {"chinese": "YouTuNya 聖誕特別篇"}, "synonyms_chinese": []}
+202894	{"title": {"chinese": "剣鬼バルゴ"}, "synonyms_chinese": []}
 206611	{"title": {"chinese": "劇場編集版 Summer Pockets 鳴瀨白羽篇"}, "synonyms_chinese": []}
+203367	{"title": {"chinese": "もう一度、してみたい。"}, "synonyms_chinese": []}
 \.
 
 
@@ -8301,5 +8305,5 @@ ALTER TABLE ONLY public.anilist_chinese
 -- PostgreSQL database dump complete
 --
 
-\unrestrict 8YKhzhDuAd55mCdByJcQXXZeNYHySVDhCIKAzf4FAmgkDhztyeBUSO3mhOgxbSX
+\unrestrict DrL3oofUYBPnmuCWhw1feQfltcMqygTONHU6X8hCtxix55JISr3hB7tPiKgbTPi
 
