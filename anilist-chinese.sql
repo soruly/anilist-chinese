@@ -2,7 +2,7 @@
 -- PostgreSQL database dump
 --
 
-\restrict Z2Sb1jQOaK9w22jzsASsNAhmNPkNwLg80XBups562vDHNaFEdzGQes5WtyowrDp
+\restrict JoLAIJlMXhJYiFRW04z6oz1RIS4s2HqieqDZArh52JZpdp9qJheusaKPOmdVPB0
 
 -- Dumped from database version 18.3 (Debian 18.3-1.pgdg13+1)
 -- Dumped by pg_dump version 18.3 (Debian 18.3-1.pgdg13+1)
@@ -8371,6 +8371,7 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 113555	{"title": {"chinese": "機動警察 EZY"}, "synonyms_chinese": []}
 151117	{"title": {"chinese": "劇場版 物怪 唐傘"}, "synonyms_chinese": []}
 204349	{"title": {"chinese": "百姓貴族 第三季 OVA"}, "synonyms_chinese": []}
+209940	{"title": {"chinese": "米神女孩"}, "synonyms_chinese": []}
 \.
 
 
@@ -8386,5 +8387,5 @@ ALTER TABLE ONLY public.anilist_chinese
 -- PostgreSQL database dump complete
 --
 
-\unrestrict Z2Sb1jQOaK9w22jzsASsNAhmNPkNwLg80XBups562vDHNaFEdzGQes5WtyowrDp
+\unrestrict JoLAIJlMXhJYiFRW04z6oz1RIS4s2HqieqDZArh52JZpdp9qJheusaKPOmdVPB0
 
