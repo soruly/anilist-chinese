@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      3.2026.4.1
+// @version      3.2026.4.4
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -8346,7 +8346,9 @@ var database = [
 {id:194167,title:"LoveLive！蓮之空女學院校園偶像俱樂部"},
 {id:113555,title:"機動警察 EZY"},
 {id:151117,title:"劇場版 物怪 唐傘"},
+{id:141878,title:"萌妻食神之歡喜追婚"},
 {id:204349,title:"百姓貴族 第三季 OVA"},
+{id:210234,title:"吞噬魔物的冒險者"},
 {id:209940,title:"米神女孩"}
 ];
 

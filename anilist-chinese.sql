@@ -2,7 +2,7 @@
 -- PostgreSQL database dump
 --
 
-\restrict b9LTnVGOb1v9MWrzl3OCJmvdHIy1SLOEHEHwOVU0h03mq306LzIeVZutehFJZrs
+\restrict 1ehM5mvaszwZfEnp9UUQ8d4wGc6lYfLxHskkxJWQkmUSWdmF5fFCo6sFxxFZgfj
 
 -- Dumped from database version 18.3 (Debian 18.3-1.pgdg13+1)
 -- Dumped by pg_dump version 18.3 (Debian 18.3-1.pgdg13+1)
@@ -8370,8 +8370,10 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 194167	{"title": {"chinese": "LoveLive！蓮之空女學院校園偶像俱樂部"}, "synonyms_chinese": []}
 113555	{"title": {"chinese": "機動警察 EZY"}, "synonyms_chinese": []}
 151117	{"title": {"chinese": "劇場版 物怪 唐傘"}, "synonyms_chinese": []}
+141878	{"title": {"chinese": "萌妻食神之歡喜追婚"}, "synonyms_chinese": []}
 204349	{"title": {"chinese": "百姓貴族 第三季 OVA"}, "synonyms_chinese": []}
-209940	{"title": {"chinese": "米神女孩"}, "synonyms_chinese": []}
+210234	{"title": {"chinese": "吞噬魔物的冒險者"}, "synonyms_chinese": []}
+209940	{"title": {"chinese": "米神女孩"}, "synonyms_chinese": ["七米神物語"]}
 \.
 
 
@@ -8387,5 +8389,5 @@ ALTER TABLE ONLY public.anilist_chinese
 -- PostgreSQL database dump complete
 --
 
-\unrestrict b9LTnVGOb1v9MWrzl3OCJmvdHIy1SLOEHEHwOVU0h03mq306LzIeVZutehFJZrs
+\unrestrict 1ehM5mvaszwZfEnp9UUQ8d4wGc6lYfLxHskkxJWQkmUSWdmF5fFCo6sFxxFZgfj
 
