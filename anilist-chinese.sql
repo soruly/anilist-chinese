@@ -2,7 +2,7 @@
 -- PostgreSQL database dump
 --
 
-\restrict 1ehM5mvaszwZfEnp9UUQ8d4wGc6lYfLxHskkxJWQkmUSWdmF5fFCo6sFxxFZgfj
+\restrict rOGMvCdyoshsIKsGDxodW2xe5Y9bvERdJKnS7zcFSsYpzGOvz0McpdowzOYzIGb
 
 -- Dumped from database version 18.3 (Debian 18.3-1.pgdg13+1)
 -- Dumped by pg_dump version 18.3 (Debian 18.3-1.pgdg13+1)
@@ -4541,7 +4541,6 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 99196	{"title": {"chinese": "笑傲曇天 <外傳>中篇～宿命、雙頭的風魔～"}, "synonyms_chinese": []}
 99197	{"title": {"chinese": "笑傲曇天 <外傳>後篇～櫻華、天望的架橋～"}, "synonyms_chinese": []}
 99200	{"title": {"chinese": "全職法師"}, "synonyms_chinese": []}
-99230	{"title": {"chinese": "鬆弛熊與小薰"}, "synonyms_chinese": []}
 99255	{"title": {"chinese": "食戟之靈 餐之皿"}, "synonyms_chinese": []}
 99263	{"title": {"chinese": "盾之勇者成名錄"}, "synonyms_chinese": []}
 99268	{"title": {"chinese": "SWAMP STAMP Anime Edition"}, "synonyms_chinese": []}
@@ -8373,7 +8372,11 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 141878	{"title": {"chinese": "萌妻食神之歡喜追婚"}, "synonyms_chinese": []}
 204349	{"title": {"chinese": "百姓貴族 第三季 OVA"}, "synonyms_chinese": []}
 210234	{"title": {"chinese": "吞噬魔物的冒險者"}, "synonyms_chinese": []}
+99230	{"title": {"chinese": "拉拉熊與小薰"}, "synonyms_chinese": ["鬆弛熊與小薰"]}
+183231	{"title": {"chinese": "拉拉熊～悠哉夢旅～"}, "synonyms_chinese": ["鬆弛熊～悠哉夢旅～"]}
 209940	{"title": {"chinese": "米神女孩"}, "synonyms_chinese": ["七米神物語"]}
+125440	{"title": {"chinese": "拉拉熊主題樂園大冒險"}, "synonyms_chinese": ["鬆弛熊主題樂園大冒險"]}
+210375	{"title": {"chinese": "大賢者里德爾的時間逆行"}, "synonyms_chinese": []}
 \.
 
 
@@ -8389,5 +8392,5 @@ ALTER TABLE ONLY public.anilist_chinese
 -- PostgreSQL database dump complete
 --
 
-\unrestrict 1ehM5mvaszwZfEnp9UUQ8d4wGc6lYfLxHskkxJWQkmUSWdmF5fFCo6sFxxFZgfj
+\unrestrict rOGMvCdyoshsIKsGDxodW2xe5Y9bvERdJKnS7zcFSsYpzGOvz0McpdowzOYzIGb
 

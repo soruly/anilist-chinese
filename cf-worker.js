@@ -4500,7 +4500,6 @@ const db = new Map([
 [99196,{title:"笑傲曇天 <外傳>中篇～宿命、雙頭的風魔～",synonyms:[]}],
 [99197,{title:"笑傲曇天 <外傳>後篇～櫻華、天望的架橋～",synonyms:[]}],
 [99200,{title:"全職法師",synonyms:[]}],
-[99230,{title:"鬆弛熊與小薰",synonyms:[]}],
 [99255,{title:"食戟之靈 餐之皿",synonyms:[]}],
 [99263,{title:"盾之勇者成名錄",synonyms:[]}],
 [99268,{title:"SWAMP STAMP Anime Edition",synonyms:[]}],
@@ -8332,7 +8331,11 @@ const db = new Map([
 [141878,{title:"萌妻食神之歡喜追婚",synonyms:[]}],
 [204349,{title:"百姓貴族 第三季 OVA",synonyms:[]}],
 [210234,{title:"吞噬魔物的冒險者",synonyms:[]}],
-[209940,{title:"米神女孩",synonyms:["七米神物語"]}]
+[99230,{title:"拉拉熊與小薰",synonyms:["鬆弛熊與小薰"]}],
+[183231,{title:"拉拉熊～悠哉夢旅～",synonyms:["鬆弛熊～悠哉夢旅～"]}],
+[209940,{title:"米神女孩",synonyms:["七米神物語"]}],
+[125440,{title:"拉拉熊主題樂園大冒險",synonyms:["鬆弛熊主題樂園大冒險"]}],
+[210375,{title:"大賢者里德爾的時間逆行",synonyms:[]}]
 ]);
 
 async function handleRequest(req) {

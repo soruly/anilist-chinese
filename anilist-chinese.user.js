@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      3.2026.4.4
+// @version      3.2026.4.5
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -4517,7 +4517,6 @@ var database = [
 {id:99196,title:"笑傲曇天 <外傳>中篇～宿命、雙頭的風魔～"},
 {id:99197,title:"笑傲曇天 <外傳>後篇～櫻華、天望的架橋～"},
 {id:99200,title:"全職法師"},
-{id:99230,title:"鬆弛熊與小薰"},
 {id:99255,title:"食戟之靈 餐之皿"},
 {id:99263,title:"盾之勇者成名錄"},
 {id:99268,title:"SWAMP STAMP Anime Edition"},
@@ -8349,7 +8348,11 @@ var database = [
 {id:141878,title:"萌妻食神之歡喜追婚"},
 {id:204349,title:"百姓貴族 第三季 OVA"},
 {id:210234,title:"吞噬魔物的冒險者"},
-{id:209940,title:"米神女孩"}
+{id:99230,title:"拉拉熊與小薰"},
+{id:183231,title:"拉拉熊～悠哉夢旅～"},
+{id:209940,title:"米神女孩"},
+{id:125440,title:"拉拉熊主題樂園大冒險"},
+{id:210375,title:"大賢者里德爾的時間逆行"}
 ];
 
 var updating;
