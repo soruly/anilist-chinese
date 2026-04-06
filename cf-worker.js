@@ -8308,6 +8308,7 @@ const db = new Map([
 [147105,{title:"魔法帽的工作室",synonyms:[]}],
 [189987,{title:"木頭風紀委員和迷你裙 JK 的故事",synonyms:[]}],
 [197754,{title:"LIAR GAME",synonyms:["LIAR GAME - 詐欺遊戲"]}],
+[187166,{title:"元祖！邦多利醬",synonyms:[]}],
 [197824,{title:"異世界悠閒農家 2",synonyms:[]}],
 [169580,{title:"和班上第二可愛的女孩成為朋友",synonyms:[]}],
 [195268,{title:"成為悲劇元兇的最強異端，最後頭目女王為了人民犧牲奉獻 第二季",synonyms:[]}],

@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      3.2026.4.5
+// @version      3.2026.4.6
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -8325,6 +8325,7 @@ var database = [
 {id:147105,title:"魔法帽的工作室"},
 {id:189987,title:"木頭風紀委員和迷你裙 JK 的故事"},
 {id:197754,title:"LIAR GAME"},
+{id:187166,title:"元祖！邦多利醬"},
 {id:197824,title:"異世界悠閒農家 2"},
 {id:169580,title:"和班上第二可愛的女孩成為朋友"},
 {id:195268,title:"成為悲劇元兇的最強異端，最後頭目女王為了人民犧牲奉獻 第二季"},

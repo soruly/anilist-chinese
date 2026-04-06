@@ -2,7 +2,7 @@
 -- PostgreSQL database dump
 --
 
-\restrict rOGMvCdyoshsIKsGDxodW2xe5Y9bvERdJKnS7zcFSsYpzGOvz0McpdowzOYzIGb
+\restrict YLr8LcgHSdEhUGPZIOUmodQd4MYWtA80aMzufKRdpxxDUra96Iugct8ENdqbWhH
 
 -- Dumped from database version 18.3 (Debian 18.3-1.pgdg13+1)
 -- Dumped by pg_dump version 18.3 (Debian 18.3-1.pgdg13+1)
@@ -8349,6 +8349,7 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 147105	{"title": {"chinese": "魔法帽的工作室"}, "synonyms_chinese": []}
 189987	{"title": {"chinese": "木頭風紀委員和迷你裙 JK 的故事"}, "synonyms_chinese": []}
 197754	{"title": {"chinese": "LIAR GAME"}, "synonyms_chinese": ["LIAR GAME - 詐欺遊戲"]}
+187166	{"title": {"chinese": "元祖！邦多利醬"}, "synonyms_chinese": []}
 197824	{"title": {"chinese": "異世界悠閒農家 2"}, "synonyms_chinese": []}
 169580	{"title": {"chinese": "和班上第二可愛的女孩成為朋友"}, "synonyms_chinese": []}
 195268	{"title": {"chinese": "成為悲劇元兇的最強異端，最後頭目女王為了人民犧牲奉獻 第二季"}, "synonyms_chinese": []}
@@ -8392,5 +8393,5 @@ ALTER TABLE ONLY public.anilist_chinese
 -- PostgreSQL database dump complete
 --
 
-\unrestrict rOGMvCdyoshsIKsGDxodW2xe5Y9bvERdJKnS7zcFSsYpzGOvz0McpdowzOYzIGb
+\unrestrict YLr8LcgHSdEhUGPZIOUmodQd4MYWtA80aMzufKRdpxxDUra96Iugct8ENdqbWhH
 
