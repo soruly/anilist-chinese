@@ -8332,11 +8332,14 @@ const db = new Map([
 [141878,{title:"萌妻食神之歡喜追婚",synonyms:[]}],
 [204349,{title:"百姓貴族 第三季 OVA",synonyms:[]}],
 [210234,{title:"吞噬魔物的冒險者",synonyms:[]}],
+[187267,{title:"BEASTARS FINAL SEASON Part 2",synonyms:[]}],
 [99230,{title:"拉拉熊與小薰",synonyms:["鬆弛熊與小薰"]}],
+[190327,{title:"JoJo的奇妙冒險 飆馬野郎",synonyms:[]}],
 [183231,{title:"拉拉熊～悠哉夢旅～",synonyms:["鬆弛熊～悠哉夢旅～"]}],
 [209940,{title:"米神女孩",synonyms:["七米神物語"]}],
 [125440,{title:"拉拉熊主題樂園大冒險",synonyms:["鬆弛熊主題樂園大冒險"]}],
-[210375,{title:"大賢者里德爾的時間逆行",synonyms:[]}]
+[210375,{title:"大賢者里德爾的時間逆行",synonyms:[]}],
+[168251,{title:"一人之下 鐵重現",synonyms:[]}]
 ]);
 
 async function handleRequest(req) {

@@ -2,7 +2,7 @@
 -- PostgreSQL database dump
 --
 
-\restrict YLr8LcgHSdEhUGPZIOUmodQd4MYWtA80aMzufKRdpxxDUra96Iugct8ENdqbWhH
+\restrict IULtsUkisw1IpRTIbMHH1ebl9ZMDv9rcvOSBnKZ4oZng9gFd8i0KsDygGkFKpyz
 
 -- Dumped from database version 18.3 (Debian 18.3-1.pgdg13+1)
 -- Dumped by pg_dump version 18.3 (Debian 18.3-1.pgdg13+1)
@@ -8373,11 +8373,14 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 141878	{"title": {"chinese": "萌妻食神之歡喜追婚"}, "synonyms_chinese": []}
 204349	{"title": {"chinese": "百姓貴族 第三季 OVA"}, "synonyms_chinese": []}
 210234	{"title": {"chinese": "吞噬魔物的冒險者"}, "synonyms_chinese": []}
+187267	{"title": {"chinese": "BEASTARS FINAL SEASON Part 2"}, "synonyms_chinese": []}
 99230	{"title": {"chinese": "拉拉熊與小薰"}, "synonyms_chinese": ["鬆弛熊與小薰"]}
+190327	{"title": {"chinese": "JoJo的奇妙冒險 飆馬野郎"}, "synonyms_chinese": []}
 183231	{"title": {"chinese": "拉拉熊～悠哉夢旅～"}, "synonyms_chinese": ["鬆弛熊～悠哉夢旅～"]}
 209940	{"title": {"chinese": "米神女孩"}, "synonyms_chinese": ["七米神物語"]}
 125440	{"title": {"chinese": "拉拉熊主題樂園大冒險"}, "synonyms_chinese": ["鬆弛熊主題樂園大冒險"]}
 210375	{"title": {"chinese": "大賢者里德爾的時間逆行"}, "synonyms_chinese": []}
+168251	{"title": {"chinese": "一人之下 鐵重現"}, "synonyms_chinese": []}
 \.
 
 
@@ -8393,5 +8396,5 @@ ALTER TABLE ONLY public.anilist_chinese
 -- PostgreSQL database dump complete
 --
 
-\unrestrict YLr8LcgHSdEhUGPZIOUmodQd4MYWtA80aMzufKRdpxxDUra96Iugct8ENdqbWhH
+\unrestrict IULtsUkisw1IpRTIbMHH1ebl9ZMDv9rcvOSBnKZ4oZng9gFd8i0KsDygGkFKpyz
 
