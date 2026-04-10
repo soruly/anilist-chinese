@@ -2,7 +2,7 @@
 -- PostgreSQL database dump
 --
 
-\restrict eIeoJ9FLVgQNLH7kNw1cpbxBI2Mv0Fcisa8VVulfK425f9vYWWuYyilB2k7ytyB
+\restrict BdIW7BBGHKbs58Ex03xFtcYPlYCtFGJjgJ9walEX8Og0v5WN5hrvs3tSy2bOOcq
 
 -- Dumped from database version 18.3 (Debian 18.3-1.pgdg13+1)
 -- Dumped by pg_dump version 18.3 (Debian 18.3-1.pgdg13+1)
@@ -8294,13 +8294,13 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 173172	{"title": {"chinese": "異獸魔都 第二季"}, "synonyms_chinese": []}
 180228	{"title": {"chinese": "加油！中村同學！！"}, "synonyms_chinese": []}
 180745	{"title": {"chinese": "歡迎來到實力至上主義的教室 第四季 2年級篇 第一學期"}, "synonyms_chinese": []}
-194317	{"title": {"chinese": "最強的王者，在第二次的人生能做什麼？第二季"}, "synonyms_chinese": []}
 197868	{"title": {"chinese": "女僕小姐的貪吃日常"}, "synonyms_chinese": []}
 200769	{"title": {"chinese": "最強的職業不是勇者也不是賢者好像是鑑定士（暫）的樣子"}, "synonyms_chinese": []}
 179950	{"title": {"chinese": "輪迴的花瓣"}, "synonyms_chinese": []}
 181284	{"title": {"chinese": "霧尾粉絲後援會"}, "synonyms_chinese": []}
 195333	{"title": {"chinese": "灰原同學重返過去，開啟所向無敵的第二輪青春遊戲"}, "synonyms_chinese": []}
 202381	{"title": {"chinese": "你又被殺了呢，偵探大人"}, "synonyms_chinese": []}
+194317	{"title": {"chinese": "最強的王者，在第二次的人生能做什麼？第二季"}, "synonyms_chinese": ["終末起點 第二季"]}
 194116	{"title": {"chinese": "最終樂章 吹響吧！上低音號 後篇"}, "synonyms_chinese": []}
 203448	{"title": {"chinese": "境界觸發者 REBOOT"}, "synonyms_chinese": []}
 177508	{"title": {"chinese": "庫吉馬唱歌的家"}, "synonyms_chinese": []}
@@ -8373,6 +8373,7 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 141878	{"title": {"chinese": "萌妻食神之歡喜追婚"}, "synonyms_chinese": []}
 204349	{"title": {"chinese": "百姓貴族 第三季 OVA"}, "synonyms_chinese": []}
 210234	{"title": {"chinese": "吞噬魔物的冒險者"}, "synonyms_chinese": []}
+207534	{"title": {"chinese": "盗妖行"}, "synonyms_chinese": []}
 187267	{"title": {"chinese": "BEASTARS FINAL SEASON Part 2"}, "synonyms_chinese": []}
 99230	{"title": {"chinese": "拉拉熊與小薰"}, "synonyms_chinese": ["鬆弛熊與小薰"]}
 190327	{"title": {"chinese": "JoJo的奇妙冒險 飆馬野郎"}, "synonyms_chinese": []}
@@ -8396,5 +8397,5 @@ ALTER TABLE ONLY public.anilist_chinese
 -- PostgreSQL database dump complete
 --
 
-\unrestrict eIeoJ9FLVgQNLH7kNw1cpbxBI2Mv0Fcisa8VVulfK425f9vYWWuYyilB2k7ytyB
+\unrestrict BdIW7BBGHKbs58Ex03xFtcYPlYCtFGJjgJ9walEX8Og0v5WN5hrvs3tSy2bOOcq
 
