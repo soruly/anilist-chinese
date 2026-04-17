@@ -46496,11 +46496,6 @@
     "synonyms": []
   },
   {
-    "id": 205772,
-    "title": "Candy Caries",
-    "synonyms": []
-  },
-  {
     "id": 182300,
     "title": "杖與劍的魔劍譚 第二季",
     "synonyms": []
@@ -46606,6 +46601,13 @@
     "id": 194393,
     "title": "想結束這場「我愛你」的遊戲",
     "synonyms": []
+  },
+  {
+    "id": 205772,
+    "title": "Candy Caries",
+    "synonyms": [
+      "蛀在糖糖裡"
+    ]
   },
   {
     "id": 205054,

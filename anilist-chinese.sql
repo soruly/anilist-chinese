@@ -2,7 +2,7 @@
 -- PostgreSQL database dump
 --
 
-\restrict BNEUBx3Rl6IEHIl69wBDnAuXsP9yQ626tQZNde6mrd1pY1Lfh1cClldhEcA1gzn
+\restrict J59ysUfFUUR5cg2kZGWpa1w3Of0kcEjtpVtjcDEq92Mt6QQdMKNfaUkf1Z9RDz5
 
 -- Dumped from database version 18.3 (Debian 18.3-1.pgdg13+1)
 -- Dumped by pg_dump version 18.3 (Debian 18.3-1.pgdg13+1)
@@ -8310,7 +8310,6 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 204319	{"title": {"chinese": "這樣高大的女孩子你喜歡嗎？"}, "synonyms_chinese": []}
 206951	{"title": {"chinese": "女神「異世界轉生想成為什麼」我「勇者的肋骨」"}, "synonyms_chinese": []}
 206523	{"title": {"chinese": "拜託了偶像公主"}, "synonyms_chinese": []}
-205772	{"title": {"chinese": "Candy Caries"}, "synonyms_chinese": []}
 182300	{"title": {"chinese": "杖與劍的魔劍譚 第二季"}, "synonyms_chinese": []}
 196974	{"title": {"chinese": "黑貓與魔女的教室"}, "synonyms_chinese": []}
 204269	{"title": {"chinese": "小鯊鯊出門去 第二季"}, "synonyms_chinese": []}
@@ -8332,6 +8331,7 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 199029	{"title": {"chinese": "出租女友 第五季"}, "synonyms_chinese": []}
 195734	{"title": {"chinese": "一疊間漫畫咖啡屋生活！"}, "synonyms_chinese": []}
 194393	{"title": {"chinese": "想結束這場「我愛你」的遊戲"}, "synonyms_chinese": []}
+205772	{"title": {"chinese": "Candy Caries"}, "synonyms_chinese": ["蛀在糖糖裡"]}
 205054	{"title": {"chinese": "轉生惡女的黑歷史 OVA"}, "synonyms_chinese": []}
 196840	{"title": {"chinese": "一臉嫌棄給你看胖次 R"}, "synonyms_chinese": []}
 198939	{"title": {"chinese": "轉生成自動販賣機的我今天也在迷宮徘徊 第三季"}, "synonyms_chinese": []}
@@ -8397,5 +8397,5 @@ ALTER TABLE ONLY public.anilist_chinese
 -- PostgreSQL database dump complete
 --
 
-\unrestrict BNEUBx3Rl6IEHIl69wBDnAuXsP9yQ626tQZNde6mrd1pY1Lfh1cClldhEcA1gzn
+\unrestrict J59ysUfFUUR5cg2kZGWpa1w3Of0kcEjtpVtjcDEq92Mt6QQdMKNfaUkf1Z9RDz5
 

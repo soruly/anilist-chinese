@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      3.2026.4.10
+// @version      3.2026.4.17
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -8286,7 +8286,6 @@ var database = [
 {id:204319,title:"這樣高大的女孩子你喜歡嗎？"},
 {id:206951,title:"女神「異世界轉生想成為什麼」我「勇者的肋骨」"},
 {id:206523,title:"拜託了偶像公主"},
-{id:205772,title:"Candy Caries"},
 {id:182300,title:"杖與劍的魔劍譚 第二季"},
 {id:196974,title:"黑貓與魔女的教室"},
 {id:204269,title:"小鯊鯊出門去 第二季"},
@@ -8308,6 +8307,7 @@ var database = [
 {id:199029,title:"出租女友 第五季"},
 {id:195734,title:"一疊間漫畫咖啡屋生活！"},
 {id:194393,title:"想結束這場「我愛你」的遊戲"},
+{id:205772,title:"Candy Caries"},
 {id:205054,title:"轉生惡女的黑歷史 OVA"},
 {id:196840,title:"一臉嫌棄給你看胖次 R"},
 {id:198939,title:"轉生成自動販賣機的我今天也在迷宮徘徊 第三季"},
