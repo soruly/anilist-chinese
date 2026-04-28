@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      3.2026.4.17
+// @version      3.2026.4.28
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -8354,10 +8354,15 @@ var database = [
 {id:99230,title:"拉拉熊與小薰"},
 {id:190327,title:"JoJo的奇妙冒險 飆馬野郎"},
 {id:183231,title:"拉拉熊～悠哉夢旅～"},
+{id:200930,title:"アナルマニアオタクとアナニー大好きなお嬢様～奇跡のマッチング～"},
 {id:209940,title:"米神女孩"},
 {id:125440,title:"拉拉熊主題樂園大冒險"},
 {id:210375,title:"大賢者里德爾的時間逆行"},
-{id:168251,title:"一人之下 鐵重現"}
+{id:206915,title:"ケガレボシ 紫"},
+{id:206916,title:"ケガレボシ 黒"},
+{id:168251,title:"一人之下 鐵重現"},
+{id:204463,title:"蛇と蜘蛛"},
+{id:204560,title:"ファントム・アルケミア ～シルヴィアのドキドキ搾精都市計画～"}
 ];
 
 var updating;

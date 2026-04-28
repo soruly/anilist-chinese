@@ -2,7 +2,7 @@
 -- PostgreSQL database dump
 --
 
-\restrict aMm4dZbpFDtagO4JwM0v4340VdPz78CxRZoDvWNpXb4omnc1nDYCrceI1Ww3uqT
+\restrict f2jF2m4Pxhez9mTT2C9M3TMPFQWdc7UJZDbHz6ecrDKeJEWbkWBPo11EFxQkeG5
 
 -- Dumped from database version 18.3 (Debian 18.3-1.pgdg13+1)
 -- Dumped by pg_dump version 18.3 (Debian 18.3-1.pgdg13+1)
@@ -8378,10 +8378,15 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 99230	{"title": {"chinese": "拉拉熊與小薰"}, "synonyms_chinese": ["鬆弛熊與小薰"]}
 190327	{"title": {"chinese": "JoJo的奇妙冒險 飆馬野郎"}, "synonyms_chinese": []}
 183231	{"title": {"chinese": "拉拉熊～悠哉夢旅～"}, "synonyms_chinese": ["鬆弛熊～悠哉夢旅～"]}
+200930	{"title": {"chinese": "アナルマニアオタクとアナニー大好きなお嬢様～奇跡のマッチング～"}, "synonyms_chinese": []}
 209940	{"title": {"chinese": "米神女孩"}, "synonyms_chinese": ["七米神物語"]}
 125440	{"title": {"chinese": "拉拉熊主題樂園大冒險"}, "synonyms_chinese": ["鬆弛熊主題樂園大冒險"]}
 210375	{"title": {"chinese": "大賢者里德爾的時間逆行"}, "synonyms_chinese": []}
+206915	{"title": {"chinese": "ケガレボシ 紫"}, "synonyms_chinese": []}
+206916	{"title": {"chinese": "ケガレボシ 黒"}, "synonyms_chinese": []}
 168251	{"title": {"chinese": "一人之下 鐵重現"}, "synonyms_chinese": []}
+204463	{"title": {"chinese": "蛇と蜘蛛"}, "synonyms_chinese": []}
+204560	{"title": {"chinese": "ファントム・アルケミア ～シルヴィアのドキドキ搾精都市計画～"}, "synonyms_chinese": []}
 \.
 
 
@@ -8397,5 +8402,5 @@ ALTER TABLE ONLY public.anilist_chinese
 -- PostgreSQL database dump complete
 --
 
-\unrestrict aMm4dZbpFDtagO4JwM0v4340VdPz78CxRZoDvWNpXb4omnc1nDYCrceI1Ww3uqT
+\unrestrict f2jF2m4Pxhez9mTT2C9M3TMPFQWdc7UJZDbHz6ecrDKeJEWbkWBPo11EFxQkeG5
 
