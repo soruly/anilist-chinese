@@ -8345,7 +8345,11 @@ const db = new Map([
 [206916,{title:"ケガレボシ 黒",synonyms:[]}],
 [168251,{title:"一人之下 鐵重現",synonyms:[]}],
 [204463,{title:"蛇と蜘蛛",synonyms:[]}],
-[204560,{title:"ファントム・アルケミア ～シルヴィアのドキドキ搾精都市計画～",synonyms:[]}]
+[204560,{title:"ファントム・アルケミア ～シルヴィアのドキドキ搾精都市計画～",synonyms:[]}],
+[206004,{title:"ラブはギャルから始まる運命",synonyms:[]}],
+[206003,{title:"痴魅悶凌",synonyms:[]}],
+[206840,{title:"とどの妻り",synonyms:[]}],
+[208314,{title:"巨乳が2人いないと勃起しない夫のために友達を連れてきた妻",synonyms:[]}]
 ]);
 
 async function handleRequest(req) {

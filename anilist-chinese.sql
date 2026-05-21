@@ -2,7 +2,7 @@
 -- PostgreSQL database dump
 --
 
-\restrict IqnTJ9YJJEhH413XW2zzcFWdZTqb7N36rosVPy3Irb729cwvL5WrF31nhf61say
+\restrict l6TX0z6k2Eb1kZhGXC6vxncAC3mOCwkXI084EZi7LpfB0EjenhUfTG3HhlAEhyg
 
 -- Dumped from database version 18.3 (Debian 18.3-1.pgdg13+1)
 -- Dumped by pg_dump version 18.3 (Debian 18.3-1.pgdg13+1)
@@ -8387,6 +8387,10 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 168251	{"title": {"chinese": "一人之下 鐵重現"}, "synonyms_chinese": []}
 204463	{"title": {"chinese": "蛇と蜘蛛"}, "synonyms_chinese": []}
 204560	{"title": {"chinese": "ファントム・アルケミア ～シルヴィアのドキドキ搾精都市計画～"}, "synonyms_chinese": []}
+206004	{"title": {"chinese": "ラブはギャルから始まる運命"}, "synonyms_chinese": []}
+206003	{"title": {"chinese": "痴魅悶凌"}, "synonyms_chinese": []}
+206840	{"title": {"chinese": "とどの妻り"}, "synonyms_chinese": []}
+208314	{"title": {"chinese": "巨乳が2人いないと勃起しない夫のために友達を連れてきた妻"}, "synonyms_chinese": []}
 \.
 
 
@@ -8402,5 +8406,5 @@ ALTER TABLE ONLY public.anilist_chinese
 -- PostgreSQL database dump complete
 --
 
-\unrestrict IqnTJ9YJJEhH413XW2zzcFWdZTqb7N36rosVPy3Irb729cwvL5WrF31nhf61say
+\unrestrict l6TX0z6k2Eb1kZhGXC6vxncAC3mOCwkXI084EZi7LpfB0EjenhUfTG3HhlAEhyg
 

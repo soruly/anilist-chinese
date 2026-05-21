@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      3.2026.4.28
+// @version      3.2026.5.21
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -8362,7 +8362,11 @@ var database = [
 {id:206916,title:"ケガレボシ 黒"},
 {id:168251,title:"一人之下 鐵重現"},
 {id:204463,title:"蛇と蜘蛛"},
-{id:204560,title:"ファントム・アルケミア ～シルヴィアのドキドキ搾精都市計画～"}
+{id:204560,title:"ファントム・アルケミア ～シルヴィアのドキドキ搾精都市計画～"},
+{id:206004,title:"ラブはギャルから始まる運命"},
+{id:206003,title:"痴魅悶凌"},
+{id:206840,title:"とどの妻り"},
+{id:208314,title:"巨乳が2人いないと勃起しない夫のために友達を連れてきた妻"}
 ];
 
 var updating;
