@@ -8127,7 +8127,7 @@ const db = new Map([
 [183414,{title:"電影Idol光之美少女你與我久等了！為你送上閃耀的現場演唱會！",synonyms:[]}],
 [3389,{title:"BUS GAMER",synonyms:[]}],
 [191403,{title:"偶像學園×星光樂園 THE MOVIE -相遇的奇蹟！-",synonyms:[]}],
-[185084,{title:"LUPIN THE IIIRD 不死之身的血族",synonyms:[]}],
+[185084,{title:"魯邦三世 不死身的血族",synonyms:[]}],
 [191884,{title:"LUPIN THE IIIRD 錢形與兩個雷朋",synonyms:[]}],
 [110413,{title:"Lupin III: THE FIRST",synonyms:[]}],
 [7598,{title:"Loups=Garous 應避開的狼",synonyms:[]}],
@@ -8349,7 +8349,8 @@ const db = new Map([
 [206004,{title:"ラブはギャルから始まる運命",synonyms:[]}],
 [206003,{title:"痴魅悶凌",synonyms:[]}],
 [206840,{title:"とどの妻り",synonyms:[]}],
-[208314,{title:"巨乳が2人いないと勃起しない夫のために友達を連れてきた妻",synonyms:[]}]
+[208314,{title:"巨乳が2人いないと勃起しない夫のために友達を連れてきた妻",synonyms:[]}],
+[206354,{title:"全職法師 第七季",synonyms:[]}]
 ]);
 
 async function handleRequest(req) {

@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      3.2026.5.21
+// @version      3.2026.6.4
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -8144,7 +8144,7 @@ var database = [
 {id:183414,title:"電影Idol光之美少女你與我久等了！為你送上閃耀的現場演唱會！"},
 {id:3389,title:"BUS GAMER"},
 {id:191403,title:"偶像學園×星光樂園 THE MOVIE -相遇的奇蹟！-"},
-{id:185084,title:"LUPIN THE IIIRD 不死之身的血族"},
+{id:185084,title:"魯邦三世 不死身的血族"},
 {id:191884,title:"LUPIN THE IIIRD 錢形與兩個雷朋"},
 {id:110413,title:"Lupin III: THE FIRST"},
 {id:7598,title:"Loups=Garous 應避開的狼"},
@@ -8366,7 +8366,8 @@ var database = [
 {id:206004,title:"ラブはギャルから始まる運命"},
 {id:206003,title:"痴魅悶凌"},
 {id:206840,title:"とどの妻り"},
-{id:208314,title:"巨乳が2人いないと勃起しない夫のために友達を連れてきた妻"}
+{id:208314,title:"巨乳が2人いないと勃起しない夫のために友達を連れてきた妻"},
+{id:206354,title:"全職法師 第七季"}
 ];
 
 var updating;

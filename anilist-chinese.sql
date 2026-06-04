@@ -2,7 +2,7 @@
 -- PostgreSQL database dump
 --
 
-\restrict tLyO7W0SFQQIcTCuZBEKtSFwvDHubccb34GLF4ukIVJN8D6LYWBQHdxK4tqr0vS
+\restrict zJ2HaoWKXiiUbe8ixTgbAOSmnl8jpuHjeGd7g0v3XaSVeJfQbIzPwIOxfca5Lkc
 
 -- Dumped from database version 18.3 (Debian 18.3-1.pgdg13+1)
 -- Dumped by pg_dump version 18.3 (Debian 18.3-1.pgdg13+1)
@@ -8168,7 +8168,7 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 183414	{"title": {"chinese": "電影Idol光之美少女你與我久等了！為你送上閃耀的現場演唱會！"}, "synonyms_chinese": []}
 3389	{"title": {"chinese": "BUS GAMER"}, "synonyms_chinese": []}
 191403	{"title": {"chinese": "偶像學園×星光樂園 THE MOVIE -相遇的奇蹟！-"}, "synonyms_chinese": []}
-185084	{"title": {"chinese": "LUPIN THE IIIRD 不死之身的血族"}, "synonyms_chinese": []}
+185084	{"title": {"chinese": "魯邦三世 不死身的血族"}, "synonyms_chinese": []}
 191884	{"title": {"chinese": "LUPIN THE IIIRD 錢形與兩個雷朋"}, "synonyms_chinese": []}
 110413	{"title": {"chinese": "Lupin III: THE FIRST"}, "synonyms_chinese": []}
 7598	{"title": {"chinese": "Loups=Garous 應避開的狼"}, "synonyms_chinese": []}
@@ -8391,6 +8391,7 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 206003	{"title": {"chinese": "痴魅悶凌"}, "synonyms_chinese": []}
 206840	{"title": {"chinese": "とどの妻り"}, "synonyms_chinese": []}
 208314	{"title": {"chinese": "巨乳が2人いないと勃起しない夫のために友達を連れてきた妻"}, "synonyms_chinese": []}
+206354	{"title": {"chinese": "全職法師 第七季"}, "synonyms_chinese": []}
 \.
 
 
@@ -8406,5 +8407,5 @@ ALTER TABLE ONLY public.anilist_chinese
 -- PostgreSQL database dump complete
 --
 
-\unrestrict tLyO7W0SFQQIcTCuZBEKtSFwvDHubccb34GLF4ukIVJN8D6LYWBQHdxK4tqr0vS
+\unrestrict zJ2HaoWKXiiUbe8ixTgbAOSmnl8jpuHjeGd7g0v3XaSVeJfQbIzPwIOxfca5Lkc
 
