@@ -7455,7 +7455,6 @@ const db = new Map([
 [183275,{title:"完美到難以接近的聖女遭到解除婚約後被賣到鄰國",synonyms:[]}],
 [185070,{title:"外星人姆姆",synonyms:[]}],
 [150654,{title:"MOONRISE",synonyms:["月出之戰"]}],
-[183161,{title:"最強的王者，在第二次的人生能做什麼？",synonyms:["終末起點"]}],
 [177120,{title:"忍者與殺手的兩人生活",synonyms:[]}],
 [176702,{title:"神統記",synonyms:[]}],
 [185939,{title:"歲月流逝飯菜依舊美味",synonyms:[]}],
@@ -8253,13 +8252,13 @@ const db = new Map([
 [173172,{title:"異獸魔都 第二季",synonyms:[]}],
 [180228,{title:"加油！中村同學！！",synonyms:[]}],
 [180745,{title:"歡迎來到實力至上主義的教室 第四季 2年級篇 第一學期",synonyms:[]}],
+[194317,{title:"終末起點 第二季",synonyms:["最強的王者，在第二次的人生能做什麼？第二季"]}],
 [197868,{title:"女僕小姐的貪吃日常",synonyms:[]}],
 [200769,{title:"最強的職業不是勇者也不是賢者好像是鑑定士（暫）的樣子",synonyms:[]}],
 [179950,{title:"輪迴的花瓣",synonyms:[]}],
 [181284,{title:"霧尾粉絲後援會",synonyms:[]}],
 [195333,{title:"灰原同學重返過去，開啟所向無敵的第二輪青春遊戲",synonyms:[]}],
 [202381,{title:"你又被殺了呢，偵探大人",synonyms:[]}],
-[194317,{title:"最強的王者，在第二次的人生能做什麼？第二季",synonyms:["終末起點 第二季"]}],
 [194116,{title:"最終樂章 吹響吧！上低音號 後篇",synonyms:[]}],
 [203448,{title:"境界觸發者 REBOOT",synonyms:[]}],
 [177508,{title:"庫吉馬唱歌的家",synonyms:[]}],
@@ -8350,7 +8349,8 @@ const db = new Map([
 [206003,{title:"痴魅悶凌",synonyms:[]}],
 [206840,{title:"とどの妻り",synonyms:[]}],
 [208314,{title:"巨乳が2人いないと勃起しない夫のために友達を連れてきた妻",synonyms:[]}],
-[206354,{title:"全職法師 第七季",synonyms:[]}]
+[206354,{title:"全職法師 第七季",synonyms:[]}],
+[183161,{title:"終末起點",synonyms:["最強的王者，在第二次的人生能做什麼？"]}]
 ]);
 
 async function handleRequest(req) {

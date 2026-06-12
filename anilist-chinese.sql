@@ -2,7 +2,7 @@
 -- PostgreSQL database dump
 --
 
-\restrict 2xB7ZTh7V2SDNc0KeQ2menXXQQT9gkmx98V2Ak8SxszEB9WMj3DHPqCoEb3xRlk
+\restrict FmpdbILjKEJeTXhc6IgSQaewahaEdhoGagWEhJLldU08GwXTZpa8uyk6Qop4SiL
 
 -- Dumped from database version 18.3 (Debian 18.3-1.pgdg13+1)
 -- Dumped by pg_dump version 18.3 (Debian 18.3-1.pgdg13+1)
@@ -7496,7 +7496,6 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 183275	{"title": {"chinese": "完美到難以接近的聖女遭到解除婚約後被賣到鄰國"}, "synonyms_chinese": []}
 185070	{"title": {"chinese": "外星人姆姆"}, "synonyms_chinese": []}
 150654	{"title": {"chinese": "MOONRISE"}, "synonyms_chinese": ["月出之戰"]}
-183161	{"title": {"chinese": "最強的王者，在第二次的人生能做什麼？"}, "synonyms_chinese": ["終末起點"]}
 177120	{"title": {"chinese": "忍者與殺手的兩人生活"}, "synonyms_chinese": []}
 176702	{"title": {"chinese": "神統記"}, "synonyms_chinese": []}
 185939	{"title": {"chinese": "歲月流逝飯菜依舊美味"}, "synonyms_chinese": []}
@@ -8294,13 +8293,13 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 173172	{"title": {"chinese": "異獸魔都 第二季"}, "synonyms_chinese": []}
 180228	{"title": {"chinese": "加油！中村同學！！"}, "synonyms_chinese": []}
 180745	{"title": {"chinese": "歡迎來到實力至上主義的教室 第四季 2年級篇 第一學期"}, "synonyms_chinese": []}
+194317	{"title": {"chinese": "終末起點 第二季"}, "synonyms_chinese": ["最強的王者，在第二次的人生能做什麼？第二季"]}
 197868	{"title": {"chinese": "女僕小姐的貪吃日常"}, "synonyms_chinese": []}
 200769	{"title": {"chinese": "最強的職業不是勇者也不是賢者好像是鑑定士（暫）的樣子"}, "synonyms_chinese": []}
 179950	{"title": {"chinese": "輪迴的花瓣"}, "synonyms_chinese": []}
 181284	{"title": {"chinese": "霧尾粉絲後援會"}, "synonyms_chinese": []}
 195333	{"title": {"chinese": "灰原同學重返過去，開啟所向無敵的第二輪青春遊戲"}, "synonyms_chinese": []}
 202381	{"title": {"chinese": "你又被殺了呢，偵探大人"}, "synonyms_chinese": []}
-194317	{"title": {"chinese": "最強的王者，在第二次的人生能做什麼？第二季"}, "synonyms_chinese": ["終末起點 第二季"]}
 194116	{"title": {"chinese": "最終樂章 吹響吧！上低音號 後篇"}, "synonyms_chinese": []}
 203448	{"title": {"chinese": "境界觸發者 REBOOT"}, "synonyms_chinese": []}
 177508	{"title": {"chinese": "庫吉馬唱歌的家"}, "synonyms_chinese": []}
@@ -8392,6 +8391,7 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 206840	{"title": {"chinese": "とどの妻り"}, "synonyms_chinese": []}
 208314	{"title": {"chinese": "巨乳が2人いないと勃起しない夫のために友達を連れてきた妻"}, "synonyms_chinese": []}
 206354	{"title": {"chinese": "全職法師 第七季"}, "synonyms_chinese": []}
+183161	{"title": {"chinese": "終末起點"}, "synonyms_chinese": ["最強的王者，在第二次的人生能做什麼？"]}
 \.
 
 
@@ -8407,5 +8407,5 @@ ALTER TABLE ONLY public.anilist_chinese
 -- PostgreSQL database dump complete
 --
 
-\unrestrict 2xB7ZTh7V2SDNc0KeQ2menXXQQT9gkmx98V2Ak8SxszEB9WMj3DHPqCoEb3xRlk
+\unrestrict FmpdbILjKEJeTXhc6IgSQaewahaEdhoGagWEhJLldU08GwXTZpa8uyk6Qop4SiL
 

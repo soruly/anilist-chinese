@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      3.2026.6.4
+// @version      3.2026.6.12
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -7472,7 +7472,6 @@ var database = [
 {id:183275,title:"完美到難以接近的聖女遭到解除婚約後被賣到鄰國"},
 {id:185070,title:"外星人姆姆"},
 {id:150654,title:"MOONRISE"},
-{id:183161,title:"最強的王者，在第二次的人生能做什麼？"},
 {id:177120,title:"忍者與殺手的兩人生活"},
 {id:176702,title:"神統記"},
 {id:185939,title:"歲月流逝飯菜依舊美味"},
@@ -8270,13 +8269,13 @@ var database = [
 {id:173172,title:"異獸魔都 第二季"},
 {id:180228,title:"加油！中村同學！！"},
 {id:180745,title:"歡迎來到實力至上主義的教室 第四季 2年級篇 第一學期"},
+{id:194317,title:"終末起點 第二季"},
 {id:197868,title:"女僕小姐的貪吃日常"},
 {id:200769,title:"最強的職業不是勇者也不是賢者好像是鑑定士（暫）的樣子"},
 {id:179950,title:"輪迴的花瓣"},
 {id:181284,title:"霧尾粉絲後援會"},
 {id:195333,title:"灰原同學重返過去，開啟所向無敵的第二輪青春遊戲"},
 {id:202381,title:"你又被殺了呢，偵探大人"},
-{id:194317,title:"最強的王者，在第二次的人生能做什麼？第二季"},
 {id:194116,title:"最終樂章 吹響吧！上低音號 後篇"},
 {id:203448,title:"境界觸發者 REBOOT"},
 {id:177508,title:"庫吉馬唱歌的家"},
@@ -8367,7 +8366,8 @@ var database = [
 {id:206003,title:"痴魅悶凌"},
 {id:206840,title:"とどの妻り"},
 {id:208314,title:"巨乳が2人いないと勃起しない夫のために友達を連れてきた妻"},
-{id:206354,title:"全職法師 第七季"}
+{id:206354,title:"全職法師 第七季"},
+{id:183161,title:"終末起點"}
 ];
 
 var updating;
