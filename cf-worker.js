@@ -8350,7 +8350,9 @@ const db = new Map([
 [206840,{title:"とどの妻り",synonyms:[]}],
 [208314,{title:"巨乳が2人いないと勃起しない夫のために友達を連れてきた妻",synonyms:[]}],
 [206354,{title:"全職法師 第七季",synonyms:[]}],
-[183161,{title:"終末起點",synonyms:["最強的王者，在第二次的人生能做什麼？"]}]
+[183161,{title:"終末起點",synonyms:["最強的王者，在第二次的人生能做什麼？"]}],
+[192809,{title:"咒術迴戰 懷玉・玉折",synonyms:[]}],
+[196187,{title:"躲在超市後門抽菸的兩人",synonyms:[]}]
 ]);
 
 async function handleRequest(req) {
