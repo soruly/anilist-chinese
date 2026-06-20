@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     name: Deploy
     steps:
-      - uses: actions/checkout@v6
+      - uses: actions/checkout@v7
       - name: Publish
         uses: cloudflare/wrangler-action@v4.0.0
         with:
