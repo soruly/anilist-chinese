@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      3.2026.6.15
+// @version      3.2026.6.21
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -8367,9 +8367,11 @@ var database = [
 {id:206840,title:"とどの妻り"},
 {id:208314,title:"巨乳が2人いないと勃起しない夫のために友達を連れてきた妻"},
 {id:206354,title:"全職法師 第七季"},
+{id:199448,title:"詭秘之主 特別篇 獵物"},
 {id:183161,title:"終末起點"},
 {id:192809,title:"咒術迴戰 懷玉・玉折"},
-{id:196187,title:"躲在超市後門抽菸的兩人"}
+{id:196187,title:"躲在超市後門抽菸的兩人"},
+{id:206875,title:"詭秘之主 彩蛋"}
 ];
 
 var updating;

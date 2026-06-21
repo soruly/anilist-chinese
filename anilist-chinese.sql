@@ -2,7 +2,7 @@
 -- PostgreSQL database dump
 --
 
-\restrict vsd7SmrB2b95m03Rk1ZVKBHSaKh6KOUHxPouoFlJNW7dAvApr50B2t8MyFccAhS
+\restrict T5Pjl0eUeMs4MfCcROxZylQl5rhXt1p6kzFXYzXMhCOmgotgGq0Po6XdxkKrqe8
 
 -- Dumped from database version 18.3 (Debian 18.3-1.pgdg13+1)
 -- Dumped by pg_dump version 18.3 (Debian 18.3-1.pgdg13+1)
@@ -8391,9 +8391,11 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 206840	{"title": {"chinese": "とどの妻り"}, "synonyms_chinese": []}
 208314	{"title": {"chinese": "巨乳が2人いないと勃起しない夫のために友達を連れてきた妻"}, "synonyms_chinese": []}
 206354	{"title": {"chinese": "全職法師 第七季"}, "synonyms_chinese": []}
+199448	{"title": {"chinese": "詭秘之主 特別篇 獵物"}, "synonyms_chinese": []}
 183161	{"title": {"chinese": "終末起點"}, "synonyms_chinese": ["最強的王者，在第二次的人生能做什麼？"]}
 192809	{"title": {"chinese": "咒術迴戰 懷玉・玉折"}, "synonyms_chinese": []}
 196187	{"title": {"chinese": "躲在超市後門抽菸的兩人"}, "synonyms_chinese": []}
+206875	{"title": {"chinese": "詭秘之主 彩蛋"}, "synonyms_chinese": []}
 \.
 
 
@@ -8409,5 +8411,5 @@ ALTER TABLE ONLY public.anilist_chinese
 -- PostgreSQL database dump complete
 --
 
-\unrestrict vsd7SmrB2b95m03Rk1ZVKBHSaKh6KOUHxPouoFlJNW7dAvApr50B2t8MyFccAhS
+\unrestrict T5Pjl0eUeMs4MfCcROxZylQl5rhXt1p6kzFXYzXMhCOmgotgGq0Po6XdxkKrqe8
 
