@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      3.2026.6.28
+// @version      3.2026.7.3
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -8405,7 +8405,6 @@ var database = [
 {id:208264,title:"霧中ノ塔"},
 {id:180136,title:"遭到流放的轉生重騎士憑藉遊戲知識大開無雙"},
 {id:178789,title:"無職轉生 III ～到了異世界就拿出真本事"},
-{id:198376,title:"BanG Dream! YUME∞MITA"},
 {id:203880,title:"令和妖神斑小姐"},
 {id:204466,title:"少女怪獸焦糖戀心"},
 {id:206521,title:"THE WORLD IS DANCING 世界在起舞"},
@@ -8494,6 +8493,10 @@ var database = [
 {id:204650,title:"桃源暗鬼 ～日光・華嚴之瀧篇～"},
 {id:209800,title:"鎧真傳 Samurai Troopers Part 2"},
 {id:211232,title:"魔女谷之夜"},
+{id:198376,title:"BanG Dream! YUME∞MITA"},
+{id:186542,title:"麵包超人電影版：小水滴的英雄！"},
+{id:213665,title:"拯救替身千金的是冷酷無情冰之王子的愛"},
+{id:213666,title:"澈底對你成癮"},
 {id:203855,title:"最弱魔物使開始了撿垃圾之旅。第二季"},
 {id:206163,title:"裝甲騎兵波德姆茲 灰色的魔女"},
 {id:169581,title:"魔法★探險家"},

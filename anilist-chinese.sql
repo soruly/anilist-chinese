@@ -2,7 +2,7 @@
 -- PostgreSQL database dump
 --
 
-\restrict eizHUw6wGXL3t7V0pd5YxuSG6k3jUNafekzfRd0QG4FeXFAkrRnVEIbhkEcKWDf
+\restrict hAtAO4IQ4t2zoBSP36lvRxmfne0p7X8s5YB8JkcIKJIBNqozsuMJyyTLRJS0IvS
 
 -- Dumped from database version 18.3 (Debian 18.3-1.pgdg13+1)
 -- Dumped by pg_dump version 18.3 (Debian 18.3-1.pgdg13+1)
@@ -8429,7 +8429,6 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 208264	{"title": {"chinese": "霧中ノ塔"}, "synonyms_chinese": []}
 180136	{"title": {"chinese": "遭到流放的轉生重騎士憑藉遊戲知識大開無雙"}, "synonyms_chinese": []}
 178789	{"title": {"chinese": "無職轉生 III ～到了異世界就拿出真本事"}, "synonyms_chinese": []}
-198376	{"title": {"chinese": "BanG Dream! YUME∞MITA"}, "synonyms_chinese": []}
 203880	{"title": {"chinese": "令和妖神斑小姐"}, "synonyms_chinese": []}
 204466	{"title": {"chinese": "少女怪獸焦糖戀心"}, "synonyms_chinese": []}
 206521	{"title": {"chinese": "THE WORLD IS DANCING 世界在起舞"}, "synonyms_chinese": []}
@@ -8518,6 +8517,10 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 204650	{"title": {"chinese": "桃源暗鬼 ～日光・華嚴之瀧篇～"}, "synonyms_chinese": []}
 209800	{"title": {"chinese": "鎧真傳 Samurai Troopers Part 2"}, "synonyms_chinese": []}
 211232	{"title": {"chinese": "魔女谷之夜"}, "synonyms_chinese": []}
+198376	{"title": {"chinese": "BanG Dream! YUME∞MITA"}, "synonyms_chinese": ["BanG Dream! 夢想妄想世界"]}
+186542	{"title": {"chinese": "麵包超人電影版：小水滴的英雄！"}, "synonyms_chinese": []}
+213665	{"title": {"chinese": "拯救替身千金的是冷酷無情冰之王子的愛"}, "synonyms_chinese": []}
+213666	{"title": {"chinese": "澈底對你成癮"}, "synonyms_chinese": []}
 203855	{"title": {"chinese": "最弱魔物使開始了撿垃圾之旅。第二季"}, "synonyms_chinese": []}
 206163	{"title": {"chinese": "裝甲騎兵波德姆茲 灰色的魔女"}, "synonyms_chinese": []}
 169581	{"title": {"chinese": "魔法★探險家"}, "synonyms_chinese": []}
@@ -8547,5 +8550,5 @@ ALTER TABLE ONLY public.anilist_chinese
 -- PostgreSQL database dump complete
 --
 
-\unrestrict eizHUw6wGXL3t7V0pd5YxuSG6k3jUNafekzfRd0QG4FeXFAkrRnVEIbhkEcKWDf
+\unrestrict hAtAO4IQ4t2zoBSP36lvRxmfne0p7X8s5YB8JkcIKJIBNqozsuMJyyTLRJS0IvS
 
