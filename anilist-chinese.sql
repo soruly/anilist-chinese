@@ -2,7 +2,7 @@
 -- PostgreSQL database dump
 --
 
-\restrict OhDEk6olxSgo4JEpB5wiq2IhjHaa8fc6UyYWFN0FCRsw0c6HXwAzHUpekWB6npH
+\restrict k8UDfLiufHZSae0RpsnrcM6AFodQZDVlqeSMFA8oitpOPyc9e3VBOe3HyT2DHj0
 
 -- Dumped from database version 18.3 (Debian 18.3-1.pgdg13+1)
 -- Dumped by pg_dump version 18.3 (Debian 18.3-1.pgdg13+1)
@@ -8522,6 +8522,7 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 213665	{"title": {"chinese": "拯救替身千金的是冷酷無情冰之王子的愛"}, "synonyms_chinese": []}
 213666	{"title": {"chinese": "澈底對你成癮"}, "synonyms_chinese": []}
 203855	{"title": {"chinese": "最弱魔物使開始了撿垃圾之旅。第二季"}, "synonyms_chinese": []}
+212994	{"title": {"chinese": "名偵探柯南 滿分的真相"}, "synonyms_chinese": []}
 206163	{"title": {"chinese": "裝甲騎兵波德姆茲 灰色的魔女"}, "synonyms_chinese": []}
 169581	{"title": {"chinese": "魔法★探險家"}, "synonyms_chinese": []}
 185756	{"title": {"chinese": "轉生貴族憑鑑定技能扭轉人生 第三季"}, "synonyms_chinese": []}
@@ -8550,5 +8551,5 @@ ALTER TABLE ONLY public.anilist_chinese
 -- PostgreSQL database dump complete
 --
 
-\unrestrict OhDEk6olxSgo4JEpB5wiq2IhjHaa8fc6UyYWFN0FCRsw0c6HXwAzHUpekWB6npH
+\unrestrict k8UDfLiufHZSae0RpsnrcM6AFodQZDVlqeSMFA8oitpOPyc9e3VBOe3HyT2DHj0
 

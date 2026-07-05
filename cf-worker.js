@@ -8481,6 +8481,7 @@ const db = new Map([
 [213665,{title:"拯救替身千金的是冷酷無情冰之王子的愛",synonyms:[]}],
 [213666,{title:"澈底對你成癮",synonyms:[]}],
 [203855,{title:"最弱魔物使開始了撿垃圾之旅。第二季",synonyms:[]}],
+[212994,{title:"名偵探柯南 滿分的真相",synonyms:[]}],
 [206163,{title:"裝甲騎兵波德姆茲 灰色的魔女",synonyms:[]}],
 [169581,{title:"魔法★探險家",synonyms:[]}],
 [185756,{title:"轉生貴族憑鑑定技能扭轉人生 第三季",synonyms:[]}],

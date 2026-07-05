@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      3.2026.7.3
+// @version      3.2026.7.5
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -8498,6 +8498,7 @@ var database = [
 {id:213665,title:"拯救替身千金的是冷酷無情冰之王子的愛"},
 {id:213666,title:"澈底對你成癮"},
 {id:203855,title:"最弱魔物使開始了撿垃圾之旅。第二季"},
+{id:212994,title:"名偵探柯南 滿分的真相"},
 {id:206163,title:"裝甲騎兵波德姆茲 灰色的魔女"},
 {id:169581,title:"魔法★探險家"},
 {id:185756,title:"轉生貴族憑鑑定技能扭轉人生 第三季"},
