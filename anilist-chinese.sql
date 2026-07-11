@@ -2,7 +2,7 @@
 -- PostgreSQL database dump
 --
 
-\restrict eMOigFED5PmuUCIBKaRWoRbVjXh1QpCdhWwM9FzR3DQ2TFy4sEUHztR2A3zCLDo
+\restrict kIFDb10DyTYhUfaPymgwhjYyZW7ZCCfMCabNcpjVMd0yq2wvTg9az5HlJMbB10W
 
 -- Dumped from database version 18.3 (Debian 18.3-1.pgdg13+1)
 -- Dumped by pg_dump version 18.3 (Debian 18.3-1.pgdg13+1)
@@ -456,6 +456,7 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 906	{"title": {"chinese": "七龍珠Z 龍拳爆發"}, "synonyms_chinese": []}
 2110	{"title": {"chinese": "Rockman.EXE BEAST"}, "synonyms_chinese": ["洛克人.EXE BEAST"]}
 183965	{"title": {"chinese": "矢野同學的普通日常"}, "synonyms_chinese": []}
+213750	{"title": {"chinese": "香蕉喵 Bananya At-Home Party"}, "synonyms_chinese": []}
 807	{"title": {"chinese": "Tsubasa Chronicle 鳥籠國的公主"}, "synonyms_chinese": ["TSUBASA翼 鳥籠國的公主", "翼之奇幻旅程 鳥籠國的公主", "翼·年代記 鳥籠國的公主", "翼·編年史 鳥籠國的公主"]}
 813	{"title": {"chinese": "龍珠 Z"}, "synonyms_chinese": ["七龍珠 Z"]}
 817	{"title": {"chinese": "Tactical Roar"}, "synonyms_chinese": ["戰吼"]}
@@ -8530,5 +8531,5 @@ ALTER TABLE ONLY public.anilist_chinese
 -- PostgreSQL database dump complete
 --
 
-\unrestrict eMOigFED5PmuUCIBKaRWoRbVjXh1QpCdhWwM9FzR3DQ2TFy4sEUHztR2A3zCLDo
+\unrestrict kIFDb10DyTYhUfaPymgwhjYyZW7ZCCfMCabNcpjVMd0yq2wvTg9az5HlJMbB10W
 

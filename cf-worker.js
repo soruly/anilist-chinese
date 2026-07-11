@@ -415,6 +415,7 @@ const db = new Map([
 [906,{title:"七龍珠Z 龍拳爆發",synonyms:[]}],
 [2110,{title:"Rockman.EXE BEAST",synonyms:["洛克人.EXE BEAST"]}],
 [183965,{title:"矢野同學的普通日常",synonyms:[]}],
+[213750,{title:"香蕉喵 Bananya At-Home Party",synonyms:[]}],
 [807,{title:"Tsubasa Chronicle 鳥籠國的公主",synonyms:["TSUBASA翼 鳥籠國的公主","翼之奇幻旅程 鳥籠國的公主","翼·年代記 鳥籠國的公主","翼·編年史 鳥籠國的公主"]}],
 [813,{title:"龍珠 Z",synonyms:["七龍珠 Z"]}],
 [817,{title:"Tactical Roar",synonyms:["戰吼"]}],

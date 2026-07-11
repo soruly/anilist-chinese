@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      3.2026.7.7
+// @version      3.2026.7.11
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -432,6 +432,7 @@ var database = [
 {id:906,title:"七龍珠Z 龍拳爆發"},
 {id:2110,title:"Rockman.EXE BEAST"},
 {id:183965,title:"矢野同學的普通日常"},
+{id:213750,title:"香蕉喵 Bananya At-Home Party"},
 {id:807,title:"Tsubasa Chronicle 鳥籠國的公主"},
 {id:813,title:"龍珠 Z"},
 {id:817,title:"Tactical Roar"},
