@@ -835,6 +835,7 @@ const db = new Map([
 [2138,{title:"影Shadow",synonyms:[]}],
 [2139,{title:"下級生2～季花詞集〔Anthology〕～",synonyms:[]}],
 [2140,{title:"兄嫁",synonyms:[]}],
+[214426,{title:"甲鐵城的卡巴內里 無名爛漫",synonyms:[]}],
 [2144,{title:"火影忍者劇場版：大興奮！三日月島上的動物騷亂",synonyms:[]}],
 [2145,{title:"ブラックゲート 姦淫の学園",synonyms:[]}],
 [2147,{title:"Call Me Tonight",synonyms:[]}],

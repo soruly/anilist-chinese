@@ -2,7 +2,7 @@
 -- PostgreSQL database dump
 --
 
-\restrict Wl2DrrCliSMqeRrJgLhVWpLcdrPcbdKmCclg2Cu89Zl8zh7z3zTgfqxaZrAFaf4
+\restrict 9muPF3fJAhEZ8VnPn390zJcKC1XuqrIkD4ORGZAr4fwxULvUgQGzqFaWqkfTqQv
 
 -- Dumped from database version 18.3 (Debian 18.3-1.pgdg13+1)
 -- Dumped by pg_dump version 18.3 (Debian 18.3-1.pgdg13+1)
@@ -876,6 +876,7 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 2138	{"title": {"chinese": "影Shadow"}, "synonyms_chinese": []}
 2139	{"title": {"chinese": "下級生2～季花詞集〔Anthology〕～"}, "synonyms_chinese": []}
 2140	{"title": {"chinese": "兄嫁"}, "synonyms_chinese": []}
+214426	{"title": {"chinese": "甲鐵城的卡巴內里 無名爛漫"}, "synonyms_chinese": []}
 2144	{"title": {"chinese": "火影忍者劇場版：大興奮！三日月島上的動物騷亂"}, "synonyms_chinese": []}
 2145	{"title": {"chinese": "ブラックゲート 姦淫の学園"}, "synonyms_chinese": []}
 2147	{"title": {"chinese": "Call Me Tonight"}, "synonyms_chinese": []}
@@ -8531,5 +8532,5 @@ ALTER TABLE ONLY public.anilist_chinese
 -- PostgreSQL database dump complete
 --
 
-\unrestrict Wl2DrrCliSMqeRrJgLhVWpLcdrPcbdKmCclg2Cu89Zl8zh7z3zTgfqxaZrAFaf4
+\unrestrict 9muPF3fJAhEZ8VnPn390zJcKC1XuqrIkD4ORGZAr4fwxULvUgQGzqFaWqkfTqQv
 

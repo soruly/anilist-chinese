@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      3.2026.7.11
+// @version      3.2026.8.5
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -852,6 +852,7 @@ var database = [
 {id:2138,title:"影Shadow"},
 {id:2139,title:"下級生2～季花詞集〔Anthology〕～"},
 {id:2140,title:"兄嫁"},
+{id:214426,title:"甲鐵城的卡巴內里 無名爛漫"},
 {id:2144,title:"火影忍者劇場版：大興奮！三日月島上的動物騷亂"},
 {id:2145,title:"ブラックゲート 姦淫の学園"},
 {id:2147,title:"Call Me Tonight"},
