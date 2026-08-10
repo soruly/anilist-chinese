@@ -2,7 +2,7 @@
 -- PostgreSQL database dump
 --
 
-\restrict 1kYDwL0xSd6eUdWriPTaDnXUOoDRHazd6FBxKQ1ap8y7deNL4wwnu7YdnvgGMjt
+\restrict dHscOWqutizbGZpyWJwahfJ8UI1DQrY4FttJ3iiUDnjcv541Jip3aiMBuxh3PfI
 
 -- Dumped from database version 18.3 (Debian 18.3-1.pgdg13+1)
 -- Dumped by pg_dump version 18.3 (Debian 18.3-1.pgdg13+1)
@@ -457,6 +457,7 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 2110	{"title": {"chinese": "Rockman.EXE BEAST"}, "synonyms_chinese": ["洛克人.EXE BEAST"]}
 183965	{"title": {"chinese": "矢野同學的普通日常"}, "synonyms_chinese": []}
 213750	{"title": {"chinese": "香蕉喵 Bananya At-Home Party"}, "synonyms_chinese": []}
+208749	{"title": {"chinese": "ヌきヌき♡ずっぽしイズム"}, "synonyms_chinese": []}
 807	{"title": {"chinese": "Tsubasa Chronicle 鳥籠國的公主"}, "synonyms_chinese": ["TSUBASA翼 鳥籠國的公主", "翼之奇幻旅程 鳥籠國的公主", "翼·年代記 鳥籠國的公主", "翼·編年史 鳥籠國的公主"]}
 813	{"title": {"chinese": "龍珠 Z"}, "synonyms_chinese": ["七龍珠 Z"]}
 817	{"title": {"chinese": "Tactical Roar"}, "synonyms_chinese": ["戰吼"]}
@@ -720,6 +721,7 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 1559	{"title": {"chinese": "史上最強弟子兼一"}, "synonyms_chinese": []}
 1562	{"title": {"chinese": "完美小姐進化論"}, "synonyms_chinese": ["大和撫子七變化"]}
 1563	{"title": {"chinese": "魔法騎士 II"}, "synonyms_chinese": []}
+209873	{"title": {"chinese": "ハメハラ"}, "synonyms_chinese": []}
 1566	{"title": {"chinese": "攻殻機動隊 STAND ALONE COMPLEX Solid State Society"}, "synonyms_chinese": []}
 1569	{"title": {"chinese": "少女愛上姐姐"}, "synonyms_chinese": ["處女愛上姊姊", "愛上姊姊的處女們", "愛上處女的姐姐"]}
 1570	{"title": {"chinese": "Happiness!"}, "synonyms_chinese": []}
@@ -1679,6 +1681,7 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 5316	{"title": {"chinese": "レイプ！レイプ！レイプ！"}, "synonyms_chinese": []}
 5321	{"title": {"chinese": "ふたりの兄嫁"}, "synonyms_chinese": []}
 5324	{"title": {"chinese": "夜勤病棟 Ｋｒａｎｋｅ"}, "synonyms_chinese": []}
+211557	{"title": {"chinese": "フラチ"}, "synonyms_chinese": []}
 5341	{"title": {"chinese": "狼與香辛料 II"}, "synonyms_chinese": ["狼與辛香料 II"]}
 5342	{"title": {"chinese": "機巧魔神"}, "synonyms_chinese": ["魔神相克者"]}
 5347	{"title": {"chinese": "バイブルブラック「伊万里 凌辱現場」"}, "synonyms_chinese": []}
@@ -1958,6 +1961,7 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 7088	{"title": {"chinese": "最後大魔王"}, "synonyms_chinese": []}
 7103	{"title": {"chinese": "奇蹟列車~歡迎來到大江戶線~"}, "synonyms_chinese": []}
 7110	{"title": {"chinese": "少年メイドクーロ君 ~天使の歌~"}, "synonyms_chinese": []}
+210116	{"title": {"chinese": "彼の知らない秘密を入れて。 The Animation"}, "synonyms_chinese": []}
 7135	{"title": {"chinese": "劇場版 魔法老師！ ANIME FINAL"}, "synonyms_chinese": []}
 7148	{"title": {"chinese": "大小姐×執事！"}, "synonyms_chinese": ["管家後宮學園"]}
 7154	{"title": {"chinese": "SMノススメ"}, "synonyms_chinese": []}
@@ -2129,6 +2133,7 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 9065	{"title": {"chinese": "薄櫻鬼 碧血錄"}, "synonyms_chinese": []}
 9074	{"title": {"chinese": "荒川爆笑團 第二季"}, "synonyms_chinese": ["荒川橋下 第二季"]}
 9091	{"title": {"chinese": "戦乙女スヴィア 特典映像"}, "synonyms_chinese": []}
+113971	{"title": {"chinese": "機動戰士鋼彈 閃光的哈薩威 喀耳刻的魔女"}, "synonyms_chinese": []}
 9117	{"title": {"chinese": "聖誕之吻SS OVA"}, "synonyms_chinese": ["甜蜜吻痕 OVA"]}
 9120	{"title": {"chinese": "惡魔奶爸 撿到大魔王的嬰兒!?"}, "synonyms_chinese": ["惡魔奶爸 OAD", "魔B爸B OAD", "魔王奶爸 OAD", "魔王的父親 OAD"]}
 9127	{"title": {"chinese": "絕對可憐CHILDREN OVA"}, "synonyms_chinese": ["絕對可憐少女 OVA", "絕對可憐小孩 OVA", "超能少女組 OVA", "楚楚可憐超能少女組 OVA"]}
@@ -2544,6 +2549,7 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 12221	{"title": {"chinese": "光之美少女 All Stars New Stage 未來的朋友"}, "synonyms_chinese": []}
 12225	{"title": {"chinese": "銀河天使S"}, "synonyms_chinese": []}
 12237	{"title": {"chinese": "戀研！我們變成動畫了！"}, "synonyms_chinese": []}
+181970	{"title": {"chinese": "傷物語 曆吸血鬼"}, "synonyms_chinese": []}
 12281	{"title": {"chinese": "輪迴的拉格朗日 第2季"}, "synonyms_chinese": []}
 12291	{"title": {"chinese": "一起一起這裏那裏"}, "synonyms_chinese": []}
 12293	{"title": {"chinese": "Campione 弒神者！"}, "synonyms_chinese": []}
@@ -5518,7 +5524,6 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 113947	{"title": {"chinese": "初めてのヒトヅマ"}, "synonyms_chinese": []}
 113950	{"title": {"chinese": "SSSS.DYNAZENON"}, "synonyms_chinese": []}
 113970	{"title": {"chinese": "Love Live！虹咲學園 學園偶像同好會"}, "synonyms_chinese": []}
-113971	{"title": {"chinese": "機動戰士鋼彈 閃光的哈薩威"}, "synonyms_chinese": []}
 113990	{"title": {"chinese": "星光頻道 第三季"}, "synonyms_chinese": []}
 114030	{"title": {"chinese": "刀使之巫女 刻印一閃的燈火"}, "synonyms_chinese": []}
 114043	{"title": {"chinese": "食戟之靈 豪之皿"}, "synonyms_chinese": []}
@@ -7474,6 +7479,7 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 183275	{"title": {"chinese": "完美到難以接近的聖女遭到解除婚約後被賣到鄰國"}, "synonyms_chinese": []}
 185070	{"title": {"chinese": "外星人姆姆"}, "synonyms_chinese": []}
 150654	{"title": {"chinese": "MOONRISE"}, "synonyms_chinese": ["月出之戰"]}
+181449	{"title": {"chinese": "Virgin Punk Clockwork Girl"}, "synonyms_chinese": ["純潔龐克"]}
 177120	{"title": {"chinese": "忍者與殺手的兩人生活"}, "synonyms_chinese": []}
 176702	{"title": {"chinese": "神統記"}, "synonyms_chinese": []}
 185939	{"title": {"chinese": "歲月流逝飯菜依舊美味"}, "synonyms_chinese": []}
@@ -7491,7 +7497,6 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 184470	{"title": {"chinese": "秘密的美妙公主 第二季"}, "synonyms_chinese": []}
 184756	{"title": {"chinese": "KING OF PRISM -Your Endless Call-"}, "synonyms_chinese": []}
 178781	{"title": {"chinese": "戰隊大失格 第二季"}, "synonyms_chinese": []}
-181449	{"title": {"chinese": "Virgin Punk"}, "synonyms_chinese": ["純潔龐克"]}
 188668	{"title": {"chinese": "航海王談戀愛"}, "synonyms_chinese": []}
 170068	{"title": {"chinese": "葬送的芙莉蓮 ～●●の魔法～"}, "synonyms_chinese": []}
 169403	{"title": {"chinese": "Wonderful Precure! The Mobie! 心跳加速 遊戲世界大冒險！"}, "synonyms_chinese": ["美妙寵物 光之美少女電影：心跳加速 遊戲世界大冒險！"]}
@@ -8532,5 +8537,5 @@ ALTER TABLE ONLY public.anilist_chinese
 -- PostgreSQL database dump complete
 --
 
-\unrestrict 1kYDwL0xSd6eUdWriPTaDnXUOoDRHazd6FBxKQ1ap8y7deNL4wwnu7YdnvgGMjt
+\unrestrict dHscOWqutizbGZpyWJwahfJ8UI1DQrY4FttJ3iiUDnjcv541Jip3aiMBuxh3PfI
 

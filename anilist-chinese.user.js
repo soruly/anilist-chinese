@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      3.2026.8.5
+// @version      3.2026.8.10
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -433,6 +433,7 @@ var database = [
 {id:2110,title:"Rockman.EXE BEAST"},
 {id:183965,title:"矢野同學的普通日常"},
 {id:213750,title:"香蕉喵 Bananya At-Home Party"},
+{id:208749,title:"ヌきヌき♡ずっぽしイズム"},
 {id:807,title:"Tsubasa Chronicle 鳥籠國的公主"},
 {id:813,title:"龍珠 Z"},
 {id:817,title:"Tactical Roar"},
@@ -696,6 +697,7 @@ var database = [
 {id:1559,title:"史上最強弟子兼一"},
 {id:1562,title:"完美小姐進化論"},
 {id:1563,title:"魔法騎士 II"},
+{id:209873,title:"ハメハラ"},
 {id:1566,title:"攻殻機動隊 STAND ALONE COMPLEX Solid State Society"},
 {id:1569,title:"少女愛上姐姐"},
 {id:1570,title:"Happiness!"},
@@ -1655,6 +1657,7 @@ var database = [
 {id:5316,title:"レイプ！レイプ！レイプ！"},
 {id:5321,title:"ふたりの兄嫁"},
 {id:5324,title:"夜勤病棟 Ｋｒａｎｋｅ"},
+{id:211557,title:"フラチ"},
 {id:5341,title:"狼與香辛料 II"},
 {id:5342,title:"機巧魔神"},
 {id:5347,title:"バイブルブラック「伊万里 凌辱現場」"},
@@ -1934,6 +1937,7 @@ var database = [
 {id:7088,title:"最後大魔王"},
 {id:7103,title:"奇蹟列車~歡迎來到大江戶線~"},
 {id:7110,title:"少年メイドクーロ君 ~天使の歌~"},
+{id:210116,title:"彼の知らない秘密を入れて。 The Animation"},
 {id:7135,title:"劇場版 魔法老師！ ANIME FINAL"},
 {id:7148,title:"大小姐×執事！"},
 {id:7154,title:"SMノススメ"},
@@ -2105,6 +2109,7 @@ var database = [
 {id:9065,title:"薄櫻鬼 碧血錄"},
 {id:9074,title:"荒川爆笑團 第二季"},
 {id:9091,title:"戦乙女スヴィア 特典映像"},
+{id:113971,title:"機動戰士鋼彈 閃光的哈薩威 喀耳刻的魔女"},
 {id:9117,title:"聖誕之吻SS OVA"},
 {id:9120,title:"惡魔奶爸 撿到大魔王的嬰兒!?"},
 {id:9127,title:"絕對可憐CHILDREN OVA"},
@@ -2520,6 +2525,7 @@ var database = [
 {id:12221,title:"光之美少女 All Stars New Stage 未來的朋友"},
 {id:12225,title:"銀河天使S"},
 {id:12237,title:"戀研！我們變成動畫了！"},
+{id:181970,title:"傷物語 曆吸血鬼"},
 {id:12281,title:"輪迴的拉格朗日 第2季"},
 {id:12291,title:"一起一起這裏那裏"},
 {id:12293,title:"Campione 弒神者！"},
@@ -5494,7 +5500,6 @@ var database = [
 {id:113947,title:"初めてのヒトヅマ"},
 {id:113950,title:"SSSS.DYNAZENON"},
 {id:113970,title:"Love Live！虹咲學園 學園偶像同好會"},
-{id:113971,title:"機動戰士鋼彈 閃光的哈薩威"},
 {id:113990,title:"星光頻道 第三季"},
 {id:114030,title:"刀使之巫女 刻印一閃的燈火"},
 {id:114043,title:"食戟之靈 豪之皿"},
@@ -7450,6 +7455,7 @@ var database = [
 {id:183275,title:"完美到難以接近的聖女遭到解除婚約後被賣到鄰國"},
 {id:185070,title:"外星人姆姆"},
 {id:150654,title:"MOONRISE"},
+{id:181449,title:"Virgin Punk Clockwork Girl"},
 {id:177120,title:"忍者與殺手的兩人生活"},
 {id:176702,title:"神統記"},
 {id:185939,title:"歲月流逝飯菜依舊美味"},
@@ -7467,7 +7473,6 @@ var database = [
 {id:184470,title:"秘密的美妙公主 第二季"},
 {id:184756,title:"KING OF PRISM -Your Endless Call-"},
 {id:178781,title:"戰隊大失格 第二季"},
-{id:181449,title:"Virgin Punk"},
 {id:188668,title:"航海王談戀愛"},
 {id:170068,title:"葬送的芙莉蓮 ～●●の魔法～"},
 {id:169403,title:"Wonderful Precure! The Mobie! 心跳加速 遊戲世界大冒險！"},
