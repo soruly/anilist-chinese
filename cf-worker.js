@@ -2678,6 +2678,7 @@ const db = new Map([
 [14719,{title:"JoJo的奇妙冒險",synonyms:[]}],
 [14741,{title:"中二病也要談戀愛！",synonyms:[]}],
 [14749,{title:"我女友與青梅竹馬的慘烈修羅場",synonyms:["我的後宮修羅場","夾在我女友和青梅竹馬間的各種修羅場"]}],
+[194832,{title:"屁屁偵探 第9期 Part 2",synonyms:[]}],
 [14751,{title:"Sailor Moon Crystal",synonyms:[]}],
 [14753,{title:"堀桑與宮村君 新學期",synonyms:[]}],
 [14765,{title:"IXION SAGA DT",synonyms:[]}],

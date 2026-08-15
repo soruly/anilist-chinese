@@ -2,7 +2,7 @@
 -- PostgreSQL database dump
 --
 
-\restrict vD0MzhCFMhd2bFYRQh7644ww5mQ1xt75iEePh7hjQOWCr0nKvHQBSCXWXQDoJaU
+\restrict 0MEJMKYcaEMAj34wHP8mv6ePDBlZVQ19LItiX0DeNqozcaIEAcFivZLuqp8ALz6
 
 -- Dumped from database version 18.3 (Debian 18.3-1.pgdg13+1)
 -- Dumped by pg_dump version 18.3 (Debian 18.3-1.pgdg13+1)
@@ -2719,6 +2719,7 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 14719	{"title": {"chinese": "JoJo的奇妙冒險"}, "synonyms_chinese": []}
 14741	{"title": {"chinese": "中二病也要談戀愛！"}, "synonyms_chinese": []}
 14749	{"title": {"chinese": "我女友與青梅竹馬的慘烈修羅場"}, "synonyms_chinese": ["我的後宮修羅場", "夾在我女友和青梅竹馬間的各種修羅場"]}
+194832	{"title": {"chinese": "屁屁偵探 第9期 Part 2"}, "synonyms_chinese": []}
 14751	{"title": {"chinese": "Sailor Moon Crystal"}, "synonyms_chinese": []}
 14753	{"title": {"chinese": "堀桑與宮村君 新學期"}, "synonyms_chinese": []}
 14765	{"title": {"chinese": "IXION SAGA DT"}, "synonyms_chinese": []}
@@ -8537,5 +8538,5 @@ ALTER TABLE ONLY public.anilist_chinese
 -- PostgreSQL database dump complete
 --
 
-\unrestrict vD0MzhCFMhd2bFYRQh7644ww5mQ1xt75iEePh7hjQOWCr0nKvHQBSCXWXQDoJaU
+\unrestrict 0MEJMKYcaEMAj34wHP8mv6ePDBlZVQ19LItiX0DeNqozcaIEAcFivZLuqp8ALz6
 

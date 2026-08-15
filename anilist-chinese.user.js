@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      3.2026.8.10
+// @version      3.2026.8.15
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -2695,6 +2695,7 @@ var database = [
 {id:14719,title:"JoJo的奇妙冒險"},
 {id:14741,title:"中二病也要談戀愛！"},
 {id:14749,title:"我女友與青梅竹馬的慘烈修羅場"},
+{id:194832,title:"屁屁偵探 第9期 Part 2"},
 {id:14751,title:"Sailor Moon Crystal"},
 {id:14753,title:"堀桑與宮村君 新學期"},
 {id:14765,title:"IXION SAGA DT"},
