@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      3.2026.8.15
+// @version      3.2026.8.17
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -2768,6 +2768,7 @@ var database = [
 {id:15689,title:"貓物語(黑)"},
 {id:15699,title:"潛行吧！奈亞子 W"},
 {id:15731,title:"玉響〜More Aggressive〜"},
+{id:1128,title:"圓盤皇女 十二月的小夜曲"},
 {id:15751,title:"戰勇。"},
 {id:15771,title:"聖哥傳"},
 {id:15775,title:"聖哥傳"},
@@ -2801,13 +2802,16 @@ var database = [
 {id:16051,title:"蘿球部！SS"},
 {id:16059,title:"悪の女幹部 フルムーンナイト"},
 {id:20691,title:"劇場版 進擊的巨人 前編 紅蓮的弓矢"},
+{id:169929,title:"我想成為影之強者！小劇場 2nd"},
 {id:16067,title:"來自風平浪靜的明天"},
 {id:16091,title:"魍魎の贄"},
+{id:1127,title:"圓盤皇女"},
 {id:16123,title:"咲-Saki- 全國篇"},
 {id:16157,title:"超次元戰記 戰機少女"},
 {id:16169,title:"漫研部"},
 {id:16187,title:"マリッジブルー"},
 {id:16189,title:"未亡人日記 ~憧れのあの女（ひと）と一つ屋根の下~"},
+{id:1514,title:"圓盤皇女 星靈節的新娘"},
 {id:16201,title:"惡之華"},
 {id:16241,title:"召喚惡魔Z"},
 {id:16273,title:"一起一起這裏那裏 OVA"},
@@ -2868,6 +2872,7 @@ var database = [
 {id:17074,title:"物語系列 第二季"},
 {id:17080,title:"蒼穹之戰神 EXODUS"},
 {id:17082,title:"AIURA"},
+{id:1648,title:"圓盤皇女 時空與夢想的銀河之宴"},
 {id:17121,title:"某人的目光"},
 {id:17147,title:"學活！第二季"},
 {id:17157,title:"ノ・ゾ・キ・ア・ナ"},
@@ -2897,11 +2902,13 @@ var database = [
 {id:17637,title:"宮河家的空腹"},
 {id:17641,title:"Date A Live OVA"},
 {id:17651,title:"穿透幻影的太陽"},
+{id:261,title:"HAPPY☆LESSON ADVANCE"},
 {id:17677,title:"SHORT PEACE"},
 {id:17681,title:"絕對防衛利維坦"},
 {id:17699,title:"劇場版 美食的俘虜 美食神的秘寶"},
 {id:17705,title:"DD北斗神拳"},
 {id:17725,title:"魔法少女☆偶像之星 花音 100%"},
+{id:259,title:"HAPPY☆LESSON OVA"},
 {id:17727,title:"你好 七葉 2"},
 {id:17729,title:"灰色的果實"},
 {id:17731,title:"血型君"},
@@ -2915,6 +2922,7 @@ var database = [
 {id:17831,title:"狗與剪刀必有用"},
 {id:17855,title:"人魚又上鉤 OVA"},
 {id:17867,title:"ヌキどきッ! ~天使と悪魔の搾精バトル~"},
+{id:1129,title:"圓盤皇女 七転八倒花嫁修行"},
 {id:17875,title:"要聽爸爸的話！OVA"},
 {id:17895,title:"青春紀行"},
 {id:17909,title:"有頂天家族"},
@@ -2955,6 +2963,7 @@ var database = [
 {id:18507,title:"Free!"},
 {id:18523,title:"戰勇。2"},
 {id:18525,title:"RIN×SEN＋Ran→Sem Cross Mix 春うらら、裏切りと絶望の季節編"},
+{id:260,title:"HAPPY☆LESSON"},
 {id:18531,title:"一起一起這裏那裏 SP"},
 {id:18549,title:"戰國BASARA SP"},
 {id:18597,title:"彼女×彼女×彼女 完全版"},
@@ -3228,6 +3237,7 @@ var database = [
 {id:20686,title:"科學超電磁砲S OVA"},
 {id:20689,title:"漫研部～妄想catastrophe～"},
 {id:20690,title:"宇宙戰艦大和號2199 遊星方舟"},
+{id:262,title:"HAPPY☆LESSON THE FINAL"},
 {id:20692,title:"劇場版 進擊的巨人 後編 自由之翼"},
 {id:20693,title:"THE iDOLM@STER: Cinderella Girls"},
 {id:20694,title:"噥噥日和 Repeat"},
