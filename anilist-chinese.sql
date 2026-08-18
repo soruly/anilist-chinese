@@ -2,7 +2,7 @@
 -- PostgreSQL database dump
 --
 
-\restrict BuCEyuB4iHwQoj8zTSEBtMpFXcL8LpVmq4Jrd5vnhQxApVCQlgaPhIrKmhSvp4x
+\restrict inUdN49LTqhqBFUEnckmR4wHo4IR6cZ91wkjF7eHeRF9RE9Wu5j2auvwJkDvUy9
 
 -- Dumped from database version 18.3 (Debian 18.3-1.pgdg13+1)
 -- Dumped by pg_dump version 18.3 (Debian 18.3-1.pgdg13+1)
@@ -3676,6 +3676,7 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 21233	{"title": {"chinese": "巨乳家族催眠"}, "synonyms_chinese": []}
 21234	{"title": {"chinese": "只有我不存在的城市"}, "synonyms_chinese": ["只有我不在的街道"]}
 21235	{"title": {"chinese": "黑子的籃球 最棒的禮物"}, "synonyms_chinese": ["影子籃球員 最棒的禮物", "幻影籃球王 最棒的禮物", "黑子的籃球 OVA 4", "黑子的籃球 75.5"]}
+198044	{"title": {"chinese": "蹂躙王国 エルフ王国は巨大苗床に"}, "synonyms_chinese": []}
 21237	{"title": {"chinese": "神之見習者秘密的心靈蛋"}, "synonyms_chinese": ["見習神仙秘密的心靈", "見習神仙精靈"]}
 21238	{"title": {"chinese": "Unhappy♪"}, "synonyms_chinese": ["Anne Happy", "不幸少女們的校園趣事♪"]}
 21239	{"title": {"chinese": "大叔與棉花糖"}, "synonyms_chinese": []}
@@ -3766,6 +3767,7 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 21349	{"title": {"chinese": "ALL OUT!!"}, "synonyms_chinese": []}
 21354	{"title": {"chinese": "血型君 3"}, "synonyms_chinese": ["血型家族 3", "血型小將ABO 3"]}
 21355	{"title": {"chinese": "Re：從零開始的異世界生活"}, "synonyms_chinese": []}
+211338	{"title": {"chinese": "ハーレム島へようこそ！"}, "synonyms_chinese": []}
 21357	{"title": {"chinese": "境界之輪迴 2"}, "synonyms_chinese": []}
 21358	{"title": {"chinese": "いただきっ! セーエキ♥ SP"}, "synonyms_chinese": []}
 21359	{"title": {"chinese": "房東妹子青春期"}, "synonyms_chinese": ["房東思春期", "蘿莉房東思春期"]}
@@ -4026,6 +4028,7 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 21677	{"title": {"chinese": "ēlDLIVE"}, "synonyms_chinese": ["宇宙警探 ēlDLIVE"]}
 21678	{"title": {"chinese": "暗殺教室 2 課外授業編"}, "synonyms_chinese": []}
 21679	{"title": {"chinese": "文豪Stray Dogs 2"}, "synonyms_chinese": ["文豪野犬 2"]}
+212617	{"title": {"chinese": "田舎にはこれくらいしか娯楽がない"}, "synonyms_chinese": []}
 21682	{"title": {"chinese": "Tiger Mask W"}, "synonyms_chinese": ["老虎假面W", "虎面人W"]}
 21683	{"title": {"chinese": "想要傳達你的聲音"}, "synonyms_chinese": []}
 21684	{"title": {"chinese": "魔法科高中的劣等生 呼喚繁星的少女"}, "synonyms_chinese": []}
@@ -4149,6 +4152,8 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 21837	{"title": {"chinese": "學園帥哥"}, "synonyms_chinese": []}
 21838	{"title": {"chinese": "終末的伊澤塔"}, "synonyms_chinese": []}
 21839	{"title": {"chinese": "12歲。〜小小的胸口心跳加速〜 2"}, "synonyms_chinese": ["12歲。~小小的心動~ 2"]}
+212272	{"title": {"chinese": "デコ×デコ THE ANIMATION"}, "synonyms_chinese": []}
+201151	{"title": {"chinese": "THE LENTICULARS"}, "synonyms_chinese": []}
 21842	{"title": {"chinese": "舌尖上的義大利"}, "synonyms_chinese": ["Piace: 我的義大利料理"]}
 21847	{"title": {"chinese": "烏龍派出所特別篇：兩津勘吉最後的一天"}, "synonyms_chinese": []}
 21850	{"title": {"chinese": "超心動！文藝復興"}, "synonyms_chinese": ["超心動！藝術之星"]}
@@ -4341,6 +4346,7 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 97986	{"title": {"chinese": "Made in Abyss"}, "synonyms_chinese": ["來自深淵"]}
 97988	{"title": {"chinese": "DRIFTERS OVA"}, "synonyms_chinese": []}
 97994	{"title": {"chinese": "Blend・S"}, "synonyms_chinese": ["調教咖啡廳"]}
+175573	{"title": {"chinese": "銀魂ON劇場2D 一國傾城篇"}, "synonyms_chinese": []}
 97995	{"title": {"chinese": "在世界盡頭詠唱戀曲的少女YU-NO"}, "synonyms_chinese": ["YU-NO 在這世界盡頭詠唱愛的少女", "在世界盡頭詠唱戀曲的少女YU-NO", "在這世界盡頭歌頌愛的少女YU-NO", "在今世的最後歌頌戀愛的少女YU-NO"]}
 97996	{"title": {"chinese": "為美好的世界獻上祝福！2 OVA"}, "synonyms_chinese": []}
 98004	{"title": {"chinese": "GRAVITY DAZE The Animation ~Ouverture~"}, "synonyms_chinese": ["重力異想世界 動畫序曲"]}
@@ -5438,6 +5444,7 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 112124	{"title": {"chinese": "在地下城尋求邂逅是否搞錯了什麼 III"}, "synonyms_chinese": []}
 112125	{"title": {"chinese": "在地下城尋求邂逅是否搞錯了什麼 2 OVA"}, "synonyms_chinese": []}
 112151	{"title": {"chinese": "鬼滅之刃 無限列車編"}, "synonyms_chinese": []}
+20760	{"title": {"chinese": "銀魂ON劇場2D"}, "synonyms_chinese": ["銀魂ON劇場2D 真選組動乱篇", "銀魂ON劇場2D 歌舞伎町四天王篇"]}
 112166	{"title": {"chinese": "廚病激發 BOY OVA"}, "synonyms_chinese": []}
 112177	{"title": {"chinese": "實況主的逃脫遊戲【直播中】OVA"}, "synonyms_chinese": ["中之人基因組【實況中】OVA"]}
 112190	{"title": {"chinese": "のぞき彼女"}, "synonyms_chinese": []}
@@ -6869,7 +6876,6 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 175450	{"title": {"chinese": "我的妻子不具感情"}, "synonyms_chinese": []}
 175499	{"title": {"chinese": "巨乳女士官・洗脳催眠"}, "synonyms_chinese": []}
 175533	{"title": {"chinese": "THE iDOLM@STER SHINY COLORS 2nd season"}, "synonyms_chinese": ["偶像大師 閃耀色彩 第二季"]}
-175573	{"title": {"chinese": "銀魂劇場版 一國傾城篇"}, "synonyms_chinese": []}
 175642	{"title": {"chinese": "SAND LAND: THE SERIES"}, "synonyms_chinese": ["沙漠大冒險"]}
 175868	{"title": {"chinese": "天穗之咲稻姬"}, "synonyms_chinese": []}
 175977	{"title": {"chinese": "鹿乃子乃子乃子虎視眈眈"}, "synonyms_chinese": []}
@@ -7245,7 +7251,6 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 121433	{"title": {"chinese": "鎖鍊戰記 赫克瑟塔斯之光 Chronicle Girls"}, "synonyms_chinese": []}
 21891	{"title": {"chinese": "Re：從PETIT開始的異世界生活"}, "synonyms_chinese": []}
 10643	{"title": {"chinese": "銀魂 反省大會"}, "synonyms_chinese": []}
-20760	{"title": {"chinese": "銀魂精選集"}, "synonyms_chinese": []}
 21433	{"title": {"chinese": "浦和的小調 未放送話"}, "synonyms_chinese": []}
 21429	{"title": {"chinese": "天地無用! 魎皇鬼 第4期"}, "synonyms_chinese": []}
 114442	{"title": {"chinese": "天地無用! 魎皇鬼 第5期"}, "synonyms_chinese": []}
@@ -8548,5 +8553,5 @@ ALTER TABLE ONLY public.anilist_chinese
 -- PostgreSQL database dump complete
 --
 
-\unrestrict BuCEyuB4iHwQoj8zTSEBtMpFXcL8LpVmq4Jrd5vnhQxApVCQlgaPhIrKmhSvp4x
+\unrestrict inUdN49LTqhqBFUEnckmR4wHo4IR6cZ91wkjF7eHeRF9RE9Wu5j2auvwJkDvUy9
 

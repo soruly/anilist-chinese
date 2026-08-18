@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      3.2026.8.17
+// @version      3.2026.8.18
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -3652,6 +3652,7 @@ var database = [
 {id:21233,title:"巨乳家族催眠"},
 {id:21234,title:"只有我不存在的城市"},
 {id:21235,title:"黑子的籃球 最棒的禮物"},
+{id:198044,title:"蹂躙王国 エルフ王国は巨大苗床に"},
 {id:21237,title:"神之見習者秘密的心靈蛋"},
 {id:21238,title:"Unhappy♪"},
 {id:21239,title:"大叔與棉花糖"},
@@ -3742,6 +3743,7 @@ var database = [
 {id:21349,title:"ALL OUT!!"},
 {id:21354,title:"血型君 3"},
 {id:21355,title:"Re：從零開始的異世界生活"},
+{id:211338,title:"ハーレム島へようこそ！"},
 {id:21357,title:"境界之輪迴 2"},
 {id:21358,title:"いただきっ! セーエキ♥ SP"},
 {id:21359,title:"房東妹子青春期"},
@@ -4002,6 +4004,7 @@ var database = [
 {id:21677,title:"ēlDLIVE"},
 {id:21678,title:"暗殺教室 2 課外授業編"},
 {id:21679,title:"文豪Stray Dogs 2"},
+{id:212617,title:"田舎にはこれくらいしか娯楽がない"},
 {id:21682,title:"Tiger Mask W"},
 {id:21683,title:"想要傳達你的聲音"},
 {id:21684,title:"魔法科高中的劣等生 呼喚繁星的少女"},
@@ -4125,6 +4128,8 @@ var database = [
 {id:21837,title:"學園帥哥"},
 {id:21838,title:"終末的伊澤塔"},
 {id:21839,title:"12歲。〜小小的胸口心跳加速〜 2"},
+{id:212272,title:"デコ×デコ THE ANIMATION"},
+{id:201151,title:"THE LENTICULARS"},
 {id:21842,title:"舌尖上的義大利"},
 {id:21847,title:"烏龍派出所特別篇：兩津勘吉最後的一天"},
 {id:21850,title:"超心動！文藝復興"},
@@ -4317,6 +4322,7 @@ var database = [
 {id:97986,title:"Made in Abyss"},
 {id:97988,title:"DRIFTERS OVA"},
 {id:97994,title:"Blend・S"},
+{id:175573,title:"銀魂ON劇場2D 一國傾城篇"},
 {id:97995,title:"在世界盡頭詠唱戀曲的少女YU-NO"},
 {id:97996,title:"為美好的世界獻上祝福！2 OVA"},
 {id:98004,title:"GRAVITY DAZE The Animation ~Ouverture~"},
@@ -5414,6 +5420,7 @@ var database = [
 {id:112124,title:"在地下城尋求邂逅是否搞錯了什麼 III"},
 {id:112125,title:"在地下城尋求邂逅是否搞錯了什麼 2 OVA"},
 {id:112151,title:"鬼滅之刃 無限列車編"},
+{id:20760,title:"銀魂ON劇場2D"},
 {id:112166,title:"廚病激發 BOY OVA"},
 {id:112177,title:"實況主的逃脫遊戲【直播中】OVA"},
 {id:112190,title:"のぞき彼女"},
@@ -6845,7 +6852,6 @@ var database = [
 {id:175450,title:"我的妻子不具感情"},
 {id:175499,title:"巨乳女士官・洗脳催眠"},
 {id:175533,title:"THE iDOLM@STER SHINY COLORS 2nd season"},
-{id:175573,title:"銀魂劇場版 一國傾城篇"},
 {id:175642,title:"SAND LAND: THE SERIES"},
 {id:175868,title:"天穗之咲稻姬"},
 {id:175977,title:"鹿乃子乃子乃子虎視眈眈"},
@@ -7221,7 +7227,6 @@ var database = [
 {id:121433,title:"鎖鍊戰記 赫克瑟塔斯之光 Chronicle Girls"},
 {id:21891,title:"Re：從PETIT開始的異世界生活"},
 {id:10643,title:"銀魂 反省大會"},
-{id:20760,title:"銀魂精選集"},
 {id:21433,title:"浦和的小調 未放送話"},
 {id:21429,title:"天地無用! 魎皇鬼 第4期"},
 {id:114442,title:"天地無用! 魎皇鬼 第5期"},
