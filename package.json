@@ -27,7 +27,7 @@
     "postgres": "^3.4.9"
   },
   "devDependencies": {
-    "@types/node": "^26.2.0",
+    "@types/node": "^26.4.0",
     "oxfmt": "^0.63.0"
   }
 }
