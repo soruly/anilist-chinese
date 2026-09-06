@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      3.2026.8.18
+// @version      3.2026.9.6
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -5607,6 +5607,7 @@ var database = [
 {id:116338,title:"入間同學入魔了！ 2"},
 {id:116384,title:"Sol Levante"},
 {id:116400,title:"優等生 綾香のウラオモテ"},
+{id:1060,title:"倉鼠管家"},
 {id:116566,title:"全員惡玉"},
 {id:116588,title:"戰鬥員派遣中！"},
 {id:116589,title:"86 -Eighty Six-"},

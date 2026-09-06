@@ -5590,6 +5590,7 @@ const db = new Map([
 [116338,{title:"入間同學入魔了！ 2",synonyms:[]}],
 [116384,{title:"Sol Levante",synonyms:["旭日"]}],
 [116400,{title:"優等生 綾香のウラオモテ",synonyms:[]}],
+[1060,{title:"倉鼠管家",synonyms:[]}],
 [116566,{title:"全員惡玉",synonyms:[]}],
 [116588,{title:"戰鬥員派遣中！",synonyms:[]}],
 [116589,{title:"86 -Eighty Six-",synonyms:["86 不存在的戰區"]}],
