@@ -2,7 +2,7 @@
 -- PostgreSQL database dump
 --
 
-\restrict oPEVIRFo8lTfe76nWOTeUhx4OzCSdlnOVEPuirSCqJZ608vzOCuUqHq96wwQLE8
+\restrict Nb1CuKb8xcA7fSXU6qwF1CrpK4Cv3zHeLUrYx4gHOSJIhvM4gsqYpLFy1z0D6Ql
 
 -- Dumped from database version 18.3 (Debian 18.3-1.pgdg13+1)
 -- Dumped by pg_dump version 18.3 (Debian 18.3-1.pgdg13+1)
@@ -5697,6 +5697,7 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 118656	{"title": {"chinese": "村又さんの秘密"}, "synonyms_chinese": []}
 118743	{"title": {"chinese": "Fate/kaleid liner Prisma☆Illya Licht 無名少女"}, "synonyms_chinese": []}
 118860	{"title": {"chinese": "サキュバステードライフ THE ANIMATION"}, "synonyms_chinese": []}
+204431	{"title": {"chinese": "怪獸 8 號 鳴海的平日"}, "synonyms_chinese": []}
 118936	{"title": {"chinese": "全露的金太狼"}, "synonyms_chinese": []}
 119042	{"title": {"chinese": "結城友奈是勇者 哧溜"}, "synonyms_chinese": ["結城友奈是勇者 啾噜"]}
 119056	{"title": {"chinese": "自稱賢者弟子的賢者"}, "synonyms_chinese": []}
@@ -5815,6 +5816,7 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 193347	{"title": {"chinese": "社畜シンデレラ"}, "synonyms_chinese": []}
 125425	{"title": {"chinese": "トロみつ娘の秘湯サービス ～とろッとろちゅるちゅるご奉仕させてください～"}, "synonyms_chinese": []}
 125426	{"title": {"chinese": "極道主夫"}, "synonyms_chinese": []}
+212667	{"title": {"chinese": "人付き合いが苦手な未亡人の雪女さんと呪いの指輪"}, "synonyms_chinese": []}
 125428	{"title": {"chinese": "天空侵犯"}, "synonyms_chinese": []}
 125446	{"title": {"chinese": "歌劇少女!!"}, "synonyms_chinese": []}
 125447	{"title": {"chinese": "新羅馬浴場"}, "synonyms_chinese": []}
@@ -8554,5 +8556,5 @@ ALTER TABLE ONLY public.anilist_chinese
 -- PostgreSQL database dump complete
 --
 
-\unrestrict oPEVIRFo8lTfe76nWOTeUhx4OzCSdlnOVEPuirSCqJZ608vzOCuUqHq96wwQLE8
+\unrestrict Nb1CuKb8xcA7fSXU6qwF1CrpK4Cv3zHeLUrYx4gHOSJIhvM4gsqYpLFy1z0D6Ql
 

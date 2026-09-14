@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      3.2026.9.6
+// @version      3.2026.9.14
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -5673,6 +5673,7 @@ var database = [
 {id:118656,title:"村又さんの秘密"},
 {id:118743,title:"Fate/kaleid liner Prisma☆Illya Licht 無名少女"},
 {id:118860,title:"サキュバステードライフ THE ANIMATION"},
+{id:204431,title:"怪獸 8 號 鳴海的平日"},
 {id:118936,title:"全露的金太狼"},
 {id:119042,title:"結城友奈是勇者 哧溜"},
 {id:119056,title:"自稱賢者弟子的賢者"},
@@ -5791,6 +5792,7 @@ var database = [
 {id:193347,title:"社畜シンデレラ"},
 {id:125425,title:"トロみつ娘の秘湯サービス ～とろッとろちゅるちゅるご奉仕させてください～"},
 {id:125426,title:"極道主夫"},
+{id:212667,title:"人付き合いが苦手な未亡人の雪女さんと呪いの指輪"},
 {id:125428,title:"天空侵犯"},
 {id:125446,title:"歌劇少女!!"},
 {id:125447,title:"新羅馬浴場"},
