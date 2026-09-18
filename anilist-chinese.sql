@@ -2,7 +2,7 @@
 -- PostgreSQL database dump
 --
 
-\restrict Sd21ifaVldvYOgGFPaebfTMhEaeozBltk307QM78hpYYSjfvMk3IRwlYcCJ1rx3
+\restrict Olx5PdTgZs2GFZNNxiDzPAys9CJ1qGPVCd9nONKrQJL7BS37TcitJb2mfX7hrGW
 
 -- Dumped from database version 18.3 (Debian 18.3-1.pgdg13+1)
 -- Dumped by pg_dump version 18.3 (Debian 18.3-1.pgdg13+1)
@@ -5788,6 +5788,7 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 124153	{"title": {"chinese": "SK8 the Infinity"}, "synonyms_chinese": []}
 124194	{"title": {"chinese": "Fruits Basket The Final"}, "synonyms_chinese": ["魔法水果籃 最終季"]}
 124195	{"title": {"chinese": "範馬刃牙"}, "synonyms_chinese": []}
+212575	{"title": {"chinese": "サレ妻は奪われたい"}, "synonyms_chinese": []}
 124337	{"title": {"chinese": "魔法使的新娘 學院篇"}, "synonyms_chinese": []}
 124394	{"title": {"chinese": "八十龜醬觀察日記 3"}, "synonyms_chinese": []}
 124395	{"title": {"chinese": "宇崎學妹想要玩！ω"}, "synonyms_chinese": []}
@@ -5882,6 +5883,7 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 127619	{"title": {"chinese": "衝吧烈子 第4期"}, "synonyms_chinese": []}
 127688	{"title": {"chinese": "魔法科高中的優等生"}, "synonyms_chinese": []}
 127690	{"title": {"chinese": "天竺鼠車車"}, "synonyms_chinese": []}
+213733	{"title": {"chinese": "彼女催眠"}, "synonyms_chinese": []}
 127721	{"title": {"chinese": "IDOLiSH7 Third BEAT!"}, "synonyms_chinese": []}
 127911	{"title": {"chinese": "式守同學不只可愛而已"}, "synonyms_chinese": []}
 127957	{"title": {"chinese": "Holy Knight Light"}, "synonyms_chinese": []}
@@ -5988,6 +5990,7 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 131584	{"title": {"chinese": "Visual Prison"}, "synonyms_chinese": ["視覺監獄"]}
 131586	{"title": {"chinese": "86 -Eighty Six- Part 2"}, "synonyms_chinese": []}
 131646	{"title": {"chinese": "瓦尼塔斯的手札"}, "synonyms_chinese": []}
+212574	{"title": {"chinese": "ピュアホリック ～純潔乙女と婚姻カンケイ！？～ The Animation"}, "synonyms_chinese": []}
 131681	{"title": {"chinese": "進擊的巨人 The Final Season Part 2"}, "synonyms_chinese": []}
 131773	{"title": {"chinese": "WONDER EGG PRIORITY SP"}, "synonyms_chinese": []}
 131826	{"title": {"chinese": "エロゲで全ては解決できる！ THE ANIMATION"}, "synonyms_chinese": []}
@@ -8556,5 +8559,5 @@ ALTER TABLE ONLY public.anilist_chinese
 -- PostgreSQL database dump complete
 --
 
-\unrestrict Sd21ifaVldvYOgGFPaebfTMhEaeozBltk307QM78hpYYSjfvMk3IRwlYcCJ1rx3
+\unrestrict Olx5PdTgZs2GFZNNxiDzPAys9CJ1qGPVCd9nONKrQJL7BS37TcitJb2mfX7hrGW
 

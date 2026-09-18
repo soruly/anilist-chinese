@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      3.2026.9.14
+// @version      3.2026.9.18
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -5764,6 +5764,7 @@ var database = [
 {id:124153,title:"SK8 the Infinity"},
 {id:124194,title:"Fruits Basket The Final"},
 {id:124195,title:"範馬刃牙"},
+{id:212575,title:"サレ妻は奪われたい"},
 {id:124337,title:"魔法使的新娘 學院篇"},
 {id:124394,title:"八十龜醬觀察日記 3"},
 {id:124395,title:"宇崎學妹想要玩！ω"},
@@ -5858,6 +5859,7 @@ var database = [
 {id:127619,title:"衝吧烈子 第4期"},
 {id:127688,title:"魔法科高中的優等生"},
 {id:127690,title:"天竺鼠車車"},
+{id:213733,title:"彼女催眠"},
 {id:127721,title:"IDOLiSH7 Third BEAT!"},
 {id:127911,title:"式守同學不只可愛而已"},
 {id:127957,title:"Holy Knight Light"},
@@ -5964,6 +5966,7 @@ var database = [
 {id:131584,title:"Visual Prison"},
 {id:131586,title:"86 -Eighty Six- Part 2"},
 {id:131646,title:"瓦尼塔斯的手札"},
+{id:212574,title:"ピュアホリック ～純潔乙女と婚姻カンケイ！？～ The Animation"},
 {id:131681,title:"進擊的巨人 The Final Season Part 2"},
 {id:131773,title:"WONDER EGG PRIORITY SP"},
 {id:131826,title:"エロゲで全ては解決できる！ THE ANIMATION"},
