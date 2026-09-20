@@ -23,11 +23,9 @@
     "lint": "oxfmt --check \"**/*.*\"",
     "test": "oxfmt --check \"**/*.*\""
   },
-  "dependencies": {
-    "postgres": "^3.4.9"
-  },
   "devDependencies": {
-    "@types/node": "^26.5.1",
-    "oxfmt": "^0.67.0"
+    "@types/node": "^26.6.2",
+    "oxfmt": "^0.68.0",
+    "postgres": "^3.4.9"
   }
 }
