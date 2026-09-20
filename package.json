@@ -18,14 +18,18 @@
   "type": "module",
   "main": "index.js",
   "scripts": {
-    "oxfmt": "oxfmt",
-    "format": "oxfmt --write \"**/*.*\"",
-    "lint": "oxfmt --check \"**/*.*\"",
-    "test": "oxfmt --check \"**/*.*\""
+    "format": "oxfmt",
+    "lint": "oxlint",
+    "lint:fix": "oxlint --fix",
+    "test": "oxfmt --check && oxlint"
   },
   "devDependencies": {
     "@types/node": "^26.6.2",
     "oxfmt": "^0.68.0",
+    "oxlint": "^1.83.0",
     "postgres": "^3.4.9"
+  },
+  "engines": {
+    "node": ">=24"
   }
 }

@@ -17,7 +17,6 @@
 
 var database = [];
 
-var updating;
 var url;
 var myDOMNodeInsertedAction = function (mutationList) {
   var translate = function () {
