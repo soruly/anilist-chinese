@@ -4370,11 +4370,6 @@
     ]
   },
   {
-    "id": 1732,
-    "title": "",
-    "synonyms": []
-  },
-  {
     "id": 1734,
     "title": "海岸物語",
     "synonyms": []
@@ -12700,11 +12695,6 @@
     "synonyms": []
   },
   {
-    "id": 10017,
-    "title": "",
-    "synonyms": []
-  },
-  {
     "id": 10029,
     "title": "紅花坂上的海",
     "synonyms": [
@@ -17333,9 +17323,7 @@
   {
     "id": 19291,
     "title": "寵物小精靈 XY",
-    "synonyms": [
-      ""
-    ]
+    "synonyms": []
   },
   {
     "id": 19429,
@@ -29025,11 +29013,6 @@
     "synonyms": []
   },
   {
-    "id": 103699,
-    "title": "",
-    "synonyms": []
-  },
-  {
     "id": 103712,
     "title": "美少女戰士 Sailor Moon Eternal 2",
     "synonyms": []
@@ -35201,11 +35184,6 @@
     "synonyms": []
   },
   {
-    "id": 139588,
-    "title": "",
-    "synonyms": []
-  },
-  {
     "id": 139589,
     "title": "小太郎一個人生活",
     "synonyms": []
@@ -36536,6 +36514,11 @@
     "synonyms": []
   },
   {
+    "id": 175409,
+    "title": "終究，與你相戀。",
+    "synonyms": []
+  },
+  {
     "id": 151126,
     "title": "勇者辭職不幹了 OVA",
     "synonyms": []
@@ -37213,6 +37196,11 @@
   {
     "id": 156415,
     "title": "轉生為第七王子，隨心所欲的魔法學習之路",
+    "synonyms": []
+  },
+  {
+    "id": 5293,
+    "title": "A Time Slip of 10000 Years: Prime Rose",
     "synonyms": []
   },
   {
@@ -38042,6 +38030,11 @@
   {
     "id": 165070,
     "title": "我的新上司是天然呆",
+    "synonyms": []
+  },
+  {
+    "id": 21628,
+    "title": "夜勤病棟 特別実験記録集",
     "synonyms": []
   },
   {
@@ -39474,13 +39467,6 @@
     "synonyms": []
   },
   {
-    "id": 175409,
-    "title": "終究，與你相戀。",
-    "synonyms": [
-      ""
-    ]
-  },
-  {
     "id": 180292,
     "title": "中年男的異世界網購生活",
     "synonyms": []
@@ -40410,11 +40396,6 @@
   {
     "id": 182417,
     "title": "Re:從零開始的休憩時間 第三季",
-    "synonyms": []
-  },
-  {
-    "id": 116060,
-    "title": "",
     "synonyms": []
   },
   {
@@ -41396,13 +41377,6 @@
     "id": 9888,
     "title": "侵略！花枝娘 番外編",
     "synonyms": []
-  },
-  {
-    "id": 5293,
-    "title": "A Time Slip of 10000 Years: Prime Rose",
-    "synonyms": [
-      ""
-    ]
   },
   {
     "id": 10796,
@@ -43592,11 +43566,6 @@
     ]
   },
   {
-    "id": 714,
-    "title": "",
-    "synonyms": []
-  },
-  {
     "id": 156110,
     "title": "仙王的日常生活 第四季",
     "synonyms": []
@@ -44086,6 +44055,11 @@
     ]
   },
   {
+    "id": 143264,
+    "title": "真･淫獣学園 La☆Blue Girl",
+    "synonyms": []
+  },
+  {
     "id": 448,
     "title": "天上天下 ULTIMATE FIGHT",
     "synonyms": []
@@ -44149,13 +44123,6 @@
     "id": 2464,
     "title": "吉永家的石像怪 SP",
     "synonyms": []
-  },
-  {
-    "id": 143264,
-    "title": "真･淫獣学園 La☆Blue Girl",
-    "synonyms": [
-      ""
-    ]
   },
   {
     "id": 168810,
@@ -45069,13 +45036,6 @@
     "synonyms": []
   },
   {
-    "id": 21628,
-    "title": "夜勤病棟 特別実験記録集",
-    "synonyms": [
-      ""
-    ]
-  },
-  {
     "id": 527,
     "title": "寵物小精靈",
     "synonyms": []
@@ -45091,24 +45051,15 @@
     "synonyms": []
   },
   {
-    "id": 17115,
-    "title": "寵物小精靈 超級願望 第二季 Episode N",
-    "synonyms": [
-      ""
-    ]
+    "id": 17873,
+    "title": "寵物小精靈 超級願望 第二季 Da！",
+    "synonyms": []
   },
   {
     "id": 158871,
     "title": "Pocket Monsters (2023)",
     "synonyms": [
       "寵物小精靈 地平線"
-    ]
-  },
-  {
-    "id": 17873,
-    "title": "寵物小精靈 超級願望 第二季 Da！",
-    "synonyms": [
-      ""
     ]
   },
   {
@@ -45181,25 +45132,19 @@
     "synonyms": []
   },
   {
-    "id": 97634,
-    "title": "寵物小精靈 太陽&月亮",
-    "synonyms": [
-      ""
-    ]
-  },
-  {
     "id": 14093,
     "title": "寵物小精靈 超級願望 第二季",
-    "synonyms": [
-      ""
-    ]
+    "synonyms": []
   },
   {
     "id": 20683,
     "title": "寵物小精靈 XY 超進化特別篇",
-    "synonyms": [
-      ""
-    ]
+    "synonyms": []
+  },
+  {
+    "id": 21356,
+    "title": "寵物小精靈 XY&Z",
+    "synonyms": []
   },
   {
     "id": 4795,
@@ -45207,11 +45152,9 @@
     "synonyms": []
   },
   {
-    "id": 21356,
-    "title": "寵物小精靈 XY&Z",
-    "synonyms": [
-      ""
-    ]
+    "id": 9107,
+    "title": "寵物小精靈 超級願望",
+    "synonyms": []
   },
   {
     "id": 5529,
@@ -45224,11 +45167,9 @@
     "synonyms": []
   },
   {
-    "id": 9107,
-    "title": "寵物小精靈 超級願望",
-    "synonyms": [
-      ""
-    ]
+    "id": 112153,
+    "title": "寵物小精靈 旅途",
+    "synonyms": []
   },
   {
     "id": 2842,
@@ -45320,11 +45261,9 @@
     "synonyms": []
   },
   {
-    "id": 112153,
-    "title": "寵物小精靈 旅途",
-    "synonyms": [
-      ""
-    ]
+    "id": 17843,
+    "title": "地獄刑警 Fact Files",
+    "synonyms": []
   },
   {
     "id": 101817,
@@ -45332,18 +45271,14 @@
     "synonyms": []
   },
   {
-    "id": 17843,
-    "title": "地獄刑警 Fact Files",
-    "synonyms": [
-      ""
-    ]
-  },
-  {
     "id": 16774,
     "title": "地獄刑警",
-    "synonyms": [
-      ""
-    ]
+    "synonyms": []
+  },
+  {
+    "id": 17115,
+    "title": "寵物小精靈 超級願望 第二季 Episode N",
+    "synonyms": []
   },
   {
     "id": 8507,
@@ -45368,6 +45303,11 @@
   {
     "id": 551,
     "title": "刃牙 II",
+    "synonyms": []
+  },
+  {
+    "id": 97634,
+    "title": "寵物小精靈 太陽&月亮",
     "synonyms": []
   },
   {
@@ -46953,13 +46893,6 @@
     "synonyms": []
   },
   {
-    "id": 209983,
-    "title": "地獄模式 ～喜歡挑戰特殊成就的玩家在廢設定的異世界成為無雙～ 2nd Season",
-    "synonyms": [
-      ""
-    ]
-  },
-  {
     "id": 185542,
     "title": "骸骨騎士大人異世界冒險中 第二季",
     "synonyms": []
@@ -47124,6 +47057,11 @@
   {
     "id": 180136,
     "title": "遭到流放的轉生重騎士憑藉遊戲知識大開無雙",
+    "synonyms": []
+  },
+  {
+    "id": 209983,
+    "title": "地獄模式 ～喜歡挑戰特殊成就的玩家在廢設定的異世界成為無雙～ 2nd Season",
     "synonyms": []
   },
   {
@@ -47361,6 +47299,11 @@
     "synonyms": []
   },
   {
+    "id": 160803,
+    "title": "魔法少女育成計畫 restart",
+    "synonyms": []
+  },
+  {
     "id": 202390,
     "title": "少女與戰車 最終章 第5話",
     "synonyms": []
@@ -47396,16 +47339,19 @@
     "synonyms": []
   },
   {
-    "id": 178868,
-    "title": "魔法騎士雷阿斯 (2026)",
+    "id": 131680,
+    "title": "黑色五葉草 魔法帝之劍",
     "synonyms": []
   },
   {
-    "id": 160803,
-    "title": "魔法少女育成計畫 restart",
-    "synonyms": [
-      ""
-    ]
+    "id": 184034,
+    "title": "殺手旅店",
+    "synonyms": []
+  },
+  {
+    "id": 178868,
+    "title": "魔法騎士雷阿斯 (2026)",
+    "synonyms": []
   },
   {
     "id": 186541,
@@ -47423,13 +47369,6 @@
     "synonyms": []
   },
   {
-    "id": 131680,
-    "title": "黑色五葉草 魔法帝之劍",
-    "synonyms": [
-      ""
-    ]
-  },
-  {
     "id": 195571,
     "title": "朱紅的假面",
     "synonyms": []
@@ -47443,13 +47382,6 @@
     "id": 199426,
     "title": "殺手旅店 第二季",
     "synonyms": []
-  },
-  {
-    "id": 184034,
-    "title": "殺手旅店",
-    "synonyms": [
-      ""
-    ]
   },
   {
     "id": 200294,
