@@ -13,16 +13,19 @@ const sql = postgres({
   password: DB_PASS,
 });
 
-const chineseDB = await sql`SELECT * FROM anilist_chinese`;
+const anilistChinese = await sql`SELECT * FROM anilist_chinese`;
+const anilistChineseSorted = anilistChinese
+  .filter((e) => e.json.title.chinese !== "")
+  .toSorted((a, b) => a.id - b.id);
 await sql.end();
 
 await fs.writeFile(
   "anilist-chinese.json",
   JSON.stringify(
-    chineseDB.map(({ id, json }) => ({
+    anilistChineseSorted.map(({ id, json }) => ({
       id,
       title: json.title.chinese,
-      synonyms: json.synonyms_chinese,
+      synonyms: json.synonyms_chinese.filter((s) => s.trim() !== ""),
     })),
     null,
     2,
@@ -31,7 +34,7 @@ await fs.writeFile(
 
 const jsCode = (await fs.readFile("anilist-chinese.user.template.js", "utf8")).replace(
   "var database = [];",
-  `var database = [\n${chineseDB
+  `var database = [\n${anilistChineseSorted
     .map(({ id, json }) => ({
       id,
       title: json.title.chinese,
