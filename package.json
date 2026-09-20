@@ -16,7 +16,7 @@
     "url": "git+https://github.com/soruly/anilist-chinese.git"
   },
   "type": "module",
-  "main": "cf-worker.js",
+  "main": "index.js",
   "scripts": {
     "oxfmt": "oxfmt",
     "format": "oxfmt --write \"**/*.*\"",

@@ -56,24 +56,3 @@ if (jsCode !== (await fs.readFile("anilist-chinese.user.cache.js", "utf8"))) {
 } else {
   console.log("build is the same, user.js file not updated.");
 }
-
-await fs.writeFile(
-  "cf-worker.js",
-  (await fs.readFile("cf-worker.template.js", "utf8")).replace(
-    "const db = new Map([]);",
-    `const db = new Map([\n${chineseDB
-      .map(
-        ({ id, json }) =>
-          `[${[
-            id,
-            JSON.stringify({
-              title: json.title.chinese,
-              synonyms: json.synonyms_chinese,
-            })
-              .replace(/"title":/g, "title:")
-              .replace(/"synonyms":/g, "synonyms:"),
-          ]}]`,
-      )
-      .join(",\n")}\n]);`,
-  ),
-);
