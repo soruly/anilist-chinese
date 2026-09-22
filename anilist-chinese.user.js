@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      3.2026.9.20
+// @version      3.2026.9.22
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -8146,6 +8146,7 @@ var database = [
 {id:186308,title:"甘いイジワル"},
 {id:186313,title:"嗚莓貓貓"},
 {id:186333,title:"魔術師庫諾看得見一切"},
+{id:186346,title:"IDOLiSH7: First BEAT! 劇場版總集篇 前篇"},
 {id:186497,title:"冰之城牆"},
 {id:186522,title:"小浣熊 卡爾卡爾團"},
 {id:186524,title:"不擅吸血的吸血鬼"},
@@ -8240,6 +8241,7 @@ var database = [
 {id:191718,title:"「憑妳也想討伐魔王？」被勇者小隊逐出隊伍，只好在王都自在過活"},
 {id:191832,title:"時光代理人 第三季"},
 {id:191884,title:"LUPIN THE IIIRD 錢形與兩個雷朋"},
+{id:191893,title:"IDOLiSH7: First BEAT! 劇場版總集篇 後篇"},
 {id:191967,title:"地獄老師 (2025) Part 2"},
 {id:191974,title:"鯤吞天下之掌門歸來"},
 {id:191994,title:"Cardfight!! Vanguard: Divinez Deluxe決勝篇"},
@@ -8495,6 +8497,7 @@ var database = [
 {id:209982,title:"パイハメ家族"},
 {id:209983,title:"地獄模式 ～喜歡挑戰特殊成就的玩家在廢設定的異世界成為無雙～ 2nd Season"},
 {id:210031,title:"相反的你和我 第二季"},
+{id:210071,title:"ライヒト調査録"},
 {id:210116,title:"彼の知らない秘密を入れて。 The Animation"},
 {id:210234,title:"吞噬魔物的冒險者"},
 {id:210375,title:"大賢者里德爾的時間逆行"},

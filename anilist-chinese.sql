@@ -2,7 +2,7 @@
 -- PostgreSQL database dump
 --
 
-\restrict J5117W0amktf46nCCtOBTX2Pc32H1oC8wqz0nIpntLyxlee9p7F47hqSeLDtSMs
+\restrict 2H5pEctxb9g85RadybS0uZYJv9r44pECHk9cGSydt76T06FygLZaj3x7ivfzgBl
 
 -- Dumped from database version 18.3 (Debian 18.3-1.pgdg13+1)
 -- Dumped by pg_dump version 18.3 (Debian 18.3-1.pgdg13+1)
@@ -6569,6 +6569,7 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 158704	{"title": {"chinese": "我的推是壞人大小姐。"}, "synonyms_chinese": []}
 158709	{"title": {"chinese": "Unnamed Memory"}, "synonyms_chinese": ["無名記憶"]}
 158791	{"title": {"chinese": "烈焰先鋒 救國的橘衣消防員"}, "synonyms_chinese": []}
+210071	{"title": {"chinese": "ライヒト調査録"}, "synonyms_chinese": []}
 158895	{"title": {"chinese": "Arknights 冬隱歸路"}, "synonyms_chinese": ["明日方舟：冬隱歸路"]}
 158896	{"title": {"chinese": "SAND LAND"}, "synonyms_chinese": ["沙漠大冒險"]}
 158898	{"title": {"chinese": "夜櫻家大作戰"}, "synonyms_chinese": []}
@@ -6741,6 +6742,7 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 166996	{"title": {"chinese": "妻ネトリ姦　美術教師の場合"}, "synonyms_chinese": []}
 167087	{"title": {"chinese": "如果 30 歲還是處男，似乎就能成為魔法師"}, "synonyms_chinese": []}
 167140	{"title": {"chinese": "英雄教室 OVA"}, "synonyms_chinese": []}
+186346	{"title": {"chinese": "IDOLiSH7: First BEAT! 劇場版總集篇 前篇"}, "synonyms_chinese": []}
 167141	{"title": {"chinese": "Sword Art Online Alternative Gun Gale Online II"}, "synonyms_chinese": ["刀劍神域外傳 Gun Gale Online II"]}
 167144	{"title": {"chinese": "雙生戀情密不可分"}, "synonyms_chinese": []}
 167146	{"title": {"chinese": "百千家的妖怪王子"}, "synonyms_chinese": []}
@@ -7531,6 +7533,7 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 8208	{"title": {"chinese": "地獄老師"}, "synonyms_chinese": []}
 185715	{"title": {"chinese": "SHIBUYA♡HACHI 第三季"}, "synonyms_chinese": []}
 171145	{"title": {"chinese": "蠟筆小新 我們的恐龍日記"}, "synonyms_chinese": []}
+191893	{"title": {"chinese": "IDOLiSH7: First BEAT! 劇場版總集篇 後篇"}, "synonyms_chinese": []}
 189513	{"title": {"chinese": "葬送的芙莉蓮 ～●●の魔法～2"}, "synonyms_chinese": []}
 930	{"title": {"chinese": "傳說巨神伊迪安"}, "synonyms_chinese": []}
 2761	{"title": {"chinese": "傳說巨神伊迪安 發動篇"}, "synonyms_chinese": []}
@@ -8553,5 +8556,5 @@ ALTER TABLE ONLY public.anilist_chinese
 -- PostgreSQL database dump complete
 --
 
-\unrestrict J5117W0amktf46nCCtOBTX2Pc32H1oC8wqz0nIpntLyxlee9p7F47hqSeLDtSMs
+\unrestrict 2H5pEctxb9g85RadybS0uZYJv9r44pECHk9cGSydt76T06FygLZaj3x7ivfzgBl
 
