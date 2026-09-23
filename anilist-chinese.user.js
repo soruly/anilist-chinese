@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      3.2026.9.22
+// @version      3.2026.9.23
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -8178,6 +8178,7 @@ var database = [
 {id:187316,title:"幻想水滸傳"},
 {id:187317,title:"AS ONE"},
 {id:187331,title:"小手指同學，請別亂摸"},
+{id:187375,title:"The IDOLM@STER Million Live! OVA"},
 {id:187387,title:"陰陽迴天 Re:Birth Verse"},
 {id:187402,title:"轉生後的大聖女，極力隱瞞聖女的身分"},
 {id:187404,title:"朝まで汁だく母娘丼！！"},
@@ -8425,6 +8426,7 @@ var database = [
 {id:204011,title:"PSYREN ～決戰遊戲～"},
 {id:204060,title:"鐵鍋料理王"},
 {id:204269,title:"小鯊鯊出門去 第二季"},
+{id:204270,title:"EVA新世紀福音戰士 30週年紀念"},
 {id:204319,title:"這樣高大的女孩子你喜歡嗎？"},
 {id:204349,title:"百姓貴族 第三季 OVA"},
 {id:204361,title:"新烏龍派出所"},

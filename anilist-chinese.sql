@@ -2,7 +2,7 @@
 -- PostgreSQL database dump
 --
 
-\restrict 2H5pEctxb9g85RadybS0uZYJv9r44pECHk9cGSydt76T06FygLZaj3x7ivfzgBl
+\restrict j3FNh9saZWhnt69XBgVS8jNmAZgBJUCSvlQZTV9QCRhm0cPETfqTKIAfiZgeN7M
 
 -- Dumped from database version 18.3 (Debian 18.3-1.pgdg13+1)
 -- Dumped by pg_dump version 18.3 (Debian 18.3-1.pgdg13+1)
@@ -7764,6 +7764,7 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 179852	{"title": {"chinese": "劇場版 物怪 火鼠"}, "synonyms_chinese": []}
 182587	{"title": {"chinese": "【我推的孩子】第三季"}, "synonyms_chinese": []}
 179930	{"title": {"chinese": "Undead Unluck 冬季篇"}, "synonyms_chinese": ["不死不運 凜冬篇"]}
+204270	{"title": {"chinese": "EVA新世紀福音戰士 30週年紀念"}, "synonyms_chinese": []}
 156110	{"title": {"chinese": "仙王的日常生活 第四季"}, "synonyms_chinese": []}
 200556	{"title": {"chinese": "High School! 奇面組"}, "synonyms_chinese": ["高校！奇面組"]}
 163144	{"title": {"chinese": "TRIGUN STARGAZE"}, "synonyms_chinese": []}
@@ -7784,6 +7785,7 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 159981	{"title": {"chinese": "Future Kid Takara"}, "synonyms_chinese": []}
 194884	{"title": {"chinese": "輝夜姬想讓人告白 邁向大人的階梯"}, "synonyms_chinese": []}
 182206	{"title": {"chinese": "劇場版 關於我轉生變成史萊姆這檔事 蒼海之淚篇"}, "synonyms_chinese": []}
+187375	{"title": {"chinese": "The IDOLM@STER Million Live! OVA"}, "synonyms_chinese": []}
 198368	{"title": {"chinese": "多啦A夢：新大雄的海底鬼岩城"}, "synonyms_chinese": []}
 185753	{"title": {"chinese": "MF GHOST Season 3"}, "synonyms_chinese": ["燃油車鬥魂 第三季"]}
 186333	{"title": {"chinese": "魔術師庫諾看得見一切"}, "synonyms_chinese": []}
@@ -8556,5 +8558,5 @@ ALTER TABLE ONLY public.anilist_chinese
 -- PostgreSQL database dump complete
 --
 
-\unrestrict 2H5pEctxb9g85RadybS0uZYJv9r44pECHk9cGSydt76T06FygLZaj3x7ivfzgBl
+\unrestrict j3FNh9saZWhnt69XBgVS8jNmAZgBJUCSvlQZTV9QCRhm0cPETfqTKIAfiZgeN7M
 
