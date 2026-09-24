@@ -2,7 +2,7 @@
 -- PostgreSQL database dump
 --
 
-\restrict j3FNh9saZWhnt69XBgVS8jNmAZgBJUCSvlQZTV9QCRhm0cPETfqTKIAfiZgeN7M
+\restrict LIdc89liy6gS3jbjJvOjMqaIOL6ibrpZR86QOmraRobBnElXqDPE7InDNFXNFL9
 
 -- Dumped from database version 18.3 (Debian 18.3-1.pgdg13+1)
 -- Dumped by pg_dump version 18.3 (Debian 18.3-1.pgdg13+1)
@@ -7803,6 +7803,7 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 185039	{"title": {"chinese": "透明男子與人類女孩"}, "synonyms_chinese": []}
 185514	{"title": {"chinese": "蘑菇魔女"}, "synonyms_chinese": []}
 141852	{"title": {"chinese": "仙王的日常生活 第三季"}, "synonyms_chinese": []}
+166703	{"title": {"chinese": "機動戰士 Gundam 復仇的鎮魂曲"}, "synonyms_chinese": []}
 98574	{"title": {"chinese": "一人之下 2"}, "synonyms_chinese": []}
 172463	{"title": {"chinese": "咒術迴戰 死滅洄游 前篇"}, "synonyms_chinese": []}
 204584	{"title": {"chinese": "Princess Principal: Crown Handler 第5章"}, "synonyms_chinese": []}
@@ -8558,5 +8559,5 @@ ALTER TABLE ONLY public.anilist_chinese
 -- PostgreSQL database dump complete
 --
 
-\unrestrict j3FNh9saZWhnt69XBgVS8jNmAZgBJUCSvlQZTV9QCRhm0cPETfqTKIAfiZgeN7M
+\unrestrict LIdc89liy6gS3jbjJvOjMqaIOL6ibrpZR86QOmraRobBnElXqDPE7InDNFXNFL9
 

@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      3.2026.9.23
+// @version      3.2026.9.24
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -7537,6 +7537,7 @@ var database = [
 {id:166617,title:"Fate/strange Fake"},
 {id:166699,title:"在沖繩喜歡上的女孩方言講得太過令人困擾"},
 {id:166700,title:"黃昏光影"},
+{id:166703,title:"機動戰士 Gundam 復仇的鎮魂曲"},
 {id:166710,title:"異世界 Suicide Squad"},
 {id:166715,title:"黑執事 寄宿學校篇"},
 {id:166794,title:"指尖相觸，戀戀不捨"},
