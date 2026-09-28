@@ -2,7 +2,7 @@
 -- PostgreSQL database dump
 --
 
-\restrict jt500EL4JKXJT1g76msR0M00UO7jAS8ISrMt5g1bUu2mz9SZf9dXbPbzS2wy86m
+\restrict 0Dzs7BYZ9YZa8moHVYDLRXmOvKJDlr6hrrMnfWj3i0aJAfmWUUPL6AHle6SEg75
 
 -- Dumped from database version 18.6 (Debian 18.6-1.pgdg13+2)
 -- Dumped by pg_dump version 18.6 (Debian 18.6-1.pgdg13+2)
@@ -2103,6 +2103,7 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 8795	{"title": {"chinese": "Panty & Stocking with Garterbelt"}, "synonyms_chinese": ["吊帶襪天使"]}
 8837	{"title": {"chinese": "対魔忍アサギ SP"}, "synonyms_chinese": []}
 8841	{"title": {"chinese": "這樣算是殭屍嗎？"}, "synonyms_chinese": ["這就是殭屍嗎？", "這個是殭屍嗎？"]}
+216558	{"title": {"chinese": "出門走走 Hololive"}, "synonyms_chinese": []}
 8857	{"title": {"chinese": "日常 EP 0"}, "synonyms_chinese": []}
 8861	{"title": {"chinese": "緣之空"}, "synonyms_chinese": []}
 8876	{"title": {"chinese": "天籟之音"}, "synonyms_chinese": ["聲優初體驗！", "打工聲優！"]}
@@ -5724,7 +5725,6 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 120180	{"title": {"chinese": "忍者 Collection"}, "synonyms_chinese": []}
 120209	{"title": {"chinese": "轉生成女性向遊戲只有毀滅END的壞人大小姐 X"}, "synonyms_chinese": ["轉生惡役只好拔除破滅旗標 X", "轉生成為了只有乙女遊戲破滅Flag的邪惡大小姐 X"]}
 120376	{"title": {"chinese": "美麗新世界"}, "synonyms_chinese": []}
-120377	{"title": {"chinese": "Cyberpunk Edgerunners"}, "synonyms_chinese": []}
 120506	{"title": {"chinese": "浮気と本気 THE ANIMATION"}, "synonyms_chinese": []}
 120534	{"title": {"chinese": "大運動會 ReSTART!"}, "synonyms_chinese": []}
 120608	{"title": {"chinese": "暗黑企業的迷宮"}, "synonyms_chinese": []}
@@ -6116,7 +6116,6 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 137908	{"title": {"chinese": "治癒魔法的錯誤使用法"}, "synonyms_chinese": []}
 137909	{"title": {"chinese": "不相信人類的冒險者們好像要去拯救世界"}, "synonyms_chinese": []}
 138056	{"title": {"chinese": "終末的女武神 II"}, "synonyms_chinese": []}
-138060	{"title": {"chinese": "Star Wars: Visions"}, "synonyms_chinese": []}
 138063	{"title": {"chinese": "ShowTime！唱歌的大姐姐也想做"}, "synonyms_chinese": []}
 138103	{"title": {"chinese": "流汗吧！健身少女 SP"}, "synonyms_chinese": ["肌肉少女：啞鈴，能舉多少公斤？ SP"]}
 138360	{"title": {"chinese": "アネハメ 俺の初恋が実姉なわけがない"}, "synonyms_chinese": []}
@@ -7727,7 +7726,6 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 194447	{"title": {"chinese": "異世界四重奏 3"}, "synonyms_chinese": []}
 186161	{"title": {"chinese": "跨越種族與你相戀"}, "synonyms_chinese": []}
 140337	{"title": {"chinese": "佐賀偶像是傳奇 夢銀河是天堂"}, "synonyms_chinese": []}
-184642	{"title": {"chinese": "Star Wars: Visions Volume 3"}, "synonyms_chinese": []}
 188522	{"title": {"chinese": "角落小夥伴電影版：空中的王國與兩位小夥伴"}, "synonyms_chinese": []}
 185773	{"title": {"chinese": "Scarlet 永無止境的史嘉蕾"}, "synonyms_chinese": []}
 177686	{"title": {"chinese": "鳳仙花"}, "synonyms_chinese": []}
@@ -7764,6 +7762,8 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 179852	{"title": {"chinese": "劇場版 物怪 火鼠"}, "synonyms_chinese": []}
 182587	{"title": {"chinese": "【我推的孩子】第三季"}, "synonyms_chinese": []}
 179930	{"title": {"chinese": "Undead Unluck 冬季篇"}, "synonyms_chinese": ["不死不運 凜冬篇"]}
+217126	{"title": {"chinese": "名偵探柯南 第 30 號殺人事件"}, "synonyms_chinese": []}
+204389	{"title": {"chinese": "野生的大魔王出現了！第二季"}, "synonyms_chinese": []}
 204270	{"title": {"chinese": "EVA新世紀福音戰士 30週年紀念"}, "synonyms_chinese": []}
 156110	{"title": {"chinese": "仙王的日常生活 第四季"}, "synonyms_chinese": []}
 200556	{"title": {"chinese": "High School! 奇面組"}, "synonyms_chinese": ["高校！奇面組"]}
@@ -7784,6 +7784,7 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 176370	{"title": {"chinese": "公主殿下，「拷問」的時間到了 第二季"}, "synonyms_chinese": []}
 159981	{"title": {"chinese": "Future Kid Takara"}, "synonyms_chinese": []}
 194884	{"title": {"chinese": "輝夜姬想讓人告白 邁向大人的階梯"}, "synonyms_chinese": []}
+195516	{"title": {"chinese": "藥師少女的獨語 第三季"}, "synonyms_chinese": []}
 182206	{"title": {"chinese": "劇場版 關於我轉生變成史萊姆這檔事 蒼海之淚篇"}, "synonyms_chinese": []}
 187375	{"title": {"chinese": "The IDOLM@STER Million Live! OVA"}, "synonyms_chinese": []}
 198368	{"title": {"chinese": "多啦A夢：新大雄的海底鬼岩城"}, "synonyms_chinese": []}
@@ -7794,6 +7795,7 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 189259	{"title": {"chinese": "有栖川煉其實是個女生吧。"}, "synonyms_chinese": []}
 194028	{"title": {"chinese": "可以幫忙洗乾淨嗎？"}, "synonyms_chinese": []}
 183984	{"title": {"chinese": "阿爾涅事件簿"}, "synonyms_chinese": []}
+210482	{"title": {"chinese": "JOJO的奇妙冒險：飆馬野郎 2nd＆3rd STAGE"}, "synonyms_chinese": []}
 194318	{"title": {"chinese": "鎧真傳 Samurai Troopers"}, "synonyms_chinese": []}
 195515	{"title": {"chinese": "身為魔族的我 想向勇者小隊的可愛女孩告白"}, "synonyms_chinese": []}
 182771	{"title": {"chinese": "優雅貴族的休假指南。"}, "synonyms_chinese": []}
@@ -7803,7 +7805,20 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 185039	{"title": {"chinese": "透明男子與人類女孩"}, "synonyms_chinese": []}
 185514	{"title": {"chinese": "蘑菇魔女"}, "synonyms_chinese": []}
 141852	{"title": {"chinese": "仙王的日常生活 第三季"}, "synonyms_chinese": []}
+191788	{"title": {"chinese": "青之蘆葦 第二季"}, "synonyms_chinese": []}
 166703	{"title": {"chinese": "機動戰士 Gundam 復仇的鎮魂曲"}, "synonyms_chinese": []}
+198727	{"title": {"chinese": "彈珠汽水瓶裡的千歲同學 Part 2"}, "synonyms_chinese": []}
+213805	{"title": {"chinese": "冰之城牆 第二季"}, "synonyms_chinese": []}
+176909	{"title": {"chinese": ""}, "synonyms_chinese": []}
+212503	{"title": {"chinese": "冰劍的魔術師將要統一世界 II"}, "synonyms_chinese": []}
+213657	{"title": {"chinese": "夜櫻家大作戰 第二季 Part 2"}, "synonyms_chinese": []}
+214703	{"title": {"chinese": "幽靈遇到辣妹"}, "synonyms_chinese": []}
+191656	{"title": {"chinese": "學生會也有洞！"}, "synonyms_chinese": []}
+210687	{"title": {"chinese": "Re:從零開始的休憩時間 第四季"}, "synonyms_chinese": []}
+209502	{"title": {"chinese": "冷淡的佐藤同學只對我撒嬌"}, "synonyms_chinese": []}
+213658	{"title": {"chinese": "鑽石王牌 Act II 第二季 Part 2"}, "synonyms_chinese": []}
+212144	{"title": {"chinese": "獻上聖女最誠摯的復仇 第二季"}, "synonyms_chinese": []}
+216645	{"title": {"chinese": "意呆利 World Stars (2026)"}, "synonyms_chinese": []}
 98574	{"title": {"chinese": "一人之下 2"}, "synonyms_chinese": []}
 172463	{"title": {"chinese": "咒術迴戰 死滅洄游 前篇"}, "synonyms_chinese": []}
 204584	{"title": {"chinese": "Princess Principal: Crown Handler 第5章"}, "synonyms_chinese": []}
@@ -7811,7 +7826,6 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 187892	{"title": {"chinese": "ALL YOU NEED IS KILL"}, "synonyms_chinese": []}
 199112	{"title": {"chinese": "我們不可能成為戀人！絕對不行。（※似乎可行？）～NextShine～"}, "synonyms_chinese": []}
 195322	{"title": {"chinese": "正義使者 - 我的英雄學院之非法英雄 第二季"}, "synonyms_chinese": []}
-167152	{"title": {"chinese": "判處勇者刑"}, "synonyms_chinese": []}
 178005	{"title": {"chinese": "現在的是哪一個多聞！？"}, "synonyms_chinese": []}
 177385	{"title": {"chinese": "異國日記"}, "synonyms_chinese": []}
 177580	{"title": {"chinese": "花樣少年少女"}, "synonyms_chinese": []}
@@ -7859,6 +7873,7 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 195494	{"title": {"chinese": "家 —成年的分界線—"}, "synonyms_chinese": []}
 11385	{"title": {"chinese": "Digimon Xros Wars ～邪惡的死亡指揮官與七個王國～"}, "synonyms_chinese": []}
 10444	{"title": {"chinese": "Digimon Xros Wars ～穿越時空的少年獵人們～"}, "synonyms_chinese": []}
+211877	{"title": {"chinese": "女友的朋友"}, "synonyms_chinese": []}
 108981	{"title": {"chinese": "全職高手之巔峰榮耀"}, "synonyms_chinese": []}
 179333	{"title": {"chinese": "「1分間だけ挿れてもいいよ…」シェアハウスの秘密ルール。"}, "synonyms_chinese": []}
 8624	{"title": {"chinese": "Digimon Xros Wars"}, "synonyms_chinese": ["數碼暴龍合體大作戰", "數碼寶貝大匯戰", "數碼寶貝06合體戰爭"]}
@@ -7876,6 +7891,7 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 4765	{"title": {"chinese": "GUNSLINGER GIRL -IL TEATRINO- OVA"}, "synonyms_chinese": []}
 5351	{"title": {"chinese": "機動戦士ガンダム00-天使たちの軌跡"}, "synonyms_chinese": []}
 2464	{"title": {"chinese": "吉永家的石像怪 SP"}, "synonyms_chinese": []}
+211778	{"title": {"chinese": "世界最強的魔女，就此開始"}, "synonyms_chinese": []}
 168810	{"title": {"chinese": "けものっ娘通信〜The Animation〜 狸娘ポコラ"}, "synonyms_chinese": []}
 21852	{"title": {"chinese": "To LOVE-Ru Darkness 2 Specials"}, "synonyms_chinese": ["出包王女 DARKNESS 第二季 SP", "茶煲情緣To LOVEるDARKNESS 第二季 SP", "戀愛大麻煩 DARKNESS 第二季 SP"]}
 98621	{"title": {"chinese": "sin 七大罪 懺悔錄"}, "synonyms_chinese": []}
@@ -7917,10 +7933,18 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 198705	{"title": {"chinese": "全職高手 第四季"}, "synonyms_chinese": []}
 113290	{"title": {"chinese": "伍六七之最強髮型師"}, "synonyms_chinese": []}
 121467	{"title": {"chinese": "魔道祖師 第三季"}, "synonyms_chinese": []}
+205896	{"title": {"chinese": "和沒有信徒的女神大人一起攻略異世界"}, "synonyms_chinese": []}
+209463	{"title": {"chinese": "來自遠方"}, "synonyms_chinese": []}
+212799	{"title": {"chinese": "七葉樹王國的七名騎士"}, "synonyms_chinese": []}
+209032	{"title": {"chinese": "魔法姊妹露露特莉莉 Part 2"}, "synonyms_chinese": []}
 137726	{"title": {"chinese": "全職法師 第六季"}, "synonyms_chinese": []}
+213068	{"title": {"chinese": "獸王武神丹帝拜恩"}, "synonyms_chinese": []}
 21818	{"title": {"chinese": "愛神巧克力"}, "synonyms_chinese": []}
 159490	{"title": {"chinese": "伍六七之暗影宿命"}, "synonyms_chinese": []}
 185726	{"title": {"chinese": "全職高手榮耀小劇場"}, "synonyms_chinese": []}
+209642	{"title": {"chinese": "劇場版前橋魔女～魔女見習生的情懷回憶～"}, "synonyms_chinese": []}
+216557	{"title": {"chinese": "KERORO 軍曹☆"}, "synonyms_chinese": []}
+212888	{"title": {"chinese": "裝備仔"}, "synonyms_chinese": []}
 115800	{"title": {"chinese": "全職法師 第四季"}, "synonyms_chinese": []}
 199353	{"title": {"chinese": "大王饒命 第三季"}, "synonyms_chinese": []}
 166442	{"title": {"chinese": "超能立方"}, "synonyms_chinese": []}
@@ -7988,14 +8012,29 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 153424	{"title": {"chinese": "斗羅大陸 敵影來襲"}, "synonyms_chinese": []}
 157127	{"title": {"chinese": "斗羅大陸 戰鼓暫歇"}, "synonyms_chinese": []}
 163821	{"title": {"chinese": "斗羅大陸 海神傳承"}, "synonyms_chinese": []}
+208367	{"title": {"chinese": "Duel Masters LOST ～斷罪的少年～"}, "synonyms_chinese": []}
+187990	{"title": {"chinese": "Battle Spirits [Re] 絕界之空"}, "synonyms_chinese": []}
 155092	{"title": {"chinese": "斗羅大陸 怒世鏖戰"}, "synonyms_chinese": []}
+213298	{"title": {"chinese": "悠哉悠哉圖鑑"}, "synonyms_chinese": []}
+121802	{"title": {"chinese": "小狸貓和小狐狸"}, "synonyms_chinese": []}
 129350	{"title": {"chinese": "斗羅大陸 星斗獻祭"}, "synonyms_chinese": []}
+179292	{"title": {"chinese": "軟軟噗尼寵物小精靈 2"}, "synonyms_chinese": []}
+216860	{"title": {"chinese": "軟軟噗尼寵物小精靈 4"}, "synonyms_chinese": []}
+199337	{"title": {"chinese": "真･武士傳 YAIBA 第二季"}, "synonyms_chinese": []}
+202282	{"title": {"chinese": "迪士尼 扭曲仙境 THE ANIMATION - Season 2: EPISODE of SAVANACLAW"}, "synonyms_chinese": []}
+200929	{"title": {"chinese": "劇場版 藥師少女的獨語 亡妃的祕寶"}, "synonyms_chinese": []}
 155093	{"title": {"chinese": "斗羅大陸 唐門絶頂"}, "synonyms_chinese": []}
 163823	{"title": {"chinese": "斗羅大陸 七情考驗"}, "synonyms_chinese": []}
+138060	{"title": {"chinese": "Star Wars: Visions"}, "synonyms_chinese": ["星際大戰：視界", "星際大戰：幻象", "星際大戰：幻境"]}
+200927	{"title": {"chinese": "藥師少女的獨語 第三季 Part 2"}, "synonyms_chinese": []}
+213847	{"title": {"chinese": "第九位絕地"}, "synonyms_chinese": [""]}
 137761	{"title": {"chinese": "斗羅大陸 重返昊天"}, "synonyms_chinese": []}
 129347	{"title": {"chinese": "斗羅大陸 昊天揚威"}, "synonyms_chinese": []}
+170508	{"title": {"chinese": "貓貓的獨語"}, "synonyms_chinese": []}
 154150	{"title": {"chinese": "斗羅大陸 怒世磨戰"}, "synonyms_chinese": []}
+213457	{"title": {"chinese": "愚者之夜"}, "synonyms_chinese": []}
 152213	{"title": {"chinese": "斗羅大陸 奔赴前綫"}, "synonyms_chinese": []}
+120377	{"title": {"chinese": "Cyberpunk Edgerunners"}, "synonyms_chinese": ["電馭叛客：邊緣行者"]}
 156085	{"title": {"chinese": "區區不才，在下野怪"}, "synonyms_chinese": []}
 110595	{"title": {"chinese": "一念永恆"}, "synonyms_chinese": []}
 168163	{"title": {"chinese": "鬥破蒼穹 年番2"}, "synonyms_chinese": []}
@@ -8060,6 +8099,7 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 6275	{"title": {"chinese": "寵物小精靈 不可思議的迷宮 天空探險隊"}, "synonyms_chinese": []}
 17873	{"title": {"chinese": "寵物小精靈 超級願望 第二季 Da！"}, "synonyms_chinese": []}
 158871	{"title": {"chinese": "Pocket Monsters (2023)"}, "synonyms_chinese": ["寵物小精靈 地平線"]}
+155526	{"title": {"chinese": "軟軟噗尼寵物小精靈"}, "synonyms_chinese": []}
 20159	{"title": {"chinese": "寵物小精靈 THE ORIGIN"}, "synonyms_chinese": []}
 126294	{"title": {"chinese": "寵物小精靈 不可思議的迷宮 偉大之門與∞迷宮"}, "synonyms_chinese": []}
 106499	{"title": {"chinese": "寵物小精靈 XY&Z 特別篇"}, "synonyms_chinese": []}
@@ -8113,8 +8153,15 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 138	{"title": {"chinese": "HUNTER×HUNTER: Greed Island"}, "synonyms_chinese": []}
 516	{"title": {"chinese": "Keroro軍曹"}, "synonyms_chinese": []}
 2402	{"title": {"chinese": "鐵拳浪子"}, "synonyms_chinese": []}
+188653	{"title": {"chinese": "軟軟噗尼寵物小精靈 3"}, "synonyms_chinese": []}
+189323	{"title": {"chinese": "香格里拉・開拓異境～糞作獵手挑戰神作～ 第三季"}, "synonyms_chinese": []}
 2920	{"title": {"chinese": "鐵拳浪子 (電影)"}, "synonyms_chinese": []}
 2922	{"title": {"chinese": "鐵拳浪子 2 (電影)"}, "synonyms_chinese": []}
+186148	{"title": {"chinese": "貓貓的獨語 第二季"}, "synonyms_chinese": []}
+212539	{"title": {"chinese": "章魚嗶的原罪 －謝謝你，明天見－"}, "synonyms_chinese": []}
+204561	{"title": {"chinese": "甜甜仙子 夢想之所向 真心的二重奏"}, "synonyms_chinese": []}
+195539	{"title": {"chinese": "Cyberpunk Edgerunners 2"}, "synonyms_chinese": ["電馭叛客：邊緣行者 2"]}
+184642	{"title": {"chinese": "Star Wars: Visions Volume 3"}, "synonyms_chinese": [""]}
 2125	{"title": {"chinese": "幽遊白書 映像白書 暗黑武術會之章"}, "synonyms_chinese": []}
 6964	{"title": {"chinese": "幽遊白書 Picture Drama"}, "synonyms_chinese": []}
 98582	{"title": {"chinese": "鑽石王牌 第二季 OVA"}, "synonyms_chinese": []}
@@ -8123,7 +8170,6 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 129608	{"title": {"chinese": "The Big O (2003)"}, "synonyms_chinese": []}
 687	{"title": {"chinese": "東京喵喵"}, "synonyms_chinese": []}
 136	{"title": {"chinese": "HUNTER×HUNTER"}, "synonyms_chinese": ["全職獵人"]}
-202282	{"title": {"chinese": "迪士尼 扭曲仙境 THE ANIMATION - Season 2: EPISODE of SAVANACLAW"}, "synonyms_chinese": []}
 139	{"title": {"chinese": "HUNTER×HUNTER: G・I Final"}, "synonyms_chinese": []}
 953	{"title": {"chinese": "獸王星"}, "synonyms_chinese": []}
 1212	{"title": {"chinese": "Oban Star-Racers"}, "synonyms_chinese": []}
@@ -8175,6 +8221,30 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 191884	{"title": {"chinese": "LUPIN THE IIIRD 錢形與兩個雷朋"}, "synonyms_chinese": []}
 110413	{"title": {"chinese": "Lupin III: THE FIRST"}, "synonyms_chinese": []}
 7598	{"title": {"chinese": "Loups=Garous 應避開的狼"}, "synonyms_chinese": []}
+169579	{"title": {"chinese": "世界頂尖的暗殺者轉生為異世界貴族 第二季"}, "synonyms_chinese": []}
+211070	{"title": {"chinese": "筆、手銬和事實婚"}, "synonyms_chinese": []}
+210199	{"title": {"chinese": "殺手寓言 第二季"}, "synonyms_chinese": []}
+209661	{"title": {"chinese": "打雜賦予術師察覺到自己最強"}, "synonyms_chinese": []}
+209224	{"title": {"chinese": "遊戲世界轉生〈地職〉 ~玩家從〈New Game〉遊玩【地下城就職指南】~"}, "synonyms_chinese": []}
+208766	{"title": {"chinese": "祝福 BLESS"}, "synonyms_chinese": []}
+207328	{"title": {"chinese": "悠久愚者．阿茲利的賢者之道"}, "synonyms_chinese": []}
+205130	{"title": {"chinese": "歷史之眼"}, "synonyms_chinese": []}
+204363	{"title": {"chinese": "SAKAMOTO DAYS 第二季"}, "synonyms_chinese": ["SAKAMOTO DAYS 坂本日常 第二季"]}
+200578	{"title": {"chinese": "一式警花動了戀心。"}, "synonyms_chinese": []}
+188892	{"title": {"chinese": "黑岩目高不把我的可愛放在眼裡 第二季"}, "synonyms_chinese": []}
+186822	{"title": {"chinese": "我在意的對象並不是男人"}, "synonyms_chinese": []}
+186741	{"title": {"chinese": "公主騎士的小白臉"}, "synonyms_chinese": []}
+185699	{"title": {"chinese": "拉麵赤貓 第二季"}, "synonyms_chinese": []}
+209939	{"title": {"chinese": "葬送的芙莉蓮 第三季"}, "synonyms_chinese": []}
+213655	{"title": {"chinese": "LONA"}, "synonyms_chinese": []}
+193296	{"title": {"chinese": "天下第一 日本最強武術家決定戰"}, "synonyms_chinese": []}
+214380	{"title": {"chinese": "機動戰士鋼彈 RG XARX-ZERO"}, "synonyms_chinese": []}
+141922	{"title": {"chinese": "尚善"}, "synonyms_chinese": []}
+199597	{"title": {"chinese": "幼稚園 WARS"}, "synonyms_chinese": []}
+214049	{"title": {"chinese": "傷口與繃帶"}, "synonyms_chinese": []}
+213877	{"title": {"chinese": "蝙蝠殺手"}, "synonyms_chinese": []}
+213497	{"title": {"chinese": "啟程的魔王城"}, "synonyms_chinese": []}
+202253	{"title": {"chinese": "死亡擱淺：孤立無援"}, "synonyms_chinese": []}
 20978	{"title": {"chinese": "LUPIN THE IIIRD 次元大介的墓碑"}, "synonyms_chinese": []}
 1419	{"title": {"chinese": "雷朋三世 去死吧！諾斯特拉達姆斯"}, "synonyms_chinese": []}
 2848	{"title": {"chinese": "河童之夏"}, "synonyms_chinese": []}
@@ -8234,13 +8304,64 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 610	{"title": {"chinese": "蒲公英之戀"}, "synonyms_chinese": []}
 157883	{"title": {"chinese": "開闊天空！光之美少女"}, "synonyms_chinese": []}
 196223	{"title": {"chinese": "人造人 009 涅墨西斯"}, "synonyms_chinese": []}
+174427	{"title": {"chinese": "末世孤雄"}, "synonyms_chinese": []}
+213360	{"title": {"chinese": "朱音落語 第二季"}, "synonyms_chinese": []}
+213052	{"title": {"chinese": "愛情接合器"}, "synonyms_chinese": []}
+211258	{"title": {"chinese": "賢者大叔的異世界生活日記"}, "synonyms_chinese": []}
+199590	{"title": {"chinese": "茉莉花官吏傳"}, "synonyms_chinese": []}
+207251	{"title": {"chinese": "入間同學入魔了！ if Episode of 魔手黨"}, "synonyms_chinese": []}
+204579	{"title": {"chinese": "你是地雷系女子嗎？地原同學"}, "synonyms_chinese": []}
+202564	{"title": {"chinese": "要畫就要來真的"}, "synonyms_chinese": []}
+198728	{"title": {"chinese": "風之繼承者"}, "synonyms_chinese": []}
+197619	{"title": {"chinese": "結界師的一輪華"}, "synonyms_chinese": []}
+196333	{"title": {"chinese": "平屋慢生活"}, "synonyms_chinese": []}
+195350	{"title": {"chinese": "覺醒吧！貓奴"}, "synonyms_chinese": []}
+188546	{"title": {"chinese": "正太哥哥"}, "synonyms_chinese": []}
+185697	{"title": {"chinese": "ARCANADEA 阿爾卡納蒂亞"}, "synonyms_chinese": []}
+187303	{"title": {"chinese": "巨人大小姐"}, "synonyms_chinese": []}
+177704	{"title": {"chinese": "肌肉魔法使-MASHLE- 三魔對爭神覺者最終試驗篇"}, "synonyms_chinese": []}
+181641	{"title": {"chinese": "不時輕聲地以俄語遮羞的鄰座艾莉同學 第二季"}, "synonyms_chinese": []}
+178031	{"title": {"chinese": "迷宮飯 第二季"}, "synonyms_chinese": []}
+211496	{"title": {"chinese": "神樂鉢"}, "synonyms_chinese": []}
 110788	{"title": {"chinese": "索斯機械獸 激戰本能 ZERO"}, "synonyms_chinese": ["索斯機械獸 Zero", "機獸創世紀 Zero"]}
+210945	{"title": {"chinese": "魔女和傭兵"}, "synonyms_chinese": []}
+185657	{"title": {"chinese": "躍動青春 第二季"}, "synonyms_chinese": []}
+216623	{"title": {"chinese": "電影哆啦A夢：大雄的蒸氣時間車"}, "synonyms_chinese": []}
 147764	{"title": {"chinese": "索斯機械獸 激戰本能 戰記"}, "synonyms_chinese": []}
+210073	{"title": {"chinese": "黃金神威 暴走列車篇"}, "synonyms_chinese": []}
+171630	{"title": {"chinese": "THE ONE PIECE"}, "synonyms_chinese": []}
 764	{"title": {"chinese": "索斯機械獸 III"}, "synonyms_chinese": ["機獸新世紀 ZERO"]}
+194213	{"title": {"chinese": "ghost／夜晚的盡頭"}, "synonyms_chinese": []}
 763	{"title": {"chinese": "索斯機械獸"}, "synonyms_chinese": ["索斯機械獸 II"]}
+202503	{"title": {"chinese": "轉生精靈精通魔法後踏上旅程，因為長壽而成為活生生的傳說"}, "synonyms_chinese": []}
+216624	{"title": {"chinese": "SSS 級死而復生的獵人"}, "synonyms_chinese": []}
+209221	{"title": {"chinese": "異世界轉生騷動記"}, "synonyms_chinese": []}
+197095	{"title": {"chinese": "殘月下的梅賽德斯"}, "synonyms_chinese": []}
+213752	{"title": {"chinese": "婚姻劇毒 第二季"}, "synonyms_chinese": []}
 101228	{"title": {"chinese": "索斯機械獸 激戰本能"}, "synonyms_chinese": ["索斯機械獸 WILD", "機獸新世紀 ZOIDS WILD", "索斯機獸：荒野紀"]}
+194030	{"title": {"chinese": "通過扭蛋增加同伴，組成最強的美少女軍團"}, "synonyms_chinese": []}
 14947	{"title": {"chinese": "奇幻魔法Melody 友 & 愛"}, "synonyms_chinese": []}
 156	{"title": {"chinese": "X"}, "synonyms_chinese": []}
+199150	{"title": {"chinese": ""}, "synonyms_chinese": []}
+193699	{"title": {"chinese": "惡役令孃的中之人"}, "synonyms_chinese": []}
+213469	{"title": {"chinese": "RE:BEL ROBOTICA"}, "synonyms_chinese": []}
+213782	{"title": {"chinese": "索亞菈與魔物之家"}, "synonyms_chinese": []}
+184141	{"title": {"chinese": "失憶投捕 第二季"}, "synonyms_chinese": []}
+211495	{"title": {"chinese": "暴食狂戰士 第二季"}, "synonyms_chinese": []}
+181951	{"title": {"chinese": "狼與辛香料 merchant meets the wise wolf 第二季"}, "synonyms_chinese": []}
+214484	{"title": {"chinese": "千戀＊萬花"}, "synonyms_chinese": [""]}
+212105	{"title": {"chinese": "海波追尋的終幕"}, "synonyms_chinese": []}
+213020	{"title": {"chinese": "重兵裝型女高中生"}, "synonyms_chinese": []}
+213131	{"title": {"chinese": "戀愛吧，假面天使！"}, "synonyms_chinese": []}
+213498	{"title": {"chinese": "用鍋子擋子彈的同時"}, "synonyms_chinese": []}
+187217	{"title": {"chinese": "劇場版 請問您今天要來點兔子嗎？～We Are Family!～"}, "synonyms_chinese": []}
+217331	{"title": {"chinese": "關於我轉生變成史萊姆這檔事 第四季 Part 3"}, "synonyms_chinese": []}
+215856	{"title": {"chinese": "ONE PIECE FILM: BAAD"}, "synonyms_chinese": []}
+182205	{"title": {"chinese": "關於我轉生變成史萊姆這檔事 第四季 Part 1&2"}, "synonyms_chinese": []}
+209247	{"title": {"chinese": "我內心的糟糕念頭 第三季"}, "synonyms_chinese": []}
+215855	{"title": {"chinese": "ONE PIECE FILM: GOD VALLEY"}, "synonyms_chinese": ["航海王劇場版：諸神峽谷"]}
+201388	{"title": {"chinese": "黑暗集會 第二季"}, "synonyms_chinese": []}
+211538	{"title": {"chinese": "偕雲前往北北西"}, "synonyms_chinese": []}
 1668	{"title": {"chinese": "戰鬥陀螺G"}, "synonyms_chinese": ["爆旋陀螺G"]}
 21236	{"title": {"chinese": "戰鬥陀螺Burst"}, "synonyms_chinese": ["爆旋陀螺 擊爆戰魂"]}
 712	{"title": {"chinese": "索斯機械獸 V"}, "synonyms_chinese": ["索斯機械獸 Genesis", "機獸起源"]}
@@ -8304,11 +8425,14 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 181284	{"title": {"chinese": "霧尾粉絲後援會"}, "synonyms_chinese": []}
 195333	{"title": {"chinese": "灰原同學重返過去，開啟所向無敵的第二輪青春遊戲"}, "synonyms_chinese": []}
 202381	{"title": {"chinese": "你又被殺了呢，偵探大人"}, "synonyms_chinese": []}
+170822	{"title": {"chinese": "沒獲得救贖的村民 A，被貴族撿到並寵愛，事實上持有的傳說級神技能也覺醒了"}, "synonyms_chinese": []}
 194116	{"title": {"chinese": "最終樂章 吹響吧！上低音號 後篇"}, "synonyms_chinese": []}
 203448	{"title": {"chinese": "境界觸發者 REBOOT"}, "synonyms_chinese": []}
 177508	{"title": {"chinese": "庫吉馬唱歌的家"}, "synonyms_chinese": []}
+188889	{"title": {"chinese": "魔王軍團性懷不軌"}, "synonyms_chinese": []}
 179874	{"title": {"chinese": "劇場版 物怪 蛇神"}, "synonyms_chinese": []}
 171110	{"title": {"chinese": "小書痴的下剋上：為了成為圖書管理員不擇手段！領主的養女"}, "synonyms_chinese": []}
+213465	{"title": {"chinese": "最弱的我靠〈穿牆 Bug〉翻身～穿過牆壁之後，首次通關獎勵就能無限拿！～"}, "synonyms_chinese": []}
 199221	{"title": {"chinese": "Dr.STONE SCIENCE FUTURE Part 3"}, "synonyms_chinese": []}
 204319	{"title": {"chinese": "這樣高大的女孩子你喜歡嗎？"}, "synonyms_chinese": []}
 206951	{"title": {"chinese": "女神「異世界轉生想成為什麼」我「勇者的肋骨」"}, "synonyms_chinese": []}
@@ -8335,7 +8459,20 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 195734	{"title": {"chinese": "一疊間漫畫咖啡屋生活！"}, "synonyms_chinese": []}
 194393	{"title": {"chinese": "想結束這場「我愛你」的遊戲"}, "synonyms_chinese": []}
 205772	{"title": {"chinese": "Candy Caries"}, "synonyms_chinese": ["蛀在糖糖裡"]}
+186007	{"title": {"chinese": "對馬戰鬼 冥人奇譚"}, "synonyms_chinese": []}
+187261	{"title": {"chinese": "排球少年！！怪物們的去向"}, "synonyms_chinese": []}
+184072	{"title": {"chinese": "搖曳露營△ 第四季"}, "synonyms_chinese": []}
 205054	{"title": {"chinese": "轉生惡女的黑歷史 OVA"}, "synonyms_chinese": []}
+214969	{"title": {"chinese": "小紅帽，在旅途中遇見屍體"}, "synonyms_chinese": []}
+214461	{"title": {"chinese": "我這個真正的聖女遭到放逐。所以這個國家要完蛋了"}, "synonyms_chinese": []}
+213929	{"title": {"chinese": "愛寐七公主"}, "synonyms_chinese": []}
+213106	{"title": {"chinese": "最強魔法師的隱遁計畫"}, "synonyms_chinese": []}
+213740	{"title": {"chinese": "戰奏教室"}, "synonyms_chinese": []}
+214332	{"title": {"chinese": "Studio Cabana 思密錄音室"}, "synonyms_chinese": []}
+98476	{"title": {"chinese": "古書堂事件手帖"}, "synonyms_chinese": []}
+211304	{"title": {"chinese": "眼鏡仔、偶爾、是不良"}, "synonyms_chinese": []}
+185515	{"title": {"chinese": "2.5 次元的誘惑 第二季"}, "synonyms_chinese": []}
+166457	{"title": {"chinese": "國王排名 劇場版"}, "synonyms_chinese": []}
 196840	{"title": {"chinese": "一臉嫌棄給你看胖次 R"}, "synonyms_chinese": []}
 198939	{"title": {"chinese": "轉生成自動販賣機的我今天也在迷宮徘徊 第三季"}, "synonyms_chinese": []}
 201817	{"title": {"chinese": "溜掉的大魚比不上自己釣到的魚"}, "synonyms_chinese": []}
@@ -8367,7 +8504,6 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 185211	{"title": {"chinese": "弱弱老師"}, "synonyms_chinese": []}
 182578	{"title": {"chinese": "夜櫻家大作戰 第二季"}, "synonyms_chinese": []}
 188035	{"title": {"chinese": "最終樂章 吹響吧！上低音號 前篇"}, "synonyms_chinese": []}
-182205	{"title": {"chinese": "關於我轉生變成史萊姆這檔事 第四季"}, "synonyms_chinese": []}
 187402	{"title": {"chinese": "轉生後的大聖女，極力隱瞞聖女的身分"}, "synonyms_chinese": []}
 178707	{"title": {"chinese": "劇場版 魔法科高中的劣等生 四葉繼承篇"}, "synonyms_chinese": []}
 194167	{"title": {"chinese": "LoveLive！蓮之空女學院校園偶像俱樂部"}, "synonyms_chinese": []}
@@ -8401,6 +8537,7 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 207674	{"title": {"chinese": "從後面來的神威先生"}, "synonyms_chinese": []}
 206354	{"title": {"chinese": "全職法師 第七季"}, "synonyms_chinese": []}
 197178	{"title": {"chinese": "ONE PIECE HEROINES"}, "synonyms_chinese": []}
+146608	{"title": {"chinese": "橡色的凪子們"}, "synonyms_chinese": []}
 185542	{"title": {"chinese": "骸骨騎士大人異世界冒險中 第二季"}, "synonyms_chinese": []}
 185692	{"title": {"chinese": "魔法光源股份有限公司 第二季"}, "synonyms_chinese": []}
 186863	{"title": {"chinese": "貓與龍"}, "synonyms_chinese": []}
@@ -8452,15 +8589,30 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 208685	{"title": {"chinese": "關於相同研討會的染谷同學是性感女優這檔事。"}, "synonyms_chinese": []}
 210031	{"title": {"chinese": "相反的你和我 第二季"}, "synonyms_chinese": []}
 169583	{"title": {"chinese": "轉學後班上的清純可愛美少女，竟是小時候玩在一起的哥兒們"}, "synonyms_chinese": []}
+217330	{"title": {"chinese": "關於我轉生變成史萊姆這檔事 克雷曼重生復仇"}, "synonyms_chinese": []}
+103813	{"title": {"chinese": "湯神君沒有朋友"}, "synonyms_chinese": []}
+213656	{"title": {"chinese": "杖與劍的魔劍譚 第三季"}, "synonyms_chinese": []}
+156631	{"title": {"chinese": "Sword Art Online -Integral Domain-"}, "synonyms_chinese": ["劇場版 刀劍神域 -Integral Domain-"]}
+207692	{"title": {"chinese": "淚雨與小夜曲"}, "synonyms_chinese": []}
+169102	{"title": {"chinese": "BEAT & MOTION 搖滾動畫魂"}, "synonyms_chinese": []}
+209762	{"title": {"chinese": "午夜的傾心旋律 第二季"}, "synonyms_chinese": []}
+213580	{"title": {"chinese": "終末的女武神 IV"}, "synonyms_chinese": []}
+216170	{"title": {"chinese": "8月31日的無盡夏天"}, "synonyms_chinese": []}
+213581	{"title": {"chinese": "出租女友 第六季"}, "synonyms_chinese": []}
+209827	{"title": {"chinese": "【我推的孩子】最四季 Final Season"}, "synonyms_chinese": []}
+205444	{"title": {"chinese": "魔女之旅 劇場版"}, "synonyms_chinese": []}
+204604	{"title": {"chinese": "不死不運 第二季"}, "synonyms_chinese": []}
 199111	{"title": {"chinese": "Grand Blue Season 3"}, "synonyms_chinese": ["碧藍之海 第三季"]}
 199748	{"title": {"chinese": "說出這邊交給我你們先走以後十年過去成了傳說。"}, "synonyms_chinese": []}
 202269	{"title": {"chinese": "與奔馳於透明之夜的你，談一場看不見的戀愛。"}, "synonyms_chinese": []}
 209504	{"title": {"chinese": "無用聖女的異世界美食之旅 憑藉隱藏技能召喚露營車"}, "synonyms_chinese": []}
 177699	{"title": {"chinese": "攻殼機動隊 THE GHOST IN THE SHELL"}, "synonyms_chinese": []}
 187260	{"title": {"chinese": "與妳相戀到生命盡頭"}, "synonyms_chinese": []}
+199185	{"title": {"chinese": "盾之勇者成名錄 第五季"}, "synonyms_chinese": []}
 135865	{"title": {"chinese": "幼女戰記 II"}, "synonyms_chinese": []}
 159309	{"title": {"chinese": "女性向遊戲世界對路人角色很不友好 2"}, "synonyms_chinese": []}
 196356	{"title": {"chinese": "不虐待我的繼母與繼姊"}, "synonyms_chinese": []}
+213579	{"title": {"chinese": "凍結地球 第二季"}, "synonyms_chinese": []}
 198946	{"title": {"chinese": "Clevatess II －魔獸之王與虛假的勇者傳承－"}, "synonyms_chinese": []}
 207254	{"title": {"chinese": "雷霆三人組"}, "synonyms_chinese": []}
 209961	{"title": {"chinese": "靠死亡遊戲混飯吃。 44:CLOUDY BEACH"}, "synonyms_chinese": []}
@@ -8468,6 +8620,27 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 208824	{"title": {"chinese": "PLANNOSAURUS 認真古生物部"}, "synonyms_chinese": []}
 206819	{"title": {"chinese": "你與煙火與約定"}, "synonyms_chinese": []}
 202717	{"title": {"chinese": "劇場版 吉伊卡哇 人魚島的秘密"}, "synonyms_chinese": []}
+179998	{"title": {"chinese": "怪獸 8 號 總集篇"}, "synonyms_chinese": []}
+198966	{"title": {"chinese": "DAN DA DAN 第三季"}, "synonyms_chinese": []}
+167152	{"title": {"chinese": "判處勇者刑 懲罰勇者 9004 隊刑務紀錄"}, "synonyms_chinese": []}
+208609	{"title": {"chinese": "骷髏龍的寶貝女兒"}, "synonyms_chinese": []}
+207782	{"title": {"chinese": "轉生為胖惡女後，不知為何被最終 BOSS 王子大人迷戀"}, "synonyms_chinese": []}
+205430	{"title": {"chinese": "被吊銷冒險者執照的大叔，與愛女一起歌頌悠閒人生"}, "synonyms_chinese": []}
+185543	{"title": {"chinese": "非自願的不死冒險者 第二季"}, "synonyms_chinese": []}
+184321	{"title": {"chinese": "雨夜之月"}, "synonyms_chinese": []}
+199404	{"title": {"chinese": "藍色監獄 新英雄大戰"}, "synonyms_chinese": []}
+212456	{"title": {"chinese": "你要不要改當狸貓？"}, "synonyms_chinese": []}
+204286	{"title": {"chinese": "星辰光輝更勝太陽 第二季"}, "synonyms_chinese": []}
+213628	{"title": {"chinese": "殺手青春 第二季"}, "synonyms_chinese": []}
+199793	{"title": {"chinese": "WITCH WATCH 第二季"}, "synonyms_chinese": ["魔女守護者 第二季"]}
+213873	{"title": {"chinese": "我的女兒們身為 S 級冒險者卻是重度父控"}, "synonyms_chinese": []}
+168134	{"title": {"chinese": "花仙子之魔法香對論"}, "synonyms_chinese": []}
+214044	{"title": {"chinese": "與望愛前輩當朋友"}, "synonyms_chinese": []}
+213316	{"title": {"chinese": "冒牌鍊金術師"}, "synonyms_chinese": []}
+213363	{"title": {"chinese": "容易對付的惡魔大人 第二季"}, "synonyms_chinese": []}
+213477	{"title": {"chinese": "歡迎來到實力至上主義的教室 第五季"}, "synonyms_chinese": []}
+214215	{"title": {"chinese": "事實有時是謊言"}, "synonyms_chinese": []}
+214749	{"title": {"chinese": "最喜歡大食！望月小姐"}, "synonyms_chinese": []}
 194829	{"title": {"chinese": "鄉下大叔成為劍聖～只是區區鄉下劍術師傅，成大器的弟子們卻不肯放過我～第二季"}, "synonyms_chinese": []}
 184356	{"title": {"chinese": "盜墓王"}, "synonyms_chinese": []}
 108992	{"title": {"chinese": "MEBIUS DUST"}, "synonyms_chinese": []}
@@ -8491,26 +8664,33 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 176314	{"title": {"chinese": "佐佐木與文鳥小嗶 第二季"}, "synonyms_chinese": []}
 131680	{"title": {"chinese": "黑色五葉草 魔法帝之劍"}, "synonyms_chinese": []}
 184034	{"title": {"chinese": "殺手旅店"}, "synonyms_chinese": []}
+202250	{"title": {"chinese": "用【循環利息】強制收回借出的魔力"}, "synonyms_chinese": []}
+199007	{"title": {"chinese": "尋找殭屍中"}, "synonyms_chinese": []}
+195571	{"title": {"chinese": "朱色假面"}, "synonyms_chinese": []}
 178868	{"title": {"chinese": "魔法騎士雷阿斯 (2026)"}, "synonyms_chinese": []}
+206949	{"title": {"chinese": "亂世千金倪亞・利斯頓轉生為嬌弱千金的弒神武人華麗無雙錄"}, "synonyms_chinese": []}
 186541	{"title": {"chinese": "一覺醒來就有了最強裝備跟太空船 決定以自家獨棟建築為目標當傭兵自由過活"}, "synonyms_chinese": []}
 187316	{"title": {"chinese": "幻想水滸傳"}, "synonyms_chinese": []}
 195604	{"title": {"chinese": "黑色五葉草 第二季"}, "synonyms_chinese": []}
-195571	{"title": {"chinese": "朱紅的假面"}, "synonyms_chinese": []}
-199007	{"title": {"chinese": "殭屍搜尋中"}, "synonyms_chinese": []}
 199426	{"title": {"chinese": "殺手旅店 第二季"}, "synonyms_chinese": []}
-200294	{"title": {"chinese": "超巡！超條先輩"}, "synonyms_chinese": []}
 200455	{"title": {"chinese": "極致軟弱千金小姐，不小心答應了精明未婚夫的賭局"}, "synonyms_chinese": []}
 202079	{"title": {"chinese": "大叔喜歡可愛小玩意"}, "synonyms_chinese": []}
-202250	{"title": {"chinese": "借出的魔力將以【固定限額還款】強制徵收"}, "synonyms_chinese": []}
 203473	{"title": {"chinese": "恐怖收集者"}, "synonyms_chinese": []}
 204011	{"title": {"chinese": "PSYREN ～決戰遊戲～"}, "synonyms_chinese": []}
 194207	{"title": {"chinese": "麵包小偷"}, "synonyms_chinese": []}
 205909	{"title": {"chinese": "螢火蟲的出嫁"}, "synonyms_chinese": []}
-206949	{"title": {"chinese": "亂世千金倪亞．利斯頓 轉生為嬌弱千金的弒神武人華麗無雙錄"}, "synonyms_chinese": []}
 207329	{"title": {"chinese": "被放逐的作弊賦予魔術師享受隨心所欲的第二人生。～不只是武器、我還能賦予萬物「強化點數」，且能照我的意思隨時解除，其他的人沒問題嗎？～"}, "synonyms_chinese": []}
 208025	{"title": {"chinese": "與暗黑召喚師秘密戀愛中"}, "synonyms_chinese": []}
 209219	{"title": {"chinese": "轉生哥布林有什麼問題嗎？"}, "synonyms_chinese": []}
 207191	{"title": {"chinese": "你好，身為魔女的我，被心上人委託製作迷情藥"}, "synonyms_chinese": []}
+200294	{"title": {"chinese": "超巡！超條前輩"}, "synonyms_chinese": [""]}
+209963	{"title": {"chinese": "判處勇者刑 懲罰勇者 9004 隊刑務紀錄 第二季"}, "synonyms_chinese": []}
+209876	{"title": {"chinese": "燃油車鬥魂 最終季"}, "synonyms_chinese": []}
+209132	{"title": {"chinese": "賭徒銀行"}, "synonyms_chinese": []}
+209116	{"title": {"chinese": "J⇔M 殺手幼女"}, "synonyms_chinese": []}
+189796	{"title": {"chinese": "敗北女角太多了！ 第二季"}, "synonyms_chinese": []}
+167151	{"title": {"chinese": "食鏽末世錄 第二季"}, "synonyms_chinese": []}
+166686	{"title": {"chinese": "重組世界 Rebuild World"}, "synonyms_chinese": []}
 209562	{"title": {"chinese": "至高之力 Vertex Force"}, "synonyms_chinese": []}
 157330	{"title": {"chinese": "樂園追放 心之共鳴"}, "synonyms_chinese": []}
 186742	{"title": {"chinese": "暗部共生少女"}, "synonyms_chinese": []}
@@ -8520,11 +8700,39 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 179876	{"title": {"chinese": "DARK MACHINE THE ANIMATION"}, "synonyms_chinese": []}
 203275	{"title": {"chinese": "惡魔紋章"}, "synonyms_chinese": []}
 176373	{"title": {"chinese": "不知火"}, "synonyms_chinese": []}
-198654	{"title": {"chinese": "名偵探光之美少女 (電影)"}, "synonyms_chinese": []}
+198654	{"title": {"chinese": "名偵探光之美少女！不思議之庭與兩人的秘密"}, "synonyms_chinese": []}
+163072	{"title": {"chinese": "Special KID Factory"}, "synonyms_chinese": []}
+137639	{"title": {"chinese": "瘋狂山脈 Naked Peak"}, "synonyms_chinese": []}
+98656	{"title": {"chinese": "YURI!!!on ICE 劇場版 ICE ADOLESCENCE"}, "synonyms_chinese": []}
+195436	{"title": {"chinese": "給性別為「蒙娜麗莎」的你。"}, "synonyms_chinese": []}
+212507	{"title": {"chinese": "月華國奇醫傳"}, "synonyms_chinese": []}
+212391	{"title": {"chinese": "GIGANT"}, "synonyms_chinese": []}
+208610	{"title": {"chinese": "菌和鐵"}, "synonyms_chinese": []}
+179981	{"title": {"chinese": "治癒魔法的錯誤使用法 第二季"}, "synonyms_chinese": []}
+213338	{"title": {"chinese": "在地最棒了！"}, "synonyms_chinese": []}
+213422	{"title": {"chinese": "戀愛（少女）的培育法"}, "synonyms_chinese": []}
+213796	{"title": {"chinese": "魔女與獵犬"}, "synonyms_chinese": []}
+213872	{"title": {"chinese": "孤單一人的異世界攻略 第二季"}, "synonyms_chinese": []}
+213860	{"title": {"chinese": "從 Lv2 開始開外掛的前勇者候補過著悠哉異世界生活 第二季"}, "synonyms_chinese": []}
+213952	{"title": {"chinese": "你願意發誓推我上 C 位嗎？"}, "synonyms_chinese": []}
+214368	{"title": {"chinese": "楠木同學的高中出道計畫瀕臨失敗"}, "synonyms_chinese": []}
+214483	{"title": {"chinese": "湧動千年家族"}, "synonyms_chinese": []}
+214650	{"title": {"chinese": "魔都精兵的奴隸 第三季"}, "synonyms_chinese": []}
+206798	{"title": {"chinese": "和我同居的劍聖女師父實在太可愛，每天都好幸福！"}, "synonyms_chinese": []}
+217136	{"title": {"chinese": "Grand Blue Season 4"}, "synonyms_chinese": ["碧藍之海 第四季"]}
+217317	{"title": {"chinese": "精靈老師的廁所在哪裡？"}, "synonyms_chinese": []}
+217333	{"title": {"chinese": "地獄模式 ～喜歡挑戰特殊成就的玩家在廢設定的異世界成為無雙～ 3rd Season"}, "synonyms_chinese": []}
+204738	{"title": {"chinese": "瑠璃龍龍"}, "synonyms_chinese": []}
+187265	{"title": {"chinese": "瑠璃龍龍 PV"}, "synonyms_chinese": []}
+204650	{"title": {"chinese": "桃源暗鬼 日光・華嚴之瀧篇"}, "synonyms_chinese": []}
+216644	{"title": {"chinese": "EAT-MAN The Over Order"}, "synonyms_chinese": ["螺絲俠 Eatman The Over Order"]}
 209872	{"title": {"chinese": "亂馬 ½ 第三季"}, "synonyms_chinese": []}
-204650	{"title": {"chinese": "桃源暗鬼 ～日光・華嚴之瀧篇～"}, "synonyms_chinese": []}
 209800	{"title": {"chinese": "鎧真傳 Samurai Troopers Part 2"}, "synonyms_chinese": []}
 211232	{"title": {"chinese": "魔女谷之夜"}, "synonyms_chinese": []}
+216826	{"title": {"chinese": "如果有紛爭就來找八田"}, "synonyms_chinese": []}
+216939	{"title": {"chinese": "降臨在學校的神明大人"}, "synonyms_chinese": []}
+217013	{"title": {"chinese": "黃泉使者 第二季"}, "synonyms_chinese": []}
+199342	{"title": {"chinese": "光逝去的夏天 第二季"}, "synonyms_chinese": []}
 198376	{"title": {"chinese": "BanG Dream! YUME∞MITA"}, "synonyms_chinese": ["BanG Dream! 夢想妄想世界"]}
 186542	{"title": {"chinese": "麵包超人電影版：小水滴的英雄！"}, "synonyms_chinese": []}
 213665	{"title": {"chinese": "拯救替身千金的是冷酷無情冰之王子的愛"}, "synonyms_chinese": []}
@@ -8559,5 +8767,5 @@ ALTER TABLE ONLY public.anilist_chinese
 -- PostgreSQL database dump complete
 --
 
-\unrestrict jt500EL4JKXJT1g76msR0M00UO7jAS8ISrMt5g1bUu2mz9SZf9dXbPbzS2wy86m
+\unrestrict 0Dzs7BYZ9YZa8moHVYDLRXmOvKJDlr6hrrMnfWj3i0aJAfmWUUPL6AHle6SEg75
 

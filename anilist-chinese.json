@@ -28091,6 +28091,11 @@
     ]
   },
   {
+    "id": 98476,
+    "title": "古書堂事件手帖",
+    "synonyms": []
+  },
+  {
     "id": 98477,
     "title": "實驗品家庭",
     "synonyms": []
@@ -28443,6 +28448,11 @@
   {
     "id": 98655,
     "title": "尋找身體",
+    "synonyms": []
+  },
+  {
+    "id": 98656,
+    "title": "YURI!!!on ICE 劇場版 ICE ADOLESCENCE",
     "synonyms": []
   },
   {
@@ -31824,6 +31834,11 @@
   {
     "id": 103809,
     "title": "刀劍亂舞 -花丸- ～幕間回憶錄～",
+    "synonyms": []
+  },
+  {
+    "id": 103813,
+    "title": "湯神君沒有朋友",
     "synonyms": []
   },
   {
@@ -36090,7 +36105,9 @@
   {
     "id": 120377,
     "title": "Cyberpunk Edgerunners",
-    "synonyms": []
+    "synonyms": [
+      "電馭叛客：邊緣行者"
+    ]
   },
   {
     "id": 120506,
@@ -36189,6 +36206,11 @@
   {
     "id": 121799,
     "title": "水豚君",
+    "synonyms": []
+  },
+  {
+    "id": 121802,
+    "title": "小狸貓和小狐狸",
     "synonyms": []
   },
   {
@@ -38459,6 +38481,11 @@
     "synonyms": []
   },
   {
+    "id": 137639,
+    "title": "瘋狂山脈 Naked Peak",
+    "synonyms": []
+  },
+  {
     "id": 137653,
     "title": "仙逆",
     "synonyms": []
@@ -38573,7 +38600,11 @@
   {
     "id": 138060,
     "title": "Star Wars: Visions",
-    "synonyms": []
+    "synonyms": [
+      "星際大戰：視界",
+      "星際大戰：幻象",
+      "星際大戰：幻境"
+    ]
   },
   {
     "id": 138063,
@@ -39245,6 +39276,11 @@
     ]
   },
   {
+    "id": 141922,
+    "title": "尚善",
+    "synonyms": []
+  },
+  {
     "id": 141949,
     "title": "夫婦以上，戀人未滿。",
     "synonyms": []
@@ -39908,6 +39944,11 @@
   {
     "id": 146543,
     "title": "大王饒命 第二季",
+    "synonyms": []
+  },
+  {
+    "id": 146608,
+    "title": "橡色的凪子們",
     "synonyms": []
   },
   {
@@ -41072,6 +41113,11 @@
     ]
   },
   {
+    "id": 155526,
+    "title": "軟軟噗尼寵物小精靈",
+    "synonyms": []
+  },
+  {
     "id": 155527,
     "title": "大小姐和看門犬",
     "synonyms": []
@@ -41238,6 +41284,13 @@
     "id": 156415,
     "title": "轉生為第七王子，隨心所欲的魔法學習之路",
     "synonyms": []
+  },
+  {
+    "id": 156631,
+    "title": "Sword Art Online -Integral Domain-",
+    "synonyms": [
+      "劇場版 刀劍神域 -Integral Domain-"
+    ]
   },
   {
     "id": 156632,
@@ -41971,6 +42024,11 @@
     ]
   },
   {
+    "id": 163072,
+    "title": "Special KID Factory",
+    "synonyms": []
+  },
+  {
     "id": 163076,
     "title": "反派千金等級 99～我是隱藏頭目但不是魔王～",
     "synonyms": []
@@ -42471,6 +42529,11 @@
     "synonyms": []
   },
   {
+    "id": 166457,
+    "title": "國王排名 劇場版",
+    "synonyms": []
+  },
+  {
     "id": 166459,
     "title": "妻に黙って即売会に行くんじゃなかった",
     "synonyms": []
@@ -42553,6 +42616,11 @@
   {
     "id": 166617,
     "title": "Fate/strange Fake",
+    "synonyms": []
+  },
+  {
+    "id": 166686,
+    "title": "重組世界 Rebuild World",
     "synonyms": []
   },
   {
@@ -42669,8 +42737,13 @@
     "synonyms": []
   },
   {
+    "id": 167151,
+    "title": "食鏽末世錄 第二季",
+    "synonyms": []
+  },
+  {
     "id": 167152,
-    "title": "判處勇者刑",
+    "title": "判處勇者刑 懲罰勇者 9004 隊刑務紀錄",
     "synonyms": []
   },
   {
@@ -42752,6 +42825,11 @@
   {
     "id": 168083,
     "title": "狐妖小紅娘 鏡花緣",
+    "synonyms": []
+  },
+  {
+    "id": 168134,
+    "title": "花仙子之魔法香對論",
     "synonyms": []
   },
   {
@@ -42890,6 +42968,11 @@
     "synonyms": []
   },
   {
+    "id": 169102,
+    "title": "BEAT & MOTION 搖滾動畫魂",
+    "synonyms": []
+  },
+  {
     "id": 169202,
     "title": "家庭教師X催眠2 The Animation",
     "synonyms": []
@@ -43001,6 +43084,11 @@
     "synonyms": [
       "奇異賢伴 黑色天使 Part 2"
     ]
+  },
+  {
+    "id": 169579,
+    "title": "世界頂尖的暗殺者轉生為異世界貴族 第二季",
+    "synonyms": []
   },
   {
     "id": 169580,
@@ -43195,6 +43283,11 @@
     "synonyms": []
   },
   {
+    "id": 170508,
+    "title": "貓貓的獨語",
+    "synonyms": []
+  },
+  {
     "id": 170514,
     "title": "シニシスタ",
     "synonyms": []
@@ -43242,6 +43335,11 @@
   {
     "id": 170732,
     "title": "在地下城尋求邂逅是否搞錯了什麼 V",
+    "synonyms": []
+  },
+  {
+    "id": 170822,
+    "title": "沒獲得救贖的村民 A，被貴族撿到並寵愛，事實上持有的傳說級神技能也覺醒了",
     "synonyms": []
   },
   {
@@ -43453,6 +43551,11 @@
     "synonyms": [
       "鏈鋸人 蕾潔篇"
     ]
+  },
+  {
+    "id": 171630,
+    "title": "THE ONE PIECE",
+    "synonyms": []
   },
   {
     "id": 171637,
@@ -43738,6 +43841,11 @@
   {
     "id": 174390,
     "title": "殿下與狗",
+    "synonyms": []
+  },
+  {
+    "id": 174427,
+    "title": "末世孤雄",
     "synonyms": []
   },
   {
@@ -44329,6 +44437,11 @@
     "synonyms": []
   },
   {
+    "id": 177704,
+    "title": "肌肉魔法使-MASHLE- 三魔對爭神覺者最終試驗篇",
+    "synonyms": []
+  },
+  {
     "id": 177707,
     "title": "リジネッタさんの冒険",
     "synonyms": []
@@ -44393,6 +44506,11 @@
   {
     "id": 178025,
     "title": "Gachiakuta",
+    "synonyms": []
+  },
+  {
+    "id": 178031,
+    "title": "迷宮飯 第二季",
     "synonyms": []
   },
   {
@@ -44591,6 +44709,11 @@
     "synonyms": []
   },
   {
+    "id": 179292,
+    "title": "軟軟噗尼寵物小精靈 2",
+    "synonyms": []
+  },
+  {
     "id": 179297,
     "title": "魔法製造者 ～異世界魔法的製作方法～",
     "synonyms": []
@@ -44773,6 +44896,11 @@
     "synonyms": []
   },
   {
+    "id": 179981,
+    "title": "治癒魔法的錯誤使用法 第二季",
+    "synonyms": []
+  },
+  {
     "id": 179991,
     "title": "Fate/Grand Order 搞不懂的藤丸立香 第二季",
     "synonyms": []
@@ -44780,6 +44908,11 @@
   {
     "id": 179992,
     "title": "機械女僕‧瑪麗",
+    "synonyms": []
+  },
+  {
+    "id": 179998,
+    "title": "怪獸 8 號 總集篇",
     "synonyms": []
   },
   {
@@ -44976,6 +45109,11 @@
     ]
   },
   {
+    "id": 181641,
+    "title": "不時輕聲地以俄語遮羞的鄰座艾莉同學 第二季",
+    "synonyms": []
+  },
+  {
     "id": 181776,
     "title": "Murder Mystery of the Dead",
     "synonyms": [
@@ -45008,6 +45146,11 @@
     "synonyms": []
   },
   {
+    "id": 181951,
+    "title": "狼與辛香料 merchant meets the wise wolf 第二季",
+    "synonyms": []
+  },
+  {
     "id": 181970,
     "title": "傷物語 曆吸血鬼",
     "synonyms": []
@@ -45034,7 +45177,7 @@
   },
   {
     "id": 182205,
-    "title": "關於我轉生變成史萊姆這檔事 第四季",
+    "title": "關於我轉生變成史萊姆這檔事 第四季 Part 1&2",
     "synonyms": []
   },
   {
@@ -45261,6 +45404,16 @@
     "synonyms": []
   },
   {
+    "id": 184072,
+    "title": "搖曳露營△ 第四季",
+    "synonyms": []
+  },
+  {
+    "id": 184141,
+    "title": "失憶投捕 第二季",
+    "synonyms": []
+  },
+  {
     "id": 184182,
     "title": "全力兔 第二季",
     "synonyms": []
@@ -45285,6 +45438,11 @@
   {
     "id": 184289,
     "title": "怪獸世界征服",
+    "synonyms": []
+  },
+  {
+    "id": 184321,
+    "title": "雨夜之月",
     "synonyms": []
   },
   {
@@ -45505,6 +45663,11 @@
     "synonyms": []
   },
   {
+    "id": 185515,
+    "title": "2.5 次元的誘惑 第二季",
+    "synonyms": []
+  },
+  {
     "id": 185519,
     "title": "明天，美食廣場見。",
     "synonyms": []
@@ -45522,6 +45685,11 @@
   {
     "id": 185542,
     "title": "骸骨騎士大人異世界冒險中 第二季",
+    "synonyms": []
+  },
+  {
+    "id": 185543,
+    "title": "非自願的不死冒險者 第二季",
     "synonyms": []
   },
   {
@@ -45560,6 +45728,11 @@
     "synonyms": []
   },
   {
+    "id": 185657,
+    "title": "躍動青春 第二季",
+    "synonyms": []
+  },
+  {
     "id": 185660,
     "title": "DAN DA DAN 第二季",
     "synonyms": []
@@ -45572,6 +45745,16 @@
   {
     "id": 185694,
     "title": "百姓貴族 第三季",
+    "synonyms": []
+  },
+  {
+    "id": 185697,
+    "title": "ARCANADEA 阿爾卡納蒂亞",
+    "synonyms": []
+  },
+  {
+    "id": 185699,
+    "title": "拉麵赤貓 第二季",
     "synonyms": []
   },
   {
@@ -45687,6 +45870,11 @@
     "synonyms": []
   },
   {
+    "id": 186007,
+    "title": "對馬戰鬼 冥人奇譚",
+    "synonyms": []
+  },
+  {
     "id": 186043,
     "title": "My Melody & Kuromi",
     "synonyms": []
@@ -45699,6 +45887,11 @@
   {
     "id": 186058,
     "title": "黒ギャルアラカルト",
+    "synonyms": []
+  },
+  {
+    "id": 186148,
+    "title": "貓貓的獨語 第二季",
     "synonyms": []
   },
   {
@@ -45809,6 +46002,11 @@
     ]
   },
   {
+    "id": 186741,
+    "title": "公主騎士的小白臉",
+    "synonyms": []
+  },
+  {
     "id": 186742,
     "title": "暗部共生少女",
     "synonyms": []
@@ -45826,6 +46024,11 @@
   {
     "id": 186794,
     "title": "身為暗殺者的我明顯比勇者還強",
+    "synonyms": []
+  },
+  {
+    "id": 186822,
+    "title": "我在意的對象並不是男人",
     "synonyms": []
   },
   {
@@ -45869,6 +46072,11 @@
     "synonyms": []
   },
   {
+    "id": 187217,
+    "title": "劇場版 請問您今天要來點兔子嗎？～We Are Family!～",
+    "synonyms": []
+  },
+  {
     "id": 187236,
     "title": "プリンセスコネクト！ 導きの初花　- Fiore Storia -",
     "synonyms": []
@@ -45879,13 +46087,28 @@
     "synonyms": []
   },
   {
+    "id": 187261,
+    "title": "排球少年！！怪物們的去向",
+    "synonyms": []
+  },
+  {
     "id": 187264,
     "title": "泛而不精的我被逐出了勇者隊伍",
     "synonyms": []
   },
   {
+    "id": 187265,
+    "title": "瑠璃龍龍 PV",
+    "synonyms": []
+  },
+  {
     "id": 187267,
     "title": "BEASTARS FINAL SEASON Part 2",
+    "synonyms": []
+  },
+  {
+    "id": 187303,
+    "title": "巨人大小姐",
     "synonyms": []
   },
   {
@@ -46001,6 +46224,11 @@
     "synonyms": []
   },
   {
+    "id": 187990,
+    "title": "Battle Spirits [Re] 絕界之空",
+    "synonyms": []
+  },
+  {
     "id": 187998,
     "title": "來玩吧魔法少女村",
     "synonyms": []
@@ -46056,6 +46284,16 @@
     "synonyms": []
   },
   {
+    "id": 188546,
+    "title": "正太哥哥",
+    "synonyms": []
+  },
+  {
+    "id": 188653,
+    "title": "軟軟噗尼寵物小精靈 3",
+    "synonyms": []
+  },
+  {
     "id": 188668,
     "title": "航海王談戀愛",
     "synonyms": []
@@ -46063,6 +46301,16 @@
   {
     "id": 188884,
     "title": "角落小夥伴 在這裡感覺很安心",
+    "synonyms": []
+  },
+  {
+    "id": 188889,
+    "title": "魔王軍團性懷不軌",
+    "synonyms": []
+  },
+  {
+    "id": 188892,
+    "title": "黑岩目高不把我的可愛放在眼裡 第二季",
     "synonyms": []
   },
   {
@@ -46118,6 +46366,11 @@
     ]
   },
   {
+    "id": 189323,
+    "title": "香格里拉・開拓異境～糞作獵手挑戰神作～ 第三季",
+    "synonyms": []
+  },
+  {
     "id": 189326,
     "title": "地縛少年花子君 第二季 Part 2",
     "synonyms": []
@@ -46140,6 +46393,11 @@
   {
     "id": 189716,
     "title": "ゆるかわメルちゃん",
+    "synonyms": []
+  },
+  {
+    "id": 189796,
+    "title": "敗北女角太多了！ 第二季",
     "synonyms": []
   },
   {
@@ -46213,6 +46471,11 @@
     "synonyms": []
   },
   {
+    "id": 191656,
+    "title": "學生會也有洞！",
+    "synonyms": []
+  },
+  {
     "id": 191689,
     "title": "うまゆる ぷりてぃ～ぐれい",
     "synonyms": []
@@ -46220,6 +46483,11 @@
   {
     "id": 191718,
     "title": "「憑妳也想討伐魔王？」被勇者小隊逐出隊伍，只好在王都自在過活",
+    "synonyms": []
+  },
+  {
+    "id": 191788,
+    "title": "青之蘆葦 第二季",
     "synonyms": []
   },
   {
@@ -46300,6 +46568,11 @@
     "synonyms": []
   },
   {
+    "id": 193296,
+    "title": "天下第一 日本最強武術家決定戰",
+    "synonyms": []
+  },
+  {
     "id": 193347,
     "title": "社畜シンデレラ",
     "synonyms": []
@@ -46322,6 +46595,11 @@
   {
     "id": 193623,
     "title": "遠井同學想擁有青春！『笨蛋與手機與羅曼史與』",
+    "synonyms": []
+  },
+  {
+    "id": 193699,
+    "title": "惡役令孃的中之人",
     "synonyms": []
   },
   {
@@ -46350,6 +46628,11 @@
     "synonyms": []
   },
   {
+    "id": 194030,
+    "title": "通過扭蛋增加同伴，組成最強的美少女軍團",
+    "synonyms": []
+  },
+  {
     "id": 194088,
     "title": "闇芝居 15",
     "synonyms": []
@@ -46367,6 +46650,11 @@
   {
     "id": 194207,
     "title": "麵包小偷",
+    "synonyms": []
+  },
+  {
+    "id": 194213,
+    "title": "ghost／夜晚的盡頭",
     "synonyms": []
   },
   {
@@ -46489,6 +46777,11 @@
     "synonyms": []
   },
   {
+    "id": 195350,
+    "title": "覺醒吧！貓奴",
+    "synonyms": []
+  },
+  {
     "id": 195360,
     "title": "ハニーブロンド2",
     "synonyms": []
@@ -46496,6 +46789,11 @@
   {
     "id": 195384,
     "title": "迷宮的栞",
+    "synonyms": []
+  },
+  {
+    "id": 195436,
+    "title": "給性別為「蒙娜麗莎」的你。",
     "synonyms": []
   },
   {
@@ -46509,13 +46807,25 @@
     "synonyms": []
   },
   {
+    "id": 195516,
+    "title": "藥師少女的獨語 第三季",
+    "synonyms": []
+  },
+  {
     "id": 195518,
     "title": "被鄰國王子溺愛的反派千金",
     "synonyms": []
   },
   {
+    "id": 195539,
+    "title": "Cyberpunk Edgerunners 2",
+    "synonyms": [
+      "電馭叛客：邊緣行者 2"
+    ]
+  },
+  {
     "id": 195571,
-    "title": "朱紅的假面",
+    "title": "朱色假面",
     "synonyms": []
   },
   {
@@ -46598,6 +46908,11 @@
     "synonyms": []
   },
   {
+    "id": 196333,
+    "title": "平屋慢生活",
+    "synonyms": []
+  },
+  {
     "id": 196356,
     "title": "不虐待我的繼母與繼姊",
     "synonyms": []
@@ -46650,6 +46965,11 @@
     "synonyms": []
   },
   {
+    "id": 197095,
+    "title": "殘月下的梅賽德斯",
+    "synonyms": []
+  },
+  {
     "id": 197097,
     "title": "綻放的巴黎之星",
     "synonyms": []
@@ -46667,6 +46987,11 @@
   {
     "id": 197543,
     "title": "BanG Dream! Ave Mujica prima aurora",
+    "synonyms": []
+  },
+  {
+    "id": 197619,
+    "title": "結界師的一輪華",
     "synonyms": []
   },
   {
@@ -46797,7 +47122,7 @@
   },
   {
     "id": 198654,
-    "title": "名偵探光之美少女 (電影)",
+    "title": "名偵探光之美少女！不思議之庭與兩人的秘密",
     "synonyms": []
   },
   {
@@ -46826,6 +47151,16 @@
     "synonyms": []
   },
   {
+    "id": 198727,
+    "title": "彈珠汽水瓶裡的千歲同學 Part 2",
+    "synonyms": []
+  },
+  {
+    "id": 198728,
+    "title": "風之繼承者",
+    "synonyms": []
+  },
+  {
     "id": 198749,
     "title": "一人之下 6",
     "synonyms": []
@@ -46841,13 +47176,18 @@
     "synonyms": []
   },
   {
+    "id": 198966,
+    "title": "DAN DA DAN 第三季",
+    "synonyms": []
+  },
+  {
     "id": 199005,
     "title": "住在神奈川的精靈",
     "synonyms": []
   },
   {
     "id": 199007,
-    "title": "殭屍搜尋中",
+    "title": "尋找殭屍中",
     "synonyms": []
   },
   {
@@ -46888,8 +47228,18 @@
     "synonyms": []
   },
   {
+    "id": 199185,
+    "title": "盾之勇者成名錄 第五季",
+    "synonyms": []
+  },
+  {
     "id": 199221,
     "title": "Dr.STONE SCIENCE FUTURE Part 3",
+    "synonyms": []
+  },
+  {
+    "id": 199337,
+    "title": "真･武士傳 YAIBA 第二季",
     "synonyms": []
   },
   {
@@ -46898,8 +47248,18 @@
     "synonyms": []
   },
   {
+    "id": 199342,
+    "title": "光逝去的夏天 第二季",
+    "synonyms": []
+  },
+  {
     "id": 199353,
     "title": "大王饒命 第三季",
+    "synonyms": []
+  },
+  {
+    "id": 199404,
+    "title": "藍色監獄 新英雄大戰",
     "synonyms": []
   },
   {
@@ -46928,8 +47288,18 @@
     "synonyms": []
   },
   {
+    "id": 199590,
+    "title": "茉莉花官吏傳",
+    "synonyms": []
+  },
+  {
     "id": 199594,
     "title": "鐵道行！meet with 鐵道娘",
+    "synonyms": []
+  },
+  {
+    "id": 199597,
+    "title": "幼稚園 WARS",
     "synonyms": []
   },
   {
@@ -46943,6 +47313,13 @@
     "synonyms": []
   },
   {
+    "id": 199793,
+    "title": "WITCH WATCH 第二季",
+    "synonyms": [
+      "魔女守護者 第二季"
+    ]
+  },
+  {
     "id": 200228,
     "title": "おしかけ！爆乳ギャルハーレム性活",
     "synonyms": []
@@ -46954,7 +47331,7 @@
   },
   {
     "id": 200294,
-    "title": "超巡！超條先輩",
+    "title": "超巡！超條前輩",
     "synonyms": []
   },
   {
@@ -46970,6 +47347,11 @@
     ]
   },
   {
+    "id": 200578,
+    "title": "一式警花動了戀心。",
+    "synonyms": []
+  },
+  {
     "id": 200637,
     "title": "超超超超超喜歡你的 100 個女朋友 第三季",
     "synonyms": []
@@ -46977,6 +47359,16 @@
   {
     "id": 200769,
     "title": "最強的職業不是勇者也不是賢者好像是鑑定士（暫）的樣子",
+    "synonyms": []
+  },
+  {
+    "id": 200927,
+    "title": "藥師少女的獨語 第三季 Part 2",
+    "synonyms": []
+  },
+  {
+    "id": 200929,
+    "title": "劇場版 藥師少女的獨語 亡妃的祕寶",
     "synonyms": []
   },
   {
@@ -46997,6 +47389,11 @@
   {
     "id": 201153,
     "title": "聖光閃姫ポニーセレス",
+    "synonyms": []
+  },
+  {
+    "id": 201388,
+    "title": "黑暗集會 第二季",
     "synonyms": []
   },
   {
@@ -47043,7 +47440,12 @@
   },
   {
     "id": 202250,
-    "title": "借出的魔力將以【固定限額還款】強制徵收",
+    "title": "用【循環利息】強制收回借出的魔力",
+    "synonyms": []
+  },
+  {
+    "id": 202253,
+    "title": "死亡擱淺：孤立無援",
     "synonyms": []
   },
   {
@@ -47072,6 +47474,11 @@
     "synonyms": []
   },
   {
+    "id": 202503,
+    "title": "轉生精靈精通魔法後踏上旅程，因為長壽而成為活生生的傳說",
+    "synonyms": []
+  },
+  {
     "id": 202508,
     "title": "神之雫",
     "synonyms": []
@@ -47079,6 +47486,11 @@
   {
     "id": 202523,
     "title": "茉莉花醬的好感度正在崩壞",
+    "synonyms": []
+  },
+  {
+    "id": 202564,
+    "title": "要畫就要來真的",
     "synonyms": []
   },
   {
@@ -47182,6 +47594,11 @@
     "synonyms": []
   },
   {
+    "id": 204286,
+    "title": "星辰光輝更勝太陽 第二季",
+    "synonyms": []
+  },
+  {
     "id": 204319,
     "title": "這樣高大的女孩子你喜歡嗎？",
     "synonyms": []
@@ -47194,6 +47611,18 @@
   {
     "id": 204361,
     "title": "新烏龍派出所",
+    "synonyms": []
+  },
+  {
+    "id": 204363,
+    "title": "SAKAMOTO DAYS 第二季",
+    "synonyms": [
+      "SAKAMOTO DAYS 坂本日常 第二季"
+    ]
+  },
+  {
+    "id": 204389,
+    "title": "野生的大魔王出現了！第二季",
     "synonyms": []
   },
   {
@@ -47222,6 +47651,16 @@
     "synonyms": []
   },
   {
+    "id": 204561,
+    "title": "甜甜仙子 夢想之所向 真心的二重奏",
+    "synonyms": []
+  },
+  {
+    "id": 204579,
+    "title": "你是地雷系女子嗎？地原同學",
+    "synonyms": []
+  },
+  {
     "id": 204584,
     "title": "Princess Principal: Crown Handler 第5章",
     "synonyms": []
@@ -47232,8 +47671,18 @@
     "synonyms": []
   },
   {
+    "id": 204604,
+    "title": "不死不運 第二季",
+    "synonyms": []
+  },
+  {
     "id": 204650,
-    "title": "桃源暗鬼 ～日光・華嚴之瀧篇～",
+    "title": "桃源暗鬼 日光・華嚴之瀧篇",
+    "synonyms": []
+  },
+  {
+    "id": 204738,
+    "title": "瑠璃龍龍",
     "synonyms": []
   },
   {
@@ -47242,11 +47691,31 @@
     "synonyms": []
   },
   {
+    "id": 205130,
+    "title": "歷史之眼",
+    "synonyms": []
+  },
+  {
+    "id": 205430,
+    "title": "被吊銷冒險者執照的大叔，與愛女一起歌頌悠閒人生",
+    "synonyms": []
+  },
+  {
+    "id": 205444,
+    "title": "魔女之旅 劇場版",
+    "synonyms": []
+  },
+  {
     "id": 205772,
     "title": "Candy Caries",
     "synonyms": [
       "蛀在糖糖裡"
     ]
+  },
+  {
+    "id": 205896,
+    "title": "和沒有信徒的女神大人一起攻略異世界",
+    "synonyms": []
   },
   {
     "id": 205909,
@@ -47319,6 +47788,11 @@
     "synonyms": []
   },
   {
+    "id": 206798,
+    "title": "和我同居的劍聖女師父實在太可愛，每天都好幸福！",
+    "synonyms": []
+  },
+  {
     "id": 206814,
     "title": "七龍珠超：比魯斯",
     "synonyms": []
@@ -47360,7 +47834,7 @@
   },
   {
     "id": 206949,
-    "title": "亂世千金倪亞．利斯頓 轉生為嬌弱千金的弒神武人華麗無雙錄",
+    "title": "亂世千金倪亞・利斯頓轉生為嬌弱千金的弒神武人華麗無雙錄",
     "synonyms": []
   },
   {
@@ -47379,8 +47853,18 @@
     "synonyms": []
   },
   {
+    "id": 207251,
+    "title": "入間同學入魔了！ if Episode of 魔手黨",
+    "synonyms": []
+  },
+  {
     "id": 207254,
     "title": "雷霆三人組",
+    "synonyms": []
+  },
+  {
+    "id": 207328,
+    "title": "悠久愚者．阿茲利的賢者之道",
     "synonyms": []
   },
   {
@@ -47401,6 +47885,16 @@
   {
     "id": 207675,
     "title": "百鬼夜行抄",
+    "synonyms": []
+  },
+  {
+    "id": 207692,
+    "title": "淚雨與小夜曲",
+    "synonyms": []
+  },
+  {
+    "id": 207782,
+    "title": "轉生為胖惡女後，不知為何被最終 BOSS 王子大人迷戀",
     "synonyms": []
   },
   {
@@ -47444,6 +47938,21 @@
     "synonyms": []
   },
   {
+    "id": 208367,
+    "title": "Duel Masters LOST ～斷罪的少年～",
+    "synonyms": []
+  },
+  {
+    "id": 208609,
+    "title": "骷髏龍的寶貝女兒",
+    "synonyms": []
+  },
+  {
+    "id": 208610,
+    "title": "菌和鐵",
+    "synonyms": []
+  },
+  {
     "id": 208685,
     "title": "關於相同研討會的染谷同學是性感女優這檔事。",
     "synonyms": []
@@ -47459,6 +47968,11 @@
     "synonyms": []
   },
   {
+    "id": 208766,
+    "title": "祝福 BLESS",
+    "synonyms": []
+  },
+  {
     "id": 208824,
     "title": "PLANNOSAURUS 認真古生物部",
     "synonyms": []
@@ -47469,13 +47983,53 @@
     "synonyms": []
   },
   {
+    "id": 209032,
+    "title": "魔法姊妹露露特莉莉 Part 2",
+    "synonyms": []
+  },
+  {
+    "id": 209116,
+    "title": "J⇔M 殺手幼女",
+    "synonyms": []
+  },
+  {
+    "id": 209132,
+    "title": "賭徒銀行",
+    "synonyms": []
+  },
+  {
     "id": 209219,
     "title": "轉生哥布林有什麼問題嗎？",
     "synonyms": []
   },
   {
+    "id": 209221,
+    "title": "異世界轉生騷動記",
+    "synonyms": []
+  },
+  {
+    "id": 209224,
+    "title": "遊戲世界轉生〈地職〉 ~玩家從〈New Game〉遊玩【地下城就職指南】~",
+    "synonyms": []
+  },
+  {
+    "id": 209247,
+    "title": "我內心的糟糕念頭 第三季",
+    "synonyms": []
+  },
+  {
+    "id": 209463,
+    "title": "來自遠方",
+    "synonyms": []
+  },
+  {
     "id": 209499,
     "title": "TANK CHAIR -戰車椅子-",
+    "synonyms": []
+  },
+  {
+    "id": 209502,
+    "title": "冷淡的佐藤同學只對我撒嬌",
     "synonyms": []
   },
   {
@@ -47489,6 +48043,16 @@
     "synonyms": []
   },
   {
+    "id": 209642,
+    "title": "劇場版前橋魔女～魔女見習生的情懷回憶～",
+    "synonyms": []
+  },
+  {
+    "id": 209661,
+    "title": "打雜賦予術師察覺到自己最強",
+    "synonyms": []
+  },
+  {
     "id": 209669,
     "title": "花樣少年少女 第2季",
     "synonyms": []
@@ -47499,8 +48063,18 @@
     "synonyms": []
   },
   {
+    "id": 209762,
+    "title": "午夜的傾心旋律 第二季",
+    "synonyms": []
+  },
+  {
     "id": 209800,
     "title": "鎧真傳 Samurai Troopers Part 2",
+    "synonyms": []
+  },
+  {
+    "id": 209827,
+    "title": "【我推的孩子】最四季 Final Season",
     "synonyms": []
   },
   {
@@ -47514,6 +48088,16 @@
     "synonyms": []
   },
   {
+    "id": 209876,
+    "title": "燃油車鬥魂 最終季",
+    "synonyms": []
+  },
+  {
+    "id": 209939,
+    "title": "葬送的芙莉蓮 第三季",
+    "synonyms": []
+  },
+  {
     "id": 209940,
     "title": "米神女孩",
     "synonyms": [
@@ -47523,6 +48107,11 @@
   {
     "id": 209961,
     "title": "靠死亡遊戲混飯吃。 44:CLOUDY BEACH",
+    "synonyms": []
+  },
+  {
+    "id": 209963,
+    "title": "判處勇者刑 懲罰勇者 9004 隊刑務紀錄 第二季",
     "synonyms": []
   },
   {
@@ -47551,8 +48140,18 @@
     "synonyms": []
   },
   {
+    "id": 210073,
+    "title": "黃金神威 暴走列車篇",
+    "synonyms": []
+  },
+  {
     "id": 210116,
     "title": "彼の知らない秘密を入れて。 The Animation",
+    "synonyms": []
+  },
+  {
+    "id": 210199,
+    "title": "殺手寓言 第二季",
     "synonyms": []
   },
   {
@@ -47566,8 +48165,38 @@
     "synonyms": []
   },
   {
+    "id": 210482,
+    "title": "JOJO的奇妙冒險：飆馬野郎 2nd＆3rd STAGE",
+    "synonyms": []
+  },
+  {
+    "id": 210687,
+    "title": "Re:從零開始的休憩時間 第四季",
+    "synonyms": []
+  },
+  {
+    "id": 210945,
+    "title": "魔女和傭兵",
+    "synonyms": []
+  },
+  {
+    "id": 211070,
+    "title": "筆、手銬和事實婚",
+    "synonyms": []
+  },
+  {
     "id": 211232,
     "title": "魔女谷之夜",
+    "synonyms": []
+  },
+  {
+    "id": 211258,
+    "title": "賢者大叔的異世界生活日記",
+    "synonyms": []
+  },
+  {
+    "id": 211304,
+    "title": "眼鏡仔、偶爾、是不良",
     "synonyms": []
   },
   {
@@ -47581,6 +48210,21 @@
     "synonyms": []
   },
   {
+    "id": 211495,
+    "title": "暴食狂戰士 第二季",
+    "synonyms": []
+  },
+  {
+    "id": 211496,
+    "title": "神樂鉢",
+    "synonyms": []
+  },
+  {
+    "id": 211538,
+    "title": "偕雲前往北北西",
+    "synonyms": []
+  },
+  {
     "id": 211557,
     "title": "フラチ",
     "synonyms": []
@@ -47591,8 +48235,53 @@
     "synonyms": []
   },
   {
+    "id": 211778,
+    "title": "世界最強的魔女，就此開始",
+    "synonyms": []
+  },
+  {
+    "id": 211877,
+    "title": "女友的朋友",
+    "synonyms": []
+  },
+  {
+    "id": 212105,
+    "title": "海波追尋的終幕",
+    "synonyms": []
+  },
+  {
+    "id": 212144,
+    "title": "獻上聖女最誠摯的復仇 第二季",
+    "synonyms": []
+  },
+  {
     "id": 212272,
     "title": "デコ×デコ THE ANIMATION",
+    "synonyms": []
+  },
+  {
+    "id": 212391,
+    "title": "GIGANT",
+    "synonyms": []
+  },
+  {
+    "id": 212456,
+    "title": "你要不要改當狸貓？",
+    "synonyms": []
+  },
+  {
+    "id": 212503,
+    "title": "冰劍的魔術師將要統一世界 II",
+    "synonyms": []
+  },
+  {
+    "id": 212507,
+    "title": "月華國奇醫傳",
+    "synonyms": []
+  },
+  {
+    "id": 212539,
+    "title": "章魚嗶的原罪 －謝謝你，明天見－",
     "synonyms": []
   },
   {
@@ -47616,8 +48305,143 @@
     "synonyms": []
   },
   {
+    "id": 212799,
+    "title": "七葉樹王國的七名騎士",
+    "synonyms": []
+  },
+  {
+    "id": 212888,
+    "title": "裝備仔",
+    "synonyms": []
+  },
+  {
     "id": 212994,
     "title": "名偵探柯南 滿分的真相",
+    "synonyms": []
+  },
+  {
+    "id": 213020,
+    "title": "重兵裝型女高中生",
+    "synonyms": []
+  },
+  {
+    "id": 213052,
+    "title": "愛情接合器",
+    "synonyms": []
+  },
+  {
+    "id": 213068,
+    "title": "獸王武神丹帝拜恩",
+    "synonyms": []
+  },
+  {
+    "id": 213106,
+    "title": "最強魔法師的隱遁計畫",
+    "synonyms": []
+  },
+  {
+    "id": 213131,
+    "title": "戀愛吧，假面天使！",
+    "synonyms": []
+  },
+  {
+    "id": 213298,
+    "title": "悠哉悠哉圖鑑",
+    "synonyms": []
+  },
+  {
+    "id": 213316,
+    "title": "冒牌鍊金術師",
+    "synonyms": []
+  },
+  {
+    "id": 213338,
+    "title": "在地最棒了！",
+    "synonyms": []
+  },
+  {
+    "id": 213360,
+    "title": "朱音落語 第二季",
+    "synonyms": []
+  },
+  {
+    "id": 213363,
+    "title": "容易對付的惡魔大人 第二季",
+    "synonyms": []
+  },
+  {
+    "id": 213422,
+    "title": "戀愛（少女）的培育法",
+    "synonyms": []
+  },
+  {
+    "id": 213457,
+    "title": "愚者之夜",
+    "synonyms": []
+  },
+  {
+    "id": 213465,
+    "title": "最弱的我靠〈穿牆 Bug〉翻身～穿過牆壁之後，首次通關獎勵就能無限拿！～",
+    "synonyms": []
+  },
+  {
+    "id": 213469,
+    "title": "RE:BEL ROBOTICA",
+    "synonyms": []
+  },
+  {
+    "id": 213477,
+    "title": "歡迎來到實力至上主義的教室 第五季",
+    "synonyms": []
+  },
+  {
+    "id": 213497,
+    "title": "啟程的魔王城",
+    "synonyms": []
+  },
+  {
+    "id": 213498,
+    "title": "用鍋子擋子彈的同時",
+    "synonyms": []
+  },
+  {
+    "id": 213579,
+    "title": "凍結地球 第二季",
+    "synonyms": []
+  },
+  {
+    "id": 213580,
+    "title": "終末的女武神 IV",
+    "synonyms": []
+  },
+  {
+    "id": 213581,
+    "title": "出租女友 第六季",
+    "synonyms": []
+  },
+  {
+    "id": 213628,
+    "title": "殺手青春 第二季",
+    "synonyms": []
+  },
+  {
+    "id": 213655,
+    "title": "LONA",
+    "synonyms": []
+  },
+  {
+    "id": 213656,
+    "title": "杖與劍的魔劍譚 第三季",
+    "synonyms": []
+  },
+  {
+    "id": 213657,
+    "title": "夜櫻家大作戰 第二季 Part 2",
+    "synonyms": []
+  },
+  {
+    "id": 213658,
+    "title": "鑽石王牌 Act II 第二季 Part 2",
     "synonyms": []
   },
   {
@@ -47636,13 +48460,239 @@
     "synonyms": []
   },
   {
+    "id": 213740,
+    "title": "戰奏教室",
+    "synonyms": []
+  },
+  {
     "id": 213750,
     "title": "香蕉喵 Bananya At-Home Party",
     "synonyms": []
   },
   {
+    "id": 213752,
+    "title": "婚姻劇毒 第二季",
+    "synonyms": []
+  },
+  {
+    "id": 213782,
+    "title": "索亞菈與魔物之家",
+    "synonyms": []
+  },
+  {
+    "id": 213796,
+    "title": "魔女與獵犬",
+    "synonyms": []
+  },
+  {
+    "id": 213805,
+    "title": "冰之城牆 第二季",
+    "synonyms": []
+  },
+  {
+    "id": 213847,
+    "title": "第九位絕地",
+    "synonyms": []
+  },
+  {
+    "id": 213860,
+    "title": "從 Lv2 開始開外掛的前勇者候補過著悠哉異世界生活 第二季",
+    "synonyms": []
+  },
+  {
+    "id": 213872,
+    "title": "孤單一人的異世界攻略 第二季",
+    "synonyms": []
+  },
+  {
+    "id": 213873,
+    "title": "我的女兒們身為 S 級冒險者卻是重度父控",
+    "synonyms": []
+  },
+  {
+    "id": 213877,
+    "title": "蝙蝠殺手",
+    "synonyms": []
+  },
+  {
+    "id": 213929,
+    "title": "愛寐七公主",
+    "synonyms": []
+  },
+  {
+    "id": 213952,
+    "title": "你願意發誓推我上 C 位嗎？",
+    "synonyms": []
+  },
+  {
+    "id": 214044,
+    "title": "與望愛前輩當朋友",
+    "synonyms": []
+  },
+  {
+    "id": 214049,
+    "title": "傷口與繃帶",
+    "synonyms": []
+  },
+  {
+    "id": 214215,
+    "title": "事實有時是謊言",
+    "synonyms": []
+  },
+  {
+    "id": 214332,
+    "title": "Studio Cabana 思密錄音室",
+    "synonyms": []
+  },
+  {
+    "id": 214368,
+    "title": "楠木同學的高中出道計畫瀕臨失敗",
+    "synonyms": []
+  },
+  {
+    "id": 214380,
+    "title": "機動戰士鋼彈 RG XARX-ZERO",
+    "synonyms": []
+  },
+  {
     "id": 214426,
     "title": "甲鐵城的卡巴內里 無名爛漫",
+    "synonyms": []
+  },
+  {
+    "id": 214461,
+    "title": "我這個真正的聖女遭到放逐。所以這個國家要完蛋了",
+    "synonyms": []
+  },
+  {
+    "id": 214483,
+    "title": "湧動千年家族",
+    "synonyms": []
+  },
+  {
+    "id": 214484,
+    "title": "千戀＊萬花",
+    "synonyms": []
+  },
+  {
+    "id": 214650,
+    "title": "魔都精兵的奴隸 第三季",
+    "synonyms": []
+  },
+  {
+    "id": 214703,
+    "title": "幽靈遇到辣妹",
+    "synonyms": []
+  },
+  {
+    "id": 214749,
+    "title": "最喜歡大食！望月小姐",
+    "synonyms": []
+  },
+  {
+    "id": 214969,
+    "title": "小紅帽，在旅途中遇見屍體",
+    "synonyms": []
+  },
+  {
+    "id": 215855,
+    "title": "ONE PIECE FILM: GOD VALLEY",
+    "synonyms": [
+      "航海王劇場版：諸神峽谷"
+    ]
+  },
+  {
+    "id": 215856,
+    "title": "ONE PIECE FILM: BAAD",
+    "synonyms": []
+  },
+  {
+    "id": 216170,
+    "title": "8月31日的無盡夏天",
+    "synonyms": []
+  },
+  {
+    "id": 216557,
+    "title": "KERORO 軍曹☆",
+    "synonyms": []
+  },
+  {
+    "id": 216558,
+    "title": "出門走走 Hololive",
+    "synonyms": []
+  },
+  {
+    "id": 216623,
+    "title": "電影哆啦A夢：大雄的蒸氣時間車",
+    "synonyms": []
+  },
+  {
+    "id": 216624,
+    "title": "SSS 級死而復生的獵人",
+    "synonyms": []
+  },
+  {
+    "id": 216644,
+    "title": "EAT-MAN The Over Order",
+    "synonyms": [
+      "螺絲俠 Eatman The Over Order"
+    ]
+  },
+  {
+    "id": 216645,
+    "title": "意呆利 World Stars (2026)",
+    "synonyms": []
+  },
+  {
+    "id": 216826,
+    "title": "如果有紛爭就來找八田",
+    "synonyms": []
+  },
+  {
+    "id": 216860,
+    "title": "軟軟噗尼寵物小精靈 4",
+    "synonyms": []
+  },
+  {
+    "id": 216939,
+    "title": "降臨在學校的神明大人",
+    "synonyms": []
+  },
+  {
+    "id": 217013,
+    "title": "黃泉使者 第二季",
+    "synonyms": []
+  },
+  {
+    "id": 217126,
+    "title": "名偵探柯南 第 30 號殺人事件",
+    "synonyms": []
+  },
+  {
+    "id": 217136,
+    "title": "Grand Blue Season 4",
+    "synonyms": [
+      "碧藍之海 第四季"
+    ]
+  },
+  {
+    "id": 217317,
+    "title": "精靈老師的廁所在哪裡？",
+    "synonyms": []
+  },
+  {
+    "id": 217330,
+    "title": "關於我轉生變成史萊姆這檔事 克雷曼重生復仇",
+    "synonyms": []
+  },
+  {
+    "id": 217331,
+    "title": "關於我轉生變成史萊姆這檔事 第四季 Part 3",
+    "synonyms": []
+  },
+  {
+    "id": 217333,
+    "title": "地獄模式 ～喜歡挑戰特殊成就的玩家在廢設定的異世界成為無雙～ 3rd Season",
     "synonyms": []
   }
 ]
