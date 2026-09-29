@@ -2,7 +2,7 @@
 -- PostgreSQL database dump
 --
 
-\restrict 0Dzs7BYZ9YZa8moHVYDLRXmOvKJDlr6hrrMnfWj3i0aJAfmWUUPL6AHle6SEg75
+\restrict 5kzzJRz177XbueUrNsbZw8G5soHuumeGwzbYqfvfre84CsJjJwBANaHM5FCDGKq
 
 -- Dumped from database version 18.6 (Debian 18.6-1.pgdg13+2)
 -- Dumped by pg_dump version 18.6 (Debian 18.6-1.pgdg13+2)
@@ -774,6 +774,7 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 1727	{"title": {"chinese": "神曲奏界"}, "synonyms_chinese": []}
 1728	{"title": {"chinese": "辣妹掌門人"}, "synonyms_chinese": ["辣妹當家", "超gals 壽蘭"]}
 1729	{"title": {"chinese": "瑪莉亞的凝望 第3季"}, "synonyms_chinese": ["聖母在上 第3季", "聖母瑪莉亞注視着 第3季"]}
+155348	{"title": {"chinese": "ROAD OF NARUTO"}, "synonyms_chinese": []}
 1734	{"title": {"chinese": "海岸物語"}, "synonyms_chinese": []}
 1735	{"title": {"chinese": "火影忍者疾風傳"}, "synonyms_chinese": []}
 1738	{"title": {"chinese": "無敵看板娘"}, "synonyms_chinese": []}
@@ -8767,5 +8768,5 @@ ALTER TABLE ONLY public.anilist_chinese
 -- PostgreSQL database dump complete
 --
 
-\unrestrict 0Dzs7BYZ9YZa8moHVYDLRXmOvKJDlr6hrrMnfWj3i0aJAfmWUUPL6AHle6SEg75
+\unrestrict 5kzzJRz177XbueUrNsbZw8G5soHuumeGwzbYqfvfre84CsJjJwBANaHM5FCDGKq
 

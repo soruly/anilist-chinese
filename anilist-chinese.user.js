@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      3.2026.9.28
+// @version      3.2026.9.29
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -7251,6 +7251,7 @@ var database = [
 {id:155202,title:"REVENGER"},
 {id:155211,title:"在地下城尋求邂逅是否搞錯了什麼 IV"},
 {id:155227,title:"Kingdom 5"},
+{id:155348,title:"ROAD OF NARUTO"},
 {id:155389,title:"SHY"},
 {id:155418,title:"聖者無雙～上班族的異世界生存之道～"},
 {id:155419,title:"星靈感應"},
