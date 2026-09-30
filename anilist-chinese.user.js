@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      3.2026.9.29
+// @version      3.2026.9.30
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -239,6 +239,7 @@ var database = [
 {id:320,title:"ア カイト"},
 {id:322,title:"天堂之吻"},
 {id:323,title:"妄想代理人"},
+{id:324,title:"機動警察 Patlabor ON TELEVISION"},
 {id:325,title:"蜜桃女孩"},
 {id:328,title:"Piano"},
 {id:329,title:"星空清理者"},
@@ -621,6 +622,8 @@ var database = [
 {id:1080,title:"戰鬥妖精雪風"},
 {id:1082,title:"光與水的女神"},
 {id:1094,title:"海賊王 特別篇：海肚臍大冒險"},
+{id:1095,title:"機動警察 Patlabor 劇場版"},
+{id:1096,title:"機動警察 Patlabor 劇場版 2"},
 {id:1101,title:"天地無用！盛夏的聖誕夜"},
 {id:1102,title:"Urda The Third Reich"},
 {id:1103,title:"神魂合體"},
@@ -700,6 +703,9 @@ var database = [
 {id:1274,title:"淫獣学園 EX"},
 {id:1275,title:"きゃんきゃんバニーエクストラ"},
 {id:1281,title:"學校怪談"},
+{id:1288,title:"機動警察 Patlabor"},
+{id:1289,title:"機動警察 Patlabor NEW OVA"},
+{id:1290,title:"WXIII 機動警察 Patlabor"},
 {id:1292,title:"爆炸頭武士"},
 {id:1293,title:"福星小子"},
 {id:1313,title:"數碼暴龍大冒險02"},
@@ -6064,7 +6070,7 @@ var database = [
 {id:113470,title:"Show By Rock!! Mashumairesh!!"},
 {id:113476,title:"Show By Rock!! Stars!!"},
 {id:113538,title:"排球少年 TO THE TOP 2"},
-{id:113555,title:"機動警察 EZY"},
+{id:113555,title:"機動警察 Patlabor EZY File 1"},
 {id:113570,title:"社長，戰鬥的時間到了！"},
 {id:113585,title:"Skate-Leading☆Stars"},
 {id:113595,title:"planetarian ～雪圏球～"},
@@ -8649,6 +8655,8 @@ var database = [
 {id:212574,title:"ピュアホリック ～純潔乙女と婚姻カンケイ！？～ The Animation"},
 {id:212575,title:"サレ妻は奪われたい"},
 {id:212617,title:"田舎にはこれくらいしか娯楽がない"},
+{id:212652,title:"機動警察 Patlabor EZY File 2"},
+{id:212653,title:"機動警察 Patlabor EZY File 3"},
 {id:212667,title:"人付き合いが苦手な未亡人の雪女さんと呪いの指輪"},
 {id:212799,title:"七葉樹王國的七名騎士"},
 {id:212888,title:"裝備仔"},

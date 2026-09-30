@@ -2,7 +2,7 @@
 -- PostgreSQL database dump
 --
 
-\restrict 5kzzJRz177XbueUrNsbZw8G5soHuumeGwzbYqfvfre84CsJjJwBANaHM5FCDGKq
+\restrict q3ULqLoTs4ApHPaa9mIWtpSngcrz1dKLOzhyZYy42ZWPyERdbCxktm9tuM1wL25
 
 -- Dumped from database version 18.6 (Debian 18.6-1.pgdg13+2)
 -- Dumped by pg_dump version 18.6 (Debian 18.6-1.pgdg13+2)
@@ -2319,6 +2319,7 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 10324	{"title": {"chinese": "和殿下一起 眼罩之野心"}, "synonyms_chinese": ["與殿下一起 眼帶的野望"]}
 10325	{"title": {"chinese": "吸尻鬼"}, "synonyms_chinese": []}
 10327	{"title": {"chinese": "コスプレ露出研究会"}, "synonyms_chinese": []}
+1288	{"title": {"chinese": "機動警察 Patlabor"}, "synonyms_chinese": []}
 10336	{"title": {"chinese": "最後流放-銀翼的飛夢-"}, "synonyms_chinese": ["最後流亡-銀翼的飛夢-", "最後流亡-銀翼少女法姆-", "最終流放-銀翼之法姆-"]}
 10338	{"title": {"chinese": "真的有呀！靈媒先生"}, "synonyms_chinese": []}
 10346	{"title": {"chinese": "拳王創世紀 世界大會篇"}, "synonyms_chinese": ["熱拳本色 世界大會篇", "鈴聲響起 世界大會篇", "龍鳳拳王 世界大會篇"]}
@@ -2988,6 +2989,7 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 18523	{"title": {"chinese": "戰勇。2"}, "synonyms_chinese": []}
 18525	{"title": {"chinese": "RIN×SEN＋Ran→Sem Cross Mix 春うらら、裏切りと絶望の季節編"}, "synonyms_chinese": []}
 260	{"title": {"chinese": "HAPPY☆LESSON"}, "synonyms_chinese": ["歡樂課程"]}
+1095	{"title": {"chinese": "機動警察 Patlabor 劇場版"}, "synonyms_chinese": []}
 18531	{"title": {"chinese": "一起一起這裏那裏 SP"}, "synonyms_chinese": []}
 18549	{"title": {"chinese": "戰國BASARA SP"}, "synonyms_chinese": []}
 18597	{"title": {"chinese": "彼女×彼女×彼女 完全版"}, "synonyms_chinese": []}
@@ -4586,6 +4588,7 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 99557	{"title": {"chinese": "Thunderbolt Fantasy 東離劍遊紀 2"}, "synonyms_chinese": []}
 99568	{"title": {"chinese": "梵諦岡奇蹟調查官 OVA"}, "synonyms_chinese": []}
 99569	{"title": {"chinese": "櫻花忍法帖"}, "synonyms_chinese": []}
+1290	{"title": {"chinese": "WXIII 機動警察 Patlabor"}, "synonyms_chinese": []}
 99578	{"title": {"chinese": "阿宅的戀愛太難"}, "synonyms_chinese": ["宅男腐女戀愛真難"]}
 99586	{"title": {"chinese": "遙的接球"}, "synonyms_chinese": ["遙之彼方的接發球"]}
 99614	{"title": {"chinese": "魔法少女奈葉 Detonation"}, "synonyms_chinese": []}
@@ -4856,6 +4859,7 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 101361	{"title": {"chinese": "天狼 Sirius the Jaeger"}, "synonyms_chinese": []}
 101367	{"title": {"chinese": "魔術士歐菲 流浪之旅"}, "synonyms_chinese": ["魔法少年"]}
 101368	{"title": {"chinese": "Planet With"}, "synonyms_chinese": ["行星與共"]}
+212653	{"title": {"chinese": "機動警察 Patlabor EZY File 3"}, "synonyms_chinese": []}
 101369	{"title": {"chinese": "劇場版PEACE MAKER 鐵 後篇 友命"}, "synonyms_chinese": []}
 101370	{"title": {"chinese": "薄墨櫻 -GARO-"}, "synonyms_chinese": []}
 101371	{"title": {"chinese": "隔壁的吸血鬼美眉"}, "synonyms_chinese": []}
@@ -4960,6 +4964,7 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 102562	{"title": {"chinese": "畫江湖之不良人 第二季"}, "synonyms_chinese": []}
 102573	{"title": {"chinese": "傳頌之物 圖斯庫爾皇女的華麗日常"}, "synonyms_chinese": ["受讚頌者 圖斯庫爾皇女的華麗日常"]}
 102604	{"title": {"chinese": "KIRA KIRA HAPPY★ 打開吧！見習神仙精靈"}, "synonyms_chinese": []}
+1096	{"title": {"chinese": "機動警察 Patlabor 劇場版 2"}, "synonyms_chinese": []}
 102649	{"title": {"chinese": "PSYCHO-PASS Sinners of the System Case 1 - 罪與罰"}, "synonyms_chinese": ["心靈判官 Sinners of the System Case 1 - 罪與罰"]}
 102680	{"title": {"chinese": "天使降臨到我身邊！"}, "synonyms_chinese": ["天使降臨到了我身邊！"]}
 102775	{"title": {"chinese": "納米核心"}, "synonyms_chinese": []}
@@ -5390,6 +5395,7 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 110733	{"title": {"chinese": "Zombie Land Saga Revenge"}, "synonyms_chinese": ["殭屍樂園薩加 捲土重來", "佐賀偶像是傳奇 捲土重來"]}
 110736	{"title": {"chinese": "苗床デモンズグラウンド～奈落の孕姫～"}, "synonyms_chinese": []}
 110738	{"title": {"chinese": "絲襪視界 SP"}, "synonyms_chinese": []}
+212652	{"title": {"chinese": "機動警察 Patlabor EZY File 2"}, "synonyms_chinese": []}
 110789	{"title": {"chinese": "Null Peta"}, "synonyms_chinese": []}
 110810	{"title": {"chinese": "神田川JET GIRLS"}, "synonyms_chinese": []}
 110811	{"title": {"chinese": "浦島坂田船的日常"}, "synonyms_chinese": []}
@@ -6883,6 +6889,7 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 175450	{"title": {"chinese": "我的妻子不具感情"}, "synonyms_chinese": []}
 175499	{"title": {"chinese": "巨乳女士官・洗脳催眠"}, "synonyms_chinese": []}
 175533	{"title": {"chinese": "THE iDOLM@STER SHINY COLORS 2nd season"}, "synonyms_chinese": ["偶像大師 閃耀色彩 第二季"]}
+324	{"title": {"chinese": "機動警察 Patlabor ON TELEVISION"}, "synonyms_chinese": []}
 175642	{"title": {"chinese": "SAND LAND: THE SERIES"}, "synonyms_chinese": ["沙漠大冒險"]}
 175868	{"title": {"chinese": "天穗之咲稻姬"}, "synonyms_chinese": []}
 175977	{"title": {"chinese": "鹿乃子乃子乃子虎視眈眈"}, "synonyms_chinese": []}
@@ -7612,6 +7619,7 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 180929	{"title": {"chinese": "琉璃的寶石"}, "synonyms_chinese": []}
 156395	{"title": {"chinese": "為丑女獻上花束"}, "synonyms_chinese": []}
 175914	{"title": {"chinese": "徹夜之歌 Season 2"}, "synonyms_chinese": []}
+1289	{"title": {"chinese": "機動警察 Patlabor NEW OVA"}, "synonyms_chinese": []}
 179344	{"title": {"chinese": "出租女友 第四季"}, "synonyms_chinese": []}
 154745	{"title": {"chinese": "出租女友 第三季"}, "synonyms_chinese": []}
 184575	{"title": {"chinese": "醜男真戰士"}, "synonyms_chinese": []}
@@ -8508,7 +8516,6 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 187402	{"title": {"chinese": "轉生後的大聖女，極力隱瞞聖女的身分"}, "synonyms_chinese": []}
 178707	{"title": {"chinese": "劇場版 魔法科高中的劣等生 四葉繼承篇"}, "synonyms_chinese": []}
 194167	{"title": {"chinese": "LoveLive！蓮之空女學院校園偶像俱樂部"}, "synonyms_chinese": []}
-113555	{"title": {"chinese": "機動警察 EZY"}, "synonyms_chinese": []}
 151117	{"title": {"chinese": "劇場版 物怪 唐傘"}, "synonyms_chinese": []}
 141878	{"title": {"chinese": "萌妻食神之歡喜追婚"}, "synonyms_chinese": []}
 204349	{"title": {"chinese": "百姓貴族 第三季 OVA"}, "synonyms_chinese": []}
@@ -8531,6 +8538,7 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 206003	{"title": {"chinese": "痴魅悶凌"}, "synonyms_chinese": []}
 206840	{"title": {"chinese": "とどの妻り"}, "synonyms_chinese": []}
 208314	{"title": {"chinese": "巨乳が2人いないと勃起しない夫のために友達を連れてきた妻"}, "synonyms_chinese": []}
+113555	{"title": {"chinese": "機動警察 Patlabor EZY File 1"}, "synonyms_chinese": []}
 200230	{"title": {"chinese": "Let's Go 怪奇組"}, "synonyms_chinese": []}
 201667	{"title": {"chinese": "文豪Stray Dogs Wan! 第二季"}, "synonyms_chinese": []}
 188525	{"title": {"chinese": "畫完這個再去死"}, "synonyms_chinese": []}
@@ -8768,5 +8776,5 @@ ALTER TABLE ONLY public.anilist_chinese
 -- PostgreSQL database dump complete
 --
 
-\unrestrict 5kzzJRz177XbueUrNsbZw8G5soHuumeGwzbYqfvfre84CsJjJwBANaHM5FCDGKq
+\unrestrict q3ULqLoTs4ApHPaa9mIWtpSngcrz1dKLOzhyZYy42ZWPyERdbCxktm9tuM1wL25
 
