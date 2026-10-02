@@ -2,7 +2,7 @@
 -- PostgreSQL database dump
 --
 
-\restrict vq4RlyRsxPMKfSzqVU42ArBB036fJK1jgj58MzWGL6XqdvofdeLzAEW0LyuxrIj
+\restrict V1J4hypuiYct4O3saebE8CLxsLdqRBSDIHBxuGvpEPkVzSmfCVyt9RdiQn72ZbB
 
 -- Dumped from database version 18.6 (Debian 18.6-1.pgdg13+2)
 -- Dumped by pg_dump version 18.6 (Debian 18.6-1.pgdg13+2)
@@ -7735,6 +7735,7 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 194447	{"title": {"chinese": "異世界四重奏 3"}, "synonyms_chinese": []}
 186161	{"title": {"chinese": "跨越種族與你相戀"}, "synonyms_chinese": []}
 140337	{"title": {"chinese": "佐賀偶像是傳奇 夢銀河是天堂"}, "synonyms_chinese": []}
+2733	{"title": {"chinese": "ミニパト"}, "synonyms_chinese": []}
 188522	{"title": {"chinese": "角落小夥伴電影版：空中的王國與兩位小夥伴"}, "synonyms_chinese": []}
 185773	{"title": {"chinese": "Scarlet 永無止境的史嘉蕾"}, "synonyms_chinese": []}
 177686	{"title": {"chinese": "鳳仙花"}, "synonyms_chinese": []}
@@ -8776,5 +8777,5 @@ ALTER TABLE ONLY public.anilist_chinese
 -- PostgreSQL database dump complete
 --
 
-\unrestrict vq4RlyRsxPMKfSzqVU42ArBB036fJK1jgj58MzWGL6XqdvofdeLzAEW0LyuxrIj
+\unrestrict V1J4hypuiYct4O3saebE8CLxsLdqRBSDIHBxuGvpEPkVzSmfCVyt9RdiQn72ZbB
 

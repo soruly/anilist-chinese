@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      3.2026.9.30
+// @version      3.2026.10.2
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -1230,6 +1230,7 @@ var database = [
 {id:2721,title:"霊能探偵ミコ"},
 {id:2725,title:"天地無用！番外篇 宇宙刑事美星 銀河大冒險"},
 {id:2730,title:"1+2=Paradise"},
+{id:2733,title:"ミニパト"},
 {id:2737,title:"黄龍の耳黃龍之耳"},
 {id:2744,title:"Potemayo"},
 {id:2745,title:"地獄老師 THE OVA"},
