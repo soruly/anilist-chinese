@@ -2,7 +2,7 @@
 -- PostgreSQL database dump
 --
 
-\restrict V1J4hypuiYct4O3saebE8CLxsLdqRBSDIHBxuGvpEPkVzSmfCVyt9RdiQn72ZbB
+\restrict IrKetIsM0i641L5JxqRovSngWdGFIzAEHth5VyB9p96e2nwqZE0jLJXP9i7VatL
 
 -- Dumped from database version 18.6 (Debian 18.6-1.pgdg13+2)
 -- Dumped by pg_dump version 18.6 (Debian 18.6-1.pgdg13+2)
@@ -7811,6 +7811,7 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 182771	{"title": {"chinese": "優雅貴族的休假指南。"}, "synonyms_chinese": []}
 166613	{"title": {"chinese": "地獄樂 第二季"}, "synonyms_chinese": []}
 192261	{"title": {"chinese": "29 歲單身中堅冒險家的日常"}, "synonyms_chinese": []}
+212144	{"title": {"chinese": "獻上聖女最誠摯的復仇 第二季"}, "synonyms_chinese": ["黑化吧！聖女大人 第二季"]}
 183270	{"title": {"chinese": "厄里斯的聖杯"}, "synonyms_chinese": []}
 185039	{"title": {"chinese": "透明男子與人類女孩"}, "synonyms_chinese": []}
 185514	{"title": {"chinese": "蘑菇魔女"}, "synonyms_chinese": []}
@@ -7827,7 +7828,6 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 210687	{"title": {"chinese": "Re:從零開始的休憩時間 第四季"}, "synonyms_chinese": []}
 209502	{"title": {"chinese": "冷淡的佐藤同學只對我撒嬌"}, "synonyms_chinese": []}
 213658	{"title": {"chinese": "鑽石王牌 Act II 第二季 Part 2"}, "synonyms_chinese": []}
-212144	{"title": {"chinese": "獻上聖女最誠摯的復仇 第二季"}, "synonyms_chinese": []}
 216645	{"title": {"chinese": "意呆利 World Stars (2026)"}, "synonyms_chinese": []}
 98574	{"title": {"chinese": "一人之下 2"}, "synonyms_chinese": []}
 172463	{"title": {"chinese": "咒術迴戰 死滅洄游 前篇"}, "synonyms_chinese": []}
@@ -8777,5 +8777,5 @@ ALTER TABLE ONLY public.anilist_chinese
 -- PostgreSQL database dump complete
 --
 
-\unrestrict V1J4hypuiYct4O3saebE8CLxsLdqRBSDIHBxuGvpEPkVzSmfCVyt9RdiQn72ZbB
+\unrestrict IrKetIsM0i641L5JxqRovSngWdGFIzAEHth5VyB9p96e2nwqZE0jLJXP9i7VatL
 
