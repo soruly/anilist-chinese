@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      3.2026.10.2
+// @version      3.2026.10.5
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -8492,6 +8492,7 @@ var database = [
 {id:202381,title:"你又被殺了呢，偵探大人"},
 {id:202390,title:"少女與戰車 最終章 第5話"},
 {id:202419,title:"你還不懂群馬～令和版～ "},
+{id:202429,title:"我們是外星人"},
 {id:202503,title:"轉生精靈精通魔法後踏上旅程，因為長壽而成為活生生的傳說"},
 {id:202508,title:"神之雫"},
 {id:202523,title:"茉莉花醬的好感度正在崩壞"},
@@ -8554,6 +8555,7 @@ var database = [
 {id:206609,title:"劇場編集版 Summer Pockets 紬文德斯篇"},
 {id:206610,title:"劇場編集版 Summer Pockets 空門蒼篇"},
 {id:206611,title:"劇場編集版 Summer Pockets 鳴瀨白羽篇"},
+{id:206774,title:"因為可以用滑鼠遊標操作現實，所以我要拼命點擊女孩子"},
 {id:206798,title:"和我同居的劍聖女師父實在太可愛，每天都好幸福！"},
 {id:206814,title:"七龍珠超：比魯斯"},
 {id:206819,title:"你與煙火與約定"},
@@ -8569,6 +8571,7 @@ var database = [
 {id:207191,title:"你好，身為魔女的我，被心上人委託製作迷情藥"},
 {id:207251,title:"入間同學入魔了！ if Episode of 魔手黨"},
 {id:207254,title:"雷霆三人組"},
+{id:207327,title:"致遙不可及彼方的你"},
 {id:207328,title:"悠久愚者．阿茲利的賢者之道"},
 {id:207329,title:"被放逐的作弊賦予魔術師享受隨心所欲的第二人生。～不只是武器、我還能賦予萬物「強化點數」，且能照我的意思隨時解除，其他的人沒問題嗎？～"},
 {id:207534,title:"盗妖行"},
@@ -8717,6 +8720,7 @@ var database = [
 {id:214703,title:"幽靈遇到辣妹"},
 {id:214749,title:"最喜歡大食！望月小姐"},
 {id:214969,title:"小紅帽，在旅途中遇見屍體"},
+{id:215835,title:"搖曳馬娘 Full Gate!"},
 {id:215855,title:"ONE PIECE FILM: GOD VALLEY"},
 {id:215856,title:"ONE PIECE FILM: BAAD"},
 {id:216170,title:"8月31日的無盡夏天"},
@@ -8728,6 +8732,7 @@ var database = [
 {id:216645,title:"意呆利 World Stars (2026)"},
 {id:216826,title:"如果有紛爭就來找八田"},
 {id:216860,title:"軟軟噗尼寵物小精靈 4"},
+{id:216895,title:"藍色傳承 Welsh & Shedar"},
 {id:216939,title:"降臨在學校的神明大人"},
 {id:217013,title:"黃泉使者 第二季"},
 {id:217126,title:"名偵探柯南 第 30 號殺人事件"},

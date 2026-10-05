@@ -2,7 +2,7 @@
 -- PostgreSQL database dump
 --
 
-\restrict QLKCHftBcAkKnQYQCCfNyKVIru7DiQuMpxhTHbHj9V7qo2mGl8cMblZS1yCls8q
+\restrict b0skvevoWD4JsLCtgTOodFhkWyJha7Mbdeevp5jDTkacGhW4Qb9S7BwgQahziLK
 
 -- Dumped from database version 18.6 (Debian 18.6-1.pgdg13+2)
 -- Dumped by pg_dump version 18.6 (Debian 18.6-1.pgdg13+2)
@@ -7805,6 +7805,7 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 189259	{"title": {"chinese": "有栖川煉其實是個女生吧。"}, "synonyms_chinese": []}
 194028	{"title": {"chinese": "可以幫忙洗乾淨嗎？"}, "synonyms_chinese": []}
 183984	{"title": {"chinese": "阿爾涅事件簿"}, "synonyms_chinese": []}
+206774	{"title": {"chinese": "因為可以用滑鼠遊標操作現實，所以我要拼命點擊女孩子"}, "synonyms_chinese": []}
 210482	{"title": {"chinese": "JOJO的奇妙冒險：飆馬野郎 2nd＆3rd STAGE"}, "synonyms_chinese": []}
 194318	{"title": {"chinese": "鎧真傳 Samurai Troopers"}, "synonyms_chinese": []}
 195515	{"title": {"chinese": "身為魔族的我 想向勇者小隊的可愛女孩告白"}, "synonyms_chinese": []}
@@ -7946,6 +7947,7 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 205896	{"title": {"chinese": "和沒有信徒的女神大人一起攻略異世界"}, "synonyms_chinese": []}
 209463	{"title": {"chinese": "來自遠方"}, "synonyms_chinese": []}
 212799	{"title": {"chinese": "七葉樹王國的七名騎士"}, "synonyms_chinese": []}
+216895	{"title": {"chinese": "藍色傳承 Welsh & Shedar"}, "synonyms_chinese": []}
 209032	{"title": {"chinese": "魔法姊妹露露特莉莉 Part 2"}, "synonyms_chinese": []}
 137726	{"title": {"chinese": "全職法師 第六季"}, "synonyms_chinese": []}
 213068	{"title": {"chinese": "獸王武神丹帝拜恩"}, "synonyms_chinese": []}
@@ -7956,6 +7958,9 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 216557	{"title": {"chinese": "KERORO 軍曹☆"}, "synonyms_chinese": []}
 212888	{"title": {"chinese": "裝備仔"}, "synonyms_chinese": []}
 115800	{"title": {"chinese": "全職法師 第四季"}, "synonyms_chinese": []}
+215835	{"title": {"chinese": "搖曳馬娘 Full Gate!"}, "synonyms_chinese": []}
+207327	{"title": {"chinese": "致遙不可及彼方的你"}, "synonyms_chinese": []}
+202429	{"title": {"chinese": "我們是外星人"}, "synonyms_chinese": []}
 199353	{"title": {"chinese": "大王饒命 第三季"}, "synonyms_chinese": []}
 166442	{"title": {"chinese": "超能立方"}, "synonyms_chinese": []}
 127595	{"title": {"chinese": "伍六七之玄武國篇"}, "synonyms_chinese": []}
@@ -8777,5 +8782,5 @@ ALTER TABLE ONLY public.anilist_chinese
 -- PostgreSQL database dump complete
 --
 
-\unrestrict QLKCHftBcAkKnQYQCCfNyKVIru7DiQuMpxhTHbHj9V7qo2mGl8cMblZS1yCls8q
+\unrestrict b0skvevoWD4JsLCtgTOodFhkWyJha7Mbdeevp5jDTkacGhW4Qb9S7BwgQahziLK
 
