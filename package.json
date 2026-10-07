@@ -24,9 +24,9 @@
     "test": "oxfmt --check && oxlint"
   },
   "devDependencies": {
-    "@types/node": "^26.6.2",
-    "oxfmt": "^0.68.0",
-    "oxlint": "^1.83.0",
+    "@types/node": "^26.6.4",
+    "oxfmt": "^0.72.0",
+    "oxlint": "^1.87.0",
     "postgres": "^3.4.9"
   },
   "engines": {
