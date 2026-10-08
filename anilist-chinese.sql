@@ -2,7 +2,7 @@
 -- PostgreSQL database dump
 --
 
-\restrict bqtPN9ZltqhQedpy8yW14wbPaCeCgm3AAlwrGtHhkfaV9gHnLCbSasv0KUTQSeL
+\restrict 0QY2riMGTc32dTPeUHj3XZ09ojdRBUPmGJcbtkL6QaleOoqcWJllim1jeBZCpZ3
 
 -- Dumped from database version 18.6 (Debian 18.6-1.pgdg13+2)
 -- Dumped by pg_dump version 18.6 (Debian 18.6-1.pgdg13+2)
@@ -8782,5 +8782,5 @@ ALTER TABLE ONLY public.anilist_chinese
 -- PostgreSQL database dump complete
 --
 
-\unrestrict bqtPN9ZltqhQedpy8yW14wbPaCeCgm3AAlwrGtHhkfaV9gHnLCbSasv0KUTQSeL
+\unrestrict 0QY2riMGTc32dTPeUHj3XZ09ojdRBUPmGJcbtkL6QaleOoqcWJllim1jeBZCpZ3
 
