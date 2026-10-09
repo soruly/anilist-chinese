@@ -2,7 +2,7 @@
 -- PostgreSQL database dump
 --
 
-\restrict 0QY2riMGTc32dTPeUHj3XZ09ojdRBUPmGJcbtkL6QaleOoqcWJllim1jeBZCpZ3
+\restrict cFuhIK8NnA0NivSbdeJtBQFP9x5vwQ2oXGlAYzzudecny5opwOCKnduuVb3O8az
 
 -- Dumped from database version 18.6 (Debian 18.6-1.pgdg13+2)
 -- Dumped by pg_dump version 18.6 (Debian 18.6-1.pgdg13+2)
@@ -8739,6 +8739,7 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 217333	{"title": {"chinese": "地獄模式 ～喜歡挑戰特殊成就的玩家在廢設定的異世界成為無雙～ 3rd Season"}, "synonyms_chinese": []}
 204738	{"title": {"chinese": "瑠璃龍龍"}, "synonyms_chinese": []}
 187265	{"title": {"chinese": "瑠璃龍龍 PV"}, "synonyms_chinese": []}
+199594	{"title": {"chinese": "鐵道行！meet with 鐵道娘"}, "synonyms_chinese": ["鐵旅！meet with 鐵道少女"]}
 204650	{"title": {"chinese": "桃源暗鬼 日光・華嚴之瀧篇"}, "synonyms_chinese": []}
 216644	{"title": {"chinese": "EAT-MAN The Over Order"}, "synonyms_chinese": ["螺絲俠 Eatman The Over Order"]}
 209872	{"title": {"chinese": "亂馬 ½ 第三季"}, "synonyms_chinese": []}
@@ -8758,7 +8759,6 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 169581	{"title": {"chinese": "魔法★探險家"}, "synonyms_chinese": []}
 185756	{"title": {"chinese": "轉生貴族憑鑑定技能扭轉人生 第三季"}, "synonyms_chinese": []}
 199068	{"title": {"chinese": "新網球王子 U-17 WORLD CUP 世界盃決賽成員決定戰"}, "synonyms_chinese": []}
-199594	{"title": {"chinese": "鐵道行！meet with 鐵道娘"}, "synonyms_chinese": []}
 206814	{"title": {"chinese": "七龍珠超：比魯斯"}, "synonyms_chinese": []}
 209499	{"title": {"chinese": "TANK CHAIR -戰車椅子-"}, "synonyms_chinese": []}
 209709	{"title": {"chinese": "海豹小白"}, "synonyms_chinese": []}
@@ -8782,5 +8782,5 @@ ALTER TABLE ONLY public.anilist_chinese
 -- PostgreSQL database dump complete
 --
 
-\unrestrict 0QY2riMGTc32dTPeUHj3XZ09ojdRBUPmGJcbtkL6QaleOoqcWJllim1jeBZCpZ3
+\unrestrict cFuhIK8NnA0NivSbdeJtBQFP9x5vwQ2oXGlAYzzudecny5opwOCKnduuVb3O8az
 
