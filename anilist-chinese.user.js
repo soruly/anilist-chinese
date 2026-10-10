@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      3.2026.10.5
+// @version      3.2026.10.10
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -5453,7 +5453,7 @@ var database = [
 {id:102598,title:"狐妖小紅娘 下沙"},
 {id:102599,title:"狐妖小紅娘 王權"},
 {id:102600,title:"狐妖小紅娘 月紅"},
-{id:102601,title:"狐妖小紅娘 北山妖卜月中月"},
+{id:102601,title:"狐妖小紅娘 北山妖帝"},
 {id:102602,title:"狐妖小紅娘 千顏"},
 {id:102603,title:"狐妖小紅娘 南國"},
 {id:102604,title:"KIRA KIRA HAPPY★ 打開吧！見習神仙精靈"},

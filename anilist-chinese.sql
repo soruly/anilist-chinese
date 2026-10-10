@@ -2,7 +2,7 @@
 -- PostgreSQL database dump
 --
 
-\restrict cFuhIK8NnA0NivSbdeJtBQFP9x5vwQ2oXGlAYzzudecny5opwOCKnduuVb3O8az
+\restrict QsvrMF9672UwjQXlT07QdRco2j7KPvxxLFwA4PUt3CCBb4HCVSVzbcjUEsfDrA3
 
 -- Dumped from database version 18.6 (Debian 18.6-1.pgdg13+2)
 -- Dumped by pg_dump version 18.6 (Debian 18.6-1.pgdg13+2)
@@ -7967,7 +7967,6 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 122671	{"title": {"chinese": "全職法師 第五季"}, "synonyms_chinese": []}
 176859	{"title": {"chinese": "霧山五行 封界大戰"}, "synonyms_chinese": []}
 107913	{"title": {"chinese": "刺客伍六七 番外篇"}, "synonyms_chinese": []}
-102601	{"title": {"chinese": "狐妖小紅娘 北山妖卜月中月"}, "synonyms_chinese": []}
 120343	{"title": {"chinese": "魔道祖師 Q"}, "synonyms_chinese": []}
 175645	{"title": {"chinese": "通靈妃 第二季"}, "synonyms_chinese": []}
 102599	{"title": {"chinese": "狐妖小紅娘 王權"}, "synonyms_chinese": []}
@@ -8023,6 +8022,7 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 141802	{"title": {"chinese": "斗羅大陸 小舞復活"}, "synonyms_chinese": []}
 103543	{"title": {"chinese": "斗羅大陸 精英賽"}, "synonyms_chinese": []}
 165679	{"title": {"chinese": "斗羅大陸 萬象更新"}, "synonyms_chinese": []}
+102601	{"title": {"chinese": "狐妖小紅娘 北山妖帝"}, "synonyms_chinese": []}
 152211	{"title": {"chinese": "斗羅大陸 阿銀復活"}, "synonyms_chinese": []}
 153424	{"title": {"chinese": "斗羅大陸 敵影來襲"}, "synonyms_chinese": []}
 157127	{"title": {"chinese": "斗羅大陸 戰鼓暫歇"}, "synonyms_chinese": []}
@@ -8782,5 +8782,5 @@ ALTER TABLE ONLY public.anilist_chinese
 -- PostgreSQL database dump complete
 --
 
-\unrestrict cFuhIK8NnA0NivSbdeJtBQFP9x5vwQ2oXGlAYzzudecny5opwOCKnduuVb3O8az
+\unrestrict QsvrMF9672UwjQXlT07QdRco2j7KPvxxLFwA4PUt3CCBb4HCVSVzbcjUEsfDrA3
 
