@@ -2,7 +2,7 @@
 -- PostgreSQL database dump
 --
 
-\restrict inyBWCU7hrS466ryB63x8W4BlbEPXQZPALEkGdp6cCTGZR78IkWWb9ZNIfd7Gki
+\restrict RboeXhcy9bRwHwKXP2jdVFSOupHjidtJ5GErqzu4XLyG9Xyfe0kIYLOdVKJ04jC
 
 -- Dumped from database version 18.6 (Debian 18.6-1.pgdg13+2)
 -- Dumped by pg_dump version 18.6 (Debian 18.6-1.pgdg13+2)
@@ -7967,6 +7967,7 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 122671	{"title": {"chinese": "全職法師 第五季"}, "synonyms_chinese": []}
 176859	{"title": {"chinese": "霧山五行 封界大戰"}, "synonyms_chinese": []}
 107913	{"title": {"chinese": "刺客伍六七 番外篇"}, "synonyms_chinese": []}
+213066	{"title": {"chinese": "村又さんの愛情"}, "synonyms_chinese": []}
 120343	{"title": {"chinese": "魔道祖師 Q"}, "synonyms_chinese": []}
 175645	{"title": {"chinese": "通靈妃 第二季"}, "synonyms_chinese": []}
 102599	{"title": {"chinese": "狐妖小紅娘 王權"}, "synonyms_chinese": []}
@@ -8033,6 +8034,7 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 213298	{"title": {"chinese": "悠哉悠哉圖鑑"}, "synonyms_chinese": []}
 121802	{"title": {"chinese": "小狸貓和小狐狸"}, "synonyms_chinese": []}
 129350	{"title": {"chinese": "斗羅大陸 星斗獻祭"}, "synonyms_chinese": []}
+213067	{"title": {"chinese": "寝取られた爆乳妻たち2"}, "synonyms_chinese": []}
 179292	{"title": {"chinese": "軟軟噗尼寵物小精靈 2"}, "synonyms_chinese": []}
 216860	{"title": {"chinese": "軟軟噗尼寵物小精靈 4"}, "synonyms_chinese": []}
 199337	{"title": {"chinese": "真･武士傳 YAIBA 第二季"}, "synonyms_chinese": []}
@@ -8108,6 +8110,7 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 521	{"title": {"chinese": "真珠美人魚"}, "synonyms_chinese": ["人魚的旋律", "唱K小魚仙", "美人魚PichiPichiPitch"]}
 184762	{"title": {"chinese": "夏目友人帳 漆 特別篇"}, "synonyms_chinese": []}
 18849	{"title": {"chinese": "夏目友人帳 特別篇"}, "synonyms_chinese": ["妖怪連絡簿 特別篇"]}
+213732	{"title": {"chinese": "無自覚な幼馴染と興味本位でヤってみたら THE ANIMATION"}, "synonyms_chinese": []}
 5551	{"title": {"chinese": "素人倶楽部/ハメ撮りアニメ完全無修正!!"}, "synonyms_chinese": []}
 527	{"title": {"chinese": "寵物小精靈"}, "synonyms_chinese": []}
 5256	{"title": {"chinese": "寵物小精靈 不可思議的迷宮 時間探險隊・黑暗探險隊"}, "synonyms_chinese": []}
@@ -8168,6 +8171,7 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 138	{"title": {"chinese": "HUNTER×HUNTER: Greed Island"}, "synonyms_chinese": []}
 516	{"title": {"chinese": "Keroro軍曹"}, "synonyms_chinese": []}
 2402	{"title": {"chinese": "鐵拳浪子"}, "synonyms_chinese": []}
+213686	{"title": {"chinese": "NTR騎士"}, "synonyms_chinese": []}
 188653	{"title": {"chinese": "軟軟噗尼寵物小精靈 3"}, "synonyms_chinese": []}
 189323	{"title": {"chinese": "香格里拉・開拓異境～糞作獵手挑戰神作～ 第三季"}, "synonyms_chinese": []}
 2920	{"title": {"chinese": "鐵拳浪子 (電影)"}, "synonyms_chinese": []}
@@ -8782,5 +8786,5 @@ ALTER TABLE ONLY public.anilist_chinese
 -- PostgreSQL database dump complete
 --
 
-\unrestrict inyBWCU7hrS466ryB63x8W4BlbEPXQZPALEkGdp6cCTGZR78IkWWb9ZNIfd7Gki
+\unrestrict RboeXhcy9bRwHwKXP2jdVFSOupHjidtJ5GErqzu4XLyG9Xyfe0kIYLOdVKJ04jC
 

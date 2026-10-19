@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      3.2026.10.10
+// @version      3.2026.10.19
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -8667,6 +8667,8 @@ var database = [
 {id:212994,title:"名偵探柯南 滿分的真相"},
 {id:213020,title:"重兵裝型女高中生"},
 {id:213052,title:"愛情接合器"},
+{id:213066,title:"村又さんの愛情"},
+{id:213067,title:"寝取られた爆乳妻たち2"},
 {id:213068,title:"獸王武神丹帝拜恩"},
 {id:213106,title:"最強魔法師的隱遁計畫"},
 {id:213131,title:"戀愛吧，假面天使！"},
@@ -8692,6 +8694,8 @@ var database = [
 {id:213658,title:"鑽石王牌 Act II 第二季 Part 2"},
 {id:213665,title:"拯救替身千金的是冷酷無情冰之王子的愛"},
 {id:213666,title:"澈底對你成癮"},
+{id:213686,title:"NTR騎士"},
+{id:213732,title:"無自覚な幼馴染と興味本位でヤってみたら THE ANIMATION"},
 {id:213733,title:"彼女催眠"},
 {id:213740,title:"戰奏教室"},
 {id:213750,title:"香蕉喵 Bananya At-Home Party"},
