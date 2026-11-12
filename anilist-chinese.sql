@@ -2,7 +2,7 @@
 -- PostgreSQL database dump
 --
 
-\restrict DLFv8wytGjMm20KliRe6Yxjaulxta7oncQfd0S0upPvyImDWLPQ9lQV0I5N3xiW
+\restrict zgoMMMc4GhH3eh4de1evt7VDjhiV62ju1DB5qf8yacYhfqLVlkwcdTIaHn6oMH0
 
 -- Dumped from database version 18.6 (Debian 18.6-1.pgdg13+2)
 -- Dumped by pg_dump version 18.6 (Debian 18.6-1.pgdg13+2)
@@ -7739,7 +7739,6 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 188522	{"title": {"chinese": "角落小夥伴電影版：空中的王國與兩位小夥伴"}, "synonyms_chinese": []}
 185773	{"title": {"chinese": "Scarlet 永無止境的史嘉蕾"}, "synonyms_chinese": []}
 177686	{"title": {"chinese": "鳳仙花"}, "synonyms_chinese": []}
-193294	{"title": {"chinese": "執迷男"}, "synonyms_chinese": []}
 192452	{"title": {"chinese": "好色の忠義くノ一ぼたん"}, "synonyms_chinese": []}
 193707	{"title": {"chinese": "無人駅 The Animation "}, "synonyms_chinese": []}
 195068	{"title": {"chinese": "ピュアピュア ぺろぺろ プリンセス"}, "synonyms_chinese": []}
@@ -8189,6 +8188,7 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 129608	{"title": {"chinese": "The Big O (2003)"}, "synonyms_chinese": []}
 687	{"title": {"chinese": "東京喵喵"}, "synonyms_chinese": []}
 136	{"title": {"chinese": "HUNTER×HUNTER"}, "synonyms_chinese": ["全職獵人"]}
+193294	{"title": {"chinese": "執迷男"}, "synonyms_chinese": ["偏要喜歡你"]}
 139	{"title": {"chinese": "HUNTER×HUNTER: G・I Final"}, "synonyms_chinese": []}
 953	{"title": {"chinese": "獸王星"}, "synonyms_chinese": []}
 1212	{"title": {"chinese": "Oban Star-Racers"}, "synonyms_chinese": []}
@@ -8786,5 +8786,5 @@ ALTER TABLE ONLY public.anilist_chinese
 -- PostgreSQL database dump complete
 --
 
-\unrestrict DLFv8wytGjMm20KliRe6Yxjaulxta7oncQfd0S0upPvyImDWLPQ9lQV0I5N3xiW
+\unrestrict zgoMMMc4GhH3eh4de1evt7VDjhiV62ju1DB5qf8yacYhfqLVlkwcdTIaHn6oMH0
 
