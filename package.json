@@ -25,11 +25,14 @@
   },
   "devDependencies": {
     "@types/node": "^26.6.6",
-    "oxfmt": "^0.77.0",
-    "oxlint": "^1.92.0",
+    "oxfmt": "^0.78.0",
+    "oxlint": "^1.93.0",
     "postgres": "^3.4.9"
   },
   "engines": {
     "node": ">=24"
+  },
+  "dependencies": {
+    "postgre": "^0.1.8"
   }
 }
