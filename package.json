@@ -27,7 +27,7 @@
     "@types/node": "^26.6.6",
     "oxfmt": "^0.78.0",
     "oxlint": "^1.93.0",
-    "postgres": "^3.4.9"
+    "postgres": "^4.1.1"
   },
   "engines": {
     "node": ">=24"
