@@ -23,6 +23,9 @@
     "lint:fix": "oxlint --fix",
     "test": "oxfmt --check && oxlint"
   },
+  "dependencies": {
+    "postgre": "^0.1.8"
+  },
   "devDependencies": {
     "@types/node": "^26.6.6",
     "oxfmt": "^0.78.0",
@@ -31,8 +34,5 @@
   },
   "engines": {
     "node": ">=24"
-  },
-  "dependencies": {
-    "postgre": "^0.1.8"
   }
 }
