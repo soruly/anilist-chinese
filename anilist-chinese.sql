@@ -2,7 +2,7 @@
 -- PostgreSQL database dump
 --
 
-\restrict w8YgFgI7eOHAJHlIKQeK398SRIGiN0EnsQbUnYjwFJv024qhuQ60gkxdBwByWHC
+\restrict GVtzQqnBGmdRPdLFR6ONnb1BPaSkdbki8UVsiJ2usIdlCb0fpvBsMpFLj5dCKbv
 
 -- Dumped from database version 18.7 (Debian 18.7-1.pgdg13+2)
 -- Dumped by pg_dump version 18.7 (Debian 18.7-1.pgdg13+2)
@@ -8236,6 +8236,7 @@ COPY public.anilist_chinese (id, "json") FROM stdin;
 183414	{"title": {"chinese": "電影Idol光之美少女你與我久等了！為你送上閃耀的現場演唱會！"}, "synonyms_chinese": []}
 3389	{"title": {"chinese": "BUS GAMER"}, "synonyms_chinese": []}
 191403	{"title": {"chinese": "偶像學園×星光樂園 THE MOVIE -相遇的奇蹟！-"}, "synonyms_chinese": []}
+214443	{"title": {"chinese": "ヒトリ妻"}, "synonyms_chinese": []}
 185084	{"title": {"chinese": "魯邦三世 不死身的血族"}, "synonyms_chinese": []}
 191884	{"title": {"chinese": "LUPIN THE IIIRD 錢形與兩個雷朋"}, "synonyms_chinese": []}
 110413	{"title": {"chinese": "Lupin III: THE FIRST"}, "synonyms_chinese": []}
@@ -8786,5 +8787,5 @@ ALTER TABLE ONLY public.anilist_chinese
 -- PostgreSQL database dump complete
 --
 
-\unrestrict w8YgFgI7eOHAJHlIKQeK398SRIGiN0EnsQbUnYjwFJv024qhuQ60gkxdBwByWHC
+\unrestrict GVtzQqnBGmdRPdLFR6ONnb1BPaSkdbki8UVsiJ2usIdlCb0fpvBsMpFLj5dCKbv
 

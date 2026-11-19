@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Chinese
 // @namespace    https://github.com/soruly/anilist-chinese
-// @version      3.2026.10.19
+// @version      3.2026.11.19
 // @description  Translate anilist titles to Chinese
 // @author       soruly
 // @grant        none
@@ -8717,6 +8717,7 @@ var database = [
 {id:214368,title:"楠木同學的高中出道計畫瀕臨失敗"},
 {id:214380,title:"機動戰士鋼彈 RG XARX-ZERO"},
 {id:214426,title:"甲鐵城的卡巴內里 無名爛漫"},
+{id:214443,title:"ヒトリ妻"},
 {id:214461,title:"我這個真正的聖女遭到放逐。所以這個國家要完蛋了"},
 {id:214483,title:"湧動千年家族"},
 {id:214484,title:"千戀＊萬花"},
